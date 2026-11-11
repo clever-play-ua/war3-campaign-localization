@@ -1,0 +1,137 @@
+{
+  "id": "CSW-ToD",
+  "short": "ToD",
+  "name": "Tides of Darkness",
+  "version": "2.01",
+  "source_w3n": "C:/Users/UserM/Desktop/CSW_Tides_Of_Darkness_2_01.w3n",
+  "output_dir": "C:/Users/UserM/Documents/Warcraft III/Campaigns",
+  "campaign_wts": "war3campaign.wts",
+  "campaign_task": "GLOBAL",
+  "title_block": "1",
+  "description_block": "5",
+  "legacy_prefix": "ToD_",
+  "legacy_file": "ToD_{task}_EN.json",
+  "legacy_lang_glob": "ToD_{task}_{lang}.json",
+  "tasks": [
+    {
+      "id": "A01_CNMC1",
+      "map": "WC2OrcAct1.w3x",
+      "name": "Act I - intro cinematic"
+    },
+    {
+      "id": "A01_M01",
+      "map": "WC2Orc01.w3x",
+      "name": "Chapter 1 - Zul'dare"
+    },
+    {
+      "id": "A01_M02",
+      "map": "WC2Orc02.w3x",
+      "name": "Chapter 2 - Raid at Durnholde"
+    },
+    {
+      "id": "A01_M03",
+      "map": "WC2Orc03.w3x",
+      "name": "Chapter 3 - Southshore"
+    },
+    {
+      "id": "A01_M04",
+      "map": "WC2Orc04.w3x",
+      "name": "Chapter 4 - Assault on Hillsbrad"
+    },
+    {
+      "id": "A02_CNMC2",
+      "map": "WC2OrcAct2.w3x",
+      "name": "Act II - intro cinematic"
+    },
+    {
+      "id": "A02_M05",
+      "map": "WC2Orc05.w3x",
+      "name": "Chapter 5 - Tol Barad"
+    },
+    {
+      "id": "A02_M06",
+      "map": "WC2Orc06.w3x",
+      "name": "Chapter 6 - Wetlands"
+    },
+    {
+      "id": "A02_M06S",
+      "map": "WC2Orc06S.w3x",
+      "name": "The Lost Chapter - Dragonqueen"
+    },
+    {
+      "id": "A02_M07",
+      "map": "WC2Orc07.w3x",
+      "name": "Chapter 7 - The Fall of Stromgarde"
+    },
+    {
+      "id": "A03_CNMC3",
+      "map": "WC2OrcAct3.w3x",
+      "name": "Act III - intro cinematic"
+    },
+    {
+      "id": "A03_M08",
+      "map": "WC2Orc08.w3x",
+      "name": "Chapter 8 - Runestone at Caer Darrow"
+    },
+    {
+      "id": "A03_M08S",
+      "map": "WC2Orc08S.w3x",
+      "name": "The Lost Chapter II"
+    },
+    {
+      "id": "A03_M09",
+      "map": "WC2Orc09.w3x",
+      "name": "Chapter 9 - Razing of the Tyr's Hand"
+    },
+    {
+      "id": "A03_M10",
+      "map": "WC2Orc10.w3x",
+      "name": "Chapter 10 - The Destruction of Stratholme"
+    },
+    {
+      "id": "A03_M11",
+      "map": "WC2Orc11.w3x",
+      "name": "Chapter 11 - Quel'Thalas"
+    },
+    {
+      "id": "A03_M11S",
+      "map": "WC2Orc11S.w3x",
+      "name": "The Lost Chapter III"
+    },
+    {
+      "id": "A04_CNMC4",
+      "map": "WC2OrcAct4.w3x",
+      "name": "Act IV - intro cinematic"
+    },
+    {
+      "id": "A04_M12",
+      "map": "WC2Orc12.w3x",
+      "name": "Chapter 12"
+    },
+    {
+      "id": "A04_M13",
+      "map": "WC2Orc13.w3x",
+      "name": "Chapter 13"
+    },
+    {
+      "id": "A04_M14",
+      "map": "WC2Orc14.w3x",
+      "name": "Chapter 14"
+    },
+    {
+      "id": "A04_EPILOGUE",
+      "map": "WC2OrcFinal.w3x",
+      "name": "Epilogue"
+    },
+    {
+      "id": "A00_TESTMAP",
+      "map": "TestMapOrcCampaign.w3x",
+      "name": "Test map (not playable)"
+    },
+    {
+      "id": "GLOBAL",
+      "map": null,
+      "name": "Campaign-wide strings (war3campaign.wts)"
+    }
+  ]
+}

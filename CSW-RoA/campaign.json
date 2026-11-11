@@ -1,0 +1,46 @@
+{
+  "id": "CSW-RoA",
+  "short": "RoA",
+  "name": "Rise of the Alliance",
+  "version": "1.03",
+  "source_w3n": "F:/ЗАГРУЗКИ/CSW_Rise_of_the_Alliance_1_03.w3n",
+  "output_dir": "C:/Users/UserM/Documents/Warcraft III/Campaigns",
+  "campaign_wts": "war3campaign.wts",
+  "campaign_task": "GLOBAL",
+  "title_block": "1",
+  "description_block": "3012",
+  "legacy_prefix": "RoA_",
+  "legacy_file": "RoA_{task}_EN.json",
+  "tasks": [
+    {
+      "id": "A01_CNMC1",
+      "map": "WC2HumanAct1.w3x",
+      "name": "Act 1 - intro cinematic"
+    },
+    {
+      "id": "A01_M01",
+      "map": "WC2Human01.w3x",
+      "name": "Mission 1 - Battle for Lordaeron"
+    },
+    {
+      "id": "A01_M02",
+      "map": "WC2Human02.w3x",
+      "name": "Mission 2 - Ambush at Tarren Mill"
+    },
+    {
+      "id": "A01_M03",
+      "map": "WC2Human03.w3x",
+      "name": "Mission 3 - Siege of Dalaran"
+    },
+    {
+      "id": "A01_M04",
+      "map": "WC2Human04.w3x",
+      "name": "Mission 4 - Attack on Zul'dare"
+    },
+    {
+      "id": "GLOBAL",
+      "map": null,
+      "name": "Campaign-wide strings (war3campaign.wts)"
+    }
+  ]
+}

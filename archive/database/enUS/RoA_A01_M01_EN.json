@@ -1,0 +1,1604 @@
+{
+  "meta": {
+    "campaign": "RoA",
+    "act": "ACT 1 - CHAPTER 1",
+    "map": "ACT 1 - CHAPTER 1",
+    "source_lang": "enUS",
+    "version": "1.01",
+    "updated": "2026-07-26"
+  },
+  "strings": {
+    "RoA_A01_M01_VO_S001_001": {
+      "hash": "dc72fc6a80",
+      "string_number": 3848,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Guards, to me!…."
+    },
+    "RoA_A01_M01_VO_S001_002": {
+      "hash": "f99342c4af",
+      "string_number": 3850,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Soldiers of Lordaeron, protect the king!"
+    },
+    "RoA_A01_M01_VO_S001_003": {
+      "hash": "8f48eb29cb",
+      "string_number": 4073,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Guards, I’m under attack!"
+    },
+    "RoA_A01_M01_VO_S001_004": {
+      "hash": "6057f22960",
+      "string_number": 4074,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Men of Lordaeron, aid me!"
+    },
+    "RoA_A01_M01_VO_S002_001": {
+      "hash": "904d25852f",
+      "string_number": 4141,
+      "type": "VO",
+      "unit_id": "SYS",
+      "unit_name": "SYSTEM",
+      "source": "A few moments later..."
+    },
+    "RoA_A01_M01_VO_S002_002": {
+      "hash": "86cbb9b9da",
+      "string_number": 3859,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Your Majesty, we must abandon the palace and retreat to the courtyard. There, we can make our final stand and fortify our defenses."
+    },
+    "RoA_A01_M01_VO_S002_003": {
+      "hash": "3bc653a9a3",
+      "string_number": 4075,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Agreed. But first, we must get my son from his chambers!"
+    },
+    "RoA_A01_M01_VO_S003_001": {
+      "hash": "72787552d5",
+      "string_number": 4311,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "The door is locked! We'll need to find a way to open it!"
+    },
+    "RoA_A01_M01_VO_S004_001": {
+      "hash": "47ee84a132",
+      "string_number": 4130,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "I cannot leave without my son..."
+    },
+    "RoA_A01_M01_VO_S004_002": {
+      "hash": "3a93e7fc9c",
+      "string_number": 3865,
+      "type": "VO",
+      "unit_id": "ART",
+      "unit_name": "Arthas",
+      "source": "Father!"
+    },
+    "RoA_A01_M01_VO_S004_003": {
+      "hash": "0934cc6c4c",
+      "string_number": 4076,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Arthas, my son, thank the Light you are safe. We're leaving the palace."
+    },
+    "RoA_A01_M01_VO_S004_004": {
+      "hash": "a9131907ea",
+      "string_number": 4127,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Ah, my treasury. It used to be full of gold…"
+    },
+    "RoA_A01_M01_VO_S005_001": {
+      "hash": "b02fe36731",
+      "string_number": 4077,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "The might of the mountains shall destroy ye! "
+    },
+    "RoA_A01_M01_VO_S005_002": {
+      "hash": "531b6efccb",
+      "string_number": 4070,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "I’ll crack yer skulls! Savage beasts!"
+    },
+    "RoA_A01_M01_VO_S005_003": {
+      "hash": "fcec1f5e81",
+      "string_number": 4071,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "Lads! Do not let them advance further!"
+    },
+    "RoA_A01_M01_VO_S006_001": {
+      "hash": "4685194a32",
+      "string_number": 3880,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "My King, you'll be safe here. I'll reinforce the city's defenses."
+    },
+    "RoA_A01_M01_VO_S006_002": {
+      "hash": "3ae2a971d0",
+      "string_number": 3883,
+      "type": "VO",
+      "unit_id": "ART",
+      "unit_name": "Arthas",
+      "source": "Father, are those creatures going to kill us?"
+    },
+    "RoA_A01_M01_VO_S006_003": {
+      "hash": "ed0a90d8d6",
+      "string_number": 4078,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Fear not, Arthas. We are safe, for now. But if we are overrun, seek out the catacombs and join Prince Varian in the hideout."
+    },
+    "RoA_A01_M01_VO_S006_004": {
+      "hash": "d088e6cefd",
+      "string_number": 4278,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "I'll take care of them, lad. You do your duty."
+    },
+    "RoA_A01_M01_VO_S007_001": {
+      "hash": "c7a95f127c",
+      "string_number": 4279,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "Your Majesty, Lord Lothar dispatched us the moment we heard the city had been besieged, Thank the Light you and your family are safe."
+    },
+    "RoA_A01_M01_VO_S007_002": {
+      "hash": "fc735c1637",
+      "string_number": 4080,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "If you hadn’t reached us in time, I’m afraid all would’ve been lost, young Paladin. Your aid is sorely needed."
+    },
+    "RoA_A01_M01_VO_S007_003": {
+      "hash": "ae079d94d8",
+      "string_number": 3898,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Just in time, brother. We have much to do."
+    },
+    "RoA_A01_M01_VO_S007_004": {
+      "hash": "fbb1a79f6f",
+      "string_number": 4081,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "Tell us what to do, Lord Uther."
+    },
+    "RoA_A01_M01_VO_S007_005": {
+      "hash": "aea078fc2c",
+      "string_number": 4119,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "We must reclaim the city's districts and drive out the orcs. I'll handle the western district, and you handle the eastern one."
+    },
+    "RoA_A01_M01_VO_S008_001": {
+      "hash": "b5c9da5040",
+      "string_number": 4167,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Use barracks to replenish your troops!"
+    },
+    "RoA_A01_M01_VO_S008_002": {
+      "hash": "f9e14f4d4e",
+      "string_number": 4231,
+      "type": "VO",
+      "unit_id": "WIL",
+      "unit_name": "Wilhelm",
+      "source": "We must dig out the rubble of the residential buildings, some citizens could have survived."
+    },
+    "RoA_A01_M01_VO_S009_001": {
+      "hash": "78f7cdfaa6",
+      "string_number": 3907,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "We've done it! The orcs are falling back!"
+    },
+    "RoA_A01_M01_VO_S009_002": {
+      "hash": "29bd28067e",
+      "string_number": 3910,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Don't celebrate just yet... Look, the dragons are attacking the palace!"
+    },
+    "RoA_A01_M01_VO_S010_001": {
+      "hash": "34a2cc1752",
+      "string_number": 4082,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "Archers! Ready your bows!"
+    },
+    "RoA_A01_M01_VO_S010_002": {
+      "hash": "d2081b6c68",
+      "string_number": 4233,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "We must support our archers and bring down those dragons!"
+    },
+    "RoA_A01_M01_VO_S011_001": {
+      "hash": "df798d0401",
+      "string_number": 4083,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "Those winged beasts are too formidable... we can't vanquish them all..."
+    },
+    "RoA_A01_M01_VO_S011_002": {
+      "hash": "e5bc56af2c",
+      "string_number": 4264,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "Maybe if those blasted Wildhammers were here to get off their asses!"
+    },
+    "RoA_A01_M01_VO_S011_003": {
+      "hash": "55c3e5daec",
+      "string_number": 4235,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "Huh?"
+    },
+    "RoA_A01_M01_VO_S011_004": {
+      "hash": "bada3a7907",
+      "string_number": 4306,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "Hah, what was that Bronzebeard? Hear that lads, let's hunt us some flying lizards, shall we?! Ha-ha-ha-ha-ha!"
+    },
+    "RoA_A01_M01_VO_S012_001": {
+      "hash": "691aaabc3b",
+      "string_number": 3928,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "You arrived just in time, my dwarven friend. The city would have been reduced to ashes if not for your aid."
+    },
+    "RoA_A01_M01_VO_S012_002": {
+      "hash": "7d951cc2f8",
+      "string_number": 4084,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "Anduin Lothar helped us defend our homeland against the orcish scum. Now we’ll return the favor by ridding the city of greenskin mongrels."
+    },
+    "RoA_A01_M01_VO_S012_003": {
+      "hash": "24a0f20c2b",
+      "string_number": 3934,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "How far is Lord Lothar from the city?"
+    },
+    "RoA_A01_M01_VO_S012_004": {
+      "hash": "d0ff77b003",
+      "string_number": 3937,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "He's not heading here. His army is marching through Hillsbrad to relieve Dalaran and attack the orcs from the rear. If all goes as planned, the Horde will be caught between our forces here and his forces down south."
+    },
+    "RoA_A01_M01_VO_S012_005": {
+      "hash": "347d945bf4",
+      "string_number": 4085,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "A solid plan. Now we must ensure we hold our defense here."
+    },
+    "RoA_A01_M01_VO_S012_006": {
+      "hash": "8ad16f68e8",
+      "string_number": 4086,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "First, we need to cleanse the last two city districts of those unholy creatures. March on!"
+    },
+    "RoA_A01_M01_VO_S013_001": {
+      "hash": "2a09132c2a",
+      "string_number": 4239,
+      "type": "VO",
+      "unit_id": "OPI",
+      "unit_name": "Orc Pirate",
+      "source": "Chicken soup is back on the menu, boys!"
+    },
+    "RoA_A01_M01_VO_S013_002": {
+      "hash": "f6863c8b0c",
+      "string_number": 4087,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "Blast it, their armada is too formidable for my gryphon pack. I can't take them all head on; there are too many ships!"
+    },
+    "RoA_A01_M01_VO_S013_003": {
+      "hash": "68e3076e50",
+      "string_number": 3949,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "In that case, we should concentrate our efforts on the lower city."
+    },
+    "RoA_A01_M01_VO_S013_004": {
+      "hash": "7ea7245c9b",
+      "string_number": 3952,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "I've had enough rest. It's time to crush some orcish skulls."
+    },
+    "RoA_A01_M01_VO_S013_005": {
+      "hash": "fd0df141b3",
+      "string_number": 4088,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "You can follow if you can keep up."
+    },
+    "RoA_A01_M01_VO_S013_006": {
+      "hash": "4473a0cbed",
+      "string_number": 3961,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "Ha-ha, that can be done!"
+    },
+    "RoA_A01_M01_VO_S014_001": {
+      "hash": "397c7bdf0e",
+      "type": "VO",
+      "unit_id": "DPR",
+      "unit_name": "Derek Proudmoore",
+      "source": "We're in luck boys, the fog concealed our presence, lets break this armada."
+    },
+    "RoA_A01_M01_VO_S014_002": {
+      "hash": "bc5fac19e3",
+      "string_number": 4242,
+      "type": "VO",
+      "unit_id": "DPR",
+      "unit_name": "Derek Proudmoore",
+      "source": "C'mon sailors, our allies in the city need help, dealing with those orcish ships was easy task, but now we need to work with some sweat and blood."
+    },
+    "RoA_A01_M01_VO_S015_001": {
+      "hash": "896e1119c8",
+      "string_number": 4090,
+      "type": "VO",
+      "unit_id": "DPR",
+      "unit_name": "Derek Proudmoore",
+      "source": "The Lord Admiral sent me with the northern armada as soon as he received reports of the siege. Blessed be the sea; we have arrived in time."
+    },
+    "RoA_A01_M01_VO_S015_002": {
+      "hash": "d7cc0d58ad",
+      "string_number": 4091,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Your help is much appreciated. Without the might of Kul Tiras, this naval blockade could have held on for who knows how long."
+    },
+    "RoA_A01_M01_VO_S015_003": {
+      "hash": "2e48a3d26c",
+      "string_number": 3973,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "To achieve final victory over their remaining forces, we must cross the lake, assault Fenris Isle, and capture their generals."
+    },
+    "RoA_A01_M01_VO_S015_004": {
+      "hash": "f5167eb710",
+      "string_number": 3976,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "Ah, with all due respect to Master Proudmoore and his sea warriors, dwarves can never feel comfortable on any kind of boat. But then again, it's better than to ride a gryphon."
+    },
+    "RoA_A01_M01_VO_S015_005": {
+      "hash": "534537c7d3",
+      "string_number": 3979,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Your wounds need more time to heal, my friend. You've already done a lot to ensure our victory here."
+    },
+    "RoA_A01_M01_VO_S015_006": {
+      "hash": "5afb67fcf9",
+      "string_number": 4121,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "But… ah, I'll miss all the fun…"
+    },
+    "RoA_A01_M01_VO_S015_007": {
+      "hash": "ae68eb2851",
+      "string_number": 4312,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "The lad's right, Master Bronzebeard. You already put up good fight, I have to admit. But now, ya need to rest."
+    },
+    "RoA_A01_M01_VO_S015_008": {
+      "hash": "e17221f379",
+      "string_number": 4249,
+      "type": "VO",
+      "unit_id": "DPR",
+      "unit_name": "Derek Proudmoore",
+      "source": "My ships are at your disposal..."
+    },
+    "RoA_A01_M01_VO_S016_001": {
+      "hash": "f943caa625",
+      "string_number": 3991,
+      "type": "VO",
+      "unit_id": "USC",
+      "unit_name": "Utok Scratcher",
+      "source": "Warchief, the humans have retaken the city! What do we do?"
+    },
+    "RoA_A01_M01_VO_S016_002": {
+      "hash": "3d34d9de54",
+      "string_number": 3994,
+      "type": "VO",
+      "unit_id": "THA",
+      "unit_name": "Tharbek",
+      "source": "We must press the attack! Those dogs deserve no reprieve!"
+    },
+    "RoA_A01_M01_VO_S016_003": {
+      "hash": "aaba02446f",
+      "string_number": 4095,
+      "type": "VO",
+      "unit_id": "ODO",
+      "unit_name": "Orgrim Doomhammer",
+      "source": "No. Between Dalaran and Alterac, our forces are stretched too thin. And the Alliance has further reinforcements on the way. We need to sound a tactical retreat, fall back, and regroup."
+    },
+    "RoA_A01_M01_VO_S016_004": {
+      "hash": "070dcd7d60",
+      "string_number": 4096,
+      "type": "VO",
+      "unit_id": "THA",
+      "unit_name": "Tharbek",
+      "source": "But Warchief…"
+    },
+    "RoA_A01_M01_VO_S016_005": {
+      "hash": "802dcc1876",
+      "string_number": 4122,
+      "type": "VO",
+      "unit_id": "ODO",
+      "unit_name": "Orgrim Doomhammer",
+      "source": "Enough! That’s a command! Tharbek, you will oversee that our retreat is orderly. Utok, you will travel to our base at Zul’Dare and make sure our western supply lines remain intact. Is that clear?"
+    },
+    "RoA_A01_M01_VO_S016_006": {
+      "hash": "b44aeb3841",
+      "string_number": 4006,
+      "type": "VO",
+      "unit_id": "USC",
+      "unit_name": "Utok Scratcher",
+      "source": "Yes, Warchief."
+    },
+    "RoA_A01_M01_VO_S016_007": {
+      "hash": "c006186c70",
+      "string_number": 4009,
+      "type": "VO",
+      "unit_id": "THA",
+      "unit_name": "Tharbek",
+      "source": "Yes, Warchief. But what of our base here?"
+    },
+    "RoA_A01_M01_VO_S016_008": {
+      "hash": "29a050f618",
+      "string_number": 4097,
+      "type": "VO",
+      "unit_id": "ODO",
+      "unit_name": "Orgrim Doomhammer",
+      "source": "We can’t hope to hold it. Not without committing troops we can’t spare right now. But we can leave the humans a surprise…"
+    },
+    "RoA_A01_M01_VO_S017_001": {
+      "hash": "df3532612b",
+      "string_number": 4302,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "It’s an ambush, take cover!"
+    },
+    "RoA_A01_M01_VO_S017_002": {
+      "hash": "e22c987da8",
+      "string_number": 4018,
+      "type": "VO",
+      "unit_id": "KOG",
+      "unit_name": "Korkron Orge Guard",
+      "source": "Puny humans, too stupid. Warchief said you die, so you die."
+    },
+    "RoA_A01_M01_VO_S018_001": {
+      "hash": "b1674cba58",
+      "string_number": 4305,
+      "type": "VO",
+      "unit_id": "KOG",
+      "unit_name": "Korkron Orge Guard",
+      "source": "You run now? Not with no feet!"
+    },
+    "RoA_A01_M01_VO_S018_002": {
+      "hash": "b4c95b72d0",
+      "string_number": 4304,
+      "type": "VO",
+      "unit_id": "KOG",
+      "unit_name": "Korkron Orge Guard",
+      "source": "Hard to breathe, eh? Soon you will stop breathing!"
+    },
+    "RoA_A01_M01_VO_S018_003": {
+      "hash": "23dab68c1f",
+      "string_number": 4303,
+      "type": "VO",
+      "unit_id": "KOG",
+      "unit_name": "Korkron Orge Guard",
+      "source": "Ha-ha! Today I ate a gnome for a breakfast."
+    },
+    "RoA_A01_M01_VO_S018_004": {
+      "hash": "0cba937c3c",
+      "string_number": 4253,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "The island is ours once again."
+    },
+    "RoA_A01_M01_VO_S019_001": {
+      "hash": "aba02b05ae",
+      "string_number": 4254,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Today's victory came at a heavy price… Many brave souls have died so that we might live. We should take care of their bodies and their families… Yet Doomhammer has escaped, so we can't delay."
+    },
+    "RoA_A01_M01_VO_S019_002": {
+      "hash": "7ad93567b3",
+      "string_number": 4123,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "Yes, my liege. Grief fills my heart as well, but we must act and follow him south immediately."
+    },
+    "RoA_A01_M01_VO_S019_003": {
+      "hash": "ab978630fc",
+      "string_number": 4102,
+      "type": "VO",
+      "unit_id": "DPR",
+      "unit_name": "Derek Proudmoore",
+      "source": "My remaining ships are at your disposal, Your Majesty."
+    },
+    "RoA_A01_M01_VO_S019_004": {
+      "hash": "8cc1b20829",
+      "string_number": 4283,
+      "type": "VO",
+      "unit_id": "KWI",
+      "unit_name": "Kurdran Wildhammer",
+      "source": "My gryphons need a few hours to rest, but afterward, we can support your offensive from the sky."
+    },
+    "RoA_A01_M01_VO_S019_005": {
+      "hash": "a6ceb30aff",
+      "string_number": 4321,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Turalyon, gather all Knights of the Silver Hand and all soldiers able to fight. They will have time to rest on the ships while crossing the lake."
+    },
+    "RoA_A01_M01_VO_S019_006": {
+      "hash": "0fa4e492c7",
+      "string_number": 4104,
+      "type": "VO",
+      "unit_id": "TUR",
+      "unit_name": "Turalyon",
+      "source": "As you command, Your Majesty."
+    },
+    "RoA_A01_M01_VO_S019_007": {
+      "hash": "1cef993f7b",
+      "string_number": 4281,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Uther, I want you to stay here and take care of the wounded. Your skills and compassion can save more lives here than on the front line."
+    },
+    "RoA_A01_M01_VO_S019_008": {
+      "hash": "d2ff09e6d2",
+      "string_number": 4125,
+      "type": "VO",
+      "unit_id": "UTL",
+      "unit_name": "Uther Lightbringer",
+      "source": "There is wisdom in your words… I will obey, my king."
+    },
+    "RoA_A01_M01_VO_S019_009": {
+      "hash": "e5e236d53e",
+      "string_number": 4048,
+      "type": "VO",
+      "unit_id": "TME",
+      "unit_name": "Terenas Menethil II",
+      "source": "Muradin, I want you to stay with me. You've shed enough blood for Lordaeron already, and I don't want to face the wrath of your brother-king if something were to happen to you."
+    },
+    "RoA_A01_M01_VO_S019_010": {
+      "hash": "3e84e498f1",
+      "string_number": 4051,
+      "type": "VO",
+      "unit_id": "MBR",
+      "unit_name": "Muradin Bronzebeard",
+      "source": "Your words warm my heart, King Terenas."
+    },
+    "RoA_A01_M01_OBJE_001": {
+      "hash": "905817a0b2",
+      "string_number": 3777,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield the King"
+    },
+    "RoA_A01_M01_OBJE_002": {
+      "hash": "0f43cc5504",
+      "string_number": 3778,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The orcish horde has breached the palace walls, and the throne room lies under siege. King Terenas must not fall. Rally your forces, hold the line, and drive back the invaders before they reach His Majesty."
+    },
+    "RoA_A01_M01_OBJE_003": {
+      "hash": "e260ce3efc",
+      "string_number": 3791,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Terenas must survive"
+    },
+    "RoA_A01_M01_OBJE_004": {
+      "hash": "e260ce3efc",
+      "string_number": 3794,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Terenas must survive"
+    },
+    "RoA_A01_M01_OBJE_005": {
+      "hash": "ed94bbce4a",
+      "string_number": 3792,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Uther must survive"
+    },
+    "RoA_A01_M01_OBJE_006": {
+      "hash": "ed94bbce4a",
+      "string_number": 3795,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Uther must survive"
+    },
+    "RoA_A01_M01_OBJE_007": {
+      "hash": "783c43fcc7",
+      "string_number": 3806,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST|r\nShield the King\n - Terenas must survive\n - Uther must survive"
+    },
+    "RoA_A01_M01_OBJE_008": {
+      "hash": "1fbad358d1",
+      "string_number": 3808,
+      "type": "OBJECTIVES",
+      "source": "|cffffcc00MAIN QUEST COMPLETED|r\nShield the King"
+    },
+    "RoA_A01_M01_OBJE_009": {
+      "hash": "4ba1f5bf1d",
+      "string_number": 3809,
+      "type": "OBJECTIVES",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nShield the King\n - |cffff0000Uther must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_010": {
+      "hash": "24b21011f7",
+      "string_number": 3807,
+      "type": "OBJECTIVES",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nShield the King\n - |cffff0000Terenas must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_011": {
+      "hash": "e0ed7eef96",
+      "string_number": 3779,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The King’s Heir"
+    },
+    "RoA_A01_M01_OBJE_012": {
+      "hash": "bd159dac59",
+      "string_number": 3780,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Orcs are inside the palace, placing Crown Prince Arthas in grave danger. Locate the Prince and lead him to safety, the royal line must be protected!"
+    },
+    "RoA_A01_M01_OBJE_013": {
+      "hash": "f43ce6a381",
+      "string_number": 3793,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Find prince Arthas"
+    },
+    "RoA_A01_M01_OBJE_014": {
+      "hash": "85993a31dc",
+      "string_number": 3810,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST|r\nThe King's Heir\n- Find prince Arthas \n- Terenas must survive\n- Uther must survive"
+    },
+    "RoA_A01_M01_OBJE_015": {
+      "hash": "6151dd4a8e",
+      "string_number": 3811,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Uther must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_016": {
+      "hash": "16efccfd82",
+      "string_number": 3812,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Terenas must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_017": {
+      "hash": "7272c9440f",
+      "string_number": 3813,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Arthas must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_018": {
+      "hash": "c26e11e8bb",
+      "string_number": 3815,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nTheKing's Heir\n - |cff808080Find prince Arthas (Completed)|r\n - Terenas must survive\n - Uther must survive\n - Arthas must survive\n - Leave the palace"
+    },
+    "RoA_A01_M01_OBJE_019": {
+      "hash": "5f680ffe64",
+      "string_number": 3817,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Arthas must survive"
+    },
+    "RoA_A01_M01_OBJE_020": {
+      "hash": "c34159d188",
+      "string_number": 3818,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Leave the Palace"
+    },
+    "RoA_A01_M01_OBJE_021": {
+      "hash": "8508abf17b",
+      "string_number": 3814,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST COMPLETED|r\nThe King's Heir"
+    },
+    "RoA_A01_M01_OBJE_022": {
+      "hash": "1c1e7c9b94",
+      "string_number": 3781,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Retake the city"
+    },
+    "RoA_A01_M01_OBJE_023": {
+      "hash": "ee0d0061e3",
+      "string_number": 3782,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The time has come to drive these vermin out of our city. Purge the orc infestation district by district! Stand united and reclaim the capital!"
+    },
+    "RoA_A01_M01_OBJE_024": {
+      "hash": "b35bc0e028",
+      "string_number": 3805,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_025": {
+      "hash": "8737127d8d",
+      "string_number": 4193,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Retake Lower city"
+    },
+    "RoA_A01_M01_OBJE_026": {
+      "hash": "814aa0813e",
+      "string_number": 4192,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Retake Palace district"
+    },
+    "RoA_A01_M01_OBJE_027": {
+      "hash": "0e37ff0e0e",
+      "string_number": 3797,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Retake East wing"
+    },
+    "RoA_A01_M01_OBJE_028": {
+      "hash": "8587d9e782",
+      "string_number": 3798,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Retake West wing"
+    },
+    "RoA_A01_M01_OBJE_029": {
+      "hash": "741ab57aff",
+      "string_number": 4191,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST|r\nRetake the city\n - Retake West wing\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_030": {
+      "hash": "1841afb482",
+      "string_number": 3821,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST|r\nRetake the city\n - Retake East wing\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_031": {
+      "hash": "ec106c449f",
+      "string_number": 3825,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST COMPLETED|r\nRetake the city"
+    },
+    "RoA_A01_M01_OBJE_032": {
+      "hash": "e11fff6981",
+      "string_number": 4147,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake West wing (Completed)|r\n - Retake East wing\n - All Heroes must survive\n"
+    },
+    "RoA_A01_M01_OBJE_033": {
+      "hash": "2b12bb294d",
+      "string_number": 4153,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - Retake West wing \n - |cff808080Retake East wing (Completed)|r\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_034": {
+      "hash": "1d8baafc6e",
+      "string_number": 4160,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_035": {
+      "hash": "f77003d9d1",
+      "string_number": 4161,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake East wing (Completed)|r\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_036": {
+      "hash": "3b80422d36",
+      "string_number": 4182,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - Retake Palace district\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_037": {
+      "hash": "410057cdde",
+      "string_number": 4183,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake Palace district (Completed)|r\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_038": {
+      "hash": "a1607571fb",
+      "string_number": 4190,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake Palace district (Completed)|r\n - Retake Lower City\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_039": {
+      "hash": "85e77bc539",
+      "string_number": 4196,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nRetake the city\n - |cffff0000All Heroes must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_040": {
+      "hash": "db96ee29e4",
+      "string_number": 4213,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Survivors"
+    },
+    "RoA_A01_M01_OBJE_041": {
+      "hash": "b0ac060a19",
+      "string_number": 4215,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Rescue civilians from the rubble piles"
+    },
+    "RoA_A01_M01_OBJE_042": {
+      "hash": "02ab3d444f",
+      "string_number": 4214,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Some civilians are buried under the rubble, help them to get out of their traps."
+    },
+    "RoA_A01_M01_OBJE_043": {
+      "hash": "66c07ff703",
+      "string_number": 4225,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00OPTIONAL QUEST|r\nSurvivors\n- Rescue civilians from the rubble piles (0 / 12 piles)"
+    },
+    "RoA_A01_M01_OBJE_044": {
+      "hash": "1f52846d98",
+      "string_number": 4229,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nSurvivors"
+    },
+    "RoA_A01_M01_OBJE_045": {
+      "hash": "1d54ecbd9f",
+      "string_number": 4232,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00OPTIONAL QUEST  FAILED|r\nSurvivors"
+    },
+    "RoA_A01_M01_OBJE_046": {
+      "hash": "971f69c67a",
+      "string_number": 3787,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Dark Wings"
+    },
+    "RoA_A01_M01_OBJE_047": {
+      "hash": "d54aea65be",
+      "string_number": 3788,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Dragons are attacking the palace! threatening its defenses. Recruit archers to bring them down, and support your troops with the healing power of your paladins."
+    },
+    "RoA_A01_M01_OBJE_048": {
+      "hash": "2c11b15943",
+      "string_number": 3801,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Don’t let the dragons destroy the palace"
+    },
+    "RoA_A01_M01_OBJE_049": {
+      "hash": "41962789bf",
+      "string_number": 3829,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00OPTIONAL QUEST|r\nDark Wings\n - Don’t let dragons destroy the palace"
+    },
+    "RoA_A01_M01_OBJE_050": {
+      "hash": "c9bd92bde6",
+      "string_number": 3833,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nDark Wings"
+    },
+    "RoA_A01_M01_OBJE_051": {
+      "hash": "99b2e09e24",
+      "string_number": 3836,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00OPTIONAL QUEST FAILED|r\nDark Wings\n - |cffff0000Don’t let dragons destroy the palace (failed)|r\n"
+    },
+    "RoA_A01_M01_OBJE_052": {
+      "hash": "9f4a40fb43",
+      "string_number": 4170,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffff0000Don’t let the dragons destroy the palace (Failed)|r"
+    },
+    "RoA_A01_M01_OBJE_053": {
+      "hash": "b7c53667c2",
+      "string_number": 3785,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Liberation of Fenris Isl"
+    },
+    "RoA_A01_M01_OBJE_054": {
+      "hash": "5a3b529266",
+      "string_number": 3786,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fenris Isle is the last Horde stronghold on Lordamere Lake. Crush their forces there and lift the siege. Show no mercy and put them all to the sword!"
+    },
+    "RoA_A01_M01_OBJE_055": {
+      "hash": "b35bc0e028",
+      "string_number": 4198,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_056": {
+      "hash": "66dda35c81",
+      "string_number": 3804,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Destroy Enemy Camp"
+    },
+    "RoA_A01_M01_OBJE_057": {
+      "hash": "113032fa31",
+      "string_number": 3827,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST|r\nLiberation of Fenris Isle\n - Destroy Enemy Camp\n - All Heroes must survive"
+    },
+    "RoA_A01_M01_OBJE_058": {
+      "hash": "3ccb46d310",
+      "string_number": 3837,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nLiberation of Fenris Isle\n - |cffff0000All Heroes must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_059": {
+      "hash": "3ba014f7be",
+      "string_number": 3834,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST COMPLETED|r\nLiberation of Fenris Isle"
+    },
+    "RoA_A01_M01_OBJE_060": {
+      "hash": "b450d8a7d9",
+      "string_number": 4301,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST FAILED|r\nLiberation of Fenris Isle\n - |cffff0000At least onbe hero must survive (failed)|r"
+    },
+    "RoA_A01_M01_OBJE_061": {
+      "hash": "54c4a12c6c",
+      "string_number": 4300,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Defeat the Horde General"
+    },
+    "RoA_A01_M01_OBJE_062": {
+      "hash": "fbc0afaeec",
+      "string_number": 3838,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MAIN QUEST UPDATED|r\nLiberation of Fenris Isle\n - |cff808080Destroy Enemy Camp (Completed)|r\n - Defeat the Horde General\n - At least one hero must survive"
+    },
+    "RoA_A01_M01_OBJE_063": {
+      "hash": "8de4cdb5c9",
+      "string_number": 4299,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "At least one Hero must survive"
+    },
+    "RoA_A01_M01_OBJE_064": {
+      "hash": "ddef35b3e3",
+      "string_number": 4140,
+      "type": "OBJECTIVES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00MISSION FAILED|r"
+    },
+    "RoA_A01_M01_MESS_001": {
+      "hash": "4691f862ed",
+      "string_number": 4165,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff87ceebREINFORCEMENT|r\nRoyal Guard - elite soldiers of Lordaeron, trained to fight with halberds, giving them greater attack range than footmen. They also carry shields for defense."
+    },
+    "RoA_A01_M01_MESS_002": {
+      "hash": "a8b96bbf91",
+      "string_number": 4314,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff32cd32HINT|r\nTerenas can help you carry items. But be warned, he can use some of them to heal himself."
+    },
+    "RoA_A01_M01_MESS_003": {
+      "hash": "dc2e6c92c0",
+      "string_number": 4308,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff32cd32HINT|r\nFind a key or pull a lever to open locked doors."
+    },
+    "RoA_A01_M01_MESS_004": {
+      "hash": "e046fc8cfe",
+      "string_number": 4162,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff8080ffNEW HEROES|r\nTuralyon - One of the first Priests of Lordaeron trained as a Paladin by Uther the Lightbringer. He is a staunch believer in maintaining order through strict martial discipline."
+    },
+    "RoA_A01_M01_MESS_005": {
+      "hash": "9d35248b6c",
+      "string_number": 4163,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff8080ffNEW SEMI HERO|r\nWilhelm - One of the seasoned veterans of Azeroth, who served as Captain under Anduin Lothar."
+    },
+    "RoA_A01_M01_MESS_006": {
+      "hash": "51572e4271",
+      "string_number": 4173,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff87ceebREINFORCEMENT|r\nDefender of Faith - Soldiers of the Silver Hand Order armed with long spears. They can defend against enemy magic, though at the cost of reduced movement speed."
+    },
+    "RoA_A01_M01_MESS_007": {
+      "hash": "49fe4c1540",
+      "string_number": 4174,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00TECHTREE UNLOCKED|r\nLordaeron Footmen - arrayed in hardened steel armor, they courageously wield broadsword and shield in hand-to-hand combat against their vile orcish foes."
+    },
+    "RoA_A01_M01_MESS_008": {
+      "hash": "36fe7339ec",
+      "string_number": 4309,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff32cd32HINT|r\nMagical Orbs can allow heroes attack flying units."
+    },
+    "RoA_A01_M01_MESS_009": {
+      "hash": "ad06651fe2",
+      "string_number": 4172,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff87ceebREINFORCEMENT|r\nDefenders - Lordaeron citizens who answered the call of duty to protect both cities and towns, equipped with armor and longswords. They move and strike faster than regular footmen."
+    },
+    "RoA_A01_M01_MESS_010": {
+      "hash": "5ef07eeb1e",
+      "string_number": 4179,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff8080ffNEW HEROES|r\nKurdran, the Thane of the Wildhammer Clan, mounted on his loyal gryphon Sky'ree, is one of the most renowned allies of the human race.\nWhen Sky’ree is |cffffcc00airborne|r - they |cff32cd32can engage air units|r, but |cffff0000cannot attack ground targets|r.\nWhen Sky’ree is |cffffcc00on the ground|r - they |cff32cd32can attack ground units|r but |cffff0000cannot engage flying ones|r.\nKurdran can use his hero abilities on any units regardless of stance."
+    },
+    "RoA_A01_M01_MESS_011": {
+      "hash": "ff4d7d0bd3",
+      "string_number": 4236,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff87ceebREINFORCEMENT|r\nGryphon Riders - mighty war beasts of the Wildhammer Clan. The gryphon and its dwarf rider dominate the skies, crushing all enemies of the Alliance."
+    },
+    "RoA_A01_M01_MESS_012": {
+      "hash": "3e989d80e5",
+      "string_number": 4319,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff32cd32HINT|r\nMuradin will follow Kurdran and engage in fights with enemies, but you cannot control him."
+    },
+    "RoA_A01_M01_MESS_013": {
+      "hash": "193e447ad0",
+      "string_number": 4180,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff8080ffNEW HEROES|r\nDerek Proudmoore - commander of the Third Fleet of Kul Tiras and the eldest son of Grand Admiral Daelin Proudmoore. An agile warrior, he moves swiftly and can throw grenades at enemies."
+    },
+    "RoA_A01_M01_MESS_014": {
+      "hash": "7fbc057deb",
+      "string_number": 4252,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff87ceebREINFORCEMENT|r\nKul'Tiran Ships - Admiral Proudmoore has dispatched his Third Fleet to break the siege of Lordaeron. Use these ships to reach Fenris Isle and destroy the remaining orcish navy."
+    },
+    "RoA_A01_M01_MESS_015": {
+      "hash": "b8d37ef8a2",
+      "string_number": 4164,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffffcc00TECHTREE UNLOCKED|r\nLordaeron Archer - a skilled marksman of the Lordaeron army. Though not as elegant as elven archers, still lethal against Horde infantry."
+    },
+    "RoA_A01_M01_MESS_016": {
+      "hash": "e2db1166af",
+      "string_number": 4307,
+      "type": "HINTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cff32cd32HINT|r\nKurdran cannot carry magical orbs."
+    },
+    "RoA_A01_M01_SCRN_001": {
+      "hash": "e654f77e5b",
+      "string_number": 4175,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Choose place of first strike."
+    },
+    "RoA_A01_M01_SCRN_002": {
+      "hash": "5e2d1752a3",
+      "string_number": 4176,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "West Wing (Uther)"
+    },
+    "RoA_A01_M01_SCRN_003": {
+      "hash": "ff018ca6f0",
+      "string_number": 4177,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "East Wing (Turalyon)"
+    },
+    "RoA_A01_M01_SCRN_004": {
+      "hash": "635aea120c",
+      "string_number": 4169,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Remaining enemies:"
+    },
+    "RoA_A01_M01_SCRN_005": {
+      "hash": "635aea120c",
+      "string_number": 4203,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Remaining enemies:"
+    },
+    "RoA_A01_M01_SCRN_006": {
+      "hash": "635aea120c",
+      "string_number": 4205,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Remaining enemies:"
+    },
+    "RoA_A01_M01_SCRN_007": {
+      "hash": "635aea120c",
+      "string_number": 4194,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Remaining enemies:"
+    },
+    "RoA_A01_M01_SCRN_008": {
+      "hash": "36265a7b01",
+      "string_number": 4171,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Protect the Palace for:"
+    },
+    "RoA_A01_M01_SCRN_009": {
+      "hash": "18a4186953",
+      "string_number": 4168,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Quest objectives"
+    },
+    "RoA_A01_M01_SCRN_010": {
+      "hash": "18a4186953",
+      "string_number": 4228,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Quest objectives"
+    },
+    "RoA_A01_M01_SCRN_011": {
+      "hash": "f21452da6e",
+      "string_number": 4178,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Palace Durability %"
+    },
+    "RoA_A01_M01_SCRN_013": {
+      "hash": "7b9180adc4",
+      "string_number": 4227,
+      "type": "MESSAGES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Remaining Rubble Piles"
+    },
+    "RoA_A01_M01_UNITS_001": {
+      "hash": "e4a75ca6e8",
+      "string_number": 3819,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Arthas"
+    },
+    "RoA_A01_M01_UNITS_002": {
+      "hash": "0300dc429e",
+      "string_number": 4115,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Prince"
+    },
+    "RoA_A01_M01_UNITS_003": {
+      "hash": "1aebfa32ad",
+      "string_number": 4208,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grumak Ironhide"
+    },
+    "RoA_A01_M01_UNITS_004": {
+      "hash": "ac4e552c3c",
+      "string_number": 4207,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre Korkron"
+    },
+    "RoA_A01_M01_UNITS_005": {
+      "hash": "e3b0c44298",
+      "type": "FRACTIONS",
+      "unit_id": "N/A",
+      "unit_name": "FRACTIONS",
+      "source": ""
+    },
+    "RoA_A01_M01_UNITS_006": {
+      "hash": "7a0b884484",
+      "string_number": 2686,
+      "type": "FRACTIONS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Nation of Lordaeron"
+    },
+    "RoA_A01_M01_UNITS_007": {
+      "hash": "8ec7af0e67",
+      "string_number": 4201,
+      "type": "FRACTIONS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The Orcish Horde"
+    },
+    "RoA_A01_M01_UNITS_008": {
+      "hash": "10876a5b44",
+      "string_number": 3183,
+      "type": "FRACTIONS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ironforge Envoy"
+    },
+    "RoA_A01_M01_UNITS_009": {
+      "hash": "71f96ce589",
+      "string_number": 4202,
+      "type": "FRACTIONS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron Citizens"
+    },
+    "RoA_A01_M01_OBJECTS_001": {
+      "hash": "a5d4743a8a",
+      "string_number": 4135,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Treasury Vault"
+    },
+    "RoA_A01_M01_BUILDINGS_001": {
+      "hash": "6fce1ab8d7",
+      "string_number": 3027,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron Guard Tower"
+    },
+    "RoA_A01_M01_BUILDINGS_002": {
+      "hash": "6fce1ab8d7",
+      "string_number": 3030,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron Guard Tower"
+    },
+    "RoA_A01_M01_BUILDINGS_003": {
+      "hash": "4ded44e3ad",
+      "string_number": 2959,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_004": {
+      "hash": "4ded44e3ad",
+      "string_number": 2961,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_005": {
+      "hash": "4ded44e3ad",
+      "string_number": 2963,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_006": {
+      "hash": "4ded44e3ad",
+      "string_number": 2965,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_007": {
+      "hash": "4ded44e3ad",
+      "string_number": 2966,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_008": {
+      "hash": "4ded44e3ad",
+      "string_number": 2968,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_009": {
+      "hash": "4ded44e3ad",
+      "string_number": 2970,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron City Building"
+    },
+    "RoA_A01_M01_BUILDINGS_010": {
+      "hash": "6e86711618",
+      "string_number": 4216,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_011": {
+      "hash": "6e86711618",
+      "string_number": 4217,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_012": {
+      "hash": "6e86711618",
+      "string_number": 4218,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_013": {
+      "hash": "6e86711618",
+      "string_number": 4219,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_014": {
+      "hash": "6e86711618",
+      "string_number": 4220,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_015": {
+      "hash": "6e86711618",
+      "string_number": 4221,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_016": {
+      "hash": "6e86711618",
+      "string_number": 4222,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_017": {
+      "hash": "6e86711618",
+      "string_number": 4223,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    },
+    "RoA_A01_M01_BUILDINGS_018": {
+      "hash": "6e86711618",
+      "string_number": 4224,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Elven Manor"
+    }
+  }
+}

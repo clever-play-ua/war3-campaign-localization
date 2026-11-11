@@ -1,0 +1,1450 @@
+ENGLISH,TRANSLATION,,VARIABLE,UA
+,,,,
+✚ UNITS,,,,
+Horde units,,,,
+Peon,,,GLOBAL_v2_U_001,Батрак
+Train Peon,,,GLOBAL_v2_U_002,Тренувати батрака
+Foreman,,,GLOBAL_v2_U_003,Майстер
+Train Foreman,,,GLOBAL_v2_U_004,Тренувати майстра
+Toiler,,,GLOBAL_v2_U_005,Трудяга
+Train Toiler,,,GLOBAL_v2_U_006,Тренувати трудягу
+Enthralled,,,GLOBAL_v2_U_007,Зачарований
+Train Enthralled,,,GLOBAL_v2_U_008,Тренувати зачарованного
+,,,GLOBAL_v2_U_009,
+Brute,,,GLOBAL_v2_U_010,Рубайло
+Train Brute,,,GLOBAL_v2_U_011,Тренувати Рубайла
+Elite Armory,,,GLOBAL_v2_U_012,Елітна зброя
+"Increases weapon damage by <XGC1,DataA2>.",,,GLOBAL_v2_U_013,
+,,,GLOBAL_v2_U_014,
+Blackhand Guard,,,GLOBAL_v2_U_015,Охоронець Чорнорука
+Train Blackhand Guard,,,GLOBAL_v2_U_016,
+,,,GLOBAL_v2_U_017,
+,,,GLOBAL_v2_U_018,
+,,,GLOBAL_v2_U_019,
+Bonecrusher,,,GLOBAL_v2_U_020,Кістколам
+Train Bonecrusher,,,GLOBAL_v2_U_021,Тренувати кістколама
+Sundering Armor,,,GLOBAL_v2_U_022,
+"Increases damage dealt to enemy targets with Large armor by <AGsA,DataB1,%>%.",,,GLOBAL_v2_U_023,
+,,,GLOBAL_v2_U_024,
+Рубака,TRANSLATION FROM GAME CLIENT,Grunt,GLOBAL_v2_U_025,
+Heavy Hammers,,,GLOBAL_v2_U_026,Важкі молоти
+"Gives a <A02K,DataA1>% chance that an attack will do <A02K,DataC1> bonus damage and stun an opponent for <A02K,Dur1> seconds.",,,GLOBAL_v2_U_027,
+,,,GLOBAL_v2_U_028,
+Kor'kron Guard,,,GLOBAL_v2_U_029,Кор'кронський вартовий
+Train Kor'kron,,,GLOBAL_v2_U_030,
+Crushing Blow,,,GLOBAL_v2_U_031,
+"Slams the ground, dealing <AKwS,DataA1> damage to nearby enemy land units and stunning them for <AKwS,Dur1> seconds.",,,GLOBAL_v2_U_032,
+Darkplate,,,GLOBAL_v2_U_033,Темні лати
+"The Kor'kron are equiped with armor from the same forges as the Warchief Doomplate. This armor greatly reducing all damage taken. Attacks cannot be reduced below a treshhold.
+
+Damage Reduction: |cffffcc00<A02H,DataC1>|r
+Minimal Damage Taken: |cffffcc00<A02H,DataB1>|r",,,GLOBAL_v2_U_034,
+,,,GLOBAL_v2_U_035,
+Вихрь клинок,TRANSLATION FROM GAME CLIENT,Bladestorm,GLOBAL_v2_U_036,
+"Causes a bladestorm of destructive force around the Korkron, rendering him immune to magic and spells, dealing <AKBS,DataA1> damage per second to nearby enemy land units. |nLasts <AKBS,Dur1> seconds.",,,GLOBAL_v2_U_037,
+,,,GLOBAL_v2_U_038,
+Fanatic,,,GLOBAL_v2_U_039,Фанатик
+Train Fanatic,,,GLOBAL_v2_U_040,Тренувати фанатика
+Бешенство,TRANSLATION FROM GAME CLIENT,Frenzy,GLOBAL_v2_U_041,
+"Twillight's Hammer cultists enter an entropic state of frenzy, having an increased attack speed.
+
+Duration: |cffffcc00<AEFF,Dur1>s |r
+Attack Speed Bonus: |cffffcc00+50% |r",,,GLOBAL_v2_U_042,
+,,,GLOBAL_v2_U_043,
+Enforcer,,,GLOBAL_v2_U_044,Каратель
+Train Enforcer,,,GLOBAL_v2_U_045,Тренувати карателя
+Fel Spikes,,,GLOBAL_v2_U_046,Шипи скверни
+"Razor sharp spikes grow from the bodies of Fel infused Stormreaver orcs, dealing <A01W,DataA1,%>%. of an enemy unit's melee attack damage back to melee attackers.",,,GLOBAL_v2_U_047,
+"Razor sharp spikes grow from the bodies of Fel infused Stormreaver orcs, dealing <A01W,DataA2,%>%. of an enemy unit's melee attack damage back to melee attackers.",,,GLOBAL_v2_U_048,
+,,,GLOBAL_v2_U_049,
+Reaver,,,GLOBAL_v2_U_050,Крушитель
+Train Reaver,,,GLOBAL_v2_U_051,Тренувати крушителя
+,,,GLOBAL_v2_U_052,
+,,,GLOBAL_v2_U_053,
+Troll Axethrower,,,GLOBAL_v2_U_054,Троль Сокирокид
+Train Troll Axethrower,,,GLOBAL_v2_U_055,Тренувати Троля Сокирокида
+,,,GLOBAL_v2_U_056,
+Troll Berserker,,,GLOBAL_v2_U_057,Троль Берсерк
+Train Troll Berserker,,,GLOBAL_v2_U_058,Тренувати Троля Берсерка
+,,,GLOBAL_v2_U_059,
+Rage,,,GLOBAL_v2_U_060,Лють
+"Causes this unit to attack <ABR1,DataB1,%>% faster, but take <ABR1,DataC1,%>% more damage. Lasts <ABR1,Dur1,> seconds.",,,GLOBAL_v2_U_061,
+,,,GLOBAL_v2_U_062,
+Опутывание,TRANSLATION FROM GAME CLIENT,Ensnare,GLOBAL_v2_U_063,
+"Causes a target enemy unit to be bound to the ground so that it cannot move for <A021,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units.",,,GLOBAL_v2_U_064,
+"Causes a target enemy unit to be bound to the ground so that it cannot move for <A60G,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units.",,,GLOBAL_v2_U_065,
+"Causes a target enemy unit to be bound to the ground so that it cannot move for <A603,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units.",,,GLOBAL_v2_U_066,
+"Causes a target enemy unit to be bound to the ground so that it cannot move for <A60L,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units.",,,GLOBAL_v2_U_067,
+,,,GLOBAL_v2_U_068,
+Berserker Sight,,,GLOBAL_v2_U_069,Пильність берсерка
+Gives Berserkers the ability to see as far at night as they do during the day.,,,GLOBAL_v2_U_070,"Берсерки бачать уночі так само далеко, як і вдень."
+,,,GLOBAL_v2_U_071,
+Lighter Axes,,,GLOBAL_v2_U_072,Легші сокири
+Increases attack range by 200.,,,GLOBAL_v2_U_073,
+Регенарция тролей,TRANSLATION FROM GAME CLIENT,Troll regeneration,GLOBAL_v2_U_074,
+Increases the hit point regeneration rate of Berserkers.,,,GLOBAL_v2_U_075,Пришвидшує відновлення здоров'я берсерків.
+,,,GLOBAL_v2_U_076,
+Orc Pirate,,,GLOBAL_v2_U_077,Орк пірат
+Hire Orc Pirate,,,GLOBAL_v2_U_078,Найняти Орка пірата
+,,,GLOBAL_v2_U_079,
+Orc Bowman,,,GLOBAL_v2_U_080,Орк лучник
+Train Orc Bowman,,,GLOBAL_v2_U_081,Тренувати орка лучника
+,,,GLOBAL_v2_U_082,
+Hunter,,,GLOBAL_v2_U_083,Списометальник
+Train Hunter,,,GLOBAL_v2_U_084,Тренувати списометальника
+,,,GLOBAL_v2_U_085,
+Защита,TRANSLATION FROM GAME CLIENT,Defend,GLOBAL_v2_U_086,
+"Activate to take only <A024,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <A024,DataC1,%>% of normal speed.",,,GLOBAL_v2_U_087,
+"Activate to take only <AE1O,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AE1O,DataC1,%>% of normal speed.",,,GLOBAL_v2_U_088,
+"Activate to take only <AAD2,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD2,DataC1,%>% of normal speed.",,,GLOBAL_v2_U_089,
+"Activate to take only <AIDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AIDe,DataC1,%>% of normal speed.",,,GLOBAL_v2_U_090,
+,,,GLOBAL_v2_U_091,
+Тренировка меткости,TRANSLATION FROM GAME CLIENT,Marksmanship,GLOBAL_v2_U_092,
+Additionally increases the damage of ranged weapons by 3.,,,GLOBAL_v2_U_093,Додатково збільшує шкоду від зброї дального бою на 3 од.
+,,,GLOBAL_v2_U_094,
+Improved Ranged Weapons,,,GLOBAL_v2_U_095,Покращена зброя дальнього бою
+Increases attack range by 200.,,,GLOBAL_v2_U_096,
+,,,GLOBAL_v2_U_097,
+Gangrel,,,GLOBAL_v2_U_098,Мучитель
+Train Gangrel,,,GLOBAL_v2_U_099,Тренувати мучителя
+,,,GLOBAL_v2_U_100,
+Poison Arrows,,,GLOBAL_v2_U_101,Отруйні стріли
+"Deals <A62D,DataA1> poison damage per second. |nLasts <A62D,Dur1> seconds.",,,GLOBAL_v2_U_102,
+"Deals <AapA,DataA1> poison damage per second. |nLasts <AapA,Dur1> seconds.",,,GLOBAL_v2_U_103,
+,,,GLOBAL_v2_U_104,
+Ogre,,,GLOBAL_v2_U_105,Оґр
+Train Ogre,,,GLOBAL_v2_U_106,Тренувати Оґра
+,,,GLOBAL_v2_U_107,
+Ogre Magi,,,GLOBAL_v2_U_108,Оґр-маг
+Train Ogre Magi,,,GLOBAL_v2_U_109,Тренувати Оґра-мага
+,,,GLOBAL_v2_U_110,
+Eye of Killrog,,,GLOBAL_v2_U_111,
+"Summons an Eye of Kilrog, which can be used to scout.|nCan see invisible units. |nLasts |cffffcc00<A005,Dur1>|r seconds.",,,GLOBAL_v2_U_112,
+"Summons an Eye of Kilrog, which can be used to scout.|nCan see invisible units. |nLasts |cffffcc00<A61J,Dur1>|r seconds.",,,GLOBAL_v2_U_113,
+,,,GLOBAL_v2_U_114,
+Bloodlust,,,GLOBAL_v2_U_115,
+"Fills a warrior with berserk fury, greatly increasing damage for a short time. Known to drive bloodthirsty orcs over the edge.|n|nIncreases a target friendly unit's damage by |cffffcc00<AOmB,DataA1,%>%|r. |nLasts |cffffcc00<AOmB,Dur1>|r seconds.",,,GLOBAL_v2_U_116,
+,,,GLOBAL_v2_U_117,
+Rune of Blood,,,GLOBAL_v2_U_118,Руни крові
+"Summons an invisible and immovable rune that stuns enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |n|nThe trap lasts |cffffcc00<A655,Dur1>|r seconds. |nThe stun lasts |cffffcc00<A655,DataD1>|r seconds.",,,GLOBAL_v2_U_119,
+"Summons an invisible and immovable Rune that explodes enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |n|nThe trap lasts |cffffcc00<XW0R,Dur1>|r seconds. |nThe stun lasts |cffffcc00<XW0R,DataD1>|r seconds.",,,GLOBAL_v2_U_120,
+"Summons an invisible and immovable Rune that explodes enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |n|nThe trap lasts |cffffcc00<XCT2,Dur1>|r seconds. |nThe stun lasts |cffffcc00<XCT2,DataD1>|r seconds.",,,GLOBAL_v2_U_121,
+Rune of Lightning,,,GLOBAL_v2_U_122,
+Runes of Lightning,,,GLOBAL_v2_U_123,Руни блискавки
+,,,GLOBAL_v2_U_124,
+Catapult,,,GLOBAL_v2_U_125,Катапульта
+Build Catapult,,,GLOBAL_v2_U_126,
+Горучая смесь,TRANSLATION FROM GAME CLIENT,Burning oil,GLOBAL_v2_U_127,
+"Drenches the ammo in burning oil, causing them to light the ground on fire and burn enemy units.",,,GLOBAL_v2_U_128,"Снаряди підпалюють землю у зоні ураження, таким чином ворожі одиниці отримують додаткову шкоду від вогню."
+,,,GLOBAL_v2_U_129,
+Goblin Sappers,,,GLOBAL_v2_U_130,Загін ґоблінів саперів
+Train Goblin Sappers,,,GLOBAL_v2_U_131,Тренувати Загін ґоблінів саперів
+Ба-бах,TRANSLATION FROM GAME CLIENT,Kaboom!,GLOBAL_v2_U_132,
+"Deals <A029,DataB1> damage in a small area. Effective against buildings and trees.",,,GLOBAL_v2_U_133,
+,,,GLOBAL_v2_U_134,
+,,,GLOBAL_v2_U_135,
+Death Knight,,,GLOBAL_v2_U_136,Лицар смерті
+Train Death Knight,,,GLOBAL_v2_U_137,Прикликати лицаря смерті
+Initiate,,,GLOBAL_v2_U_138,Початківець
+Unholy,,,GLOBAL_v2_U_139,Нечестивість
+,,,GLOBAL_v2_U_140,
+Death Coil,,,GLOBAL_v2_U_141,Обличчя смерті
+"Dark energy that drains the life-force from any who come in contact with it. |nAbsorbs the life essence of a target enemy unit by taking |cffffcc00<A607,DataA1>|r hit points per second from it and giving them to the caster. |n|nLasts |cffffcc00<A607,Dur1> seconds.|r|n|n|cffffcc00Channeling Spell|r",,,GLOBAL_v2_U_142,
+,,,GLOBAL_v2_U_143,
+Touch of Darkness,,,GLOBAL_v2_U_144,Дотик пітьми
+"By shrouding their weapons in fel essence, Death Knights choke the life out of those they strike.|n|n|cffffcc00Deals|r bonus magic damage to |cffffcc00units (+25%)|r and |cffffcc00heroes (+50%)|r.|n|n|cffffcc00Each mastery upgrade allows the touch to spread to an additional victim.|r",,,GLOBAL_v2_U_145,
+,,,GLOBAL_v2_U_146,
+Unholy Armor,,,GLOBAL_v2_U_147,Нечестива броня
+"This ancient Necromantic spell transforms a portion of the recipient's mana into an unearthly, phantasmal suit of armor. This spectral armor then absorbs some of the spell damage directed at its wearer for a limited amount of time. 
+
+Duration: |cffffcc00<A605,Dur1>s|r
+Magic Shield HP to absorb damage: |cffffcc00<A605,DataC1>|r",,,GLOBAL_v2_U_148,
+,,,GLOBAL_v2_U_149,
+Воскрешение мертвых,TRANSLATION FROM GAME CLIENT,Raise dead,GLOBAL_v2_U_150,
+"This dark magik is the final legacy of the Orc Necrolytes who were destroyed shortly after the First War. The Death Knight can animate corpses of the newly dead and then command these monstrosities to attack their enemies.
+
+Duration: |cffffcc00<A026,Dur1>s|r|n|nAfter researching Skeletal Longevety duration will be increased by 15 s.",,,GLOBAL_v2_U_151,
+,,,GLOBAL_v2_U_152,
+Death and Decay,,,GLOBAL_v2_U_153,Смерть і занепад
+"Death Knights conjure swirling clouds of decay that rot flesh and bone alike, consuming all caught within their path.|n|nDuration: |cffffcc00<S600,Dur1>s|r|nDamage per Second: |cffffcc00<S600,DataA1,%>%|r|n|n|cffffcc00Channeling Spell|r",,,GLOBAL_v2_U_154,
+,,,GLOBAL_v2_U_155,
+Haste,,,GLOBAL_v2_U_156,Поспішність
+"By magically increasing the speed at which a body generates vital energy, the caster may bestow great speed to any being for a short time.
+
+Duration: |cffffcc00<A606,Dur1>s|r
+Movement Speed Multiplier: |cffffcc00x1.5|r",,,GLOBAL_v2_U_157,
+,,,GLOBAL_v2_U_158,
+Whirlwind,,,GLOBAL_v2_U_159,Смерч
+"A raging vortex of underworld winds hurls all caught within, shattering bones and snapping sails with violent force.|n(Most effective against ships and air units.)|n|nDuration: |cffffcc00<A003,Dur1>s|r|nDamage (Ships): |cffffcc0050/s|r|nDamage (Air): |cffffcc0020/s|r|nDamage (Buildings, Mechanical): |cffffcc0015/s|r|nDamage (Ground): |cffffcc0010/s|r|n|n|cffffcc00Channeling Spell|r",,,GLOBAL_v2_U_160,
+,,,GLOBAL_v2_U_161,
+Undead,,,GLOBAL_v2_U_162,Невмерлий
+,,,GLOBAL_v2_U_163,
+,,,GLOBAL_v2_U_164,
+Goblin Zeppelin,,,GLOBAL_v2_U_165,Дирижабль ґоблінів
+Build Goblin Zeppelin,,,GLOBAL_v2_U_166,Побудувати Дирижабль ґоблінів
+Telescope,,,GLOBAL_v2_U_167,Телескоп
+Reveals neraby invisible units.,,,GLOBAL_v2_U_168,
+Zeppelin Bombs,,,GLOBAL_v2_U_169,Бомби на дирижаблях
+Allows Zeppelin to attack land units and Buildings.,,,GLOBAL_v2_U_170,Дирижаблі отримують змогу атакувати споруди та наземні одиниці.
+,,,GLOBAL_v2_U_171,
+,,,GLOBAL_v2_U_172,
+Oil Tanker,,,GLOBAL_v2_U_173,Нафтовий танкер
+Build Oil Tanker,,,GLOBAL_v2_U_174,
+Oil Patch,,,GLOBAL_v2_U_175,Нафтове родовище
+Oil Platform,,,GLOBAL_v2_U_176,Нафтова платформа
+Build Oil Platform,,,GLOBAL_v2_U_177,Побудувати нафтову платформу
+The Oil Platform needs to be built on Oil Patches in order for oil to be harvested and refined. Oil Tankers are used to build these Oil Platforms as well as ferry the oil back to a Shipyard or Oil Refinery where it can be processed and put to use.,,,GLOBAL_v2_U_178,"Аби почати видобуток нафти, необхідно спочатку звести нафтову платформу на нафтовому родовищі. Нафтові танкери використовуються як для будівництва нафтових платформ, так і для доставлення нафти у корабельню або у нафтопереробний завод."
+,,,GLOBAL_v2_U_179,
+,,,GLOBAL_v2_U_180,
+Destroyer,,,GLOBAL_v2_U_181,Руйнівник
+Build Destroyer,,,GLOBAL_v2_U_182,
+Harpoon Shot,,,GLOBAL_v2_U_183,
+Frontal Cannon Shot,,,GLOBAL_v2_U_184,
+"Shot from the ship's frontal cannon that stuns target for <AHfC,Dur1> seconds and deals <AHfC,DataA1> damage.|nEnemy heroes will be stunned for <AHfC,HeroDur1> seconds. |n|n|cffffcc00Enemy buildings can also be targeted.|r",,,GLOBAL_v2_U_185,
+"Shot from the ship's frontal cannon that stuns target for <ASfC,Dur1> seconds and deals <ASfC,DataA1> damage.|nEnemy heroes will be stunned for <ASfC,HeroDur1> seconds. |n|n|cffffcc00Enemy buildings can also be targeted.|r",,,GLOBAL_v2_U_186,
+"Shot from the ship's frontal cannon that stuns target for <ASeH,Dur1> seconds and deals <ASeH,DataA1> damage.|nEnemy heroes will be stunned for <ASeH,HeroDur1> seconds. |n|n|cffffcc00Enemy buildings can also be targeted.|r",,,GLOBAL_v2_U_187,
+Elven Destroyer,,,GLOBAL_v2_U_188,Руйнівник ельфів
+Troll Destroyer,,,GLOBAL_v2_U_189,Руйнівник тролів
+Build Troll Destroyer,,,GLOBAL_v2_U_190,Побудувати Руйнівника тролів
+,,,GLOBAL_v2_U_191,
+Ogre Juggernaut,,,GLOBAL_v2_U_192,Джаґґернаут Оґрів
+Build Ogre Juggernaut,,,GLOBAL_v2_U_193,Побудувати Джаґґернаут Оґрів
+Incendiary Ammo,,,GLOBAL_v2_U_194,Запальні снаряди
+"Uses incendiary ammunition shells, causing them to light the target area on fire and burn enemy units.",,,GLOBAL_v2_U_195,"Використання запальних снарядів, що підпалюють зону ураження та носять шкоду від вогню ворожим цілям."
+,,,GLOBAL_v2_U_196,
+War Turtle,,,GLOBAL_v2_U_197,Бойова черепаха
+Train War Turtle,,,GLOBAL_v2_U_198,Тренувати бойову черепаху
+Submerge,,,GLOBAL_v2_U_199,Зануритись
+"War Turtle goes down underwater, becoming invisible for hostile units unless detected by magical means or scout unit. Vision radius for submerged turtle is twice smaller.",,,GLOBAL_v2_U_200,
+Surface,,,GLOBAL_v2_U_201,На поверхню
+"War Turtle bobs up to water surface. Becomes visible to enemies, but vision radius increases.",,,GLOBAL_v2_U_202,
+Periscope,,,GLOBAL_v2_U_203,
+Reveals nerby invisible units,TRANSLATION FROM GAME CLIENT,,GLOBAL_v2_U_204,
+Submarine,,,GLOBAL_v2_U_205,Субмарина
+"Submarine goes down underwater, becoming invisible for hostile units unless detected by magical means or scout unit. Vision radius for submerged vessel is twice smaller.",,,GLOBAL_v2_U_206,
+"Submarine bobs up to water surface. Becomes visible to enemies, but vision radius increases.",,,GLOBAL_v2_U_207,
+,,,GLOBAL_v2_U_208,
+Frigate,,,GLOBAL_v2_U_209,Фригат
+Build Frigate,,,GLOBAL_v2_U_210,
+Battleship,,,GLOBAL_v2_U_211,Лінкор
+Build Battleship,,,GLOBAL_v2_U_212,
+,,,GLOBAL_v2_U_213,
+Dragon,,,GLOBAL_v2_U_214,Багряний дракон
+Train Dragon,,,GLOBAL_v2_U_215,Тренувати багряного дракона
+Dragon Fire,,,GLOBAL_v2_U_216,Полум'я дракона
+Dragon attacks light the ground on fire and burn enemy units. Buildings recieve damage multipleid by x1.25.,,,GLOBAL_v2_U_217,
+Ironscale,,,GLOBAL_v2_U_218,Залізна луска
+"Upgrades the scale of Dragons so that they have Large armor, as well as increases armor points.",,,GLOBAL_v2_U_219,"Поліпшення луски таким чином, що вона стає більш твердою, і відповідно підвищує броню драконів."
+Alliance units,,,GLOBAL_v2_U_220,
+Работник,TRANSLATION FROM GAME CLIENT,,GLOBAL_v2_U_221,
+Sylvan Craftsman,,,GLOBAL_v2_U_222,
+Пехотинец,TRANSLATION FROM GAME CLIENT,,GLOBAL_v2_U_223,
+Regional Defender,,,GLOBAL_v2_U_224,
+Royal Guard,,,GLOBAL_v2_U_225,
+Bowman,,,GLOBAL_v2_U_226,
+Elven archer,,,GLOBAL_v2_U_227,
+Ranger,,,GLOBAL_v2_U_228,
+Ballista,,,GLOBAL_v2_U_229,
+Gnomish Flying Machine,,,GLOBAL_v2_U_230,
+Demolition squad,,,GLOBAL_v2_U_231,
+Mage,,,GLOBAL_v2_U_232,
+Рыцарь,TRANSLATION FROM GAME CLIENT,,GLOBAL_v2_U_233,
+Paladin,,,GLOBAL_v2_U_234,
+Frigate,,,GLOBAL_v2_U_235,
+Elven Destroyer,,,GLOBAL_v2_U_236,
+Battleship,,,GLOBAL_v2_U_237,
+Submarine,,,GLOBAL_v2_U_238,
+,,,GLOBAL_v2_U_239,
+Botanist,,,GLOBAL_v2_U_240,
+Judicator,,,GLOBAL_v2_U_241,
+Lieutenant,,,GLOBAL_v2_U_242,
+,,,,
+,,,,
+,,,,
+,,,,
+◈ BUILDINGS,,,,
+Horde buildings,,,,
+Goldmine,,,,
+Pig Farm,,,GLOBAL_v2_B_001,
+Дом вождей,TRANSLATION FROM GAME CLIENT,Great Hall,GLOBAL_v2_B_002,
+,,,GLOBAL_v2_B_003,
+Обучить батрака,TRANSLATION FROM GAME CLIENT,Train Peon,GLOBAL_v2_B_004,
+"The lowest rank of the Horde, Peons are weak but indispensable. Forced into endless labor, they harvest gold and lumber, and raise the structures that sustain the war effort. Downtrodden though they are, the Horde cannot march without them.|n|n|cffffcc00Can harvest gold and lumber, build structures, and Repair.|r|n|n|cffffcc00Attacks land units and trees.|r",,,GLOBAL_v2_B_005,
+,,,GLOBAL_v2_B_006,
+Research  Pillage,,,GLOBAL_v2_B_007,
+"Causes Peons, Grunts, and Ogres attacks to gain resources when hitting enemy buildings.",,,GLOBAL_v2_B_008,"Коли батраки й рубайла з усіх кланів, а також оґри роблять шкоду ворожим спорудам ви будете отримувати ресурси."
+,,,GLOBAL_v2_B_009,
+Revive Utok,,,GLOBAL_v2_B_010,
+"Utok is an apprentice shaman, nicknamed ""Scratcher"" for his habit of scribbling rather than mindless killing. Yet in time, it was he who had the last laugh.|n|n|cffffcc00Abilities:|r Pillage, Lightning Bolt, Mend Wounds, Purge, Spirit Revival, Resistant Skin.|n|n|cffffcc00Attacks land units.|r",,,GLOBAL_v2_B_011,
+,,,GLOBAL_v2_B_012,
+Revive Tharbek,,,GLOBAL_v2_B_013,
+"Tharbek is a fierce young orc warrior who dreams of becoming a subchieftain under Warchief Orgrim Doomhammer.|n|n|cffffcc00Abilities:|r Pillage, Throw Spear, Cleaving Attack, Whiplash, Intimidating Shout, Resistant Skin.|n|n|cffffcc00Attacks land units.|r",,,GLOBAL_v2_B_014,
+,,,GLOBAL_v2_B_015,
+Улучшить до крепости,TRANSLATION FROM GAME CLIENT,Upgrade to Stronghold,GLOBAL_v2_B_016,
+"Primary structure, used to train Peons and receive gathered resources. Forged of jagged steel and stone, the Stronghold radiates orcish might and stands as a bastion against enemy assaults.|n|n|cffffcc00Upgrades to:|r Fortress.|n|n|cffffcc00Research:|r Pillage.|n|n|cffffcc00Revives wounded heroes.|r|n|n|cffffcc00Requires|r 200 |cffffcc00Oil.|r",,,GLOBAL_v2_B_017,
+,,,GLOBAL_v2_B_018,
+Улушчить до цитадели,TRANSLATION FROM GAME CLIENT,Upgrade to Fortress,GLOBAL_v2_B_019,
+"Primary structure, used to train Peons and receive gathered resources. Protected by obsidian spires shaped from the earth itself, the Fortress is all but impervious to the attacks of the feeble Human forces.|n|n|cffffcc00Research:|r Pillage, Better Pickaxes.|n|n|cffffcc00Revives wounded heroes.|r|n|n|cffffcc00Requires|r 500 |cffffcc00Oil|r.",,,GLOBAL_v2_B_020,
+,,,GLOBAL_v2_B_021,
+Research Better Pickaxes,,,GLOBAL_v2_B_022,
+"The Blackrock forges demand endless tribute of steel and coin. Overseers have forced new methods of smelting and extraction upon the Peons, ensuring greater returns from every vein of ore.|n|nPeons will bring |cffffcc00an additional 25 gold pieces|r upon harvesting.",,,GLOBAL_v2_B_023,
+,,,GLOBAL_v2_B_024,
+,,,GLOBAL_v2_B_025,
+Казармы,TRANSLATION FROM GAME CLIENT,Barraks,GLOBAL_v2_B_026,
+,,,GLOBAL_v2_B_027,
+Research Horde Melee Training,,,GLOBAL_v2_B_028,
+"Improves the fighting capabilities of Grunts from all Orcish Clans, unlocking their special abilities.",,,GLOBAL_v2_B_029,"Покращує бойові навички рубайл усіх орочих кланів, відкриваючи їх додаткові здібності."
+,,,GLOBAL_v2_B_030,
+Train Brute,,,GLOBAL_v2_B_031,Тренувати Рубайла
+"Black Tooth Grin brutes, equipped with mighty axes and battle-worn armor, are prepared to fight to the death.|n|n|cffffcc00Abilities:|r Pillage, Elite Armory.|n|n|cffffcc00Attacks land units.|r",,,GLOBAL_v2_B_032,
+,,,GLOBAL_v2_B_033,
+Train Troll Axethrower,,,GLOBAL_v2_B_034,Тренувати Троля Сокирокида
+"For centuries the Trolls of Lordaeron endured defeat at the hands of Humans, Dwarves, and Elves. With the rise of the Orcish Horde, they seized the chance for vengeance and joined as allies. Agile and ruthless, Trolls hurl their axes with deadly precision, making them effective against both ground and aerial foes.|n|n|cffffcc00Can be upgraded to:|r Troll Berserker.|n|n|cffffcc00Attacks land and air units.|r",,,GLOBAL_v2_B_035,
+,,,GLOBAL_v2_B_036,
+Train Troll Berserker,,,GLOBAL_v2_B_037,Тренувати Троля Берсерка
+"Berserkers are a bloodthirsty sect of Trolls dedicated to the total annihilation of their hated enemies, the Elves. They  have had many strange abilities bestowed upon them that make them all but unstoppable in the heat of battle.|n|n|cffffcc00Abilities:|r Rage, Ambush, Regeneration, Berserker Sight, Lighter Axes, Ensnare.|n|n|cffffcc00Attacks land and air units.|r",,,GLOBAL_v2_B_038,
+,,,GLOBAL_v2_B_039,
+Build Catapult,,,GLOBAL_v2_B_040,
+"Long-range siege weaponry. Devastating against buildings and effective against gatherings of land units and ships, but is slow and vulnerable.|n|n|cffffcc00Abilities:|r Burning Oil. |n|n|cffffcc00Attacks land units and trees.|r",,,GLOBAL_v2_B_041,
+,,,GLOBAL_v2_B_042,
+,,,GLOBAL_v2_B_043,
+Blacksmith,,,GLOBAL_v2_B_044,Ковальня
+Build Blacksmith,,,GLOBAL_v2_B_045,
+"Gives access to upgrades for armor and weapons.
+Research: Sharpened Melee Weapons - Reinforced Armor - Heavy Projectiles - Burning Oil
+
+|cffffcc00Requires|r 100 |cffffcc00Oil|r.",,,GLOBAL_v2_B_046,"Дає змогу покращувати броню та зброю.
+
+Покращення: Заточка зброї» — «Посилення броні» — «Важкі снаряди» — «Палаючі снаряди»
+
+|cffffcc00Потребує|r 100 од.|cffffcc00нафти|r."
+,,,GLOBAL_v2_B_047,
+Upgrade to Sharpened Melee Weapons,,,GLOBAL_v2_B_048,
+"Increases the melee attack damage of Grunts, Ogres and Ogre-Mages.",,,GLOBAL_v2_B_049,"Збільшує кількість шкоди яку наносять рубайла, оґри та оґри-маги."
+,,,GLOBAL_v2_B_050,
+Upgrade to Iron Melee Weapons,,,GLOBAL_v2_B_051,
+"Further increases the melee attack damage of Grunts, Ogres and Ogre-Mages.",,,GLOBAL_v2_B_052,"Ще більше збільшує кілкість шкоди яку наносять рубайла, оґри та оґри-маги"
+,,,GLOBAL_v2_B_053,
+Upgrade to Steel Melee Weapons,,,GLOBAL_v2_B_054,
+"Further increases the melee attack damage of Grunts, Ogres and Ogre-Mages.",,,GLOBAL_v2_B_055,"Ще більше збільшує кілкість шкоди яку наносять рубайла, оґри та оґри-маги"
+,,,GLOBAL_v2_B_056,
+Upgrade to Reinforced Armor,,,GLOBAL_v2_B_057,
+"Increases the armor of Grunts, Ogres, and Ogre-Mages.",,,GLOBAL_v2_B_058,"Посилює броню рубайл, оґрів та оґрів-магів."
+,,,GLOBAL_v2_B_059,
+Upgrade to Iron Armor,,,GLOBAL_v2_B_060,
+"Further increases the armor of Grunts, Ogres, and Ogre-Mages.",,,GLOBAL_v2_B_061,"Ще більше посилює броню рубайл,оґрів та оґрів-магів"
+,,,GLOBAL_v2_B_062,
+Upgrade to Steel Armor,,,GLOBAL_v2_B_063,
+"Further increases the armor of Grunts, Ogres, and Ogre-Mages.",,,GLOBAL_v2_B_064,"Ще більше посилює броню рубайл,оґрів та оґрів-магів"
+,,,GLOBAL_v2_B_065,
+Heavy Projectiles,,,GLOBAL_v2_B_066,Важкі снаряди
+Upgrade to Heavy Projectiles,,,GLOBAL_v2_B_067,
+Increases the siege attack damage of Catapults.,,,GLOBAL_v2_B_068,Збільшує шкоду яку наносять катапульти.
+,,,GLOBAL_v2_B_069,
+Sulfur Projectiles,,,GLOBAL_v2_B_070,Сульфурові снаряди
+Upgrade to Sulfur Projectiles,,,GLOBAL_v2_B_071,
+Further increases the siege attack damage of Catapults.,,,GLOBAL_v2_B_072,Ще більше збільшує шкоду яку наносять катапульти.
+,,,GLOBAL_v2_B_073,
+,,,GLOBAL_v2_B_074,
+Iron Projectiles,,,GLOBAL_v2_B_075,Залізні снаряди
+Upgrade to Iron Projectiles,,,GLOBAL_v2_B_076,
+Further increases the siege attack damage of Catapults.,,,GLOBAL_v2_B_077,Ще більше збільшує шкоду яку наносять катапульти.
+,,,GLOBAL_v2_B_078,
+Research Burning Oil,,,GLOBAL_v2_B_079,
+"Drenches the ammo in burning oil, causing them to light the ground on fire and burn enemy units.",,,GLOBAL_v2_B_080,"Снаряди підпалюють землю у зоні ураження, таким чином ворожі одиниці отримують додаткову шкоду від вогню."
+"Upgrades the projectiles of Catapults and Ogre Juggernauts, causing their attacks to burn the impact area. |n|n|cffffcc00Requires|r 1000 |cffffcc00Oil|r.",,,GLOBAL_v2_B_081,
+,,,GLOBAL_v2_B_082,
+Troll Lumber Mill,,,GLOBAL_v2_B_083,Лісопильня тролів
+Build Troll Lumber Mill,,,GLOBAL_v2_B_084,Побудувати Лісопильню тролів
+,,,GLOBAL_v2_B_085,
+Lumber Saw Upgrade,,,GLOBAL_v2_B_086,Покращена деревообробка
+Peons bring additional 25 lumber pieces upon harvesting.,,,GLOBAL_v2_B_087,Видобуток деревини батраками збільшується на 25 од.
+,,,GLOBAL_v2_B_088,
+,,,GLOBAL_v2_B_089,
+Research Troll Berserker Training,,,GLOBAL_v2_B_090,
+Upgrades Troll Axethrowers to Troll Berserkers.,,,GLOBAL_v2_B_091,Покращує тролів сокирокидів до тролів берсерків
+,,,GLOBAL_v2_B_092,
+Research Berserker Sight,,,GLOBAL_v2_B_093,
+Gives Berserkers the ability to see as far at night as they do during the day.,,,GLOBAL_v2_B_094,"Берсерки бачать уночі так само далеко, як і вдень."
+,,,GLOBAL_v2_B_095,
+Research Lighter Axes,,,GLOBAL_v2_B_096,
+Increases the attack range of Troll Berserkers by 200.,,,GLOBAL_v2_B_097,
+,,,GLOBAL_v2_B_098,
+Research Berserker Regeneration,,,GLOBAL_v2_B_099,
+Makes Troll Berserkers regain lost health at a fater rate.,,,GLOBAL_v2_B_100,Тролі берсерки швидше відновлють втрачене здоров'я.
+,,,GLOBAL_v2_B_101,
+Исследовать опутование,TRANSLATION FROM GAME CLIENT,Research Ensnare,GLOBAL_v2_B_102,
+Teaches Troll Berserkers the |cffffcc00Ensnare|r ability.,,,GLOBAL_v2_B_103,"Навчає тролів берсерків здібності яка дозволяє знерухомлювати ворожі цілі. Якщо знерухомлено повітряну ціль, це дозволить атакувати її одиницями ближнього бою."
+,,,GLOBAL_v2_B_104,
+Upgrade to Sharpened Ranged Weapons,,,GLOBAL_v2_B_105,
+Increases the piercing attack damage of Troll Axethrowers and Troll Berserkers.,,,GLOBAL_v2_B_106,Збільшує шкоду від атак тролів та берсерків.
+,,,GLOBAL_v2_B_107,
+Upgrade to Iron Throwing Axes,,,GLOBAL_v2_B_108,
+Further increases the piercing attack damage of Troll Axethrowers and Troll Berserkers.,,,GLOBAL_v2_B_109,Ще більше збільшує шкоду від атак тролів та берсерків.
+,,,GLOBAL_v2_B_110,
+Upgrade to Steel Throwing Axes,,,GLOBAL_v2_B_111,
+Further increases the piercing attack damage of Troll Axethrowers and Troll Berserkers.,,,GLOBAL_v2_B_112,Ще більше збільшує шкоду від атак тролів та берсерків.
+,,,GLOBAL_v2_B_113,
+,,,GLOBAL_v2_B_114,
+Лесопилка,TRANSLATION FROM GAME CLIENT,War mill,GLOBAL_v2_B_115,
+Upgrade to Sharpened Ranged Weapons,,,GLOBAL_v2_B_116,
+Increases the piercing attack damage of orcish Archers and Spearthrowers.,,,GLOBAL_v2_B_117,Збільшує шкоду від атак орків лучників та списометальників.
+,,,GLOBAL_v2_B_118,
+Upgrade to Iron Ranged Weapons,,,GLOBAL_v2_B_119,
+Further increases the piercing attack damage of orcish Archers and Spearthrowers.,,,GLOBAL_v2_B_120,Ще збільшує шкоду від атак орків лучників та списометальників.
+,,,GLOBAL_v2_B_121,
+Upgrade to Steel Ranged Weapons,,,GLOBAL_v2_B_122,
+Further increases the piercing attack damage of orcish Archers and Spearthrowers.,,,GLOBAL_v2_B_123,Ще збільшує шкоду від атак орків лучників та списометальників.
+,,,GLOBAL_v2_B_124,
+Исследовать тренировку меткости,TRANSLATION FROM GAME CLIENT,Research Marksmanship,GLOBAL_v2_B_125,
+Increases damage of orcish Archers and Spearthrowers by 3.,,,GLOBAL_v2_B_126,
+,,,GLOBAL_v2_B_127,
+Исследовать опутование,TRANSLATION FROM GAME CLIENT,Research Ensnare,GLOBAL_v2_B_128,
+Teaches orcish Archers and Spearthrowers the |cffffcc00Ensnare|r ability.,,,GLOBAL_v2_B_129,"Навчає орків лучників та списометальників здібності яка дозволяє знерухомлювати ворожі цілі. Якщо знерухомлено повітряну ціль, це дозволить атакувати її одиницями ближнього бою."
+,,,GLOBAL_v2_B_130,
+Research Improved Ranged Weapons,,,GLOBAL_v2_B_131,
+Increases the attack range of orcish Archers and Spearthrowers by 200.,,,GLOBAL_v2_B_132,
+,,,GLOBAL_v2_B_133,
+,,,GLOBAL_v2_B_134,
+Альарь бури,TRANSLATION FROM GAME CLIENT,Altar of storms,GLOBAL_v2_B_135,
+Research Ogre Magi Initiation,,,GLOBAL_v2_B_136,
+Initiates the brutish Ogres to become ruthless and cunning Ogre Magi.,,,GLOBAL_v2_B_137,Ритуал посвячення кремезних Оґрів у нещадних та підступних Оґрів-магів.
+,,,GLOBAL_v2_B_138,
+Ogre Magi Training,,,GLOBAL_v2_B_139,Покращення Оґрів-магів
+"Increases Ogre Magi's mana capacity and regeneration, and teaches them the |cffffcc00Bloodlust|r ability.",,,GLOBAL_v2_B_140,
+,,,GLOBAL_v2_B_141,
+Superior Ogre Magi Training,,,GLOBAL_v2_B_142,Максимальне покращення оґрів магів
+"Further increases Ogre Magi's mana capacity and regeneration, and teaches them the |cffffcc00Runes|r ability.",,,GLOBAL_v2_B_143,"Максимально збільшує запас мани Оґрів магів і ще більше прискорює швидкість її відновлення, також навчає здібності |cffffcc00Руни|r"
+,,,GLOBAL_v2_B_144,
+,,,GLOBAL_v2_B_145,
+Ogre Mound,,,GLOBAL_v2_B_146,Оґрівський пагорб
+Build Ogre Mound,,,GLOBAL_v2_B_147,Побудувати оґрівський пагорб
+,,,GLOBAL_v2_B_148,
+Train Ogre Magi,,,GLOBAL_v2_B_149,Тренувати Оґра-мага
+"The Ogre Magi were originally a small band of extremely loyal Ogre enforcers, transformed by Gul'dan into scheming and malicious sorcerers. Ogre-Magi can direct their death magiks as easily as their lesser cousins would deliver a crushing blow.|n|n|cffffcc00Abilities:|r Pillage, Eye of Kilrogg, Bloodlust, Runes.|n|n|cffffcc00Attacks land units.|r",,,GLOBAL_v2_B_150,
+,,,GLOBAL_v2_B_151,
+Train Ogre,,,GLOBAL_v2_B_152,Тренувати Оґра
+Ogre,,,GLOBAL_v2_B_153,Оґр
+"Ogres were brought through the Dark Portal by Gul’dan after the First War. Though duller in wit than even peons, these brutish two-headed warriors possess immense strength and endurance, enough to stand against human cavalry.|n|n|cffffcc00Abilities:|r Pillage.|n|cffffcc00Can be upgraded to:|r Ogre Magi.|n|n|cffffcc00Attacks land units.|r",,,GLOBAL_v2_B_154,
+,,,GLOBAL_v2_B_155,
+Goblin Alchemist,,,GLOBAL_v2_B_156,Майстерня ґобліна алхіміка
+Build Goblin Alchemist,,,GLOBAL_v2_B_157,Побудувати Майстерню ґобліна алхіміка
+,,,GLOBAL_v2_B_158,
+Goblin Sappers,,,GLOBAL_v2_B_159,Загін ґоблінів саперів
+Train Goblin Sappers,,,GLOBAL_v2_B_160,Тренувати Загін ґоблінів саперів
+The mischievous Goblin Sappers are known throughout the Horde for their incredible aptitude for destruction. Particularly effective against buildings.|n|n|cffffcc00Attacks land units and trees.|r,,,GLOBAL_v2_B_161,
+,,,GLOBAL_v2_B_162,
+Goblin Zeppelin,,,GLOBAL_v2_B_163,Дирижабль ґоблінів
+Build Goblin Zeppelin,,,GLOBAL_v2_B_164,Побудувати Дирижабль ґоблінів
+"A goblin aircraft suited for scouting and detecting invisible units, as well as supporting aerial combat.|nCan be upgraded to drop bombs on land units.|nCan be upgraded to repair buildings and ships.|n|n|cffffcc00Abilities:|r Telescope, Zeppelin Bombs, Repair.|n|n|cffffcc00Attacks air units.|r",,,GLOBAL_v2_B_165,
+,,,GLOBAL_v2_B_166,
+Research Engineering Upgrade,,,GLOBAL_v2_B_167,
+Zeppelin crew will be able to repair buildings and mechanical units.|n|n|cffffcc00Requires|r 2500 |cffffcc00Oil|r.,,,GLOBAL_v2_B_168,
+,,,GLOBAL_v2_B_169,
+Zeppelin Bombs,,,GLOBAL_v2_B_170,Бомби на дирижаблях
+Research Zeppelin Bombs,,,GLOBAL_v2_B_171,
+Allows Goblin Zeppelins to attack land units. |n|n|cffffcc00Requires|r 1000 |cffffcc00Oil|r.,,,GLOBAL_v2_B_172,
+,,,GLOBAL_v2_B_173,
+,,,GLOBAL_v2_B_174,
+Храм проклятых,TRANSLATION FROM GAME CLIENT,Temple of the Damned,GLOBAL_v2_B_175,
+,,,GLOBAL_v2_B_176,
+Train Death Knight,,,GLOBAL_v2_B_177,Прикликати лицаря смерті
+"Twisted souls of Orcish necrolytes bound within the decayed bodies of Azeroth’s fallen knights - an unholy mockery of Gul’dan against mankind.|n|n|cffffcc00Abilities:|r Touch of Darkness, Raise Dead, Death Coil, Unholy Armor, Haste, Death and Decay, Whirlwind.|n|n|cffffcc00Attacks land and air units.|r",,,GLOBAL_v2_B_178,
+,,,GLOBAL_v2_B_179,
+Исследовать живучих скелетов,TRANSLATION FROM GAME CLIENT,Research sceletal longevity,GLOBAL_v2_B_180,
+Increases the duration of raised Undead by 30 seconds.,,,GLOBAL_v2_B_181,
+,,,GLOBAL_v2_B_182,
+Unholy Sentry,,,GLOBAL_v2_B_183,Нечестива варта
+Research Unholy Sentry,,,GLOBAL_v2_B_184,
+Provides orcish towers with the ability to detect invisible units.,,,GLOBAL_v2_B_185,Дає змогу орочим вежам здатність бачити невидимі війська.
+,,,GLOBAL_v2_B_186,
+Death Knight Training,,,GLOBAL_v2_B_187,Навчання лицарів смерті
+"Increases Death Knights' mana capacity and regeneration, and teaches them the |cffffcc00Unholy Armor|r and |cffffcc00Death Coil|r ability. Also increases the number of targets for |cffffcc00Touch of Darkness|r ability by 1.",,,GLOBAL_v2_B_188,
+,,,GLOBAL_v2_B_189,
+,,,GLOBAL_v2_B_190,
+Superior Death Knight Training,,,GLOBAL_v2_B_191,Подальше навчання лицарів смерті
+"Further increases Death Knights' mana capacity and regeneration, and teaches them the |cffffcc00Haste|r and |cffffcc00Death and Decay|r ability. Also increases the number of targets for |cffffcc00Touch of Darkness|r ability by 1.",,,GLOBAL_v2_B_192,
+,,,GLOBAL_v2_B_193,
+,,,GLOBAL_v2_B_194,
+,,,GLOBAL_v2_B_195,
+The Supreme Death Knight Training,,,GLOBAL_v2_B_196,Верхновне навчання лицарів смерті
+"Further increases Death Knights' mana capacity and regeneration, and teaches them the |cffffcc00Whirlwind|r ability. Also increases the number of targets for |cffffcc00Touch of Darkness|r ability by 1.",,,GLOBAL_v2_B_197,
+,,,GLOBAL_v2_B_198,
+,,,GLOBAL_v2_B_199,
+Сторожевая башня,TRANSLATION FROM GAME CLIENT,Watch Tower,GLOBAL_v2_B_200,
+,,,GLOBAL_v2_B_201,
+Guard Tower,,,GLOBAL_v2_B_202,Вартова вежа
+Upgrade to Guard Tower,,,GLOBAL_v2_B_203,Перебудувати у вартову вежу
+"Guard Towers are Watch Towers upgraded to rain arrows upon their foes on land and sea.|n|n|cffffcc00Abilities:|r Unholy Sentry.|n|n|cffffcc00Attacks land, air units and ships.|r",,,GLOBAL_v2_B_204,
+,,,GLOBAL_v2_B_205,
+Улушчить до орудиейной башн,TRANSLATION FROM GAME CLIENT,Upgrade to cannon tower,GLOBAL_v2_B_206,
+Cannon Towers are Watch Towers upgraded to rain explosive death down upon their foes on land and sea.|n|n|cffffcc00Abilities:|r Unholy Sentry.|n|n|cffffcc00Attacks land units and ships.|r,,,GLOBAL_v2_B_207,
+,,,GLOBAL_v2_B_208,
+,,,GLOBAL_v2_B_209,
+Гнездо драконов,TRANSLATION FROM GAME CLIENT,Dragon roost,GLOBAL_v2_B_210,
+,,,GLOBAL_v2_B_211,
+Train Dragon,,,GLOBAL_v2_B_212,Тренувати багряного дракона
+"The Dragons represent the single most powerful force within the Horde. Their devastating flame can level any number of enemy troops, while their powerful wings allow them to tirelessly soar through the skies.|n|n|cffffcc00Abilities:|r Dragonfire, Ironscale.|n|n|cffffcc00Attacks land and air units.|r",,,GLOBAL_v2_B_213,
+,,,GLOBAL_v2_B_214,
+Research Ironscale,,,GLOBAL_v2_B_215,
+"Increases the armor of Dragons and improves it to Large, making it more resitant against piercing damage.",,,GLOBAL_v2_B_216,"Підвищення броні драконів, що робить їх більш стійкими проти ворожих атак дальнього бою."
+,,,GLOBAL_v2_B_217,
+Верфь орды,TRANSLATION FROM GAME CLIENT,Orc shipyard,GLOBAL_v2_B_218,
+,,,GLOBAL_v2_B_219,
+Build Transport Ship,,,GLOBAL_v2_B_220,
+A sturdy transport ship capable of carrying units over the sea. |n|n|cffffcc00Requires|r 500 |cffffcc00Oil|r.,,,GLOBAL_v2_B_221,Дає змогу перевозити наземні одиниці морем.|n|n|cffffcc00Потребує|r 500 од. |cffffcc00Нафти|r.
+,,,GLOBAL_v2_B_222,
+Build Troll Destroyer,,,GLOBAL_v2_B_223,Побудувати Руйнівника тролів
+"The Troll Destroyers are swift, ill-visaged longboats designed to cut through enemy armadas and deal damage to enemy vessels and their flying support.|n|n|cffffcc00Attacks land, naval and air units.|r|n|n|cffffcc00Requires|r 700 |cffffcc00Oil.|r",,,GLOBAL_v2_B_224,
+,,,GLOBAL_v2_B_225,
+Build Ogre Juggernaut,,,GLOBAL_v2_B_226,Побудувати Джаґґернаут Оґрів
+"These gargantuan ships of war are the main armament in the dark armada of the Horde. Good at destroying enemy ships and bombarding buildings from the sea.|n|n|cffffcc00Abilities:|r Frontal Cannon Shot, Incendiary Shells.|n|n|cffffcc00Attacks land and naval units.|r|n|n|cffffcc00Requires|r 1000 |cffffcc00Oil.|r",,,GLOBAL_v2_B_227,
+,,,GLOBAL_v2_B_228,
+Train War Turtle,,,GLOBAL_v2_B_229,Тренувати бойову черепаху
+"These giant sea turtles are native to the southern seas and were captured by the Stormreaver clan. They can submerge beneath the waves and spy on enemy forces above the surface.|n|n|cffffcc00Abilities:|r Periscope, Submerge.|n|n|cffffcc00Attacks naval units and naval buildings.|r|n|n|cffffcc00Requires|r 800 |cffffcc00Oil.|r",,,GLOBAL_v2_B_230,
+,,,GLOBAL_v2_B_231,
+Build Oil Tanker,,,GLOBAL_v2_B_232,
+Vessel for building Oil Platforms to harvest and transport oil necessary for construction of fleets.,,,GLOBAL_v2_B_233,
+,,,GLOBAL_v2_B_234,
+,,,GLOBAL_v2_B_235,
+Foundry,,,GLOBAL_v2_B_236,Ливарня
+Build Foundry,,,GLOBAL_v2_B_237,Побудувати Ливарню
+"Distinguished by its towering smokestacks, the Foundry forges the cannons and armor that equip the Horde’s mightiest warships. A creation of the Blackrock clan, these dark, sweltering forges embody the Horde’s brutal industry.|n|n|cffffcc00Research:|r Brass Cannons, Brass Plating.|n|n|cffffcc00Requires|r 400 |cffffcc00Oil.|r",,,GLOBAL_v2_B_238,
+,,,GLOBAL_v2_B_239,
+Research Frontal Cannon Shot,,,GLOBAL_v2_B_240,
+"Allows Ships to use the Frontal Cannon Shot ability, that can stun enemy ship or tower for a brief time as well as deal additional damage.|n|n|cffffcc00Requires|r 3500 |cffffcc00Oil|r.",,,GLOBAL_v2_B_241,
+,,,GLOBAL_v2_B_242,
+Upgrade to Brass Cannons,,,GLOBAL_v2_B_243,
+"Increases damage of Destroyers, Juggernauts and War Turtles.  |n|n|cffffcc00Requires|r 1000 |cffffcc00Oil|r.",,,GLOBAL_v2_B_244,Збільшує шкоду яку наносить бойовий флот Орди.|n|n|cffffcc00Необхідно|r 1000 од. |cffffcc00нафти|r.
+,,,GLOBAL_v2_B_245,
+Upgrade to Iron Cannons,,,GLOBAL_v2_B_246,
+"Further increases damage of Destroyers, Juggernauts and War Turtles.  |n|n|cffffcc00Requires|r 2000 |cffffcc00Oil|r.",,,GLOBAL_v2_B_247,Ще більше збільшує шкоду яку наносить бойовий флот Орди.|n|n|cffffcc00Необхідно|r 2000 од. |cffffcc00нафти|r.
+,,,GLOBAL_v2_B_248,
+Upgrade to Steel Cannons,,,GLOBAL_v2_B_249,
+"Further increases damage of Destroyers, Juggernauts and War Turtles.  |n|n|cffffcc00Requires|r 3000 |cffffcc00Oil|r.",,,GLOBAL_v2_B_250,Максимально збільшує шкоду яку наносить бойовий флот Орди.|n|n|cffffcc00Необхідно|r 3000 од. |cffffcc00нафти|r.
+,,,GLOBAL_v2_B_251,
+Upgrade to Brass Plating,,,GLOBAL_v2_B_252,
+"Increases armor of Orc Transports, Destroyers and Juggernauts.",,,GLOBAL_v2_B_253,
+,,,GLOBAL_v2_B_254,
+Upgrade to Iron Plating,,,GLOBAL_v2_B_255,
+"Further increases armor of Orc Transports, Destroyers and Juggernauts.",,,GLOBAL_v2_B_256,
+,,,GLOBAL_v2_B_257,
+Upgrade to Steel Plating,,,GLOBAL_v2_B_258,
+"Further increases armor of Orc Transports, Destroyers and Juggernauts.",,,GLOBAL_v2_B_259,
+,,,GLOBAL_v2_B_260,
+Oil Refinery,,,GLOBAL_v2_B_261,Нафтопереробний завод
+Build Oil Refinery,,,GLOBAL_v2_B_262,Побудувати нафтопереробний завод
+"The Oil Refinery uses the large, arching pipelines on either side of the main structure to pump oil from the Tankers into its processing holds.|nServes as a drop-off point for oil gathering.|n|n|cffffcc00Research:|r Bigger Tanks|n|n|cffffcc00Requires|r 200 |cffffcc00Oil.|r",,,GLOBAL_v2_B_263,
+,,,GLOBAL_v2_B_264,
+Research Bigger Tanks,,,GLOBAL_v2_B_265,
+"Increases the barrel capacity of Oil Tankers, allowing them to get additional 25 barrels of oil upon transportation.",,,GLOBAL_v2_B_266,"Збільшені бочки для нафти, дозволяють нафтовим танкерам доставляти додатково 25 од. нафти за раз."
+Alliance buildings,,,GLOBAL_v2_B_267,
+Ферма,,,GLOBAL_v2_B_268,
+Ратуша,,,GLOBAL_v2_B_269,
+Форт,,,GLOBAL_v2_B_270,
+Замок,,,GLOBAL_v2_B_271,
+Казармы,,,GLOBAL_v2_B_272,
+Лесопилка,,,GLOBAL_v2_B_273,
+Elven Lumber Mill,,,GLOBAL_v2_B_274,
+Кузница,,,GLOBAL_v2_B_275,
+Gnomish Invertor,,,GLOBAL_v2_B_276,
+Church,,,GLOBAL_v2_B_277,
+Stables,,,GLOBAL_v2_B_278,
+Mage Tower,,,GLOBAL_v2_B_279,
+Верфь Альяна,,,GLOBAL_v2_B_280,
+Refinery,,,GLOBAL_v2_B_281,
+Foundry,,,GLOBAL_v2_B_282,
+Villa,,,GLOBAL_v2_B_283,
+Chateu,,,GLOBAL_v2_B_284,
+Palace,,,GLOBAL_v2_B_285,
+Manor,,,GLOBAL_v2_B_286,
+Forge,,,GLOBAL_v2_B_287,
+Elven Altar,,,GLOBAL_v2_B_288,
+Hatchery,,,GLOBAL_v2_B_289,
+Botanist garden,,,GLOBAL_v2_B_290,
+,,,,
+★ HEROES,,,,
+Dal'rend Blackhand,,,GLOBAL_v2_H_001,
+Revieve Dal'rend Blackhand,,,GLOBAL_v2_H_002,
+Warlord ,,,GLOBAL_v2_H_003,
+Rend,Роздирання,,GLOBAL_v2_H_004,
+Learn Rend - [|cffffcc00Level %d|r],Вивчити Роздирання - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_005,
+Rend - [|cffffcc00Level 1|r],,,GLOBAL_v2_H_006,
+Rend - [|cffffcc00Level 2|r],,,GLOBAL_v2_H_007,
+Rend - [|cffffcc00Level 3|r],,,GLOBAL_v2_H_008,
+Unleashes a fiery slash dealing damage to enemies in front. The damage is increased against targets affected by Devastate.|n|nDamage: |cffffcc00100|r |cff808080/ 150 / 200|r|nDamage vs Devastate: |cffffcc00125|r |cff808080/ 200 / 300|r,,,GLOBAL_v2_H_009,
+Unleashes a fiery slash dealing damage to enemies in front. The damage is increased against targets affected by Devastate.|n|nDamage: |cff808080100 /|r |cffffcc00150 |r|cff808080/ 200|r|nDamage vs Devastate: |cff808080125 /|r |cffffcc00200 |r|cff808080/ 300|r,,,GLOBAL_v2_H_010,
+Unleashes a fiery slash dealing damage to enemies in front. The damage is increased against targets affected by Devastate.|n|nDamage: |cff808080100 / 150 /|r |cffffcc00200|r|nDamage vs Devastate: |cff808080125 / 200 /|r |cffffcc00300|r,,,GLOBAL_v2_H_011,
+Unleashes a fiery slash dealing damage to enemies in front. The damage is increased against targets affected by Devastate.|n|nDamage: |cffffcc00100|r / |cffffcc00150|r / |cffffcc00200|r|nDamage vs Devastate: |cffffcc00125|r / |cffffcc00200|r / |cffffcc00300|r,,,GLOBAL_v2_H_012,
+Blackrock & Roll,Блекрок-н-рол,,GLOBAL_v2_H_013,
+Learn Blackrock & Roll  - [|cffffcc00Level %d|r],Вивчити Блекрок-н-рол - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_014,
+Blackrock & Roll - [|cffffcc00Level 1|r],Блекрок-н-рол - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_015,
+Blackrock & Roll - [|cffffcc00Level 2|r],Блекрок-н-рол - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_016,
+Blackrock & Roll - [|cffffcc00Level 3|r],Блекрок-н-рол - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_017,
+This unit is under the effects of Blackrock & Roll ; it has an increased movement speed and attack rate.,Ціль знаходиться під ефектом Блекрок-н-рол ; Швидкість руху та атаки підвищена.,,GLOBAL_v2_H_018,
+"Increases the movement speed and attack rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <A00N,DataA1,%>% movement, <A00N,DataB1,%>% attack. |n|cffffcc00Level 2|r - <A00N,DataA2,%>% movement, <A00N,DataB2,%>% attack. |n|cffffcc00Level 3|r - <A00N,DataA3,%>% movement, <A00N,DataB3,%>% attack.",,,GLOBAL_v2_H_019,
+Devastate,Злам,,GLOBAL_v2_H_020,
+This unit's armor has been devastated.,Броня цілі знижена.,,GLOBAL_v2_H_021,
+Learn Devastate - [|cffffcc00Level %d|r],Вивчити злам - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_022,
+Devastate - [|cffffcc00Level 1|r],Злам - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_023,
+Devastate - [|cffffcc00Level 2|r],Злам - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_024,
+Devastate - [|cffffcc00Level 3|r],Злам - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_025,
+"Devastates enemy unit's or structure's defenses, dealing moderate damage and reducing their armor. Also increases damage from Rend ability.|n|nDamage: |cff80808050 / 75 /|r |cffffcc00100|r|nArmor Reduction: |cff8080803 / 4 /|r |cffffcc006|r","Злам захисту ворожого підрозділу або споруди, наносить шкоду та зменшує броню. Також збільшує шкоду яку завдає здатності «Роздирати».|n|nШкода: |cff80808050 од. / 75 од. /|r |cffffcc00100 од.|r|nЗменшення броні: |cff8080803 од. / 4од. /|r |cffffcc006 од.|r",,GLOBAL_v2_H_026,
+"Devastates enemy unit's or structure's defenses, dealing moderate damage and reducing their armor. Also increases damage from Rend ability.|n|nDamage: 50 / 75 / 100|nArmor Reduction: 3 / 4 / 6","Злам захисту ворожого підрозділу або споруди, наносить шкоду та зменшує броню. Також збільшує шкоду яку завдає здатності Роздирати.|n|nШкода: 50 од. / 75 од./ 100 од.|n Зменшення броні: 3 од. / 4 од. / 6 од.",,GLOBAL_v2_H_027,
+"Devastates enemy unit's or structure's defenses, dealing moderate damage and reducing their armor. Also increases damage from Rend ability.|n|nDamage: |cff80808050 /|r |cffffcc0075 |r|cff808080/ 100|r|nArmor Reduction: |cff8080803 /|r |cffffcc004 |r|cff808080/ 6|r","Злам захисту ворожого підрозділу або споруди, наносить шкоду та зменшує броню. Також збільшує шкоду яку завдає здатності Роздирати.|n|nШкода: |cff808080од.  /|r |cffffcc0075 од.|r|cff808080/ 100 од.|r|nЗменшення броні: |cff8080803 од. /|r |cffffcc004 од. |r|cff808080/ 6 од.|r",,GLOBAL_v2_H_028,
+"Devastates enemy unit's or structure's defenses, dealing moderate damage and reducing their armor. Also increases damage from Rend ability.|n|nDamage: |cffffcc0050|r |cff808080/ 75 / 100|r|nArmor Reduction: |cffffcc003|r |cff808080/ 4 / 6|r","Злам захисту ворожого підрозділу або споруди, наносить шкоду та зменшує броню. Також збільшує шкоду яку завдає здатності Роздирати.|n|nШкода: |cffffcc0050 од.|r |cff808080/ 75 од. / 100 од.|r|nЗменшення броні: |cffffcc003 од.|r |cff808080/ 4 од. / 6 од.|r",,GLOBAL_v2_H_029,
+Heart of the Mountain,Серце гори,,GLOBAL_v2_H_030,
+Learn Heart of the Mountain,Вивчити сердце гори,,GLOBAL_v2_H_031,
+"Channels the Blackrock Clan's battle runes, which coat the weapons and armor of nearby allies with fiery energy, temporarily improving them.
+
+Duration: |cffffcc0030s|r
+Bonus Damage: |cffffcc00+50%|r
+Bonus Armor: |cffffcc00+5|r","Накладає бойові руни клану Чорного Каменю, які тимчасово покривають зброю та обладунки найближчих союзників енергрією вогню.
+
+Тривалість: |cffffcc0030 сек.|r
+Шкода: |cffffcc00+50%|r
+Броня: |cffffcc00+5 од.|r",,GLOBAL_v2_H_032,
+This unit has Heart of the Mountain; its attack damage and armor have been increased.,Ця одиниця знаходиться під впливом «Серце гори»; Шкода та броня підвищені.,,GLOBAL_v2_H_033,
+Utok Scratcher,Уток Дряпач,,GLOBAL_v2_H_034,
+Utok Training,Підвищення рівня Утока,,GLOBAL_v2_H_035,
+"Increases Utok's mana capacity, mana regeneration rate, hit points, and attack rate.","Збільшує обсяг мани та швидкість ії регенерації , також кількість здоровʼя та швидкість атаки.",,GLOBAL_v2_H_036,
+"- Resistant Skin,- Resistant Skin|n- Lighning Bolt,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival","- Стійка шкіра,- Стійка шкіра|n- Блискавка,- Стійка шкіра|n- Блискавка|n- Зцілення ран,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу,- Стійка шкіра|n- Блискавка|n- Зцілення ран|n- Розвіювання|n- Відродження духу",,GLOBAL_v2_H_037,
+Lightning Bolt,Блискавка,,GLOBAL_v2_H_038,
+Lightning Bolt - [|cffffcc00Level 1|r],Блискавка - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_039,
+Lightning Bolt - [|cffffcc00Level 2|r],Блискавка - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_040,
+Lightning Bolt - [|cffffcc00Level 3|r],Блискавка - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_041,
+"Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB1> times, dealing <A642:ACcl,DataA1> damage to the primary target.","Уток випускає ланцюгву блискавку, яка відскакує до <A642:ACcl,DataB1> раз(ів), і наносить <A642:ACcl,DataA1> од. шкоди основній цілі.",,GLOBAL_v2_H_042,
+"Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.","Уток випускає ланцюгву блискавку, яка відскакує до <A642:ACcl,DataB2> раз(ів), і наносить <A642:ACcl,DataA2> од.  шкоди основній цілі. ",,GLOBAL_v2_H_043,
+Mend Wounds,Зцілення ран,,GLOBAL_v2_H_044,
+Mend Wounds - [|cffffcc00Level 1|r],Зцілення ран - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_045,
+Mend Wounds - [|cffffcc00Level 2|r],Зцілення ран - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_046,
+Mend Wounds - [|cffffcc00Level 3|r],Зцілення ран - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_047,
+Heals self for 700 hit points.,Зцілює себе на 700 од. здоровʼя за 1 сек.,,GLOBAL_v2_H_048,
+Heals self for 600 hit points.,Зцілює себе на 600 од. здоров'я за 2 сек.,,GLOBAL_v2_H_049,
+Heals self for 500 hit points.,Зцілює себе на 500 од. здоров'я за 3 сек.,,GLOBAL_v2_H_050,
+Purge,,,GLOBAL_v2_H_051,
+Purge - [|cffffcc00Level 1|r],Розвіювання - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_052,
+Purge - [|cffffcc00Level 2|r],Розвіювання - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_053,
+Purge - [|cffffcc00Level 3|r],Розвіювання - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_054,
+"Removes all buffs from a target unit. Enemy units are also immobilized for <AU3O,DataD1> seconds and their movement speed is reduced by a factor of <AU3O,DataA1>; they will slowly regain their movement speed over <AU3O,Dur1> seconds. |n|n|cffffcc00Deals <AU3O,DataC1> damage to summoned units.|r","Знімає всі ефекти з цілі. При використанні на ворожу ціль тимчасово знерухомлює її  на <AU30,DataD2> сек. та зменшує швидкість руху на <AU30,DataA2>. |n |n|cffffcc00Робить <AU30,DataC2> од. шкоди прикликаним одиницям.|r",,GLOBAL_v2_H_055,
+"Removes all buffs from a target unit. Enemy units are also immobilized for <AU3O,DataD2> seconds and their movement speed is reduced by a factor of <AU3O,DataA2>; they will slowly regain their movement speed over <AU3O,Dur2> seconds. |n|n|cffffcc00Deals <AU3O,DataC2> damage to summoned units.|r",,,GLOBAL_v2_H_056,
+"Removes all buffs from a target unit. Enemy units are also immobilized for <AU3O,DataD3> seconds and their movement speed is reduced by a factor of <AU3O,DataA3>; they will slowly regain their movement speed over <AU3O,Dur3> seconds. |n|n|cffffcc00Deals <AU3O,DataC3> damage to summoned units.|r",,,GLOBAL_v2_H_057,
+Spirit Revival,Відродження духу,,GLOBAL_v2_H_058,
+Spirit Revival - [|cffffcc00Level 1|r],Відродження духу - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_059,
+Spirit Revival - [|cffffcc00Level 2|r],Відродження духу - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_060,
+Spirit Revival - [|cffffcc00Level 3|r],Відродження духу - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_061,
+Spirit Revival - [|cffffcc00Level 4|r],Відродження духу - [|cffffcc00Рівень 4|r],,GLOBAL_v2_H_062,
+"When killed, this unit will come back to life. Reincarnation has a <A602,Cool1> second cooldown.","Якщо одиницю було вбито вона оживе. Реінкарнація має  <A602,Cool1> сек. відновлення.",,GLOBAL_v2_H_063,
+"When killed, this unit will come back to life. Reincarnation has a <A602,Cool2> second cooldown.","Якщо одиницю було вбито вона оживе. Реінкарнація має  <A602,Cool2> сек. відновлення.",,GLOBAL_v2_H_064,
+"When killed, this unit will come back to life. Reincarnation has a <A602,Cool3> second cooldown.","Якщо одиницю було вбито вона оживе. Реінкарнація має  <A602,Cool3> сек. відновлення.",,GLOBAL_v2_H_065,
+"When killed, this unit will come back to life. Reincarnation has a <A602,Cool4> second cooldown.","Якщо одиницю було вбито вона оживе. Реінкарнація має  <A602,Cool4> сек. відновлення.",,GLOBAL_v2_H_066,
+Zul'jin,Зул'джин,,GLOBAL_v2_H_067,
+Revive Zul'jin,Оживити Зул'джина,,GLOBAL_v2_H_068,
+Troll Warlord,Воєвода тролів,,GLOBAL_v2_H_069,
+Locust Jar,Глечик сарани,,GLOBAL_v2_H_070,
+Learn Locust Jar - [|cffffcc00Level %d|r],Вивчити глечик сарани - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_071,
+Locust Jar - [|cffffcc00Level 1|r],Глечик сарани - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_072,
+Locust Jar - [|cffffcc00Level 2|r],Глечик сарани - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_073,
+Locust Jar - [|cffffcc00Level 3|r],Глечик сарани - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_074,
+"Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cffffcc0014s|r / |cffffcc0017s|r / |cffffcc0020s|r
+Number of Locusts: |cffffcc004|r / |cffffcc005|r / |cffffcc006|r","Зул'джин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул'джину.
+
+Тривалість: 14 сек. / 17 сек. / 20 сек.
+Кількість сарани: 4 шт. / 5 шт. / 6 шт.",,GLOBAL_v2_H_075,
+"Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cffffcc0014s |r|cff808080/ 17s / 20s|r
+Number of Locusts: |cffffcc004 |r|cff808080/ 5 / 6|r","Зул'джин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул'джину.
+
+Тривалість: |cffffcc0014 сек. |r|cff808080/ 17 сек. / 20 сек.|r
+Кількість сарани: |cffffcc004 шт. |r|cff808080/ 5 шт. / 6 шт.|r",,GLOBAL_v2_H_076,
+"Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cff80808014s /|r |cffffcc0017s |r|cff808080/ 20s|r
+Number of Locusts: |cff8080804 /|r |cffffcc005 |r|cff808080/ 6|r","Зулʼджин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул’джину.
+
+Тривалість: |cff80808014 сек. /|r |cffffcc0017 сек. |r|cff808080/ 20 сек.|r
+Кількість сарани:|cff8080804 /|r |cffffcc005 |r|cff808080/ 6|r",,GLOBAL_v2_H_077,
+"Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cff80808014s / 17s /|r |cffffcc0020s|r
+Number of Locusts: |cff8080804 / 5 /|r |cffffcc006|r","Зулʼджин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул’джину.
+
+Тривалість: |cff80808014 сек. / 17 сек. /|r |cffffcc0020 сек.|r
+Кількість сарани:|cff8080804 шт. / 5 шт. /|r |cffffcc006 шт.|r",,GLOBAL_v2_H_078,
+Regeneration,Реґенерація,,GLOBAL_v2_H_079,
+Learn Regeneration - [|cffffcc00Level %d|r],Вивчити Реґенерація - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_080,
+Regeneration - [|cffffcc00Level 1|r],Реґенерація - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_081,
+Regeneration - [|cffffcc00Level 2|r],Реґенерація - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_082,
+Regeneration - [|cffffcc00Level 3|r],Реґенерація - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_083,
+"Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffffcc0030|r / |cffffcc0035|r / |cffffcc0040|r
+Duration: |cffffcc0010s|r","Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
+
+Здоров'я в сек.: 0 од. / 35 од. / 40 од.
+Тривалість: 10 сек.",,GLOBAL_v2_H_084,
+"Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffffc80030 |r|cffc0c0c0/ 35 / 40|r
+Duration: |cffffc80010s|r","Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
+
+Здоров'я в сек.: |cffffc80030 од. |r|cffc0c0c0/ 35 од. / 40 од.|r
+Тривалість: |cffffc80010 сек.|r",,GLOBAL_v2_H_085,
+"Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffc0c0c030 /|r |cffffc80035 |r|cffc0c0c0/ 40|r
+Duration: |cffffc80010s|r","Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
+
+Здоров'я в сек.: |cffc0c0c030 од. /|r |cffffc80035 од. |r|cffc0c0c0/ 40 од.|r
+Тривалість: |cffffc80010|r",,GLOBAL_v2_H_086,
+"Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffc0c0c030 / 35 /|r |cffffc80040|r
+Duration: |cffffc80010s|r","Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
+
+Здоров'я в сек.: |cffc0c0c030 од. / 35 од. /|r |cffffc80040 од.|r
+Тривалість: |cffffc80010|r",,GLOBAL_v2_H_087,
+Grievous Throw,Травмуючий кидок,,GLOBAL_v2_H_088,
+Learn Grievous Throw - [|cffffcc00Level %d|r],Вивчити Травмуючий кидок - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_089,
+Grievous Throw - [|cffffcc00Level 1|r],Травмуючий кидок - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_090,
+Grievous Throw - [|cffffcc00Level 2|r],Травмуючий кидок - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_091,
+Grievous Throw - [|cffffcc00Level 3|r],Травмуючий кидок - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_092,
+"Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cffffcc0075|r / |cffffcc00150|r / |cffffcc00225|r
+Damage per Second: |cffffcc0020|r / |cffffcc0035|r / |cffffcc0050|r","Зул'джин що сили жбурляє по цілі сокиру та приголомшує її, це чинить значну шкоду і викликає кровотечу.
+
+|cffe6cc80«Сорику хош?»|r
+
+Тривалість: 5 сек.
+Початкова шкода: 75 од. / 150 од. / 225 од.
+Шкода в сек. від кровотечі: 20 од. / 35 од. / 50 од.",,GLOBAL_v2_H_093,
+"Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cffffcc0075 |r|cff808080/ 150 / 225|r
+Damage per Second: |cffffcc0020 |r|cff808080/ 35 / 50|r","Зул'джин що сили жбурляє по цілі сокиру та приголомшує її, це чинить значну шкоду і викликає кровотечу.
+
+|cffe6cc80«Сокиру хош?»|r
+
+Тривалість: |cffffcc005 сек.|r
+Початкова шкода: |cffffcc00 75 од. |r|cff808080/ 150 од. / 225 од.|r
+Шкода в сек. від кровотечі: |cffffcc0020 од. |r|cff808080/ 35 од. / 50 од.|r",,GLOBAL_v2_H_094,
+"Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cff80808075 /|r |cffffcc00150 |r|cff808080/ 225|r
+Damage per Second: |cff80808020 /|r |cffffcc0035 |r|cff808080/ 50|r","Зул'джин що сили жбурляє по цілі сокиру та приголомшує її, чинить значну шкоду і викликає кровотечу.
+
+|cffe6cc80«Сокиру хош?»|r
+
+Тривалість: |cffffcc005 сек.|r
+Початкова шкода: |cff80808075 од. /|r |cffffcc00150 од. |r|cff808080/ 225 од.|r
+Шкода в сек. від кровотечі: |cff80808020 од. /|r |cffffcc0035 од. |r|cff808080/ 50 од.|r",,GLOBAL_v2_H_095,
+"Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cff80808075 / 150 /|r |cffffcc00225|r
+Damage per Second: |cff80808020 / 35 /|r |cffffcc0050|r","Зул'джин жорстоко кидає сокиру, завдаючи цілі прямої шкоди, змушує ціль кровоточити та приголомшує ії.
+
+|cffe6cc80«Сокиру хош?»|r
+
+Тривалість: |cffffcc005 сек.|r
+Початкова шкода: |cff80808075 од./|r |cffffcc00150 од. |r|cff808080/ 225 од.|r
+Шкода в сек. від кровотечі:|cff80808020 од. /|r |cffffcc0035 од. |r|cff808080/ 50 од.|r",,GLOBAL_v2_H_096,
+This unit was hit by Grievus Throw; it will take damage over time and move more slowly.,Ця одиниця була покалічена; Протягом часу вона буде отримувати шкоду і пересуватись повільно.,,GLOBAL_v2_H_097,
+Taz'dingo!,Таз'дінґо!,,GLOBAL_v2_H_098,
+Learn Taz'dingo!,Вивчити Таз'дінґо,,GLOBAL_v2_H_099,
+"Zul'jin has increased attack and movement speed, and be immune to all damage.","Швидкість атаки та руху Зул'джина підвищується, а також він отримує імунітет від будь-яких атак.",,GLOBAL_v2_H_100,
+"Zul'jin goes berserk, letting out a mighty warcry going berserk. Zul'jin will have increased attack and movement speed, and be immune to all damage.
+
+Attack / Speed: |cffffc800+100%|r
+Duration: |cffffc80030|r","Зул'джин вигукує могутній бойович клич та входить у стан берсерка. Швидкість атаки та руху Зул'джина підвищується, а також він отримує імунітет від будь-яких атак.
+
+Шкода: |cffffc800+ 100%|r
+Швидкість: |cffffc800+ 100%|r
+Тривалість: |cffffc80030 сек.|r",,GLOBAL_v2_H_101,
+Maim Blackhand,Мейм Чорнорук,,GLOBAL_v2_H_102,
+Revieve Maim Blackhand,Оживити Мейма Чорнорука,,GLOBAL_v2_H_103,
+Warlord,Воєвода,,GLOBAL_v2_H_104,
+Rampage,Буйство,,GLOBAL_v2_H_105,
+Learn Rampage - [|cffffcc00Level %d|r],Вивчити Буйство - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_106,
+Rampage - [|cffffcc00Level 1|r],Буйство - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_107,
+Rampage - [|cffffcc00Level 2|r],Буйство - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_108,
+Rampage - [|cffffcc00Level 3|r],Буйство - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_109,
+"Unleashes a series of 4 brutal strikes damaging the target with each blow.
+
+Number of Strikes: |cffffcc004|r
+Damage per Strike: |cffffcc00Attack +15|r |cff808080/ Attack +25 / Attack +40|r","Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду додаткову шкоду.
+
+Кількість ударів: 4
+Додаткова шкода від кожного удару: +15 од. / +25 од. / +40 од",,GLOBAL_v2_H_110,
+"Unleashes a series of 4 brutal strikes damaging the target with each blow.
+
+Number of Strikes: |cffffcc004|r
+Damage per Strike: |cff808080Attack +15 /|r |cffffcc00Attack +25|r|cff808080 / Attack +40|r","Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду додаткову шкоду.
+
+Кількість ударів: 4
+Додаткова шкода від кожного удару: |cffffcc00+15 од.|r |cff808080/ +25 од. / +40 од.|r",,GLOBAL_v2_H_111,
+"Unleashes a series of 4 brutal strikes damaging the target with each blow.
+
+Number of Strikes: |cffffcc004|r
+Damage per Strike: |cff808080Attack +15 / Attack +25 /|r |cffffcc00Attack +40|r","Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду додаткову шкоду.
+
+Кількість ударів: |cffffcc004|r
+Додаткова шкода від кожного удару: |cffffcc00 +15 од.|r |cff808080/ +25 од. / +40 од.|r",,GLOBAL_v2_H_112,
+"Unleashes a series of 4 brutal strikes damaging the target with each blow.
+
+Number of Strikes: |cffffcc004|r
+Damage per Strike: |cffffcc00Attack +15|r / |cffffcc00Attack +25|r / |cffffcc00Attack +40|r","Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду додаткову шкоду.
+
+Кількість ударів: |cffffcc004|r
+Додаткова шкода від кожного удару: |cff808080+15 од. / +25 од. /|r |cffffcc00Attack +40 од.|r",,GLOBAL_v2_H_113,
+Bloodthirst,Кровожерливість,,GLOBAL_v2_H_114,
+Learn Bloodthirst - [|cffffcc00Level %d|r],Вивчити Кровожерливіст - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_115,
+Bloodthirst - [|cffffcc00Level 1|r],Кровожерливість - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_116,
+Bloodthirst - [|cffffcc00Level 2|r],Кровожерливість - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_117,
+Bloodthirst - [|cffffcc00Level 3|r],Кровожерливість - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_118,
+"Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
+If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.|n|nLife per Kill: |cffffcc004%|r / |cffffcc007%|r / |cffffcc0010%|r|nRampage Damage to Healing: |cffffcc0020%|r / |cffffcc0030%|r / |cffffcc0040%|r","Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я.
+
+У випадку коли від рук Мейма гине ворожий герой, то кількість здоров'я яку він відновлює вдвічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство» |r то при використанні здібності |cffffcc00«Каліцтво» |r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: 4% / 7% / 10%
+Здоров'я за вбивство героїв: 8% / 14% / 20%
+Зцілення за шкоду від «Буйство»: 20% / 30% / 40%",,GLOBAL_v2_H_119,
+"Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
+If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+
+Life per Kill: |cffffcc004% |r|cff808080/ 7% / 10%|r
+Rampage Damage to Healing: |cffffcc0020% |r|cff808080/ 30% / 40%|r","Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я.
+
+У випадку коли від рук Мейма гине ворожий герой, то кількість здоров'я яку він відновлює вдвічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство»|r то при використанні здібності |cffffcc00«Каліцтво»|r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: |cffffcc004% |r|cff808080/ 7% / 10%|r
+Здоров'я за вбивство героїв: |cffffcc008% |r|cff808080/ 14% / 20%|r
+Зцілення за шкоду від |cffffcc00«Буйство»|r: |cffffcc0020% |r|cff808080/ 30% / 40%|r",,GLOBAL_v2_H_120,
+"Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
+If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+
+Life per Kill: |cff8080803% /|r |cffffcc007%|r |cff808080/ 10%|r
+Rampage Damage to Healing: |cff80808020% /|r |cffffcc0030%|r |cff808080/ 40%|r","Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я.
+
+У випадку коли від рук Мейма гине ворожий герой, то кількість здоровʼя яку він відновлює вдвічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство»|r то при використанні здібності |cffffcc00«Каліцтво»|r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: 4% / |cffffcc007% |cff808080/ 10%|r
+Здоров'я за вбивство героїв: 8% / |cffffcc0014% |cff808080/ 20%|r
+Зцілення за шкоду від |cffffcc00«Буйство»|r: 20% / |cffffcc0030% |cff808080 / 40%|r",,GLOBAL_v2_H_121,
+"Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
+If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+
+Life per Kill: |cff8080804% / 7% /|r |cffffcc0010%|r
+Rampage Damage to Healing: |cff80808020% / 30% /|r |cffffcc0040%|r","Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я. 
+
+У випадоку коли від рук Мейма гине ворожий герой, то кількість здоров'я яке він відновлює вдічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство»|r то при використанні здібності |cffffcc00«Каліцтво»|r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: 4% / 7% / |cffffcc0010%|cff808080|r
+Здоров'я за вбивство героїв: 8% / 14% / |cffffcc0020%|cff808080|r
+Зцілення за шкоду від |cffffcc00«Буйство»|r: 20% / 30% / |cffffcc0040%|cff808080|r",,GLOBAL_v2_H_122,
+Maim,Каліцтво,,GLOBAL_v2_H_123,
+This unit is Maimed; it will take damage over time.,Ціль покалічено; вона отримує періодичну шкоду.,,GLOBAL_v2_H_124,
+Learn Maim - [|cffffcc00Level %d|r],Вивчити каліцтво - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_125,
+Maim - [|cffffcc00Level 1|r],Каліцтво - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_126,
+Maim - [|cffffcc00Level 2|r],Каліцтво - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_127,
+Maim - [|cffffcc00Level 3|r],Каліцтво - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_128,
+"Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+
+Duration: |cffffcc0010|r / |cffffcc0020|r / |cffffcc0030|r
+AoE Damage: |cffffcc0050|r / |cffffcc0075|r / |cffffcc00100|r
+Damage per Second: |cffffcc0015|r","Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
+
+Тривалість кровотечі: 10 сек. / 20 сек. / 30 сек.
+Шкода по області: 50 од. / 75 од. / 100 од.
+Шкода в секунду: 15 од.",,GLOBAL_v2_H_129,
+"Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+
+Duration: |cffffcc0010 |r|cff808080/ 20 / 30|r
+AoE Damage: |cffffcc0050|r |cff808080/ 75 / 100|r
+Damage per Second: |cffffcc0015|r","Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
+
+Тривалість кровотечі: |cffffcc0010 сек. |r|cff808080/ 20 сек. / 30 сек.|r
+Шкода по області: |cffffcc0050 од.|r |cff808080/ 75 од. / 100 од.|r
+Шкода в секунду:|cffffcc0015 од.|r",,GLOBAL_v2_H_130,
+"Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+
+Duration: |cff80808010 /|r |cffffcc0020 |r|cff808080/ 30|r
+AoE Damage: |cff80808050 /|r |cffffcc0075|r |cff808080/ 100|r
+Damage per Second: |cffffcc0015|r","Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
+
+Тривалість кровотечі: |cff80808010 сек. /|r |cffffcc0020  сек. |r|cff808080/ 30  сек.|r
+Шкода по області: |cff80808050 од. /|r |cffffcc0075 од.|r |cff808080/ 100 од.|r
+Шкода в секунду: |cffffcc0015 од.|r",,GLOBAL_v2_H_131,
+"Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+
+Duration: |cff80808010 / 20 /|r |cffffcc0030|r
+AoE Damage: |cff80808050 / 75 /|r |cffffcc00100|r
+Damage per Second: |cffffcc0015|r","Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
+
+Тривалість кровотечі: |cff80808010 сек. / 20 сек. /|r |cffffcc0030 сек.|r
+Шкода по області: |cff80808050 од. / 75 од. /|r |cffffcc00100 од.|r
+Шкода в секунду: |cffffcc0015|r",,GLOBAL_v2_H_132,
+Recklessness,Безрозсудність,,GLOBAL_v2_H_133,
+"This unit has Recklessness; its attack rate and movement speed are increased, however damage takes is also increased.","Ця одиниця у стані безрозсудності; її швидкість атаки та пересування збільшені, але також збільшена шкода від ворогів.",,GLOBAL_v2_H_134,
+Learn Recklessness,Вивчити Безрозсудність,,GLOBAL_v2_H_135,
+"Enters a state of reckless fury, increasing mana regeneration and all damage done at a cost of reduced defences.
+Damage bonus also applies to |cffffcc00Rampage |rstrikes and |cffffcc00Maim |rinitial damage.
+
+Duration: |cffffcc0030s|r
+Damage Bonus: |cffffcc00+50%|r
+Armor Loss: |cffffcc00-5|r","Мейм нехтуючи своїм захистом, вивільнює всю свою лють і входить у стан безрозсудства у якому збільшується вся його шкода і швидкість відновлення мани.
+
+Шкода яку отримають цілі від |cffffcc00«Буйство» |r та |cffffcc00«Кровожерливість» |r також збільшується.
+
+Зниження власної броні: - 5 од.
+Шкода: +50%
+Тривалість: 30 сек.",,GLOBAL_v2_H_136,
+"Enters a state of reckless fury, increasing mana regeneration and all damage done at a cost of reduced defences.
+Damage bonus also applies to |cffffcc00Rampage |rstrikes and |cffffcc00Maim |rinitial damage.
+
+Duration: |cffffcc0030s|r
+Damage Bonus: |cffffcc00+50%|r
+Armor Loss: |cffffcc00-5|r","Мейм нехтуючи своїм захистом, вивільнює всю свою лють і входить у стан безрозсудства у якому збільшується вся його шкода і швидкість відновлення мани.
+
+Шкода яку отримають цілі від |cffffcc00«Буйство» |r та |cffffcc00«Кровожерливість» |r також збільшується.
+
+Тривалість |cffffcc0030 сек.|r
+Шкода: |cffffcc00+50%|r
+Зниження влансої броні: |cffffcc00-5 од.|r",,GLOBAL_v2_H_137,
+Zuluhed the Whacked,Зулугед Змучений,,GLOBAL_v2_H_138,
+Shaman,Шаман,,GLOBAL_v2_H_139,
+Revive Zuluhed the Wacked,Оживити Зулугеда Змученного,,GLOBAL_v2_H_140,
+Chain Heal,Ланцюг зцілення,,GLOBAL_v2_H_141,
+Learn Chain Heal - [|cffffcc00Level %d|r],Вивчити ланцюг зцілення - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_142,
+Chain Heal - [|cffffcc00Level 1|r],Ланцюг зцілення - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_143,
+Chain Heal - [|cffffcc00Level 2|r],Ланцюг зцілення - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_144,
+Chain Heal - [|cffffcc00Level 3|r],Ланцюг зцілення - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_145,
+"Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+
+Targets: |cffffcc00<A00R,DataB1>|r / |cffffcc00<A00R,DataB2>|r / |cffffcc00<A00R,DataB3>|r
+Healing: |cffffcc00<A00R,DataA1>|r / |cffffcc00<A00R,DataA2>|r / |cffffcc00<A00R,DataA3>|r","Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
+
+Зцілює цілей: <AOhw,DataB1> / <AOhw,DataB2> / <AOhw,DataB3>
+Зцілює здоров'я: <AOhw,DataA1> од. / <AOhw,DataA2> од. / <AOhw,DataA3> од.",,GLOBAL_v2_H_146,
+"Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+
+Targets: |cffffcc00<A00R,DataB1>|r |cff808080/ <A00R,DataB2> / <A00R,DataB3>|r
+Healing: |cffffcc00<A00R,DataA1>|r |cff808080/ <A00R,DataA2> / <A00R,DataA3>|r","Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
+
+Зцілює цілей: |cffffcc00<AOhw,DataB1>|r |cff808080/ <AOhw,DataB2> / <AOhw,DataB3>|r
+Зцілює здоров'я: |cffffcc00<AOhw,DataA1>  од.|r |cff808080/ <AOhw,DataA2>  од. / <AOhw,DataA3>  од.|r",,GLOBAL_v2_H_147,
+"Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+
+Targets: |cff808080<A00R,DataB1> / <A00R,DataB2> /|r |cffffcc00<A00R,DataB3>|r
+Healing: |cff808080<A00R,DataA1> / <A00R,DataA2> /|r |cffffcc00<A00R,DataA3>|r","Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
+
+Зцілює цілей: |cff808080<AOhw,DataB1> / <AOhw,DataB2> /|r |cffffcc00<AOhw,DataB3>|r
+Зцілює здоров'я: |cff808080<AOhw,DataA1> од. / <AOhw,DataA2> од. /|r |cffffcc00<AOhw,DataA3> од.|r",,GLOBAL_v2_H_148,
+"Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+
+Targets: |cff808080<A00R,DataB1> /|r |cffffcc00<A00R,DataB2>|r |cff808080/ <A00R,DataB3>|r
+Healing: |cff808080<A00R,DataA1> /|r |cffffcc00<A00R,DataA2>|r |cff808080/ <A00R,DataA3>|r","Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
+Зцілює цілей: |cff808080<AOhw,DataB1> /|r |cffffcc00<AOhw,DataB2>|r |cff808080/ <AOhw,DataB3>|r
+Зцілює здоров'я: |cff808080<AOhw,DataA1> од./|r |cffffcc00<AOhw,DataA2> од.|r |cff808080/ <AOhw,DataA3> од.|r",,GLOBAL_v2_H_149,
+Feral Leap,Дикий стрибок,,GLOBAL_v2_H_150,
+Learn Feral Leap - [|cffffcc00Level %d|r],Вивчити дикий стрибок - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_151,
+Feral Leap - [|cffffcc00Level 1|r],Дикий стрибок - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_152,
+Feral Leap - [|cffffcc00Level 2|r],Дикий стрибок - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_153,
+Feral Leap - [|cffffcc00Level 3|r],Дикий стрибок - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_154,
+"Teleports the Shaman a short distance, allowing him to move in and out of combat.",За допомогою сил природи переносить шамана на коротку відстань.,,GLOBAL_v2_H_155,
+"Short distance teleportation that allows the Shaman to move in and out of combat. |n|n|cffffcc00Level 1|r - <A00S,Cool1> second cooldown, <A00S,Cost1> mana. |n|cffffcc00Level 2|r - <A00S,Cool2> second cooldown, <A00S,Cost2> mana. |n|cffffcc00Level 3|r - <A00S,Cool3> second cooldown, <A00S,Cost3> mana.",,,GLOBAL_v2_H_156,
+"Short distance teleportation that allows the Shaman to move in and out of combat. |n|n|cffffcc00Level 1|r - <AEbl,Cool1> second cooldown, <AEbl,Cost1> mana. |n|cffffcc00Level 2|r - <AEbl,Cool2> second cooldown, <AEbl,Cost2> mana. |n|cffffcc00Level 3|r - <AEbl,Cool3> second cooldown, <AEbl,Cost3> mana.","Телепортує шамана на коротку відстань.
+|n|cffffcc00Рівень 1|r - <AEbl,Cool1> сек. відновлення, <AEbl,Cost1> од. мани. |n|cffffcc00Рівень 2|r - <AEbl,Cool2> сек. відновлення, <AEbl,Cost2> од. мани.
+|n|cffffcc00Рівень 3|r - <AEbl,Cool3> сек. відновлення, <AEbl,Cost3> од. мани.",,GLOBAL_v2_H_157,
+Lightning Strike,Удар блискавкою,,GLOBAL_v2_H_158,
+Learn Lighting Strike,Вивчити удар блискавкою - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_159,
+Lightning Strike - [|cffffcc00Level 1|r],Удар блискавкою - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_160,
+Lightning Strike - [|cffffcc00Level 2|r],Удар блискавкою - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_161,
+Lightning Strike - [|cffffcc00Level 3|r],Удар блискавкою - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_162,
+"Strikes the area with lightning, dealing damage and stunning targets.
+
+Stun Duration: |cffffcc003|r / |cffffcc004|r / |cffffcc005|r
+Damage: |cffffcc00150|r / |cffffcc00175|r / |cffffcc00200|r","Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі.
+
+Тривалість приголомшення: 3 сек. / 4 сек. / 5 сек.
+Шкода: 150 од. / 175 од. / 200 од.",,GLOBAL_v2_H_163,
+"Strikes the area with lightning, dealing damage and stunning targets.
+
+Stun Duration: |cffffcc003 |r|cff808080/ 4 / 5|r
+Damage: |cffffcc00100 |r|cff808080/ 150 / 200|r","Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
+
+Тривалість приголомшення: |cffffcc003 сек. |r|cff808080/ 4 сек. / 5 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 150 од. / 200 од.|r",,GLOBAL_v2_H_164,
+"Strikes the area with lightning, dealing damage and stunning targets.
+
+Stun Duration: |cff8080803 /|r |cffffcc004 |r|cff808080/ 5|r
+Damage: |cff808080100 /|r |cffffcc00150 |r|cff808080/ 200|r","Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
+
+Тривалість приголомшення: |cff8080803 сек. /|r |cffffcc004 сек. |r|cff808080/ 5 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00150 од. |r|cff808080/ 200 од.|r",,GLOBAL_v2_H_165,
+"Strikes the area with lightning, dealing damage and stunning targets.
+
+Stun Duration: |cff8080803 / 4 /|r |cffffcc005|r
+Damage: |cff808080100 / 150 /|r |cffffcc00200|r","Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
+
+Тривалість приголомшення: |cff8080803 сек. / 4 сек. /|r |cffffcc005 сек.|r
+Шкода: |cff808080100 од. / 150 од. /|r |cffffcc00200 од.|r",,GLOBAL_v2_H_166,
+Call of the Elements,Поклик Стихій,,GLOBAL_v2_H_167,
+Learn Call of the Elements,Вивчити Поклик стихій,,GLOBAL_v2_H_168,
+"Zuluhed tries to commune with the Elements, summoning a random spirit to fight on his side.
+
+Duration: 120s","Зулугед волає до стихій, викликаючи одного випадкового елементаля який тимчасово б'ється на боці шамана.
+
+Тривалість життя елементаля: 120 сек.",,GLOBAL_v2_H_169,
+"Zuluhed tries to commune with the Elements, summoning a random spirit to fight on his side.
+
+Duration: |cffffcc00120s|r","Зулугед волає до стихій, викликаючи одного випадкового елементаля який тимчасово б'ється на боці шамана.
+
+Тривалість життя елементаля: |cffffcc00120 сек.|r",,GLOBAL_v2_H_170,
+Air elemental,,,GLOBAL_v2_H_171,
+Fire Elemental,,,GLOBAL_v2_H_172,
+Earth Elemental,,,GLOBAL_v2_H_173,
+Water Elemental,,,GLOBAL_v2_H_174,
+Cho'gall,Чо'ґалл,,GLOBAL_v2_H_175,
+Ogre Magi,Оґр-маг,,GLOBAL_v2_H_176,
+Revive Cho'gall,Оживити Чо'ґалла,,GLOBAL_v2_H_177,
+Sundering,Розкол,,GLOBAL_v2_H_178,
+This unit has been shocked by Cho'gall's Sundering.,Ця одиниця була приголомшена від розколу Чо'ґалла.,,GLOBAL_v2_H_179,
+Learn Sundering - [|cffffcc00Level %d|r],Вивчити Розкол - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_180,
+Sundering - [|cffffcc00Level 1|r],Розкол - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_181,
+Sundering - [|cffffcc00Level 2|r],Розкол - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_182,
+Sundering - [|cffffcc00Level 3|r],Розкол - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_183,
+"Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+
+Duration: |cffffcc002s |r|cff808080/ 3s / 4s|r
+Damage: |cffffcc00150 |r|cff808080/ 225 / 300|r","Розколює землю по прямій лінії, роблячи шкоду ворожим наземним цілям та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
+
+Тривалість: 2 сек. / 3 сек. / 4 сек.
+Шкода: 150 од. / 225 од. / 300 од.",,GLOBAL_v2_H_184,
+"Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+
+Duration: |cff8080802s /|r |cffffcc003s |r|cff808080/ 4s|r
+Damage: |cff808080150 /|r |cffffcc00225 |r|cff808080/ 300|r","Розколює землю по прямій лінії, роблячи шкоду ворожим наземним цілям та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
+
+Тривалість: |cffffcc002 сек. |r|cff808080/ 3 сек. / 4 сек.|r
+Шкода: |cffffcc00150 од. |r|cff808080/ 225 од. / 300 од.|r",,GLOBAL_v2_H_185,
+"Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+
+Duration: |cff8080802s / 3s /|r |cffffcc004s|r
+Damage: |cff808080150 / 225 /|r |cffffcc00300|r","Розколює землю по прямій лінії, роблячи шкоду ворожим наземним цілям та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
+
+Тривалість: |cff8080802 сек. /|r |cffffcc003 сек. |r|cff808080/ 4 сек.|r
+Шкода: |cff808080150 од. /|r |cffffcc00225  од.|r|cff808080/ 300 од.|r",,GLOBAL_v2_H_186,
+"Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+
+Duration: |cffffcc002s|r / |cffffcc003s|r / |cffffcc004s|r
+Damage: |cffffcc00150|r / |cffffcc00225|r / |cffffcc00300|r","Розколює землю по прямій лінії, ноносячи шкоду наземним війська та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження розколу.
+
+Тривалість: |cff8080802 сек. / 3 сек. /|r |cffffcc004 сек.|r
+Шкода: |cff808080150 од. / 225 од. /|r |cffffcc00300 од.|r",,GLOBAL_v2_H_187,
+,Важкий удар,,GLOBAL_v2_H_188,
+Gives a chance that an attack will do bonus damage and stun an opponent.|n|nDuration: |cffffcc002s|r|nBonus Damage: |cffffcc0020|r / |cffffcc0035|r / |cffffcc0050|r|nChance: |cffffcc0020%|r / |cffffcc0030%|r / |cffffcc0040%|r,"|cffe6cc80ПАСИВНА|r
+
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: 2 сек.
+Додаткова шкода: 20 од. / 35 од. / 50 од.
+Шанс: 20% / 30% / 40%",,GLOBAL_v2_H_189,
+"Gives a chance that an attack will do bonus damage and stun an opponent.
+
+Duration: |cffffcc002s|r
+Bonus Damage: |cffffcc0020 |r|cff808080/ 35 / 50|r
+Chance: |cffffcc0020% |r|cff808080/ 30% / 40%|r","|cffe6cc80ПАСИВНА|r
+
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: |cffffcc002 сек.|r
+Додаткова шкода: |cffffcc0020 од. |r|cff808080/ 35 од. / 50 од.|r
+Шанс: |cffffcc0020% |r|cff808080/ 30% / 40%|r",,GLOBAL_v2_H_190,
+"Gives a chance that an attack will do bonus damage and stun an opponent.
+
+Duration: |cffffcc002s|r
+Bonus Damage: |cff80808020 /|r |cffffcc0035 |r|cff808080/ 50|r
+Chance: |cff80808020% /|r |cffffcc0030% |r|cff808080/ 40%|r","|cffe6cc80ПАСИВНА|r
+
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: |cffffcc002 сек.|r
+Додаткова шкода: |cff80808020 од. /|r |cffffcc0035 од. |r|cff808080/ 50 од.|r
+Шанс: |cff80808020% /|r |cffffcc0030% |r|cff808080/ 40%|r",,GLOBAL_v2_H_191,
+"Gives a chance that an attack will do bonus damage and stun an opponent.
+
+Duration: |cffffcc002s|r
+Bonus Damage: |cff80808020 / 35 /|r |cffffcc0050|r
+Chance: |cff80808020% / 30% /|r |cffffcc0040%|r","|cffe6cc80ПАСИВНА|r
+
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: |cffffcc002 сек|r
+Додаткова шкода: |cff80808020 од. / 35 од. /|r |cffffcc0050 од.|r
+Шанс: |cff80808020% / 30% /|r |cffffcc0040%|r",,GLOBAL_v2_H_192,
+Void Tendrils,Щупальця безодні,,GLOBAL_v2_H_193,
+This unit has been hit by Void Tendrils; it cannot move and takes damage over time.,Ця одиниця була схоплена щупальцями безодні; вона не може рухатись і періодично отримує шкоду.,,GLOBAL_v2_H_194,
+Learn Void Tendrils - [|cffffcc00Level %d|r],Вивчити Шупальця безодні - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_195,
+Void Tendrils - [|cffffcc00Level 1|r],Щупальця безодні - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_196,
+Void Tendrils - [|cffffcc00Level 2|r],Щупальця безодні - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_197,
+Void Tendrils - [|cffffcc00Level 3|r],Щупальця безодні - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_198,
+"Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+
+Duration: |cffffcc009s|r / |cffffcc0024s|r / |cffffcc0036s|r
+Damage per Second: |cffffcc0015|r / |cffffcc0020|r / |cffffcc0025|r","З під землі з'являються темні щупальця, які кожну секунду чинять шкоду цілі, і також забирають в неї можливість рухатись та атакувати.
+
+Тривалість: 9 сек. / 24 сек. / 36 сек.
+Шкода у секунду: 15 од. / 20 од. / 25 од.",,GLOBAL_v2_H_199,
+"Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+
+Duration: |cffffcc009s |r|cff808080/ 24s / 36s|r
+Damage per Second: |cffffcc0015 |r|cff808080/ 20 / 25|r","З під землі з'являються темні щупальця, які кожну секунду чинять шкоду цілі, і також забирають в неї можливість рухатись та атакувати.
+
+Тривалість: |cffffcc009 сек. |r|cff808080/ 24 сек. / 36 сек.|r
+Шкода у секунду: |cffffcc0015 од. |r|cff808080/ 20 од. / 25 од.|r",,GLOBAL_v2_H_200,
+"Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+
+Duration: |cff8080809s /|r |cffffcc0024s |r|cff808080/ 36s|r
+Damage per Second: |cff80808015 /|r |cffffcc0020 |r|cff808080/ 25|r","З під землі зʼявляються темні щупальця безодні, які кожну секунду чинять шкоду по цілі, і також забираючи в неї можливість рухатися та атакувати.
+
+Тривалість: |cff8080809 сек. /|r |cffffcc0024 сек. |r|cff808080/ 36 сек.|r
+Шкода у секунду:: |cff80808015 од./|r |cffffcc0020 од. |r|cff808080/ 25 од.|r",,GLOBAL_v2_H_201,
+"Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+
+Duration: |cff8080809s / 24s /|r |cffffcc0036s|r
+Damage per Second: |cff80808015 / 20 /|r |cffffcc0025|r","З під землі зʼявляються темні щупальця безодні, які кожну секунду чинять шкоду по цілі, і також забираючи в неї можливість рухатися та атакувати.
+
+Тривальість: |cff8080809 сек. / 24 сек. /|r |cffffcc0036 сек.|r
+Шкода у секунду: |cff80808015 од. / 20 од. /|r |cffffcc0025 од.|r",,GLOBAL_v2_H_202,
+Crushing Madness,Нищівне божевілля,,GLOBAL_v2_H_203,
+Learn Crushing Madness,Вивчити «Нищівне божевілля»,,GLOBAL_v2_H_204,
+"The Hammer of Twilight appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage and become mad.
+Targets with Madness can miss their attacks, are unable to cast spells and will move slower.
+
+Cast Time: |cffffcc005s|r
+Madness Duration: |cffffcc0020s|r
+Damage: |cffffcc00400|r","У небі з'являється сутінковий молот, який за декілька сек. падає на землю. Ворожі цілі, які потрапляють у радіус ураження отримують велику шкоду та божеволіють.
+
+У стані божевілля, вони починають промахуватись у деяких своїх атаках, а також не можуть чарувати закляття і рухаються значно повільніше.
+
+Час застосування: 5 сек.
+Тривалість божевілля: 20 сек.
+Шкода: 300 од.",,GLOBAL_v2_H_205,
+"The Hammer of Twilight appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage and become mad.
+Targets with Madness can miss their attacks, are unable to cast spells and will move slower.
+
+Cast Time: |cffffcc005s|r
+Madness Duration: |cffffcc0020s|r
+Damage: |cffffcc00400|r","У небі з'являється сутінковий молот, який за декілька сек. падає на землю. Ворожі цілі, які потрапляють у радіус ураження отримують велику шкоду та божеволіють.
+
+У стані божевілля, вони починають промахуватись у деяких своїх атаках, а також не можуть чарувати закляття і рухаються значно повільніше.
+
+Час застосування: |cffffcc005 сек.|r
+Тривалість божевілля: |cffffcc0020 сек.|r
+Шкода: |cffffcc00300 од.|r",,GLOBAL_v2_H_206,
+This unit was hit by a Twilight Madness; it has reduced movement speed and a chance to miss on attacks.,"Ця одиниця знаходиться під впливом ""Нищівне божевілля""; Одиниця промахується у деяких своїх атаках, рухається значно повільніше.",,GLOBAL_v2_H_207,
+Gul'dan,Ґул'дан,,GLOBAL_v2_H_208,
+Warlock,Чорнокнижник,,GLOBAL_v2_H_209,
+Life Tap,Життєвідвод,,GLOBAL_v2_H_210,
+"Restore mana at the cost of life.
+
+Health cost: |cffffc800-20%|r
+Mana respored: |cffffc80020%|r","Відновлення мани ціною здоров'я.
+
+Кількість забираємого здоров'я: |cffffc800-20%|р
+Кількість відновленої мани: |cffffc80020%|r",,GLOBAL_v2_H_211,
+Chaos Bolt,Стріла Хаосу,,GLOBAL_v2_H_212,
+Learn Chaos Bolt - [|cffffcc00Level %d|r],Вивчити стріла хаосу - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_213,
+Chaos Bolt - [|cffffcc00Level 1|r],Стріла хаосу - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_214,
+Chaos Bolt - [|cffffcc00Level 2|r],Стріла хаосу - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_215,
+Chaos Bolt - [|cffffcc00Level 3|r],Стріла хаосу - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_216,
+"Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+
+Damage: |cffffcc00200|r / |cffffcc00400|r / |cffffcc00600|r
+Healing: |cffffcc00300|r / |cffffcc00600|r / |cffffcc00900|r","Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
+
+Шкода по цілі: 200 од. / 400 од. / 600 од.
+Відновлення здоров'я інфернала: 300 од. / 600 од. / 900 од.",,GLOBAL_v2_H_217,
+"Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+
+Damage: |cffffcc00200 |r|cff808080/ 400 / 600|r
+Healing: |cffffcc00300 |r|cff808080/ 600 / 900|r","Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
+
+Шкода по цілі: |cffffcc00200 од. |r|cff808080/ 400 од. / 600 од.|r
+Відновлення здоров'я інфернала: |cffffcc00300 од. |r|cff808080/ 600  од./ 900 од.|r",,GLOBAL_v2_H_218,
+"Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+
+Damage: |cff808080200 /|r |cffffcc00400 |r|cff808080/ 600|r
+Healing: |cff808080300 /|r |cffffcc00600 |r|cff808080/ 900|r","Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
+
+Шкода по цілі: |cff808080200 од. /|r |cffffcc00400 од. |r|cff808080/ 600 од.|r
+Відновлення здоров'я інфернала: |cff808080300 од. /|r |cffffcc00600 од. |r|cff808080/ 900 од.|r",,GLOBAL_v2_H_219,
+"Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+
+Damage: |cff808080200 / 400 /|r |cffffcc00600|r
+Healing: |cff808080300 / 600 /|r |cffffcc00900|r","Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
+
+Шкода по цілі: |cff808080200 од. / 400 од. /|r |cffffcc00600 од.|r
+Відновлення здоров'я інфернала: |cff808080300 од. / 600 од. /|r |cffffcc00900 од.|r",,GLOBAL_v2_H_220,
+Inferno,Інфернал,,GLOBAL_v2_H_221,
+Inferno - [|cffffcc00Level 1|r],Інфернал - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_222,
+Inferno - [|cffffcc00Level 2|r],Інфернал - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_223,
+Inferno - [|cffffcc00Level 3|r],Інфернал - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_224,
+Learn Inferno - [|cffffcc00Level %d|r],Вивчити Інфернал - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_225,
+"Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+
+Duration: |cffffcc0060s|r / |cffffcc0090s|r / |cffffcc00120s|r
+Cooldown: |cffffcc00120s|r / |cffffcc0090s|r / |cffffcc0060s|r
+Impact Damage: |cffffcc0050|r / |cffffcc0075|r / |cffffcc00100|r","Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоровʼя.
+
+Тривалість життя інферналу: 60 сек./ 90 сек./ 120 сек.
+Відновлення: 120 сек. / 90 сек. / 60 сек.
+Шкода від приземлення: 50 од. / 75 од. / 100 од.",,GLOBAL_v2_H_226,
+"Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+
+Duration: |cffffcc0060s |r|cff808080/ 90s / 120s|r
+Cooldown: |cffffcc00120s |r|cff808080/ 90s / 60s|r
+Impact Damage: |cffffcc0050 |r|cff808080/ 75 / 100|r","Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоров'я.
+
+Тривалість життя інферналу: |cffffcc0060 сек. |r|cff808080/ 90 сек. / 120 сек.|r
+Відновлення: |cffffcc00120 сек. |r|cff808080/ 90 сек. / 60 сек.|r
+Шкода від приземлення: |cffffcc0050 од. |r|cff808080/ 75 од. / 100 од.|r",,GLOBAL_v2_H_227,
+"Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+
+Duration: |cff80808060s /|r |cffffcc0090s |r|cff808080/ 120s|r
+Cooldown: |cff808080120s /|r |cffffcc0090s |r|cff808080/ 60s|r
+Impact Damage: |cff80808050 /|r |cffffcc0075 |r|cff808080/ 100|r","Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоров'я.
+
+Тривалість життя інферналу: |cff80808060 сек. /|r |cffffcc0090 сек. |r|cff808080/ 120 сек.|r
+Відновлення: |cff808080120 сек. /|r |cffffcc0090 сек. |r|cff808080/ 60 сек.|r
+Шкода від приземлення: |cff80808050 од. /|r |cffffcc0075 од. |r|cff808080/ 100 од.|r",,GLOBAL_v2_H_228,
+"Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+
+Duration: |cff80808060s / 90s /|r |cffffcc00120s|r
+Cooldown: |cff808080120s / 90s /|r |cffffcc0060s|r
+Impact Damage: |cff80808050 / 75 /|r |cffffcc00100|r","Ґулʼдан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоровʼя.
+
+Тривалість життя інферналу: |cff80808060s / 90s /|r |cffffcc00120s|r
+Відновлення: |cff808080120s / 90s /|r |cffffcc0060s|r
+Шкода від приземлення: |cff80808050 / 75 /|r |cffffcc00100|r",,GLOBAL_v2_H_229,
+Soul Drain,Спустошення душі,,GLOBAL_v2_H_230,
+Learn Soul Drain - [|cffffcc00Level %d|r],Вивчити спустошення душі - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_231,
+Soul Drain - [|cffffcc00Level 1|r],Спустошення душі - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_232,
+Soul Drain - [|cffffcc00Level 2|r],Спустошення душі - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_233,
+Soul Drain - [|cffffcc00Level 3|r],Спустошення душі - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_234,
+"Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+
+Duration: |cffffcc003s|r
+Health per Second: |cffffcc0070|r / |cffffcc00110|r / |cffffcc00150|r
+Mana per Second: |cffffcc0030|r / |cffffcc0060|r / |cffffcc0090|r","Ґул'дан починає витягувати з цілі душу, що дозволяє йому поновити своє здоров'я, та ману якщо вона є у цілі. 
+
+Тривалість: 3 сек.
+Здоров'я у сек.: 70 од.  / 110 од.  / 150 од. 
+Мани у сек.: 30 од. / 60 од. / 90 од. ",,GLOBAL_v2_H_235,
+"Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+
+Duration: |cffffcc003s|r
+Health per Second: |cff80808070 /|r |cffffcc00110 |r|cff808080/ 150|r
+Mana per Second: |cff80808030 /|r |cffffcc0060 |r|cff808080/ 90|r","Витягання душі з цілі, дозволяє Ґул'дану витягти здоров'я цілі та ману якщо вона є у цілі. 
+
+Тривалість: |cffffcc003 сек.|r
+Здоров'я у сек.: |cffffcc0070 од. |r|cff808080/ 110 од. / 150 од.|r
+Мани у сек.: |cffffcc0030 од. |r|cff808080/ 60 од. / 90 од.|r",,GLOBAL_v2_H_236,
+"Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+
+Duration: |cffffcc003s|r
+Health per Second: |cff80808070 /|r |cffffcc00110 |r|cff808080/ 150|r
+Mana per Second: |cff80808030 /|r |cffffcc0060 |r|cff808080/ 90|r","Витягання душі з цілі, дозволяє Ґул'дану витягти здоров'я цілі та ману якщо вона є у цілі. 
+
+Тривалість: |cffffcc003 сек.|r
+Здоров'я у сек.: |cff80808070 од. /|r |cffffcc00110 од. |r|cff808080/ 150 од.|r
+Мани у сек.: |cff80808030 од. /|r |cffffcc0060 од. |r|cff808080/ 90 од.|r",,GLOBAL_v2_H_237,
+"Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+
+Duration: |cffffcc003s|r
+Health per Second: |cff80808070 / 110 /|r |cffffcc00150|r
+Mana per Second: |cff80808030 / 60 /|r |cffffcc0090|r","Витягання душі з цілі, дозволяє Ґул'дану витягти здоров'я цілі та ману якщо вона є у цілі. 
+
+Тривалість: |cffffcc003 сек.|r
+Здоров'я у сек.: |cff80808070  од./ 110 од. /|r |cffffcc00150 од.|r
+Мани у сек.: |cff80808030 од. / 60 од. /|r |cffffcc0090 од.|r",,GLOBAL_v2_H_238,
+Hand of Gul'dan,Долоня Ґул'дана,,GLOBAL_v2_H_239,
+Learn Hand of Gul'dan,Вивчити «Долоня Ґулʼдана»,,GLOBAL_v2_H_240,
+"Summons Fel Volcano. Makes the ground tremble and break, causing <XAG4,DataB1> damage per second to buildings and slowing units by <XAG4,DataC1,%>% within the area of effect. Lasts <XAG4,Dur1> seconds.","Ґул'дан викликає вулкан скверни. У обраній області земля тремтить та ламається, наносячи спорудам <AOeq,DataB1> од. шкоди у сек., також знижує швидкість ворожих цілей на <AOeq,DataC1,%>% у зоні ураження. Триває <AOeq,Dur1> сек.",,GLOBAL_v2_H_241,
+"Summons Fel Volcano. Makes the ground tremble and break, causing <XAG4,DataB1> damage per second to buildings and slowing units by <XAG4,DataC1,%>% within the area of effect. |nLasts <XAG4,Dur1> seconds.",,,GLOBAL_v2_H_242,
+Orgrim Doomhammer,Орґрім Молот Згуби,,GLOBAL_v2_H_243,
+Warchief,Вождь Орди,,GLOBAL_v2_H_244,
+Revive Orgrim Doomhammer,Оживити Орґріма Молота Згуби,,GLOBAL_v2_H_245,
+Doomstrike,Удар Згуби,,GLOBAL_v2_H_246,
+Learn Doomstrike,Вивчити удар Згуби,,GLOBAL_v2_H_247,
+Doomstrike - [|cffffcc00Level 1|r],Удар Згуби - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_248,
+Doomstrike - [|cffffcc00Level 2|r],Удар Згуби - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_249,
+Doomstrike - [|cffffcc00Level 3|r],Удар Згуби - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_250,
+"Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+
+Stun Duration: |cffffcc003|r / |cffffcc004|r / |cffffcc005|r
+Damage: |cffffcc00100|r / |cffffcc00175|r / |cffffcc00250|r","Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
+
+Тривалість приголомшення: 3 сек. / 4 сек. / 5 сек.
+Шкода: 100 од. / 175 од. / 250 од.",,GLOBAL_v2_H_251,
+"Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+
+Duration: |cffffcc001s|r
+Damage: |cff808080100 / 175 /|r |cffffcc00250|r","Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
+
+Тривалість приголомшення: |cffffcc003 сек. |r|cff808080/ 4 сек. / 5 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 175 од. / 250 од.|r",,GLOBAL_v2_H_252,
+"Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+
+Duration: |cffffcc001s|r
+Damage: |cffffcc00100 |r|cff808080/ 175 / 250|r","Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
+
+Тривалість приголомшення: |cff8080803 сек. /|r |cffffcc004 сек. |r|cff8080801/ 5 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00175 од. |r|cff8080801/ 250 од.|r",,GLOBAL_v2_H_253,
+"Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+
+Duration: |cffffcc001s|r
+Damage: |cff808080100 /|r |cffffcc00175 |r|cff808080/ 250|r","Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
+
+Тривалість приголомшення: |cff8080803 сек. / 4 сек. /|r |cffffcc005 сек.|r
+Шкода: |cff808080100 од. / 175 од. /|r |cffffcc00250 од.|r",,GLOBAL_v2_H_254,
+Warbanner,Бойовий прапор,,GLOBAL_v2_H_255,
+Warbanner - [|cffffcc00Level 1|r],Бойовий прапор - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_256,
+Warbanner - [|cffffcc00Level 2|r],Бойовий прапор - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_257,
+Warbanner - [|cffffcc00Level 3|r],Бойовий прапор - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_258,
+Learn Warbanner - [|cffffcc00Level %d|r],Вивчити бойовий прапор - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_259,
+Adds a damage increase to the attacks of nearby friendly units.,Збільшує всю шкоду яку наносять союзні війська навколо.,,GLOBAL_v2_H_260,
+This unit sees the Warbanner of the Horde; it has increased attack damage.,Ця одиниця побачисла бойовий прапор Орди; шкода від атак збільшена.,,GLOBAL_v2_H_261,
+"Places a Warbanner which increases the damage done by all nearby allies.
+
+Duration: |cffffcc0060s|r
+Damage Bonus: |cff80808010% /|r |cff80808020% /|r |cffffcc0030%|r","Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо.
+
+Тривалість: 60 сек.
+Додаткова шкода: 10% / 20% / 30%",,GLOBAL_v2_H_262,
+"Places a Warbanner which increases the damage done by all nearby allies.
+
+Duration: |cffffcc0060s|r
+Damage Bonus: |cffffcc0010% |cff808080/|r |cff80808020%|r |cff808080/ 30%|r","Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо.
+
+Тривалість: |cffffcc0060 сек.|r
+Додаткова шкода: |cff80808010% /|r |cffffcc0020%|r |cff808080/ 30%|r",,GLOBAL_v2_H_263,
+"Places a Warbanner which increases the damage done by all nearby allies.
+
+Duration: |cffffcc0060s|r
+Damage Bonus: |cff80808010% /|r|cffffcc00 20% |cff808080/ 30%|r","Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо. 
+
+Тривалість:|cffffcc0060 сек.|r
+Додаткова шкода: |cffffcc0010% |cff808080/|r |cff80808020%|r |cff808080/ 30%|r",,GLOBAL_v2_H_264,
+"Places a Warbanner which increases the damage done by all nearby allies.
+
+Duration: |cffffcc0060s|r
+Damage Bonus: |cffffcc0010%|r / |cffffcc0020%|r / |cffffcc0030%|r","Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо. 
+
+Тривалість:|cffffcc0060 сек.|r
+Додаткова шкода: |cff80808010% /|r|cffffcc00 20% |cff808080/ 30%|r",,GLOBAL_v2_H_265,
+Blackhand's Fang,Сокира «Ікло чорнорука»,,GLOBAL_v2_H_266,
+Learn Blackhand's Fang - [|cffffcc00Level %d|r],Вивчити ікло чорнорука - [|cffffcc00Рівень %d|r],,GLOBAL_v2_H_267,
+Blackhand's Fang - [|cffffcc00Level 1|r],Ікло чорнорука - [|cffffcc00Рівень 1|r],,GLOBAL_v2_H_268,
+Blackhand's Fang - [|cffffcc00Level 2|r],Ікло чорнорука - [|cffffcc00Рівень 2|r],,GLOBAL_v2_H_269,
+Blackhand's Fang - [|cffffcc00Level 3|r],Ікло чорнорука - [|cffffcc00Рівень 3|r],,GLOBAL_v2_H_270,
+Throws one of his trophy axes at an enemy. Causes damage and stuns the target.|n|nDuration: |cffffcc005s|r|nDamage: |cffffcc00100|r / |cffffcc00225|r / |cffffcc00350|r,"Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
+
+Тривалість приголомшення: 5 сек.
+Шкода: 100 од./ 225 од. / 350 од.",,GLOBAL_v2_H_271,
+"Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+
+Duration: |cffffcc005s|r
+Damage: |cffffcc00100 |r|cff808080/ 225 / 350|r","Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
+
+Тривалість приголомшення:|cffffcc005 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 225 од. / 350 од.|r",,GLOBAL_v2_H_272,
+"Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+
+Duration: |cffffcc005s|r
+Damage: |cff808080100 /|r |cffffcc00225 |r|cff808080/ 350|r","Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
+
+Тривалість приголомшення: |cffffcc005 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00225 од. |r|cff808080/ 350 од.|r",,GLOBAL_v2_H_273,
+"Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+
+Duration: |cffffcc005s|r
+Damage: |cff808080100 / 225 /|r |cffffcc00350|","Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
+
+Твивалість приголомшення: |cffffcc005 сек.|r
+Шкода: |cff808080100 од. / 225 од. /|r |cffffcc00350 од.|r",,GLOBAL_v2_H_274,
+For The Horde!,За Орду!,,GLOBAL_v2_H_275,
+Learn For the Horde!,Вивчити за Орду!,,GLOBAL_v2_H_276,
+"Lets out the mightly Warchief's rallying cry. Nearby allies will be reinvigurated and share damage taken.
+Additionally, nearby enemies will flee in fear.
+
+Duration: |cffffcc0030s|r
+Heal: |cffffcc00200|r
+Damage Shared: |cffffcc0050%|r","Вождь робить потужний бойовий вигук, від якого вороги навколо розбігаються у страху, а союзні одиниці відновлюють здоров'я.
+
+Також всі союзники навколо вождя розділяють порівну між собою половину шкоди що отримують.
+
+Тривалість: 30 сек.
+Зцілення: 200 од.
+Кількість розділеної шкоди: 50%",,GLOBAL_v2_H_277,
+"Lets out the mightly Warchief's rallying cry. Nearby allies will be reinvigurated and share damage taken.
+Additionally, nearby enemies will flee in fear.
+
+Duration: |cffffcc0030s|r
+Heal: |cffffcc00200|r
+Damage Shared: |cffffcc0050%|r","Вождь робить потужний бойовий вигук, від якого вороги навколо розбігаються у страху, а союзні одиниці відновлюють здоровʼя.
+
+Також всі союзники навколо вождя розділяють порівну між собою половину шкоди що отримують.
+
+Тривалість: |cffffcc0030 сек.|r
+Зцілення: |cffffcc00200 од.|r
+Кілість розділеної шкоди: |cffffcc0050%|r",,GLOBAL_v2_H_278,
+"This unit is terrified of the horde's warcry, it will deal less damage and has reduced armor.","Ця одиниця налякана бойовим криком орди, тому завдає менше шкоди та має зменшену броню.",,GLOBAL_v2_H_279,
+This unit heared the Warchief's warcry; it will distribute some of the damage it takes across other affected allies.,Ця одиниця почула бойовий вигук вождя; шкода яку вона отримує буде розділена проміж іншими одиницями які теж почули вигук.,,GLOBAL_v2_H_280,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+⚛ AFTIFACTS,,,,
+,,,,
+▲ OBJECTS,,,,
+,,,,
+◼︎OTHER,,,,

@@ -1,0 +1,4589 @@
+{
+  "meta": {
+    "campaign": "RoA",
+    "act": "GLOBAL",
+    "map": "GLOBAL",
+    "source_lang": "enUS",
+    "version": "1.01",
+    "updated": "2026-07-26"
+  },
+  "strings": {
+    "RoA_GLOBAL_MENU_001": {
+      "hash": "d80e469c17",
+      "string_number": 1,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Rise of the Alliance"
+    },
+    "RoA_GLOBAL_MENU_002": {
+      "hash": "e3e0ea16c5",
+      "string_number": 3012,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sir Lothar, in charge of the scattered armies of Azeroth since the death of King Llane, has led his people across the Great Sea to the shores of Lordaeron."
+    },
+    "RoA_GLOBAL_MENU_003": {
+      "hash": "6ac55b6ca2",
+      "string_number": 2,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Varies"
+    },
+    "RoA_GLOBAL_MENU_004": {
+      "hash": "8db67f28b6",
+      "string_number": 3226,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Cinematic Act I"
+    },
+    "RoA_GLOBAL_MENU_005": {
+      "hash": "4a5f590a2a",
+      "string_number": 3227,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lordaeron"
+    },
+    "RoA_GLOBAL_MENU_006": {
+      "hash": "3e93ded328",
+      "string_number": 3088,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chapter One"
+    },
+    "RoA_GLOBAL_MENU_007": {
+      "hash": "cbfb36979c",
+      "string_number": 3205,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battle for Lordaeron"
+    },
+    "RoA_GLOBAL_MENU_008": {
+      "hash": "85c0e5bd4d",
+      "string_number": 3118,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chapter Two"
+    },
+    "RoA_GLOBAL_MENU_009": {
+      "hash": "bd740f714a",
+      "string_number": 3119,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ambush at Tarren Mill"
+    },
+    "RoA_GLOBAL_MENU_010": {
+      "hash": "4ccc0ab086",
+      "string_number": 3222,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chapter Three"
+    },
+    "RoA_GLOBAL_MENU_011": {
+      "hash": "57d3e275f9",
+      "string_number": 3223,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Siege of Dalaran"
+    },
+    "RoA_GLOBAL_MENU_012": {
+      "hash": "9297a0b334",
+      "string_number": 3224,
+      "type": "MENU",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chapter Four"
+    },
+    "RoA_GLOBAL_HEROES_UTL_001": {
+      "hash": "8a8d337814",
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Uther"
+    },
+    "RoA_GLOBAL_HEROES_UTL_002": {
+      "hash": "680dde6664",
+      "string_number": 5844,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lord Paladin"
+    },
+    "RoA_GLOBAL_HEROES_UTL_003": {
+      "hash": "680dde6664",
+      "string_number": 5854,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lord Paladin"
+    },
+    "RoA_GLOBAL_HEROES_UTL_004": {
+      "hash": "680dde6664",
+      "string_number": 5292,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lord Paladin"
+    },
+    "RoA_GLOBAL_HEROES_UTL_005": {
+      "hash": "8d81a601fe",
+      "string_number": 3097,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Wave"
+    },
+    "RoA_GLOBAL_HEROES_UTL_006": {
+      "hash": "efb34740e5",
+      "string_number": 3098,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Holy Wave - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_007": {
+      "hash": "aa190f6134",
+      "string_number": 4401,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Wave - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_008": {
+      "hash": "4fd2c0ad0e",
+      "string_number": 4402,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Wave - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_009": {
+      "hash": "b824bd7b23",
+      "string_number": 4403,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Wave - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_010": {
+      "hash": "d2ae6e0efb",
+      "string_number": 7729,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce restores fewer hit points. |n|n|cffffcc00Level 1|r - Heals <AUaW,DataA1> damage, jumps <AUaW,DataB1> times. |n|cffffcc00Level 2|r - Heals <AUaW,DataA2> damage, jumps <AUaW,DataB2> times. |n|cffffcc00Level 3|r - Heals <AUaW,DataA3> damage, jumps <AUaW,DataB3> times."
+    },
+    "RoA_GLOBAL_HEROES_UTL_011": {
+      "hash": "af22b9bb12",
+      "string_number": 7730,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB1> times, healing <AUaW,DataA1> damage on the primary target. Each bounce restores fewer hit points."
+    },
+    "RoA_GLOBAL_HEROES_UTL_012": {
+      "hash": "84e232769a",
+      "string_number": 7731,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB2> times, healing <AUaW,DataA2> damage on the primary target. Each bounce restores fewer hit points."
+    },
+    "RoA_GLOBAL_HEROES_UTL_013": {
+      "hash": "b04a2781c5",
+      "string_number": 7732,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB3> times, healing <AUaW,DataA3> damage on the primary target. Each bounce restores fewer hit points."
+    },
+    "RoA_GLOBAL_HEROES_UTL_014": {
+      "hash": "700395f18f",
+      "string_number": 4441,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer of Justice"
+    },
+    "RoA_GLOBAL_HEROES_UTL_015": {
+      "hash": "b6d73101a0",
+      "string_number": 4442,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Hammer of Justice"
+    },
+    "RoA_GLOBAL_HEROES_UTL_016": {
+      "hash": "6d3948bc96",
+      "string_number": 4443,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer of Justice - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_017": {
+      "hash": "6c67ba65d1",
+      "string_number": 4444,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer of Justice - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_018": {
+      "hash": "7774c2eb8b",
+      "string_number": 4445,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer of Justice - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_UTL_019": {
+      "hash": "aa2d65df90",
+      "string_number": 4455,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00250|r"
+    },
+    "RoA_GLOBAL_HEROES_UTL_020": {
+      "hash": "e20839dd77",
+      "string_number": 4459,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The Hammer of Light appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: 5s\nDamage: 150 / 200 / 250"
+    },
+    "RoA_GLOBAL_HEROES_UTL_021": {
+      "hash": "5c290d0048",
+      "string_number": 4421,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00150|r"
+    },
+    "RoA_GLOBAL_HEROES_UTL_022": {
+      "hash": "1dcf8ff44f",
+      "string_number": 4422,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00200|r"
+    },
+    "RoA_GLOBAL_HEROES_UTL_023": {
+      "hash": "9166061c04",
+      "string_number": 4720,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Storm"
+    },
+    "RoA_GLOBAL_HEROES_UTL_024": {
+      "hash": "47b94cad48",
+      "string_number": 4724,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Holy Storm"
+    },
+    "RoA_GLOBAL_HEROES_UTL_025": {
+      "hash": "726146ea67",
+      "string_number": 4726,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down waves of holy flares that damage nearby enemy units. Each wave deals <AUhs,DataA1> damage. |nLasts for <AUhs,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_UTL_026": {
+      "hash": "3e18ec1171",
+      "string_number": 4727,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down a wave of holy flares every <AUhs,DataB1> seconds that damages nearby enemy units. Each wave deals <AUhs,DataA1> damage. |nLasts for <AUhs,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_TME_001": {
+      "hash": "793a1fbbb4",
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Terenas Menethil II"
+    },
+    "RoA_GLOBAL_HEROES_TME_002": {
+      "hash": "62ef506c27",
+      "string_number": 7412,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Monarch"
+    },
+    "RoA_GLOBAL_HEROES_TME_003": {
+      "hash": "62ef506c27",
+      "string_number": 7413,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Monarch"
+    },
+    "RoA_GLOBAL_HEROES_TME_004": {
+      "hash": "62ef506c27",
+      "string_number": 7414,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Monarch"
+    },
+    "RoA_GLOBAL_HEROES_TME_005": {
+      "hash": "5a50539bdc",
+      "string_number": 4319,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Royal Aura"
+    },
+    "RoA_GLOBAL_HEROES_TME_006": {
+      "hash": "5a50539bdc",
+      "string_number": 4321,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Royal Aura"
+    },
+    "RoA_GLOBAL_HEROES_TME_007": {
+      "hash": "91559eecd6",
+      "string_number": 5034,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit is under the effects of Royal Aura; it has an increased movement speed and attack rate."
+    },
+    "RoA_GLOBAL_HEROES_TME_008": {
+      "hash": "1a308df232",
+      "string_number": 5029,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases nearby friendly units' movement speed by <ATra,DataA1,%>% and attack rate by <ATra,DataB1,%>%."
+    },
+    "RoA_GLOBAL_HEROES_TME_009": {
+      "hash": "95b6fc3d0d",
+      "string_number": 5030,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases nearby friendly units' movement speed by <ATra,DataA2,%>% and attack rate by <ATra,DataB2,%>%."
+    },
+    "RoA_GLOBAL_HEROES_TME_010": {
+      "hash": "fa919ff640",
+      "string_number": 5031,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases nearby friendly units' movement speed by <ATra,DataA3,%>% and attack rate by <ATra,DataB3,%>%."
+    },
+    "RoA_GLOBAL_HEROES_TME_011": {
+      "hash": "c0293be1df",
+      "string_number": 7700,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases nearby friendly units' movement speed by <A00N,DataA1,%>% and attack rate by <A00N,DataB1,%>%."
+    },
+    "RoA_GLOBAL_HEROES_TME_012": {
+      "hash": "4dbb740ba9",
+      "string_number": 7701,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases nearby friendly units' movement speed by <A00N,DataA2,%>% and attack rate by <A00N,DataB2,%>%."
+    },
+    "RoA_GLOBAL_HEROES_TME_013": {
+      "hash": "4b2310edd3",
+      "string_number": 7702,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases nearby friendly units' movement speed by <A00N,DataA3,%>% and attack rate by <A00N,DataB3,%>%."
+    },
+    "RoA_GLOBAL_HEROES_TUR_001": {
+      "hash": "b9e7fcc65f",
+      "string_number": 3053,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Turalyon"
+    },
+    "RoA_GLOBAL_HEROES_TUR_002": {
+      "hash": "b9e7fcc65f",
+      "string_number": 4527,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Turalyon"
+    },
+    "RoA_GLOBAL_HEROES_TUR_003": {
+      "hash": "ac4a45ce93",
+      "string_number": 8231,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Paladin of Protection"
+    },
+    "RoA_GLOBAL_HEROES_TUR_004": {
+      "hash": "ac4a45ce93",
+      "string_number": 5008,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Paladin of Protection"
+    },
+    "RoA_GLOBAL_HEROES_TUR_005": {
+      "hash": "608b05ba8c",
+      "string_number": 4429,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Consecration"
+    },
+    "RoA_GLOBAL_HEROES_TUR_006": {
+      "hash": "608b05ba8c",
+      "string_number": 4437,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Consecration"
+    },
+    "RoA_GLOBAL_HEROES_TUR_007": {
+      "hash": "608b05ba8c",
+      "string_number": 4438,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Consecration"
+    },
+    "RoA_GLOBAL_HEROES_TUR_008": {
+      "hash": "db87e58676",
+      "string_number": 5198,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Conjures a pillar of holy fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - 45 damage a second for 3 seconds, followed by minor damage for 6 seconds. Also allies are healed by <ATcH,DataA1,%>%  per second. |n|cffffcc00Level 2|r - 80 damage a second for 3 seconds, followed by light damage for 6 seconds. Also allies are healed by <ATcH,DataA2,%>%  per second. |n|cffffcc00Level 3|r - 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds. Also allies are healed by <ATcH,DataA3,%>%  per second."
+    },
+    "RoA_GLOBAL_HEROES_TUR_009": {
+      "hash": "dcbf18fd57",
+      "string_number": 5199,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Conjures a pillar of holy fire that burns ground units for 45 damage a second for 3 seconds. As the pillar of flame subsides, enemy units within the fire continue to take minor damage, while non-mechanical allies are healed by <ATcH,DataA1,%>%  per second."
+    },
+    "RoA_GLOBAL_HEROES_TUR_010": {
+      "hash": "9966644166",
+      "string_number": 5200,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Conjures a pillar of holy fire  that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage, while non-mechanical allies are healed by <ATcH,DataA2,%>%  per second."
+    },
+    "RoA_GLOBAL_HEROES_TUR_011": {
+      "hash": "8863559065",
+      "string_number": 5201,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Conjures a pillar of holy fire that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage, while non-mechanical allies are healed by <ATcH,DataA3,%>%  per second."
+    },
+    "RoA_GLOBAL_HEROES_TUR_012": {
+      "hash": "30ed7c56c3",
+      "string_number": 4430,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Consecration - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_013": {
+      "hash": "7e5d04dd6a",
+      "string_number": 4431,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Consecration - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_014": {
+      "hash": "f99cfcdaf9",
+      "string_number": 4432,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Consecration - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_015": {
+      "hash": "55f10ccfe7",
+      "string_number": 4433,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Consecration - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_016": {
+      "hash": "36566f2ac2",
+      "string_number": 4979,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Crusader Strike"
+    },
+    "RoA_GLOBAL_HEROES_TUR_017": {
+      "hash": "36566f2ac2",
+      "string_number": 4987,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Crusader Strike"
+    },
+    "RoA_GLOBAL_HEROES_TUR_018": {
+      "hash": "b86318483c",
+      "string_number": 4980,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Crusader Strike - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_019": {
+      "hash": "f1721b073a",
+      "string_number": 4982,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Crusader Strike - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_020": {
+      "hash": "c35c7b0db8",
+      "string_number": 4983,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Crusader Strike - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_021": {
+      "hash": "8db88b7872",
+      "string_number": 4984,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Crusader Strike - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_022": {
+      "hash": "242c294b04",
+      "string_number": 4989,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit is afflicted by Crusader Strike. It cannot cast spells, attacks for less damage, and will take damage over time."
+    },
+    "RoA_GLOBAL_HEROES_TUR_023": {
+      "hash": "532211cbd6",
+      "string_number": 4981,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wreaths an enemy unit in holy flames which cause damage over time, prevent the casting of spells, and reduce attack damage by <APEM,DataC1,%>%.|n|n|cffffcc00Level 1|r - 100 damage over <APEM,Dur1> seconds.|n|cffffcc00Level 2|r - 225 damage over <APEM,Dur2> seconds.|n|cffffcc00Level 3|r - 375 damage over <APEM,Dur3> seconds.|n|nLasts roughly half as long on Heroes."
+    },
+    "RoA_GLOBAL_HEROES_TUR_024": {
+      "hash": "77fa558e24",
+      "string_number": 4971,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wreaths an enemy unit in holy flames which cause <APEM,DataA1> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC1,%>%.|nLasts <APEM,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_TUR_025": {
+      "hash": "646af97589",
+      "string_number": 4972,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wreaths an enemy unit in holy flames which cause <APEM,DataA2> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC2,%>%.|nLasts <APEM,Dur2> seconds."
+    },
+    "RoA_GLOBAL_HEROES_TUR_026": {
+      "hash": "2707c2172d",
+      "string_number": 4973,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wreaths an enemy unit in holy flames which cause <APEM,DataA3> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC3,%>%.|nLasts <APEM,Dur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_TUR_027": {
+      "hash": "35f1462054",
+      "string_number": 5211,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield of the Righteous"
+    },
+    "RoA_GLOBAL_HEROES_TUR_028": {
+      "hash": "35f1462054",
+      "string_number": 5225,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield of the Righteous"
+    },
+    "RoA_GLOBAL_HEROES_TUR_029": {
+      "hash": "35f1462054",
+      "string_number": 5226,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield of the Righteous"
+    },
+    "RoA_GLOBAL_HEROES_TUR_030": {
+      "hash": "3dbc53991f",
+      "string_number": 5214,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Shield of the Righteous - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_031": {
+      "hash": "30781f4b61",
+      "string_number": 5227,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Turalyon lifted his Shield; it is temporarily protected from physical damage and negative spells."
+    },
+    "RoA_GLOBAL_HEROES_TUR_032": {
+      "hash": "713bc6454f",
+      "string_number": 5241,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lift Shield of the Righteous - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_033": {
+      "hash": "e20f1441ca",
+      "string_number": 5242,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lift Shield of the Righteous - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_034": {
+      "hash": "fafbc67ea8",
+      "string_number": 5243,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lift Shield of the Righteous - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_TUR_035": {
+      "hash": "3c0fa5b533",
+      "string_number": 5244,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Turalyon lifts his shield that absorbs all damage by consuming his mana. |n|n|cffffcc00Level 1|r - <ATsR,DataA1> damage per point of mana. |n|cffffcc00Level 2|r - <ATsR,DataA2> damage per point of mana. |n|cffffcc00Level 3|r - <ATsR,DataA3> damage per point of mana."
+    },
+    "RoA_GLOBAL_HEROES_TUR_036": {
+      "hash": "be9e0fcf4c",
+      "string_number": 5245,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lifts a shield that absorbs <ATsR,DataA1> damage per point of mana."
+    },
+    "RoA_GLOBAL_HEROES_TUR_037": {
+      "hash": "7c3a3adb99",
+      "string_number": 5246,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lifts a shield that absorbs <ATsR,DataA2> damage per point of mana."
+    },
+    "RoA_GLOBAL_HEROES_TUR_038": {
+      "hash": "8752a7c653",
+      "string_number": 5247,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lifts a shield that absorbs <ATsR,DataA3> damage per point of mana."
+    },
+    "RoA_GLOBAL_HEROES_KAS_001": {
+      "hash": "a667953939",
+      "string_number": 7443,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kurdran and Sky'ree"
+    },
+    "RoA_GLOBAL_HEROES_KAS_002": {
+      "hash": "a667953939",
+      "string_number": 7435,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kurdran and Sky'ree"
+    },
+    "RoA_GLOBAL_HEROES_KAS_003": {
+      "hash": "a667953939",
+      "string_number": 7437,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kurdran and Sky'ree"
+    },
+    "RoA_GLOBAL_HEROES_KAS_004": {
+      "hash": "a667953939",
+      "string_number": 7440,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kurdran and Sky'ree"
+    },
+    "RoA_GLOBAL_HEROES_KAS_005": {
+      "hash": "a667953939",
+      "string_number": 7443,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kurdran and Sky'ree"
+    },
+    "RoA_GLOBAL_HEROES_KAS_006": {
+      "hash": "a667953939",
+      "string_number": 7435,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kurdran and Sky'ree"
+    },
+    "RoA_GLOBAL_HEROES_KAS_007": {
+      "hash": "d778874b09",
+      "string_number": 5368,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Thane"
+    },
+    "RoA_GLOBAL_HEROES_KAS_008": {
+      "hash": "d778874b09",
+      "string_number": 5369,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Thane"
+    },
+    "RoA_GLOBAL_HEROES_KAS_009": {
+      "hash": "d778874b09",
+      "string_number": 7439,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Thane"
+    },
+    "RoA_GLOBAL_HEROES_KAS_010": {
+      "hash": "d778874b09",
+      "string_number": 7442,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Thane"
+    },
+    "RoA_GLOBAL_HEROES_KAS_011": {
+      "hash": "d778874b09",
+      "string_number": 7445,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "High Thane"
+    },
+    "RoA_GLOBAL_HEROES_KAS_012": {
+      "hash": "b6baff9358",
+      "string_number": 3113,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Land"
+    },
+    "RoA_GLOBAL_HEROES_KAS_013": {
+      "hash": "b6baff9358",
+      "string_number": 5192,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Land"
+    },
+    "RoA_GLOBAL_HEROES_KAS_014": {
+      "hash": "23ba258621",
+      "string_number": 7455,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sky'ree lands on the ground."
+    },
+    "RoA_GLOBAL_HEROES_KAS_015": {
+      "hash": "23ba258621",
+      "string_number": 7457,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sky'ree lands on the ground."
+    },
+    "RoA_GLOBAL_HEROES_KAS_016": {
+      "hash": "2a7ef77a52",
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Take Wing"
+    },
+    "RoA_GLOBAL_HEROES_KAS_017": {
+      "hash": "a22a9b2366",
+      "string_number": 7456,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sky'ree takes wing and flies in the sky."
+    },
+    "RoA_GLOBAL_HEROES_KAS_018": {
+      "hash": "a22a9b2366",
+      "string_number": 7458,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sky'ree takes wing and flies in the sky."
+    },
+    "RoA_GLOBAL_HEROES_KAS_019": {
+      "hash": "b9b9a04291",
+      "string_number": 5294,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer Throw"
+    },
+    "RoA_GLOBAL_HEROES_KAS_020": {
+      "hash": "12b19f4a5e",
+      "string_number": 5298,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Hammer Throw - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_021": {
+      "hash": "a8459111ca",
+      "string_number": 5299,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer Throw - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_022": {
+      "hash": "e354747aa1",
+      "string_number": 5300,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer Throw - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_023": {
+      "hash": "3d192427ae",
+      "string_number": 5301,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hammer Throw - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_024": {
+      "hash": "2235657e0c",
+      "string_number": 7744,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "A magical hammer that is thrown at an enemy unit, causing damage and stunning the target. |n|n|cffffcc00Level 1|r - <AKht,DataA1> damage, <AKht,Dur1> second stun. |n|cffffcc00Level 2|r - <AKht,DataA2> damage, <AKht,Dur2> second stun. |n|cffffcc00Level 3|r - <AKht,DataA3> damage, <AKht,Dur3> second stun."
+    },
+    "RoA_GLOBAL_HEROES_KAS_025": {
+      "hash": "8928bf2e99",
+      "string_number": 7745,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA1> damage and stunning the target for <AKht,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_KAS_026": {
+      "hash": "9b4e9dbcc1",
+      "string_number": 7746,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA2> damage and stunning the target for <AKht,Dur2> seconds."
+    },
+    "RoA_GLOBAL_HEROES_KAS_027": {
+      "hash": "8b2247bb4f",
+      "string_number": 7747,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA3> damage and stunning the target for <AKht,Dur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_KAS_028": {
+      "hash": "a2959bfded",
+      "string_number": 7733,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB2> enemy units for <AKuW,DataA2> damage."
+    },
+    "RoA_GLOBAL_HEROES_KAS_029": {
+      "hash": "bd521170f2",
+      "string_number": 7734,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB3> enemy units for <AKuW,DataA3> damage."
+    },
+    "RoA_GLOBAL_HEROES_KAS_030": {
+      "hash": "2eb08f3a57",
+      "string_number": 7735,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB1> enemy units for <AKuW,DataA1> damage."
+    },
+    "RoA_GLOBAL_HEROES_KAS_031": {
+      "hash": "27023a749b",
+      "string_number": 4461,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Iron Feathers"
+    },
+    "RoA_GLOBAL_HEROES_KAS_032": {
+      "hash": "a856864b87",
+      "string_number": 4463,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Iron Feathers - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_033": {
+      "hash": "53460d53b4",
+      "string_number": 4464,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Iron Feathers - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_034": {
+      "hash": "20dc45132e",
+      "string_number": 4465,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Iron Feathers - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_035": {
+      "hash": "b2f4608185",
+      "string_number": 4466,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Iron Feathers - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_KAS_036": {
+      "hash": "c0e04a10ab",
+      "string_number": 4470,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Skyree grows layers of sharp feather armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Level 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Level 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Level 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor."
+    },
+    "RoA_GLOBAL_HEROES_DPR_001": {
+      "hash": "572c770e30",
+      "string_number": 3058,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek Proudmoore"
+    },
+    "RoA_GLOBAL_HEROES_DPR_002": {
+      "hash": "2e786c488b",
+      "string_number": 4359,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Captain"
+    },
+    "RoA_GLOBAL_HEROES_DPR_003": {
+      "hash": "2e786c488b",
+      "string_number": 4360,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Captain"
+    },
+    "RoA_GLOBAL_HEROES_DPR_004": {
+      "hash": "2e786c488b",
+      "string_number": 4591,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Captain"
+    },
+    "RoA_GLOBAL_HEROES_DPR_005": {
+      "hash": "c374d6a141",
+      "string_number": 4635,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pistol Shot"
+    },
+    "RoA_GLOBAL_HEROES_DPR_006": {
+      "hash": "46a23c4fcb",
+      "string_number": 4637,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Pistol Shot - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_007": {
+      "hash": "fcfddb296a",
+      "string_number": 4639,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pistol Shot - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_008": {
+      "hash": "2900af0248",
+      "string_number": 4640,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pistol Shot - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_009": {
+      "hash": "fd5d372446",
+      "string_number": 4641,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pistol Shot - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_010": {
+      "hash": "9171c8fbb0",
+      "string_number": 7759,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek shoots at enemy unit, causing damage and stunning the target. |n|n|cffffcc00Level 1|r - <AdSp,DataA1> damage, <AdSp,Dur1> second stun. |n|cffffcc00Level 2|r - <AdSp,DataA2> damage, <AdSp,Dur2> second stun. |n|cffffcc00Level 3|r - <AdSp,DataA3> damage, <AdSp,Dur3> second stun."
+    },
+    "RoA_GLOBAL_HEROES_DPR_011": {
+      "hash": "4381a35620",
+      "string_number": 7760,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek shoots at enemy unit, causing <AdSp,DataA1> damage and stunning the target for <AdSp,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_DPR_012": {
+      "hash": "7fe4823a53",
+      "string_number": 7761,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek shoots at enemy unit, causing <AdSp,DataA2> damage and stunning the target for <AdSp,Dur2> seconds."
+    },
+    "RoA_GLOBAL_HEROES_DPR_013": {
+      "hash": "131e09b173",
+      "string_number": 7762,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek shoots at enemy unit, causing <AdSp,DataA3> damage and stunning the target for <AdSp,Dur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_DPR_014": {
+      "hash": "1e7809b509",
+      "string_number": 4645,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss"
+    },
+    "RoA_GLOBAL_HEROES_DPR_015": {
+      "hash": "1e7809b509",
+      "string_number": 4655,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss"
+    },
+    "RoA_GLOBAL_HEROES_DPR_016": {
+      "hash": "1e7809b509",
+      "string_number": 6799,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss"
+    },
+    "RoA_GLOBAL_HEROES_DPR_017": {
+      "hash": "1e7809b509",
+      "string_number": 6802,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss"
+    },
+    "RoA_GLOBAL_HEROES_DPR_018": {
+      "hash": "dc3534f3f1",
+      "string_number": 4656,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit has been bombed.  It has reduced armor, and is being damaged over time."
+    },
+    "RoA_GLOBAL_HEROES_DPR_019": {
+      "hash": "56491d6477",
+      "string_number": 4646,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Grenade Toss - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_020": {
+      "hash": "77d630e8ff",
+      "string_number": 4647,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_021": {
+      "hash": "c2ec383cce",
+      "string_number": 4648,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_022": {
+      "hash": "11e74ed586",
+      "string_number": 4649,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Grenade Toss - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_023": {
+      "hash": "4503966094",
+      "string_number": 4661,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor; deals high damage over time to the primary target; deals slightly less damage over time to nearby targets.|nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>."
+    },
+    "RoA_GLOBAL_HEROES_DPR_024": {
+      "hash": "1f94864cfc",
+      "string_number": 7740,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor by <ADgr,DataC1>; deals <ADgr,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ADgr,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_DPR_025": {
+      "hash": "142de4401e",
+      "string_number": 7741,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor by <ADgr,DataC2>; deals <ADgr,DataD2> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ADgr,Dur2> seconds."
+    },
+    "RoA_GLOBAL_HEROES_DPR_026": {
+      "hash": "7525578a03",
+      "string_number": 7742,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor by <ADgr,DataC3>; deals <ADgr,DataD3> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ADgr,Dur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_DPR_027": {
+      "hash": "464e1eb314",
+      "string_number": 3105,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fencer"
+    },
+    "RoA_GLOBAL_HEROES_DPR_028": {
+      "hash": "ec65719c64",
+      "string_number": 3106,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Fencer - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_029": {
+      "hash": "9b6b8fb453",
+      "string_number": 3107,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fencer - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_030": {
+      "hash": "5395bc4dcd",
+      "string_number": 3108,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fencer - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_031": {
+      "hash": "2158f89e1f",
+      "string_number": 3109,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fencer - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_DPR_032": {
+      "hash": "b1be75a906",
+      "string_number": 4552,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gives a percent chance to avoid attacks and a <ADpE,DataA1>% chance to deal additional damage. |n|n|cffffcc00Level 1|r - <ADpE,DataD1,%>% dodge, <ADpE,DataB1> times normal damage. |n|cffffcc00Level 2|r - <ADpE,DataD2,%>% dodge, <ADpE,DataB2> times normal damage. |n|cffffcc00Level 3|r - <ADpE,DataD3,%>% dodge, <ADpE,DataB3> times normal damage."
+    },
+    "RoA_GLOBAL_HEROES_DPR_033": {
+      "hash": "6394160952",
+      "string_number": 4553,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gives a <ADpE,DataD1,%>% chance to dodge an attack and a <ADpE,DataA1>% chance to deal <ADpE,DataB1> times normal damage."
+    },
+    "RoA_GLOBAL_HEROES_DPR_034": {
+      "hash": "a7be30f110",
+      "string_number": 4554,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gives a <ADpE,DataD2,%>% chance to dodge an attack and a <ADpE,DataA2>% chance to deal <ADpE,DataB2> times normal damage."
+    },
+    "RoA_GLOBAL_HEROES_DPR_035": {
+      "hash": "a7be30f110",
+      "string_number": 4555,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gives a <ADpE,DataD2,%>% chance to dodge an attack and a <ADpE,DataA2>% chance to deal <ADpE,DataB2> times normal damage."
+    },
+    "RoA_GLOBAL_HEROES_DPR_036": {
+      "hash": "a1068ca014",
+      "string_number": 3111,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fishnets"
+    },
+    "RoA_GLOBAL_HEROES_DPR_037": {
+      "hash": "a1068ca014",
+      "string_number": 4537,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fishnets"
+    },
+    "RoA_GLOBAL_HEROES_DPR_038": {
+      "hash": "ac37d41ccd",
+      "string_number": 4536,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Fishnets"
+    },
+    "RoA_GLOBAL_HEROES_DPR_039": {
+      "hash": "cf01cb5bc0",
+      "string_number": 4732,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek throws fishnets with hooks that ensnare enemy ground units damaging them over time and stunning them for <ADpW,Dur1> second.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>."
+    },
+    "RoA_GLOBAL_HEROES_DPR_040": {
+      "hash": "8ed09901e3",
+      "string_number": 4733,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Derek throws fishnets with hooks, stunning enemy land units for <ADpW,Dur1> second and damaging them.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>."
+    },
+    "RoA_GLOBAL_HEROES_DTR_001": {
+      "hash": "6355bbbb49",
+      "string_number": 4592,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Danath Trollbane"
+    },
+    "RoA_GLOBAL_HEROES_DTR_002": {
+      "hash": "6355bbbb49",
+      "string_number": 3062,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Danath Trollbane"
+    },
+    "RoA_GLOBAL_HEROES_DTR_003": {
+      "hash": "2e786c488b",
+      "string_number": 4591,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Captain"
+    },
+    "RoA_GLOBAL_HEROES_DTR_004": {
+      "hash": "ae404d9321",
+      "string_number": 4593,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Captain"
+    },
+    "RoA_GLOBAL_HEROES_DTR_005": {
+      "hash": "ae404d9321",
+      "string_number": 4594,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Captain"
+    },
+    "RoA_GLOBAL_HEROES_DTR_006": {
+      "hash": "fc1b5ecd5c",
+      "string_number": 4597,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "For Stromgarde"
+    },
+    "RoA_GLOBAL_HEROES_DTR_007": {
+      "hash": "8dfc69da7e",
+      "string_number": 4598,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn For Stromgarde - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_008": {
+      "hash": "f62b0da571",
+      "string_number": 4600,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "For Stromgarde - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_009": {
+      "hash": "a62ffc13d9",
+      "string_number": 4601,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "For Stromgarde - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_010": {
+      "hash": "13438f0088",
+      "string_number": 4602,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "For Stromgarde - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_011": {
+      "hash": "fc1b5ecd5c",
+      "string_number": 4608,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "For Stromgarde"
+    },
+    "RoA_GLOBAL_HEROES_DTR_012": {
+      "hash": "fc1b5ecd5c",
+      "string_number": 4609,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "For Stromgarde"
+    },
+    "RoA_GLOBAL_HEROES_DTR_013": {
+      "hash": "f581cb043f",
+      "string_number": 973,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield Bash"
+    },
+    "RoA_GLOBAL_HEROES_DTR_014": {
+      "hash": "1333234dd1",
+      "string_number": 4580,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield Bash - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_015": {
+      "hash": "cbb3c175ac",
+      "string_number": 4581,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield Bash - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_016": {
+      "hash": "61aea53b1a",
+      "string_number": 4582,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Shield Bash - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_017": {
+      "hash": "64f1bf21aa",
+      "string_number": 4586,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Shield Bash - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_018": {
+      "hash": "ab76ca4dce",
+      "string_number": 4583,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Danath bashes enemies with his shield which deals <ADsb,DataA1> damage to each enemy land unit in a line, up to <ADsb,DataB1> max damage."
+    },
+    "RoA_GLOBAL_HEROES_DTR_019": {
+      "hash": "8ce23d6f12",
+      "string_number": 4584,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Danath bashes enemies with his shield which deals <ADsb,DataA2> damage to each enemy land unit in a line, up to <ADsb,DataB2> max damage."
+    },
+    "RoA_GLOBAL_HEROES_DTR_020": {
+      "hash": "607cc8039c",
+      "string_number": 4585,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Danath bashes enemies with his shield which deals <ADsb,DataA3> damage to each enemy land unit in a line, up to <ADsb,DataB3> max damage."
+    },
+    "RoA_GLOBAL_HEROES_DTR_021": {
+      "hash": "3c64765c1c",
+      "string_number": 4590,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Danath bashes enemies with his shield. |n|n|cffffcc00Level 1|r - <ADsb,DataA1> damage per unit. |n|cffffcc00Level 2|r - <ADsb,DataA2> damage per unit. |n|cffffcc00Level 3|r - <ADsb,DataA3> damage per unit."
+    },
+    "RoA_GLOBAL_HEROES_DTR_022": {
+      "hash": "debb98e325",
+      "string_number": 4625,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Siege Mastery"
+    },
+    "RoA_GLOBAL_HEROES_DTR_023": {
+      "hash": "e7de69a2c1",
+      "string_number": 4627,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Siege Mastery  - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_024": {
+      "hash": "0ba35dc7ca",
+      "string_number": 4629,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Siege Mastery  - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_025": {
+      "hash": "c72f064e08",
+      "string_number": 4630,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Siege Mastery  - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_026": {
+      "hash": "40efe0b672",
+      "string_number": 4633,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Siege Mastery - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_DTR_027": {
+      "hash": "8d08feea79",
+      "string_number": 4567,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Horn of Stromgarde"
+    },
+    "RoA_GLOBAL_HEROES_DTR_028": {
+      "hash": "8d08feea79",
+      "string_number": 4569,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Horn of Stromgarde"
+    },
+    "RoA_GLOBAL_HEROES_DTR_029": {
+      "hash": "30e4bc3566",
+      "string_number": 5897,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Horn of Stromgarde"
+    },
+    "RoA_GLOBAL_HEROES_DTR_030": {
+      "hash": "840b4ca7cd",
+      "string_number": 4576,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent."
+    },
+    "RoA_GLOBAL_HEROES_DTR_031": {
+      "hash": "840b4ca7cd",
+      "string_number": 4577,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent."
+    },
+    "RoA_GLOBAL_HEROES_ALO_001": {
+      "hash": "f614052967",
+      "string_number": 5279,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sir Anduin Lothar"
+    },
+    "RoA_GLOBAL_HEROES_ALO_002": {
+      "hash": "f614052967",
+      "string_number": 5282,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sir Anduin Lothar"
+    },
+    "RoA_GLOBAL_HEROES_ALO_003": {
+      "hash": "f614052967",
+      "string_number": 5285,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sir Anduin Lothar"
+    },
+    "RoA_GLOBAL_HEROES_ALO_004": {
+      "hash": "f614052967",
+      "string_number": 417,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sir Anduin Lothar"
+    },
+    "RoA_GLOBAL_HEROES_ALO_005": {
+      "hash": "6a6d952999",
+      "string_number": 4858,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Punishing Blow"
+    },
+    "RoA_GLOBAL_HEROES_ALO_006": {
+      "hash": "61dcdbea34",
+      "string_number": 5276,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit was hit by Punishing Blow; it will take damage over time and move more slowly."
+    },
+    "RoA_GLOBAL_HEROES_ALO_007": {
+      "hash": "189c5c0949",
+      "string_number": 4859,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Punishing Blow - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_008": {
+      "hash": "098fea3d70",
+      "string_number": 4855,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Punishing Blow - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_009": {
+      "hash": "3c23706a4f",
+      "string_number": 4856,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Punishing Blow - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_010": {
+      "hash": "9b63bd7c80",
+      "string_number": 4857,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Punishing Blow - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_011": {
+      "hash": "b33bdf1018",
+      "string_number": 5271,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with his sword at the enemy which deals large initial damage, and then deals damage over time. The pierced unit has its movement speed slowed for a short duration. |n|n|cffffcc00Level 1|r - <ALPb,DataE1> strike damage, <ALPb,DataA1> duration damage. |n|cffffcc00Level 2|r - <ALPb,DataE2> strike damage, <ALPb,DataA2> duration damage. |n|cffffcc00Level 3|r - <ALPb,DataE3> strike damage, <ALPb,DataA3> duration damage."
+    },
+    "RoA_GLOBAL_HEROES_ALO_012": {
+      "hash": "277e2fd151",
+      "string_number": 5272,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE1> initial damage, and <ALPb,DataA1> damage every <ALPb,Cast1> seconds for <ALPb,Dur1> seconds. The pierce slows the movement speed of the targeted unit for a short duration."
+    },
+    "RoA_GLOBAL_HEROES_ALO_013": {
+      "hash": "483c4ffc91",
+      "string_number": 5273,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE2> initial damage, and <ALPb,DataA2> damage every <ALPb,Cast2> seconds for <ALPb,Dur2> seconds. The pierce slows the movement speed of the targeted unit for a short duration."
+    },
+    "RoA_GLOBAL_HEROES_ALO_014": {
+      "hash": "826a08b119",
+      "string_number": 5274,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE3> initial damage, and <ALPb,DataA3> damage every <ALPb,Cast3> seconds for <ALPb,Dur3> seconds. The pierce slows the movement speed of the targeted unit for a short duration."
+    },
+    "RoA_GLOBAL_HEROES_ALO_015": {
+      "hash": "e1919da27f",
+      "string_number": 5052,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap"
+    },
+    "RoA_GLOBAL_HEROES_ALO_016": {
+      "hash": "f20d4a92cf",
+      "string_number": 7254,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar leaps at the targeted unit, slams the ground, dealing <ALsl,DataA1> damage to nearby enemy land units and slowing their movement by <ALsl,DataC1,%>% and attack rate by <ALsl,DataD1,%>%."
+    },
+    "RoA_GLOBAL_HEROES_ALO_017": {
+      "hash": "2eafd4b2e1",
+      "string_number": 7255,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar leaps at the targeted unit, slams the ground, dealing damage to and slowing the movement speed and attack rate of nearby enemy land units. |n|n|cffffcc00Level 1|r - <ALsl,DataA1> damage, <ALsl,DataC1,%>% move, <ALsl,DataD1,%>% attack. |n|cffffcc00Level 2|r - <ALsl,DataA2> damage, <ALsl,DataC2,%>% move, <ALsl,DataD2,%>% attack. |n|cffffcc00Level 3|r - <ALsl,DataA3> damage, <ALsl,DataC3,%>% move, <ALsl,DataD3,%>% attack."
+    },
+    "RoA_GLOBAL_HEROES_ALO_018": {
+      "hash": "32bccbe1d0",
+      "string_number": 7256,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar leaps the at targeted unit, slams the ground, dealing <ALsl,DataA2> damage to nearby enemy land units and slowing their movement by <ALsl,DataC2,%>% and attack rate by <ALsl,DataD2,%>%."
+    },
+    "RoA_GLOBAL_HEROES_ALO_019": {
+      "hash": "1192b58d57",
+      "string_number": 7257,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar leaps the at targeted unit, slams the ground, dealing <ALsl,DataA3> damage to nearby enemy land units and slowing their movement by <ALsl,DataC3,%>% and attack rate by <ALsl,DataD3,%>%."
+    },
+    "RoA_GLOBAL_HEROES_ALO_020": {
+      "hash": "41b842989f",
+      "string_number": 5057,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Heroic Leap - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_021": {
+      "hash": "eb846eed32",
+      "string_number": 5055,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_022": {
+      "hash": "eb846eed32",
+      "string_number": 5061,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_023": {
+      "hash": "eb846eed32",
+      "string_number": 5062,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_024": {
+      "hash": "e1919da27f",
+      "string_number": 5084,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap"
+    },
+    "RoA_GLOBAL_HEROES_ALO_025": {
+      "hash": "e1919da27f",
+      "string_number": 5085,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap"
+    },
+    "RoA_GLOBAL_HEROES_ALO_026": {
+      "hash": "77a370e59b",
+      "string_number": 5086,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit has been hit by Heroic Leap; its movement speed and attack rate are reduced."
+    },
+    "RoA_GLOBAL_HEROES_ALO_027": {
+      "hash": "64f84794bc",
+      "string_number": 5083,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heroic Leap Slam"
+    },
+    "RoA_GLOBAL_HEROES_ALO_028": {
+      "hash": "b3260d09b5",
+      "string_number": 4873,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sweeping Strikes"
+    },
+    "RoA_GLOBAL_HEROES_ALO_029": {
+      "hash": "31a2354927",
+      "string_number": 4874,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Sweeping Strikes - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_030": {
+      "hash": "55ea4343a2",
+      "string_number": 4879,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sweeping Strikes - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_031": {
+      "hash": "dc5d702efc",
+      "string_number": 4880,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sweeping Strikes - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_032": {
+      "hash": "dbaab3bcf2",
+      "string_number": 4881,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sweeping Strikes - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_ALO_033": {
+      "hash": "3e2c64b508",
+      "string_number": 4875,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with such force that he damages multiple enemies with his attack. |n|n|cffffcc00Level 1|r - <ALcl,DataA1,%>% damage is splash. |n|cffffcc00Level 2|r - <ALcl,DataA2,%>% damage is splash. |n|cffffcc00Level 3|r - <ALcl,DataA3,%>% damage is splash."
+    },
+    "RoA_GLOBAL_HEROES_ALO_034": {
+      "hash": "b1a7e1c412",
+      "string_number": 4876,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with such force that <ALcl,DataA1,%>% of his damage strikes through to enemies near the primary attacked unit."
+    },
+    "RoA_GLOBAL_HEROES_ALO_035": {
+      "hash": "e940787f47",
+      "string_number": 4877,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with such force that <ALcl,DataA2,%>% of his damage strikes through to enemies near the primary attacked unit."
+    },
+    "RoA_GLOBAL_HEROES_ALO_036": {
+      "hash": "f909cb046d",
+      "string_number": 4878,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar strikes with such force that <ALcl,DataA3,%>% of his damage strikes through to enemies near the primary attacked unit."
+    },
+    "RoA_GLOBAL_HEROES_ALO_037": {
+      "hash": "37bf3f1080",
+      "string_number": 4883,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Die by the Sword"
+    },
+    "RoA_GLOBAL_HEROES_ALO_038": {
+      "hash": "37bf3f1080",
+      "string_number": 4884,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Die by the Sword"
+    },
+    "RoA_GLOBAL_HEROES_ALO_039": {
+      "hash": "ed5ffa7405",
+      "string_number": 4882,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Die by the Sword"
+    },
+    "RoA_GLOBAL_HEROES_ALO_040": {
+      "hash": "7d30deb772",
+      "string_number": 4885,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar displays his mastery with sword dealing <ALbl,DataA1> damage per second to nearby enemy land units."
+    },
+    "RoA_GLOBAL_HEROES_ALO_041": {
+      "hash": "476705d5b0",
+      "string_number": 4886,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lothar displays his mastery with sword becoming immune to magic and dealing <ALbl,DataA1> damage per second to nearby enemy land units. |nLasts <ALbl,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_WIL_001": {
+      "hash": "8e65ef76dc",
+      "string_number": 3075,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wilhelm"
+    },
+    "RoA_GLOBAL_HEROES_WIL_002": {
+      "hash": "4a85b2a832",
+      "string_number": 8515,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wilhelm is a veteran captain that defended Stormwind alongside with Meryn. After exodus to Lordaeron he serves Anduin Lothar as his personal bodyguard."
+    },
+    "RoA_GLOBAL_HEROES_WIL_003": {
+      "hash": "4df818f061",
+      "string_number": 6543,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AIDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AIDe,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_004": {
+      "hash": "cd7047241b",
+      "string_number": 6732,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <ADDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <ADDe,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_005": {
+      "hash": "a145c77d3d",
+      "string_number": 7108,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AEDE,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AEDE,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_006": {
+      "hash": "11b36984c8",
+      "string_number": 7607,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <A024,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <A024,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_007": {
+      "hash": "81f6b2dc88",
+      "string_number": 7708,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AE1O,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AE1O,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_008": {
+      "hash": "a9510dc3f1",
+      "string_number": 7728,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AAD2,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD2,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_009": {
+      "hash": "e07c30eabd",
+      "string_number": 8494,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AAD3,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD3,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_010": {
+      "hash": "99bc19d044",
+      "string_number": 8496,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AAD4,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD4,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_011": {
+      "hash": "a31f0005e5",
+      "string_number": 8498,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AAD5,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD5,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_012": {
+      "hash": "887218ba07",
+      "string_number": 8500,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AAD6,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD6,DataC1,%>% of normal speed."
+    },
+    "RoA_GLOBAL_HEROES_WIL_013": {
+      "hash": "55401bbe6d",
+      "string_number": 4845,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lion Song"
+    },
+    "RoA_GLOBAL_HEROES_WIL_014": {
+      "hash": "55401bbe6d",
+      "string_number": 5089,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Lion Song"
+    },
+    "RoA_GLOBAL_HEROES_WIL_015": {
+      "hash": "bb30cfd712",
+      "string_number": 4846,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Lion Song  [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_WIL_016": {
+      "hash": "40876c6ed5",
+      "string_number": 5169,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Wilhelm sends a battlecry that reduces nearby enemy units' attack damage by <A621,DataA1,%>% for <A621,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_WIL_017": {
+      "hash": "b35bded263",
+      "string_number": 4870,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit has heard the Lion Song; it deals less damage for a duration."
+    },
+    "RoA_GLOBAL_HEROES_WIL_018": {
+      "hash": "3ffdeee4d4",
+      "string_number": 5011,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Second Chance"
+    },
+    "RoA_GLOBAL_HEROES_WIL_019": {
+      "hash": "3ffdeee4d4",
+      "string_number": 5013,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Second Chance"
+    },
+    "RoA_GLOBAL_HEROES_WIL_020": {
+      "hash": "5da71bc1c0",
+      "string_number": 5014,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Unit plays dead, in order to restore health and come back to fight. Ability has a <A61V,Cool1> second cooldown."
+    },
+    "RoA_GLOBAL_HEROES_WIL_021": {
+      "hash": "ab3c3df29b",
+      "string_number": 7460,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gavinrad the Dire"
+    },
+    "RoA_GLOBAL_HEROES_WIL_022": {
+      "hash": "47af1dbd23",
+      "string_number": 4926,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Healing Word"
+    },
+    "RoA_GLOBAL_HEROES_WIL_023": {
+      "hash": "47af1dbd23",
+      "string_number": 4927,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Healing Word"
+    },
+    "RoA_GLOBAL_HEROES_WIL_024": {
+      "hash": "47af1dbd23",
+      "string_number": 4930,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Healing Word"
+    },
+    "RoA_GLOBAL_HEROES_WIL_025": {
+      "hash": "47af1dbd23",
+      "string_number": 4932,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Healing Word"
+    },
+    "RoA_GLOBAL_HEROES_WIL_026": {
+      "hash": "ad328fd985",
+      "string_number": 4933,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit has heard Healing Word; it is healing hit points over time."
+    },
+    "RoA_GLOBAL_HEROES_WIL_027": {
+      "hash": "985f9a93eb",
+      "string_number": 6417,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heals a target friendly unit for <AWhR,DataA1> hit points over <AWhR,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_WIL_028": {
+      "hash": "8c25ede8a2",
+      "string_number": 7352,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heals a target friendly unit for <AGah,DataA1> hit points over <AGah,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_WIL_029": {
+      "hash": "9b53101c1e",
+      "string_number": 7356,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heals a target friendly unit for <ABHp,DataA1> hit points over <ABHp,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_WIL_030": {
+      "hash": "d02aa31e6b",
+      "string_number": 4999,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Lance"
+    },
+    "RoA_GLOBAL_HEROES_WIL_031": {
+      "hash": "d02aa31e6b",
+      "string_number": 5001,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Lance"
+    },
+    "RoA_GLOBAL_HEROES_WIL_032": {
+      "hash": "268453eeda",
+      "string_number": 5050,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The pure essence of the casters heart, mind, and soul strikes out dealing <AGhl,DataA1>  damage and stunning target for <AGhl,Dur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_WIL_033": {
+      "hash": "f73dcb89ee",
+      "string_number": 4916,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vengeance Aura"
+    },
+    "RoA_GLOBAL_HEROES_WIL_034": {
+      "hash": "f73dcb89ee",
+      "string_number": 4917,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vengeance Aura"
+    },
+    "RoA_GLOBAL_HEROES_WIL_035": {
+      "hash": "f73dcb89ee",
+      "string_number": 4920,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vengeance Aura"
+    },
+    "RoA_GLOBAL_HEROES_WIL_036": {
+      "hash": "f73dcb89ee",
+      "string_number": 4921,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vengeance Aura"
+    },
+    "RoA_GLOBAL_HEROES_WIL_037": {
+      "hash": "ec820f8a9c",
+      "string_number": 4915,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "An aura that gives nearby friendly land units a <AGva,DataA1,%>% bonus damage to their melee attacks."
+    },
+    "RoA_GLOBAL_HEROES_WIL_038": {
+      "hash": "d7f21afa4f",
+      "string_number": 4919,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit is under the effects of Vengeance Aura; its melee attacks will deal more damage."
+    },
+    "RoA_GLOBAL_HEROES_MTS_001": {
+      "hash": "5be3c861de",
+      "string_number": 7133,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan the Scribe"
+    },
+    "RoA_GLOBAL_HEROES_MTS_002": {
+      "hash": "5be3c861de",
+      "string_number": 7134,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan the Scribe"
+    },
+    "RoA_GLOBAL_HEROES_MTS_003": {
+      "hash": "3d2fd8f34d",
+      "string_number": 7224,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Chronicler"
+    },
+    "RoA_GLOBAL_HEROES_MTS_004": {
+      "hash": "3d2fd8f34d",
+      "string_number": 7228,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Chronicler"
+    },
+    "RoA_GLOBAL_HEROES_MTS_005": {
+      "hash": "d583faf841",
+      "string_number": 8197,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor"
+    },
+    "RoA_GLOBAL_HEROES_MTS_006": {
+      "hash": "d583faf841",
+      "string_number": 8198,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor"
+    },
+    "RoA_GLOBAL_HEROES_MTS_007": {
+      "hash": "dd867d1f48",
+      "string_number": 8011,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_008": {
+      "hash": "dd867d1f48",
+      "string_number": 8010,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_009": {
+      "hash": "dd867d1f48",
+      "string_number": 8009,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_010": {
+      "hash": "dd867d1f48",
+      "string_number": 8008,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_011": {
+      "hash": "dd867d1f48",
+      "string_number": 8007,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_012": {
+      "hash": "dd867d1f48",
+      "string_number": 8006,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_013": {
+      "hash": "dd867d1f48",
+      "string_number": 8005,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_014": {
+      "hash": "dd867d1f48",
+      "string_number": 8004,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_015": {
+      "hash": "dd867d1f48",
+      "string_number": 8003,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_016": {
+      "hash": "dd867d1f48",
+      "string_number": 8002,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_017": {
+      "hash": "dd867d1f48",
+      "string_number": 8001,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_018": {
+      "hash": "dd867d1f48",
+      "string_number": 8000,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_019": {
+      "hash": "dd867d1f48",
+      "string_number": 7999,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_020": {
+      "hash": "dd867d1f48",
+      "string_number": 7998,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_021": {
+      "hash": "dd867d1f48",
+      "string_number": 7997,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_022": {
+      "hash": "dd867d1f48",
+      "string_number": 7996,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_023": {
+      "hash": "dd867d1f48",
+      "string_number": 7995,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_024": {
+      "hash": "dd867d1f48",
+      "string_number": 7994,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_025": {
+      "hash": "dd867d1f48",
+      "string_number": 7993,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_026": {
+      "hash": "dd867d1f48",
+      "string_number": 7992,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_027": {
+      "hash": "dd867d1f48",
+      "string_number": 7991,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_028": {
+      "hash": "dd867d1f48",
+      "string_number": 7990,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_029": {
+      "hash": "dd867d1f48",
+      "string_number": 7989,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_030": {
+      "hash": "dd867d1f48",
+      "string_number": 7988,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan's Training"
+    },
+    "RoA_GLOBAL_HEROES_MTS_031": {
+      "hash": "0d69f451df",
+      "string_number": 5461,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fire Bolt"
+    },
+    "RoA_GLOBAL_HEROES_MTS_032": {
+      "hash": "5b3a16809f",
+      "string_number": 8016,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy land unit for <AFBM,Dur1> seconds and deals <AFBM,DataA1> damage.  |n|n|cffffcc00Can target land units.|r"
+    },
+    "RoA_GLOBAL_HEROES_MTS_033": {
+      "hash": "2aad6f115f",
+      "string_number": 8017,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy land or mechanical unit for <AFBM,Dur2> seconds and deals <AFBM,DataA2> damage. |n|n|cffffcc00Can target land and mechanical units.|r"
+    },
+    "RoA_GLOBAL_HEROES_MTS_034": {
+      "hash": "9b775201de",
+      "string_number": 8018,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy land, mechanical or air unit  for <AFBM,Dur3> seconds and deals <AFBM,DataA3> damage.  |n|n|cffffcc00Can target land, mechanical and air units.|r"
+    },
+    "RoA_GLOBAL_HEROES_MTS_035": {
+      "hash": "ef4d9747cb",
+      "string_number": 8019,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy unit or building for <AFBM,Dur4> seconds and deals <AFBM,DataA4> damage. |n|n|cffffcc00Can target land, mechanical, air units and buildings.|r"
+    },
+    "RoA_GLOBAL_HEROES_MTS_036": {
+      "hash": "f1bf82afed",
+      "string_number": 8516,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur1> seconds and deals up to initial <AKfB,DataD1>  damage.The firebolt explodes with a pillar of flame that burns ground units for 45 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take minor damage."
+    },
+    "RoA_GLOBAL_HEROES_MTS_037": {
+      "hash": "a028dff5b6",
+      "string_number": 8517,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur2> seconds and deals up to initial <AKfB,DataD2>  damage.|nThe firebolt explodes with a pillar of flame that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage."
+    },
+    "RoA_GLOBAL_HEROES_MTS_038": {
+      "hash": "77b687e08b",
+      "string_number": 8518,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur3> seconds and deals up to initial <AKfB,DataD3>  damage.|nThe firebolt explodes with a pillar of flame that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage."
+    },
+    "RoA_GLOBAL_HEROES_MTS_039": {
+      "hash": "f598e028f5",
+      "string_number": 7461,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy unit when hit.|nThe firebolt explodes with pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - initial <AKfB,DataD1> max damage and stun for <AKfB,Dur1> seconds, with later 45 damage per second for 3 seconds, followed by minor damage for 6 seconds. |n|cffffcc00Level 2|r -  initial <AKfB,DataD2> max damage and stun for <AKfB,Dur2> seconds, with later 80 damage a second for 3 seconds, followed by light damage for 6 seconds. |n|cffffcc00Level 3|r -  initial <AKfB,DataD3> max damage and stun for <AKfB,Dur3> seconds, with later 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds."
+    },
+    "RoA_GLOBAL_HEROES_MTS_040": {
+      "hash": "957b66f853",
+      "string_number": 5448,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Fire Bolt - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_041": {
+      "hash": "873af13120",
+      "string_number": 5447,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_042": {
+      "hash": "d88c39ecc8",
+      "string_number": 5444,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_043": {
+      "hash": "c18f9dae8e",
+      "string_number": 5445,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_044": {
+      "hash": "873af13120",
+      "string_number": 8043,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_045": {
+      "hash": "d88c39ecc8",
+      "string_number": 8040,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_046": {
+      "hash": "c18f9dae8e",
+      "string_number": 8041,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_047": {
+      "hash": "74b9392625",
+      "string_number": 8042,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 4|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_048": {
+      "hash": "7cce686a9d",
+      "string_number": 5103,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Bread"
+    },
+    "RoA_GLOBAL_HEROES_MTS_049": {
+      "hash": "bb57313034",
+      "string_number": 5591,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Bread - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_050": {
+      "hash": "3219392c80",
+      "string_number": 5589,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Bread - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_051": {
+      "hash": "66fba4190f",
+      "string_number": 5590,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Bread - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_052": {
+      "hash": "0399c2bd2a",
+      "string_number": 8030,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Bread - [|cffffcc00Level 4|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_053": {
+      "hash": "266bde550a",
+      "string_number": 8027,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan eats the elven bread and heals self for <AMeb,DataA1> hit points."
+    },
+    "RoA_GLOBAL_HEROES_MTS_054": {
+      "hash": "db93b47d5f",
+      "string_number": 8028,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan eats the elven bread and heals self for <AMeb,DataA2> hit points."
+    },
+    "RoA_GLOBAL_HEROES_MTS_055": {
+      "hash": "6e8bfee070",
+      "string_number": 8029,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan eats the elven bread and heals self for <AMeb,DataA3> hit points."
+    },
+    "RoA_GLOBAL_HEROES_MTS_056": {
+      "hash": "412944c018",
+      "string_number": 8031,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan eats the elven bread and heals self for <AMeb,DataA4> hit points."
+    },
+    "RoA_GLOBAL_HEROES_MTS_057": {
+      "hash": "15f4d67281",
+      "string_number": 8035,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ensnare - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_058": {
+      "hash": "a2dc3c577f",
+      "string_number": 8032,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ensnare - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_059": {
+      "hash": "d8c84e2c3a",
+      "string_number": 8033,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ensnare - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_060": {
+      "hash": "6b2767c0ae",
+      "string_number": 8034,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ensnare - [|cffffcc00Level 4|r]"
+    },
+    "RoA_GLOBAL_HEROES_MTS_061": {
+      "hash": "a4486b21e1",
+      "string_number": 8036,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur2> seconds."
+    },
+    "RoA_GLOBAL_HEROES_MTS_062": {
+      "hash": "b1a2d3aeae",
+      "string_number": 8037,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_MTS_063": {
+      "hash": "7cf3c29ce2",
+      "string_number": 8038,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur4> seconds. |n|n|cffffcc00Can also target heroes.|r"
+    },
+    "RoA_GLOBAL_HEROES_MTS_064": {
+      "hash": "b832133f3b",
+      "string_number": 5597,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Blood of the Highborn"
+    },
+    "RoA_GLOBAL_HEROES_MTS_065": {
+      "hash": "b832133f3b",
+      "string_number": 5599,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Blood of the Highborn"
+    },
+    "RoA_GLOBAL_HEROES_MTS_066": {
+      "hash": "63e967a846",
+      "string_number": 5580,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pick Sword"
+    },
+    "RoA_GLOBAL_HEROES_MTS_067": {
+      "hash": "9554655de5",
+      "string_number": 5582,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan Equips his Sword and becomes melee attacker. |n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_HEROES_MTS_068": {
+      "hash": "7b4ac3f099",
+      "string_number": 5579,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pick Bow"
+    },
+    "RoA_GLOBAL_HEROES_MTS_069": {
+      "hash": "cdb759d15a",
+      "string_number": 5581,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Milan Equips his bow and becomes ranged attacker. |n|n|cffffcc00Attacks land and air units.|r"
+    },
+    "RoA_GLOBAL_HEROES_KHA_001": {
+      "hash": "6bf5cd7dbc",
+      "string_number": 5425,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Khadgar"
+    },
+    "RoA_GLOBAL_HEROES_KHA_002": {
+      "hash": "6bf5cd7dbc",
+      "string_number": 8502,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Khadgar"
+    },
+    "RoA_GLOBAL_HEROES_KHA_003": {
+      "hash": "6bf5cd7dbc",
+      "string_number": 8504,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Khadgar"
+    },
+    "RoA_GLOBAL_HEROES_KHA_004": {
+      "hash": "4746a4f58a",
+      "string_number": 5420,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Archmage"
+    },
+    "RoA_GLOBAL_HEROES_KHA_005": {
+      "hash": "977750aae1",
+      "string_number": 5422,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Archmage"
+    },
+    "RoA_GLOBAL_HEROES_KHA_006": {
+      "hash": "977750aae1",
+      "string_number": 5423,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Archmage"
+    },
+    "RoA_GLOBAL_HEROES_KHA_007": {
+      "hash": "36951c674a",
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chain Lightning"
+    },
+    "RoA_GLOBAL_HEROES_KHA_008": {
+      "hash": "c518d9fc98",
+      "string_number": 4805,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB1> times, dealing <AKhc,DataA1> damage on the primary target. Each jump deals less damage."
+    },
+    "RoA_GLOBAL_HEROES_KHA_009": {
+      "hash": "ec59934457",
+      "string_number": 4806,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB2> times, dealing <AKhc,DataA2> damage on the primary target. Each jump deals less damage."
+    },
+    "RoA_GLOBAL_HEROES_KHA_010": {
+      "hash": "3411e73abb",
+      "string_number": 4807,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB3> times, dealing <AKhc,DataA3> damage on the primary target. Each jump deals less damage."
+    },
+    "RoA_GLOBAL_HEROES_KHA_011": {
+      "hash": "3e2748ebf5",
+      "string_number": 4808,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AKhc,DataA1> damage, jumps <AKhc,DataB1> times. |n|cffffcc00Level 2|r - <AKhc,DataA2> damage, jumps <AKhc,DataB2> times. |n|cffffcc00Level 3|r - <AKhc,DataA3> damage, jumps <AKhc,DataB3> times."
+    },
+    "RoA_GLOBAL_HEROES_KHA_012": {
+      "hash": "ac9e9f55db",
+      "string_number": 2924,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage."
+    },
+    "RoA_GLOBAL_HEROES_KHA_013": {
+      "hash": "96cea60159",
+      "string_number": 2925,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB1> times, dealing <A642:ACcl,DataA1> damage to the primary target."
+    },
+    "RoA_GLOBAL_HEROES_KHA_014": {
+      "hash": "ac9e9f55db",
+      "string_number": 2926,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage."
+    },
+    "RoA_GLOBAL_HEROES_KHA_015": {
+      "hash": "0d69f451df",
+      "string_number": 5461,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fire Bolt"
+    },
+    "RoA_GLOBAL_HEROES_KHA_016": {
+      "hash": "0d69f451df",
+      "string_number": 5438,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fire Bolt"
+    },
+    "RoA_GLOBAL_HEROES_KHA_017": {
+      "hash": "0d69f451df",
+      "string_number": 5439,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Fire Bolt"
+    },
+    "RoA_GLOBAL_HEROES_KHA_018": {
+      "hash": "957b66f853",
+      "string_number": 5448,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Fire Bolt - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_019": {
+      "hash": "873af13120",
+      "string_number": 5447,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_020": {
+      "hash": "d88c39ecc8",
+      "string_number": 5444,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_021": {
+      "hash": "c18f9dae8e",
+      "string_number": 5445,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Firebolt - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_022": {
+      "hash": "09fcd8c4b7",
+      "string_number": 5440,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit was hit by a Fire Bolt, and is taking damage over time."
+    },
+    "RoA_GLOBAL_HEROES_KHA_023": {
+      "hash": "f598e028f5",
+      "string_number": 7461,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Hurls a fiery bolt that stuns a target enemy unit when hit.|nThe firebolt explodes with pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - initial <AKfB,DataD1> max damage and stun for <AKfB,Dur1> seconds, with later 45 damage per second for 3 seconds, followed by minor damage for 6 seconds. |n|cffffcc00Level 2|r -  initial <AKfB,DataD2> max damage and stun for <AKfB,Dur2> seconds, with later 80 damage a second for 3 seconds, followed by light damage for 6 seconds. |n|cffffcc00Level 3|r -  initial <AKfB,DataD3> max damage and stun for <AKfB,Dur3> seconds, with later 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds."
+    },
+    "RoA_GLOBAL_HEROES_KHA_024": {
+      "hash": "353f2376cd",
+      "string_number": 4751,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Illusions"
+    },
+    "RoA_GLOBAL_HEROES_KHA_025": {
+      "hash": "66504458e0",
+      "string_number": 4753,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Illusions - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_026": {
+      "hash": "56a911bd7f",
+      "string_number": 4755,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Illusions - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_027": {
+      "hash": "303cfed2e2",
+      "string_number": 4756,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Illusions - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_028": {
+      "hash": "4332135939",
+      "string_number": 4757,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Illusions - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_KHA_029": {
+      "hash": "b3ae392e38",
+      "string_number": 4761,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Create an illusory double of the targeted unit.  |n|n|cffffcc00Level 1|r - <AKhi,DataA1>% damage to enemy, <AKhi,DataB1> damage taken. |n|cffffcc00Level 2|r -  <AKhi,DataA2>% damage to enemy, <AKhi,DataB2> damage taken. |n|cffffcc00Level 3|r -  <AKhi,DataA3>% damage to enemy, <AKhi,DataB3> damage taken."
+    },
+    "RoA_GLOBAL_HEROES_KHA_030": {
+      "hash": "90ca5b163d",
+      "string_number": 4762,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA1>% damage to enemy units, takes <AKhi,DataB1> times the damage from enemy attacks, and will disappear after <AKhi,Dur1> seconds or when its hit points reach zero."
+    },
+    "RoA_GLOBAL_HEROES_KHA_031": {
+      "hash": "ea1a74d821",
+      "string_number": 4763,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA2>% damage to enemy units, takes <AKhi,DataB2> times the damage from enemy attacks, and will disappear after <AKhi,Dur2> seconds or when its hit points reach zero."
+    },
+    "RoA_GLOBAL_HEROES_KHA_032": {
+      "hash": "b03b484742",
+      "string_number": 4764,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA3>% damage to enemy units, takes <AKhi,DataB3> times the damage from enemy attacks, and will disappear after <AKhi,Dur3> seconds or when its hit points reach zero."
+    },
+    "RoA_GLOBAL_HEROES_KHA_033": {
+      "hash": "245954055a",
+      "string_number": 4769,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Arcane Storm"
+    },
+    "RoA_GLOBAL_HEROES_KHA_034": {
+      "hash": "245954055a",
+      "string_number": 4770,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Arcane Storm"
+    },
+    "RoA_GLOBAL_HEROES_KHA_035": {
+      "hash": "245954055a",
+      "string_number": 7763,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Arcane Storm"
+    },
+    "RoA_GLOBAL_HEROES_KHA_036": {
+      "hash": "13e4c99937",
+      "string_number": 4771,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit is being damaged by Arcane Storm."
+    },
+    "RoA_GLOBAL_HEROES_KHA_037": {
+      "hash": "2ea9f67942",
+      "string_number": 4788,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down waves of arcane shards that damage units in a target area. |n|n|cffffcc00Waves|r - <AKaS,DataA1>. |n|cffffcc00Damage|r - <AKaS,DataB1>  each."
+    },
+    "RoA_GLOBAL_HEROES_KHA_038": {
+      "hash": "31ec219a4d",
+      "string_number": 4789,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down <AKaS,DataA1> arcane shard waves; each wave deals <AKaS,DataB1> damage to units in an area."
+    },
+    "RoA_GLOBAL_HEROES_RET_001": {
+      "hash": "24106f405e",
+      "string_number": 5618,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Retera"
+    },
+    "RoA_GLOBAL_HEROES_RET_002": {
+      "hash": "6511f4dadc",
+      "string_number": 5617,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Professor"
+    },
+    "RoA_GLOBAL_HEROES_RET_003": {
+      "hash": "6eb802d417",
+      "string_number": 5619,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Professor"
+    },
+    "RoA_GLOBAL_HEROES_RET_004": {
+      "hash": "6eb802d417",
+      "string_number": 5620,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Revive Professor"
+    },
+    "RoA_GLOBAL_HEROES_RET_005": {
+      "hash": "ad3d0038f7",
+      "string_number": 5628,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Bamboozling"
+    },
+    "RoA_GLOBAL_HEROES_RET_006": {
+      "hash": "572f8a2f96",
+      "string_number": 5630,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Bamboozling - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_007": {
+      "hash": "55afa4cf7c",
+      "string_number": 5631,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Bamboozling - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_008": {
+      "hash": "670993b86b",
+      "string_number": 5632,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Bamboozling - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_009": {
+      "hash": "9e847fba5a",
+      "string_number": 5633,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Bamboozling - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_010": {
+      "hash": "e06a0bb5c5",
+      "string_number": 5634,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down waves of falling sheeps that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
+    },
+    "RoA_GLOBAL_HEROES_RET_011": {
+      "hash": "ea9d4ea93d",
+      "string_number": 7749,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down <ARBQ,DataA1> falling sheep waves; each wave deals <ARBQ,DataB1> damage to units in an area."
+    },
+    "RoA_GLOBAL_HEROES_RET_012": {
+      "hash": "b3a28d1a79",
+      "string_number": 7750,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down <ARBQ,DataA2> falling sheep waves; each wave deals <ARBQ,DataB2> damage to units in an area."
+    },
+    "RoA_GLOBAL_HEROES_RET_013": {
+      "hash": "6a482c4e2e",
+      "string_number": 7751,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Calls down <ARBQ,DataA3> falling sheep waves; each wave deals <ARBQ,DataB3> damage to units in an area."
+    },
+    "RoA_GLOBAL_HEROES_RET_014": {
+      "hash": "bb958b26fb",
+      "string_number": 5873,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summon Ram"
+    },
+    "RoA_GLOBAL_HEROES_RET_015": {
+      "hash": "698521d217",
+      "string_number": 5874,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Summon Ram - [|cffffcc00Level %d|r]."
+    },
+    "RoA_GLOBAL_HEROES_RET_016": {
+      "hash": "db769842fb",
+      "string_number": 5875,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summons <AOsf,DataB1> Rams to fight the Professor's enemies. |nLasts <AOsf,Dur1> seconds. |n|n|cffffcc00Level 1|r - <osw1,realHP> hit points, <osw1,mindmg1> - <osw1,maxdmg1> damage. |n|cffffcc00Level 2|r - <osw2,realHP> hit points, <osw2,mindmg1> - <osw2,maxdmg1> damage and Critical Strike. |n|cffffcc00Level 3|r - <osw3,realHP> hit points, <osw3,mindmg1> - <osw3,maxdmg1> damage, Critical Strike and Devour."
+    },
+    "RoA_GLOBAL_HEROES_RET_017": {
+      "hash": "acfc4d84ad",
+      "string_number": 5876,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summon Ram - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_018": {
+      "hash": "6ddb88249f",
+      "string_number": 5877,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summon Ram - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_019": {
+      "hash": "973d776aba",
+      "string_number": 5878,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summon Ram - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_020": {
+      "hash": "7fd76d7340",
+      "string_number": 7765,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summons <AOsf,DataB1> Ram companions. Each ram has <hSH1,realHP> hit points and deals <hSH1,mindmg1> - <hSH1,maxdmg1> damage. |nLasts <AOsf,Dur1> seconds. |n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_HEROES_RET_021": {
+      "hash": "e188bbb93c",
+      "string_number": 7766,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summons <AOsf,DataB2> Ram companions that have Critical Strike. Each ram has <hSH2,realHP> hit points and deals <hSH2,mindmg1> - <hSH2,maxdmg1> damage. |nLasts <AOsf,Dur2> seconds. |n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_HEROES_RET_022": {
+      "hash": "c447f683d1",
+      "string_number": 7767,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summons <AOsf,DataB3> Ram companions that have Critical Strike and Devour. Each ram has <hSH3,realHP> hit points and deals <hSH3,mindmg1> - <hSH3,maxdmg1> damage. |nLasts <AOsf,Dur3> seconds. |n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_HEROES_RET_023": {
+      "hash": "7b53ddf6cf",
+      "string_number": 5669,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Triangulation"
+    },
+    "RoA_GLOBAL_HEROES_RET_024": {
+      "hash": "7b53ddf6cf",
+      "string_number": 5676,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Triangulation"
+    },
+    "RoA_GLOBAL_HEROES_RET_025": {
+      "hash": "7b53ddf6cf",
+      "string_number": 5679,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Triangulation"
+    },
+    "RoA_GLOBAL_HEROES_RET_026": {
+      "hash": "8d0d988f09",
+      "string_number": 5898,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Triangulation - [|cffffcc00Level %d|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_027": {
+      "hash": "acc2751162",
+      "string_number": 5884,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Triangulation - [|cffffcc00Level 1|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_028": {
+      "hash": "3b5e09b9cf",
+      "string_number": 5885,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Triangulation - [|cffffcc00Level 2|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_029": {
+      "hash": "a7675554ee",
+      "string_number": 5886,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Triangulation - [|cffffcc00Level 3|r]"
+    },
+    "RoA_GLOBAL_HEROES_RET_030": {
+      "hash": "643042f586",
+      "string_number": 5882,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn.  |n|n|cffffcc00Level 1|r - Lasts <ARUL,HeroDur1> seconds. |n|cffffcc00Level 2|r - Lasts <ARUL,HeroDur2> seconds. |n|cffffcc00Level 3|r - Lasts <ARUL,HeroDur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_RET_031": {
+      "hash": "f1c6a01656",
+      "string_number": 5883,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur1> seconds."
+    },
+    "RoA_GLOBAL_HEROES_RET_032": {
+      "hash": "793efeeef2",
+      "string_number": 5887,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur2> seconds."
+    },
+    "RoA_GLOBAL_HEROES_RET_033": {
+      "hash": "973715bd7b",
+      "string_number": 5888,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur3> seconds."
+    },
+    "RoA_GLOBAL_HEROES_RET_034": {
+      "hash": "42f871a643",
+      "string_number": 5889,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Permanent Polymorph"
+    },
+    "RoA_GLOBAL_HEROES_RET_035": {
+      "hash": "42f871a643",
+      "string_number": 5892,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Permanent Polymorph"
+    },
+    "RoA_GLOBAL_HEROES_RET_036": {
+      "hash": "07b3d00369",
+      "string_number": 5891,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Learn Permanent Polymorph"
+    },
+    "RoA_GLOBAL_HEROES_RET_037": {
+      "hash": "200fff41cb",
+      "string_number": 5901,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes."
+    },
+    "RoA_GLOBAL_HEROES_RET_038": {
+      "hash": "200fff41cb",
+      "string_number": 5902,
+      "type": "HEROES",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes."
+    },
+    "RoA_GLOBAL_ARTIFACTS_001": {
+      "hash": "705b8daa59",
+      "string_number": 5930,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Alliance Flag"
+    },
+    "RoA_GLOBAL_ARTIFACTS_002": {
+      "hash": "5e996f83b9",
+      "string_number": 775,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Keg of Strong Ale"
+    },
+    "RoA_GLOBAL_ARTIFACTS_003": {
+      "hash": "e893a0b976",
+      "string_number": 776,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Purchase Ale"
+    },
+    "RoA_GLOBAL_ARTIFACTS_004": {
+      "hash": "0d43189d81",
+      "string_number": 777,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Boosts unit combat damage. But intoxicates with Alcohol."
+    },
+    "RoA_GLOBAL_ARTIFACTS_005": {
+      "hash": "c7a0ebbcb3",
+      "string_number": 2435,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Drenches units in alcohol, causing their movement speed to be reduced, attack speed <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage."
+    },
+    "RoA_GLOBAL_ARTIFACTS_006": {
+      "hash": "29ed83f10a",
+      "string_number": 7819,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Amulet of the Tidemother"
+    },
+    "RoA_GLOBAL_ARTIFACTS_007": {
+      "hash": "29ed83f10a",
+      "string_number": 7821,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Amulet of the Tidemother"
+    },
+    "RoA_GLOBAL_ARTIFACTS_008": {
+      "hash": "ef04ceb21d",
+      "string_number": 8055,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffff8c00Artifact|r|nGives permanent 150 bonus to hit points when worn. Also increases the owner's hit point regeneration by <Arll,DataA1> hit points per second.  \n\n|cffffcc00History|r  \n|cffffdeadA gift from Lady Proudmoore, this silver amulet bears the crest of Kul Tiras. Said to be blessed by the sea itself, it steadies Derek’s spirit in battle and heals his wounds with the tide’s eternal rhythm.|r\n"
+    },
+    "RoA_GLOBAL_ARTIFACTS_009": {
+      "hash": "b09ae1870f",
+      "string_number": 4374,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gospel of St. Thomas"
+    },
+    "RoA_GLOBAL_ARTIFACTS_010": {
+      "hash": "1e561505ec",
+      "string_number": 7349,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffff8c00Artifact|r\nA Holy book that increases Intelligence of the Hero by 3 and allows its owner to cast spells: |n- Healing Prayer|n- Mark of the Heretic\n\n|cffffcc00History|r\n|cffffdeadThe Gospel of St. Thomas, the healer of Tirisfal, known for his compassion and valor. This sacred relic is said to radiate with his benevolent spirit, granting those near it the power to mend wounds and restore vigor, and protection against dark powers.|r"
+    },
+    "RoA_GLOBAL_ARTIFACTS_011": {
+      "hash": "451133a0e0",
+      "string_number": 7353,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Healing Prayer"
+    },
+    "RoA_GLOBAL_ARTIFACTS_012": {
+      "hash": "451133a0e0",
+      "string_number": 7355,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Healing Prayer"
+    },
+    "RoA_GLOBAL_ARTIFACTS_013": {
+      "hash": "8c25ede8a2",
+      "string_number": 7352,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heals a target friendly unit for <AGah,DataA1> hit points over <AGah,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_014": {
+      "hash": "9b53101c1e",
+      "string_number": 7356,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Heals a target friendly unit for <ABHp,DataA1> hit points over <ABHp,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_015": {
+      "hash": "08513f2ff8",
+      "string_number": 7358,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Mark of the Heretic"
+    },
+    "RoA_GLOBAL_ARTIFACTS_016": {
+      "hash": "08513f2ff8",
+      "string_number": 7367,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Mark of the Heretic"
+    },
+    "RoA_GLOBAL_ARTIFACTS_017": {
+      "hash": "08513f2ff8",
+      "string_number": 7369,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Mark of the Heretic"
+    },
+    "RoA_GLOBAL_ARTIFACTS_018": {
+      "hash": "08513f2ff8",
+      "string_number": 7415,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Mark of the Heretic"
+    },
+    "RoA_GLOBAL_ARTIFACTS_019": {
+      "hash": "24f10990c7",
+      "string_number": 7370,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit has Mark of the Heretic; it has reduced armor and can be seen by the enemy."
+    },
+    "RoA_GLOBAL_ARTIFACTS_020": {
+      "hash": "13803f21ab",
+      "string_number": 7362,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Reduces a target enemy unit's armor by <ABMh,DataA1> and gives vision of that unit. |nLasts <ABMh,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_021": {
+      "hash": "0defe915f4",
+      "string_number": 6707,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Reduces a target enemy unit's armor by <ADiF,DataA1> and gives vision of that unit. |nLasts <ADiF,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_022": {
+      "hash": "f663c91dc5",
+      "string_number": 7164,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Reduces a target enemy unit's armor by <AEFA,DataA1> and gives vision of that unit. |nLasts <AEFA,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_023": {
+      "hash": "3eb962745d",
+      "string_number": 4372,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gospel of St. Maksimus"
+    },
+    "RoA_GLOBAL_ARTIFACTS_024": {
+      "hash": "832e090c68",
+      "string_number": 7348,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffff8c00Artifact|r\nA Holy book that increases Intelligence of the Hero by 3 and allows its owner to cast spells: |n- Inner Fire|n- Dispel Magic\n\n|cffffcc00History|r\n|cffffdeadThe Gospel of St. Maksimus, relic of the revered cleric who defended Tyr's Hand during the Troll Wars. Infused with the wisdom of a valiant defender, it offers unparalleled insight and clarity.|r"
+    },
+    "RoA_GLOBAL_ARTIFACTS_025": {
+      "hash": "d9b527e86d",
+      "string_number": 7076,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Removes all buffs from units in a target area. |n|cffffcc00Deals <AEDS,DataB1> damage to summoned units.|r"
+    },
+    "RoA_GLOBAL_ARTIFACTS_026": {
+      "hash": "cfc75fc212",
+      "string_number": 7713,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Removes all buffs from units in a target area. |n|cffffcc00Deals <AsDm,DataB1> damage to summoned units.|r"
+    },
+    "RoA_GLOBAL_ARTIFACTS_027": {
+      "hash": "a179b3ff5e",
+      "string_number": 6617,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases a target friendly unit's damage by <AIDR,DataA1,%>%. |nLasts <AIDR,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_028": {
+      "hash": "a0e51a8b98",
+      "string_number": 7078,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases a target friendly unit's damage by <AEIF,DataA1,%>% and armor by <AEIF,DataB1>. |nLasts <AEIF,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_029": {
+      "hash": "e8a7b361a7",
+      "string_number": 7712,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases a target friendly unit's damage by <AspI,DataA1,%>% and armor by <AspI,DataB1>. |nLasts <AspI,Dur1> seconds."
+    },
+    "RoA_GLOBAL_ARTIFACTS_030": {
+      "hash": "23d15bd244",
+      "string_number": 4446,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Blessed Armor of Justice"
+    },
+    "RoA_GLOBAL_ARTIFACTS_031": {
+      "hash": "ff4dbfe8de",
+      "string_number": 4450,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffff8c00Artifact|r\nIncreases the Strength, Agility and Intelligence of the Hero by |cffffc8002|r when worn. Also provides Armor bonus by |cffffc8005|r.\n\n|cffffcc00History|r\n|cffffdeadThis armor was granted to Uther Lightbringer on the very first day he became a paladin. Archbishop Alonsus Faol himself blessed it and placed holy enchantments upon it.|r"
+    },
+    "RoA_GLOBAL_ARTIFACTS_032": {
+      "hash": "764e3c4f40",
+      "string_number": 4352,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Korkron Armor"
+    },
+    "RoA_GLOBAL_ARTIFACTS_033": {
+      "hash": "62574e9b3d",
+      "string_number": 7405,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "|cffff8c00Artifact|r|nEnhances the Hero's armor by <AId7,DataA1>."
+    },
+    "RoA_GLOBAL_ARTIFACTS_034": {
+      "hash": "314ec57c30",
+      "string_number": 4282,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Golden Key"
+    },
+    "RoA_GLOBAL_ARTIFACTS_035": {
+      "hash": "57d6f34276",
+      "string_number": 4285,
+      "type": "AFTIFACTS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "A golden key. Opens nearby door."
+    },
+    "RoA_GLOBAL_UNITS_001": {
+      "hash": "826043a649",
+      "string_number": 7947,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elite guardsman of the royal family. |n|n|cffffcc00Abilities:|r Defend, Long Blades.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_UNITS_002": {
+      "hash": "1fe1daf64a",
+      "string_number": 5106,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Long Blades"
+    },
+    "RoA_GLOBAL_UNITS_003": {
+      "hash": "1fe1daf64a",
+      "string_number": 5107,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Long Blades"
+    },
+    "RoA_GLOBAL_UNITS_004": {
+      "hash": "a6a636a3c9",
+      "string_number": 7258,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The long blade that causes <ALob,DataA1,%>% of this unit's attack damage to splash towards enemies near its primary target."
+    },
+    "RoA_GLOBAL_UNITS_005": {
+      "hash": "55143ab82c",
+      "string_number": 4366,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Defender of Faith"
+    },
+    "RoA_GLOBAL_UNITS_006": {
+      "hash": "7911461f38",
+      "string_number": 7948,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elite soldier of the Silver Hand order. |n|n|cffffcc00Abilities:|r Holy Defense, Long Blades.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_UNITS_007": {
+      "hash": "3e6df41bda",
+      "string_number": 4378,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Defense"
+    },
+    "RoA_GLOBAL_UNITS_008": {
+      "hash": "3e6df41bda",
+      "string_number": 4379,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Holy Defense"
+    },
+    "RoA_GLOBAL_UNITS_009": {
+      "hash": "d49269e188",
+      "string_number": 7493,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <AfDd,DataA1,%>% of the damage from Piercing attacks and gain magic immunity, but have <AfDd,DataC1,%>% reduced movement speed."
+    },
+    "RoA_GLOBAL_UNITS_010": {
+      "hash": "13deb5d933",
+      "string_number": 7824,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Activate to take only <Amdf,DataH1,%>% of the damage from Magic attacks and no damage from Piercing attacks, but have <Amdf,DataC1,%>% reduced movement speed."
+    },
+    "RoA_GLOBAL_UNITS_011": {
+      "hash": "90a2873451",
+      "string_number": 4380,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Stop Holy Defense"
+    },
+    "RoA_GLOBAL_UNITS_012": {
+      "hash": "caec5c99b7",
+      "string_number": 7485,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Deactivate to move at normal speed, but take full damage from spells and piercing attacks."
+    },
+    "RoA_GLOBAL_UNITS_013": {
+      "hash": "b763894645",
+      "string_number": 7483,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Regional Defender"
+    },
+    "RoA_GLOBAL_UNITS_014": {
+      "hash": "4af005db42",
+      "string_number": 583,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Guard Dog"
+    },
+    "RoA_GLOBAL_UNITS_015": {
+      "hash": "309d2a654c",
+      "string_number": 6033,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Man at Arms"
+    },
+    "RoA_GLOBAL_UNITS_016": {
+      "hash": "99e8177cd4",
+      "string_number": 6034,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Train Man at Arms"
+    },
+    "RoA_GLOBAL_UNITS_017": {
+      "hash": "53c5c1574b",
+      "string_number": 7874,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summons Man at Arms to fight at your side."
+    },
+    "RoA_GLOBAL_UNITS_018": {
+      "hash": "43522be87d",
+      "string_number": 7875,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Summons from 1 to 2 Man at Arms or Arbalists to fight at your side."
+    },
+    "RoA_GLOBAL_UNITS_019": {
+      "hash": "5a4b5c7332",
+      "string_number": 7488,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Veteran Skills"
+    },
+    "RoA_GLOBAL_UNITS_020": {
+      "hash": "7a2aaeb482",
+      "string_number": 7489,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Gives a <AfSc,DataA1>% chance to do <AfSc,DataB1> times normal damage on an attack."
+    },
+    "RoA_GLOBAL_UNITS_021": {
+      "hash": "8a1db462be",
+      "string_number": 6867,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Scout"
+    },
+    "RoA_GLOBAL_UNITS_022": {
+      "hash": "6a37c30124",
+      "string_number": 6869,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Highly skilled ranged scout from Ironforge, effective against air units. |n|n|cffffcc00Attacks land and air units.|r"
+    },
+    "RoA_GLOBAL_UNITS_023": {
+      "hash": "b528f9d1a2",
+      "string_number": 6610,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Dwarf"
+    },
+    "RoA_GLOBAL_UNITS_024": {
+      "hash": "c33b92a7e4",
+      "string_number": 5938,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Bowman"
+    },
+    "RoA_GLOBAL_UNITS_025": {
+      "hash": "97a45634f7",
+      "string_number": 5939,
+      "type": "UNITS",
+      "source": "Train Bowman"
+    },
+    "RoA_GLOBAL_UNITS_026": {
+      "hash": "19aaf54666",
+      "string_number": 8510,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Longbow.|nUnlocked by upgrade - Imrpoved Ranged Weapons. |n|n|cffffcc00Attacks land and air units.|r"
+    },
+    "RoA_GLOBAL_UNITS_027": {
+      "hash": "31b2fb624d",
+      "string_number": 7149,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Longbow"
+    },
+    "RoA_GLOBAL_UNITS_028": {
+      "hash": "31b2fb624d",
+      "string_number": 2052,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Longbow"
+    },
+    "RoA_GLOBAL_UNITS_029": {
+      "hash": "31b2fb624d",
+      "string_number": 2053,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Longbow"
+    },
+    "RoA_GLOBAL_UNITS_030": {
+      "hash": "a84b7c121b",
+      "string_number": 7753,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases attack range by 200."
+    },
+    "RoA_GLOBAL_UNITS_031": {
+      "hash": "a84b7c121b",
+      "string_number": 7147,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases attack range by 200."
+    },
+    "RoA_GLOBAL_UNITS_032": {
+      "hash": "a84b7c121b",
+      "string_number": 7680,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases attack range by 200."
+    },
+    "RoA_GLOBAL_UNITS_033": {
+      "hash": "a84b7c121b",
+      "string_number": 7682,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Increases attack range by 200."
+    },
+    "RoA_GLOBAL_UNITS_034": {
+      "hash": "3f3579b122",
+      "string_number": 6023,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Trooper"
+    },
+    "RoA_GLOBAL_UNITS_035": {
+      "hash": "6e1bdc2940",
+      "string_number": 8056,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Riposte"
+    },
+    "RoA_GLOBAL_UNITS_036": {
+      "hash": "6e1bdc2940",
+      "string_number": 8058,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Riposte"
+    },
+    "RoA_GLOBAL_UNITS_037": {
+      "hash": "6e1bdc2940",
+      "string_number": 8074,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Riposte"
+    },
+    "RoA_GLOBAL_UNITS_038": {
+      "hash": "6e1bdc2940",
+      "string_number": 8075,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Riposte"
+    },
+    "RoA_GLOBAL_UNITS_039": {
+      "hash": "0286b2542c",
+      "string_number": 8059,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The Kul Tiran soldier is trained to respond instantly to every blow. Returns |cffffcc00<AKpR,DataA1,%>%|r of melee damage taken back to the attacker."
+    },
+    "RoA_GLOBAL_UNITS_040": {
+      "hash": "a7d4929578",
+      "string_number": 8077,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Returns |cffffcc0010%|r of melee damage taken."
+    },
+    "RoA_GLOBAL_UNITS_041": {
+      "hash": "3bcc611b6a",
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Footmen"
+    },
+    "RoA_GLOBAL_UNITS_042": {
+      "hash": "04002d9b9a",
+      "string_number": 7925,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Footmen are the initial line of defense against the Horde.|n|n|cffffcc00Abilities:|r Defend.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_UNITS_043": {
+      "hash": "744634a2f6",
+      "string_number": 4492,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Frigate"
+    },
+    "RoA_GLOBAL_UNITS_044": {
+      "hash": "792949457e",
+      "string_number": 232,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_045": {
+      "hash": "792949457e",
+      "string_number": 4488,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_046": {
+      "hash": "792949457e",
+      "string_number": 5109,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_047": {
+      "hash": "792949457e",
+      "string_number": 5565,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_048": {
+      "hash": "792949457e",
+      "string_number": 7512,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_049": {
+      "hash": "792949457e",
+      "string_number": 7516,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_050": {
+      "hash": "792949457e",
+      "string_number": 7546,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Battleship"
+    },
+    "RoA_GLOBAL_UNITS_051": {
+      "hash": "b4c07c1af2",
+      "string_number": 223,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Archer"
+    },
+    "RoA_GLOBAL_UNITS_052": {
+      "hash": "4fa456e651",
+      "string_number": 8462,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Train Elven Archer"
+    },
+    "RoA_GLOBAL_UNITS_053": {
+      "hash": "78ad256b67",
+      "string_number": 6982,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sylvan Craftsman"
+    },
+    "RoA_GLOBAL_UNITS_054": {
+      "hash": "054f1c3ec0",
+      "string_number": 8289,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Sylvan Craftsmen are the diligent workers from Quel’Thalas. They harvest gold and lumber, construct buildings, and perform repairs with practiced skill.|n|n|cffffcc00Attacks land units and trees.|r"
+    },
+    "RoA_GLOBAL_UNITS_055": {
+      "hash": "2223874a3b",
+      "string_number": 6979,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Train Sylvan Craftsman"
+    },
+    "RoA_GLOBAL_UNITS_056": {
+      "hash": "60ae363002",
+      "string_number": 8582,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Brute"
+    },
+    "RoA_GLOBAL_UNITS_057": {
+      "hash": "60ae363002",
+      "string_number": 283,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Brute"
+    },
+    "RoA_GLOBAL_UNITS_058": {
+      "hash": "8c27351f99",
+      "string_number": 8551,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Axethrower"
+    },
+    "RoA_GLOBAL_UNITS_059": {
+      "hash": "8c27351f99",
+      "string_number": 285,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Axethrower"
+    },
+    "RoA_GLOBAL_UNITS_060": {
+      "hash": "110049cc8c",
+      "string_number": 1689,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Rage"
+    },
+    "RoA_GLOBAL_UNITS_061": {
+      "hash": "110049cc8c",
+      "string_number": 1690,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Rage"
+    },
+    "RoA_GLOBAL_UNITS_062": {
+      "hash": "110049cc8c",
+      "string_number": 1939,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Rage"
+    },
+    "RoA_GLOBAL_UNITS_063": {
+      "hash": "4b4a8d5220",
+      "string_number": 8195,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "This unit is in Rage; it's speed and attack rates are increased, but it will also take more damage from attacks."
+    },
+    "RoA_GLOBAL_UNITS_064": {
+      "hash": "8653fecb17",
+      "string_number": 314,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Berserker"
+    },
+    "RoA_GLOBAL_UNITS_065": {
+      "hash": "5ec0a78be2",
+      "string_number": 300,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Destroyer"
+    },
+    "RoA_GLOBAL_UNITS_066": {
+      "hash": "5ec0a78be2",
+      "string_number": 8545,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Destroyer"
+    },
+    "RoA_GLOBAL_UNITS_067": {
+      "hash": "a8d2d8de52",
+      "string_number": 8560,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre"
+    },
+    "RoA_GLOBAL_UNITS_068": {
+      "hash": "473c2ae9d9",
+      "string_number": 8564,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Apprentice, Adept, Master"
+    },
+    "RoA_GLOBAL_UNITS_069": {
+      "hash": "a8d2d8de52",
+      "string_number": 99,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre"
+    },
+    "RoA_GLOBAL_UNITS_070": {
+      "hash": "2c484b7514",
+      "string_number": 1983,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre Magi Training"
+    },
+    "RoA_GLOBAL_UNITS_071": {
+      "hash": "2c484b7514",
+      "string_number": 1985,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre Magi Training"
+    },
+    "RoA_GLOBAL_UNITS_072": {
+      "hash": "c03134a5e5",
+      "string_number": 8565,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "- Eye of Kilrogg,- Eye of Kilrogg|n- Bloodlust,- Eye of Kilrogg|n- Bloodlust|n- Runes"
+    },
+    "RoA_GLOBAL_UNITS_073": {
+      "hash": "b7127328a5",
+      "string_number": 8570,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Goblin Sappers"
+    },
+    "RoA_GLOBAL_UNITS_074": {
+      "hash": "b7127328a5",
+      "string_number": 76,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Goblin Sappers"
+    },
+    "RoA_GLOBAL_UNITS_075": {
+      "hash": "483f6fa937",
+      "string_number": 8573,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Death Knight"
+    },
+    "RoA_GLOBAL_UNITS_076": {
+      "hash": "483f6fa937",
+      "string_number": 68,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Death Knight"
+    },
+    "RoA_GLOBAL_UNITS_077": {
+      "hash": "4de5fe95b6",
+      "string_number": 61,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Unholy"
+    },
+    "RoA_GLOBAL_UNITS_078": {
+      "hash": "1f82f2f3e4",
+      "string_number": 8577,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Initiate, Adept, Master, Necromancer"
+    },
+    "RoA_GLOBAL_UNITS_079": {
+      "hash": "1f82f2f3e4",
+      "string_number": 72,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Initiate, Adept, Master, Necromancer"
+    },
+    "RoA_GLOBAL_UNITS_080": {
+      "hash": "cb0e6b0450",
+      "string_number": 71,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind"
+    },
+    "RoA_GLOBAL_UNITS_081": {
+      "hash": "cb0e6b0450",
+      "string_number": 8576,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind"
+    },
+    "RoA_GLOBAL_UNITS_082": {
+      "hash": "a5bb606639",
+      "string_number": 386,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Undead"
+    },
+    "RoA_GLOBAL_UNITS_083": {
+      "hash": "a5bb606639",
+      "string_number": 1947,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Undead"
+    },
+    "RoA_GLOBAL_UNITS_084": {
+      "hash": "bbe963c645",
+      "string_number": 309,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Dragon"
+    },
+    "RoA_GLOBAL_UNITS_085": {
+      "hash": "e8890defd1",
+      "string_number": 681,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Kor'kron Guard"
+    },
+    "RoA_GLOBAL_UNITS_086": {
+      "hash": "21e902d728",
+      "string_number": 6234,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Catapult"
+    },
+    "RoA_GLOBAL_UNITS_087": {
+      "hash": "21e902d728",
+      "string_number": 8556,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Catapult"
+    },
+    "RoA_GLOBAL_UNITS_088": {
+      "hash": "21e902d728",
+      "string_number": 290,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Catapult"
+    },
+    "RoA_GLOBAL_UNITS_089": {
+      "hash": "e230c020b4",
+      "string_number": 65,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Goblin Zeppelin"
+    },
+    "RoA_GLOBAL_UNITS_090": {
+      "hash": "bc4ccd870e",
+      "string_number": 79,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Goblin Alchemist"
+    },
+    "RoA_GLOBAL_UNITS_091": {
+      "hash": "042dcac024",
+      "string_number": 502,
+      "type": "UNITS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Bonecrusher"
+    },
+    "RoA_GLOBAL_BUILDINGS_001": {
+      "hash": "b30ed768fa",
+      "string_number": 1010,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre Mound"
+    },
+    "RoA_GLOBAL_BUILDINGS_002": {
+      "hash": "b30ed768fa",
+      "string_number": 330,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre Mound"
+    },
+    "RoA_GLOBAL_BUILDINGS_003": {
+      "hash": "9745b35be9",
+      "string_number": 325,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Pig Farm"
+    },
+    "RoA_GLOBAL_BUILDINGS_004": {
+      "hash": "1f7a6a56a0",
+      "string_number": 210,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Oil Refinery"
+    },
+    "RoA_GLOBAL_BUILDINGS_005": {
+      "hash": "e5dda16db4",
+      "string_number": 2901,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Ogre Juggernaut"
+    },
+    "RoA_GLOBAL_BUILDINGS_006": {
+      "hash": "5a249adcad",
+      "string_number": 334,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Lumber Mill"
+    },
+    "RoA_GLOBAL_BUILDINGS_007": {
+      "hash": "5a249adcad",
+      "string_number": 996,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Troll Lumber Mill"
+    },
+    "RoA_GLOBAL_BUILDINGS_008": {
+      "hash": "a1d35be579",
+      "string_number": 136,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Guard Tower"
+    },
+    "RoA_GLOBAL_BUILDINGS_009": {
+      "hash": "7897ce2b54",
+      "string_number": 261,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Elven Lumber Mill"
+    },
+    "RoA_GLOBAL_BUILDINGS_010": {
+      "hash": "829d66a1e4",
+      "string_number": 6943,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Build Elven Lumber Mill"
+    },
+    "RoA_GLOBAL_BUILDINGS_011": {
+      "hash": "d0683c4ec3",
+      "string_number": 7834,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "The elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.|nServes as a drop-off point for harvested lumber.|n|n|cffffcc00Research:|r Lumber Saw Upgrade, Iron Arrows, Elven Ranger Training, Marksmaship, Ranger Scouting, Longbows, Ensnare."
+    },
+    "RoA_GLOBAL_BUILDINGS_012": {
+      "hash": "c89e157b9e",
+      "string_number": 7856,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Scouting structure. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry.|n|n|cffffcc00Upgrades to:|r Guard Tower or Cannon Tower.|n|n|cffffcc00Can't attack units.|r"
+    },
+    "RoA_GLOBAL_BUILDINGS_013": {
+      "hash": "1e365271fe",
+      "string_number": 7855,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Defensive structure, effective against air units. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry|n|n|cffffcc00Attacks land and air units.|r"
+    },
+    "RoA_GLOBAL_BUILDINGS_014": {
+      "hash": "f6262b1a8d",
+      "string_number": 7854,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Powerful defensive structure, effective gatherings of land units. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry.|n|n|cffffcc00Attacks land units.|r"
+    },
+    "RoA_GLOBAL_BUILDINGS_015": {
+      "hash": "255a70fd8e",
+      "string_number": 6207,
+      "type": "BUILDINGS",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Tavern"
+    },
+    "RoA_GLOBAL_BUILDINGS_016": {
+      "hash": "15f09dbff1",
+      "string_number": 3993,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vase"
+    },
+    "RoA_GLOBAL_BUILDINGS_017": {
+      "hash": "15f09dbff1",
+      "string_number": 3995,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vase"
+    },
+    "RoA_GLOBAL_BUILDINGS_018": {
+      "hash": "15f09dbff1",
+      "string_number": 3997,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Vase"
+    },
+    "RoA_GLOBAL_BUILDINGS_019": {
+      "hash": "0e27d6d096",
+      "string_number": 4460,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Armor Suit"
+    },
+    "RoA_GLOBAL_BUILDINGS_020": {
+      "hash": "378d838082",
+      "string_number": 3126,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chest"
+    },
+    "RoA_GLOBAL_BUILDINGS_021": {
+      "hash": "378d838082",
+      "string_number": 3929,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Chest"
+    },
+    "RoA_GLOBAL_BUILDINGS_022": {
+      "hash": "d7c476b468",
+      "string_number": 5113,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "House Ruins"
+    },
+    "RoA_GLOBAL_BUILDINGS_023": {
+      "hash": "fb8814d077",
+      "string_number": 4097,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "City Clock Tower"
+    },
+    "RoA_GLOBAL_BUILDINGS_024": {
+      "hash": "6220166b69",
+      "string_number": 3475,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Knight Statue"
+    },
+    "RoA_GLOBAL_BUILDINGS_025": {
+      "hash": "6220166b69",
+      "string_number": 4241,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Knight Statue"
+    },
+    "RoA_GLOBAL_BUILDINGS_026": {
+      "hash": "00570f8551",
+      "string_number": 3239,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Food Supplies"
+    },
+    "RoA_GLOBAL_BUILDINGS_027": {
+      "hash": "a020fa18f3",
+      "string_number": 372,
+      "type": "OTHER",
+      "unit_id": "N/A",
+      "unit_name": "N/A",
+      "source": "Oil Patch"
+    }
+  }
+}
