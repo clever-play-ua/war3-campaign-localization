@@ -8,7 +8,7 @@ Translations of the Warcraft III Reforged custom campaigns by LoreCraft Designs,
 | `CSW-RoA` Rise of the Alliance | 1.03 | PL, UK, ES, PT, CZ, DE, FR, KR |
 | `CSW-ToD` Tides of Darkness | 2.01 | PL (complete, with assets), UK, ES, FR, PT, CZ, KR, RU, CN (story and quests) |
 
-Data model: [FORMAT.md](FORMAT.md). Requirements: Python 3.10+, Pillow (only for previews). No other tools,
+Data model: [FORMAT.md](FORMAT.md). Everything learned (formats, MPQ/CASC findings, traps, per-language facts): [docs/KNOWLEDGE.md](docs/KNOWLEDGE.md). Requirements: Python 3.10+, Pillow (only for previews). No other tools,
 no World Editor.
 
 ```
