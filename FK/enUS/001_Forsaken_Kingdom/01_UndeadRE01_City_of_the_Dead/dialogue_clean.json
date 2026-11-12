@@ -1,0 +1,1592 @@
+{
+  "map": "UndeadRE01",
+  "title": "City of the Dead",
+  "locale": "enUS",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Sylvanas",
+      "text": "We Forsaken have only just begun to find our place in a world that reviles our very existence.",
+      "metadata": {
+        "string_id": 3825,
+        "speaker_string_id": 3826,
+        "dialogue_id": "A1M1-C020-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "There is no home for us, so we must build one for ourselves. And we must do so together.",
+      "metadata": {
+        "string_id": 3834,
+        "speaker_string_id": 3835,
+        "dialogue_id": "A1M1-C020-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "In the coming years, I will rely on your strength, Garek Bandarion. As will all the people of the Undercity.",
+      "metadata": {
+        "string_id": 3843,
+        "speaker_string_id": 3844,
+        "dialogue_id": "A1M1-C020-060-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Are you prepared to serve them? To serve the Forsaken?",
+      "metadata": {
+        "string_id": 3852,
+        "speaker_string_id": 3853,
+        "dialogue_id": "A1M1-C020-070-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I... Yes. I am, Lady Sylvanas.",
+      "metadata": {
+        "string_id": 4234,
+        "speaker_string_id": 4235,
+        "dialogue_id": "A1M1-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Then I shall leave you to it.",
+      "metadata": {
+        "string_id": 3870,
+        "speaker_string_id": 3871,
+        "dialogue_id": "A1M1-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Teach him well, Anya. There is much yet to be done.",
+      "metadata": {
+        "string_id": 3879,
+        "speaker_string_id": 3880,
+        "dialogue_id": "A1M1-C020-100-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Ah, you’ve returned. No hard feelings about before, I hope?",
+      "metadata": {
+        "string_id": 4310,
+        "speaker_string_id": 4311,
+        "dialogue_id": "A1M1-C030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "No, I suppose not.",
+      "metadata": {
+        "string_id": 3942,
+        "speaker_string_id": 3943,
+        "dialogue_id": "A1M1-C030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "What do you want, Putress?",
+      "metadata": {
+        "string_id": 4476,
+        "speaker_string_id": 4477,
+        "dialogue_id": "A1M1-C030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Oh, just a few odds and ends for my research. If you would be so kind.",
+      "metadata": {
+        "string_id": 3951,
+        "speaker_string_id": 3952,
+        "dialogue_id": "A1M1-C030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "The Dark Lady has asked us to aid you, and so we will. Come, Garek.",
+      "metadata": {
+        "string_id": 3960,
+        "speaker_string_id": 3961,
+        "dialogue_id": "A1M1-C030-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Ah, it’s you! Thank you for saving me from the Scourge.",
+      "metadata": {
+        "string_id": 4091,
+        "speaker_string_id": 4092,
+        "dialogue_id": "A1M1-C040-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "As you can see, Lady Sylvanas has already found a task for me. I was a mason in life, and now I can use those skills to build our city.",
+      "metadata": {
+        "string_id": 3986,
+        "speaker_string_id": 3987,
+        "dialogue_id": "A1M1-C040-020-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "But I can’t do much without the stone from the nearby quarry, and it’s been overrun by ogres.",
+      "metadata": {
+        "string_id": 3997,
+        "speaker_string_id": 3998,
+        "dialogue_id": "A1M1-C040-030-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "So you want us to clear it out for you. Don’t worry. We’ll handle the ogres and get you what you need.",
+      "metadata": {
+        "string_id": 4006,
+        "speaker_string_id": 4007,
+        "dialogue_id": "A1M1-C040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Abomination",
+      "text": "Rend and tear!",
+      "metadata": {
+        "string_id": 4570,
+        "speaker_string_id": 4571,
+        "dialogue_id": "AbominationYes3"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "This one is mine!",
+      "metadata": {
+        "string_id": 4026,
+        "speaker_string_id": 4027,
+        "dialogue_id": "A1M1-C060-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Who, who are you?",
+      "metadata": {
+        "string_id": 4035,
+        "speaker_string_id": 4036,
+        "dialogue_id": "A1M1-C060-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "This is the dreadlord Varimathras. Defector from the Scourge, now a servant of the Dark Lady.",
+      "metadata": {
+        "string_id": 4044,
+        "speaker_string_id": 4045,
+        "dialogue_id": "A1M1-C060-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Good of you to finally show up. Where have you been?",
+      "metadata": {
+        "string_id": 4053,
+        "speaker_string_id": 4054,
+        "dialogue_id": "A1M1-C060-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Investigating this incursion. The Scourge have been digging tunnels through the old catacombs.",
+      "metadata": {
+        "string_id": 4062,
+        "speaker_string_id": 4063,
+        "dialogue_id": "A1M1-C060-060-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "What you fought here was merely a scouting force. I command you to exterminate the rest of them.",
+      "metadata": {
+        "string_id": 4071,
+        "speaker_string_id": 4072,
+        "dialogue_id": "A1M1-C060-070-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "That may prove difficult for just the two of us.",
+      "metadata": {
+        "string_id": 4080,
+        "speaker_string_id": 4081,
+        "dialogue_id": "A1M1-C060-080-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Then recruit more soldiers and form a city guard. Whatever your course of action, do it quickly. I am not as patient as Lady Sylvanas.",
+      "metadata": {
+        "string_id": 4089,
+        "speaker_string_id": 4090,
+        "dialogue_id": "A1M1-C060-090-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Their leader spoke of a cathedral. He must mean the one in the city’s ruins. I’ll wager that’s their base of operations.",
+      "metadata": {
+        "string_id": 4100,
+        "speaker_string_id": 4101,
+        "dialogue_id": "A1M1-C070-010-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We’ll follow these tunnels, infiltrate the cathedral and kill whoever we find there.",
+      "metadata": {
+        "string_id": 4109,
+        "speaker_string_id": 4110,
+        "dialogue_id": "A1M1-C070-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The priest that was with these soldiers... he seemed to understand that the Forsaken differ from the Scourge.",
+      "metadata": {
+        "string_id": 4118,
+        "speaker_string_id": 4119,
+        "dialogue_id": "A1M1-C070-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Do you suppose, if we find him in the cathedral, that we can reason with him?",
+      "metadata": {
+        "string_id": 4127,
+        "speaker_string_id": 4128,
+        "dialogue_id": "A1M1-C070-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Absolutely not. Never trust the living, Garek. They are the enemy.",
+      "metadata": {
+        "string_id": 4136,
+        "speaker_string_id": 4137,
+        "dialogue_id": "A1M1-C070-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "If you insist, Anya.",
+      "metadata": {
+        "string_id": 4149,
+        "speaker_string_id": 4150,
+        "dialogue_id": "A1M1-C070-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Putress has tasked Keever with assembling a new abomination. But we need another batch of parts.",
+      "metadata": {
+        "string_id": 4158,
+        "speaker_string_id": 4159,
+        "dialogue_id": "A1M1-M010-010-KEEVER"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Apparently, the parts Keever was supposed to use woke up and started walking around.",
+      "metadata": {
+        "string_id": 4167,
+        "speaker_string_id": 4168,
+        "dialogue_id": "A1M1-M010-020-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sorry to have inconvenienced you.",
+      "metadata": {
+        "string_id": 4178,
+        "speaker_string_id": 4179,
+        "dialogue_id": "A1M1-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Hmph. Keever has compiled a list of suitable replacements. Can you manage collecting them?",
+      "metadata": {
+        "string_id": 4187,
+        "speaker_string_id": 4188,
+        "dialogue_id": "A1M1-M010-040-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I suppose it’s the least I could do. Let’s have the list, then.",
+      "metadata": {
+        "string_id": 4196,
+        "speaker_string_id": 4197,
+        "dialogue_id": "A1M1-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Anya, Garek. You have done well bringing more Forsaken into the Undercity. As our population grows, so too do our chances at survival.",
+      "metadata": {
+        "string_id": 4205,
+        "speaker_string_id": 4206,
+        "dialogue_id": "A1M1-M020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Unfortunately, we have also become a larger target for those who seek to destroy us. Intruders have been spotted in the city’s canals.",
+      "metadata": {
+        "string_id": 4214,
+        "speaker_string_id": 4215,
+        "dialogue_id": "A1M1-M020-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "You are to poison the water supply with plague. Such toxins won’t harm the Forsaken, but will discourage the living from further trespassing.",
+      "metadata": {
+        "string_id": 4223,
+        "speaker_string_id": 4224,
+        "dialogue_id": "A1M1-M020-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "It will be done, Dark Lady.",
+      "metadata": {
+        "string_id": 4232,
+        "speaker_string_id": 4233,
+        "dialogue_id": "A1M1-M020-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Hello? Who's there? I can't see without my eye!",
+      "metadata": {
+        "string_id": 4243,
+        "speaker_string_id": 4244,
+        "dialogue_id": "A1M1-M030-010-EDRIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Edric? What are you doing down here?",
+      "metadata": {
+        "string_id": 4252,
+        "speaker_string_id": 4253,
+        "dialogue_id": "A1M1-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Anya, is that you? I lost my one good eye and now I can’t find my way out of the sewers!",
+      "metadata": {
+        "string_id": 4261,
+        "speaker_string_id": 4262,
+        "dialogue_id": "A1M1-M030-030-EDRIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Well, your chances of finding it are pretty slim. Stay here for now.",
+      "metadata": {
+        "string_id": 4270,
+        "speaker_string_id": 4271,
+        "dialogue_id": "A1M1-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Hmm. Do you believe ghouls are capable of sentience, despite the state of their cerebral matter?",
+      "metadata": {
+        "string_id": 4281,
+        "speaker_string_id": 4282,
+        "dialogue_id": "A1M1-M040-010-KEEVER"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "This again, Keever? Ghouls are mindless beasts, driven only by hunger.",
+      "metadata": {
+        "string_id": 4290,
+        "speaker_string_id": 4291,
+        "dialogue_id": "A1M1-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "A common assumption. One that Keever must prove or disprove.",
+      "metadata": {
+        "string_id": 4299,
+        "speaker_string_id": 4300,
+        "dialogue_id": "A1M1-M040-030-KEEVER"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "There are reports of ghouls nearby who exhibit unusual behavior. Bring them to Keever for observation.",
+      "metadata": {
+        "string_id": 4308,
+        "speaker_string_id": 4309,
+        "dialogue_id": "A1M1-M040-040-KEEVER"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Anya, Garek, I could very much benefit from your assistance.",
+      "metadata": {
+        "string_id": 4315,
+        "speaker_string_id": 4316,
+        "dialogue_id": "A1M1-M050-010-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "You see, I recently discovered that hidden with the ruins of the Capital City is the entrance to an arcane vault.",
+      "metadata": {
+        "string_id": 4331,
+        "speaker_string_id": 4332,
+        "dialogue_id": "A1M1-M050-020-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "I surmise that it may contain a powerful artifact once used by the Menethils' own royal mages.",
+      "metadata": {
+        "string_id": 4341,
+        "speaker_string_id": 4342,
+        "dialogue_id": "A1M1-M050-030-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "I dare not brave the ruins myself, let along the vault. But if you were to do so for me...",
+      "metadata": {
+        "string_id": 4351,
+        "speaker_string_id": 4352,
+        "dialogue_id": "A1M1-M050-040-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We’ll see what we can do. But if this ends up being a wild goose chase, there will be hell to pay.",
+      "metadata": {
+        "string_id": 4356,
+        "speaker_string_id": 4574,
+        "dialogue_id": "A1M1-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Laborer",
+      "text": "Spare me, please! I'm just a stonemason! I have nothing to do with the Scourge!",
+      "metadata": {
+        "string_id": 4367,
+        "speaker_string_id": 4368,
+        "dialogue_id": "A1M1-M060-010-LABORER"
+      }
+    },
+    {
+      "speaker": "Brother Damien",
+      "text": "You... can speak? And your mind seems intact...",
+      "metadata": {
+        "string_id": 4400,
+        "speaker_string_id": 4401,
+        "dialogue_id": "A1M1-M060-020-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Brother Damien",
+      "text": "Lord Francis, we must bring this man to General Abbendis. If some of the undead have truly broken away from the Scourge--",
+      "metadata": {
+        "string_id": 4387,
+        "speaker_string_id": 4388,
+        "dialogue_id": "A1M1-M060-030-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Lord Francis",
+      "text": "General Abbendis’s orders were clear. The undead are to be eliminated. All of them.",
+      "metadata": {
+        "string_id": 4390,
+        "speaker_string_id": 4391,
+        "dialogue_id": "A1M1-M060-040-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Brother Damien",
+      "text": "Stop! What are you doing?!",
+      "metadata": {
+        "string_id": 4411,
+        "speaker_string_id": 4412,
+        "dialogue_id": "A1M1-M060-050-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Lord Francis",
+      "text": "Claiming vengeance for Lordaeron, Brother Damien. Now burn the corpse.",
+      "metadata": {
+        "string_id": 4422,
+        "speaker_string_id": 4423,
+        "dialogue_id": "A1M1-M060-060-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Brother Damien",
+      "text": "By the Light... if some of the undead can be saved...",
+      "metadata": {
+        "string_id": 4431,
+        "speaker_string_id": 4432,
+        "dialogue_id": "A1M1-M060-070-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Lord Francis",
+      "text": "They are all monsters who deserve to be slain. And now we have a way into their foul lair.",
+      "metadata": {
+        "string_id": 4434,
+        "speaker_string_id": 4435,
+        "dialogue_id": "A1M1-M060-080-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Lord Francis",
+      "text": "With me, Damien. We must prepare for a full assault.",
+      "metadata": {
+        "string_id": 4572,
+        "speaker_string_id": 4573,
+        "dialogue_id": "A1M1-M060-090-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Garek! Anya! You got a second?",
+      "metadata": {
+        "string_id": 4449,
+        "speaker_string_id": 4450,
+        "dialogue_id": "A1M1-M070-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Not really...",
+      "metadata": {
+        "string_id": 4460,
+        "speaker_string_id": 4461,
+        "dialogue_id": "A1M1-M070-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Great! I could use some help.",
+      "metadata": {
+        "string_id": 4472,
+        "speaker_string_id": 4473,
+        "dialogue_id": "A1M1-M070-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "The Mechanical Engineering Guild of Azeroth hosts an open racing league, but my driver just blew himself up!",
+      "metadata": {
+        "string_id": 4484,
+        "speaker_string_id": 4485,
+        "dialogue_id": "A1M1-M070-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "A racing league?",
+      "metadata": {
+        "string_id": 4493,
+        "speaker_string_id": 4494,
+        "dialogue_id": "A1M1-M070-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "The fastest rides on wheels, all competing for first place. And I think you’ve got what it takes to win! I’ll even pay you!",
+      "metadata": {
+        "string_id": 4503,
+        "speaker_string_id": 4504,
+        "dialogue_id": "A1M1-M070-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "All right, Glix. But this had better be quick.",
+      "metadata": {
+        "string_id": 4513,
+        "speaker_string_id": 4514,
+        "dialogue_id": "A1M1-M070-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Hah! I was just about to say the same to you! Now let's get you buckled in.",
+      "metadata": {
+        "string_id": 4577,
+        "speaker_string_id": 4578,
+        "dialogue_id": "A1M1-M070-080-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "The race is being held in Silverpine. I'll provide the transportation, free of charge!",
+      "metadata": {
+        "string_id": 4667,
+        "speaker_string_id": 4663,
+        "dialogue_id": "A1M1-M070-090-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "What is this place?",
+      "metadata": {
+        "string_id": 3619,
+        "speaker_string_id": 3620,
+        "dialogue_id": "A1M1-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We call it the Undercity, carved from the sewers and catacombs beneath Lordaeron’s fallen capital.",
+      "metadata": {
+        "string_id": 3627,
+        "speaker_string_id": 3628,
+        "dialogue_id": "A1M1-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "And to answer your earlier question, my name is Anya. Now follow me. You have much to learn.",
+      "metadata": {
+        "string_id": 2779,
+        "speaker_string_id": 2780,
+        "dialogue_id": "A1M1-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "What happened to me? Am I... dead?",
+      "metadata": {
+        "string_id": 2788,
+        "speaker_string_id": 2789,
+        "dialogue_id": "A1M1-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Undead. We Forsaken are former thralls of the Lich King, newly freed by Lady Sylvanas Windrunner.",
+      "metadata": {
+        "string_id": 2791,
+        "speaker_string_id": 2792,
+        "dialogue_id": "A1M1-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Whoever you were in life, you’re now one of us.",
+      "metadata": {
+        "string_id": 2815,
+        "speaker_string_id": 2816,
+        "dialogue_id": "A1M1-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Acquaint yourself with the Revival Altar. You’ll need it if you fall in battle.",
+      "metadata": {
+        "string_id": 3810,
+        "speaker_string_id": 3811,
+        "dialogue_id": "A1M1-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Good. Now let’s gauge your combat skills by training with the guards.",
+      "metadata": {
+        "string_id": 2831,
+        "speaker_string_id": 2832,
+        "dialogue_id": "A1M1-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "See that fire? It would be wise to let it do the fighting for us.",
+      "metadata": {
+        "string_id": 2834,
+        "speaker_string_id": 2835,
+        "dialogue_id": "A1M1-T150-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Well done. It seems you’ve retained more than just your name.",
+      "metadata": {
+        "string_id": 2840,
+        "speaker_string_id": 2841,
+        "dialogue_id": "A1M1-T160-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Come, we have more tasks to attend in the Trade Quarter.",
+      "metadata": {
+        "string_id": 2848,
+        "speaker_string_id": 2849,
+        "dialogue_id": "A1M1-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "My memories... will they ever return?",
+      "metadata": {
+        "string_id": 2857,
+        "speaker_string_id": 2858,
+        "dialogue_id": "A1M1-T180-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Perhaps, perhaps not. Each Forsaken experiences their awakening differently.",
+      "metadata": {
+        "string_id": 2866,
+        "speaker_string_id": 2867,
+        "dialogue_id": "A1M1-T190-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Either way, your former life is gone. Remake yourself in undeath.",
+      "metadata": {
+        "string_id": 2875,
+        "speaker_string_id": 2876,
+        "dialogue_id": "A1M1-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Fiona often has valuable supplies in stock. Here’s some coin for you to spend.",
+      "metadata": {
+        "string_id": 2884,
+        "speaker_string_id": 2885,
+        "dialogue_id": "A1M1-T210-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Once you’re done, come with me. There’s someone you should meet.",
+      "metadata": {
+        "string_id": 2899,
+        "speaker_string_id": 2900,
+        "dialogue_id": "A1M1-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Forsaken Guard",
+      "text": "Let’s see what you’ve got, newcomer.",
+      "metadata": {
+        "string_id": 2909,
+        "speaker_string_id": 2910,
+        "dialogue_id": "A1M1-T090-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Forsaken Guard",
+      "text": "Try not to fall too quickly.",
+      "metadata": {
+        "string_id": 2919,
+        "speaker_string_id": 2920,
+        "dialogue_id": "A1M1-T100-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Forsaken Guard",
+      "text": "Another recruit, Anya? This one better last longer.",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "A1M1-T110-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Forsaken Guard",
+      "text": "I’ve been itching for a fight!",
+      "metadata": {
+        "string_id": 2927,
+        "speaker_string_id": 2928,
+        "dialogue_id": "A1M1-T120-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Forsaken Guard",
+      "text": "Finally, something other than a ghoul!",
+      "metadata": {
+        "string_id": 2929,
+        "speaker_string_id": 2930,
+        "dialogue_id": "A1M1-T130-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Forsaken Guard",
+      "text": "Rise and shine, rookie!",
+      "metadata": {
+        "string_id": 2943,
+        "speaker_string_id": 2944,
+        "dialogue_id": "A1M1-T140-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "More undead awaken amidst the ruins. Bring these new Forsaken to the safety of the Undercity.",
+      "metadata": {
+        "string_id": 2958,
+        "speaker_string_id": 2959,
+        "dialogue_id": "A1M1-T230-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Seems lively down here. I suppose Sylvanas put everyone to work.",
+      "metadata": {
+        "string_id": 2961,
+        "speaker_string_id": 2962,
+        "dialogue_id": "A1M1-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We must all do our part if we’re to make this city truly ours.",
+      "metadata": {
+        "string_id": 2969,
+        "speaker_string_id": 2970,
+        "dialogue_id": "A1M1-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Well done. The Undercity teems with new Forsaken.",
+      "metadata": {
+        "string_id": 2981,
+        "speaker_string_id": 2982,
+        "dialogue_id": "A1M1-T260-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Grand Apothecary Putress was asking for you. I believe word of your skills is spreading fast.",
+      "metadata": {
+        "string_id": 2984,
+        "speaker_string_id": 2985,
+        "dialogue_id": "A1M1-T270-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I take it you are not fond of Putress.",
+      "metadata": {
+        "string_id": 2993,
+        "speaker_string_id": 2994,
+        "dialogue_id": "A1M1-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "His genius is undeniable. It’s his demeanor that leaves much to be desired.",
+      "metadata": {
+        "string_id": 3002,
+        "speaker_string_id": 3003,
+        "dialogue_id": "A1M1-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Still, he has earned the Dark Lady’s trust, and so I do my best to tolerate him.",
+      "metadata": {
+        "string_id": 3011,
+        "speaker_string_id": 3012,
+        "dialogue_id": "A1M1-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Ah, the reagents I requested. I trust they were not too troublesome to procure.",
+      "metadata": {
+        "string_id": 3014,
+        "speaker_string_id": 3015,
+        "dialogue_id": "A1M1-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "By the way, the mason you rescued earlier requires your assistance. You’ll find him near the canal.",
+      "metadata": {
+        "string_id": 3020,
+        "speaker_string_id": 3021,
+        "dialogue_id": "A1M1-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Shipments from the quarry are already coming in! I can’t thank you two enough. Please, accept this as a token of gratitude.",
+      "metadata": {
+        "string_id": 3168,
+        "speaker_string_id": 3169,
+        "dialogue_id": "A1M1-T480-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "I hate to ask something of you again so soon, but one of my excavation crews hasn’t returned. Would you mind tracking them down?",
+      "metadata": {
+        "string_id": 3177,
+        "speaker_string_id": 3178,
+        "dialogue_id": "A1M1-T490-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sure. Mark the excavation site on our map and we’ll check it out.",
+      "metadata": {
+        "string_id": 3192,
+        "speaker_string_id": 3193,
+        "dialogue_id": "A1M1-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Anya, look! What is this--",
+      "metadata": {
+        "string_id": 3201,
+        "speaker_string_id": 3202,
+        "dialogue_id": "A1M1-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Scourge Fanatic",
+      "text": "Slaughter these traitorous Forsaken!",
+      "metadata": {
+        "string_id": 3206,
+        "speaker_string_id": 3207,
+        "dialogue_id": "A1M1-T520-SCOURGEFANATIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "The Scourge!",
+      "metadata": {
+        "string_id": 3212,
+        "speaker_string_id": 3213,
+        "dialogue_id": "A1M1-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Scourge Fanatic",
+      "text": "Let blood drown the weak!",
+      "metadata": {
+        "string_id": 3215,
+        "speaker_string_id": 3216,
+        "dialogue_id": "AcolytePissed4"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "It’s... it’s happening again...",
+      "metadata": {
+        "string_id": 3229,
+        "speaker_string_id": 3230,
+        "dialogue_id": "A1M1-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek, what are you talking about?",
+      "metadata": {
+        "string_id": 3238,
+        "speaker_string_id": 3239,
+        "dialogue_id": "A1M1-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "Necromancer",
+      "text": "Die!",
+      "metadata": {
+        "string_id": 3247,
+        "speaker_string_id": 3248,
+        "dialogue_id": "NecromancerYesAttack1"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Recruit the forces you require from the mercenary camp. Once you have what you need, strike hard and fast.",
+      "metadata": {
+        "string_id": 3258,
+        "speaker_string_id": 3259,
+        "dialogue_id": "A1M1-T570-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "All this fighting...in the sewers, in the city... I can almost remember...",
+      "metadata": {
+        "string_id": 4665,
+        "speaker_string_id": 4661,
+        "dialogue_id": "A1M1-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek. This is not the time to ponder your lost memories. Focus on the here and now.",
+      "metadata": {
+        "string_id": 3275,
+        "speaker_string_id": 3276,
+        "dialogue_id": "A1M1-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "Acolyte",
+      "text": "Intruders! They must not interfere with the master's plans!",
+      "metadata": {
+        "string_id": 4666,
+        "speaker_string_id": 4662,
+        "dialogue_id": "A1M1-T590-SCOURGEFANATIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "They’re raising the dead interred here to bolster their ranks.",
+      "metadata": {
+        "string_id": 3281,
+        "speaker_string_id": 3282,
+        "dialogue_id": "A1M1-T600-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Can’t the Forsaken do the same?",
+      "metadata": {
+        "string_id": 3287,
+        "speaker_string_id": 3288,
+        "dialogue_id": "A1M1-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "No. Only the Scourge possess the means to do that. We must rely on their control lapsing in order to recruit more to our side.",
+      "metadata": {
+        "string_id": 3299,
+        "speaker_string_id": 3300,
+        "dialogue_id": "A1M1-T620-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "We’re trapped! It’s an ambush!",
+      "metadata": {
+        "string_id": 3308,
+        "speaker_string_id": 3309,
+        "dialogue_id": "A1M1-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Something is maintaining that barrier. Survive until it shows itself!",
+      "metadata": {
+        "string_id": 3317,
+        "speaker_string_id": 3318,
+        "dialogue_id": "A1M1-T640-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The way is clear! Let’s move!",
+      "metadata": {
+        "string_id": 3320,
+        "speaker_string_id": 3321,
+        "dialogue_id": "A1M1-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "This guardsman’s shield is pristine. He must have taken great pride in defending the city.",
+      "metadata": {
+        "string_id": 3326,
+        "speaker_string_id": 3327,
+        "dialogue_id": "A1M1-T660-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Then it would be a shame to let his shield go to rust. Use it to protect the Forsaken.",
+      "metadata": {
+        "string_id": 3332,
+        "speaker_string_id": 3333,
+        "dialogue_id": "A1M1-T670-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "That should be all of them. Let’s inform Varimathras that the catacombs are secure.",
+      "metadata": {
+        "string_id": 3343,
+        "speaker_string_id": 3344,
+        "dialogue_id": "A1M1-T690-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To think such a large force could get this close to the Undercity...",
+      "metadata": {
+        "string_id": 3346,
+        "speaker_string_id": 3347,
+        "dialogue_id": "A1M1-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Many among both the living and dead want to exterminate the Forsaken. We must remain ever vigilant.",
+      "metadata": {
+        "string_id": 3352,
+        "speaker_string_id": 3353,
+        "dialogue_id": "A1M1-T710-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "The Scourge had best think twice before trying that again. Take your reward.",
+      "metadata": {
+        "string_id": 3356,
+        "speaker_string_id": 3357,
+        "dialogue_id": "A1M1-T720-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "These workers were not the only ones to go missing. Another group has yet to return from the ventilation corridors.",
+      "metadata": {
+        "string_id": 3362,
+        "speaker_string_id": 3363,
+        "dialogue_id": "A1M1-T730-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "I want you to follow their trail. Begin in the Trade Quarter, where they were last seen.",
+      "metadata": {
+        "string_id": 3368,
+        "speaker_string_id": 3369,
+        "dialogue_id": "A1M1-T740-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Hmm. These parts will suffice. At least you didn’t damage them. Much.",
+      "metadata": {
+        "string_id": 3150,
+        "speaker_string_id": 3151,
+        "dialogue_id": "A1M1-T460-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "You’re welcome, Keever.",
+      "metadata": {
+        "string_id": 3159,
+        "speaker_string_id": 3160,
+        "dialogue_id": "A1M1-T470-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "That ghoul looks like one that Keever would want to study.",
+      "metadata": {
+        "string_id": 3383,
+        "speaker_string_id": 3384,
+        "dialogue_id": "A1M1-T750-GAREK"
+      }
+    },
+    {
+      "speaker": "Crafty Ghoul",
+      "text": "Me scary!",
+      "metadata": {
+        "string_id": 3390,
+        "speaker_string_id": 3391,
+        "dialogue_id": "GhoulPissed2"
+      }
+    },
+    {
+      "speaker": "Crafty Ghoul",
+      "text": "Whazzup?",
+      "metadata": {
+        "string_id": 3399,
+        "speaker_string_id": 3400,
+        "dialogue_id": "GhoulWhat2"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Each ghoul showed signs of intelligence? Interesting. Keever can make use of this.",
+      "metadata": {
+        "string_id": 3386,
+        "speaker_string_id": 3387,
+        "dialogue_id": "A1M1-T800-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Plaguing the city’s water supply seems like an extreme measure.",
+      "metadata": {
+        "string_id": 3029,
+        "speaker_string_id": 3030,
+        "dialogue_id": "A1M1-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Only the Forsaken call the Undercity home. Making it inhospitable is the perfect defense against the living.",
+      "metadata": {
+        "string_id": 3038,
+        "speaker_string_id": 3039,
+        "dialogue_id": "A1M1-T340-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Do the living hate us that much? We share a common enemy in the Scourge.",
+      "metadata": {
+        "string_id": 3047,
+        "speaker_string_id": 3048,
+        "dialogue_id": "A1M1-T350-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "As far as the living are concerned, the Forsaken and the Scourge are one and the same.",
+      "metadata": {
+        "string_id": 3056,
+        "speaker_string_id": 3057,
+        "dialogue_id": "A1M1-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Pour the poison here. The flow of water should carry it throughout the rest of the canals.",
+      "metadata": {
+        "string_id": 3410,
+        "speaker_string_id": 3411,
+        "dialogue_id": "A1M1-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "There’s something familiar about these canals. Like I’ve been here before...",
+      "metadata": {
+        "string_id": 3083,
+        "speaker_string_id": 3084,
+        "dialogue_id": "A1M1-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Perhaps you were a sanitation worker in life.",
+      "metadata": {
+        "string_id": 3092,
+        "speaker_string_id": 3093,
+        "dialogue_id": "A1M1-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "It does feel like I had a reason to be down here... something important...",
+      "metadata": {
+        "string_id": 3097,
+        "speaker_string_id": 3098,
+        "dialogue_id": "A1M1-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Excellent work. The canals flow with plague, and the living will risk much in an attempted invasion.",
+      "metadata": {
+        "string_id": 3111,
+        "speaker_string_id": 3112,
+        "dialogue_id": "A1M1-T450-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Edric’s eye is a powerful magical trinket. One that he keeps misplacing.",
+      "metadata": {
+        "string_id": 3059,
+        "speaker_string_id": 3060,
+        "dialogue_id": "A1M1-T370-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We can return it to him and wait for him to lose it again, or we can equip it ourselves. Your choice.",
+      "metadata": {
+        "string_id": 3065,
+        "speaker_string_id": 3066,
+        "dialogue_id": "A1M1-T380-ANYA"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Did you find my eye? Oh, thank the Dark Lady! I’d never find my way out of here without it!",
+      "metadata": {
+        "string_id": 3124,
+        "speaker_string_id": 3125,
+        "dialogue_id": "A1M1-T430-EDRIC"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "My eye... how will I ever get out of here if I can’t see?",
+      "metadata": {
+        "string_id": 3141,
+        "speaker_string_id": 3142,
+        "dialogue_id": "A1M1-T440-EDRIC"
+      }
+    },
+    {
+      "speaker": "Forsaken Citizen",
+      "text": "Anya, help! There’s a gigantic spider lurking in the caves!",
+      "metadata": {
+        "string_id": 3524,
+        "speaker_string_id": 3525,
+        "dialogue_id": "A1M1-T975-LABORER"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Leave it to us. Better we play the hunter than the prey.",
+      "metadata": {
+        "string_id": 3527,
+        "speaker_string_id": 3528,
+        "dialogue_id": "A1M1-T452-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "That certainly is a gigantic spider.",
+      "metadata": {
+        "string_id": 3536,
+        "speaker_string_id": 3537,
+        "dialogue_id": "A1M1-T453-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We can’t reach it up there! Cut down the mushrooms!",
+      "metadata": {
+        "string_id": 3539,
+        "speaker_string_id": 3540,
+        "dialogue_id": "A1M1-T454-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Well done. Now our workers can continue building in peace.",
+      "metadata": {
+        "string_id": 3548,
+        "speaker_string_id": 3549,
+        "dialogue_id": "A1M1-T455-ANYA"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Ah, this is perfect! I hope it wasn’t too difficult to retrieve. You have my sincerest gratitude.",
+      "metadata": {
+        "string_id": 3408,
+        "speaker_string_id": 3409,
+        "dialogue_id": "A1M1-T810-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "No sign of the workers... and no guards, either. Only the rats.",
+      "metadata": {
+        "string_id": 3419,
+        "speaker_string_id": 3420,
+        "dialogue_id": "A1M1-T820-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "This path is blocked. We’ll need to find another way around.",
+      "metadata": {
+        "string_id": 3430,
+        "speaker_string_id": 3431,
+        "dialogue_id": "A1M1-T830-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "The gate is controlled by a pair of switches. It won’t open unless both are flipped simultaneously.",
+      "metadata": {
+        "string_id": 3435,
+        "speaker_string_id": 3436,
+        "dialogue_id": "A1M1-T840-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Well, we found the workers.",
+      "metadata": {
+        "string_id": 3609,
+        "speaker_string_id": 3610,
+        "dialogue_id": "A1M1-T850-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Their bodies were burned. Something is amiss.",
+      "metadata": {
+        "string_id": 3587,
+        "speaker_string_id": 3588,
+        "dialogue_id": "A1M1-T860-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Quiet. I hear voices up ahead.",
+      "metadata": {
+        "string_id": 3581,
+        "speaker_string_id": 3582,
+        "dialogue_id": "A1M1-T870-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "The Knights of the Silver Hand. We have to get rid of them. Now!",
+      "metadata": {
+        "string_id": 3468,
+        "speaker_string_id": 3469,
+        "dialogue_id": "A1M1-T880-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I see two keyholes. We’ll probably need both to open the door.",
+      "metadata": {
+        "string_id": 3471,
+        "speaker_string_id": 3472,
+        "dialogue_id": "A1M1-T890-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Who are the Silver Hand?",
+      "metadata": {
+        "string_id": 3480,
+        "speaker_string_id": 3481,
+        "dialogue_id": "A1M1-T900-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Fanatics who worship the Holy Light. They see us as anathema and want to purge us from the world.",
+      "metadata": {
+        "string_id": 3489,
+        "speaker_string_id": 3490,
+        "dialogue_id": "A1M1-T910-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "That water will boil us into mush. We need to turn off the heat.",
+      "metadata": {
+        "string_id": 3492,
+        "speaker_string_id": 3493,
+        "dialogue_id": "A1M1-T940-ANYA"
+      }
+    },
+    {
+      "speaker": "Lord Francis",
+      "text": "The undead have discovered us! They must not reach the cathedral!",
+      "metadata": {
+        "string_id": 3501,
+        "speaker_string_id": 3502,
+        "dialogue_id": "A1M1-T950-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We should provision ourselves and recruit troops before proceeding. Once we enter the cathedral, there will be no turning back.",
+      "metadata": {
+        "string_id": 3510,
+        "speaker_string_id": 3511,
+        "dialogue_id": "A1M1-T960-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Agreed. There may be citizens in the Undercity that still need our help, as well.",
+      "metadata": {
+        "string_id": 3521,
+        "speaker_string_id": 3522,
+        "dialogue_id": "A1M1-T970-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "The race is being held in Silverpine. I'll provide the transportation, free of charge!",
+      "metadata": {
+        "string_id": 4667,
+        "speaker_string_id": 4663,
+        "dialogue_id": "A1M1-M070-090-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Nice driving, Garek. Here's your reward, as promised!",
+      "metadata": {
+        "string_id": 4668,
+        "speaker_string_id": 4664,
+        "dialogue_id": "A1M1-T980-GLIX"
+      }
+    },
+    {
+      "speaker": "Death Knight",
+      "text": "For the Lich King!",
+      "metadata": {
+        "string_id": 3578,
+        "speaker_string_id": 3579,
+        "dialogue_id": "DeathKnightYes5"
+      }
+    },
+    {
+      "speaker": "Silver Hand Footman",
+      "text": "The undead have found us! Seal the tunnel!",
+      "metadata": {
+        "string_id": 3551,
+        "speaker_string_id": 3552,
+        "dialogue_id": "A1M1-T920-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Silver Hand Footman",
+      "text": "No! Wait for me!",
+      "metadata": {
+        "string_id": 3563,
+        "speaker_string_id": 3564,
+        "dialogue_id": "A1M1-T930-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "More undead awaken amidst the ruins. Bring these new Forsaken to the safety of the Undercity.",
+      "metadata": {
+        "string_id": 2958,
+        "speaker_string_id": 2959,
+        "dialogue_id": "A1M1-T230-SYLVANAS"
+      }
+    }
+  ]
+}

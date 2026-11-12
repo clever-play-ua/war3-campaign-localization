@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "itIT",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Ilastar",
+      "text": "Guarda cosa si è lasciato alle spalle Arthas. Quante altre città darà alle fiamme? Quante altre vite mieterà?",
+      "metadata": {
+        "string_id": 1030,
+        "speaker_string_id": 1031,
+        "dialogue_id": "HRE04-M010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Fieramorte è colui che ha messo in moto tutto. Metteremo fine alla sua esistenza, qui e ora.",
+      "metadata": {
+        "string_id": 1033,
+        "speaker_string_id": 1034,
+        "dialogue_id": "HRE04-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Già. La città sarà anche ben fortificata, ma posso entrare dal cancello laterale e sollevare le saracinesche.",
+      "metadata": {
+        "string_id": 1036,
+        "speaker_string_id": 1037,
+        "dialogue_id": "HRE04-M010-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Un ottimo piano. Guardatevi le spalle finché non saremo di nuovo tutti insieme.",
+      "metadata": {
+        "string_id": 1103,
+        "speaker_string_id": 1104,
+        "dialogue_id": "HRE04-M010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "E tu, Garek... Che la Luce possa guidare la tua lama.",
+      "metadata": {
+        "string_id": 1042,
+        "speaker_string_id": 1043,
+        "dialogue_id": "HRE04-M010-050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ras Soffiogelo",
+      "text": "Quei maghi codardi del Kirin Tor disprezzavano il mio talento e la mia ambizione. Ma il Re dei Lich saprà ricompensarli!",
+      "metadata": {
+        "string_id": 1381,
+        "speaker_string_id": 1382,
+        "dialogue_id": "HRE04-T130-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Soffiogelo",
+      "text": "Ora mi libero di questo misero corpo di carne e sangue e abbraccio l'immortalità della non morte!",
+      "metadata": {
+        "string_id": 1417,
+        "speaker_string_id": 1418,
+        "dialogue_id": "HRE04-T140-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Soffiogelo",
+      "text": "Ammirate! Risorgo perfezionato nella forma e nella forza!",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "HRE04-T150-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Soffiogelo",
+      "text": "Leonid! Di' ai miei studenti di fare ciò che vogliono. Mi attende un destino più grande!",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "HRE04-T160-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Fieramorte! Risponderai dei tuoi crimini con la morte!",
+      "metadata": {
+        "string_id": 1046,
+        "speaker_string_id": 1047,
+        "dialogue_id": "HRE04-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Morte? Che cosa ne sapete voi della morte?",
+      "metadata": {
+        "string_id": 1054,
+        "speaker_string_id": 1055,
+        "dialogue_id": "HRE04-M030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Io ho visto e brandito il suo vero potere! Il Re dei Lich mi ha elevato al di sopra di voi deboli stolti!",
+      "metadata": {
+        "string_id": 1056,
+        "speaker_string_id": 1057,
+        "dialogue_id": "HRE04-M030-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Ora vi strapperò urla di dolore, come ho fatto con il vostro patetico capitano!",
+      "metadata": {
+        "string_id": 1058,
+        "speaker_string_id": 1059,
+        "dialogue_id": "HRE04-M030-040-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Non sei degno di pronunciare il suo nome! Muori, carogna che non sei altro! Per Landen!",
+      "metadata": {
+        "string_id": 1052,
+        "speaker_string_id": 1053,
+        "dialogue_id": "HRE04-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Casse di grano infettate dalla piaga... È così che Fieramorte ha condannato il suo popolo.",
+      "metadata": {
+        "string_id": 1233,
+        "speaker_string_id": 1234,
+        "dialogue_id": "HRE04-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La porta è chiusa. Dovremo aspettare che Ilastar la apra.",
+      "metadata": {
+        "string_id": 1235,
+        "speaker_string_id": 1236,
+        "dialogue_id": "HRE04-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "La strada è aperta. Io resterò quassù e farò da vedetta.",
+      "metadata": {
+        "string_id": 1340,
+        "speaker_string_id": 1341,
+        "dialogue_id": "HRE04-T040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Guastatori Nani",
+      "text": "Siete... vivi? Grazie alla Luce! Il Flagello ci circonda da settimane!",
+      "metadata": {
+        "string_id": 1216,
+        "speaker_string_id": 1217,
+        "dialogue_id": "HRE04-T050-MORTARTEAM"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Concentrati sulla Cripta, prima che ci faccia fuori in un attimo!",
+      "metadata": {
+        "string_id": 1107,
+        "speaker_string_id": 1176,
+        "dialogue_id": "HRE04-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastar, come te la cavi?",
+      "metadata": {
+        "string_id": 1467,
+        "speaker_string_id": 1451,
+        "dialogue_id": "HRE04-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Abbastanza bene. Farò del mio meglio per curarvi da quassù.",
+      "metadata": {
+        "string_id": 1469,
+        "speaker_string_id": 1470,
+        "dialogue_id": "HRE04-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "La Cappella di Alonsus. Quale sacrilegio ha inflitto il culto a questo luogo?",
+      "metadata": {
+        "string_id": 1329,
+        "speaker_string_id": 1330,
+        "dialogue_id": "HRE04-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Non posso affrontarli da solo. I Guastatori Nani di Garek possono aiutarci da lontano.",
+      "metadata": {
+        "string_id": 1109,
+        "speaker_string_id": 1177,
+        "dialogue_id": "HRE04-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Archibugiere",
+      "text": "I rinforzi! Lo sapevo che dovevamo solo resistere un altro po'!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "HRE04-T090-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il cancello è ancora chiuso. Dev'esserci una seconda leva.",
+      "metadata": {
+        "string_id": 1113,
+        "speaker_string_id": 1178,
+        "dialogue_id": "HRE04-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Il cancello rimane chiuso. Dev'esserci un'altra leva.",
+      "metadata": {
+        "string_id": 1249,
+        "speaker_string_id": 1250,
+        "dialogue_id": "HRE04-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I cancelli si aprono! Soffiogelo assaggerà il nostro acciaio.",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I cancelli si aprono! Soffiogelo assaggerà il nostro acciaio.",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Cittadino",
+      "text": "Mi hai salvato la vita! Devo uscire da qui!",
+      "metadata": {
+        "string_id": 1471,
+        "speaker_string_id": 1452,
+        "dialogue_id": "HRE04-T240-CIVILIANM"
+      }
+    },
+    {
+      "speaker": "Cittadino",
+      "text": "Grazie, gentil signore! Pensavo di morire là dentro, o anche peggio!",
+      "metadata": {
+        "string_id": 1472,
+        "speaker_string_id": 1453,
+        "dialogue_id": "HRE04-T270-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Cittadino",
+      "text": "Può essere? Quest'incubo è davvero finito? Non potrò mai ringraziarti abbastanza!",
+      "metadata": {
+        "string_id": 1473,
+        "speaker_string_id": 1454,
+        "dialogue_id": "HRE04-T290-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Le strade sono infestate dai Non Morti. Meglio evitarli, se possiamo.",
+      "metadata": {
+        "string_id": 1251,
+        "speaker_string_id": 1252,
+        "dialogue_id": "HRE04-T430-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Eccoli che arrivano! Pronti a combattere!",
+      "metadata": {
+        "string_id": 1117,
+        "speaker_string_id": 1181,
+        "dialogue_id": "HRE04-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il cancello è chiuso. Non possiamo aprirlo senza una chiave.",
+      "metadata": {
+        "string_id": 1119,
+        "speaker_string_id": 1182,
+        "dialogue_id": "HRE04-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La strada per la Piazza del Crociato è aperta. Fieramorte non può nascondersi per sempre.",
+      "metadata": {
+        "string_id": 1121,
+        "speaker_string_id": 1183,
+        "dialogue_id": "HRE04-T460-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Era un demone! Aveva le ali e le corna e gli zoccoli!",
+      "metadata": {
+        "string_id": 1474,
+        "speaker_string_id": 1455,
+        "dialogue_id": "HRE04-T470-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Stratholme è stata una delle più grandi città di Lordaeron, finché Fieramorte non l'ha sacrificata ai Non Morti!",
+      "metadata": {
+        "string_id": 1122,
+        "speaker_string_id": 1184,
+        "dialogue_id": "HRE04-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "È solo uno dei tanti che hanno venduto la propria anima al Flagello. Bruceranno tutti nel fuoco sacro.",
+      "metadata": {
+        "string_id": 1124,
+        "speaker_string_id": 1185,
+        "dialogue_id": "HRE04-T510-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dannazione, le nostre forze si sono divise. Dobbiamo trovare la leva che apre il cancello.",
+      "metadata": {
+        "string_id": 1125,
+        "speaker_string_id": 1186,
+        "dialogue_id": "HRE04-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Raggruppiamoci e avanziamo.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1187,
+        "dialogue_id": "HRE04-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Cavaliere",
+      "text": "Altri sopravvissuti! Mantenete la posizione!",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "HRE04-T520-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Cittadino",
+      "text": "Siamo in trappola! Ti prego, aiutaci!",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1456,
+        "dialogue_id": "HRE04-T550-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Cittadino",
+      "text": "Morte a Lordaeron!",
+      "metadata": {
+        "string_id": 1476,
+        "speaker_string_id": 1457,
+        "dialogue_id": "HRE04-T560-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Tale è il destino di tutti i cultisti.",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1458,
+        "dialogue_id": "HRE04-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Ecco l'empia torre da cui Fieramorte esercita il suo potere.",
+      "metadata": {
+        "string_id": 1130,
+        "speaker_string_id": 1188,
+        "dialogue_id": "HRE04-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Lo getterò giù dai parapetti dopo averlo ucciso.",
+      "metadata": {
+        "string_id": 1131,
+        "speaker_string_id": 1189,
+        "dialogue_id": "HRE04-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Garek, potrebbero esserci altri sopravvissuti in città.",
+      "metadata": {
+        "string_id": 1132,
+        "speaker_string_id": 1190,
+        "dialogue_id": "HRE04-T620-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I nostri soldati possono continuare a cercare i civili da salvare.",
+      "metadata": {
+        "string_id": 1134,
+        "speaker_string_id": 1191,
+        "dialogue_id": "HRE04-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ci ritroveremo a Valsalda quando avremo finito. Ora, assicuriamo Fieramorte alla giustizia.",
+      "metadata": {
+        "string_id": 1136,
+        "speaker_string_id": 1208,
+        "dialogue_id": "HRE04-T640-GAREK"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "Per Lordaeron!",
+      "metadata": {
+        "string_id": 1478,
+        "speaker_string_id": 1459,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "Alle armi!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Incantatrice",
+      "text": "La vittoria sarà nostra.",
+      "metadata": {
+        "string_id": 1259,
+        "speaker_string_id": 1260,
+        "dialogue_id": "SorceressYesAttack2"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "È solo un graffio...",
+      "metadata": {
+        "string_id": 1139,
+        "speaker_string_id": 1140,
+        "dialogue_id": "FootmanPissed4"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "Sono qui per purificare questa terra.",
+      "metadata": {
+        "string_id": 1142,
+        "speaker_string_id": 1143,
+        "dialogue_id": "PriestReady1"
+      }
+    },
+    {
+      "speaker": "Archibugiere",
+      "text": "Carico e pronto.",
+      "metadata": {
+        "string_id": 1144,
+        "speaker_string_id": 1145,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Guastatori Nani",
+      "text": "Buttiamoci nella mischia!",
+      "metadata": {
+        "string_id": 1146,
+        "speaker_string_id": 1147,
+        "dialogue_id": "MortarTeamWhat1"
+      }
+    },
+    {
+      "speaker": "Ras Soffiogelo",
+      "text": "Ah, di nuovo qui. Ne vuoi ancora, eh? Questa volta ti scuoierò vivo!",
+      "metadata": {
+        "string_id": 1265,
+        "speaker_string_id": 1266,
+        "dialogue_id": "HRE04-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Soffiogelo",
+      "text": "Non potete uccidermi così facilmente, mortali. Ci incontreremo di nuovo.",
+      "metadata": {
+        "string_id": 1269,
+        "speaker_string_id": 1270,
+        "dialogue_id": "HRE04-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Lascialo perdere. Il nostro obiettivo è Fieramorte.",
+      "metadata": {
+        "string_id": 1153,
+        "speaker_string_id": 1209,
+        "dialogue_id": "HRE04-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Lorthiras",
+      "text": "La vostra sofferenza sarà deliziosa.",
+      "metadata": {
+        "string_id": 1305,
+        "speaker_string_id": 1306,
+        "dialogue_id": "HRE04-T480-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Lorthiras",
+      "text": "Non finisce qui, piccoli mortali.",
+      "metadata": {
+        "string_id": 1307,
+        "speaker_string_id": 1308,
+        "dialogue_id": "HRE04-T490-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Tetrothane",
+      "text": "Le vostre ossa serviranno il Flagello.",
+      "metadata": {
+        "string_id": 1297,
+        "speaker_string_id": 1298,
+        "dialogue_id": "HRE04-T580-GRIMTHANE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ora le vostre ossa potranno unirsi alle altre.",
+      "metadata": {
+        "string_id": 1303,
+        "speaker_string_id": 1304,
+        "dialogue_id": "HRE04-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Voi tutti mi servirete!",
+      "metadata": {
+        "string_id": 1295,
+        "speaker_string_id": 1296,
+        "dialogue_id": "HRE04-T650-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Le schiere del Flagello sono infinite! Annegherete nel vostro stesso sangue!",
+      "metadata": {
+        "string_id": 1479,
+        "speaker_string_id": 1460,
+        "dialogue_id": "HRE04-T660-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Che... cos'è? Lo sento nei polmoni...",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1461,
+        "dialogue_id": "HRE04-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Spore della piaga... noi... siamo infetti...",
+      "metadata": {
+        "string_id": 1481,
+        "speaker_string_id": 1462,
+        "dialogue_id": "HRE04-T680-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Parassiti ignobili! Ammirate il vero potere!",
+      "metadata": {
+        "string_id": 1482,
+        "speaker_string_id": 1463,
+        "dialogue_id": "HRE04-T690-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastar, gli obelischi! Distruggili!",
+      "metadata": {
+        "string_id": 1483,
+        "speaker_string_id": 1464,
+        "dialogue_id": "HRE04-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Non... riesco...",
+      "metadata": {
+        "string_id": 1484,
+        "speaker_string_id": 1465,
+        "dialogue_id": "HRE04-T710-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Resisti, Ilastar!",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1466,
+        "dialogue_id": "HRE04-T720-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Per la Luce! Le spore di quei funghi stanno diffondendo la piaga. Non possiamo lasciare che crescano!",
+      "metadata": {
+        "string_id": 1163,
+        "speaker_string_id": 1211,
+        "dialogue_id": "HRE04-T070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Che queste vili spore soffochino sotto la cenere di questa città in rovina.",
+      "metadata": {
+        "string_id": 1164,
+        "speaker_string_id": 1212,
+        "dialogue_id": "HRE04-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sembra che qualcuno abbia cercato di fuggire da Stratholme via mare. Il culto deve aver affondato la loro nave.",
+      "metadata": {
+        "string_id": 1165,
+        "speaker_string_id": 1213,
+        "dialogue_id": "HRE04-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Dovremmo recuperarne i rifornimenti. Potrebbero essere utili allo sforzo bellico.",
+      "metadata": {
+        "string_id": 1166,
+        "speaker_string_id": 1214,
+        "dialogue_id": "HRE04-T410-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Quei rifornimenti dovrebbero bastare. È ora di tornare a terra.",
+      "metadata": {
+        "string_id": 1167,
+        "speaker_string_id": 1215,
+        "dialogue_id": "HRE04-T420-GAREK"
+      }
+    }
+  ]
+}

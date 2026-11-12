@@ -1,0 +1,269 @@
+{
+  "map": "UndeadRE02",
+  "title": "Dawns Watch",
+  "locale": "frFR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Fantassin",
+      "text": "Paré à l’action !",
+      "metadata": {
+        "string_id": 912,
+        "speaker_string_id": 911,
+        "dialogue_id": "FootmanReady1"
+      }
+    },
+    {
+      "speaker": "Prêtre",
+      "text": "Je suis à votre service.",
+      "metadata": {
+        "string_id": 913,
+        "speaker_string_id": 914,
+        "dialogue_id": "PriestYes1"
+      }
+    },
+    {
+      "speaker": "Fantassin",
+      "text": "Vous n’avez qu’un mot à dire.",
+      "metadata": {
+        "string_id": 915,
+        "speaker_string_id": 916,
+        "dialogue_id": "FootmanWhat4"
+      }
+    },
+    {
+      "speaker": "Fusilier",
+      "text": "Paré à tirer !",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Seigneur Tyrosus",
+      "text": "Le Fléau nous a trouvés ! Aube d’argent, aux armes !",
+      "metadata": {
+        "string_id": 411,
+        "speaker_string_id": 412,
+        "dialogue_id": "A2M4-C010-010-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Je savais que ça arriverait !",
+      "metadata": {
+        "string_id": 852,
+        "speaker_string_id": 851,
+        "dialogue_id": "A2M4-C010-011-ANYA"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Seigneur Tyrosus ! Ces Réprouvés sont sous ma protection.",
+      "metadata": {
+        "string_id": 854,
+        "speaker_string_id": 853,
+        "dialogue_id": "A2M4-C010-012-LEONID"
+      }
+    },
+    {
+      "speaker": "Seigneur Tyrosus",
+      "text": "Leonid, grâce à la Lumière, vous êtes revenu ! Ces Morts-vivants sont donc…",
+      "metadata": {
+        "string_id": 856,
+        "speaker_string_id": 855,
+        "dialogue_id": "A2M4-C010-013-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Comme moi. Et ils subissent les assauts de la Croisade écarlate.",
+      "metadata": {
+        "string_id": 858,
+        "speaker_string_id": 857,
+        "dialogue_id": "A2M4-C010-014-LEONID"
+      }
+    },
+    {
+      "speaker": "Seigneur Tyrosus",
+      "text": "Nous devons arrêter ces fanatiques.",
+      "metadata": {
+        "string_id": 505,
+        "speaker_string_id": 506,
+        "dialogue_id": "A2M4-C010-020-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Vous pensez vraiment être si différents d’eux ?",
+      "metadata": {
+        "string_id": 395,
+        "speaker_string_id": 396,
+        "dialogue_id": "A2M4-C010-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Seigneur Tyrosus",
+      "text": "Nous avons tous un jour été des chevaliers de la Main-d’Argent. Mais certains, pour se venger de Lordaeron, ont créé la Croisade écarlate.",
+      "metadata": {
+        "string_id": 509,
+        "speaker_string_id": 510,
+        "dialogue_id": "A2M4-C010-040-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Seigneur Tyrosus",
+      "text": "Nous autres, qui souhaitions perpétuer les préceptes de la Lumière, sommes partis pour former l’Aube d’argent.",
+      "metadata": {
+        "string_id": 513,
+        "speaker_string_id": 514,
+        "dialogue_id": "A2M4-C010-050-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Seigneur Tyrosus",
+      "text": "Malheureusement, nous sommes peu nombreux. Au sein de leur monastère, les troupes de la Croisade gagnent en puissance, et nous avons peu de chances de les vaincre.",
+      "metadata": {
+        "string_id": 515,
+        "speaker_string_id": 516,
+        "dialogue_id": "A2M4-C010-060-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ce monastère… pourriez-vous nous guider jusqu’à lui ?",
+      "metadata": {
+        "string_id": 460,
+        "speaker_string_id": 461,
+        "dialogue_id": "A2M4-C010-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Vous n’avez peut-être pas suffisamment de troupes pour assiéger le bastion de la Croisade, mais les Réprouvés ont une armée assez puissante.",
+      "metadata": {
+        "string_id": 469,
+        "speaker_string_id": 470,
+        "dialogue_id": "A2M4-C010-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Vous voulez qu’on livre leur guerre ?",
+      "metadata": {
+        "string_id": 478,
+        "speaker_string_id": 479,
+        "dialogue_id": "A2M4-C010-090-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "C’est aussi notre guerre. La Croisade écarlate attaquera sûrement la Fossoyeuse de nouveau.",
+      "metadata": {
+        "string_id": 860,
+        "speaker_string_id": 859,
+        "dialogue_id": "A2M4-C010-091-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Je vous conduirai à eux. Je doute que dame Sylvanas se fie à qui ce soit d’autre au sein de l’Aube d’argent.",
+      "metadata": {
+        "string_id": 487,
+        "speaker_string_id": 488,
+        "dialogue_id": "A2M4-C010-100-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous verrons déjà si elle vous fait confiance.",
+      "metadata": {
+        "string_id": 496,
+        "speaker_string_id": 497,
+        "dialogue_id": "A2M4-C010-110-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Alors, c’est décidé. Que la Lumière guide notre chemin.",
+      "metadata": {
+        "string_id": 501,
+        "speaker_string_id": 502,
+        "dialogue_id": "A2M4-C010-120-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "L’Aube d’argent a été contrainte de tenir garnison au cœur du territoire des Ogres. Nous devrons peut-être nous battre pour gravir la colline.",
+      "metadata": {
+        "string_id": 154,
+        "speaker_string_id": 155,
+        "dialogue_id": "A2M4-T010-LEONID"
+      }
+    },
+    {
+      "speaker": "Fantassin",
+      "text": "Leonid ! Les Ogres ont capturé nos patrouilles ! Le fort est attaqué !",
+      "metadata": {
+        "string_id": 126,
+        "speaker_string_id": 127,
+        "dialogue_id": "A2M4-T020-ARGENTDAWNCAPTIVE"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Quoi ?! Alors il n’y a pas de temps à perdre ! Nous devons libérer les autres et mettre fin au siège !",
+      "metadata": {
+        "string_id": 146,
+        "speaker_string_id": 147,
+        "dialogue_id": "A2M4-T030-LEONID"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Que la Lumière soit louée, nous n’arrivons pas trop tard ! Les portes du fort tiennent bon !",
+      "metadata": {
+        "string_id": 258,
+        "speaker_string_id": 259,
+        "dialogue_id": "A2M4-T060-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Plus pour longtemps. Nous devons mettre un terme à ce siège au plus vite !",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "A2M4-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Maintenant que le siège a pris fin, les Ogres restants vont se disperser dans les collines. Rentrons dans le fort.",
+      "metadata": {
+        "string_id": 252,
+        "speaker_string_id": 253,
+        "dialogue_id": "A2M4-T080-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il est temps de faire savoir à dame Sylvanas ce que nous avons appris.",
+      "metadata": {
+        "string_id": 833,
+        "speaker_string_id": 834,
+        "dialogue_id": "A2M4-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "N’attendez point d’accueil chaleureux, Leonid. Tous les Réprouvés n’ont pas la même indulgence que moi.",
+      "metadata": {
+        "string_id": 835,
+        "speaker_string_id": 836,
+        "dialogue_id": "A2M4-T100-ANYA"
+      }
+    }
+  ]
+}

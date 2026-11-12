@@ -1,0 +1,1592 @@
+{
+  "map": "UndeadRE01",
+  "title": "City of the Dead",
+  "locale": "frFR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Sylvanas",
+      "text": "Nous autres, Réprouvés, commençons tout juste à trouver notre place dans un monde qui abhorre notre existence même.",
+      "metadata": {
+        "string_id": 3825,
+        "speaker_string_id": 3826,
+        "dialogue_id": "A1M1-C020-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Nous n’avons pas de foyer, ce pour quoi il nous incombe d’en créer un nous-mêmes. En unissant nos forces.",
+      "metadata": {
+        "string_id": 3834,
+        "speaker_string_id": 3835,
+        "dialogue_id": "A1M1-C020-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Dans les années à venir, je m’appuierai sur votre force, Garek Bandarion. L’ensemble des habitants de Fossoyeuse en fera de même.",
+      "metadata": {
+        "string_id": 3843,
+        "speaker_string_id": 3844,
+        "dialogue_id": "A1M1-C020-060-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Êtes-vous prêt à les servir ? À servir les Réprouvés ?",
+      "metadata": {
+        "string_id": 3852,
+        "speaker_string_id": 3853,
+        "dialogue_id": "A1M1-C020-070-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je… Oui. Je le suis, Dame Sylvanas.",
+      "metadata": {
+        "string_id": 4234,
+        "speaker_string_id": 4235,
+        "dialogue_id": "A1M1-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Dans ce cas, je ne vous retiens pas plus.",
+      "metadata": {
+        "string_id": 3870,
+        "speaker_string_id": 3871,
+        "dialogue_id": "A1M1-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Guidez-le bien, Anya. Nous avons encore beaucoup à faire.",
+      "metadata": {
+        "string_id": 3879,
+        "speaker_string_id": 3880,
+        "dialogue_id": "A1M1-C020-100-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Ah, vous voilà. Vous ne m’en voulez pas trop pour l’autre fois, j’espère ?",
+      "metadata": {
+        "string_id": 4310,
+        "speaker_string_id": 4311,
+        "dialogue_id": "A1M1-C030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Non, pas vraiment.",
+      "metadata": {
+        "string_id": 3942,
+        "speaker_string_id": 3943,
+        "dialogue_id": "A1M1-C030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Que vous faut-il, Putrescin ?",
+      "metadata": {
+        "string_id": 4476,
+        "speaker_string_id": 4477,
+        "dialogue_id": "A1M1-C030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Oh, juste une bricole ou deux pour continuer mes recherches. Si ça ne vous ennuie pas.",
+      "metadata": {
+        "string_id": 3951,
+        "speaker_string_id": 3952,
+        "dialogue_id": "A1M1-C030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "La Dame noire nous a demandé de vous aider, et c’est ce que nous allons faire. Venez, Garek.",
+      "metadata": {
+        "string_id": 3960,
+        "speaker_string_id": 3961,
+        "dialogue_id": "A1M1-C030-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Ah, c’est vous ! Merci de m’avoir sauvé du Fléau !",
+      "metadata": {
+        "string_id": 4091,
+        "speaker_string_id": 4092,
+        "dialogue_id": "A1M1-C040-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Comme vous pouvez le voir, dame Sylvanas m’a déjà trouvé quelque chose à faire. De mon vivant, j’étais tailleur de pierre, et je peux désormais mettre mes talents à profit pour construire notre ville.",
+      "metadata": {
+        "string_id": 3986,
+        "speaker_string_id": 3987,
+        "dialogue_id": "A1M1-C040-020-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Enfin, sans pierres, je ne peux pas faire grand-chose, et les Ogres se sont emparés de la carrière voisine.",
+      "metadata": {
+        "string_id": 3997,
+        "speaker_string_id": 3998,
+        "dialogue_id": "A1M1-C040-030-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Vous aimeriez donc qu’on fasse un peu de ménage. Ne vous en faites pas. Nous allons nous charger de ces Ogres et vous faire parvenir vos pierres.",
+      "metadata": {
+        "string_id": 4006,
+        "speaker_string_id": 4007,
+        "dialogue_id": "A1M1-C040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Abomination",
+      "text": "On tranche et on déchire !",
+      "metadata": {
+        "string_id": 4570,
+        "speaker_string_id": 4571,
+        "dialogue_id": "AbominationYes3"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Celui-là est à moi !",
+      "metadata": {
+        "string_id": 4026,
+        "speaker_string_id": 4027,
+        "dialogue_id": "A1M1-C060-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Qui… Qui êtes-vous ?",
+      "metadata": {
+        "string_id": 4035,
+        "speaker_string_id": 4036,
+        "dialogue_id": "A1M1-C060-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "C’est le seigneur de l’effroi Varimathras. Il a trahi le Fléau pour entrer au service de la Dame noire.",
+      "metadata": {
+        "string_id": 4044,
+        "speaker_string_id": 4045,
+        "dialogue_id": "A1M1-C060-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ravie de vous voir enfin. Où étiez-vous passé ?",
+      "metadata": {
+        "string_id": 4053,
+        "speaker_string_id": 4054,
+        "dialogue_id": "A1M1-C060-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "J’enquêtais sur cette incursion. Le Fléau a creusé des tunnels à travers les vieilles catacombes.",
+      "metadata": {
+        "string_id": 4062,
+        "speaker_string_id": 4063,
+        "dialogue_id": "A1M1-C060-060-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Les soldats que vous venez d’affronter n’étaient que des éclaireurs. Je vous ordonne d’exterminer le reste.",
+      "metadata": {
+        "string_id": 4071,
+        "speaker_string_id": 4072,
+        "dialogue_id": "A1M1-C060-070-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "À deux, cela pourrait s’avérer difficile.",
+      "metadata": {
+        "string_id": 4080,
+        "speaker_string_id": 4081,
+        "dialogue_id": "A1M1-C060-080-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Dans ce cas, recrutez d’autres soldats pour défendre la ville. Quoi que vous fassiez, ne perdez pas de temps. Je ne suis pas aussi patient que dame Sylvanas.",
+      "metadata": {
+        "string_id": 4089,
+        "speaker_string_id": 4090,
+        "dialogue_id": "A1M1-C060-090-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Leur chef a mentionné une cathédrale. Il parlait sûrement de celle situé dans les ruines de la capitale. J’imagine que c’est là que se trouve leur quartier général.",
+      "metadata": {
+        "string_id": 4100,
+        "speaker_string_id": 4101,
+        "dialogue_id": "A1M1-C070-010-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous allons suivre ces tunnels, infiltrer la cathédrale et pourfendre tous ceux que nous trouverons là-bas.",
+      "metadata": {
+        "string_id": 4109,
+        "speaker_string_id": 4110,
+        "dialogue_id": "A1M1-C070-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Le prêtre qui était aux côtés de ces soldats… Il semble avoir compris que les Réprouvés diffèrent des forces du Fléau.",
+      "metadata": {
+        "string_id": 4118,
+        "speaker_string_id": 4119,
+        "dialogue_id": "A1M1-C070-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Si nous le croisons dans la cathédrale, croyez-vous que nous pourrons lui faire entendre raison ?",
+      "metadata": {
+        "string_id": 4127,
+        "speaker_string_id": 4128,
+        "dialogue_id": "A1M1-C070-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Absolument pas. Ne vous fiez jamais aux vivants, Garek. Ce sont nos ennemis.",
+      "metadata": {
+        "string_id": 4136,
+        "speaker_string_id": 4137,
+        "dialogue_id": "A1M1-C070-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Si vous le dites, Anya.",
+      "metadata": {
+        "string_id": 4149,
+        "speaker_string_id": 4150,
+        "dialogue_id": "A1M1-C070-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Putrescin a chargé Keever de créer une nouvelle abomination, mais il va nous falloir un nouveau lot de morceaux de cadavre.",
+      "metadata": {
+        "string_id": 4158,
+        "speaker_string_id": 4159,
+        "dialogue_id": "A1M1-M010-010-KEEVER"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Apparemment, ceux que Keever devait utiliser se sont réveillés et sont partis vagabonder.",
+      "metadata": {
+        "string_id": 4167,
+        "speaker_string_id": 4168,
+        "dialogue_id": "A1M1-M010-020-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Veuillez m’excuser pour le dérangement.",
+      "metadata": {
+        "string_id": 4178,
+        "speaker_string_id": 4179,
+        "dialogue_id": "A1M1-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Humpf. Keever a dressé la liste des substituts convenables. Vous pensez-vous capable de vous les procurer ?",
+      "metadata": {
+        "string_id": 4187,
+        "speaker_string_id": 4188,
+        "dialogue_id": "A1M1-M010-040-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "C’est le moins que je puisse faire, j’imagine. Donnez-nous donc cette liste.",
+      "metadata": {
+        "string_id": 4196,
+        "speaker_string_id": 4197,
+        "dialogue_id": "A1M1-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Anya, Garek. Grâce à vous, de nouveaux Réprouvés ont rejoint Fossoyeuse. À mesure que notre population s’accroît, nos chances de survie s’améliorent, elles aussi.",
+      "metadata": {
+        "string_id": 4205,
+        "speaker_string_id": 4206,
+        "dialogue_id": "A1M1-M020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Hélas, nous sommes également devenus une cible de choix pour ceux qui visent à nous anéantir. Des intrus ont été repérés dans les canaux de la ville.",
+      "metadata": {
+        "string_id": 4214,
+        "speaker_string_id": 4215,
+        "dialogue_id": "A1M1-M020-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Vous devez contaminer le réservoir d’eau. Les toxines de la peste ne nuiront pas aux Réprouvés, mais elles décourageront les vivants de s’aventurer plus loin.",
+      "metadata": {
+        "string_id": 4223,
+        "speaker_string_id": 4224,
+        "dialogue_id": "A1M1-M020-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ce sera fait, Dame noire.",
+      "metadata": {
+        "string_id": 4232,
+        "speaker_string_id": 4233,
+        "dialogue_id": "A1M1-M020-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Hé oh ! Qui est là ? Je ne vois rien sans mon œil !",
+      "metadata": {
+        "string_id": 4243,
+        "speaker_string_id": 4244,
+        "dialogue_id": "A1M1-M030-010-EDRIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Edric ? Mais que faites-vous ici ?",
+      "metadata": {
+        "string_id": 4252,
+        "speaker_string_id": 4253,
+        "dialogue_id": "A1M1-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Anya, c’est vous ? J’ai perdu mon dernier œil valide, et je n’arrive pas à retrouver la sortie des égouts !",
+      "metadata": {
+        "string_id": 4261,
+        "speaker_string_id": 4262,
+        "dialogue_id": "A1M1-M030-030-EDRIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Eh bien, vous avez peu de chances d’y arriver comme ça. Attendez-nous ici.",
+      "metadata": {
+        "string_id": 4270,
+        "speaker_string_id": 4271,
+        "dialogue_id": "A1M1-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Hmm. Croyez-vous que les goules sont douées de sentience, malgré l’état de leur matière cérébrale ?",
+      "metadata": {
+        "string_id": 4281,
+        "speaker_string_id": 4282,
+        "dialogue_id": "A1M1-M040-010-KEEVER"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Vous n’allez pas recommencer, Keever ! Les goules sont des bêtes sans cervelle, mues uniquement par la faim.",
+      "metadata": {
+        "string_id": 4290,
+        "speaker_string_id": 4291,
+        "dialogue_id": "A1M1-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Une hypothèse répandue. Que Keever se doit de confirmer ou non.",
+      "metadata": {
+        "string_id": 4299,
+        "speaker_string_id": 4300,
+        "dialogue_id": "A1M1-M040-030-KEEVER"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Des rapports indiquent que des goules de la région affichent un comportement étrange. Amenez-les à Keever pour qu’il les examine.",
+      "metadata": {
+        "string_id": 4308,
+        "speaker_string_id": 4309,
+        "dialogue_id": "A1M1-M040-040-KEEVER"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Anya, Garek, votre aide me serait fort précieuse.",
+      "metadata": {
+        "string_id": 4315,
+        "speaker_string_id": 4316,
+        "dialogue_id": "A1M1-M050-010-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Voyez-vous, j’ai récemment découvert que l’entrée d’une salle des arcanes se cache dans les ruines de la capitale.",
+      "metadata": {
+        "string_id": 4331,
+        "speaker_string_id": 4332,
+        "dialogue_id": "A1M1-M050-020-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Je présume qu’elle renferme un puissant artéfact, utilisé jadis par les mages royaux de Menethil en personne.",
+      "metadata": {
+        "string_id": 4341,
+        "speaker_string_id": 4342,
+        "dialogue_id": "A1M1-M050-030-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Je n’ai guère le courage de me risquer dans ces ruines, sans parler de la salle en elle-même… Mais, si vous pouviez vous y aventurer pour moi…",
+      "metadata": {
+        "string_id": 4351,
+        "speaker_string_id": 4352,
+        "dialogue_id": "A1M1-M050-040-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "On va voir ce qu’on peut faire. Mais gare à vous s’il s’agit d’une fausse piste.",
+      "metadata": {
+        "string_id": 4356,
+        "speaker_string_id": 4574,
+        "dialogue_id": "A1M1-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Travailleur manuel",
+      "text": "Pitié, ne me tuez pas ! Je ne suis qu’un simple tailleur de pierre ! Je n’ai rien à voir avec le Fléau !",
+      "metadata": {
+        "string_id": 4367,
+        "speaker_string_id": 4368,
+        "dialogue_id": "A1M1-M060-010-LABORER"
+      }
+    },
+    {
+      "speaker": "Frère Damien",
+      "text": "Vous… êtes doué de parole ? Et vous semblez avoir toute votre tête…",
+      "metadata": {
+        "string_id": 4400,
+        "speaker_string_id": 4401,
+        "dialogue_id": "A1M1-M060-020-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Frère Damien",
+      "text": "Seigneur Francis, nous devons conduire cet homme au général Abbendis. Si des Morts-vivants se sont réellement affranchis du Fléau…",
+      "metadata": {
+        "string_id": 4387,
+        "speaker_string_id": 4388,
+        "dialogue_id": "A1M1-M060-030-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Seigneur Francis",
+      "text": "Les ordres du général Abbendis sont formels. Nous devons éliminer les Morts-vivants. Sans exception.",
+      "metadata": {
+        "string_id": 4390,
+        "speaker_string_id": 4391,
+        "dialogue_id": "A1M1-M060-040-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Frère Damien",
+      "text": "Arrêtez ! Qu’est-ce qui vous prend ?!",
+      "metadata": {
+        "string_id": 4411,
+        "speaker_string_id": 4412,
+        "dialogue_id": "A1M1-M060-050-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Seigneur Francis",
+      "text": "J’assouvis la vengeance de Lordaeron, Frère Damien. Brûlez ce corps.",
+      "metadata": {
+        "string_id": 4422,
+        "speaker_string_id": 4423,
+        "dialogue_id": "A1M1-M060-060-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Frère Damien",
+      "text": "Par la Lumière… Si certains de ces Morts-vivants peuvent encore être sauvés…",
+      "metadata": {
+        "string_id": 4431,
+        "speaker_string_id": 4432,
+        "dialogue_id": "A1M1-M060-070-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Seigneur Francis",
+      "text": "Ces monstres, tous autant qu’ils sont, ne méritent que la mort. Et, à présent, nous pouvons nous introduire dans leur antre fétide.",
+      "metadata": {
+        "string_id": 4434,
+        "speaker_string_id": 4435,
+        "dialogue_id": "A1M1-M060-080-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Seigneur Francis",
+      "text": "Venez avec moi, Damien. Nous devons nous préparer pour l’assaut.",
+      "metadata": {
+        "string_id": 4572,
+        "speaker_string_id": 4573,
+        "dialogue_id": "A1M1-M060-090-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Garek ! Anya ! Vous avez une minute ?",
+      "metadata": {
+        "string_id": 4449,
+        "speaker_string_id": 4450,
+        "dialogue_id": "A1M1-M070-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Pas vraiment…",
+      "metadata": {
+        "string_id": 4460,
+        "speaker_string_id": 4461,
+        "dialogue_id": "A1M1-M070-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Super ! J’aurais besoin de votre aide.",
+      "metadata": {
+        "string_id": 4472,
+        "speaker_string_id": 4473,
+        "dialogue_id": "A1M1-M070-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "La guilde de l’ingénierie mécanique d’Azeroth organise une course automobile, mais mon pilote vient d’exploser !",
+      "metadata": {
+        "string_id": 4484,
+        "speaker_string_id": 4485,
+        "dialogue_id": "A1M1-M070-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Une course automobile ?",
+      "metadata": {
+        "string_id": 4493,
+        "speaker_string_id": 4494,
+        "dialogue_id": "A1M1-M070-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Pour déterminer le véhicule le plus rapide. Selon moi, vous avez ce qu’il faut pour gagner ! Je suis prêt à vous payer !",
+      "metadata": {
+        "string_id": 4503,
+        "speaker_string_id": 4504,
+        "dialogue_id": "A1M1-M070-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Très bien, Glix. Mais faisons ça rapidement.",
+      "metadata": {
+        "string_id": 4513,
+        "speaker_string_id": 4514,
+        "dialogue_id": "A1M1-M070-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Ha ! J’allais justement vous dire la même chose ! Bouclez votre ceinture.",
+      "metadata": {
+        "string_id": 4577,
+        "speaker_string_id": 4578,
+        "dialogue_id": "A1M1-M070-080-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "La course aura lieu aux Pins-Argentés. Je vous fournirai le véhicule gratuitement !",
+      "metadata": {
+        "string_id": 4667,
+        "speaker_string_id": 4663,
+        "dialogue_id": "A1M1-M070-090-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Quel est cet endroit ?",
+      "metadata": {
+        "string_id": 3619,
+        "speaker_string_id": 3620,
+        "dialogue_id": "A1M1-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous l’appelons Fossoyeuse. Une ville taillée dans les égouts et les catacombes de la capitale déchue de Lordaeron.",
+      "metadata": {
+        "string_id": 3627,
+        "speaker_string_id": 3628,
+        "dialogue_id": "A1M1-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Et pour répondre à votre première question, je m’appelle Anya. Allez, suivez-moi. Vous avez beaucoup à apprendre.",
+      "metadata": {
+        "string_id": 2779,
+        "speaker_string_id": 2780,
+        "dialogue_id": "A1M1-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Que m’est-il arrivé ? Est-ce que je suis… mort ?",
+      "metadata": {
+        "string_id": 2788,
+        "speaker_string_id": 2789,
+        "dialogue_id": "A1M1-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mort-vivant. Nous autres, Réprouvés, sommes d’anciens serviteurs du roi-liche, libérés depuis peu par dame Sylvanas Coursevent.",
+      "metadata": {
+        "string_id": 2791,
+        "speaker_string_id": 2792,
+        "dialogue_id": "A1M1-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Peu importe qui vous étiez avant, vous faites désormais partie de nos rangs.",
+      "metadata": {
+        "string_id": 2815,
+        "speaker_string_id": 2816,
+        "dialogue_id": "A1M1-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Familiarisez-vous avec l’autel de résurrection. Il vous sera utile si vous tombez au combat.",
+      "metadata": {
+        "string_id": 3810,
+        "speaker_string_id": 3811,
+        "dialogue_id": "A1M1-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Bien. À présent, voyons comment vous vous battez. Entraînez-vous avec les gardes.",
+      "metadata": {
+        "string_id": 2831,
+        "speaker_string_id": 2832,
+        "dialogue_id": "A1M1-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Vous voyez ce feu ? Vous seriez bien avisé d’en tirer avantage.",
+      "metadata": {
+        "string_id": 2834,
+        "speaker_string_id": 2835,
+        "dialogue_id": "A1M1-T150-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Bien joué. Il semblerait que vous n’ayez pas uniquement retenu votre nom.",
+      "metadata": {
+        "string_id": 2840,
+        "speaker_string_id": 2841,
+        "dialogue_id": "A1M1-T160-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Venez, d’autres tâches nous attendent dans le quartier des marchands.",
+      "metadata": {
+        "string_id": 2848,
+        "speaker_string_id": 2849,
+        "dialogue_id": "A1M1-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La mémoire… me reviendra-t-elle un jour ?",
+      "metadata": {
+        "string_id": 2857,
+        "speaker_string_id": 2858,
+        "dialogue_id": "A1M1-T180-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Peut-être, peut-être pas. Aucun Réprouvé ne vit l’éveil de la même manière.",
+      "metadata": {
+        "string_id": 2866,
+        "speaker_string_id": 2867,
+        "dialogue_id": "A1M1-T190-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Quoi qu’il en soit, votre ancienne vie est révolue. À vous de vous réinventer.",
+      "metadata": {
+        "string_id": 2875,
+        "speaker_string_id": 2876,
+        "dialogue_id": "A1M1-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Fiona propose régulièrement des ressources précieuses. Tenez, voilà de quoi vous offrir quelque chose.",
+      "metadata": {
+        "string_id": 2884,
+        "speaker_string_id": 2885,
+        "dialogue_id": "A1M1-T210-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Venez avec moi quand vous aurez fini. J’ai quelqu’un à vous présenter.",
+      "metadata": {
+        "string_id": 2899,
+        "speaker_string_id": 2900,
+        "dialogue_id": "A1M1-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Garde réprouvé",
+      "text": "Voyons ce que vous avez dans le ventre, recrue.",
+      "metadata": {
+        "string_id": 2909,
+        "speaker_string_id": 2910,
+        "dialogue_id": "A1M1-T090-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Garde réprouvé",
+      "text": "Essayez de ne pas mourir trop vite.",
+      "metadata": {
+        "string_id": 2919,
+        "speaker_string_id": 2920,
+        "dialogue_id": "A1M1-T100-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Garde réprouvé",
+      "text": "Encore une nouvelle recrue, Anya ? Espérons qu’elle tienne plus longtemps.",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "A1M1-T110-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Garde réprouvé",
+      "text": "Parfait, j’avais envie de me battre !",
+      "metadata": {
+        "string_id": 2927,
+        "speaker_string_id": 2928,
+        "dialogue_id": "A1M1-T120-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Garde réprouvé",
+      "text": "Enfin ! Ça change un peu des goules !",
+      "metadata": {
+        "string_id": 2929,
+        "speaker_string_id": 2930,
+        "dialogue_id": "A1M1-T130-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Garde réprouvé",
+      "text": "Debout, bleusaille !",
+      "metadata": {
+        "string_id": 2943,
+        "speaker_string_id": 2944,
+        "dialogue_id": "A1M1-T140-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Des Morts-vivants se réveillent au milieu des ruines. Accompagnez ces nouveaux Réprouvés jusqu’à Fossoyeuse.",
+      "metadata": {
+        "string_id": 2958,
+        "speaker_string_id": 2959,
+        "dialogue_id": "A1M1-T230-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Cet endroit m’a l’air bien animé. J’imagine que Sylvanas nous met tous à contribution.",
+      "metadata": {
+        "string_id": 2961,
+        "speaker_string_id": 2962,
+        "dialogue_id": "A1M1-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous devons tous mettre la main à la pâte si nous voulons vraiment nous établir ici.",
+      "metadata": {
+        "string_id": 2969,
+        "speaker_string_id": 2970,
+        "dialogue_id": "A1M1-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Bien joué. Fossoyeuse fourmille de nouveaux Réprouvés.",
+      "metadata": {
+        "string_id": 2981,
+        "speaker_string_id": 2982,
+        "dialogue_id": "A1M1-T260-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Putrescin, le grand apothicaire, demande à vous parler. Il faut croire que la nouvelle de vos exploits se répand déjà comme une traînée de poudre.",
+      "metadata": {
+        "string_id": 2984,
+        "speaker_string_id": 2985,
+        "dialogue_id": "A1M1-T270-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je crois comprendre que vous ne portez pas Putrescin dans votre cœur.",
+      "metadata": {
+        "string_id": 2993,
+        "speaker_string_id": 2994,
+        "dialogue_id": "A1M1-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Son génie est incontestable, mais son comportement laisse fort à désirer.",
+      "metadata": {
+        "string_id": 3002,
+        "speaker_string_id": 3003,
+        "dialogue_id": "A1M1-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Et, pourtant, il a gagné la confiance de la Dame noire, ce pourquoi je m’efforce de le supporter.",
+      "metadata": {
+        "string_id": 3011,
+        "speaker_string_id": 3012,
+        "dialogue_id": "A1M1-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Ah, les réactifs que je vous ai demandés. J’ose espérer que vous n’avez pas eu trop de mal à vous les procurer.",
+      "metadata": {
+        "string_id": 3014,
+        "speaker_string_id": 3015,
+        "dialogue_id": "A1M1-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Au fait, le tailleur de pierre que vous avez secouru a besoin de votre aide. Vous le trouverez près du canal.",
+      "metadata": {
+        "string_id": 3020,
+        "speaker_string_id": 3021,
+        "dialogue_id": "A1M1-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Je reçois déjà des cargaisons de pierre ! Je ne vous remercierai jamais assez. Tenez, je vous en prie. C’est pour vous remercier.",
+      "metadata": {
+        "string_id": 3168,
+        "speaker_string_id": 3169,
+        "dialogue_id": "A1M1-T480-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Je regrette de devoir déjà refaire appel à vous, mais l’une de mes équipes de fouilles manque à l’appel. Pourriez-vous partir à sa recherche ?",
+      "metadata": {
+        "string_id": 3177,
+        "speaker_string_id": 3178,
+        "dialogue_id": "A1M1-T490-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bien sûr. Marquez l’emplacement du site sur notre carte. On va y jeter un œil.",
+      "metadata": {
+        "string_id": 3192,
+        "speaker_string_id": 3193,
+        "dialogue_id": "A1M1-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Anya, regardez ! Qu’est-ce donc ?",
+      "metadata": {
+        "string_id": 3201,
+        "speaker_string_id": 3202,
+        "dialogue_id": "A1M1-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Fanatique du Fléau",
+      "text": "Massacrez ces traîtres de Réprouvés !",
+      "metadata": {
+        "string_id": 3206,
+        "speaker_string_id": 3207,
+        "dialogue_id": "A1M1-T520-SCOURGEFANATIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Le Fléau !",
+      "metadata": {
+        "string_id": 3212,
+        "speaker_string_id": 3213,
+        "dialogue_id": "A1M1-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Fanatique du Fléau",
+      "text": "Vous avez donc choisi… la mort !",
+      "metadata": {
+        "string_id": 3215,
+        "speaker_string_id": 3216,
+        "dialogue_id": "AcolytePissed4"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ça… Ça recommence…",
+      "metadata": {
+        "string_id": 3229,
+        "speaker_string_id": 3230,
+        "dialogue_id": "A1M1-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek ? Que voulez-vous dire ?",
+      "metadata": {
+        "string_id": 3238,
+        "speaker_string_id": 3239,
+        "dialogue_id": "A1M1-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "Nécromancien",
+      "text": "Mourez !",
+      "metadata": {
+        "string_id": 3247,
+        "speaker_string_id": 3248,
+        "dialogue_id": "NecromancerYesAttack1"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Recrutez les troupes dont vous avez besoin au camp des mercenaires. Une fois que vous aurez ce qu’il vous faut, vous devrez frapper vite et fort.",
+      "metadata": {
+        "string_id": 3258,
+        "speaker_string_id": 3259,
+        "dialogue_id": "A1M1-T570-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Toutes ces escarmouches… dans les égouts, en ville… ça me rappellerait presque…",
+      "metadata": {
+        "string_id": 4665,
+        "speaker_string_id": 4661,
+        "dialogue_id": "A1M1-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek. Ce n’est guère le moment de méditer sur vos souvenirs perdus. Concentrez-vous sur ce qui nous occupe.",
+      "metadata": {
+        "string_id": 3275,
+        "speaker_string_id": 3276,
+        "dialogue_id": "A1M1-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "Acolyte",
+      "text": "Des intrus ! Il ne faut pas les laisser interférer avec les plans du maître !",
+      "metadata": {
+        "string_id": 4666,
+        "speaker_string_id": 4662,
+        "dialogue_id": "A1M1-T590-SCOURGEFANATIC"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ils ressuscitent les morts ensevelis ici afin de gonfler leurs rangs.",
+      "metadata": {
+        "string_id": 3281,
+        "speaker_string_id": 3282,
+        "dialogue_id": "A1M1-T600-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Les Réprouvés ne peuvent-ils pas en faire de même ?",
+      "metadata": {
+        "string_id": 3287,
+        "speaker_string_id": 3288,
+        "dialogue_id": "A1M1-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Non. Seul le Fléau en est capable. Nous devons attendre qu’il relâche son emprise sur eux pour les rallier à notre cause.",
+      "metadata": {
+        "string_id": 3299,
+        "speaker_string_id": 3300,
+        "dialogue_id": "A1M1-T620-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous sommes cernés ! C’est une embuscade !",
+      "metadata": {
+        "string_id": 3308,
+        "speaker_string_id": 3309,
+        "dialogue_id": "A1M1-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Quelque chose maintient cette barrière en place. Il faut tenir bon jusqu’à ce qu’il se manifeste !",
+      "metadata": {
+        "string_id": 3317,
+        "speaker_string_id": 3318,
+        "dialogue_id": "A1M1-T640-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La voie est libre ! Allons-y !",
+      "metadata": {
+        "string_id": 3320,
+        "speaker_string_id": 3321,
+        "dialogue_id": "A1M1-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Le bouclier de ce garde est en parfait état. Il devait être très fier de défendre la ville.",
+      "metadata": {
+        "string_id": 3326,
+        "speaker_string_id": 3327,
+        "dialogue_id": "A1M1-T660-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Dans ce cas, il serait dommage que son bouclier soit rongé par la rouille. Servez-vous-en pour protéger les Réprouvés.",
+      "metadata": {
+        "string_id": 3332,
+        "speaker_string_id": 3333,
+        "dialogue_id": "A1M1-T670-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Je crois qu’on a fait le tour. Allons prévenir Varimathras que les catacombes sont désormais sûres.",
+      "metadata": {
+        "string_id": 3343,
+        "speaker_string_id": 3344,
+        "dialogue_id": "A1M1-T690-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dire qu’une troupe si imposante est parvenue à s’approcher si près de Fossoyeuse…",
+      "metadata": {
+        "string_id": 3346,
+        "speaker_string_id": 3347,
+        "dialogue_id": "A1M1-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Qu’ils soient vivants ou morts, nombreux sont ceux qui aspirent à nous exterminer. Les Réprouvés doivent rester vigilants.",
+      "metadata": {
+        "string_id": 3352,
+        "speaker_string_id": 3353,
+        "dialogue_id": "A1M1-T710-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Le Fléau n’a pas intérêt à remettre ça. Tenez, votre récompense.",
+      "metadata": {
+        "string_id": 3356,
+        "speaker_string_id": 3357,
+        "dialogue_id": "A1M1-T720-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Ces ouvriers ne sont pas les seuls à avoir disparu. Un autre groupe n’est pas revenu des couloirs de ventilation.",
+      "metadata": {
+        "string_id": 3362,
+        "speaker_string_id": 3363,
+        "dialogue_id": "A1M1-T730-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "J’aimerais que vous remontiez sa piste. Commencez par le quartier des marchands. C’est là qu’on a perdu sa trace.",
+      "metadata": {
+        "string_id": 3368,
+        "speaker_string_id": 3369,
+        "dialogue_id": "A1M1-T740-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Hmm. Ces morceaux feront l’affaire. Vous ne les avez pas trop abîmés. C’est déjà ça.",
+      "metadata": {
+        "string_id": 3150,
+        "speaker_string_id": 3151,
+        "dialogue_id": "A1M1-T460-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il n’y a pas de quoi, Keever.",
+      "metadata": {
+        "string_id": 3159,
+        "speaker_string_id": 3160,
+        "dialogue_id": "A1M1-T470-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je pense que Keever aimerait sûrement étudier cette goule.",
+      "metadata": {
+        "string_id": 3383,
+        "speaker_string_id": 3384,
+        "dialogue_id": "A1M1-T750-GAREK"
+      }
+    },
+    {
+      "speaker": "Goule rusée",
+      "text": "Vous m’faites peur !",
+      "metadata": {
+        "string_id": 3390,
+        "speaker_string_id": 3391,
+        "dialogue_id": "GhoulPissed2"
+      }
+    },
+    {
+      "speaker": "Goule rusée",
+      "text": "Quoi de neuf ?",
+      "metadata": {
+        "string_id": 3399,
+        "speaker_string_id": 3400,
+        "dialogue_id": "GhoulWhat2"
+      }
+    },
+    {
+      "speaker": "Keever",
+      "text": "Toutes ces goules ont présenté des signes d’intelligence ? Intéressant. Keever peut en tirer parti.",
+      "metadata": {
+        "string_id": 3386,
+        "speaker_string_id": 3387,
+        "dialogue_id": "A1M1-T800-KEEVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Contaminer le réservoir d’eau de la ville… Ne serait-ce pas une mesure excessive ?",
+      "metadata": {
+        "string_id": 3029,
+        "speaker_string_id": 3030,
+        "dialogue_id": "A1M1-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Fossoyeuse n’abrite que des Réprouvés. La rendre hostile aux vivants est le meilleur moyen de se protéger d’eux.",
+      "metadata": {
+        "string_id": 3038,
+        "speaker_string_id": 3039,
+        "dialogue_id": "A1M1-T340-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Les vivants nous haïssent donc à ce point ? Le Fléau est pourtant notre ennemi commun.",
+      "metadata": {
+        "string_id": 3047,
+        "speaker_string_id": 3048,
+        "dialogue_id": "A1M1-T350-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "À leurs yeux, il n’y a pas de différence entre le Fléau et nous.",
+      "metadata": {
+        "string_id": 3056,
+        "speaker_string_id": 3057,
+        "dialogue_id": "A1M1-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Versez le poison ici. Le courant l’emportera à travers les canaux.",
+      "metadata": {
+        "string_id": 3410,
+        "speaker_string_id": 3411,
+        "dialogue_id": "A1M1-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ces canaux me semblent familiers. J’ai l’impression d’être déjà venu ici…",
+      "metadata": {
+        "string_id": 3083,
+        "speaker_string_id": 3084,
+        "dialogue_id": "A1M1-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Peut-être travailliez-vous dans l’assainissement, de votre vivant.",
+      "metadata": {
+        "string_id": 3092,
+        "speaker_string_id": 3093,
+        "dialogue_id": "A1M1-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Oui, je crois que j’avais quelque chose à accomplir ici… quelque chose d’important…",
+      "metadata": {
+        "string_id": 3097,
+        "speaker_string_id": 3098,
+        "dialogue_id": "A1M1-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Excellent travail. Les canaux sont contaminés. S’ils veulent nous envahir, les vivants risquent d’y laisser des plumes.",
+      "metadata": {
+        "string_id": 3111,
+        "speaker_string_id": 3112,
+        "dialogue_id": "A1M1-T450-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "L’œil d’Edric est un puissant accessoire magique. Ce qui ne l’empêche pas de l’égarer sans cesse.",
+      "metadata": {
+        "string_id": 3059,
+        "speaker_string_id": 3060,
+        "dialogue_id": "A1M1-T370-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous pouvons le lui rendre et attendre qu’il le perde à nouveau… ou nous en équiper nous-mêmes. Le choix vous appartient.",
+      "metadata": {
+        "string_id": 3065,
+        "speaker_string_id": 3066,
+        "dialogue_id": "A1M1-T380-ANYA"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Vous avez récupéré mon œil ? Oh, louée soit la Dame noire ! Sans lui, je n’arriverais jamais à trouver la sortie !",
+      "metadata": {
+        "string_id": 3124,
+        "speaker_string_id": 3125,
+        "dialogue_id": "A1M1-T430-EDRIC"
+      }
+    },
+    {
+      "speaker": "Edric",
+      "text": "Mon œil… Comment pourrai-je sortir d’ici si je ne vois rien du tout ?",
+      "metadata": {
+        "string_id": 3141,
+        "speaker_string_id": 3142,
+        "dialogue_id": "A1M1-T440-EDRIC"
+      }
+    },
+    {
+      "speaker": "Citoyen réprouvé",
+      "text": "Anya, aidez-moi ! Une énorme araignée rôde dans les grottes !",
+      "metadata": {
+        "string_id": 3524,
+        "speaker_string_id": 3525,
+        "dialogue_id": "A1M1-T975-LABORER"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Laissez-nous faire. Ce n’est pas la petite bête qui mangera la grosse.",
+      "metadata": {
+        "string_id": 3527,
+        "speaker_string_id": 3528,
+        "dialogue_id": "A1M1-T452-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "C’est effectivement une très grosse araignée.",
+      "metadata": {
+        "string_id": 3536,
+        "speaker_string_id": 3537,
+        "dialogue_id": "A1M1-T453-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous ne pouvons pas l’atteindre ! Abattez ces champignons !",
+      "metadata": {
+        "string_id": 3539,
+        "speaker_string_id": 3540,
+        "dialogue_id": "A1M1-T454-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Bien joué. Les ouvriers vont pouvoir reprendre leur travail sereinement.",
+      "metadata": {
+        "string_id": 3548,
+        "speaker_string_id": 3549,
+        "dialogue_id": "A1M1-T455-ANYA"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Ah, parfait ! J’espère que vous n’avez pas eu trop de mal à mettre la main dessus. Vous avez toute ma gratitude.",
+      "metadata": {
+        "string_id": 3408,
+        "speaker_string_id": 3409,
+        "dialogue_id": "A1M1-T810-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Aucun signe des ouvriers… ni des gardes, d’ailleurs. Il n’y a que des rats.",
+      "metadata": {
+        "string_id": 3419,
+        "speaker_string_id": 3420,
+        "dialogue_id": "A1M1-T820-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Le chemin est bloqué. Nous allons devoir trouver un autre passage.",
+      "metadata": {
+        "string_id": 3430,
+        "speaker_string_id": 3431,
+        "dialogue_id": "A1M1-T830-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "La porte est contrôlée par deux interrupteurs. Ces derniers doivent être activés en même temps, sans quoi elle ne s’ouvrira pas.",
+      "metadata": {
+        "string_id": 3435,
+        "speaker_string_id": 3436,
+        "dialogue_id": "A1M1-T840-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je crois que nous avons trouvé les ouvriers.",
+      "metadata": {
+        "string_id": 3609,
+        "speaker_string_id": 3610,
+        "dialogue_id": "A1M1-T850-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "On a brûlé leurs corps. Cela ne me dit rien qui vaille.",
+      "metadata": {
+        "string_id": 3587,
+        "speaker_string_id": 3588,
+        "dialogue_id": "A1M1-T860-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Silence. J’entends des voix au loin.",
+      "metadata": {
+        "string_id": 3581,
+        "speaker_string_id": 3582,
+        "dialogue_id": "A1M1-T870-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Les chevaliers de la Main d’argent. Nous devons nous en débarrasser. Maintenant !",
+      "metadata": {
+        "string_id": 3468,
+        "speaker_string_id": 3469,
+        "dialogue_id": "A1M1-T880-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je vois deux trous de serrure. Nous devrons sans doute utiliser les deux afin d’ouvrir cette porte.",
+      "metadata": {
+        "string_id": 3471,
+        "speaker_string_id": 3472,
+        "dialogue_id": "A1M1-T890-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Qu’est-ce que cette « Main d’argent » ?",
+      "metadata": {
+        "string_id": 3480,
+        "speaker_string_id": 3481,
+        "dialogue_id": "A1M1-T900-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Des fanatiques au service de la Lumière sacrée. Ils nous considèrent comme des hérétiques et ont bien l’intention de nous faire disparaître.",
+      "metadata": {
+        "string_id": 3489,
+        "speaker_string_id": 3490,
+        "dialogue_id": "A1M1-T910-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Cette eau bouillante va nous liquéfier. Il faut la refroidir.",
+      "metadata": {
+        "string_id": 3492,
+        "speaker_string_id": 3493,
+        "dialogue_id": "A1M1-T940-ANYA"
+      }
+    },
+    {
+      "speaker": "Seigneur Francis",
+      "text": "Les Morts-vivants nous ont trouvés ! Nous devons les empêcher d’atteindre la cathédrale !",
+      "metadata": {
+        "string_id": 3501,
+        "speaker_string_id": 3502,
+        "dialogue_id": "A1M1-T950-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous ferions mieux de nous ravitailler et de recruter des troupes avant de continuer. Une fois dans la cathédrale, nous ne pourrons plus faire marche arrière.",
+      "metadata": {
+        "string_id": 3510,
+        "speaker_string_id": 3511,
+        "dialogue_id": "A1M1-T960-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "En effet. Et il n’est pas impossible que des citoyens de Fossoyeuse aient encore besoin d’aide.",
+      "metadata": {
+        "string_id": 3521,
+        "speaker_string_id": 3522,
+        "dialogue_id": "A1M1-T970-GAREK"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "La course aura lieu aux Pins-Argentés. Je vous fournirai le véhicule gratuitement !",
+      "metadata": {
+        "string_id": 4667,
+        "speaker_string_id": 4663,
+        "dialogue_id": "A1M1-M070-090-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Vous êtes un conducteur hors pair, Garek. Comme promis, voici votre récompense !",
+      "metadata": {
+        "string_id": 4668,
+        "speaker_string_id": 4664,
+        "dialogue_id": "A1M1-T980-GLIX"
+      }
+    },
+    {
+      "speaker": "Chevalier de la mort",
+      "text": "Pour le roi-liche !",
+      "metadata": {
+        "string_id": 3578,
+        "speaker_string_id": 3579,
+        "dialogue_id": "DeathKnightYes5"
+      }
+    },
+    {
+      "speaker": "Fantassin de la Main d’argent",
+      "text": "Les Morts-vivants nous ont trouvés ! Condamnez le tunnel !",
+      "metadata": {
+        "string_id": 3551,
+        "speaker_string_id": 3552,
+        "dialogue_id": "A1M1-T920-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Fantassin de la Main d’argent",
+      "text": "Non ! Attendez-moi !",
+      "metadata": {
+        "string_id": 3563,
+        "speaker_string_id": 3564,
+        "dialogue_id": "A1M1-T930-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Des Morts-vivants se réveillent au milieu des ruines. Accompagnez ces nouveaux Réprouvés jusqu’à Fossoyeuse.",
+      "metadata": {
+        "string_id": 2958,
+        "speaker_string_id": 2959,
+        "dialogue_id": "A1M1-T230-SYLVANAS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Иластар",
+      "text": "Взгляни, что Артас оставил после себя. Сколько еще городов он сожжет? Сколько жизней погубит?",
+      "metadata": {
+        "string_id": 1030,
+        "speaker_string_id": 1031,
+        "dialogue_id": "HRE04-M010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Все это началось с Ривендера. Мы должны покончить с ним здесь и сейчас.",
+      "metadata": {
+        "string_id": 1033,
+        "speaker_string_id": 1034,
+        "dialogue_id": "HRE04-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Согласен. Город хорошо укреплен, но я попробую зайти с боковых ворот и поднять решетку.",
+      "metadata": {
+        "string_id": 1036,
+        "speaker_string_id": 1037,
+        "dialogue_id": "HRE04-M010-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Хороший план. Тогда до встречи. И будь осторожен.",
+      "metadata": {
+        "string_id": 1103,
+        "speaker_string_id": 1104,
+        "dialogue_id": "HRE04-M010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "И ты, Гарек. Да направит Свет твой клинок.",
+      "metadata": {
+        "string_id": 1042,
+        "speaker_string_id": 1043,
+        "dialogue_id": "HRE04-M010-050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Мои амбиции и талант испугали жалких магов Кирин-Тора. Но Король-лич меня вознаградит!",
+      "metadata": {
+        "string_id": 1381,
+        "speaker_string_id": 1382,
+        "dialogue_id": "HRE04-T130-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Я избавляюсь от бремени плоти и крови и принимаю бессмертие нежити!",
+      "metadata": {
+        "string_id": 1417,
+        "speaker_string_id": 1418,
+        "dialogue_id": "HRE04-T140-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Узрите же! Я восстаю, и теперь я – воплощение совершенства!",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "HRE04-T150-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Леонид! Передай ученикам, что отныне они сами за себя в ответе. Меня же ждет великая судьба!",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "HRE04-T160-RAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ривендер! Ты заплатишь за свои преступления смертью!",
+      "metadata": {
+        "string_id": 1046,
+        "speaker_string_id": 1047,
+        "dialogue_id": "HRE04-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Смертью? Что ты знаешь о смерти?",
+      "metadata": {
+        "string_id": 1054,
+        "speaker_string_id": 1055,
+        "dialogue_id": "HRE04-M030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Я видел ее истинную силу и овладел ею! Король-лич возвысил меня над ничтожествами вроде тебя!",
+      "metadata": {
+        "string_id": 1056,
+        "speaker_string_id": 1057,
+        "dialogue_id": "HRE04-M030-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Когда я с тобой закончу, ты будешь молить о пощаде, прямо как твой жалкий капитан!",
+      "metadata": {
+        "string_id": 1058,
+        "speaker_string_id": 1059,
+        "dialogue_id": "HRE04-M030-040-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Не смей произносить его имя! Сдохни, мерзавец! За Ландена!",
+      "metadata": {
+        "string_id": 1052,
+        "speaker_string_id": 1053,
+        "dialogue_id": "HRE04-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ящики с зерном, зараженным чумой. Вот как Ривендер \nпогубил свой народ.",
+      "metadata": {
+        "string_id": 1233,
+        "speaker_string_id": 1234,
+        "dialogue_id": "HRE04-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ворота закрыты. Придется подождать, пока Иластар их откроет.",
+      "metadata": {
+        "string_id": 1235,
+        "speaker_string_id": 1236,
+        "dialogue_id": "HRE04-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Путь свободен. Я попробую разведать, что там впереди.",
+      "metadata": {
+        "string_id": 1340,
+        "speaker_string_id": 1341,
+        "dialogue_id": "HRE04-T040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Мортирный расчет",
+      "text": "Наконец-то живые! Хвала Свету! Нас уже несколько недель окружает Плеть!",
+      "metadata": {
+        "string_id": 1216,
+        "speaker_string_id": 1217,
+        "dialogue_id": "HRE04-T050-MORTARTEAM"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Сосредоточьтесь на склепе, пока враг нас не уничтожил!",
+      "metadata": {
+        "string_id": 1107,
+        "speaker_string_id": 1176,
+        "dialogue_id": "HRE04-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Иластар, как ты там?",
+      "metadata": {
+        "string_id": 1467,
+        "speaker_string_id": 1451,
+        "dialogue_id": "HRE04-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Вполне неплохо. Думаю, смогу вполне сносно исцелять вас отсюда.",
+      "metadata": {
+        "string_id": 1469,
+        "speaker_string_id": 1470,
+        "dialogue_id": "HRE04-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Часовня Алонсия. Какое святотатство совершил над ней культ?",
+      "metadata": {
+        "string_id": 1329,
+        "speaker_string_id": 1330,
+        "dialogue_id": "HRE04-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Одному мне не справиться. Тут бы не помешали мортирные расчеты Гарека.",
+      "metadata": {
+        "string_id": 1109,
+        "speaker_string_id": 1177,
+        "dialogue_id": "HRE04-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "Подкрепление! Говорил же вам, надо еще немного подождать!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "HRE04-T090-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ворота по-прежнему закрыты. Видимо, где-то есть еще один рычаг.",
+      "metadata": {
+        "string_id": 1113,
+        "speaker_string_id": 1178,
+        "dialogue_id": "HRE04-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Ворота по-прежнему закрыты. Видимо, есть еще один рычаг.",
+      "metadata": {
+        "string_id": 1249,
+        "speaker_string_id": 1250,
+        "dialogue_id": "HRE04-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ворота открыты! Скоро Ледяной Шепот отведает нашей стали!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ворота открыты! Скоро Ледяной Шепот отведает нашей стали!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Горожанка",
+      "text": "Вы меня спасли! Надо скорее отсюда выбираться!",
+      "metadata": {
+        "string_id": 1471,
+        "speaker_string_id": 1452,
+        "dialogue_id": "HRE04-T240-CIVILIANM"
+      }
+    },
+    {
+      "speaker": "Горожанка",
+      "text": "Благодарствую, господин! Мне уж казалось, мы все здесь сгинем, или чего похуже!",
+      "metadata": {
+        "string_id": 1472,
+        "speaker_string_id": 1453,
+        "dialogue_id": "HRE04-T270-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Горожанка",
+      "text": "Я не сплю? Этому кошмару конец? Не знаю, как вас и благодарить!",
+      "metadata": {
+        "string_id": 1473,
+        "speaker_string_id": 1454,
+        "dialogue_id": "HRE04-T290-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Улицы кишат нежитью. Постараемся не привлекать лишнего внимания.",
+      "metadata": {
+        "string_id": 1251,
+        "speaker_string_id": 1252,
+        "dialogue_id": "HRE04-T430-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Враги приближаются! Готовьтесь к бою!",
+      "metadata": {
+        "string_id": 1117,
+        "speaker_string_id": 1181,
+        "dialogue_id": "HRE04-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ворота закрыты. Без ключа нам тут не пройти.",
+      "metadata": {
+        "string_id": 1119,
+        "speaker_string_id": 1182,
+        "dialogue_id": "HRE04-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Путь к площади Рыцарей открыт. Ривендер не сможет скрываться от нас вечно.",
+      "metadata": {
+        "string_id": 1121,
+        "speaker_string_id": 1183,
+        "dialogue_id": "HRE04-T460-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Это был демон! С крыльями, рогами и копытами!",
+      "metadata": {
+        "string_id": 1474,
+        "speaker_string_id": 1455,
+        "dialogue_id": "HRE04-T470-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Когда-то Стратхольм был одним из величайших городов Лордерона. Затем Ривендер отдал его на растерзание нежити!",
+      "metadata": {
+        "string_id": 1122,
+        "speaker_string_id": 1184,
+        "dialogue_id": "HRE04-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Он лишь один из многих, кто продал душу Плети. Все они сгорят в священном огне.",
+      "metadata": {
+        "string_id": 1124,
+        "speaker_string_id": 1185,
+        "dialogue_id": "HRE04-T510-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Проклятье, наши силы разделены. Нужно найти рычаг, который открывает ворота.",
+      "metadata": {
+        "string_id": 1125,
+        "speaker_string_id": 1186,
+        "dialogue_id": "HRE04-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Надо собраться всем вместе и двигаться дальше.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1187,
+        "dialogue_id": "HRE04-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Рыцарь",
+      "text": "Еще выжившие! Держать строй!",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "HRE04-T520-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Горожанка",
+      "text": "Мы здесь в ловушке! Умоляю, помогите!",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1456,
+        "dialogue_id": "HRE04-T550-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Горожанка",
+      "text": "Смерть Лордерону!",
+      "metadata": {
+        "string_id": 1476,
+        "speaker_string_id": 1457,
+        "dialogue_id": "HRE04-T560-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Эта участь ждет всех служителей культа.",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1458,
+        "dialogue_id": "HRE04-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Это башня скверны, в которой восседает Ривендер.",
+      "metadata": {
+        "string_id": 1130,
+        "speaker_string_id": 1188,
+        "dialogue_id": "HRE04-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Как только я с ним покончу, сброшу его на мостовую.",
+      "metadata": {
+        "string_id": 1131,
+        "speaker_string_id": 1189,
+        "dialogue_id": "HRE04-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Гарек, в городе еще могут быть выжившие.",
+      "metadata": {
+        "string_id": 1132,
+        "speaker_string_id": 1190,
+        "dialogue_id": "HRE04-T620-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Пусть наши солдаты поищут жителей, которых еще можно спасти.",
+      "metadata": {
+        "string_id": 1134,
+        "speaker_string_id": 1191,
+        "dialogue_id": "HRE04-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Как все закончится, соберемся в Дольном Очаге. А сейчас пора свершить возмездие над Ривендером.",
+      "metadata": {
+        "string_id": 1136,
+        "speaker_string_id": 1208,
+        "dialogue_id": "HRE04-T640-GAREK"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "За Лордерон!",
+      "metadata": {
+        "string_id": 1478,
+        "speaker_string_id": 1459,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "К оружию!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Волшебница",
+      "text": "Мы победим!",
+      "metadata": {
+        "string_id": 1259,
+        "speaker_string_id": 1260,
+        "dialogue_id": "SorceressYesAttack2"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Это всего лишь царапина...",
+      "metadata": {
+        "string_id": 1139,
+        "speaker_string_id": 1140,
+        "dialogue_id": "FootmanPissed4"
+      }
+    },
+    {
+      "speaker": "Жрец",
+      "text": "Я исцелю эти земли.",
+      "metadata": {
+        "string_id": 1142,
+        "speaker_string_id": 1143,
+        "dialogue_id": "PriestReady1"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "К бою готов!",
+      "metadata": {
+        "string_id": 1144,
+        "speaker_string_id": 1145,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Мортирный расчет",
+      "text": "Поскорее бы в бой!",
+      "metadata": {
+        "string_id": 1146,
+        "speaker_string_id": 1147,
+        "dialogue_id": "MortarTeamWhat1"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "О, опять вы? Я с вас живьем кожу сдеру!",
+      "metadata": {
+        "string_id": 1265,
+        "speaker_string_id": 1266,
+        "dialogue_id": "HRE04-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Меня так просто не убить, смертные. Мы еще встретимся.",
+      "metadata": {
+        "string_id": 1269,
+        "speaker_string_id": 1270,
+        "dialogue_id": "HRE04-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Забудьте о нем. Наша истинная цель – Ривендер.",
+      "metadata": {
+        "string_id": 1153,
+        "speaker_string_id": 1209,
+        "dialogue_id": "HRE04-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Лортирас",
+      "text": "Ваши страдания принесут мне удовольствие.",
+      "metadata": {
+        "string_id": 1305,
+        "speaker_string_id": 1306,
+        "dialogue_id": "HRE04-T480-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Лортирас",
+      "text": "Это еще не конец, жалкие смертные.",
+      "metadata": {
+        "string_id": 1307,
+        "speaker_string_id": 1308,
+        "dialogue_id": "HRE04-T490-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Гримтейн",
+      "text": "Ваши кости послужат Плети.",
+      "metadata": {
+        "string_id": 1297,
+        "speaker_string_id": 1298,
+        "dialogue_id": "HRE04-T580-GRIMTHANE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Теперь твои кости упокоятся навеки.",
+      "metadata": {
+        "string_id": 1303,
+        "speaker_string_id": 1304,
+        "dialogue_id": "HRE04-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Вы все будете мне служить!",
+      "metadata": {
+        "string_id": 1295,
+        "speaker_string_id": 1296,
+        "dialogue_id": "HRE04-T650-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Силам Плети нет конца! Вы захлебнетесь в собственной крови!",
+      "metadata": {
+        "string_id": 1479,
+        "speaker_string_id": 1460,
+        "dialogue_id": "HRE04-T660-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что... такое? У меня что-то в легких...",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1461,
+        "dialogue_id": "HRE04-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Чумные споры... Мы... заражены...",
+      "metadata": {
+        "string_id": 1481,
+        "speaker_string_id": 1462,
+        "dialogue_id": "HRE04-T680-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Ничтожества! Узрите истинную силу!",
+      "metadata": {
+        "string_id": 1482,
+        "speaker_string_id": 1463,
+        "dialogue_id": "HRE04-T690-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Иластар, обелиски! Нужно их уничтожить!",
+      "metadata": {
+        "string_id": 1483,
+        "speaker_string_id": 1464,
+        "dialogue_id": "HRE04-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Я... не могу...",
+      "metadata": {
+        "string_id": 1484,
+        "speaker_string_id": 1465,
+        "dialogue_id": "HRE04-T710-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Держись, Иластар!",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1466,
+        "dialogue_id": "HRE04-T720-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Во имя Света! Споры этих грибов распространяют чуму. Нужно их уничтожить!",
+      "metadata": {
+        "string_id": 1163,
+        "speaker_string_id": 1211,
+        "dialogue_id": "HRE04-T070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Пусть эти мерзкие споры задохнутся в пепле разрушенного города.",
+      "metadata": {
+        "string_id": 1164,
+        "speaker_string_id": 1212,
+        "dialogue_id": "HRE04-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, кто-то пытался сбежать из Стратхольма на корабле. Видимо, прислужники культа его потопили.",
+      "metadata": {
+        "string_id": 1165,
+        "speaker_string_id": 1213,
+        "dialogue_id": "HRE04-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Надо бы собрать плавающие припасы. Они нам наверняка пригодятся.",
+      "metadata": {
+        "string_id": 1166,
+        "speaker_string_id": 1214,
+        "dialogue_id": "HRE04-T410-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Этих припасов будет достаточно. Пора возвращаться на берег.",
+      "metadata": {
+        "string_id": 1167,
+        "speaker_string_id": 1215,
+        "dialogue_id": "HRE04-T420-GAREK"
+      }
+    }
+  ]
+}

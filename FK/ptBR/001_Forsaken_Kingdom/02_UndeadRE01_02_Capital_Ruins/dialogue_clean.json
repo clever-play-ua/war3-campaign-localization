@@ -1,0 +1,449 @@
+{
+  "map": "UndeadRE01",
+  "title": "Capital Ruins",
+  "locale": "ptBR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Marya",
+      "text": "Meu amado! Onde ele está? Preciso encontrá-lo!",
+      "metadata": {
+        "string_id": 2016,
+        "speaker_string_id": 2017,
+        "dialogue_id": "A1M2-M020-010-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "\"Ela está revivendo a própria morte. Um desses Cadáveres Vacilantes deve ser o seu \"\"amado\"\".\"",
+      "metadata": {
+        "string_id": 2014,
+        "speaker_string_id": 2015,
+        "dialogue_id": "A1M2-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Se dermos um fim nisso, talvez ela volte a si.",
+      "metadata": {
+        "string_id": 2012,
+        "speaker_string_id": 2013,
+        "dialogue_id": "A1M2-M020-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Entendido. Vamos trazer um pouco de paz a ela.",
+      "metadata": {
+        "string_id": 2010,
+        "speaker_string_id": 2011,
+        "dialogue_id": "A1M2-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Aparição do Tomo",
+      "text": "Sinta minha dor!",
+      "metadata": {
+        "string_id": 1987,
+        "speaker_string_id": 1988,
+        "dialogue_id": "BansheeYesAttack2"
+      }
+    },
+    {
+      "speaker": "Aparição do Tomo",
+      "text": "Sua alma arderá!",
+      "metadata": {
+        "string_id": 1992,
+        "speaker_string_id": 1993,
+        "dialogue_id": "BansheeYesAttack3"
+      }
+    },
+    {
+      "speaker": "Aparição do Tomo",
+      "text": "Esse tormento tem que chegar ao fim!",
+      "metadata": {
+        "string_id": 1997,
+        "speaker_string_id": 1998,
+        "dialogue_id": "BansheePissed1"
+      }
+    },
+    {
+      "speaker": "Aparição do Tomo",
+      "text": "Por quanto tempo ainda sofrerei?",
+      "metadata": {
+        "string_id": 2000,
+        "speaker_string_id": 2001,
+        "dialogue_id": "BansheePissed2"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Aquele carniçal está... lendo? Não é possível.",
+      "metadata": {
+        "string_id": 1530,
+        "speaker_string_id": 1531,
+        "dialogue_id": "A1M2-T760-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hmm. Acho que podemos usar alguns livros para atraí-lo.",
+      "metadata": {
+        "string_id": 1539,
+        "speaker_string_id": 1540,
+        "dialogue_id": "A1M2-T770-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ele pode estar com medo de nós. Vamos nos afastar e dar um espaço a ele.",
+      "metadata": {
+        "string_id": 1562,
+        "speaker_string_id": 1563,
+        "dialogue_id": "A1M2-T771-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Algo me diz que Daniel encontrou um aliado com este aqui.",
+      "metadata": {
+        "string_id": 2156,
+        "speaker_string_id": 2157,
+        "dialogue_id": "A1M2-T772-ANYA"
+      }
+    },
+    {
+      "speaker": "Marya",
+      "text": "Ele... ele se foi. Agora eu me lembro... Obrigada.",
+      "metadata": {
+        "string_id": 1609,
+        "speaker_string_id": 1610,
+        "dialogue_id": "A1M2-T160-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Você está livre do seu passado. Vá até a Cidade Baixa. A Dama Sombria lhe receberá.",
+      "metadata": {
+        "string_id": 1616,
+        "speaker_string_id": 1617,
+        "dialogue_id": "A1M2-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "Alexsia",
+      "text": "Corram, jovens! A seita matará todos nós!",
+      "metadata": {
+        "string_id": 1625,
+        "speaker_string_id": 1626,
+        "dialogue_id": "A1M2-T180-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Alexsia",
+      "text": "Mortos... Todos mortos.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A1M2-T190-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Dê um tempo para o seu luto. Mas, quando estiver pronta, um novo lar aguarda por você na Cidade Baixa.",
+      "metadata": {
+        "string_id": 1643,
+        "speaker_string_id": 1644,
+        "dialogue_id": "A1M2-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Kaelystia",
+      "text": "Quem se atreve a perturbar meu descanso? As chamas da minha magia queimarão vocês!",
+      "metadata": {
+        "string_id": 1655,
+        "speaker_string_id": 1656,
+        "dialogue_id": "A1M2-T210-KAELYSTIA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Já chega. Você está desperdiçando sua fúria. Junte-se aos Renegados e use sua raiva contra o Flagelo.",
+      "metadata": {
+        "string_id": 1664,
+        "speaker_string_id": 1665,
+        "dialogue_id": "A1M2-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Kaelystia",
+      "text": "Sim... sim, você tem razão. Obrigada por me ajudar a enxergar com mais clareza.",
+      "metadata": {
+        "string_id": 1676,
+        "speaker_string_id": 1677,
+        "dialogue_id": "A1M2-T230-KAELYSTIA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Cuidado, Garek. Nem todos que se libertam do Flagelo são tão amigáveis quanto nós.",
+      "metadata": {
+        "string_id": 1726,
+        "speaker_string_id": 1727,
+        "dialogue_id": "A1M2-T010-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Está dizendo que talvez precisaremos nos defender?",
+      "metadata": {
+        "string_id": 1735,
+        "speaker_string_id": 1736,
+        "dialogue_id": "A1M2-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ah, você se adapta bem rápido.",
+      "metadata": {
+        "string_id": 1746,
+        "speaker_string_id": 1747,
+        "dialogue_id": "A1M2-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ei, você. Sylvana Correventos está lhe oferecendo abrigo na Cidade Baixa. Vá para o esgoto.",
+      "metadata": {
+        "string_id": 1755,
+        "speaker_string_id": 1756,
+        "dialogue_id": "A1M2-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hmm. Isso foi fácil.",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A1M2-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Precisa dar chance ao destino?",
+      "metadata": {
+        "string_id": 1777,
+        "speaker_string_id": 1778,
+        "dialogue_id": "A1M2-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Sobrevivente Renegado",
+      "text": "Quero comer! Quero comer agora!",
+      "metadata": {
+        "string_id": 1786,
+        "speaker_string_id": 1787,
+        "dialogue_id": "A1M2-T070-SURVIVOR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Eles eram carcaças irracionais... Anya, se eu tivesse despertado como eles...",
+      "metadata": {
+        "string_id": 1795,
+        "speaker_string_id": 1796,
+        "dialogue_id": "A1M2-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Então eu teria matado você e deixado Putriss aproveitar suas partes. Continue andando.",
+      "metadata": {
+        "string_id": 1804,
+        "speaker_string_id": 1805,
+        "dialogue_id": "A1M2-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Ajuda! Socorro!",
+      "metadata": {
+        "string_id": 1813,
+        "speaker_string_id": 1814,
+        "dialogue_id": "A1M2-T120-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Afastem-se deles!",
+      "metadata": {
+        "string_id": 1839,
+        "speaker_string_id": 1840,
+        "dialogue_id": "A1M2-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Agradeço! Vocês nos salvaram!",
+      "metadata": {
+        "string_id": 1845,
+        "speaker_string_id": 1846,
+        "dialogue_id": "A1M2-T140-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Vá para o esgoto. Lady Sylvana abriga todos os Renegados.",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M2-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mais invasores do Flagelo! Rápido, resgate os Renegados!",
+      "metadata": {
+        "string_id": 1863,
+        "speaker_string_id": 1864,
+        "dialogue_id": "A1M2-T100-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Agora está seguro. Vá para o esgoto. A Dama Sombria cuidará de você.",
+      "metadata": {
+        "string_id": 1894,
+        "speaker_string_id": 1895,
+        "dialogue_id": "A1M2-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Um destino lamentável, ser erguido na morte-viva e depois despertar diante do horror de sua nova existência.",
+      "metadata": {
+        "string_id": 1681,
+        "speaker_string_id": 1682,
+        "dialogue_id": "A1M2-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "É um jeito de encarar isso. Você preferiria ser deixado para apodrecer, ou aceitaria uma segunda chance de viver?",
+      "metadata": {
+        "string_id": 1690,
+        "speaker_string_id": 1691,
+        "dialogue_id": "A1M2-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "É difícil dizer. Não me lembro da minha primeira chance.",
+      "metadata": {
+        "string_id": 1699,
+        "speaker_string_id": 1700,
+        "dialogue_id": "A1M2-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Na verdade, pode ser um mal que vem para o bem. Muitos de nós nos lembramos de como morremos e do que fomos forçados a fazer antes de recuperar nossa vontade própria.",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A1M2-T270-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Seria bom se todos nós tivéssemos a sorte de receber uma nova chance.",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A1M2-T280-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "O Flagelo continua a rondar estas ruínas e a conspirar contra nós. Não permita que nenhum deles sobreviva.",
+      "metadata": {
+        "string_id": 1982,
+        "speaker_string_id": 1983,
+        "dialogue_id": "A1M2-T061-ANYA"
+      }
+    },
+    {
+      "speaker": "Necromante",
+      "text": "Serão todos meus no final!",
+      "metadata": {
+        "string_id": 1491,
+        "speaker_string_id": 1492,
+        "dialogue_id": "NecromancerWarcry1"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Grão-marechal Garithos, odiado tanto por seus inimigos, quanto pelos aliados. Nenhuma lágrima foi derramada quando Sylvana o matou.",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M2-T320-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "É estranho que Daniel queira aproveitar os restos dele. Talvez ele considere uma forma de fazer justiça.",
+      "metadata": {
+        "string_id": 1911,
+        "speaker_string_id": 1912,
+        "dialogue_id": "A1M2-T330-ANYA"
+      }
+    },
+    {
+      "speaker": "Soldado",
+      "text": "Matem todos!",
+      "metadata": {
+        "string_id": 1977,
+        "speaker_string_id": 1978,
+        "dialogue_id": "U01Footman23"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Os vivos se movem por estas ruínas. Deveríamos exterminá-los.",
+      "metadata": {
+        "string_id": 1934,
+        "speaker_string_id": 1935,
+        "dialogue_id": "A1M2-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Lucian Forjado a Luz",
+      "text": "Mais criaturas torpes! Queimem na Luz!",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A1M2-T301-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Um paladino! Matem-no!",
+      "metadata": {
+        "string_id": 1958,
+        "speaker_string_id": 1959,
+        "dialogue_id": "A1M2-T302-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Daniel não poderia ter encontrado uma forma menos perigosa de fazer isso, né?",
+      "metadata": {
+        "string_id": 1967,
+        "speaker_string_id": 1968,
+        "dialogue_id": "A1M2-T310-GAREK"
+      }
+    }
+  ]
+}

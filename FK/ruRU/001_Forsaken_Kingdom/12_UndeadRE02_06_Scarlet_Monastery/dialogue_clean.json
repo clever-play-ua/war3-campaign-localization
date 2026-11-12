@@ -1,0 +1,620 @@
+{
+  "map": "UndeadRE02",
+  "title": "Scarlet Monastery",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Сильвана",
+      "text": "Твои сведения о враге оказались весьма точными, Леонид. Теперь обсудим саму битву.",
+      "metadata": {
+        "string_id": 764,
+        "speaker_string_id": 765,
+        "dialogue_id": "A2M5-M010-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Подходы к монастырю Алого ордена сильно укреплены. Наши войска немногочисленны, поэтому мы должны наносить удары осмотрительно.",
+      "metadata": {
+        "string_id": 752,
+        "speaker_string_id": 753,
+        "dialogue_id": "A2M5-M010-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Вам предстоит проникнуть в тыл врага, прорвать его оборону и уничтожить вражеских командиров.",
+      "metadata": {
+        "string_id": 748,
+        "speaker_string_id": 749,
+        "dialogue_id": "A2M5-M010-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Но знайте: если обстоятельства сложатся не в нашу пользу, я без колебаний прикажу отступить. Так что действуйте быстро, пока победа от нас не ускользнула.",
+      "metadata": {
+        "string_id": 743,
+        "speaker_string_id": 744,
+        "dialogue_id": "A2M5-M010-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Будет исполнено, Темная Госпожа.",
+      "metadata": {
+        "string_id": 739,
+        "speaker_string_id": 740,
+        "dialogue_id": "A2M5-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Снова вы. На этот раз я очищу Лордерон от вашей скверны.",
+      "metadata": {
+        "string_id": 1194,
+        "speaker_string_id": 1195,
+        "dialogue_id": "A2M5-C010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Салли",
+      "text": "Мой защитник, уничтожь этих чудовищ!",
+      "metadata": {
+        "string_id": 1184,
+        "speaker_string_id": 1185,
+        "dialogue_id": "A2M5-C010-020-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "За Алый орден!",
+      "metadata": {
+        "string_id": 1190,
+        "speaker_string_id": 1191,
+        "dialogue_id": "A2M5-C010-030-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Отрекшиеся, в атаку!",
+      "metadata": {
+        "string_id": 1188,
+        "speaker_string_id": 1189,
+        "dialogue_id": "A2M5-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Мы вернули себе Тирисфальские леса. Фанатики отступили в свой монастырь.",
+      "metadata": {
+        "string_id": 899,
+        "speaker_string_id": 900,
+        "dialogue_id": "A2M5-C020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Пришло время разгромить эту цитадель и уничтожить их раз и навсегда.",
+      "metadata": {
+        "string_id": 847,
+        "speaker_string_id": 848,
+        "dialogue_id": "A2M5-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Воспоминания о Ландене",
+      "text": "Остаться в живых – вот истинная победа, награда за которую – мир.",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A2M5-C020-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Воспоминания о Ландене",
+      "text": "Помни об этом.",
+      "metadata": {
+        "string_id": 836,
+        "speaker_string_id": 837,
+        "dialogue_id": "A2M5-C020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Леди Сильвана, мне кажется, нам стоит вернуться в Подгород.",
+      "metadata": {
+        "string_id": 869,
+        "speaker_string_id": 870,
+        "dialogue_id": "A2M5-C020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы дали достойный отпор Алому ордену, но потеряли много бойцов. Если мы нападем на монастырь сейчас...",
+      "metadata": {
+        "string_id": 877,
+        "speaker_string_id": 878,
+        "dialogue_id": "A2M5-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Отрекшиеся не могут пополнять свои ряды. Каждая потеря приближает нас к исчезновению. Неужели штурм монастыря оправдывает такой риск?",
+      "metadata": {
+        "string_id": 1157,
+        "speaker_string_id": 1158,
+        "dialogue_id": "A2M5-C020-081-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Твои мудрые слова заставили меня задуматься. Что ж, я удовлетворюсь этой победой и тем, что мы отстояли свою территорию.",
+      "metadata": {
+        "string_id": 889,
+        "speaker_string_id": 890,
+        "dialogue_id": "A2M5-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Леонид",
+      "text": "Я сообщу Серебряному Рассвету о результатах битвы. Если Алый орден снова попытается что-то предпринять, отрекшиеся узнают об этом первыми.",
+      "metadata": {
+        "string_id": 897,
+        "speaker_string_id": 898,
+        "dialogue_id": "A2M5-C020-100-LEONID"
+      }
+    },
+    {
+      "speaker": "Леонид",
+      "text": "Я рад, что мы с вами на одной стороне. Знайте, что я всегда буду считать вас союзниками.",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A2M5-C020-110-LEONID"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ты был... весьма полезным. Постарайся не дать паладинам себя испортить.",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "A2M5-C020-120-ANYA"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Алый орден не остановится. Свет велит им уничтожать нас.",
+      "metadata": {
+        "string_id": 926,
+        "speaker_string_id": 927,
+        "dialogue_id": "A2M5-C020-130-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Может, и так. Но мне кажется, ими больше движет ненависть, чем Свет.",
+      "metadata": {
+        "string_id": 933,
+        "speaker_string_id": 934,
+        "dialogue_id": "A2M5-C020-140-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "И я верю, что есть те, кто может использовать Свет по-другому. Возможно, даже для защиты отрекшихся.",
+      "metadata": {
+        "string_id": 1114,
+        "speaker_string_id": 1115,
+        "dialogue_id": "A2M5-C020-150-GAREK"
+      }
+    },
+    {
+      "speaker": "Убийца из Плети",
+      "text": "Выходит, Алый орден и отрекшиеся понесли большие потери, сражаясь друг с другом.",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "A2M5-C020-160-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "Убийца из Плети",
+      "text": "А значит, час Плети пробьет уже очень скоро.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1127,
+        "dialogue_id": "A2M5-C020-170-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Наши силы на подходе. Чтобы они не попали в смертельную ловушку, нужно прорвать оборону Алого ордена.",
+      "metadata": {
+        "string_id": 111,
+        "speaker_string_id": 112,
+        "dialogue_id": "A2M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Мы понесли большие потери, но победа уже близка!",
+      "metadata": {
+        "string_id": 409,
+        "speaker_string_id": 410,
+        "dialogue_id": "A2M5-T020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Алый орден уже уничтожил половину нашего войска. Нельзя затягивать эту битву!",
+      "metadata": {
+        "string_id": 125,
+        "speaker_string_id": 126,
+        "dialogue_id": "A2M5-T030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Мы не сможем продолжать осаду! Надо поскорее заканчивать!",
+      "metadata": {
+        "string_id": 138,
+        "speaker_string_id": 139,
+        "dialogue_id": "A2M5-T040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Довольно! Битва проиграна. Я не стану больше жертвовать отрекшимися! Отступаем в Подгород!",
+      "metadata": {
+        "string_id": 145,
+        "speaker_string_id": 146,
+        "dialogue_id": "A2M5-T050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Темные следопыты ведут бои с крестоносцами в лесу. Если мы придем моим сестрам на помощь, они к нам присоединятся.",
+      "metadata": {
+        "string_id": 253,
+        "speaker_string_id": 254,
+        "dialogue_id": "A2M5-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-следопыт",
+      "text": "Я служу Королеве-банши!",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "ForsakenRanger_Ready1"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-следопыт",
+      "text": "Приветствую!",
+      "metadata": {
+        "string_id": 267,
+        "speaker_string_id": 268,
+        "dialogue_id": "ForsakenVillagerF_What1"
+      }
+    },
+    {
+      "speaker": "Леонид",
+      "text": "Слышал, тут неподалеку есть гарнизон, где Алый орден держит пленников-отрекшихся. Надо бы их вызволить.",
+      "metadata": {
+        "string_id": 274,
+        "speaker_string_id": 275,
+        "dialogue_id": "A2M5-T110-LEONID"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Следуйте за нами, солдаты! Мы атакуем монастырь Алого ордена!",
+      "metadata": {
+        "string_id": 281,
+        "speaker_string_id": 282,
+        "dialogue_id": "A2M5-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Погибли. Все до единого. Вот что нас ждет, если Алый орден победит.",
+      "metadata": {
+        "string_id": 1150,
+        "speaker_string_id": 1151,
+        "dialogue_id": "A2M5-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Из-за этих лучников мы понесем огромные потери. Уничтожьте их.",
+      "metadata": {
+        "string_id": 152,
+        "speaker_string_id": 153,
+        "dialogue_id": "A2M5-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Эта возвышенность теперь наша. Пора двигаться дальше!",
+      "metadata": {
+        "string_id": 159,
+        "speaker_string_id": 160,
+        "dialogue_id": "A2M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Прорвать эту глухую оборону будет непросто. Нужно обойти рыцарей с фланга и расправиться с их капитаном.",
+      "metadata": {
+        "string_id": 172,
+        "speaker_string_id": 173,
+        "dialogue_id": "A2M5-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Капитан Тайхос",
+      "text": "Нежить атакует нас с возвышенности! Не дайте им пройти!",
+      "metadata": {
+        "string_id": 353,
+        "speaker_string_id": 354,
+        "dialogue_id": "A2M5-T150-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Вражеские ряды дрогнули! Наше войско рвется вперед!",
+      "metadata": {
+        "string_id": 182,
+        "speaker_string_id": 183,
+        "dialogue_id": "A2M5-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Леонид",
+      "text": "Алый орден обязательно нанесет ответный удар. Мы должны как можно скорее добраться до монастыря.",
+      "metadata": {
+        "string_id": 185,
+        "speaker_string_id": 186,
+        "dialogue_id": "A2M5-T170-LEONID"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Инквизитор попытается испепелить наши силы с помощью Света. Нужно его убить!",
+      "metadata": {
+        "string_id": 500,
+        "speaker_string_id": 501,
+        "dialogue_id": "A2M5-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "Инквизитор Керран",
+      "text": "Мерзкие чудовища! Да поглотит вас священный огонь!",
+      "metadata": {
+        "string_id": 490,
+        "speaker_string_id": 491,
+        "dialogue_id": "A2M5-T190-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Наконец-то. Теперь наше войско сможет продвинуться дальше.",
+      "metadata": {
+        "string_id": 450,
+        "speaker_string_id": 451,
+        "dialogue_id": "A2M5-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Страж смерти",
+      "text": "Капитан! Мы можем разрушить башню с помощью мясных фургонов, но сначала нужно избавиться от пушек!",
+      "metadata": {
+        "string_id": 466,
+        "speaker_string_id": 467,
+        "dialogue_id": "A2M5-T555-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "Крестоносец Артоний",
+      "text": "Нет! Здесь вашей осаде и придет конец!",
+      "metadata": {
+        "string_id": 479,
+        "speaker_string_id": 480,
+        "dialogue_id": "A2M5-T220-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "Леонид",
+      "text": "У Алого ордена осталась лишь одна линия обороны. До монастыря рукой подать!",
+      "metadata": {
+        "string_id": 474,
+        "speaker_string_id": 475,
+        "dialogue_id": "A2M5-T230-LEONID"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Пришло время положить этой битве конец!",
+      "metadata": {
+        "string_id": 472,
+        "speaker_string_id": 473,
+        "dialogue_id": "A2M5-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Пехотинец Алого ордена",
+      "text": "В атаку!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "Стрелок Алого ордена",
+      "text": "Я твою голову на стену повешу!",
+      "metadata": {
+        "string_id": 320,
+        "speaker_string_id": 321,
+        "dialogue_id": "ScarletMarksman_Warcry1"
+      }
+    },
+    {
+      "speaker": "Пехотинец Алого ордена",
+      "text": "К оружию!",
+      "metadata": {
+        "string_id": 325,
+        "speaker_string_id": 326,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Пехотинец Алого ордена",
+      "text": "В атаку!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "Крестоносец",
+      "text": "За честь и свободу!",
+      "metadata": {
+        "string_id": 707,
+        "speaker_string_id": 708,
+        "dialogue_id": "KnightWarcry1"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Атакуем все вместе!",
+      "metadata": {
+        "string_id": 1178,
+        "speaker_string_id": 1179,
+        "dialogue_id": "A2M5-T250-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Я буду рядом с вами, миледи!",
+      "metadata": {
+        "string_id": 1180,
+        "speaker_string_id": 1181,
+        "dialogue_id": "A2M5-T260-mograine"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Нас теснят, миледи! Мы должны отступить, чтобы защитить монастырь!",
+      "metadata": {
+        "string_id": 1230,
+        "speaker_string_id": 1231,
+        "dialogue_id": "A2M5-T370-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Хорошо. Однажды эти гнусные твари заплатят за свое предательство!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "A2M5-T380-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "В бой, мой защитник!",
+      "metadata": {
+        "string_id": 1200,
+        "speaker_string_id": 1201,
+        "dialogue_id": "A2M5-T320-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Как смеете вы нападать на верховного инквизитора?!",
+      "metadata": {
+        "string_id": 1275,
+        "speaker_string_id": 1276,
+        "dialogue_id": "A2M5-T300-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Свет хранит тех, кто ему служит!",
+      "metadata": {
+        "string_id": 1203,
+        "speaker_string_id": 1204,
+        "dialogue_id": "A2M5-T330-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Победа будет за нами!",
+      "metadata": {
+        "string_id": 1215,
+        "speaker_string_id": 1216,
+        "dialogue_id": "A2M5-T340-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Уничтожь этих язычников, Могрейн!",
+      "metadata": {
+        "string_id": 1220,
+        "speaker_string_id": 1221,
+        "dialogue_id": "A2M5-T350-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Да разгорится спасительное пламя!",
+      "metadata": {
+        "string_id": 1225,
+        "speaker_string_id": 1226,
+        "dialogue_id": "A2M5-T360-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Сразитесь со мной, чудовища!",
+      "metadata": {
+        "string_id": 1244,
+        "speaker_string_id": 1245,
+        "dialogue_id": "A2M5-T270-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Вас всех ждет очищение!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "A2M5-T280-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Никто не сможет противостоять Алому ордену!",
+      "metadata": {
+        "string_id": 1262,
+        "speaker_string_id": 1263,
+        "dialogue_id": "A2M5-T290-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Я положу конец вашему жалкому существованию!",
+      "metadata": {
+        "string_id": 1278,
+        "speaker_string_id": 1279,
+        "dialogue_id": "A2M5-T310-MOGRAINE"
+      }
+    }
+  ]
+}

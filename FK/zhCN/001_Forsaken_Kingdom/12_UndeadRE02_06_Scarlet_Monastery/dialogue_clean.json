@@ -1,0 +1,620 @@
+{
+  "map": "UndeadRE02",
+  "title": "Scarlet Monastery",
+  "locale": "zhCN",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "莱尼德，你的情报是准确的。现在可以开战了。",
+      "metadata": {
+        "string_id": 764,
+        "speaker_string_id": 765,
+        "dialogue_id": "A2M5-M010-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "通向血色修道院的路防守特别严密。我们的兵力有限，所以我们必须精心计划、步步为营。",
+      "metadata": {
+        "string_id": 752,
+        "speaker_string_id": 753,
+        "dialogue_id": "A2M5-M010-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "你需要潜入敌后，突破他们的防线，然后擒贼先擒王。",
+      "metadata": {
+        "string_id": 748,
+        "speaker_string_id": 749,
+        "dialogue_id": "A2M5-M010-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "但我要警告你：如果战局对我们不利，我会毫不犹豫地鸣金收兵。迅速行动，不要让胜利从我们手边溜走。",
+      "metadata": {
+        "string_id": 743,
+        "speaker_string_id": 744,
+        "dialogue_id": "A2M5-M010-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "如您所愿，黑暗女王。",
+      "metadata": {
+        "string_id": 739,
+        "speaker_string_id": 740,
+        "dialogue_id": "A2M5-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "又是你。这一次我要把你从洛丹伦清洗出去。",
+      "metadata": {
+        "string_id": 1194,
+        "speaker_string_id": 1195,
+        "dialogue_id": "A2M5-C010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "莎莉",
+      "text": "我的勇士，去摧毁那些怪物！",
+      "metadata": {
+        "string_id": 1184,
+        "speaker_string_id": 1185,
+        "dialogue_id": "A2M5-C010-020-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "为血色十字军而战！",
+      "metadata": {
+        "string_id": 1190,
+        "speaker_string_id": 1191,
+        "dialogue_id": "A2M5-C010-030-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "被遗忘者，进攻！",
+      "metadata": {
+        "string_id": 1188,
+        "speaker_string_id": 1189,
+        "dialogue_id": "A2M5-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "我们夺回了提瑞斯法林地。那些狂信徒已经退回了他们的修道院。",
+      "metadata": {
+        "string_id": 899,
+        "speaker_string_id": 900,
+        "dialogue_id": "A2M5-C020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我们应该突击他们的据点，彻底剿灭他们。",
+      "metadata": {
+        "string_id": 847,
+        "speaker_string_id": 848,
+        "dialogue_id": "A2M5-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "兰登的回忆",
+      "text": "活下去才是真正的胜利，和平才是真正的功业。",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A2M5-C020-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "兰登的回忆",
+      "text": "千万不要本末倒置了。",
+      "metadata": {
+        "string_id": 836,
+        "speaker_string_id": 837,
+        "dialogue_id": "A2M5-C020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "希尔瓦娜斯女士，我觉得我们应该返回幽暗城。",
+      "metadata": {
+        "string_id": 869,
+        "speaker_string_id": 870,
+        "dialogue_id": "A2M5-C020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们已经击退了血色十字军，但也付出了惨痛的代价。如果我们现在继续进攻修道院……",
+      "metadata": {
+        "string_id": 877,
+        "speaker_string_id": 878,
+        "dialogue_id": "A2M5-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们被遗忘者是无法补充兵力的。每一位战士的损失都会让我们更接近于灭绝。攻下修道院真的值得我们冒这么大的险吗？",
+      "metadata": {
+        "string_id": 1157,
+        "speaker_string_id": 1158,
+        "dialogue_id": "A2M5-C020-081-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "你的意见不无道理，不过我们必须要取得这场战斗的胜利，这样才能确保我们领地的安全。",
+      "metadata": {
+        "string_id": 889,
+        "speaker_string_id": 890,
+        "dialogue_id": "A2M5-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "莱尼德",
+      "text": "我会将战果通知给银色黎明。如果血色十字军再次兴风作浪，一定会第一时间通知被遗忘者。",
+      "metadata": {
+        "string_id": 897,
+        "speaker_string_id": 898,
+        "dialogue_id": "A2M5-C020-100-LEONID"
+      }
+    },
+    {
+      "speaker": "莱尼德",
+      "text": "能够和你们俩并肩作战是我的荣幸。我想告诉你们，我会永远是你们的盟友。",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A2M5-C020-110-LEONID"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你……是帮了不少忙。千万不要让那些圣骑士把你改变了。",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "A2M5-C020-120-ANYA"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "血色十字军一定会卷土重来。圣光会驱使他们来毁灭我们。",
+      "metadata": {
+        "string_id": 926,
+        "speaker_string_id": 927,
+        "dialogue_id": "A2M5-C020-130-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "也许吧。不过我觉得不论有没有圣光，仇恨也会驱使他们。",
+      "metadata": {
+        "string_id": 933,
+        "speaker_string_id": 934,
+        "dialogue_id": "A2M5-C020-140-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "而且我相信也有很多人会以别的方式运用圣光之力。甚至可能会用来保护被遗忘者。",
+      "metadata": {
+        "string_id": 1114,
+        "speaker_string_id": 1115,
+        "dialogue_id": "A2M5-C020-150-GAREK"
+      }
+    },
+    {
+      "speaker": "天灾刺客",
+      "text": "看来血色十字军和被遗忘者已经两败俱伤了。",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "A2M5-C020-160-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "天灾刺客",
+      "text": "换而言之，天灾军团的机会很快就会来了。",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1127,
+        "dialogue_id": "A2M5-C020-170-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们的部队已经开始行动了。我们需要先消灭血色十字军的守军，否则士兵们无异于走入死亡陷阱。",
+      "metadata": {
+        "string_id": 111,
+        "speaker_string_id": 112,
+        "dialogue_id": "A2M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "许多被遗忘者都倒下了，但胜利依然触手可及！",
+      "metadata": {
+        "string_id": 409,
+        "speaker_string_id": 410,
+        "dialogue_id": "A2M5-T020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "我们已经有一半的兵力折在血色十字军的防线上了。千万不要让这场战斗再拖下去了。",
+      "metadata": {
+        "string_id": 125,
+        "speaker_string_id": 126,
+        "dialogue_id": "A2M5-T030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "我们的攻势快要坚持不下去了！速战速决，快！",
+      "metadata": {
+        "string_id": 138,
+        "speaker_string_id": 139,
+        "dialogue_id": "A2M5-T040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "够了！我决不能再让更多的被遗忘者为这种注定的败局牺牲。立刻撤回幽暗城！",
+      "metadata": {
+        "string_id": 145,
+        "speaker_string_id": 146,
+        "dialogue_id": "A2M5-T050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "黑暗游侠正在森林各处与血色十字军展开遭遇战。如果我们去支援她们，我的姐妹们就能加入我们的麾下。",
+      "metadata": {
+        "string_id": 253,
+        "speaker_string_id": 254,
+        "dialogue_id": "A2M5-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "被遗忘者游侠",
+      "text": "我效忠于女妖之王！",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "ForsakenRanger_Ready1"
+      }
+    },
+    {
+      "speaker": "被遗忘者游侠",
+      "text": "你好！",
+      "metadata": {
+        "string_id": 267,
+        "speaker_string_id": 268,
+        "dialogue_id": "ForsakenVillagerF_What1"
+      }
+    },
+    {
+      "speaker": "莱尼德",
+      "text": "我听说血色十字军把俘虏的被遗忘者部队囚禁在附近的一座军营中。如果可以的话，我们应该去营救他们。",
+      "metadata": {
+        "string_id": 274,
+        "speaker_string_id": 275,
+        "dialogue_id": "A2M5-T110-LEONID"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "士兵们，跟我上！向血色修道院进发！",
+      "metadata": {
+        "string_id": 281,
+        "speaker_string_id": 282,
+        "dialogue_id": "A2M5-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "简直是一场大屠杀。如果让血色十字军赢了，这就是我们的下场。",
+      "metadata": {
+        "string_id": 1150,
+        "speaker_string_id": 1151,
+        "dialogue_id": "A2M5-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这些弓箭手很快就会全歼我们的军队。消灭他们。",
+      "metadata": {
+        "string_id": 152,
+        "speaker_string_id": 153,
+        "dialogue_id": "A2M5-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "高地落到我们的手上了。继续推进吧！",
+      "metadata": {
+        "string_id": 159,
+        "speaker_string_id": 160,
+        "dialogue_id": "A2M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "要突破那道盾墙简直难如登天。迂回到血色十字军的后方，伏击他们的队长。",
+      "metadata": {
+        "string_id": 172,
+        "speaker_string_id": 173,
+        "dialogue_id": "A2M5-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "泰科斯队长",
+      "text": "亡灵正在从高地发起攻击！不要让他们过去！",
+      "metadata": {
+        "string_id": 353,
+        "speaker_string_id": 354,
+        "dialogue_id": "A2M5-T150-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "密集方阵已经被打破了！我们的军队正在继续推进！",
+      "metadata": {
+        "string_id": 182,
+        "speaker_string_id": 183,
+        "dialogue_id": "A2M5-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "莱尼德",
+      "text": "血色十字军一定也会以牙还牙。我们必须尽快抵达修道院。",
+      "metadata": {
+        "string_id": 185,
+        "speaker_string_id": 186,
+        "dialogue_id": "A2M5-T170-LEONID"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "那个检察官会用圣光焚烧我们的部队。必须要干掉他！",
+      "metadata": {
+        "string_id": 500,
+        "speaker_string_id": 501,
+        "dialogue_id": "A2M5-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "检察官凯兰",
+      "text": "恶心的怪物！让神圣之火烧死你们！",
+      "metadata": {
+        "string_id": 490,
+        "speaker_string_id": 491,
+        "dialogue_id": "A2M5-T190-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "总算清净了。现在我们的军队可以推进了。",
+      "metadata": {
+        "string_id": 450,
+        "speaker_string_id": 451,
+        "dialogue_id": "A2M5-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "亡灵卫兵",
+      "text": "队长！我们的清道夫可以击毁那座防御塔，不过我们需要先打掉那些火炮！",
+      "metadata": {
+        "string_id": 466,
+        "speaker_string_id": 467,
+        "dialogue_id": "A2M5-T555-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "十字军阿托尼乌斯",
+      "text": "休想！你们的攻势到此为止了！",
+      "metadata": {
+        "string_id": 479,
+        "speaker_string_id": 480,
+        "dialogue_id": "A2M5-T220-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "莱尼德",
+      "text": "血色十字军的防线只剩最后一道了。修道院就在前方！",
+      "metadata": {
+        "string_id": 474,
+        "speaker_string_id": 475,
+        "dialogue_id": "A2M5-T230-LEONID"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那么现在就去结束这场战斗吧！",
+      "metadata": {
+        "string_id": 472,
+        "speaker_string_id": 473,
+        "dialogue_id": "A2M5-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "血色步兵",
+      "text": "进攻！",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "血色神射手",
+      "text": "我要把你的头挂到墙上！",
+      "metadata": {
+        "string_id": 320,
+        "speaker_string_id": 321,
+        "dialogue_id": "ScarletMarksman_Warcry1"
+      }
+    },
+    {
+      "speaker": "血色步兵",
+      "text": "上啊！",
+      "metadata": {
+        "string_id": 325,
+        "speaker_string_id": 326,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "血色步兵",
+      "text": "进攻！",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "十字军",
+      "text": "为了荣誉！为了自由！",
+      "metadata": {
+        "string_id": 707,
+        "speaker_string_id": 708,
+        "dialogue_id": "KnightWarcry1"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "我们并肩作战！",
+      "metadata": {
+        "string_id": 1178,
+        "speaker_string_id": 1179,
+        "dialogue_id": "A2M5-T250-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "为你而战，我的女士！",
+      "metadata": {
+        "string_id": 1180,
+        "speaker_string_id": 1181,
+        "dialogue_id": "A2M5-T260-mograine"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "女士，他们正在蚕食我们的阵地！我们必须后撤，守住修道院！",
+      "metadata": {
+        "string_id": 1230,
+        "speaker_string_id": 1231,
+        "dialogue_id": "A2M5-T370-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "好吧。总有一天，我们要让这些罪恶的怪物为他们的背叛付出代价！",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "A2M5-T380-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "继续战斗吧，我的勇士！",
+      "metadata": {
+        "string_id": 1200,
+        "speaker_string_id": 1201,
+        "dialogue_id": "A2M5-T320-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你居然敢攻击大检察官？！",
+      "metadata": {
+        "string_id": 1275,
+        "speaker_string_id": 1276,
+        "dialogue_id": "A2M5-T300-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "圣光会保护所有坚守信仰的人！",
+      "metadata": {
+        "string_id": 1203,
+        "speaker_string_id": 1204,
+        "dialogue_id": "A2M5-T330-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "我们必将得胜！",
+      "metadata": {
+        "string_id": 1215,
+        "speaker_string_id": 1216,
+        "dialogue_id": "A2M5-T340-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "莫格莱尼，驱逐这群异教徒！",
+      "metadata": {
+        "string_id": 1220,
+        "speaker_string_id": 1221,
+        "dialogue_id": "A2M5-T350-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "大检察官怀特迈恩",
+      "text": "让救赎的火焰熊熊燃烧吧！",
+      "metadata": {
+        "string_id": 1225,
+        "speaker_string_id": 1226,
+        "dialogue_id": "A2M5-T360-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "面对我，怪物！",
+      "metadata": {
+        "string_id": 1244,
+        "speaker_string_id": 1245,
+        "dialogue_id": "A2M5-T270-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你们都会被净化！",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "A2M5-T280-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "没人可以反抗血色十字军！",
+      "metadata": {
+        "string_id": 1262,
+        "speaker_string_id": 1263,
+        "dialogue_id": "A2M5-T290-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你们卑劣的存在今天就到此为止了！",
+      "metadata": {
+        "string_id": 1278,
+        "speaker_string_id": 1279,
+        "dialogue_id": "A2M5-T310-MOGRAINE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "zhCN",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "加瑞克",
+      "text": "亡灵卫兵们，干得漂亮。每击必中，不要放下盾牌。",
+      "metadata": {
+        "string_id": 2656,
+        "speaker_string_id": 2657,
+        "dialogue_id": "A2MU-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "不错嘛，加瑞克。虽然他们不是黑暗游侠，但足够胜任保卫幽暗城的使命。",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "A2MU-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "他们能得到你的认可，真是太好了，安雅。",
+      "metadata": {
+        "string_id": 2660,
+        "speaker_string_id": 2661,
+        "dialogue_id": "A2MU-C020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "班达隆队长，借一步说话。",
+      "metadata": {
+        "string_id": 2662,
+        "speaker_string_id": 2663,
+        "dialogue_id": "A2MU-C020-040-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "若干城区急需维护，但我无法靠近。",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2675,
+        "dialogue_id": "A2MU-C020-050-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "老鼠在中央升降梯井安了家，下水道主管道的一处裂缝也一直在涌出软泥怪。你能帮帮我吗？",
+      "metadata": {
+        "string_id": 1455,
+        "speaker_string_id": 1456,
+        "dialogue_id": "A2MU-C020-060-BERND"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你居然让卫兵队长去干害虫消杀的活？",
+      "metadata": {
+        "string_id": 1460,
+        "speaker_string_id": 1461,
+        "dialogue_id": "A2MU-C020-070-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "说实话，这次倒是个不错的锻炼机会。交给我吧，伯恩德。",
+      "metadata": {
+        "string_id": 1466,
+        "speaker_string_id": 1467,
+        "dialogue_id": "A2MU-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "我简直想不通！主管道居然有这么多裂缝，这背后一定有什么原因……",
+      "metadata": {
+        "string_id": 1470,
+        "speaker_string_id": 1471,
+        "dialogue_id": "A2MU-C030-010-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "我决定去检查一下城墙。一定有什么原因导致管道受损。",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1476,
+        "dialogue_id": "A2MU-C030-020-BERND"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们会跟你去的。如果还有更多——",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1481,
+        "dialogue_id": "A2MU-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "等等，你听见了吗？",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1486,
+        "dialogue_id": "A2MU-C030-040-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "<痛苦和惊讶的叫声。>",
+      "metadata": {
+        "string_id": 1490,
+        "speaker_string_id": 1491,
+        "dialogue_id": "A2MU-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "血色十字军",
+      "text": "我们已经攻入幽暗城！那些怪物都会死在血色十字军的剑下！",
+      "metadata": {
+        "string_id": 1495,
+        "speaker_string_id": 1496,
+        "dialogue_id": "A2MU-C030-060-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "我绝不会死在这座不洁的破房子里！",
+      "metadata": {
+        "string_id": 1748,
+        "speaker_string_id": 1749,
+        "dialogue_id": "A2MU-M010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "加瑞克，等等！",
+      "metadata": {
+        "string_id": 1501,
+        "speaker_string_id": 1502,
+        "dialogue_id": "A2MU-M010-020-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "啊！好烫啊！",
+      "metadata": {
+        "string_id": 1505,
+        "speaker_string_id": 1506,
+        "dialogue_id": "A2MU-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这个懦夫逃跑了。",
+      "metadata": {
+        "string_id": 1509,
+        "speaker_string_id": 1510,
+        "dialogue_id": "A2MU-M010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "运气好的话，对幽暗城的攻击应该已经结束了。",
+      "metadata": {
+        "string_id": 1514,
+        "speaker_string_id": 1515,
+        "dialogue_id": "A2MU-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我觉得可以去向希尔瓦娜斯报告了。",
+      "metadata": {
+        "string_id": 1519,
+        "speaker_string_id": 1520,
+        "dialogue_id": "A2MU-M010-060-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "恩雅。班达隆队长。请报告情况。",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A2MU-C040-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "幽暗城安全了，但这次攻击造成的破坏却……很严重。",
+      "metadata": {
+        "string_id": 1528,
+        "speaker_string_id": 1529,
+        "dialogue_id": "A2MU-C040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "那些想要毁灭我们的人一直在袭扰我们。整个提瑞斯法地区的被遗忘者村落都陷入了严重的危机之中。",
+      "metadata": {
+        "string_id": 1754,
+        "speaker_string_id": 1755,
+        "dialogue_id": "A2MU-C040-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "必须消灭血色十字军。如果你愿意的话，就去处理这里的危机吧，但不要浪费时间去追击那些狂信徒。",
+      "metadata": {
+        "string_id": 1760,
+        "speaker_string_id": 1761,
+        "dialogue_id": "A2MU-C040-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "如您所愿，黑暗女王。",
+      "metadata": {
+        "string_id": 1543,
+        "speaker_string_id": 1544,
+        "dialogue_id": "A2MU-C040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "班达隆队长，我再一次需要你的帮助。",
+      "metadata": {
+        "string_id": 1547,
+        "speaker_string_id": 1548,
+        "dialogue_id": "A2MU-M040-010-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "血色十字军用炸药炸出了缺口，入侵了幽暗城。在此期间，他们发现了一片旧的矿道。",
+      "metadata": {
+        "string_id": 1552,
+        "speaker_string_id": 1553,
+        "dialogue_id": "A2MU-M040-020-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "我觉得更明智的做法并不是加固这些地道，而是用我们自己的炸药将其炸塌。",
+      "metadata": {
+        "string_id": 1559,
+        "speaker_string_id": 1560,
+        "dialogue_id": "A2MU-M040-030-BERND"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这个计划不错。你给我们一些炸药，我们会保证再也没人能通过那些地道。",
+      "metadata": {
+        "string_id": 1563,
+        "speaker_string_id": 1564,
+        "dialogue_id": "A2MU-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "恩雅，加瑞克。那群血色小丑闯进了我的实验室，放跑了我的一个实验品！",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A2MU-M030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "千万不能让那个样本在幽暗城四处乱闯。立刻找到并控制它！",
+      "metadata": {
+        "string_id": 1780,
+        "speaker_string_id": 1781,
+        "dialogue_id": "A2MU-M030-020-PUTRESS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "原来是需要我们去帮你擦屁股啊。既然是请人帮忙，态度是不是应该再客气点？",
+      "metadata": {
+        "string_id": 1577,
+        "speaker_string_id": 1578,
+        "dialogue_id": "A2MU-M030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "如果你们愿意出手相助，我会非常感激的。",
+      "metadata": {
+        "string_id": 2500,
+        "speaker_string_id": 2501,
+        "dialogue_id": "A2MU-M030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们会处理的，普特雷斯。",
+      "metadata": {
+        "string_id": 2502,
+        "speaker_string_id": 2503,
+        "dialogue_id": "A2MU-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "带上这份血清吧。它可以让你短暂控制那些体型较小的实验品。",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "瓦里玛萨斯",
+      "text": "班达隆，恩雅。法师区这边有情况。有一只女妖发狂了。",
+      "metadata": {
+        "string_id": 1591,
+        "speaker_string_id": 1592,
+        "dialogue_id": "A2MU-M020-010-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "瓦里玛萨斯",
+      "text": "法师们说，一座受损的心灵控制晶塔驱使着她发疯了。说实话，我倒不在乎原因。",
+      "metadata": {
+        "string_id": 1596,
+        "speaker_string_id": 1597,
+        "dialogue_id": "A2MU-M020-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "瓦里玛萨斯",
+      "text": "你就按自己的意思去处理这件事吧。如果不得不消灭那只女妖，那也没办法。",
+      "metadata": {
+        "string_id": 1601,
+        "speaker_string_id": 1602,
+        "dialogue_id": "A2MU-M020-030-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "希望不会走到那一步。交给我们吧，瓦里玛萨斯。",
+      "metadata": {
+        "string_id": 1605,
+        "speaker_string_id": 1606,
+        "dialogue_id": "A2MU-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "莱尼德·巴萨罗梅。没想到还能在这里见到你。",
+      "metadata": {
+        "string_id": 1762,
+        "speaker_string_id": 1763,
+        "dialogue_id": "A2MU-C050-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "莱尼德",
+      "text": "恕我冒昧打扰，风行者女王。实在是形势所迫。",
+      "metadata": {
+        "string_id": 1614,
+        "speaker_string_id": 1615,
+        "dialogue_id": "A2MU-C050-020-LEONID"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们已经击退了血色十字军，但他们还在他们的修道院中积蓄力量。",
+      "metadata": {
+        "string_id": 1619,
+        "speaker_string_id": 1620,
+        "dialogue_id": "A2MU-C050-030-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "莱尼德一直在监视他们的活动，可以指引我们的部队发起进攻。",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A2MU-C050-040-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "我知道了。恩雅，你怎么看？这件事我们信得过莱尼德吗？",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A2MU-C050-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "打死我我也不愿意相信侍奉过圣光的人。更不用说这种还背叛了自己同胞的家伙。",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A2MU-C050-060-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "不过……莱尼德已经证明了自己是可靠的。他也曾以身犯险，守卫我们的村落。",
+      "metadata": {
+        "string_id": 1639,
+        "speaker_string_id": 1640,
+        "dialogue_id": "A2MU-C050-070-ANYA"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "很好。那就让血色十字军后悔与被遗忘者为敌吧。",
+      "metadata": {
+        "string_id": 1772,
+        "speaker_string_id": 1773,
+        "dialogue_id": "A2MU-C050-080-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "班达隆队长，如果你又要前往地面，我想请你帮个小忙。",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A2MU-M045-010-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "黑暗女王命令我去修理被血色十字军破坏的村落。",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A2MU-M045-020-BERND"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "但在开始工作之前，我需要各处村落的具体受损情况，才好制定相应的计划。你能帮我收集所需的信息吗？",
+      "metadata": {
+        "string_id": 1658,
+        "speaker_string_id": 1659,
+        "dialogue_id": "A2MU-M045-030-BERND"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "没问题。我会去看看那些村民，然后回来向你报告情况。",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A2MU-M045-040-GAREK"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "啊，正是我在等的劳力。",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A2MU-M050-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这次又是什么事，普特雷斯？",
+      "metadata": {
+        "string_id": 1672,
+        "speaker_string_id": 1673,
+        "dialogue_id": "A2MU-M050-020-ANYA"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "我猜你们已经发现了，提瑞斯法地区的动物最近发生了一些奇怪的变异。",
+      "metadata": {
+        "string_id": 1792,
+        "speaker_string_id": 1793,
+        "dialogue_id": "A2MU-M050-030-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "我很想研究一下它们的血液。请帮我收集一些回来，我一定会好好犒劳你的。",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A2MU-M050-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "很好，普特雷斯，但你最好别让我白跑一趟。",
+      "metadata": {
+        "string_id": 1687,
+        "speaker_string_id": 1688,
+        "dialogue_id": "A2MU-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "真是感激不尽。给你，你需要用这些火把来点燃那些老鼠窝。",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A2MU-T010-BERND"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你人还怪好的咧，你知道吗？",
+      "metadata": {
+        "string_id": 2263,
+        "speaker_string_id": 2264,
+        "dialogue_id": "A2MU-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "助人是我的本分，而不是拒人千里之外。",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "A2MU-T030-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "老鼠都消灭干净了。接下来就搞定那些软泥怪吧。",
+      "metadata": {
+        "string_id": 1700,
+        "speaker_string_id": 1701,
+        "dialogue_id": "A2MU-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "任务应该都完成了。我们回军事区吧。",
+      "metadata": {
+        "string_id": 1704,
+        "speaker_string_id": 1705,
+        "dialogue_id": "A2MU-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "真不敢相信，我们在过去的一年里已经将幽暗城建设得如此完备了。",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A2MU-T060-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我们的工人们不需要食物和睡眠，大大加快了工期啊。",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A2MU-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我看到管道上有个控制杆。拉下它应该就能停止水流，防止出现更多软泥怪。",
+      "metadata": {
+        "string_id": 1717,
+        "speaker_string_id": 1718,
+        "dialogue_id": "A2MU-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这样应该就行了。我们回军事区吧。",
+      "metadata": {
+        "string_id": 1721,
+        "speaker_string_id": 1722,
+        "dialogue_id": "A2MU-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "软泥怪应该都解决了。现在去清理那些老鼠吧。",
+      "metadata": {
+        "string_id": 1725,
+        "speaker_string_id": 1726,
+        "dialogue_id": "A2MU-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "伯恩德知道自己的工作可以继续，一定会乐出鼻涕泡来。",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A2MU-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "确实。不过还是很奇怪……他的施工队之前从未遇到过这种问题。",
+      "metadata": {
+        "string_id": 1734,
+        "speaker_string_id": 1735,
+        "dialogue_id": "A2MU-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们受到了攻击！亡灵卫兵，准备战斗！",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A2MU-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "坚守阵地！恩雅和我会去救援幽暗城的其他地区！",
+      "metadata": {
+        "string_id": 1742,
+        "speaker_string_id": 1743,
+        "dialogue_id": "A2MU-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "通往军事区的路被碎石堵住了。我们必须要为绞肉车装上弹药，打通道路。",
+      "metadata": {
+        "string_id": 1809,
+        "speaker_string_id": 1810,
+        "dialogue_id": "A2MU-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "加里索斯",
+      "text": "加里索斯杀人类！统统杀死！",
+      "metadata": {
+        "string_id": 1817,
+        "speaker_string_id": 1818,
+        "dialogue_id": "A2MU-T160-GARITHOS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "加里索斯，跟我们来！",
+      "metadata": {
+        "string_id": 1822,
+        "speaker_string_id": 1823,
+        "dialogue_id": "A2MU-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "亡灵卫兵",
+      "text": "班达隆队长！我们会守住这个房间，你们继续推进吧。",
+      "metadata": {
+        "string_id": 1881,
+        "speaker_string_id": 1882,
+        "dialogue_id": "A2MU-T180-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "血色十字军队长",
+      "text": "收紧队形！圣光会保护你们，助你们杀灭这些魔怪！",
+      "metadata": {
+        "string_id": 1887,
+        "speaker_string_id": 1888,
+        "dialogue_id": "A2MU-T190-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "军事区已经安全了！亡灵卫兵，守住这片区域！",
+      "metadata": {
+        "string_id": 1895,
+        "speaker_string_id": 1896,
+        "dialogue_id": "A2MU-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "血色十字军……之前并没有听说过他们。",
+      "metadata": {
+        "string_id": 1901,
+        "speaker_string_id": 1902,
+        "dialogue_id": "A2MU-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "他们似乎也是一群盲目信仰圣光的狂信徒。又一个白银之手，只不过换了个名字。",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A2MU-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "不管她们嘴上说的多漂亮，我才不信他们真的是受到圣光的指引。",
+      "metadata": {
+        "string_id": 1908,
+        "speaker_string_id": 1909,
+        "dialogue_id": "A2MU-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "恩雅！加瑞克！快把这群蠢货给我赶走！",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A2MU-T240-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "你怎么这么磨磨蹭蹭的！现在我要准备瘟疫了，保护我！",
+      "metadata": {
+        "string_id": 1924,
+        "speaker_string_id": 1925,
+        "dialogue_id": "A2MU-T250-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "给你，这东西应该能帮上忙！也可能帮不上忙。",
+      "metadata": {
+        "string_id": 1928,
+        "speaker_string_id": 1929,
+        "dialogue_id": "A2MU-T260-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "别说我没有帮过你啊！",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A2MU-T270-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "我给你配了一瓶备用药剂。别浪费了啊！",
+      "metadata": {
+        "string_id": 1949,
+        "speaker_string_id": 1950,
+        "dialogue_id": "A2MU-T280-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "有我在这里提供支援，你应该觉得庆幸！",
+      "metadata": {
+        "string_id": 1953,
+        "speaker_string_id": 1954,
+        "dialogue_id": "A2MU-T290-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "喝了它，然后速战速决！",
+      "metadata": {
+        "string_id": 1961,
+        "speaker_string_id": 1962,
+        "dialogue_id": "A2MU-T300-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "这么一想，我居然沦落到给你制药。",
+      "metadata": {
+        "string_id": 1969,
+        "speaker_string_id": 1970,
+        "dialogue_id": "A2MU-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "配制这种药剂，实在配不上我大药剂师的身份。",
+      "metadata": {
+        "string_id": 1975,
+        "speaker_string_id": 1976,
+        "dialogue_id": "A2MU-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "啊！瘟疫准备好了！",
+      "metadata": {
+        "string_id": 1981,
+        "speaker_string_id": 1982,
+        "dialogue_id": "A2MU-T330-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "让那些活人去死吧！",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "A2MU-T340-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "炼金房应该已经安全了。快去忙别的吧。",
+      "metadata": {
+        "string_id": 1996,
+        "speaker_string_id": 1997,
+        "dialogue_id": "A2MU-T350-PUTRESS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "不客气，普特雷斯。",
+      "metadata": {
+        "string_id": 2003,
+        "speaker_string_id": 2004,
+        "dialogue_id": "A2MU-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "瓦里玛萨斯",
+      "text": "死吧，你们这些可悲的狂信徒！",
+      "metadata": {
+        "string_id": 2009,
+        "speaker_string_id": 2010,
+        "dialogue_id": "A2MU-T370-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "瓦里玛萨斯",
+      "text": "我会解决剩下的害虫。你们快去法师区吧！",
+      "metadata": {
+        "string_id": 2015,
+        "speaker_string_id": 2016,
+        "dialogue_id": "A2MU-T380-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "好几个月的施工，顷刻间就毁掉了。这群疯子必须要付出代价。",
+      "metadata": {
+        "string_id": 2227,
+        "speaker_string_id": 2228,
+        "dialogue_id": "A2MU-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "幽暗城以后可以重建，现在最重要的是保护我们的人民。",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "A2MU-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "加瑞克，那座晶塔看上去和控制俘虏的那种很类似。",
+      "metadata": {
+        "string_id": 2028,
+        "speaker_string_id": 2029,
+        "dialogue_id": "A2MU-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "也许我们可以用它来控制敌人的思想。",
+      "metadata": {
+        "string_id": 2035,
+        "speaker_string_id": 2036,
+        "dialogue_id": "A2MU-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "检察官",
+      "text": "你的黑暗魔法对我没有作用！接受圣光的审判吧！",
+      "metadata": {
+        "string_id": 2043,
+        "speaker_string_id": 2044,
+        "dialogue_id": "A2MU-T430-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "哼。只要能用刀剑解决问题，谁还需要魔法？",
+      "metadata": {
+        "string_id": 2047,
+        "speaker_string_id": 2048,
+        "dialogue_id": "A2MU-T440-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这个区域已经清理完毕了。我们前往潜行者区吧。",
+      "metadata": {
+        "string_id": 2057,
+        "speaker_string_id": 2058,
+        "dialogue_id": "A2MU-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "血色十字军会净化你们这些恶心的怪物！",
+      "metadata": {
+        "string_id": 2063,
+        "speaker_string_id": 2064,
+        "dialogue_id": "A2MU-T460-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你们这些怪物！必须要加以净化！",
+      "metadata": {
+        "string_id": 2069,
+        "speaker_string_id": 2070,
+        "dialogue_id": "A2MU-T470-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "加瑞克！快找掩护！",
+      "metadata": {
+        "string_id": 2073,
+        "speaker_string_id": 2074,
+        "dialogue_id": "A2MU-T480-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "前往幽暗城的中心吧。我们可以顺路调查破坏程度。",
+      "metadata": {
+        "string_id": 2077,
+        "speaker_string_id": 2078,
+        "dialogue_id": "A2MU-T490-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这种规模的攻击必定需要花费数个月的谋划。",
+      "metadata": {
+        "string_id": 2081,
+        "speaker_string_id": 2082,
+        "dialogue_id": "A2MU-T500-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "还需要相当数量的兵力。附近一定有他们的据点。",
+      "metadata": {
+        "string_id": 2088,
+        "speaker_string_id": 2089,
+        "dialogue_id": "A2MU-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "贸易区正在进行大范围修理。暂时先避开此区域，直接前往地表。",
+      "metadata": {
+        "string_id": 2094,
+        "speaker_string_id": 2095,
+        "dialogue_id": "A2MU-T520-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "一定要小心使用。千万别被卷进爆炸范围了！",
+      "metadata": {
+        "string_id": 2100,
+        "speaker_string_id": 2101,
+        "dialogue_id": "A2MU-T530-BERND"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这些地道年份久远，已经废弃。这些地方应该已经很长时间没有人来过了。",
+      "metadata": {
+        "string_id": 2106,
+        "speaker_string_id": 2107,
+        "dialogue_id": "A2MU-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "血色十字军！干掉他们，安装炸药！",
+      "metadata": {
+        "string_id": 2112,
+        "speaker_string_id": 2113,
+        "dialogue_id": "A2MU-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "已经堵住了一个缺口。把其他的也封闭起来吧。",
+      "metadata": {
+        "string_id": 2118,
+        "speaker_string_id": 2119,
+        "dialogue_id": "A2MU-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这是什么地方？",
+      "metadata": {
+        "string_id": 2122,
+        "speaker_string_id": 2123,
+        "dialogue_id": "A2MU-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我也不知道，不过已经很古老了，说不定比洛丹伦更古老。",
+      "metadata": {
+        "string_id": 2127,
+        "speaker_string_id": 2128,
+        "dialogue_id": "A2MU-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这是某种祭坛。而且……我感觉它在向我发出召唤……",
+      "metadata": {
+        "string_id": 2133,
+        "speaker_string_id": 2134,
+        "dialogue_id": "A2MU-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "听上去真是精彩刺激的冒险啊。不知道我们四周还埋藏着什么秘密。",
+      "metadata": {
+        "string_id": 2139,
+        "speaker_string_id": 2140,
+        "dialogue_id": "A2MU-T600-BERND"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "看来血色十字军这次碰了个硬钉子。",
+      "metadata": {
+        "string_id": 2143,
+        "speaker_string_id": 2144,
+        "dialogue_id": "A2MU-T610-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "可能很有必要。也许体型较大的样本可以把那家伙逼回它的牢房去。",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "我得从头开始培育新的样本了。几个月的实验成果都冲进了下水道。",
+      "metadata": {
+        "string_id": 2251,
+        "speaker_string_id": 2252,
+        "dialogue_id": "A2MU-T630-PUTRESS"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "我稍后再研究一下那个样本。毫无疑问，干掉这群血色笨蛋也给我带来了宝贵的数据。",
+      "metadata": {
+        "string_id": 2172,
+        "speaker_string_id": 2173,
+        "dialogue_id": "A2MU-T640-PUTRESS"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "班达隆队长，感谢黑暗女王把你派来了！我们需要校准这座晶塔上的符文！",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "A2MU-T650-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "别让那只女妖攻击我们，这样我们可以兵不血刃就解决此事！",
+      "metadata": {
+        "string_id": 2596,
+        "speaker_string_id": 2597,
+        "dialogue_id": "A2MU-T660-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "不！要是我们之前修理得更快些，本可以避免遭此下场。",
+      "metadata": {
+        "string_id": 2604,
+        "speaker_string_id": 2605,
+        "dialogue_id": "A2MU-T670-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "太棒了！以后我会找时间加固这些晶塔。",
+      "metadata": {
+        "string_id": 2555,
+        "speaker_string_id": 2556,
+        "dialogue_id": "A2MU-T680-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "瓦里玛萨斯",
+      "text": "我听说女妖的尖叫已经停止了。不论你是用什么手段做到的，这份奖励是你应得的。",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "A2MU-T690-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你可真是太大方了。",
+      "metadata": {
+        "string_id": 2209,
+        "speaker_string_id": 2210,
+        "dialogue_id": "A2MU-T700-ANYA"
+      }
+    },
+    {
+      "speaker": "希尔瓦娜斯",
+      "text": "你们要做好准备。一旦开始对血色修道院发起攻击，我们就无法回头了。",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "A2MU-T710-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "要修复血色十字军造成的破坏，恐怕需要好几周的时间。",
+      "metadata": {
+        "string_id": 2217,
+        "speaker_string_id": 2218,
+        "dialogue_id": "A2MU-T720-BERND"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "嗯，你只能找到这么点血液吗？不过聊胜于无啊。",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "A2MU-T730-PUTRESS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "它被削弱了！其他样本应该可以将它逼回去了！",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "A2MU-T613-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "难怪血色十字军输给那个怪物了。",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "A2MU-T614-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "看来我们得干掉普特雷斯的小宠物了。唉，好吧。",
+      "metadata": {
+        "string_id": 2535,
+        "speaker_string_id": 2536,
+        "dialogue_id": "A2MU-T615-ANYA"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "你不需要杀死那个女妖，只需要挡住它就好了！",
+      "metadata": {
+        "string_id": 2562,
+        "speaker_string_id": 2563,
+        "dialogue_id": "A2MU-T661-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "我们的修理工作取得了很大进展。再接再厉！",
+      "metadata": {
+        "string_id": 2573,
+        "speaker_string_id": 2574,
+        "dialogue_id": "A2MU-T662-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "莱克斯顿",
+      "text": "晶塔就快要修好了！",
+      "metadata": {
+        "string_id": 2584,
+        "speaker_string_id": 2585,
+        "dialogue_id": "A2MU-T663-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "普特雷斯",
+      "text": "带上这份血清吧。它可以让你短暂控制那些体型较小的实验品。",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "可能很有必要。也许体型较大的样本可以把那家伙逼回它的牢房去。",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    }
+  ]
+}

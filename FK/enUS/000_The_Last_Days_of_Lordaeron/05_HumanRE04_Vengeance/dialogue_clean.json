@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "enUS",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Ilastar",
+      "text": "Look at what Arthas left in his wake. How many more cities will he burn? How many lives will he claim?",
+      "metadata": {
+        "string_id": 1030,
+        "speaker_string_id": 1031,
+        "dialogue_id": "HRE04-M010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Rivendare is the one who set this in motion. We're going to end him here and now.",
+      "metadata": {
+        "string_id": 1033,
+        "speaker_string_id": 1034,
+        "dialogue_id": "HRE04-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Indeed. The city will be well fortified, but I can enter the side gate and raise the portcullises.",
+      "metadata": {
+        "string_id": 1036,
+        "speaker_string_id": 1037,
+        "dialogue_id": "HRE04-M010-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "A sound plan. Stay safe until we can regroup with you.",
+      "metadata": {
+        "string_id": 1103,
+        "speaker_string_id": 1104,
+        "dialogue_id": "HRE04-M010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "And you, Garek. May the Light guide your blade.",
+      "metadata": {
+        "string_id": 1042,
+        "speaker_string_id": 1043,
+        "dialogue_id": "HRE04-M010-050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ras Frostwhisper",
+      "text": "The cowardly mages of the Kirin Tor spurned my talent and ambition. But the Lich King will reward it!",
+      "metadata": {
+        "string_id": 1381,
+        "speaker_string_id": 1382,
+        "dialogue_id": "HRE04-T130-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostwhisper",
+      "text": "I now cast aside this wretched flesh and blood, and embrace the immortality of undeath!",
+      "metadata": {
+        "string_id": 1417,
+        "speaker_string_id": 1418,
+        "dialogue_id": "HRE04-T140-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostwhisper",
+      "text": "Behold! I arise anew, perfected in form and power!",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "HRE04-T150-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostwhisper",
+      "text": "Leonid! Tell my students to do as they wish. A greater destiny awaits me now!",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "HRE04-T160-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Rivendare! You will answer for your crimes with your death!",
+      "metadata": {
+        "string_id": 1046,
+        "speaker_string_id": 1047,
+        "dialogue_id": "HRE04-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Death? What do you know of death?",
+      "metadata": {
+        "string_id": 1054,
+        "speaker_string_id": 1055,
+        "dialogue_id": "HRE04-M030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "I have seen and wielded its true power! The Lich King has exalted me above foolish weaklings like you!",
+      "metadata": {
+        "string_id": 1056,
+        "speaker_string_id": 1057,
+        "dialogue_id": "HRE04-M030-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Now I will draw the screams out of you, as I did with your pathetic captain!",
+      "metadata": {
+        "string_id": 1058,
+        "speaker_string_id": 1059,
+        "dialogue_id": "HRE04-M030-040-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "You don't deserve to speak his name! Die like the vermin you are! For Landen!",
+      "metadata": {
+        "string_id": 1052,
+        "speaker_string_id": 1053,
+        "dialogue_id": "HRE04-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Crates of grain, infected with the plague. This is how Rivendare \ndoomed his people.",
+      "metadata": {
+        "string_id": 1233,
+        "speaker_string_id": 1234,
+        "dialogue_id": "HRE04-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The gate is locked. We’ll have to wait for Ilastar to open it.",
+      "metadata": {
+        "string_id": 1235,
+        "speaker_string_id": 1236,
+        "dialogue_id": "HRE04-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "The way is open. I will remain up here and scout ahead.",
+      "metadata": {
+        "string_id": 1340,
+        "speaker_string_id": 1341,
+        "dialogue_id": "HRE04-T040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Mortar Team",
+      "text": "Are you... alive? Thank the Light! We’ve been surrounded by the Scourge for weeks!",
+      "metadata": {
+        "string_id": 1216,
+        "speaker_string_id": 1217,
+        "dialogue_id": "HRE04-T050-MORTARTEAM"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Focus on the Crypt, before it makes short work of us!",
+      "metadata": {
+        "string_id": 1107,
+        "speaker_string_id": 1176,
+        "dialogue_id": "HRE04-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastar, how do you fare?",
+      "metadata": {
+        "string_id": 1467,
+        "speaker_string_id": 1451,
+        "dialogue_id": "HRE04-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Well enough. I will heal you as best as I can from up here.",
+      "metadata": {
+        "string_id": 1469,
+        "speaker_string_id": 1470,
+        "dialogue_id": "HRE04-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Alonsus Chapel. What sacrilege have the cult inflicted upon it?",
+      "metadata": {
+        "string_id": 1329,
+        "speaker_string_id": 1330,
+        "dialogue_id": "HRE04-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "I can’t face them alone. Garek’s mortar teams can help from afar.",
+      "metadata": {
+        "string_id": 1109,
+        "speaker_string_id": 1177,
+        "dialogue_id": "HRE04-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Rifleman",
+      "text": "Reinforcements! I told ye we just had to hang on a little longer!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "HRE04-T090-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The gate’s still closed. There must be a second lever.",
+      "metadata": {
+        "string_id": 1113,
+        "speaker_string_id": 1178,
+        "dialogue_id": "HRE04-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "The gate remains shut. There must be another lever.",
+      "metadata": {
+        "string_id": 1249,
+        "speaker_string_id": 1250,
+        "dialogue_id": "HRE04-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The gates are open! Frostwhisper will taste our steel!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The gates are open! Frostwhisper will taste our steel!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Citizen",
+      "text": "You've saved my life! I need to get out of here!",
+      "metadata": {
+        "string_id": 1471,
+        "speaker_string_id": 1452,
+        "dialogue_id": "HRE04-T240-CIVILIANM"
+      }
+    },
+    {
+      "speaker": "Citizen",
+      "text": "Thank you, kind sir! I thought I would die in there, or worse!",
+      "metadata": {
+        "string_id": 1472,
+        "speaker_string_id": 1453,
+        "dialogue_id": "HRE04-T270-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Citizen",
+      "text": "Can it be? Is the nightmare over? I can't thank you enough!",
+      "metadata": {
+        "string_id": 1473,
+        "speaker_string_id": 1454,
+        "dialogue_id": "HRE04-T290-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "The streets are infested with the undead. Best avoid them if we can.",
+      "metadata": {
+        "string_id": 1251,
+        "speaker_string_id": 1252,
+        "dialogue_id": "HRE04-T430-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Here they come! Be ready to fight!",
+      "metadata": {
+        "string_id": 1117,
+        "speaker_string_id": 1181,
+        "dialogue_id": "HRE04-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The gate’s locked. We won’t get through without a key.",
+      "metadata": {
+        "string_id": 1119,
+        "speaker_string_id": 1182,
+        "dialogue_id": "HRE04-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "The road to Crusader’s Square is open. Rivendare can’t hide forever.",
+      "metadata": {
+        "string_id": 1121,
+        "speaker_string_id": 1183,
+        "dialogue_id": "HRE04-T460-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "It was a demon! Wings and horns and cloven feet!",
+      "metadata": {
+        "string_id": 1474,
+        "speaker_string_id": 1455,
+        "dialogue_id": "HRE04-T470-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Stratholme was one of the greatest cities in Lordaeron. Then Rivendare sacrificed it to the undead!",
+      "metadata": {
+        "string_id": 1122,
+        "speaker_string_id": 1184,
+        "dialogue_id": "HRE04-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "He is but one of many to sell his soul to the Scourge. They will all burn in holy fire.",
+      "metadata": {
+        "string_id": 1124,
+        "speaker_string_id": 1185,
+        "dialogue_id": "HRE04-T510-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Damn, our forces have been split. We need to find the lever that opens the gate.",
+      "metadata": {
+        "string_id": 1125,
+        "speaker_string_id": 1186,
+        "dialogue_id": "HRE04-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Let's regroup and press forward.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1187,
+        "dialogue_id": "HRE04-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Knight",
+      "text": "More survivors! Hold the line!",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "HRE04-T520-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Citizen",
+      "text": "We're trapped! Please, help us!",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1456,
+        "dialogue_id": "HRE04-T550-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Citizen",
+      "text": "Death to Lordaeron!",
+      "metadata": {
+        "string_id": 1476,
+        "speaker_string_id": 1457,
+        "dialogue_id": "HRE04-T560-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Such is the fate of all cultists.",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1458,
+        "dialogue_id": "HRE04-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Here is the profane tower where Rivendare holds court.",
+      "metadata": {
+        "string_id": 1130,
+        "speaker_string_id": 1188,
+        "dialogue_id": "HRE04-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I’ll throw him from the parapets once I’ve cut him down.",
+      "metadata": {
+        "string_id": 1131,
+        "speaker_string_id": 1189,
+        "dialogue_id": "HRE04-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Garek, there could still be survivors throughout the city.",
+      "metadata": {
+        "string_id": 1132,
+        "speaker_string_id": 1190,
+        "dialogue_id": "HRE04-T620-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Our soldiers can keep searching for civilians in need of rescue.",
+      "metadata": {
+        "string_id": 1134,
+        "speaker_string_id": 1191,
+        "dialogue_id": "HRE04-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "We’ll regroup in Hearthglen when the deed is done. Now, let’s bring Rivendare to justice.",
+      "metadata": {
+        "string_id": 1136,
+        "speaker_string_id": 1208,
+        "dialogue_id": "HRE04-T640-GAREK"
+      }
+    },
+    {
+      "speaker": "Footman",
+      "text": "For Lordaeron!",
+      "metadata": {
+        "string_id": 1478,
+        "speaker_string_id": 1459,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Footman",
+      "text": "To arms!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Sorceress",
+      "text": "Now victory shall be ours!",
+      "metadata": {
+        "string_id": 1259,
+        "speaker_string_id": 1260,
+        "dialogue_id": "SorceressYesAttack2"
+      }
+    },
+    {
+      "speaker": "Footman",
+      "text": "It's only a flesh wound...",
+      "metadata": {
+        "string_id": 1139,
+        "speaker_string_id": 1140,
+        "dialogue_id": "FootmanPissed4"
+      }
+    },
+    {
+      "speaker": "Priest",
+      "text": "I come to cleanse this land.",
+      "metadata": {
+        "string_id": 1142,
+        "speaker_string_id": 1143,
+        "dialogue_id": "PriestReady1"
+      }
+    },
+    {
+      "speaker": "Rifleman",
+      "text": "Locked and loaded!",
+      "metadata": {
+        "string_id": 1144,
+        "speaker_string_id": 1145,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Mortar Team",
+      "text": "Let's get to fightin'!",
+      "metadata": {
+        "string_id": 1146,
+        "speaker_string_id": 1147,
+        "dialogue_id": "MortarTeamWhat1"
+      }
+    },
+    {
+      "speaker": "Ras Frostwhisper",
+      "text": "Ah, back for more, are you? This time I will flay you alive!",
+      "metadata": {
+        "string_id": 1265,
+        "speaker_string_id": 1266,
+        "dialogue_id": "HRE04-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostwhisper",
+      "text": "You cannot kill me so easily, mortals. We will meet again.",
+      "metadata": {
+        "string_id": 1269,
+        "speaker_string_id": 1270,
+        "dialogue_id": "HRE04-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Forget about him. Our true target is Rivendare.",
+      "metadata": {
+        "string_id": 1153,
+        "speaker_string_id": 1209,
+        "dialogue_id": "HRE04-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Lorthiras",
+      "text": "Your suffering will be exquisite.",
+      "metadata": {
+        "string_id": 1305,
+        "speaker_string_id": 1306,
+        "dialogue_id": "HRE04-T480-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Lorthiras",
+      "text": "This is not the end, little mortals.",
+      "metadata": {
+        "string_id": 1307,
+        "speaker_string_id": 1308,
+        "dialogue_id": "HRE04-T490-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Grimthane",
+      "text": "Your bones will serve the Scourge.",
+      "metadata": {
+        "string_id": 1297,
+        "speaker_string_id": 1298,
+        "dialogue_id": "HRE04-T580-GRIMTHANE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Now your bones can join the rest.",
+      "metadata": {
+        "string_id": 1303,
+        "speaker_string_id": 1304,
+        "dialogue_id": "HRE04-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "You will all serve me!",
+      "metadata": {
+        "string_id": 1295,
+        "speaker_string_id": 1296,
+        "dialogue_id": "HRE04-T650-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "The Scourge's numbers are endless! You will drown in your own blood!",
+      "metadata": {
+        "string_id": 1479,
+        "speaker_string_id": 1460,
+        "dialogue_id": "HRE04-T660-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "What... is this? It's in my lungs...",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1461,
+        "dialogue_id": "HRE04-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Plague spores... we... we're infected...",
+      "metadata": {
+        "string_id": 1481,
+        "speaker_string_id": 1462,
+        "dialogue_id": "HRE04-T680-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Annoying pests! Witness true power!",
+      "metadata": {
+        "string_id": 1482,
+        "speaker_string_id": 1463,
+        "dialogue_id": "HRE04-T690-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastar, the obelisks! Destroy them!",
+      "metadata": {
+        "string_id": 1483,
+        "speaker_string_id": 1464,
+        "dialogue_id": "HRE04-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "I... can't...",
+      "metadata": {
+        "string_id": 1484,
+        "speaker_string_id": 1465,
+        "dialogue_id": "HRE04-T710-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hold on, Ilastar!",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1466,
+        "dialogue_id": "HRE04-T720-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "By the Light! The spores from those mushrooms are spreading the plague. They cannot be allowed to grow!",
+      "metadata": {
+        "string_id": 1163,
+        "speaker_string_id": 1211,
+        "dialogue_id": "HRE04-T070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Let these vile spores choke on the ashes of this ruined city.",
+      "metadata": {
+        "string_id": 1164,
+        "speaker_string_id": 1212,
+        "dialogue_id": "HRE04-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "It looks like some tried to flee Stratholme by sea. The cult must have sunk their ship.",
+      "metadata": {
+        "string_id": 1165,
+        "speaker_string_id": 1213,
+        "dialogue_id": "HRE04-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "We should recover their supplies. They can aid the war effort.",
+      "metadata": {
+        "string_id": 1166,
+        "speaker_string_id": 1214,
+        "dialogue_id": "HRE04-T410-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Those should be enough supplies. Time to get back to land.",
+      "metadata": {
+        "string_id": 1167,
+        "speaker_string_id": 1215,
+        "dialogue_id": "HRE04-T420-GAREK"
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "map": "UndeadRE02",
+  "title": "Dawns Watch",
+  "locale": "esMX",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Soldado",
+      "text": "¡Listo para la acción!",
+      "metadata": {
+        "string_id": 912,
+        "speaker_string_id": 911,
+        "dialogue_id": "FootmanReady1"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "Soy tu sirviente.",
+      "metadata": {
+        "string_id": 913,
+        "speaker_string_id": 914,
+        "dialogue_id": "PriestYes1"
+      }
+    },
+    {
+      "speaker": "Soldado",
+      "text": "Solo da la orden.",
+      "metadata": {
+        "string_id": 915,
+        "speaker_string_id": 916,
+        "dialogue_id": "FootmanWhat4"
+      }
+    },
+    {
+      "speaker": "Fusilero",
+      "text": "¡Arma cargada!",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Lord Tyrosus",
+      "text": "¡La Plaga nos encontró! ¡Alba Argenta, a las armas!",
+      "metadata": {
+        "string_id": 411,
+        "speaker_string_id": 412,
+        "dialogue_id": "A2M4-C010-010-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¡Sabía que esto pasaría!",
+      "metadata": {
+        "string_id": 852,
+        "speaker_string_id": 851,
+        "dialogue_id": "A2M4-C010-011-ANYA"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "¡Lord Tyrosus! Estos Renegados están bajo mi protección.",
+      "metadata": {
+        "string_id": 854,
+        "speaker_string_id": 853,
+        "dialogue_id": "A2M4-C010-012-LEONID"
+      }
+    },
+    {
+      "speaker": "Lord Tyrosus",
+      "text": "¡Leonid, gracias a la Luz que regresaste! Pero estos no-muertos...",
+      "metadata": {
+        "string_id": 856,
+        "speaker_string_id": 855,
+        "dialogue_id": "A2M4-C010-013-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Son iguales que yo. Y la Cruzada Escarlata los está atacando.",
+      "metadata": {
+        "string_id": 858,
+        "speaker_string_id": 857,
+        "dialogue_id": "A2M4-C010-014-LEONID"
+      }
+    },
+    {
+      "speaker": "Lord Tyrosus",
+      "text": "Debemos detener a esos fanáticos.",
+      "metadata": {
+        "string_id": 505,
+        "speaker_string_id": 506,
+        "dialogue_id": "A2M4-C010-020-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¿De verdad esperas que creamos que son muy diferentes a ustedes?",
+      "metadata": {
+        "string_id": 395,
+        "speaker_string_id": 396,
+        "dialogue_id": "A2M4-C010-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Lord Tyrosus",
+      "text": "En el pasado, todos fuimos Caballeros de la Mano de Plata, pero algunos buscaban venganza por lo de Lordaeron y fundaron la Cruzada Escarlata.",
+      "metadata": {
+        "string_id": 509,
+        "speaker_string_id": 510,
+        "dialogue_id": "A2M4-C010-040-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Lord Tyrosus",
+      "text": "Quienes permanecimos fieles a las enseñanzas de la Luz formamos el Alba Argenta.",
+      "metadata": {
+        "string_id": 513,
+        "speaker_string_id": 514,
+        "dialogue_id": "A2M4-C010-050-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Lord Tyrosus",
+      "text": "Pero somos pocos. La Cruzada engorda sus filas en el monasterio, así que poco podemos hacer contra ellos en el campo de batalla.",
+      "metadata": {
+        "string_id": 515,
+        "speaker_string_id": 516,
+        "dialogue_id": "A2M4-C010-060-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¿Podrías llevarnos hasta ese... monasterio?",
+      "metadata": {
+        "string_id": 460,
+        "speaker_string_id": 461,
+        "dialogue_id": "A2M4-C010-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Les faltan soldados para asediar la fortaleza de la Cruzada, pero a los Renegados no.",
+      "metadata": {
+        "string_id": 469,
+        "speaker_string_id": 470,
+        "dialogue_id": "A2M4-C010-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¿Pretendes que nos involucremos en su guerra?",
+      "metadata": {
+        "string_id": 478,
+        "speaker_string_id": 479,
+        "dialogue_id": "A2M4-C010-090-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "También es nuestra guerra. La Cruzada Escarlata seguro volverá a atacar la Ciudad Subterránea.",
+      "metadata": {
+        "string_id": 860,
+        "speaker_string_id": 859,
+        "dialogue_id": "A2M4-C010-091-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Los llevaré hasta ellos. Dudo que Lady Sylvanas confíe en nadie más del Alba Argenta.",
+      "metadata": {
+        "string_id": 487,
+        "speaker_string_id": 488,
+        "dialogue_id": "A2M4-C010-100-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Tendrán suerte si confía en ustedes.",
+      "metadata": {
+        "string_id": 496,
+        "speaker_string_id": 497,
+        "dialogue_id": "A2M4-C010-110-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Pues no se hable más. Que la Luz guíe nuestro camino.",
+      "metadata": {
+        "string_id": 501,
+        "speaker_string_id": 502,
+        "dialogue_id": "A2M4-C010-120-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "El Alba Argenta tuvo que guarecerse en territorio de ogros. Deberemos luchar para llegar a la cima.",
+      "metadata": {
+        "string_id": 154,
+        "speaker_string_id": 155,
+        "dialogue_id": "A2M4-T010-LEONID"
+      }
+    },
+    {
+      "speaker": "Soldado",
+      "text": "¡Leonid! ¡Los ogros capturaron nuestras patrullas! ¡Están atacando el fuerte!",
+      "metadata": {
+        "string_id": 126,
+        "speaker_string_id": 127,
+        "dialogue_id": "A2M4-T020-ARGENTDAWNCAPTIVE"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "¡¿Qué?! ¡No hay tiempo que perder! ¡Debemos rescatarlos y detener el asedio!",
+      "metadata": {
+        "string_id": 146,
+        "speaker_string_id": 147,
+        "dialogue_id": "A2M4-T030-LEONID"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "¡Gracias a la Luz, llegamos a tiempo! ¡Las puertas del fuerte aún no cayeron!",
+      "metadata": {
+        "string_id": 258,
+        "speaker_string_id": 259,
+        "dialogue_id": "A2M4-T060-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "No sé cuánto más podrán resistir. ¡Terminemos con este asedio!",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "A2M4-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Detuvimos el asedio, así que los ogros se dispersarán por las colinas. Vamos hacia el fuerte.",
+      "metadata": {
+        "string_id": 252,
+        "speaker_string_id": 253,
+        "dialogue_id": "A2M4-T080-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Es hora de informar a Lady Sylvanas lo que averiguamos.",
+      "metadata": {
+        "string_id": 833,
+        "speaker_string_id": 834,
+        "dialogue_id": "A2M4-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "No esperes una cálida bienvenida, Leonid. No todos los Renegados perdonan con tanta facilidad como yo.",
+      "metadata": {
+        "string_id": 835,
+        "speaker_string_id": 836,
+        "dialogue_id": "A2M4-T100-ANYA"
+      }
+    }
+  ]
+}

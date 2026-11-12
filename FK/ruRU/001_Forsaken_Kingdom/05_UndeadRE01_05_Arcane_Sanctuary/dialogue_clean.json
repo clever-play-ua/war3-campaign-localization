@@ -1,0 +1,116 @@
+{
+  "map": "UndeadRE01",
+  "title": "Arcane Sanctuary",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Гарек",
+      "text": "Что это за место?",
+      "metadata": {
+        "string_id": 1143,
+        "speaker_string_id": 1144,
+        "dialogue_id": "A1M5-C010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Карманное измерение, созданное магом, чтобы хранить свой хлам.",
+      "metadata": {
+        "string_id": 1152,
+        "speaker_string_id": 1153,
+        "dialogue_id": "A1M5-C010-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как и ожидалось, в нем полно конструктов-стражей. Не удивлюсь, если тут еще и ловушек куча.",
+      "metadata": {
+        "string_id": 1161,
+        "speaker_string_id": 1162,
+        "dialogue_id": "A1M5-C010-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Воспользуемся порталами, чтобы перемещаться по этим залам. Надеюсь, в конце нас ждет что-то стоящее.",
+      "metadata": {
+        "string_id": 1169,
+        "speaker_string_id": 1170,
+        "dialogue_id": "A1M5-C010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Эта штука явно подойдет для портала. Видимо, это и есть источник энергии, который нам нужен.",
+      "metadata": {
+        "string_id": 873,
+        "speaker_string_id": 874,
+        "dialogue_id": "A1M5-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Портал неактивен. Надо бы поискать какой-нибудь источник энергии.",
+      "metadata": {
+        "string_id": 848,
+        "speaker_string_id": 849,
+        "dialogue_id": "A1M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Проклятые маги и их дурацкие уловки. Нам придется вернуться.",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A1M5-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Этот луч наверняка активирует следующий портал. Надо только сдвинуть препятствие с его пути.",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A1M5-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Это была иллюзия! Настоящий артефакт, должно быть, спрятан где-то в хранилище.",
+      "metadata": {
+        "string_id": 992,
+        "speaker_string_id": 993,
+        "dialogue_id": "A1M5-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Продолжим поиски.",
+      "metadata": {
+        "string_id": 994,
+        "speaker_string_id": 995,
+        "dialogue_id": "A1M5-T060-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кажется, это настоящий артефакт.",
+      "metadata": {
+        "string_id": 998,
+        "speaker_string_id": 999,
+        "dialogue_id": "A1M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Наконец-то. Осталось только отнести эту проклятую штуку Лексингтону.",
+      "metadata": {
+        "string_id": 1006,
+        "speaker_string_id": 1007,
+        "dialogue_id": "A1M5-T080-ANYA"
+      }
+    }
+  ]
+}

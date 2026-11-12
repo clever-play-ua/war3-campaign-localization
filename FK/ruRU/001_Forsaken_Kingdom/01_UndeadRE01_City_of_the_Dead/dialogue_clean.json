@@ -1,0 +1,1592 @@
+{
+  "map": "UndeadRE01",
+  "title": "City of the Dead",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Сильвана",
+      "text": "Мы, отрекшиеся, только начали искать свое место в мире, который презирает нас за то, что мы вообще есть.",
+      "metadata": {
+        "string_id": 3825,
+        "speaker_string_id": 3826,
+        "dialogue_id": "A1M1-C020-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "У нас нет дома, так что придется построить его самим. И мы сделаем это сообща.",
+      "metadata": {
+        "string_id": 3834,
+        "speaker_string_id": 3835,
+        "dialogue_id": "A1M1-C020-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "С этого дня я буду полагаться на твою силу, Гарек Бандарион. Как и все жители Подгорода.",
+      "metadata": {
+        "string_id": 3843,
+        "speaker_string_id": 3844,
+        "dialogue_id": "A1M1-C020-060-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Ты готов им служить? Служить отрекшимся?",
+      "metadata": {
+        "string_id": 3852,
+        "speaker_string_id": 3853,
+        "dialogue_id": "A1M1-C020-070-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Я... Да. Готов, госпожа Сильвана.",
+      "metadata": {
+        "string_id": 4234,
+        "speaker_string_id": 4235,
+        "dialogue_id": "A1M1-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Тогда я на тебя рассчитываю.",
+      "metadata": {
+        "string_id": 3870,
+        "speaker_string_id": 3871,
+        "dialogue_id": "A1M1-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Обучи его всему, Ания. Нам еще многое предстоит сделать.",
+      "metadata": {
+        "string_id": 3879,
+        "speaker_string_id": 3880,
+        "dialogue_id": "A1M1-C020-100-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "О, вернулся. Надеюсь, за тот раз не обижаешься?",
+      "metadata": {
+        "string_id": 4310,
+        "speaker_string_id": 4311,
+        "dialogue_id": "A1M1-C030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ничуть.",
+      "metadata": {
+        "string_id": 3942,
+        "speaker_string_id": 3943,
+        "dialogue_id": "A1M1-C030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Так что тебе надо, Гнилесс?",
+      "metadata": {
+        "string_id": 4476,
+        "speaker_string_id": 4477,
+        "dialogue_id": "A1M1-C030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Мне нужна помощь с парочкой поручений для моего исследования. Если вас не затруднит.",
+      "metadata": {
+        "string_id": 3951,
+        "speaker_string_id": 3952,
+        "dialogue_id": "A1M1-C030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Темная Госпожа попросила тебе помогать, что мы и будем делать. Идем, Гарек.",
+      "metadata": {
+        "string_id": 3960,
+        "speaker_string_id": 3961,
+        "dialogue_id": "A1M1-C030-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "О, это ты! Спасибо, что спас меня от Плети.",
+      "metadata": {
+        "string_id": 4091,
+        "speaker_string_id": 4092,
+        "dialogue_id": "A1M1-C040-010-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Как видите, госпожа Сильвана уже нашла мне занятие. При жизни я был каменщиком, и теперь мои навыки пригодятся для строительства нашего города.",
+      "metadata": {
+        "string_id": 3986,
+        "speaker_string_id": 3987,
+        "dialogue_id": "A1M1-C040-020-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Но без камня из расположенной рядом каменоломни я ничего не смогу сделать. А она кишит ограми.",
+      "metadata": {
+        "string_id": 3997,
+        "speaker_string_id": 3998,
+        "dialogue_id": "A1M1-C040-030-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Значит, нам надо их оттуда выкурить? Не переживай, мы расправимся с ограми, и у тебя будет полно камня.",
+      "metadata": {
+        "string_id": 4006,
+        "speaker_string_id": 4007,
+        "dialogue_id": "A1M1-C040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Поганище",
+      "text": "Рвать! Кромсать!",
+      "metadata": {
+        "string_id": 4570,
+        "speaker_string_id": 4571,
+        "dialogue_id": "AbominationYes3"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Я разберусь!",
+      "metadata": {
+        "string_id": 4026,
+        "speaker_string_id": 4027,
+        "dialogue_id": "A1M1-C060-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кто... Кто ты?",
+      "metadata": {
+        "string_id": 4035,
+        "speaker_string_id": 4036,
+        "dialogue_id": "A1M1-C060-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Это повелитель ужаса Вариматрас. Он покинул ряды Плети и стал слугой Темной Госпожи.",
+      "metadata": {
+        "string_id": 4044,
+        "speaker_string_id": 4045,
+        "dialogue_id": "A1M1-C060-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ты как раз вовремя. Где пропадал?",
+      "metadata": {
+        "string_id": 4053,
+        "speaker_string_id": 4054,
+        "dialogue_id": "A1M1-C060-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Расследовал это вторжение. И выяснил, что Плеть роет тоннели в старых катакомбах.",
+      "metadata": {
+        "string_id": 4062,
+        "speaker_string_id": 4063,
+        "dialogue_id": "A1M1-C060-060-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Здесь вы сражались всего лишь с отрядом лазутчиков. Приказываю вам уничтожить их основные силы.",
+      "metadata": {
+        "string_id": 4071,
+        "speaker_string_id": 4072,
+        "dialogue_id": "A1M1-C060-070-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вдвоем это будет не так-то легко.",
+      "metadata": {
+        "string_id": 4080,
+        "speaker_string_id": 4081,
+        "dialogue_id": "A1M1-C060-080-ANYA"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Тогда найдите больше бойцов и организуйте городскую стражу. И пошевеливайтесь. В отличие от госпожи Сильваны, я терпением не отличаюсь.",
+      "metadata": {
+        "string_id": 4089,
+        "speaker_string_id": 4090,
+        "dialogue_id": "A1M1-C060-090-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Их главный говорил о соборе. Видимо, речь о том, что находится посреди руин города. Наверное, там они разбили лагерь.",
+      "metadata": {
+        "string_id": 4100,
+        "speaker_string_id": 4101,
+        "dialogue_id": "A1M1-C070-010-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы пройдем по этим тоннелям, проберемся в собор и убьем всех, кого там найдем.",
+      "metadata": {
+        "string_id": 4109,
+        "speaker_string_id": 4110,
+        "dialogue_id": "A1M1-C070-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Этот жрец, который был с солдатами... Кажется, он понимает, что отрекшиеся отличаются от обычной нежити.",
+      "metadata": {
+        "string_id": 4118,
+        "speaker_string_id": 4119,
+        "dialogue_id": "A1M1-C070-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Если встретим его в соборе, может, попробуем с ним поговорить?",
+      "metadata": {
+        "string_id": 4127,
+        "speaker_string_id": 4128,
+        "dialogue_id": "A1M1-C070-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ни в коем случае. Живым верить нельзя, Гарек. Они наши враги.",
+      "metadata": {
+        "string_id": 4136,
+        "speaker_string_id": 4137,
+        "dialogue_id": "A1M1-C070-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ну, как скажешь, Ания.",
+      "metadata": {
+        "string_id": 4149,
+        "speaker_string_id": 4150,
+        "dialogue_id": "A1M1-C070-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Гнилесс поручил Чанну создать еще одно поганище. Вот только для этого понадобится новая партия материалов.",
+      "metadata": {
+        "string_id": 4158,
+        "speaker_string_id": 4159,
+        "dialogue_id": "A1M1-M010-010-KEEVER"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Части тел, которые Чанн намеревался использовать, внезапно пробудились и теперь передвигаются сами по себе.",
+      "metadata": {
+        "string_id": 4167,
+        "speaker_string_id": 4168,
+        "dialogue_id": "A1M1-M010-020-KEEVER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Прошу прощения за доставленные неудобства.",
+      "metadata": {
+        "string_id": 4178,
+        "speaker_string_id": 4179,
+        "dialogue_id": "A1M1-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "В общем, Чанн тут подготовил списочек. Можете собрать все, что нужно?",
+      "metadata": {
+        "string_id": 4187,
+        "speaker_string_id": 4188,
+        "dialogue_id": "A1M1-M010-040-KEEVER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Это меньшее, что я могу сделать. Давай сюда свой список.",
+      "metadata": {
+        "string_id": 4196,
+        "speaker_string_id": 4197,
+        "dialogue_id": "A1M1-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Ания, Гарек, благодаря вашим усилиям в Подгороде появилось еще больше Отрекшихся. А значит, наши шансы на выживание увеличились.",
+      "metadata": {
+        "string_id": 4205,
+        "speaker_string_id": 4206,
+        "dialogue_id": "A1M1-M020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Однако теперь мы также стали более заметной мишенью для тех, кто жаждет нас уничтожить. Недавно в городских каналах заметили чужаков.",
+      "metadata": {
+        "string_id": 4214,
+        "speaker_string_id": 4215,
+        "dialogue_id": "A1M1-M020-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Я поручаю вам заразить воду в каналах чумой. Она не причинит вреда отрекшимся, а вот живые будут остерегаться заходить на нашу территорию.",
+      "metadata": {
+        "string_id": 4223,
+        "speaker_string_id": 4224,
+        "dialogue_id": "A1M1-M020-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Будет исполнено, Темная Госпожа.",
+      "metadata": {
+        "string_id": 4232,
+        "speaker_string_id": 4233,
+        "dialogue_id": "A1M1-M020-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Эдрик",
+      "text": "Эй! Кто здесь? Без глаза я ничего не вижу!",
+      "metadata": {
+        "string_id": 4243,
+        "speaker_string_id": 4244,
+        "dialogue_id": "A1M1-M030-010-EDRIC"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Эдрик? Что ты здесь делаешь?",
+      "metadata": {
+        "string_id": 4252,
+        "speaker_string_id": 4253,
+        "dialogue_id": "A1M1-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Эдрик",
+      "text": "Ания, это ты? Я потерял свой зрячий глаз и теперь не могу выбраться из стоков!",
+      "metadata": {
+        "string_id": 4261,
+        "speaker_string_id": 4262,
+        "dialogue_id": "A1M1-M030-030-EDRIC"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ну, сам ты его вряд ли найдешь. Побудь пока тут.",
+      "metadata": {
+        "string_id": 4270,
+        "speaker_string_id": 4271,
+        "dialogue_id": "A1M1-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Хм-м. Как думаешь, могут ли вурдалаки мыслить, несмотря на повреждение мозга?",
+      "metadata": {
+        "string_id": 4281,
+        "speaker_string_id": 4282,
+        "dialogue_id": "A1M1-M040-010-KEEVER"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Опять ты за свое, Чанн. Вурдалаки – глупые твари, движимые лишь голодом.",
+      "metadata": {
+        "string_id": 4290,
+        "speaker_string_id": 4291,
+        "dialogue_id": "A1M1-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Распространенное предположение. Которое Чанну предстоит доказать или опровергнуть.",
+      "metadata": {
+        "string_id": 4299,
+        "speaker_string_id": 4300,
+        "dialogue_id": "A1M1-M040-030-KEEVER"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Ходит молва, что поблизости видели вурдалаков, которые необычно себя вели. Приведите их Чанну для изучения.",
+      "metadata": {
+        "string_id": 4308,
+        "speaker_string_id": 4309,
+        "dialogue_id": "A1M1-M040-040-KEEVER"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Ания, Гарек, мне бы очень пригодилась ваша помощь.",
+      "metadata": {
+        "string_id": 4315,
+        "speaker_string_id": 4316,
+        "dialogue_id": "A1M1-M050-010-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Видите ли, недавно я обнаружил, что среди руин столицы скрыт вход в таинственное хранилище.",
+      "metadata": {
+        "string_id": 4331,
+        "speaker_string_id": 4332,
+        "dialogue_id": "A1M1-M050-020-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Полагаю, в нем может храниться могущественный артефакт, некогда использовавшийся королевскими магами Менетилов.",
+      "metadata": {
+        "string_id": 4341,
+        "speaker_string_id": 4342,
+        "dialogue_id": "A1M1-M050-030-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Сам-то я не рискну даже в руины сунуться, что уж там о хранилище говорить. Вот если бы вы сходили туда вместо меня...",
+      "metadata": {
+        "string_id": 4351,
+        "speaker_string_id": 4352,
+        "dialogue_id": "A1M1-M050-040-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ладно, сходим. Но если окажется, что это пустая трата времени, ты с нами век не расплатишься.",
+      "metadata": {
+        "string_id": 4356,
+        "speaker_string_id": 4574,
+        "dialogue_id": "A1M1-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Работник",
+      "text": "Молю, пощадите! Я всего лишь каменщик! Я не слуга Плети!",
+      "metadata": {
+        "string_id": 4367,
+        "speaker_string_id": 4368,
+        "dialogue_id": "A1M1-M060-010-LABORER"
+      }
+    },
+    {
+      "speaker": "Брат Дамиан",
+      "text": "Ты... разговариваешь? И сохранил разум...",
+      "metadata": {
+        "string_id": 4400,
+        "speaker_string_id": 4401,
+        "dialogue_id": "A1M1-M060-020-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Брат Дамиан",
+      "text": "Лорд Фрэнсис, мы должны доставить этого человека к генералу Аббендису. Если часть нежити действительно отделилась от Плети...",
+      "metadata": {
+        "string_id": 4387,
+        "speaker_string_id": 4388,
+        "dialogue_id": "A1M1-M060-030-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Лорд Фрэнсис",
+      "text": "У нас есть приказ генерала Аббендиса. Всю нежить необходимо уничтожить.",
+      "metadata": {
+        "string_id": 4390,
+        "speaker_string_id": 4391,
+        "dialogue_id": "A1M1-M060-040-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Брат Дамиан",
+      "text": "Стой! Что ты делаешь?!",
+      "metadata": {
+        "string_id": 4411,
+        "speaker_string_id": 4412,
+        "dialogue_id": "A1M1-M060-050-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Лорд Фрэнсис",
+      "text": "Свершаю возмездие во имя Лордерона, брат Дамиан. А теперь сожги труп.",
+      "metadata": {
+        "string_id": 4422,
+        "speaker_string_id": 4423,
+        "dialogue_id": "A1M1-M060-060-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Брат Дамиан",
+      "text": "О Свет... Но если кого-то из нежити еще можно спасти...",
+      "metadata": {
+        "string_id": 4431,
+        "speaker_string_id": 4432,
+        "dialogue_id": "A1M1-M060-070-DAMIEN"
+      }
+    },
+    {
+      "speaker": "Лорд Фрэнсис",
+      "text": "Они все чудовища, которых нужно истребить. И теперь мы нашли вход в их гнусное логово.",
+      "metadata": {
+        "string_id": 4434,
+        "speaker_string_id": 4435,
+        "dialogue_id": "A1M1-M060-080-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Лорд Фрэнсис",
+      "text": "Идем, Дамиан. Нужно подготовиться к битве.",
+      "metadata": {
+        "string_id": 4572,
+        "speaker_string_id": 4573,
+        "dialogue_id": "A1M1-M060-090-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Гарек! Ания! Есть минутка?",
+      "metadata": {
+        "string_id": 4449,
+        "speaker_string_id": 4450,
+        "dialogue_id": "A1M1-M070-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Да не особо...",
+      "metadata": {
+        "string_id": 4460,
+        "speaker_string_id": 4461,
+        "dialogue_id": "A1M1-M070-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Отлично! Мне бы помощь не помешала.",
+      "metadata": {
+        "string_id": 4472,
+        "speaker_string_id": 4473,
+        "dialogue_id": "A1M1-M070-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Механико-инженерная гильдия Азерота организовала гоночную лигу, но мой гонщик только что себя подорвал!",
+      "metadata": {
+        "string_id": 4484,
+        "speaker_string_id": 4485,
+        "dialogue_id": "A1M1-M070-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Гоночная лига?",
+      "metadata": {
+        "string_id": 4493,
+        "speaker_string_id": 4494,
+        "dialogue_id": "A1M1-M070-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Лучшие гонщики соревнуются за первое место. Мне кажется, ты вполне можешь победить! Я даже тебе заплачу!",
+      "metadata": {
+        "string_id": 4503,
+        "speaker_string_id": 4504,
+        "dialogue_id": "A1M1-M070-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ладно, Гликс. Надеюсь, это не займет много времени.",
+      "metadata": {
+        "string_id": 4513,
+        "speaker_string_id": 4514,
+        "dialogue_id": "A1M1-M070-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Ха! В этом деле чем быстрее, тем лучше! Главное, пристегнись.",
+      "metadata": {
+        "string_id": 4577,
+        "speaker_string_id": 4578,
+        "dialogue_id": "A1M1-M070-080-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Гонка состоится в Серебряном бору. Я тебя даже туда подброшу. Совершенно бесплатно!",
+      "metadata": {
+        "string_id": 4667,
+        "speaker_string_id": 4663,
+        "dialogue_id": "A1M1-M070-090-GLIX"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что это за место?",
+      "metadata": {
+        "string_id": 3619,
+        "speaker_string_id": 3620,
+        "dialogue_id": "A1M1-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы называем его Подгородом. Он высечен в стоках и катакомбах под павшей столицей Лордерона.",
+      "metadata": {
+        "string_id": 3627,
+        "speaker_string_id": 3628,
+        "dialogue_id": "A1M1-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "И отвечая на твой предыдущий вопрос, меня зовут Ания. А теперь следуй за мной. Тебе многому предстоит научиться.",
+      "metadata": {
+        "string_id": 2779,
+        "speaker_string_id": 2780,
+        "dialogue_id": "A1M1-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что со мной произошло? Я... умер?",
+      "metadata": {
+        "string_id": 2788,
+        "speaker_string_id": 2789,
+        "dialogue_id": "A1M1-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Отчасти. Ты стал нежитью. Мы – отрекшиеся. Некогда рабы Короля-лича, которых освободила госпожа Сильвана Ветрокрылая.",
+      "metadata": {
+        "string_id": 2791,
+        "speaker_string_id": 2792,
+        "dialogue_id": "A1M1-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Неважно, кем ты был при жизни. Теперь ты один из нас.",
+      "metadata": {
+        "string_id": 2815,
+        "speaker_string_id": 2816,
+        "dialogue_id": "A1M1-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Внимательно рассмотри этот алтарь возрождения. Если погибнешь в битве, он тебе пригодится.",
+      "metadata": {
+        "string_id": 3810,
+        "speaker_string_id": 3811,
+        "dialogue_id": "A1M1-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Славно. Теперь давай проверим твои навыки в бою со стражниками.",
+      "metadata": {
+        "string_id": 2831,
+        "speaker_string_id": 2832,
+        "dialogue_id": "A1M1-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Видишь этот огонь? Пусть он сражается за нас, нам это только на руку.",
+      "metadata": {
+        "string_id": 2834,
+        "speaker_string_id": 2835,
+        "dialogue_id": "A1M1-T150-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Отлично. Похоже, тебе удалось сохранить не только свое имя.",
+      "metadata": {
+        "string_id": 2840,
+        "speaker_string_id": 2841,
+        "dialogue_id": "A1M1-T160-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Идем в Торговый квартал. Там у нас тоже дел невпроворот.",
+      "metadata": {
+        "string_id": 2848,
+        "speaker_string_id": 2849,
+        "dialogue_id": "A1M1-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мои воспоминания... Они когда-нибудь вернутся?",
+      "metadata": {
+        "string_id": 2857,
+        "speaker_string_id": 2858,
+        "dialogue_id": "A1M1-T180-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Кто знает. У каждого отрекшегося пробуждение проходит по-своему.",
+      "metadata": {
+        "string_id": 2866,
+        "speaker_string_id": 2867,
+        "dialogue_id": "A1M1-T190-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "В любом случае свое прошлое ты уже не вернешь, так что привыкай быть нежитью.",
+      "metadata": {
+        "string_id": 2875,
+        "speaker_string_id": 2876,
+        "dialogue_id": "A1M1-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "У Фионы всегда можно купить что-нибудь полезное. Вот тебе немного монет на первое время.",
+      "metadata": {
+        "string_id": 2884,
+        "speaker_string_id": 2885,
+        "dialogue_id": "A1M1-T210-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как закончишь, мне надо будет тебя кое с кем познакомить.",
+      "metadata": {
+        "string_id": 2899,
+        "speaker_string_id": 2900,
+        "dialogue_id": "A1M1-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-стражник",
+      "text": "Посмотрим, чего ты стоишь, новичок.",
+      "metadata": {
+        "string_id": 2909,
+        "speaker_string_id": 2910,
+        "dialogue_id": "A1M1-T090-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-стражник",
+      "text": "Постарайся продержаться подольше.",
+      "metadata": {
+        "string_id": 2919,
+        "speaker_string_id": 2920,
+        "dialogue_id": "A1M1-T100-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-стражник",
+      "text": "Очередной новобранец, Ания? Надеюсь, он крепкий.",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "A1M1-T110-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-стражник",
+      "text": "Мне уже не терпится сразиться!",
+      "metadata": {
+        "string_id": 2927,
+        "speaker_string_id": 2928,
+        "dialogue_id": "A1M1-T120-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-стражник",
+      "text": "Наконец-то свежая кровь, а то эти вурдалаки уже надоели!",
+      "metadata": {
+        "string_id": 2929,
+        "speaker_string_id": 2930,
+        "dialogue_id": "A1M1-T130-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-стражник",
+      "text": "Не раскисай, новичок!",
+      "metadata": {
+        "string_id": 2943,
+        "speaker_string_id": 2944,
+        "dialogue_id": "A1M1-T140-FORSAKENGUARD"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Все больше нежити обретает свободу воли в руинах. Приведите этих новых отрекшихся в Подгород.",
+      "metadata": {
+        "string_id": 2958,
+        "speaker_string_id": 2959,
+        "dialogue_id": "A1M1-T230-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Тут довольно оживленно. Похоже, Сильвана каждому нашла подходящее занятие.",
+      "metadata": {
+        "string_id": 2961,
+        "speaker_string_id": 2962,
+        "dialogue_id": "A1M1-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Чтобы этот город стал нашим домом, каждый из нас должен внести свой вклад.",
+      "metadata": {
+        "string_id": 2969,
+        "speaker_string_id": 2970,
+        "dialogue_id": "A1M1-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Отлично. Подгород кишит новыми отрекшимися.",
+      "metadata": {
+        "string_id": 2981,
+        "speaker_string_id": 2982,
+        "dialogue_id": "A1M1-T260-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "О тебе спрашивал верховный аптекарь Гнилесс. Похоже, молва о твоих умениях быстро расходится.",
+      "metadata": {
+        "string_id": 2984,
+        "speaker_string_id": 2985,
+        "dialogue_id": "A1M1-T270-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кажется, ты не в восторге от Гнилесса.",
+      "metadata": {
+        "string_id": 2993,
+        "speaker_string_id": 2994,
+        "dialogue_id": "A1M1-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Он настоящий гений, тут не поспоришь. Но его манеры оставляют желать лучшего.",
+      "metadata": {
+        "string_id": 3002,
+        "speaker_string_id": 3003,
+        "dialogue_id": "A1M1-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Тем не менее он заслужил доверие Темной Госпожи, так что я стараюсь терпеть его как могу.",
+      "metadata": {
+        "string_id": 3011,
+        "speaker_string_id": 3012,
+        "dialogue_id": "A1M1-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Как раз то, что нужно. Надеюсь, раздобыть эти реагенты было несложно.",
+      "metadata": {
+        "string_id": 3014,
+        "speaker_string_id": 3015,
+        "dialogue_id": "A1M1-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Кстати, спасенному тобой каменщику нужна помощь. Найти его можно возле канала.",
+      "metadata": {
+        "string_id": 3020,
+        "speaker_string_id": 3021,
+        "dialogue_id": "A1M1-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Поставки из каменоломни идут полным ходом! Вы двое потрудились на славу. Вот, возьмите в качестве благодарности.",
+      "metadata": {
+        "string_id": 3168,
+        "speaker_string_id": 3169,
+        "dialogue_id": "A1M1-T480-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Неудобно снова просить об услуге, но часть моих работников не вернулась. Можете их разыскать?",
+      "metadata": {
+        "string_id": 3177,
+        "speaker_string_id": 3178,
+        "dialogue_id": "A1M1-T490-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Разумеется. Отметь каменоломню на нашей карте, и мы проверим, что там.",
+      "metadata": {
+        "string_id": 3192,
+        "speaker_string_id": 3193,
+        "dialogue_id": "A1M1-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ания, смотри! Что это?..",
+      "metadata": {
+        "string_id": 3201,
+        "speaker_string_id": 3202,
+        "dialogue_id": "A1M1-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Фанатик Плети",
+      "text": "Убить этих отрекшихся! Предатели!",
+      "metadata": {
+        "string_id": 3206,
+        "speaker_string_id": 3207,
+        "dialogue_id": "A1M1-T520-SCOURGEFANATIC"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Плеть!",
+      "metadata": {
+        "string_id": 3212,
+        "speaker_string_id": 3213,
+        "dialogue_id": "A1M1-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Фанатик Плети",
+      "text": "Слабые захлебнутся кровью!",
+      "metadata": {
+        "string_id": 3215,
+        "speaker_string_id": 3216,
+        "dialogue_id": "AcolytePissed4"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Со мной снова... что-то странное творится...",
+      "metadata": {
+        "string_id": 3229,
+        "speaker_string_id": 3230,
+        "dialogue_id": "A1M1-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Что такое, Гарек?",
+      "metadata": {
+        "string_id": 3238,
+        "speaker_string_id": 3239,
+        "dialogue_id": "A1M1-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "Некромант",
+      "text": "Умри!",
+      "metadata": {
+        "string_id": 3247,
+        "speaker_string_id": 3248,
+        "dialogue_id": "NecromancerYesAttack1"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Наймите бойцов в лагере наемников. Как будете готовы, атакуйте быстро и без пощады.",
+      "metadata": {
+        "string_id": 3258,
+        "speaker_string_id": 3259,
+        "dialogue_id": "A1M1-T570-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Все эти сражения... в стоках, в городе... Кажется, я начинаю что-то вспоминать...",
+      "metadata": {
+        "string_id": 4665,
+        "speaker_string_id": 4661,
+        "dialogue_id": "A1M1-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Гарек, сейчас не до твоих забытых воспоминаний. У нас есть дела поважнее.",
+      "metadata": {
+        "string_id": 3275,
+        "speaker_string_id": 3276,
+        "dialogue_id": "A1M1-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "Послушник",
+      "text": "Чужаки! Они не должны нарушить планы повелителя!",
+      "metadata": {
+        "string_id": 4666,
+        "speaker_string_id": 4662,
+        "dialogue_id": "A1M1-T590-SCOURGEFANATIC"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Они воскрешают погребенных здесь мертвых, чтобы пополнить свои ряды.",
+      "metadata": {
+        "string_id": 3281,
+        "speaker_string_id": 3282,
+        "dialogue_id": "A1M1-T600-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А отрекшиеся так не могут?",
+      "metadata": {
+        "string_id": 3287,
+        "speaker_string_id": 3288,
+        "dialogue_id": "A1M1-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Нет. Только прислужники Плети на это способны. Нам остается лишь переманивать на свою сторону тех, кто выходит из-под их контроля.",
+      "metadata": {
+        "string_id": 3299,
+        "speaker_string_id": 3300,
+        "dialogue_id": "A1M1-T620-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы попали в ловушку! Это засада!",
+      "metadata": {
+        "string_id": 3308,
+        "speaker_string_id": 3309,
+        "dialogue_id": "A1M1-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Что-то питает этот барьер. Продержись до тех пор, пока это нечто не появится!",
+      "metadata": {
+        "string_id": 3317,
+        "speaker_string_id": 3318,
+        "dialogue_id": "A1M1-T640-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Путь свободен! Вперед!",
+      "metadata": {
+        "string_id": 3320,
+        "speaker_string_id": 3321,
+        "dialogue_id": "A1M1-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Щит этого гвардейца в идеальном состоянии. Должно быть, он очень гордился тем, что был защитником города.",
+      "metadata": {
+        "string_id": 3326,
+        "speaker_string_id": 3327,
+        "dialogue_id": "A1M1-T660-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Тогда негоже оставлять его ржаветь. Теперь он послужит для защиты отрекшихся.",
+      "metadata": {
+        "string_id": 3332,
+        "speaker_string_id": 3333,
+        "dialogue_id": "A1M1-T670-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вроде со всеми разобрались. Надо сообщить Вариматрасу, что катакомбы зачищены.",
+      "metadata": {
+        "string_id": 3343,
+        "speaker_string_id": 3344,
+        "dialogue_id": "A1M1-T690-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Тревожно видеть столь внушительное войско так близко к Подгороду...",
+      "metadata": {
+        "string_id": 3346,
+        "speaker_string_id": 3347,
+        "dialogue_id": "A1M1-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как среди живых, так и среди мертвых достаточно тех, кто хочет истребить отрекшихся. Нам нужно всегда быть начеку.",
+      "metadata": {
+        "string_id": 3352,
+        "speaker_string_id": 3353,
+        "dialogue_id": "A1M1-T710-ANYA"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Прихвостни Плети теперь подумают дважды, прежде чем к нам соваться. Вот твоя награда.",
+      "metadata": {
+        "string_id": 3356,
+        "speaker_string_id": 3357,
+        "dialogue_id": "A1M1-T720-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Эти рабочие не единственные, кто пропал. Еще одна группа не вернулась из вентиляционных коридоров.",
+      "metadata": {
+        "string_id": 3362,
+        "speaker_string_id": 3363,
+        "dialogue_id": "A1M1-T730-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Последний раз их видели в Торговом квартале. Отыщи их.",
+      "metadata": {
+        "string_id": 3368,
+        "speaker_string_id": 3369,
+        "dialogue_id": "A1M1-T740-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Хм-м. Эти части тел подойдут. По крайней мере, вы их не очень сильно повредили...",
+      "metadata": {
+        "string_id": 3150,
+        "speaker_string_id": 3151,
+        "dialogue_id": "A1M1-T460-KEEVER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Всегда пожалуйста, Чанн.",
+      "metadata": {
+        "string_id": 3159,
+        "speaker_string_id": 3160,
+        "dialogue_id": "A1M1-T470-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кажется, именно такого вурдалака хотел изучить Чанн.",
+      "metadata": {
+        "string_id": 3383,
+        "speaker_string_id": 3384,
+        "dialogue_id": "A1M1-T750-GAREK"
+      }
+    },
+    {
+      "speaker": "Хитрый вурдалак",
+      "text": "Моя страшный!",
+      "metadata": {
+        "string_id": 3390,
+        "speaker_string_id": 3391,
+        "dialogue_id": "GhoulPissed2"
+      }
+    },
+    {
+      "speaker": "Хитрый вурдалак",
+      "text": "Как дила?",
+      "metadata": {
+        "string_id": 3399,
+        "speaker_string_id": 3400,
+        "dialogue_id": "GhoulWhat2"
+      }
+    },
+    {
+      "speaker": "Чанн",
+      "text": "Все вурдалаки до единого продемонстрировали проблеск разума? Любопытно. Чанну это понравится.",
+      "metadata": {
+        "string_id": 3386,
+        "speaker_string_id": 3387,
+        "dialogue_id": "A1M1-T800-KEEVER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Заразить чумой городскую воду – какой-то радикальный шаг.",
+      "metadata": {
+        "string_id": 3029,
+        "speaker_string_id": 3030,
+        "dialogue_id": "A1M1-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Только отрекшиеся считают Подгород домом. Если здесь будет опасно, живые сюда не сунутся.",
+      "metadata": {
+        "string_id": 3038,
+        "speaker_string_id": 3039,
+        "dialogue_id": "A1M1-T340-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Неужели живые настолько нас ненавидят? Разве Плеть не наш общий враг?",
+      "metadata": {
+        "string_id": 3047,
+        "speaker_string_id": 3048,
+        "dialogue_id": "A1M1-T350-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Для них что отрекшиеся, что Плеть – все едино.",
+      "metadata": {
+        "string_id": 3056,
+        "speaker_string_id": 3057,
+        "dialogue_id": "A1M1-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вылей яд здесь. Течение разнесет его по всем каналам.",
+      "metadata": {
+        "string_id": 3410,
+        "speaker_string_id": 3411,
+        "dialogue_id": "A1M1-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Почему-то эти каналы кажутся мне знакомыми. Как будто я уже когда-то здесь был...",
+      "metadata": {
+        "string_id": 3083,
+        "speaker_string_id": 3084,
+        "dialogue_id": "A1M1-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Может, при жизни ты чисткой стоков занимался?",
+      "metadata": {
+        "string_id": 3092,
+        "speaker_string_id": 3093,
+        "dialogue_id": "A1M1-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кажется, я здесь неслучайно... Видимо, тому есть какая-то веская причина...",
+      "metadata": {
+        "string_id": 3097,
+        "speaker_string_id": 3098,
+        "dialogue_id": "A1M1-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Отлично. Каналы заполнены чумой, и теперь живые пожалеют, если рискнут сюда вторгнуться.",
+      "metadata": {
+        "string_id": 3111,
+        "speaker_string_id": 3112,
+        "dialogue_id": "A1M1-T450-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Глаз Эдрика – могущественный артефакт, который он вечно теряет.",
+      "metadata": {
+        "string_id": 3059,
+        "speaker_string_id": 3060,
+        "dialogue_id": "A1M1-T370-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Можем вернуть глаз ему и ждать, пока он снова где-нибудь его посеет. Или используем артефакт сами. Выбор за тобой.",
+      "metadata": {
+        "string_id": 3065,
+        "speaker_string_id": 3066,
+        "dialogue_id": "A1M1-T380-ANYA"
+      }
+    },
+    {
+      "speaker": "Эдрик",
+      "text": "Тебе удалось найти мой глаз? О, хвала Темной Госпоже! Без него я бы точно отсюда не выбрался!",
+      "metadata": {
+        "string_id": 3124,
+        "speaker_string_id": 3125,
+        "dialogue_id": "A1M1-T430-EDRIC"
+      }
+    },
+    {
+      "speaker": "Эдрик",
+      "text": "Мой глаз... Как я отсюда выберусь, если ничего не вижу?",
+      "metadata": {
+        "string_id": 3141,
+        "speaker_string_id": 3142,
+        "dialogue_id": "A1M1-T440-EDRIC"
+      }
+    },
+    {
+      "speaker": "Отрекшийся-горожанин",
+      "text": "Ания, выручай! В пещерах завелся огромный паук!",
+      "metadata": {
+        "string_id": 3524,
+        "speaker_string_id": 3525,
+        "dialogue_id": "A1M1-T975-LABORER"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы с ним разберемся. Пора нам из добычи стать охотниками.",
+      "metadata": {
+        "string_id": 3527,
+        "speaker_string_id": 3528,
+        "dialogue_id": "A1M1-T452-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Этот паук и правда огромный.",
+      "metadata": {
+        "string_id": 3536,
+        "speaker_string_id": 3537,
+        "dialogue_id": "A1M1-T453-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Нам туда не забраться! Надо срубить грибы!",
+      "metadata": {
+        "string_id": 3539,
+        "speaker_string_id": 3540,
+        "dialogue_id": "A1M1-T454-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вот и все. Теперь нашим рабочим ничего не будет угрожать.",
+      "metadata": {
+        "string_id": 3548,
+        "speaker_string_id": 3549,
+        "dialogue_id": "A1M1-T455-ANYA"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Превосходно! Надеюсь, особых хлопот у вас не возникло. Примите мою искреннюю благодарность.",
+      "metadata": {
+        "string_id": 3408,
+        "speaker_string_id": 3409,
+        "dialogue_id": "A1M1-T810-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Никаких следов рабочих... Стражников тоже не видно. Тут только крысы.",
+      "metadata": {
+        "string_id": 3419,
+        "speaker_string_id": 3420,
+        "dialogue_id": "A1M1-T820-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Проход закрыт. Придется найти другой путь.",
+      "metadata": {
+        "string_id": 3430,
+        "speaker_string_id": 3431,
+        "dialogue_id": "A1M1-T830-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ворота управляются парой рычагов. Их нужно сдвинуть одновременно.",
+      "metadata": {
+        "string_id": 3435,
+        "speaker_string_id": 3436,
+        "dialogue_id": "A1M1-T840-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы нашли рабочих.",
+      "metadata": {
+        "string_id": 3609,
+        "speaker_string_id": 3610,
+        "dialogue_id": "A1M1-T850-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Их тела были сожжены. Что-то здесь не так...",
+      "metadata": {
+        "string_id": 3587,
+        "speaker_string_id": 3588,
+        "dialogue_id": "A1M1-T860-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Тихо. Я слышу впереди какие-то голоса.",
+      "metadata": {
+        "string_id": 3581,
+        "speaker_string_id": 3582,
+        "dialogue_id": "A1M1-T870-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Рыцари Серебряной Длани. Нужно от них избавиться. Сейчас же!",
+      "metadata": {
+        "string_id": 3468,
+        "speaker_string_id": 3469,
+        "dialogue_id": "A1M1-T880-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Тут две замочные скважины. Видимо, чтобы открыть дверь, понадобятся два ключа.",
+      "metadata": {
+        "string_id": 3471,
+        "speaker_string_id": 3472,
+        "dialogue_id": "A1M1-T890-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что за Серебряная Длань?",
+      "metadata": {
+        "string_id": 3480,
+        "speaker_string_id": 3481,
+        "dialogue_id": "A1M1-T900-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Фанатики, поклоняющиеся божественному Свету. Они считают нас порождениями тьмы и хотят уничтожить.",
+      "metadata": {
+        "string_id": 3489,
+        "speaker_string_id": 3490,
+        "dialogue_id": "A1M1-T910-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы тут заживо сваримся. Нужно что-то делать с этим жаром.",
+      "metadata": {
+        "string_id": 3492,
+        "speaker_string_id": 3493,
+        "dialogue_id": "A1M1-T940-ANYA"
+      }
+    },
+    {
+      "speaker": "Лорд Фрэнсис",
+      "text": "Нас обнаружила нежить! Нельзя позволить им добраться до собора!",
+      "metadata": {
+        "string_id": 3501,
+        "speaker_string_id": 3502,
+        "dialogue_id": "A1M1-T950-FRANCIS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Нам нужно запастись провизией и собрать как можно больше бойцов. Как только мы войдем в собор, назад дороги не будет.",
+      "metadata": {
+        "string_id": 3510,
+        "speaker_string_id": 3511,
+        "dialogue_id": "A1M1-T960-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Согласен. К тому же в Подгороде еще могут быть мирные жители, которым нужна наша помощь.",
+      "metadata": {
+        "string_id": 3521,
+        "speaker_string_id": 3522,
+        "dialogue_id": "A1M1-T970-GAREK"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Гонка состоится в Серебряном бору. Я тебя даже туда подброшу. Совершенно бесплатно!",
+      "metadata": {
+        "string_id": 4667,
+        "speaker_string_id": 4663,
+        "dialogue_id": "A1M1-M070-090-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "А ты знаешь свое дело, Гарек. Вот обещанная награда!",
+      "metadata": {
+        "string_id": 4668,
+        "speaker_string_id": 4664,
+        "dialogue_id": "A1M1-T980-GLIX"
+      }
+    },
+    {
+      "speaker": "Рыцарь смерти",
+      "text": "За Короля-лича!",
+      "metadata": {
+        "string_id": 3578,
+        "speaker_string_id": 3579,
+        "dialogue_id": "DeathKnightYes5"
+      }
+    },
+    {
+      "speaker": "Пехотинец Серебряной Длани",
+      "text": "Здесь нежить! Заблокируйте тоннель!",
+      "metadata": {
+        "string_id": 3551,
+        "speaker_string_id": 3552,
+        "dialogue_id": "A1M1-T920-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Пехотинец Серебряной Длани",
+      "text": "О нет! Подождите меня!",
+      "metadata": {
+        "string_id": 3563,
+        "speaker_string_id": 3564,
+        "dialogue_id": "A1M1-T930-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Все больше нежити обретает свободу воли в руинах. Приведите этих новых отрекшихся в Подгород.",
+      "metadata": {
+        "string_id": 2958,
+        "speaker_string_id": 2959,
+        "dialogue_id": "A1M1-T230-SYLVANAS"
+      }
+    }
+  ]
+}

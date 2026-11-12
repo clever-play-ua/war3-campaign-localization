@@ -1,0 +1,620 @@
+{
+  "map": "UndeadRE02",
+  "title": "Scarlet Monastery",
+  "locale": "koKR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "실바나스",
+      "text": "첩보가 정확했구나, 리어니드. 이제 전투에 나설 차례다.",
+      "metadata": {
+        "string_id": 764,
+        "speaker_string_id": 765,
+        "dialogue_id": "A2M5-M010-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "붉은십자군 수도원으로 가는 길은 방어가 삼엄하다. 우리 병력에는 한계가 있으니, 은밀하고 정확하게 공격해야 한다.",
+      "metadata": {
+        "string_id": 752,
+        "speaker_string_id": 753,
+        "dialogue_id": "A2M5-M010-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "적 전선 후방으로 침투해 방어선을 돌파하고 지휘관을 처치하라.",
+      "metadata": {
+        "string_id": 748,
+        "speaker_string_id": 749,
+        "dialogue_id": "A2M5-M010-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "허나 주의하도록. 아군에게 전황이 불리해질 경우, 나는 망설이지 않고 군대를 물릴 것이다. 승리를 놓치지 않으려면 재빨리 움직여라.",
+      "metadata": {
+        "string_id": 743,
+        "speaker_string_id": 744,
+        "dialogue_id": "A2M5-M010-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그리하겠습니다, 어둠의 여왕이시여.",
+      "metadata": {
+        "string_id": 739,
+        "speaker_string_id": 740,
+        "dialogue_id": "A2M5-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "또 네놈이군. 이번에는 로데론에서 완전히 정화해 주마.",
+      "metadata": {
+        "string_id": 1194,
+        "speaker_string_id": 1195,
+        "dialogue_id": "A2M5-C010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "샐리",
+      "text": "용사여, 저 괴물들을 쳐부숴라!",
+      "metadata": {
+        "string_id": 1184,
+        "speaker_string_id": 1185,
+        "dialogue_id": "A2M5-C010-020-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "붉은십자군을 위하여!",
+      "metadata": {
+        "string_id": 1190,
+        "speaker_string_id": 1191,
+        "dialogue_id": "A2M5-C010-030-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "포세이큰, 공격!",
+      "metadata": {
+        "string_id": 1188,
+        "speaker_string_id": 1189,
+        "dialogue_id": "A2M5-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "티리스팔 숲을 되찾았다. 광신도들이 수도원으로 퇴각한다.",
+      "metadata": {
+        "string_id": 899,
+        "speaker_string_id": 900,
+        "dialogue_id": "A2M5-C020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "요새를 급습해 완전히 박멸해 버려야 합니다.",
+      "metadata": {
+        "string_id": 847,
+        "speaker_string_id": 848,
+        "dialogue_id": "A2M5-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "랜든의 기억",
+      "text": "생존이야말로 진정한 승리요, 평화야말로 그 보상일세.",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A2M5-C020-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "랜든의 기억",
+      "text": "이걸 절대 잊지 말게나.",
+      "metadata": {
+        "string_id": 836,
+        "speaker_string_id": 837,
+        "dialogue_id": "A2M5-C020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "실바나스 님. 언더시티로 돌아가야겠습니다.",
+      "metadata": {
+        "string_id": 869,
+        "speaker_string_id": 870,
+        "dialogue_id": "A2M5-C020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "붉은십자군을 밀어냈지만 희생이 큽니다. 지금 수도원을 공격한다면...",
+      "metadata": {
+        "string_id": 877,
+        "speaker_string_id": 878,
+        "dialogue_id": "A2M5-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우리 포세이큰은 병력을 충원할 수 없습니다. 한 명을 잃을 때마다 모두의 멸종에 가까워집니다. 수도원 점령에 그럴 위험을 무릅쓸 가치가 있을까요?",
+      "metadata": {
+        "string_id": 1157,
+        "speaker_string_id": 1158,
+        "dialogue_id": "A2M5-C020-081-GAREK"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "지혜로운 조언이다. 우리는 이번 승리를 거두고, 영토를 확보한 것으로 만족할 것이다.",
+      "metadata": {
+        "string_id": 889,
+        "speaker_string_id": 890,
+        "dialogue_id": "A2M5-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "나는 전투의 결과를 은빛 여명회에 알리겠다. 붉은십자군이 다시 준동한다면, 포세이큰이 가장 먼저 알게 될 거다.",
+      "metadata": {
+        "string_id": 897,
+        "speaker_string_id": 898,
+        "dialogue_id": "A2M5-C020-100-LEONID"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "둘과 함께 싸울 수 있어 영광이었다. 언제든 나는 그대들의 믿을 수 있는 아군이 될 것이다.",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A2M5-C020-110-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "넌... 쓸모 있더군. 성기사들 때문에 변하지 말아라.",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "A2M5-C020-120-ANYA"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "붉은십자군은 다시 일어날 것이다. 빛이 끊임없이 우리를 쳐부수라 다그치니까.",
+      "metadata": {
+        "string_id": 926,
+        "speaker_string_id": 927,
+        "dialogue_id": "A2M5-C020-130-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그럴지도요. 하지만 빛이 있든 없든 놈들은 증오로 움직일 것입니다.",
+      "metadata": {
+        "string_id": 933,
+        "speaker_string_id": 934,
+        "dialogue_id": "A2M5-C020-140-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛을 다른 방식으로 사용하는 이들도 있을 겁니다. 포세이큰을 지키기 위해서도요.",
+      "metadata": {
+        "string_id": 1114,
+        "speaker_string_id": 1115,
+        "dialogue_id": "A2M5-C020-150-GAREK"
+      }
+    },
+    {
+      "speaker": "스컬지 암살자",
+      "text": "붉은십자군과 포세이큰이 서로의 피를 말려 버렸다는 거군.",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "A2M5-C020-160-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "스컬지 암살자",
+      "text": "그렇다면 곧 스컬지의 시대가 도래할 것이다.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1127,
+        "dialogue_id": "A2M5-C020-170-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우리 부대가 이동 중이다. 붉은십자군의 방어선을 정리하지 않으면 그대로 죽음의 덫으로 들어가는 꼴이 될 거야.",
+      "metadata": {
+        "string_id": 111,
+        "speaker_string_id": 112,
+        "dialogue_id": "A2M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "많은 포세이큰이 쓰러졌지만, 아직 승리를 거둘 수 있다!",
+      "metadata": {
+        "string_id": 409,
+        "speaker_string_id": 410,
+        "dialogue_id": "A2M5-T020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "병력 절반을 붉은십자군의 방어선에 잃었다. 전투를 오래 끌어서는 안 된다!",
+      "metadata": {
+        "string_id": 125,
+        "speaker_string_id": 126,
+        "dialogue_id": "A2M5-T030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "포위를 오래 유지할 수 없다! 어서 끝내라!",
+      "metadata": {
+        "string_id": 138,
+        "speaker_string_id": 139,
+        "dialogue_id": "A2M5-T040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "그만! 헛된 대의에 포세이큰을 더 희생시킬 수 없다! 언더시티로 후퇴하라!",
+      "metadata": {
+        "string_id": 145,
+        "speaker_string_id": 146,
+        "dialogue_id": "A2M5-T050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "어둠 순찰자들이 숲 곳곳에서 십자군과 교전을 벌이고 있어. 우리가 자매들을 도우면, 우리와 합류할 수 있을 거야.",
+      "metadata": {
+        "string_id": 253,
+        "speaker_string_id": 254,
+        "dialogue_id": "A2M5-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "포세이큰 순찰자",
+      "text": "나는 밴시 여왕을 섬긴다!",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "ForsakenRanger_Ready1"
+      }
+    },
+    {
+      "speaker": "포세이큰 순찰자",
+      "text": "반갑다!",
+      "metadata": {
+        "string_id": 267,
+        "speaker_string_id": 268,
+        "dialogue_id": "ForsakenVillagerF_What1"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "근처 병영에서 붉은십자군이 포세이큰 병력을 포로로 가둬 두고 있다고 한다. 할 수 있다면 구출하자.",
+      "metadata": {
+        "string_id": 274,
+        "speaker_string_id": 275,
+        "dialogue_id": "A2M5-T110-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "부대, 합류하라! 우리는 붉은십자군 수도원으로 진군한다!",
+      "metadata": {
+        "string_id": 281,
+        "speaker_string_id": 282,
+        "dialogue_id": "A2M5-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "전부 죽었군. 붉은십자군이 승리한다면 우리도 같은 운명을 맞겠지.",
+      "metadata": {
+        "string_id": 1150,
+        "speaker_string_id": 1151,
+        "dialogue_id": "A2M5-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "저 궁수들이 우리 부대를 간단히 해치워 버리겠지. 처치하자.",
+      "metadata": {
+        "string_id": 152,
+        "speaker_string_id": 153,
+        "dialogue_id": "A2M5-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "고지대를 점령했다. 밀어붙여라!",
+      "metadata": {
+        "string_id": 159,
+        "speaker_string_id": 160,
+        "dialogue_id": "A2M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "저 방벽을 부수려면 병력의 손실이 크겠어. 붉은십자군을 우회해 지휘관을 급습하자.",
+      "metadata": {
+        "string_id": 172,
+        "speaker_string_id": 173,
+        "dialogue_id": "A2M5-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "대장 티코스",
+      "text": "언데드가 고지대에서 공격한다! 통과시키지 마라!",
+      "metadata": {
+        "string_id": 353,
+        "speaker_string_id": 354,
+        "dialogue_id": "A2M5-T150-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "밀집 방진을 돌파했다! 우리 군대가 전진한다!",
+      "metadata": {
+        "string_id": 182,
+        "speaker_string_id": 183,
+        "dialogue_id": "A2M5-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "붉은십자군도 가만히 있지 않겠지. 서둘러 수도원으로 가야 한다.",
+      "metadata": {
+        "string_id": 185,
+        "speaker_string_id": 186,
+        "dialogue_id": "A2M5-T170-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "심문관이 빛으로 우리 병력을 불태우려 한다. 처치해야 해!",
+      "metadata": {
+        "string_id": 500,
+        "speaker_string_id": 501,
+        "dialogue_id": "A2M5-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "심문관 케란",
+      "text": "사악한 괴물 놈들! 신성한 불꽃에 타올라라!",
+      "metadata": {
+        "string_id": 490,
+        "speaker_string_id": 491,
+        "dialogue_id": "A2M5-T190-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "속이 다 시원하군. 이제 아군이 진군할 수 있겠어.",
+      "metadata": {
+        "string_id": 450,
+        "speaker_string_id": 451,
+        "dialogue_id": "A2M5-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "죽음의 경비병",
+      "text": "대장! 시체 수레로 저 탑을 쓰러뜨릴 수 있지만, 먼저 대포를 없애야 합니다!",
+      "metadata": {
+        "string_id": 466,
+        "speaker_string_id": 467,
+        "dialogue_id": "A2M5-T555-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "성전사 아토니우스",
+      "text": "어림없는 소리! 네놈들의 공성도 끝이다!",
+      "metadata": {
+        "string_id": 479,
+        "speaker_string_id": 480,
+        "dialogue_id": "A2M5-T220-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "붉은십자군의 방어선이 단 하나만 남았다. 수도원이 눈앞이다!",
+      "metadata": {
+        "string_id": 474,
+        "speaker_string_id": 475,
+        "dialogue_id": "A2M5-T230-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그렇다면 이제 전투를 끝내자!",
+      "metadata": {
+        "string_id": 472,
+        "speaker_string_id": 473,
+        "dialogue_id": "A2M5-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "붉은돌격대 보병",
+      "text": "공격이다!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "붉은십자군 명사수",
+      "text": "머리를 베 벽에 걸어 주마!",
+      "metadata": {
+        "string_id": 320,
+        "speaker_string_id": 321,
+        "dialogue_id": "ScarletMarksman_Warcry1"
+      }
+    },
+    {
+      "speaker": "붉은돌격대 보병",
+      "text": "전투 태세로!",
+      "metadata": {
+        "string_id": 325,
+        "speaker_string_id": 326,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "붉은돌격대 보병",
+      "text": "공격이다!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "성전사",
+      "text": "명예와 자유를 위해!",
+      "metadata": {
+        "string_id": 707,
+        "speaker_string_id": 708,
+        "dialogue_id": "KnightWarcry1"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "하나가 되어 공격하자!",
+      "metadata": {
+        "string_id": 1178,
+        "speaker_string_id": 1179,
+        "dialogue_id": "A2M5-T250-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "명령만 내리십시오!",
+      "metadata": {
+        "string_id": 1180,
+        "speaker_string_id": 1181,
+        "dialogue_id": "A2M5-T260-mograine"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "놈들이 진격합니다! 수도원 방어를 위해 후퇴해야 합니다!",
+      "metadata": {
+        "string_id": 1230,
+        "speaker_string_id": 1231,
+        "dialogue_id": "A2M5-T370-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "좋다. 언젠가 저 불경한 흉물들은 배신의 대가를 치를 것이다!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "A2M5-T380-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "용사들이여, 계속 싸워라!",
+      "metadata": {
+        "string_id": 1200,
+        "speaker_string_id": 1201,
+        "dialogue_id": "A2M5-T320-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "감히 고위 심문관을 공격해?!",
+      "metadata": {
+        "string_id": 1275,
+        "speaker_string_id": 1276,
+        "dialogue_id": "A2M5-T300-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "빛은 섬기는 자를 보호하신다!",
+      "metadata": {
+        "string_id": 1203,
+        "speaker_string_id": 1204,
+        "dialogue_id": "A2M5-T330-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "우리는 승리하리라!",
+      "metadata": {
+        "string_id": 1215,
+        "speaker_string_id": 1216,
+        "dialogue_id": "A2M5-T340-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "이교도들을 몰아내라, 모그레인!",
+      "metadata": {
+        "string_id": 1220,
+        "speaker_string_id": 1221,
+        "dialogue_id": "A2M5-T350-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "종교재판관 화이트메인",
+      "text": "구원의 불길이 타오른다!",
+      "metadata": {
+        "string_id": 1225,
+        "speaker_string_id": 1226,
+        "dialogue_id": "A2M5-T360-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "날 마주해라, 괴물 놈들아!",
+      "metadata": {
+        "string_id": 1244,
+        "speaker_string_id": 1245,
+        "dialogue_id": "A2M5-T270-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "모두 정화될 것이다!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "A2M5-T280-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "누구도 붉은십자군에 맞설 수 없다!",
+      "metadata": {
+        "string_id": 1262,
+        "speaker_string_id": 1263,
+        "dialogue_id": "A2M5-T290-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "붉은십자군 사령관 모그레인",
+      "text": "네놈들의 뒤틀린 존재를 끝장내 주마!",
+      "metadata": {
+        "string_id": 1278,
+        "speaker_string_id": 1279,
+        "dialogue_id": "A2M5-T310-MOGRAINE"
+      }
+    }
+  ]
+}

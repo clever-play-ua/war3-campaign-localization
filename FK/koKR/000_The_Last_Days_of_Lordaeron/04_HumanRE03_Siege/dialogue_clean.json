@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE03",
+  "title": "Siege",
+  "locale": "koKR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "가렉",
+      "text": "우서 경이 지원군과 함께 돌아올 때까지 안돌할에 시간을 벌어 줘야 한다. 움직이자.",
+      "metadata": {
+        "string_id": 2773,
+        "speaker_string_id": 2774,
+        "dialogue_id": "HRE03-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "감사합니다, 낯선 분. 수도에서 오신 게 아닙니까? 아서스가 수도를 불태웠다는 게 정말입니까?",
+      "metadata": {
+        "string_id": 2782,
+        "speaker_string_id": 2783,
+        "dialogue_id": "HRE03-M020-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그래. 우서 경이 안돌할에서 재집결하라는 명을 내리셨다. 포위망을 뚫기 위해 부대를 모으고 계시지.",
+      "metadata": {
+        "string_id": 2785,
+        "speaker_string_id": 2786,
+        "dialogue_id": "HRE03-M020-020-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "이미 늦었을지도 모릅니다. 교단이 도시에 대규모 공습을 시작하려 준비하고 있습니다.",
+      "metadata": {
+        "string_id": 2794,
+        "speaker_string_id": 2795,
+        "dialogue_id": "HRE03-M020-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "선제 공격을 위해 부대를 모을 계획을 마련해 두었습니다만, 그러려면 먼저 기지를 세워야 합니다.",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "HRE03-M020-040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우리가 돕지. 교단을 계속 바쁘게 만든다면, 우서 경이 도착할 때까지 공격을 늦출 수 있을 거다.",
+      "metadata": {
+        "string_id": 2812,
+        "speaker_string_id": 2813,
+        "dialogue_id": "HRE03-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "알겠습니다. 저는 일라스타 송브리즈라고 합니다.",
+      "metadata": {
+        "string_id": 2821,
+        "speaker_string_id": 2822,
+        "dialogue_id": "HRE03-M020-060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "가렉 반다리온이다. 교단원을 사냥해 보자고.",
+      "metadata": {
+        "string_id": 2830,
+        "speaker_string_id": 2831,
+        "dialogue_id": "HRE03-M020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우서 경! 이게 지원군의 전부입니까?",
+      "metadata": {
+        "string_id": 2894,
+        "speaker_string_id": 2895,
+        "dialogue_id": "HRE03-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "안타깝게도 그렇다네. 은빛 성기사단이 해산된 이후, 우리 성기사들은 로데론 전역에 흩어져 있어.",
+      "metadata": {
+        "string_id": 2844,
+        "speaker_string_id": 2845,
+        "dialogue_id": "HRE03-M030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "안 돼... 저 종소리는 교단이 성문을 돌파했다는 뜻입니다!",
+      "metadata": {
+        "string_id": 2914,
+        "speaker_string_id": 2915,
+        "dialogue_id": "HRE03-M030-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "그렇다면 진짜 전투가 시작되겠군.",
+      "metadata": {
+        "string_id": 2863,
+        "speaker_string_id": 2864,
+        "dialogue_id": "HRE03-M030-040-UTHER"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "내가 성기사들과 성벽 밖에서 교단원들과 싸우는 동안, 귀관은 도시 안으로 병력을 이끌도록 하게.",
+      "metadata": {
+        "string_id": 2872,
+        "speaker_string_id": 2873,
+        "dialogue_id": "HRE03-M030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "예, 알겠습니다! 스컬지에게서 반드시 안돌할을 지키겠습니다!",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2882,
+        "dialogue_id": "HRE03-M030-060-GAREK"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "안돼! 감히 내 보상을 앗아갈 순 없다!",
+      "metadata": {
+        "string_id": 2983,
+        "speaker_string_id": 2984,
+        "dialogue_id": "HRE03-M040-010-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "스트라솔름에서 나는 영원불멸한 힘을 얻으리라! 다음에 만날 때는 너희 모두 죽여 주마!",
+      "metadata": {
+        "string_id": 2986,
+        "speaker_string_id": 2985,
+        "dialogue_id": "HRE03-M040-020-RAS"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "안돌할은 지켜냈으나, 재건에는 시간이 필요하겠지.",
+      "metadata": {
+        "string_id": 2892,
+        "speaker_string_id": 2893,
+        "dialogue_id": "HRE03-M040-030-UTHER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "스트라솔름은 리븐데어의 요충지였습니다. 그곳에 교단이 모이고 있다면, 놈도 있을 겁니다.",
+      "metadata": {
+        "string_id": 2903,
+        "speaker_string_id": 2904,
+        "dialogue_id": "HRE03-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "그의 손에 자네 대장이 쓰러졌다는 것은 알고 있네. 허나 빛은 아직 살아 있는 자들을 지키라 명하고 있어. 빛의 판단을 믿게나, 반다리온 부관.",
+      "metadata": {
+        "string_id": 2912,
+        "speaker_string_id": 2913,
+        "dialogue_id": "HRE03-M040-050-UTHER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "리븐데어가 아무런 처벌도 받지 않았는데 성벽 안에서 앉아만 있을 수는 없어.",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "HRE03-M040-060-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "저 또한 그렇습니다. 빛 또한 징벌을 명하시니, 교단에 응징을 내려야 합니다.",
+      "metadata": {
+        "string_id": 2932,
+        "speaker_string_id": 2933,
+        "dialogue_id": "HRE03-M040-070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그렇다면 응징을 내리도록 하자고. 우서 경이 반대하기 전 스트라솔름으로 가자.",
+      "metadata": {
+        "string_id": 2963,
+        "speaker_string_id": 2964,
+        "dialogue_id": "HRE03-M040-080-GAREK"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "방해도 이제 그만. 네놈을 끝장내 주겠다!",
+      "metadata": {
+        "string_id": 2664,
+        "speaker_string_id": 2665,
+        "dialogue_id": "HRE03-T350-RAS"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "교단의 언데드 하수인은 그 수가 끝도 없어 보이는군.",
+      "metadata": {
+        "string_id": 2574,
+        "speaker_string_id": 2575,
+        "dialogue_id": "HRE03-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "놈들의 악취 나는 구울 떼가 계속해서 몰려들고 있습니다. 속히 역병 가마솥을 파괴해야 합니다.",
+      "metadata": {
+        "string_id": 2580,
+        "speaker_string_id": 2581,
+        "dialogue_id": "HRE03-T170-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우서 경의 성기사들을 위해 길을 틀 수 있다면, 도시의 거리에서 우리와 합류할 수 있겠지.",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "HRE03-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "역병 가마솥이 더 있군. 도시가 짓밟히기 전에 파괴해야 한다!",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2681,
+        "dialogue_id": "HRE03-T330-ILASTAR"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "네, 전하?",
+      "metadata": {
+        "string_id": 2761,
+        "speaker_string_id": 2762,
+        "dialogue_id": "FootmanWhat3"
+      }
+    },
+    {
+      "speaker": "소총병",
+      "text": "1번 사수 대기 중!",
+      "metadata": {
+        "string_id": 2751,
+        "speaker_string_id": 2752,
+        "dialogue_id": "RiflemanWhat3"
+      }
+    },
+    {
+      "speaker": "소총병",
+      "text": "예, 대장님!",
+      "metadata": {
+        "string_id": 2753,
+        "speaker_string_id": 2754,
+        "dialogue_id": "RiflemanWhat1"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "사제",
+      "text": "도움이 필요하십니까?",
+      "metadata": {
+        "string_id": 2765,
+        "speaker_string_id": 2766,
+        "dialogue_id": "PriestWhat3"
+      }
+    },
+    {
+      "speaker": "사제",
+      "text": "섬기겠습니다.",
+      "metadata": {
+        "string_id": 2759,
+        "speaker_string_id": 2760,
+        "dialogue_id": "PriestYes1"
+      }
+    },
+    {
+      "speaker": "농부",
+      "text": "더 일하라고요?",
+      "metadata": {
+        "string_id": 2767,
+        "speaker_string_id": 2768,
+        "dialogue_id": "PeasantWhat3"
+      }
+    },
+    {
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "공격받고 있다! 전진!",
+      "metadata": {
+        "string_id": 2511,
+        "speaker_string_id": 2512,
+        "dialogue_id": "HRE03-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "추악한 교단원들은 승리하지 못할 겁니다!",
+      "metadata": {
+        "string_id": 2515,
+        "speaker_string_id": 2516,
+        "dialogue_id": "HRE03-T010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "제대로 된 기지로 삼으려면 제재소를 수리해야 합니다.",
+      "metadata": {
+        "string_id": 2522,
+        "speaker_string_id": 2523,
+        "dialogue_id": "HRE03-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "조금이라도 숨 돌릴 여유가 생기겠지요.",
+      "metadata": {
+        "string_id": 2586,
+        "speaker_string_id": 2587,
+        "dialogue_id": "HRE03-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "암살자",
+      "text": "기습이다!",
+      "metadata": {
+        "string_id": 2982,
+        "speaker_string_id": 2981,
+        "dialogue_id": "BanditWarcry1"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "숲을 정리했군. 이제 나머지 포위망을 뚫어야 해.",
+      "metadata": {
+        "string_id": 2713,
+        "speaker_string_id": 2737,
+        "dialogue_id": "HRE03-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "시작이 좋군. 하지만 군대를 양성하려면 자원이 더 필요해.",
+      "metadata": {
+        "string_id": 2685,
+        "speaker_string_id": 2686,
+        "dialogue_id": "HRE03-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "근처에 다른 정착지도 있습니다. 되찾아야 합니다.",
+      "metadata": {
+        "string_id": 2693,
+        "speaker_string_id": 2694,
+        "dialogue_id": "HRE03-T050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "외진 정착지 중 한 곳입니다. 선량한 사람들의 집이었죠.",
+      "metadata": {
+        "string_id": 2526,
+        "speaker_string_id": 2527,
+        "dialogue_id": "HRE03-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "수리를 시작하려면 기지에서 일꾼을 데려와야 합니다.",
+      "metadata": {
+        "string_id": 2530,
+        "speaker_string_id": 2531,
+        "dialogue_id": "HRE03-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "적어도 교단이 말은 내버려뒀군요.",
+      "metadata": {
+        "string_id": 2534,
+        "speaker_string_id": 2535,
+        "dialogue_id": "HRE03-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우리 기사들이 말에 올라 전장으로 질주해 쓰러진 이들의 복수를 할 것이다.",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "HRE03-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "여기 살았던 가족은 도시 밖에서 조용한 삶을 바랐습니다.",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "HRE03-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "이들의 물자를 써 살인자들에게 정의의 심판을 내리도록 하지.",
+      "metadata": {
+        "string_id": 2549,
+        "speaker_string_id": 2550,
+        "dialogue_id": "HRE03-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "이곳은 예배소였습니다! 이교도 놈들에게 신성한 것은 없는 걸까요?",
+      "metadata": {
+        "string_id": 2553,
+        "speaker_string_id": 2554,
+        "dialogue_id": "HRE03-T100-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "네 동료 사제들이 복수의 심판을 할 것이다.",
+      "metadata": {
+        "string_id": 2559,
+        "speaker_string_id": 2560,
+        "dialogue_id": "HRE03-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "이 총포상의 주인을 알았습니다. 실력에 자부심이 있었죠.",
+      "metadata": {
+        "string_id": 2561,
+        "speaker_string_id": 2562,
+        "dialogue_id": "HRE03-T140-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "남은 물품으로 소총병을 무장시켜 교단 놈들에게 납탄을 먹여 주자.",
+      "metadata": {
+        "string_id": 2568,
+        "speaker_string_id": 2569,
+        "dialogue_id": "HRE03-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "불청객이 오셨군. 몰살해 버려라.",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "HRE03-T190-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "눈을 돌리려는 수작이다! 나는 보다 긴급한 사안을 처리해야 한다!",
+      "metadata": {
+        "string_id": 2695,
+        "speaker_string_id": 2696,
+        "dialogue_id": "HRE03-T270-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "네놈보다도 심각한 이단자도 상대해 보았다! 승리는 내 것이다!",
+      "metadata": {
+        "string_id": 2620,
+        "speaker_string_id": 2621,
+        "dialogue_id": "HRE03-T260-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "오만에 크나큰 대가를 치를 것이다! 아직 끝이 아니다!",
+      "metadata": {
+        "string_id": 2627,
+        "speaker_string_id": 2628,
+        "dialogue_id": "HRE03-T250-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "끈질긴 천치 놈들! 더 강한 병력을 끌고 돌아오겠다!",
+      "metadata": {
+        "string_id": 2705,
+        "speaker_string_id": 2706,
+        "dialogue_id": "HRE03-T240-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "내 주인께서 이 도시의 멸망을 명하셨다! 반드시 그리하리라!",
+      "metadata": {
+        "string_id": 2635,
+        "speaker_string_id": 2636,
+        "dialogue_id": "HRE03-T200-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "바보만이 감히 저주받은 자들의 교단에 반항하려 들지.",
+      "metadata": {
+        "string_id": 2641,
+        "speaker_string_id": 2642,
+        "dialogue_id": "HRE03-T210-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "안돌할은 로데론의 다른 곳과 마찬가지로 불탈 것이다. 우리를 막을 수는 없다!",
+      "metadata": {
+        "string_id": 2647,
+        "speaker_string_id": 2648,
+        "dialogue_id": "HRE03-T220-RAS"
+      }
+    },
+    {
+      "speaker": "라스 프로스트위스퍼",
+      "text": "어찌 무력히 반항하느냐? 스컬지의 지배는 확고하다.",
+      "metadata": {
+        "string_id": 2670,
+        "speaker_string_id": 2671,
+        "dialogue_id": "HRE03-T230-RAS"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "경비탑을 되찾는다면 안돌할에서 타락한 교단원을 모두 몰아낼 수 있을 겁니다!",
+      "metadata": {
+        "string_id": 3025,
+        "speaker_string_id": 3026,
+        "dialogue_id": "HRE03-T290-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "민병대가 거리에서 전투 중이다! 힘을 합쳐 싸우자!",
+      "metadata": {
+        "string_id": 3028,
+        "speaker_string_id": 3027,
+        "dialogue_id": "HRE03-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "민병대",
+      "text": "저 말곤 없나요?",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2979,
+        "dialogue_id": "PeasantYesAttack3"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "민병대",
+      "text": "저 말곤 없나요?",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2979,
+        "dialogue_id": "PeasantYesAttack3"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "주민들에게 도움이 필요합니다!",
+      "metadata": {
+        "string_id": 3029,
+        "speaker_string_id": 3030,
+        "dialogue_id": "HRE03-T310-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "최대한 많이 구해라!",
+      "metadata": {
+        "string_id": 3031,
+        "speaker_string_id": 3032,
+        "dialogue_id": "HRE03-T320-GAREK"
+      }
+    }
+  ]
+}

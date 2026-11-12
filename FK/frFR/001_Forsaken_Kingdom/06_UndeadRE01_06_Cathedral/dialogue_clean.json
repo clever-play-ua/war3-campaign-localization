@@ -1,0 +1,107 @@
+{
+  "map": "UndeadRE01",
+  "title": "Cathedral",
+  "locale": "frFR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Paladin",
+      "text": "Viles créatures ! Comment osez-vous souiller ces saintes terres ?",
+      "metadata": {
+        "string_id": 352,
+        "speaker_string_id": 353,
+        "dialogue_id": "A1M6-T100-COMMANDER"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous n’entrerons pas par devant. Même si nous éliminons tous les gardes, ils alerteront tout le monde de notre présence.",
+      "metadata": {
+        "string_id": 381,
+        "speaker_string_id": 382,
+        "dialogue_id": "A1M6-M010-010-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il y a peut-être une entrée latérale. Jetons un œil.",
+      "metadata": {
+        "string_id": 397,
+        "speaker_string_id": 398,
+        "dialogue_id": "A1M6-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Fantassin",
+      "text": "Des intrus ! Verrouillez les portes !",
+      "metadata": {
+        "string_id": 291,
+        "speaker_string_id": 292,
+        "dialogue_id": "A1M6-T010-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Je vous l’avais bien dit. J’espère que vous avez raison au sujet de l’existence d’une autre entrée.",
+      "metadata": {
+        "string_id": 303,
+        "speaker_string_id": 304,
+        "dialogue_id": "A1M6-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Pourquoi ces paladins nous haïssent-ils tant ? Simplement parce que nous sommes morts-vivants ?",
+      "metadata": {
+        "string_id": 310,
+        "speaker_string_id": 311,
+        "dialogue_id": "A1M6-T030-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "À leurs yeux, cela suffit. Mais en réalité, ils nous reprochent la chute de Lordaeron.",
+      "metadata": {
+        "string_id": 313,
+        "speaker_string_id": 314,
+        "dialogue_id": "A1M6-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Certains sont en quête de justice, quoi que cela signifie. Mais la plupart ne désirent que la vengeance.",
+      "metadata": {
+        "string_id": 317,
+        "speaker_string_id": 318,
+        "dialogue_id": "A1M6-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous sommes entrés. Allons éliminer la Main d’argent.",
+      "metadata": {
+        "string_id": 322,
+        "speaker_string_id": 323,
+        "dialogue_id": "A1M6-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Argh ! Ça brûle !",
+      "metadata": {
+        "string_id": 332,
+        "speaker_string_id": 333,
+        "dialogue_id": "A1M6-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "C’est la Lumière ! Éliminez les prêtres, vite !",
+      "metadata": {
+        "string_id": 337,
+        "speaker_string_id": 338,
+        "dialogue_id": "A1M6-T090-ANYA"
+      }
+    }
+  ]
+}

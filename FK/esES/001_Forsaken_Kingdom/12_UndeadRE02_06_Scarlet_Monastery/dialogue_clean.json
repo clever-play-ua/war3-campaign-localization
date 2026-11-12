@@ -1,0 +1,620 @@
+{
+  "map": "UndeadRE02",
+  "title": "Scarlet Monastery",
+  "locale": "esES",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Sylvanas",
+      "text": "Estabas en lo cierto, Leonid. Ahora, a por la batalla.",
+      "metadata": {
+        "string_id": 764,
+        "speaker_string_id": 765,
+        "dialogue_id": "A2M5-M010-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "El camino al Monasterio Escarlata está muy protegido. Nos superan en número, así que debemos atacar con discreción y precisión.",
+      "metadata": {
+        "string_id": 752,
+        "speaker_string_id": 753,
+        "dialogue_id": "A2M5-M010-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Infiltraos en las líneas enemigas, romped sus defensas y eliminad a los comandantes.",
+      "metadata": {
+        "string_id": 748,
+        "speaker_string_id": 749,
+        "dialogue_id": "A2M5-M010-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Tened en cuenta que, si las cosas se tuercen, no dudaré en ordenar la retirada. Actuad con rapidez para no se nos escape la victoria.",
+      "metadata": {
+        "string_id": 743,
+        "speaker_string_id": 744,
+        "dialogue_id": "A2M5-M010-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Así se hará, Dama Oscura.",
+      "metadata": {
+        "string_id": 739,
+        "speaker_string_id": 740,
+        "dialogue_id": "A2M5-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "Volvemos a encontrarnos, pero esta vez os despediréis de Lordaeron.",
+      "metadata": {
+        "string_id": 1194,
+        "speaker_string_id": 1195,
+        "dialogue_id": "A2M5-C010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Sally",
+      "text": "Adalid, ¡acaba con esos monstruos!",
+      "metadata": {
+        "string_id": 1184,
+        "speaker_string_id": 1185,
+        "dialogue_id": "A2M5-C010-020-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Por la Cruzada Escarlata!",
+      "metadata": {
+        "string_id": 1190,
+        "speaker_string_id": 1191,
+        "dialogue_id": "A2M5-C010-030-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Renegados, ¡atacad!",
+      "metadata": {
+        "string_id": 1188,
+        "speaker_string_id": 1189,
+        "dialogue_id": "A2M5-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Hemos recuperado los Claros de Tirisfal. Los zelotes se han retirado a su monasterio.",
+      "metadata": {
+        "string_id": 899,
+        "speaker_string_id": 900,
+        "dialogue_id": "A2M5-C020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Deberíamos atacar su fortaleza y acabar con ellos de una vez por todas.",
+      "metadata": {
+        "string_id": 847,
+        "speaker_string_id": 848,
+        "dialogue_id": "A2M5-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Recuerdos de Landen",
+      "text": "La verdadera victoria es sobrevivir. Y la paz, su recompensa.",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A2M5-C020-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Recuerdos de Landen",
+      "text": "Nunca lo olvides.",
+      "metadata": {
+        "string_id": 836,
+        "speaker_string_id": 837,
+        "dialogue_id": "A2M5-C020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Lady Sylvanas. Creo que deberíamos volver a Entrañas.",
+      "metadata": {
+        "string_id": 869,
+        "speaker_string_id": 870,
+        "dialogue_id": "A2M5-C020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hemos obligado a la Cruzada a retroceder, pero a qué precio. Si atacamos el monasterio ahora...",
+      "metadata": {
+        "string_id": 877,
+        "speaker_string_id": 878,
+        "dialogue_id": "A2M5-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Los Renegados no podemos reponer nuestras filas. Cada pérdida nos acerca a la extinción. ¿De verdad merece la pena asaltar el monasterio y correr ese riesgo?",
+      "metadata": {
+        "string_id": 1157,
+        "speaker_string_id": 1158,
+        "dialogue_id": "A2M5-C020-081-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Unas palabras muy sabias. Nos proclamaremos vencedores y protegeremos nuestro territorio.",
+      "metadata": {
+        "string_id": 889,
+        "speaker_string_id": 890,
+        "dialogue_id": "A2M5-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Informaré al Alba Argenta del resultado de la batalla. Si la Cruzada vuelve a atacar, los Renegados serán los primeros en enterarse.",
+      "metadata": {
+        "string_id": 897,
+        "speaker_string_id": 898,
+        "dialogue_id": "A2M5-C020-100-LEONID"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Ha sido un honor luchar a vuestro lado. Sabed que siempre os consideraré mis aliados.",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A2M5-C020-110-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Habéis sido... de gran ayuda. Procurad mantener a raya a esos paladines.",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "A2M5-C020-120-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "La Cruzada volverá a revelarse. La Luz los obliga a destruirnos.",
+      "metadata": {
+        "string_id": 926,
+        "speaker_string_id": 927,
+        "dialogue_id": "A2M5-C020-130-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Puede ser, pero creo que se debe más al odio acumulado que a la Luz.",
+      "metadata": {
+        "string_id": 933,
+        "speaker_string_id": 934,
+        "dialogue_id": "A2M5-C020-140-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Y pienso que hay defensores de la Luz que actuarían de manera diferente. Incluso puede haber quienes defiendan a los Renegados.",
+      "metadata": {
+        "string_id": 1114,
+        "speaker_string_id": 1115,
+        "dialogue_id": "A2M5-C020-150-GAREK"
+      }
+    },
+    {
+      "speaker": "Asesino de la Plaga",
+      "text": "Así que las tropas de la Cruzada Escarlata y los Renegados han quedado muy mermadas.",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "A2M5-C020-160-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "Asesino de la Plaga",
+      "text": "La hora de la Plaga está cada vez más cerca.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1127,
+        "dialogue_id": "A2M5-C020-170-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Las tropas están de camino. Hay que acabar con las defensas de la Cruzada Escarlata o irán directas a una trampa mortal.",
+      "metadata": {
+        "string_id": 111,
+        "speaker_string_id": 112,
+        "dialogue_id": "A2M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "¡Han caído muchos renegados, pero la victoria está cada vez más cerca!",
+      "metadata": {
+        "string_id": 409,
+        "speaker_string_id": 410,
+        "dialogue_id": "A2M5-T020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "La mitad de nuestros hombres ha caído a manos de las defensas de la Cruzada. ¡Hay que poner fin a esta batalla!",
+      "metadata": {
+        "string_id": 125,
+        "speaker_string_id": 126,
+        "dialogue_id": "A2M5-T030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "¡No podemos continuar con el asedio por mucho más tiempo! ¡Acabemos ya con esto!",
+      "metadata": {
+        "string_id": 138,
+        "speaker_string_id": 139,
+        "dialogue_id": "A2M5-T040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "¡Ya basta! ¡No pienso sacrificar más Renegados por una causa perdida! ¡Retirada! ¡Volvemos a Entrañas!",
+      "metadata": {
+        "string_id": 145,
+        "speaker_string_id": 146,
+        "dialogue_id": "A2M5-T050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Hay forestales oscuros enfrentándose a los cruzados en el bosque. Mis hermanas nos acompañarán si decidimos ayudarlos.",
+      "metadata": {
+        "string_id": 253,
+        "speaker_string_id": 254,
+        "dialogue_id": "A2M5-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "Forestal renegado",
+      "text": "¡Sirvo a la Reina Alma en Pena!",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "ForsakenRanger_Ready1"
+      }
+    },
+    {
+      "speaker": "Forestal renegado",
+      "text": "¡Saludos!",
+      "metadata": {
+        "string_id": 267,
+        "speaker_string_id": 268,
+        "dialogue_id": "ForsakenVillagerF_What1"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Parece que hay un cuartel cerca, donde la Cruzada ha capturado tropas de los Renegados. Habría que intentar rescatarlos.",
+      "metadata": {
+        "string_id": 274,
+        "speaker_string_id": 275,
+        "dialogue_id": "A2M5-T110-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡Adelante, soldados! ¡Marchamos hacia el Monasterio Escarlata!",
+      "metadata": {
+        "string_id": 281,
+        "speaker_string_id": 282,
+        "dialogue_id": "A2M5-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Están todos muertos. Ese será nuestro destino si vence la Cruzada.",
+      "metadata": {
+        "string_id": 1150,
+        "speaker_string_id": 1151,
+        "dialogue_id": "A2M5-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Esos arqueros nos acribillarán a flechas. Hay que eliminarlos.",
+      "metadata": {
+        "string_id": 152,
+        "speaker_string_id": 153,
+        "dialogue_id": "A2M5-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hemos conquistado el terreno elevado. ¡Continuemos!",
+      "metadata": {
+        "string_id": 159,
+        "speaker_string_id": 160,
+        "dialogue_id": "A2M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "A nuestras tropas les costará mucho romper ese muro de escudos. Lo mejor será flanquear a los Escarlatas y atacar a su capitán.",
+      "metadata": {
+        "string_id": 172,
+        "speaker_string_id": 173,
+        "dialogue_id": "A2M5-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Capitán Tychos",
+      "text": "¡Los no-muertos nos atacan desde arriba! ¡Cerradles el paso!",
+      "metadata": {
+        "string_id": 353,
+        "speaker_string_id": 354,
+        "dialogue_id": "A2M5-T150-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡La falange se ha desordenado! ¡Es el momento de atacar!",
+      "metadata": {
+        "string_id": 182,
+        "speaker_string_id": 183,
+        "dialogue_id": "A2M5-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "La Cruzada responderá con la misma contundencia. Hay que llegar al monasterio cuanto antes.",
+      "metadata": {
+        "string_id": 185,
+        "speaker_string_id": 186,
+        "dialogue_id": "A2M5-T170-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ese inquisidor usará la Luz para quemar a nuestras tropas. ¡Hay que acabar con él!",
+      "metadata": {
+        "string_id": 500,
+        "speaker_string_id": 501,
+        "dialogue_id": "A2M5-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "Inquisidor Kerran",
+      "text": "¡Criaturas inmundas! ¡Arded en el fuego sagrado!",
+      "metadata": {
+        "string_id": 490,
+        "speaker_string_id": 491,
+        "dialogue_id": "A2M5-T190-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Hasta nunca. Nuestras tropas ya pueden avanzar.",
+      "metadata": {
+        "string_id": 450,
+        "speaker_string_id": 451,
+        "dialogue_id": "A2M5-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Guardia de la muerte",
+      "text": "¡Capitán! ¡Nuestras catapultas de despojos pueden derribar la torre, pero antes hay que deshacerse de esos cañones!",
+      "metadata": {
+        "string_id": 466,
+        "speaker_string_id": 467,
+        "dialogue_id": "A2M5-T555-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "Cruzado Artonius",
+      "text": "¡No! ¡Este asedio termina aquí!",
+      "metadata": {
+        "string_id": 479,
+        "speaker_string_id": 480,
+        "dialogue_id": "A2M5-T220-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "A la Cruzada solo le queda una línea de contención. ¡Estamos muy cerca del monasterio!",
+      "metadata": {
+        "string_id": 474,
+        "speaker_string_id": 475,
+        "dialogue_id": "A2M5-T230-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡Pues pongamos fin a esta batalla!",
+      "metadata": {
+        "string_id": 472,
+        "speaker_string_id": 473,
+        "dialogue_id": "A2M5-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Soldado raso Escarlata",
+      "text": "¡Al ataque!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "Tirador Escarlata",
+      "text": "¡Usaré tu cabeza como decoración!",
+      "metadata": {
+        "string_id": 320,
+        "speaker_string_id": 321,
+        "dialogue_id": "ScarletMarksman_Warcry1"
+      }
+    },
+    {
+      "speaker": "Soldado raso Escarlata",
+      "text": "¡A las armas!",
+      "metadata": {
+        "string_id": 325,
+        "speaker_string_id": 326,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Soldado raso Escarlata",
+      "text": "¡Al ataque!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "Cruzado",
+      "text": "¡Por el honor! ¡Por la libertad!",
+      "metadata": {
+        "string_id": 707,
+        "speaker_string_id": 708,
+        "dialogue_id": "KnightWarcry1"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Atacaremos todos juntos!",
+      "metadata": {
+        "string_id": 1178,
+        "speaker_string_id": 1179,
+        "dialogue_id": "A2M5-T250-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Aquí estoy, mi señora!",
+      "metadata": {
+        "string_id": 1180,
+        "speaker_string_id": 1181,
+        "dialogue_id": "A2M5-T260-mograine"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Están ganando terreno, mi señora! ¡Deberíamos retirarnos y defender el monasterio!",
+      "metadata": {
+        "string_id": 1230,
+        "speaker_string_id": 1231,
+        "dialogue_id": "A2M5-T370-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "De acuerdo. ¡Es cuestión de tiempo que esas abominaciones impías paguen por su traición!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "A2M5-T380-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Lucha, campeón!",
+      "metadata": {
+        "string_id": 1200,
+        "speaker_string_id": 1201,
+        "dialogue_id": "A2M5-T320-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡¿Os atrevéis a atacar a la alta inquisidora?!",
+      "metadata": {
+        "string_id": 1275,
+        "speaker_string_id": 1276,
+        "dialogue_id": "A2M5-T300-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Quienes sirven a la Luz gozan de su protección!",
+      "metadata": {
+        "string_id": 1203,
+        "speaker_string_id": 1204,
+        "dialogue_id": "A2M5-T330-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡La victoria será nuestra!",
+      "metadata": {
+        "string_id": 1215,
+        "speaker_string_id": 1216,
+        "dialogue_id": "A2M5-T340-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Haz que retrocedan esos paganos, Mograine!",
+      "metadata": {
+        "string_id": 1220,
+        "speaker_string_id": 1221,
+        "dialogue_id": "A2M5-T350-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Que ardan las llamas de la salvación!",
+      "metadata": {
+        "string_id": 1225,
+        "speaker_string_id": 1226,
+        "dialogue_id": "A2M5-T360-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡A mí, monstruos!",
+      "metadata": {
+        "string_id": 1244,
+        "speaker_string_id": 1245,
+        "dialogue_id": "A2M5-T270-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Seréis purificados!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "A2M5-T280-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Todos acaban sucumbiendo a la Cruzada Escarlata!",
+      "metadata": {
+        "string_id": 1262,
+        "speaker_string_id": 1263,
+        "dialogue_id": "A2M5-T290-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Vuestra miserable existencia termina aquí!",
+      "metadata": {
+        "string_id": 1278,
+        "speaker_string_id": 1279,
+        "dialogue_id": "A2M5-T310-MOGRAINE"
+      }
+    }
+  ]
+}

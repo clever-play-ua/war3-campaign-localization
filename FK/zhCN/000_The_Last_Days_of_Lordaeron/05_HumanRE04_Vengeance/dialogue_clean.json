@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "zhCN",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "伊拉斯塔",
+      "text": "看看阿尔萨斯造成了怎样的破坏。他还要焚毁多少座城市？夺去多少人的生命？",
+      "metadata": {
+        "string_id": 1030,
+        "speaker_string_id": 1031,
+        "dialogue_id": "HRE04-M010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "瑞文戴尔就是推动这个计划的人。我们必须要在此时此地解决他。",
+      "metadata": {
+        "string_id": 1033,
+        "speaker_string_id": 1034,
+        "dialogue_id": "HRE04-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "没错。城市一定会加强戒备，不过我可以从侧门进去，然后升起闸门。",
+      "metadata": {
+        "string_id": 1036,
+        "speaker_string_id": 1037,
+        "dialogue_id": "HRE04-M010-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这个计划很可靠。在我们重新会合之前，一定要注意安全。",
+      "metadata": {
+        "string_id": 1103,
+        "speaker_string_id": 1104,
+        "dialogue_id": "HRE04-M010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "你也是，加瑞克。愿圣光指引你的剑锋。",
+      "metadata": {
+        "string_id": 1042,
+        "speaker_string_id": 1043,
+        "dialogue_id": "HRE04-M010-050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "莱斯·霜语",
+      "text": "肯瑞托那些懦夫法师对我的天赋和野心不屑一顾，但巫妖王却对我赏识有加！",
+      "metadata": {
+        "string_id": 1381,
+        "speaker_string_id": 1382,
+        "dialogue_id": "HRE04-T130-RAS"
+      }
+    },
+    {
+      "speaker": "莱斯·霜语",
+      "text": "现在我已经摒弃了羸弱的凡人血肉，投入了不死亡灵的怀抱！",
+      "metadata": {
+        "string_id": 1417,
+        "speaker_string_id": 1418,
+        "dialogue_id": "HRE04-T140-RAS"
+      }
+    },
+    {
+      "speaker": "莱斯·霜语",
+      "text": "见证吧！我已焕然一新，成为了最完美的形态，拥有最完美的力量。",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "HRE04-T150-RAS"
+      }
+    },
+    {
+      "speaker": "莱斯·霜语",
+      "text": "莱尼德！告诉我的学生按照他们自己的想法去做。现在有更伟大的命运在等待着我！",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "HRE04-T160-RAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "瑞文戴尔！你会为自己的罪行付出死亡的代价！",
+      "metadata": {
+        "string_id": 1046,
+        "speaker_string_id": 1047,
+        "dialogue_id": "HRE04-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "瑞文戴尔男爵",
+      "text": "死亡？你们又懂什么死亡？",
+      "metadata": {
+        "string_id": 1054,
+        "speaker_string_id": 1055,
+        "dialogue_id": "HRE04-M030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "瑞文戴尔男爵",
+      "text": "我见识过，更操纵过它真正的力量！巫妖王赋予了我全新的生命，你们这些愚蠢的弱者永远无法理解！",
+      "metadata": {
+        "string_id": 1056,
+        "speaker_string_id": 1057,
+        "dialogue_id": "HRE04-M030-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "瑞文戴尔男爵",
+      "text": "现在，我会让你用尽全身力气尖叫，就像你那可悲的队长一样！",
+      "metadata": {
+        "string_id": 1058,
+        "speaker_string_id": 1059,
+        "dialogue_id": "HRE04-M030-040-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "你没资格提他的名字！去死吧，你这卑鄙的害虫！我要为兰登报仇！",
+      "metadata": {
+        "string_id": 1052,
+        "speaker_string_id": 1053,
+        "dialogue_id": "HRE04-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "一箱箱的谷物，都被瘟疫感染了。瑞文戴尔就是这样将自己的人民逼上绝路。",
+      "metadata": {
+        "string_id": 1233,
+        "speaker_string_id": 1234,
+        "dialogue_id": "HRE04-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "大门锁上了。我们得等伊拉斯塔将门打开。",
+      "metadata": {
+        "string_id": 1235,
+        "speaker_string_id": 1236,
+        "dialogue_id": "HRE04-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "道路已经打通了。我会留在这里，侦察前方敌情。",
+      "metadata": {
+        "string_id": 1340,
+        "speaker_string_id": 1341,
+        "dialogue_id": "HRE04-T040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "迫击炮小队",
+      "text": "你是……活人吗？感谢圣光！我们已经被天灾军团包围好几个星期了！",
+      "metadata": {
+        "string_id": 1216,
+        "speaker_string_id": 1217,
+        "dialogue_id": "HRE04-T050-MORTARTEAM"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "集中力量摧毁地穴，否则我们毫无胜算。",
+      "metadata": {
+        "string_id": 1107,
+        "speaker_string_id": 1176,
+        "dialogue_id": "HRE04-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "伊拉斯塔，你那边的情况如何？",
+      "metadata": {
+        "string_id": 1467,
+        "speaker_string_id": 1451,
+        "dialogue_id": "HRE04-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "还行。我会在上面尽力为你们提供治疗。",
+      "metadata": {
+        "string_id": 1469,
+        "speaker_string_id": 1470,
+        "dialogue_id": "HRE04-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "阿隆索斯礼拜堂。那些邪教徒对这里犯下了何等亵渎之举？",
+      "metadata": {
+        "string_id": 1329,
+        "speaker_string_id": 1330,
+        "dialogue_id": "HRE04-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "我无法独力击败他们。加瑞克的迫击炮小队能从远处支援。",
+      "metadata": {
+        "string_id": 1109,
+        "speaker_string_id": 1177,
+        "dialogue_id": "HRE04-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "火枪手",
+      "text": "援军来了！我跟你们说过，只需要再多坚持一会就好了！",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "HRE04-T090-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "大门还是紧闭的。一定还有第二个控制杆。",
+      "metadata": {
+        "string_id": 1113,
+        "speaker_string_id": 1178,
+        "dialogue_id": "HRE04-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "大门还是关着的。一定还有别的控制杆。",
+      "metadata": {
+        "string_id": 1249,
+        "speaker_string_id": 1250,
+        "dialogue_id": "HRE04-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "大门打开了！让霜语尝尝我们刀剑的厉害吧！",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "大门打开了！让霜语尝尝我们刀剑的厉害吧！",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "市民",
+      "text": "你救了我！我想赶紧离开这里！",
+      "metadata": {
+        "string_id": 1471,
+        "speaker_string_id": 1452,
+        "dialogue_id": "HRE04-T240-CIVILIANM"
+      }
+    },
+    {
+      "speaker": "市民",
+      "text": "太谢谢了，仁慈的长官！我还以为自己要死了，甚至会变得生不如死！",
+      "metadata": {
+        "string_id": 1472,
+        "speaker_string_id": 1453,
+        "dialogue_id": "HRE04-T270-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "市民",
+      "text": "这是真的吗？这场噩梦过去了？我不知道该如何谢你！",
+      "metadata": {
+        "string_id": 1473,
+        "speaker_string_id": 1454,
+        "dialogue_id": "HRE04-T290-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "满大街都是亡灵。最好尽可能避开它们。",
+      "metadata": {
+        "string_id": 1251,
+        "speaker_string_id": 1252,
+        "dialogue_id": "HRE04-T430-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "他们来了！准备战斗！",
+      "metadata": {
+        "string_id": 1117,
+        "speaker_string_id": 1181,
+        "dialogue_id": "HRE04-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "大门锁上了。没有钥匙是进不去的。",
+      "metadata": {
+        "string_id": 1119,
+        "speaker_string_id": 1182,
+        "dialogue_id": "HRE04-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "通向十字军广场的路已经打通。瑞文戴尔藏不了多久了。",
+      "metadata": {
+        "string_id": 1121,
+        "speaker_string_id": 1183,
+        "dialogue_id": "HRE04-T460-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那是只恶魔！他长着翅膀和尖角，脚上是蹄子！",
+      "metadata": {
+        "string_id": 1474,
+        "speaker_string_id": 1455,
+        "dialogue_id": "HRE04-T470-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "斯坦索姆是洛丹伦最大的城市之一。但瑞文戴尔居然将其拱手献给了亡灵！",
+      "metadata": {
+        "string_id": 1122,
+        "speaker_string_id": 1184,
+        "dialogue_id": "HRE04-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "他不过是将灵魂出卖给天灾军团的许多人之一。他们都会在圣火中化为灰烬。",
+      "metadata": {
+        "string_id": 1124,
+        "speaker_string_id": 1185,
+        "dialogue_id": "HRE04-T510-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "可恶，我们的兵力被分割了。我们必须要找到打开大门的控制杆。",
+      "metadata": {
+        "string_id": 1125,
+        "speaker_string_id": 1186,
+        "dialogue_id": "HRE04-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们重整队形，然后继续前进。",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1187,
+        "dialogue_id": "HRE04-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "骑士",
+      "text": "还有更多幸存者！守住阵地！",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "HRE04-T520-KNIGHT"
+      }
+    },
+    {
+      "speaker": "市民",
+      "text": "我们被困住了，救救我们，求求你！",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1456,
+        "dialogue_id": "HRE04-T550-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "市民",
+      "text": "洛丹伦亡国了！",
+      "metadata": {
+        "string_id": 1476,
+        "speaker_string_id": 1457,
+        "dialogue_id": "HRE04-T560-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这就是所有邪教徒的下场！",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1458,
+        "dialogue_id": "HRE04-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "这里就是瑞文戴尔发号施令的亵渎之塔。",
+      "metadata": {
+        "string_id": 1130,
+        "speaker_string_id": 1188,
+        "dialogue_id": "HRE04-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我要把他碎尸万段，再把他从护墙上扔下去。",
+      "metadata": {
+        "string_id": 1131,
+        "speaker_string_id": 1189,
+        "dialogue_id": "HRE04-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "加瑞克，可能还有很多幸存者困在城里。",
+      "metadata": {
+        "string_id": 1132,
+        "speaker_string_id": 1190,
+        "dialogue_id": "HRE04-T620-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们的士兵可以继续搜寻需要援救的平民。",
+      "metadata": {
+        "string_id": 1134,
+        "speaker_string_id": 1191,
+        "dialogue_id": "HRE04-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "任务完成后，我们在壁炉谷会合。现在，我们去将瑞文戴尔绳之以法吧。",
+      "metadata": {
+        "string_id": 1136,
+        "speaker_string_id": 1208,
+        "dialogue_id": "HRE04-T640-GAREK"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "为了洛丹伦！",
+      "metadata": {
+        "string_id": 1478,
+        "speaker_string_id": 1459,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "上啊！",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "女巫",
+      "text": "胜利将属于我们！",
+      "metadata": {
+        "string_id": 1259,
+        "speaker_string_id": 1260,
+        "dialogue_id": "SorceressYesAttack2"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "只是皮外伤而已……",
+      "metadata": {
+        "string_id": 1139,
+        "speaker_string_id": 1140,
+        "dialogue_id": "FootmanPissed4"
+      }
+    },
+    {
+      "speaker": "牧师",
+      "text": "我前来净化这片土地。",
+      "metadata": {
+        "string_id": 1142,
+        "speaker_string_id": 1143,
+        "dialogue_id": "PriestReady1"
+      }
+    },
+    {
+      "speaker": "火枪手",
+      "text": "填弹完毕，锁定目标！",
+      "metadata": {
+        "string_id": 1144,
+        "speaker_string_id": 1145,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "迫击炮小队",
+      "text": "开始战斗！",
+      "metadata": {
+        "string_id": 1146,
+        "speaker_string_id": 1147,
+        "dialogue_id": "MortarTeamWhat1"
+      }
+    },
+    {
+      "speaker": "莱斯·霜语",
+      "text": "啊，又来找死？这一次我要活活扒了你们的皮！",
+      "metadata": {
+        "string_id": 1265,
+        "speaker_string_id": 1266,
+        "dialogue_id": "HRE04-T210-RAS"
+      }
+    },
+    {
+      "speaker": "莱斯·霜语",
+      "text": "凡人们，别以为这么容易就能杀死我。我们会再见面的。",
+      "metadata": {
+        "string_id": 1269,
+        "speaker_string_id": 1270,
+        "dialogue_id": "HRE04-T220-RAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "别管他了。我们真正的目标是瑞文戴尔。",
+      "metadata": {
+        "string_id": 1153,
+        "speaker_string_id": 1209,
+        "dialogue_id": "HRE04-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "洛瑟拉斯",
+      "text": "你的痛苦一定会非常美味。",
+      "metadata": {
+        "string_id": 1305,
+        "speaker_string_id": 1306,
+        "dialogue_id": "HRE04-T480-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "洛瑟拉斯",
+      "text": "我们的故事还没结束，渺小的凡人们。",
+      "metadata": {
+        "string_id": 1307,
+        "speaker_string_id": 1308,
+        "dialogue_id": "HRE04-T490-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "格林萨恩",
+      "text": "你们的骨骸将化为天灾军团的炮灰。",
+      "metadata": {
+        "string_id": 1297,
+        "speaker_string_id": 1298,
+        "dialogue_id": "HRE04-T580-GRIMTHANE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "现在，你的骨头可以去陪你的同党了。",
+      "metadata": {
+        "string_id": 1303,
+        "speaker_string_id": 1304,
+        "dialogue_id": "HRE04-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "瑞文戴尔男爵",
+      "text": "你们都会侍奉我！",
+      "metadata": {
+        "string_id": 1295,
+        "speaker_string_id": 1296,
+        "dialogue_id": "HRE04-T650-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "瑞文戴尔男爵",
+      "text": "天灾军团无穷无尽！等着在你们自己的血泊里溺亡吧！",
+      "metadata": {
+        "string_id": 1479,
+        "speaker_string_id": 1460,
+        "dialogue_id": "HRE04-T660-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这……是什么东西？我的肺里……",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1461,
+        "dialogue_id": "HRE04-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "是瘟疫孢子……我们……我们被感染了……",
+      "metadata": {
+        "string_id": 1481,
+        "speaker_string_id": 1462,
+        "dialogue_id": "HRE04-T680-ILASTAR"
+      }
+    },
+    {
+      "speaker": "瑞文戴尔男爵",
+      "text": "恼人的虫豸！让你们见识下真正的力量！",
+      "metadata": {
+        "string_id": 1482,
+        "speaker_string_id": 1463,
+        "dialogue_id": "HRE04-T690-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "伊拉斯塔，那些方尖碑！快把它们毁掉！",
+      "metadata": {
+        "string_id": 1483,
+        "speaker_string_id": 1464,
+        "dialogue_id": "HRE04-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "我……做不到……",
+      "metadata": {
+        "string_id": 1484,
+        "speaker_string_id": 1465,
+        "dialogue_id": "HRE04-T710-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "坚持住，伊拉斯塔！",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1466,
+        "dialogue_id": "HRE04-T720-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "圣光在上！那些蘑菇喷出的孢子正在散播瘟疫。绝不能再让它们肆意生长了！",
+      "metadata": {
+        "string_id": 1163,
+        "speaker_string_id": 1211,
+        "dialogue_id": "HRE04-T070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "让那些孢子被埋葬在这座城市的废墟里吧。",
+      "metadata": {
+        "string_id": 1164,
+        "speaker_string_id": 1212,
+        "dialogue_id": "HRE04-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "似乎有些人试图通过海路逃离斯坦索姆。诅咒教派一定是把他们的船击沉了。",
+      "metadata": {
+        "string_id": 1165,
+        "speaker_string_id": 1213,
+        "dialogue_id": "HRE04-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "伊拉斯塔",
+      "text": "我们应该回收他们的补给，为我们的战事提供帮助。",
+      "metadata": {
+        "string_id": 1166,
+        "speaker_string_id": 1214,
+        "dialogue_id": "HRE04-T410-ILASTAR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这些补给应该够用了。现在回到陆地上去吧。",
+      "metadata": {
+        "string_id": 1167,
+        "speaker_string_id": 1215,
+        "dialogue_id": "HRE04-T420-GAREK"
+      }
+    }
+  ]
+}

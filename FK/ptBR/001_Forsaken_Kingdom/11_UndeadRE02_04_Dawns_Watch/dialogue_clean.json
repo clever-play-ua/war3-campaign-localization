@@ -1,0 +1,269 @@
+{
+  "map": "UndeadRE02",
+  "title": "Dawns Watch",
+  "locale": "ptBR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Soldado",
+      "text": "Pronto para a ação!",
+      "metadata": {
+        "string_id": 912,
+        "speaker_string_id": 911,
+        "dialogue_id": "FootmanReady1"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "Sou seu servo.",
+      "metadata": {
+        "string_id": 913,
+        "speaker_string_id": 914,
+        "dialogue_id": "PriestYes1"
+      }
+    },
+    {
+      "speaker": "Soldado",
+      "text": "Basta falar.",
+      "metadata": {
+        "string_id": 915,
+        "speaker_string_id": 916,
+        "dialogue_id": "FootmanWhat4"
+      }
+    },
+    {
+      "speaker": "Carabineiro",
+      "text": "Mas tô pronto pra atirar!",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Lorde Tyrosus",
+      "text": "O Flagelo nos encontrou! Aurora Argêntea, às armas!",
+      "metadata": {
+        "string_id": 411,
+        "speaker_string_id": 412,
+        "dialogue_id": "A2M4-C010-010-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Eu sabia que isso aconteceria!",
+      "metadata": {
+        "string_id": 852,
+        "speaker_string_id": 851,
+        "dialogue_id": "A2M4-C010-011-ANYA"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Lorde Tyrosus! Estes Renegados estão sob minha proteção.",
+      "metadata": {
+        "string_id": 854,
+        "speaker_string_id": 853,
+        "dialogue_id": "A2M4-C010-012-LEONID"
+      }
+    },
+    {
+      "speaker": "Lorde Tyrosus",
+      "text": "Leonid, graças à Luz, você voltou! Então, esses mortos-vivos...",
+      "metadata": {
+        "string_id": 856,
+        "speaker_string_id": 855,
+        "dialogue_id": "A2M4-C010-013-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "São como eu. E estão sob ataque da Cruzada Escarlate.",
+      "metadata": {
+        "string_id": 858,
+        "speaker_string_id": 857,
+        "dialogue_id": "A2M4-C010-014-LEONID"
+      }
+    },
+    {
+      "speaker": "Lorde Tyrosus",
+      "text": "Esses fanáticos precisam ser detidos.",
+      "metadata": {
+        "string_id": 505,
+        "speaker_string_id": 506,
+        "dialogue_id": "A2M4-C010-020-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Você acha mesmo que vamos acreditar que existe alguma diferença entre vocês?",
+      "metadata": {
+        "string_id": 395,
+        "speaker_string_id": 396,
+        "dialogue_id": "A2M4-C010-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Defeat the Essence of Fear",
+      "text": "Nós todos já fomos Cavaleiros do Punho de Prata. Mas aqueles que buscam vingança por Lordaeron corromperam a ordem para fundar a Cruzada Escarlate.",
+      "metadata": {
+        "string_id": 509,
+        "speaker_string_id": 510,
+        "dialogue_id": "A2M4-C010-040-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Return to Magistrate Sevren",
+      "text": "Nós, que acreditamos piamente nos ensinamentos da Luz, seguimos nosso próprio caminho e fundamos a Aurora Argêntea.",
+      "metadata": {
+        "string_id": 513,
+        "speaker_string_id": 514,
+        "dialogue_id": "A2M4-C010-050-TYROSUS"
+      }
+    },
+    {
+      "speaker": "|cfffac896Map:|r Undercity|n|nLeonid has valuable insight into the movement of the Scarlet Crusade. Bring him to Sylvanas and see if she will have use of it.",
+      "text": "Infelizmente, não somos tão numerosos. A Cruzada continua se fortalecendo em seu monastério e nós não temos muita esperança de derrotá-los em batalha.",
+      "metadata": {
+        "string_id": 515,
+        "speaker_string_id": 516,
+        "dialogue_id": "A2M4-C010-060-TYROSUS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Esse monastério... Você poderia nos mostrar onde fica?",
+      "metadata": {
+        "string_id": 460,
+        "speaker_string_id": 461,
+        "dialogue_id": "A2M4-C010-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Vocês podem não ter tropas suficientes para fazer um cerco na fortaleza da Cruzada, mas os Renegados têm.",
+      "metadata": {
+        "string_id": 469,
+        "speaker_string_id": 470,
+        "dialogue_id": "A2M4-C010-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Você nos colocaria para lutar a guerra deles?",
+      "metadata": {
+        "string_id": 478,
+        "speaker_string_id": 479,
+        "dialogue_id": "A2M4-C010-090-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Esta guerra também é nossa. A Cruzada Escarlate certamente atacará a Cidade Baixa de novo.",
+      "metadata": {
+        "string_id": 860,
+        "speaker_string_id": 859,
+        "dialogue_id": "A2M4-C010-091-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Eu os levarei até lá. Duvido que Lady Sylvana confie em qualquer outra pessoa da Aurora Argêntea.",
+      "metadata": {
+        "string_id": 487,
+        "speaker_string_id": 488,
+        "dialogue_id": "A2M4-C010-100-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Terá muita sorte se ela confiar em você.",
+      "metadata": {
+        "string_id": 496,
+        "speaker_string_id": 497,
+        "dialogue_id": "A2M4-C010-110-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Então está decidido. Que a Luz guie nosso caminho.",
+      "metadata": {
+        "string_id": 501,
+        "speaker_string_id": 502,
+        "dialogue_id": "A2M4-C010-120-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "A Aurora Argêntea precisou se posicionar no território ôgrico. Imagino que teremos que lutar para alcançar o topo da colina.",
+      "metadata": {
+        "string_id": 154,
+        "speaker_string_id": 155,
+        "dialogue_id": "A2M4-T010-LEONID"
+      }
+    },
+    {
+      "speaker": "Soldado",
+      "text": "Leonid! Os ogros aprisionaram nossas patrulhas! O forte está sob ataque!",
+      "metadata": {
+        "string_id": 126,
+        "speaker_string_id": 127,
+        "dialogue_id": "A2M4-T020-ARGENTDAWNCAPTIVE"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "O quê?! Então não temos tempo a perder! Precisamos resgatar os outros e interromper esse cerco!",
+      "metadata": {
+        "string_id": 146,
+        "speaker_string_id": 147,
+        "dialogue_id": "A2M4-T030-LEONID"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Pela graça da Luz, não chegamos tarde demais! Os portões do forte ainda estão de pé!",
+      "metadata": {
+        "string_id": 258,
+        "speaker_string_id": 259,
+        "dialogue_id": "A2M4-T060-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Eles não vão durar por muito mais tempo. Precisamos acabar com esse cerco agora!",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "A2M4-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Agora que interrompemos o cerco, os outros ogros correrão para as colinas. Vamos entrar no forte.",
+      "metadata": {
+        "string_id": 252,
+        "speaker_string_id": 253,
+        "dialogue_id": "A2M4-T080-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Está na hora de contar à Lady Sylvana o que descobrimos.",
+      "metadata": {
+        "string_id": 833,
+        "speaker_string_id": 834,
+        "dialogue_id": "A2M4-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Não espere uma recepção calorosa, Leonid. Nem todos os Renegados são tão clementes quanto eu.",
+      "metadata": {
+        "string_id": 835,
+        "speaker_string_id": 836,
+        "dialogue_id": "A2M4-T100-ANYA"
+      }
+    }
+  ]
+}

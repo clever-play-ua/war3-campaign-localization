@@ -1,0 +1,116 @@
+{
+  "map": "UndeadRE01",
+  "title": "Arcane Sanctuary",
+  "locale": "enUS",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Garek",
+      "text": "What is this place?",
+      "metadata": {
+        "string_id": 1143,
+        "speaker_string_id": 1144,
+        "dialogue_id": "A1M5-C010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "A pocket dimension, created by a mage to store all of their junk.",
+      "metadata": {
+        "string_id": 1152,
+        "speaker_string_id": 1153,
+        "dialogue_id": "A1M5-C010-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "As expected, it’s filled with guardian constructs and probably lined with traps as well.",
+      "metadata": {
+        "string_id": 1161,
+        "speaker_string_id": 1162,
+        "dialogue_id": "A1M5-C010-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We’ll have to use the portals to navigate its halls. Hopefully, there’s something worth the hassle waiting for us at the end.",
+      "metadata": {
+        "string_id": 1169,
+        "speaker_string_id": 1170,
+        "dialogue_id": "A1M5-C010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "It looks like this could fit within the portal's frame. I'd wager it's the power source we need.",
+      "metadata": {
+        "string_id": 873,
+        "speaker_string_id": 874,
+        "dialogue_id": "A1M5-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "This portal seems inert. Perhaps it requires a source of power.",
+      "metadata": {
+        "string_id": 848,
+        "speaker_string_id": 849,
+        "dialogue_id": "A1M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "These accursed mages and their little tricks. We'll have to retrace our steps.",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A1M5-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "This beam could probably activate the next portal if we can remove the obstacles in its path.",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A1M5-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "It was an illusion! The real artifact must be elsewhere in the vault.",
+      "metadata": {
+        "string_id": 992,
+        "speaker_string_id": 993,
+        "dialogue_id": "A1M5-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Our search continues.",
+      "metadata": {
+        "string_id": 994,
+        "speaker_string_id": 995,
+        "dialogue_id": "A1M5-T060-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Looks like this is the real artifact.",
+      "metadata": {
+        "string_id": 998,
+        "speaker_string_id": 999,
+        "dialogue_id": "A1M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Finally. Let's get this blasted thing back to Lexington.",
+      "metadata": {
+        "string_id": 1006,
+        "speaker_string_id": 1007,
+        "dialogue_id": "A1M5-T080-ANYA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "map": "UndeadRE01",
+  "title": "Tirisfal Glades",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Фаранелл",
+      "text": "О, Ания. А мы тебя уж заждались. Гнилесс прислал нам список нужных ему реагентов.",
+      "metadata": {
+        "string_id": 2177,
+        "speaker_string_id": 2178,
+        "dialogue_id": "A1M3-M020-010-FARANELL"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как предусмотрительно с его стороны. У вас тут все в порядке?",
+      "metadata": {
+        "string_id": 1840,
+        "speaker_string_id": 1841,
+        "dialogue_id": "A1M3-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Фаранелл",
+      "text": "В целом, да. Хотя я скучаю по своей уютной лаборатории.",
+      "metadata": {
+        "string_id": 1826,
+        "speaker_string_id": 1827,
+        "dialogue_id": "A1M3-M020-030-FARANELL"
+      }
+    },
+    {
+      "speaker": "Мелизара",
+      "text": "Кстати, Ания, глупый Толстяк опять куда-то подевался. Приведи его в лагерь, если вдруг увидишь, ладно?",
+      "metadata": {
+        "string_id": 1838,
+        "speaker_string_id": 1839,
+        "dialogue_id": "A1M3-M020-040-MELISARA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы будем смотреть в оба. Да благоволит тебе Темная Госпожа.",
+      "metadata": {
+        "string_id": 1842,
+        "speaker_string_id": 1843,
+        "dialogue_id": "A1M3-M020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Эй! Друзья, нам бы не помешала помощь! Мы, разумеется, щедро заплатим!",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M3-M030-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Хм-м. Продолжай.",
+      "metadata": {
+        "string_id": 1862,
+        "speaker_string_id": 1863,
+        "dialogue_id": "A1M3-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "На нас напали гноллы, из-за чего нам пришлось бросить весь товар. Если вернете его, мы отдадим вам четверть наших запасов.",
+      "metadata": {
+        "string_id": 1870,
+        "speaker_string_id": 1871,
+        "dialogue_id": "A1M3-M030-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Давайте половину, или нам не о чем разговаривать.",
+      "metadata": {
+        "string_id": 1880,
+        "speaker_string_id": 1881,
+        "dialogue_id": "A1M3-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Половину?! Да это грабеж какой-то!",
+      "metadata": {
+        "string_id": 1874,
+        "speaker_string_id": 1875,
+        "dialogue_id": "A1M3-M030-050-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Хотя... нас сегодня уже и так ограбили. Ладно, по рукам.",
+      "metadata": {
+        "string_id": 1878,
+        "speaker_string_id": 1879,
+        "dialogue_id": "A1M3-M030-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "О, вы справились! И наши товары не пострадали!",
+      "metadata": {
+        "string_id": 1891,
+        "speaker_string_id": 1892,
+        "dialogue_id": "A1M3-M040-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ага. Так что там по поводу оплаты?",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M3-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Ой, конечно-конечно! Мы лично доставим вашу половину в этот, как там его... Подгород.",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A1M3-M040-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Пожалуй, это лучший способ выразить признательность нашим новым покупат... кхе-кхе, гостеприимным хозяевам!",
+      "metadata": {
+        "string_id": 1910,
+        "speaker_string_id": 1911,
+        "dialogue_id": "A1M3-M040-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вот проныра...",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A1M3-M040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Ого! Разумеется, без оплаты мы вас не оставим! Очень признательны!",
+      "metadata": {
+        "string_id": 1922,
+        "speaker_string_id": 1923,
+        "dialogue_id": "A1M3-M040-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы с благодарностью принимаем ваше предложение. Отрекшимся ваши товары пригодятся. Увидимся в городе.",
+      "metadata": {
+        "string_id": 1926,
+        "speaker_string_id": 1927,
+        "dialogue_id": "A1M3-M040-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Фаранелл",
+      "text": "О, Ания. А мы тебя уж заждались. Гнилесс прислал нам список нужных ему реагентов.",
+      "metadata": {
+        "string_id": 2177,
+        "speaker_string_id": 2178,
+        "dialogue_id": "A1M3-M020-010-FARANELL"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как предусмотрительно с его стороны. У вас тут все в порядке?",
+      "metadata": {
+        "string_id": 1840,
+        "speaker_string_id": 1841,
+        "dialogue_id": "A1M3-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Фаранелл",
+      "text": "В целом, да. Хотя я скучаю по своей уютной лаборатории.",
+      "metadata": {
+        "string_id": 1826,
+        "speaker_string_id": 1827,
+        "dialogue_id": "A1M3-M020-030-FARANELL"
+      }
+    },
+    {
+      "speaker": "Мелизара",
+      "text": "Кстати, Ания, глупый Толстяк опять куда-то подевался. Приведи его в лагерь, если вдруг увидишь, ладно?",
+      "metadata": {
+        "string_id": 1838,
+        "speaker_string_id": 1839,
+        "dialogue_id": "A1M3-M020-040-MELISARA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы будем смотреть в оба. Да благоволит тебе Темная Госпожа.",
+      "metadata": {
+        "string_id": 1842,
+        "speaker_string_id": 1843,
+        "dialogue_id": "A1M3-M020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Эй! Друзья, нам бы не помешала помощь! Мы, разумеется, щедро заплатим!",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M3-M030-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Хм-м. Продолжай.",
+      "metadata": {
+        "string_id": 1862,
+        "speaker_string_id": 1863,
+        "dialogue_id": "A1M3-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "На нас напали гноллы, из-за чего нам пришлось бросить весь товар. Если вернете его, мы отдадим вам четверть наших запасов.",
+      "metadata": {
+        "string_id": 1870,
+        "speaker_string_id": 1871,
+        "dialogue_id": "A1M3-M030-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Давайте половину, или нам не о чем разговаривать.",
+      "metadata": {
+        "string_id": 1880,
+        "speaker_string_id": 1881,
+        "dialogue_id": "A1M3-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Половину?! Да это грабеж какой-то!",
+      "metadata": {
+        "string_id": 1874,
+        "speaker_string_id": 1875,
+        "dialogue_id": "A1M3-M030-050-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Хотя... нас сегодня уже и так ограбили. Ладно, по рукам.",
+      "metadata": {
+        "string_id": 1878,
+        "speaker_string_id": 1879,
+        "dialogue_id": "A1M3-M030-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "О, вы справились! И наши товары не пострадали!",
+      "metadata": {
+        "string_id": 1891,
+        "speaker_string_id": 1892,
+        "dialogue_id": "A1M3-M040-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ага. Так что там по поводу оплаты?",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M3-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Ой, конечно-конечно! Мы лично доставим вашу половину в этот, как там его... Подгород.",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A1M3-M040-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Пожалуй, это лучший способ выразить признательность нашим новым покупат... кхе-кхе, гостеприимным хозяевам!",
+      "metadata": {
+        "string_id": 1910,
+        "speaker_string_id": 1911,
+        "dialogue_id": "A1M3-M040-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вот проныра...",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A1M3-M040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Ого! Разумеется, без оплаты мы вас не оставим! Очень признательны!",
+      "metadata": {
+        "string_id": 1922,
+        "speaker_string_id": 1923,
+        "dialogue_id": "A1M3-M040-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы с благодарностью принимаем ваше предложение. Отрекшимся ваши товары пригодятся. Увидимся в городе.",
+      "metadata": {
+        "string_id": 1926,
+        "speaker_string_id": 1927,
+        "dialogue_id": "A1M3-M040-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вурдалак ловит рыбу? Глазам своим не верю.",
+      "metadata": {
+        "string_id": 1929,
+        "speaker_string_id": 1930,
+        "dialogue_id": "A1M3-T780-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Скорее, за ними!",
+      "metadata": {
+        "string_id": 1932,
+        "speaker_string_id": 1933,
+        "dialogue_id": "A1M3-T790-GAREK"
+      }
+    },
+    {
+      "speaker": "Гокрус",
+      "text": "Раздавлю!",
+      "metadata": {
+        "string_id": 2184,
+        "speaker_string_id": 1567,
+        "dialogue_id": "OgreYesAttack1"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Чуть дальше будет лагерь темных следопытов. Надо бы туда заглянуть.",
+      "metadata": {
+        "string_id": 1589,
+        "speaker_string_id": 1590,
+        "dialogue_id": "A1M3-T010-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Этот лес выглядит совсем уж гиблым местом.",
+      "metadata": {
+        "string_id": 1598,
+        "speaker_string_id": 1599,
+        "dialogue_id": "A1M3-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Скажи спасибо прислужникам Плети. Они хотели поразить скверной весь Лордерон.",
+      "metadata": {
+        "string_id": 1611,
+        "speaker_string_id": 1612,
+        "dialogue_id": "A1M3-T270-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Теперь эти земли принадлежат отрекшимся. Мы не позволим ни Плети, ни живым сюда вторгаться.",
+      "metadata": {
+        "string_id": 1613,
+        "speaker_string_id": 1614,
+        "dialogue_id": "A1M3-T280-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Отрекшихся пауки мало пугают, но все же с ними лучше поосторожнее.",
+      "metadata": {
+        "string_id": 1620,
+        "speaker_string_id": 1621,
+        "dialogue_id": "A1M3-T210-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мурлоки. Мерзкие создания, но их чешуя представляет ценность для алхимиков.",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A1M3-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ания, а как я вообще попал в руки Гнилесса?",
+      "metadata": {
+        "string_id": 1629,
+        "speaker_string_id": 1630,
+        "dialogue_id": "A1M3-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ты был в рядах слуг Плети, которые удерживали столицу. Госпожа Сильвана решила дать им бой.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A1M3-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "После битвы мы собрали поверженную нежить и отправили Гнилессу на... переработку.",
+      "metadata": {
+        "string_id": 1643,
+        "speaker_string_id": 1644,
+        "dialogue_id": "A1M3-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Значит, я сражался против Сильваны, когда был в Плети? Но она все равно приняла меня в ряды отрекшихся?",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A1M3-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Она не понаслышке знает, каково это – быть во власти Короля-лича.",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A1M3-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Несмотря на твои прошлые поступки, она не могла отвернуться от тебя.",
+      "metadata": {
+        "string_id": 1657,
+        "speaker_string_id": 1658,
+        "dialogue_id": "A1M3-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А что насчет тебя, Ания? Как ты присоединилась к отрекшимся?",
+      "metadata": {
+        "string_id": 1660,
+        "speaker_string_id": 1661,
+        "dialogue_id": "A1M3-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "При жизни я служила Сильване. Мы обе погибли, защищая свое королевство от Плети. И нас обеих воскресили в виде нежити.",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A1M3-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Когда я обрела свободу воли, Темная Госпожа предложила мне место, где я могу чувствовать себя своей. И за это я буду вечно ей предана.",
+      "metadata": {
+        "string_id": 1668,
+        "speaker_string_id": 1669,
+        "dialogue_id": "A1M3-T100-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ты помнишь, что делала, когда была под контролем Короля-лича?",
+      "metadata": {
+        "string_id": 1673,
+        "speaker_string_id": 1674,
+        "dialogue_id": "A1M3-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Да. Но я не буду это обсуждать. Ни с тобой, Гарек, ни с кем бы то ни было еще.",
+      "metadata": {
+        "string_id": 1677,
+        "speaker_string_id": 1678,
+        "dialogue_id": "A1M3-T120-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Прошлого уже не изменить. Лучше сосредоточиться на том, что ждет нас впереди.",
+      "metadata": {
+        "string_id": 1681,
+        "speaker_string_id": 1682,
+        "dialogue_id": "A1M3-T130-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, подобные истории не редкость среди отрекшихся. Все пытаются найти хоть что-то светлое в своей печальной судьбе.",
+      "metadata": {
+        "string_id": 1686,
+        "speaker_string_id": 1687,
+        "dialogue_id": "A1M3-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Страдания объединяют нас. Остальные считают нас чудовищами, и поэтому мы можем полагаться только друг на друга.",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A1M3-T150-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Тогда я постараюсь быть полезным. Ради госпожи Сильваны и отрекшихся.",
+      "metadata": {
+        "string_id": 1698,
+        "speaker_string_id": 1699,
+        "dialogue_id": "A1M3-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Вроде все собрали, что нужно было Гнилессу. Пора возвращаться в Подгород.",
+      "metadata": {
+        "string_id": 1703,
+        "speaker_string_id": 1704,
+        "dialogue_id": "A1M3-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Толстяк",
+      "text": "Липкая паутина! Толстяку нужна помощь!",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A1M3-T220-GORDO"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Опять ты во что-то вляпался, Толстяк!",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A1M3-T230-ANYA"
+      }
+    },
+    {
+      "speaker": "Толстяк",
+      "text": "Толстяк свободен! Надо идти в лагерь!",
+      "metadata": {
+        "string_id": 1716,
+        "speaker_string_id": 1717,
+        "dialogue_id": "A1M3-T240-GORDO"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "И не вздумай снова заблудиться.",
+      "metadata": {
+        "string_id": 1719,
+        "speaker_string_id": 1720,
+        "dialogue_id": "A1M3-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Мелизара",
+      "text": "Толстяк нашел парочку вещиц, пока бродил по округе. Взгляните, если будет интересно.",
+      "metadata": {
+        "string_id": 1724,
+        "speaker_string_id": 1725,
+        "dialogue_id": "A1M3-T310-MELISARA"
+      }
+    },
+    {
+      "speaker": "Гликс",
+      "text": "Лагерь гноллов находится к югу отсюда. Главное, не умрите! Снова.",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A1M3-T170-GLIX"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Мы просто позволим им открыть лавку в Подгороде?",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A1M3-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Отрекшимся нужны припасы, а у гоблинов их полно. И если они будут знать, что мы сможем их защитить...",
+      "metadata": {
+        "string_id": 1740,
+        "speaker_string_id": 1741,
+        "dialogue_id": "A1M3-T190-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Тогда Темная Госпожа сможет договариваться о ценах с позиции силы. А что, неплохо.",
+      "metadata": {
+        "string_id": 1743,
+        "speaker_string_id": 1744,
+        "dialogue_id": "A1M3-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Каменоломня находится на северной окраине леса. Идем.",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A1M3-T320-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нам повезло, что Бернд не забыл свои навыки каменщика. Теперь он сможет сделать Подгород лучше.",
+      "metadata": {
+        "string_id": 1756,
+        "speaker_string_id": 1757,
+        "dialogue_id": "A1M3-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Наше прошлое может принести какую-то пользу и после смерти.",
+      "metadata": {
+        "string_id": 1765,
+        "speaker_string_id": 1766,
+        "dialogue_id": "A1M3-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Хм-м. Говоришь со знанием дела, хотя сам недавно пробудился.",
+      "metadata": {
+        "string_id": 1769,
+        "speaker_string_id": 1770,
+        "dialogue_id": "A1M3-T350-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ну, как ты и сказала, я схватываю на лету.",
+      "metadata": {
+        "string_id": 1771,
+        "speaker_string_id": 1772,
+        "dialogue_id": "A1M3-T360-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, огры соорудили здесь какие-то укрепления.",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A1M3-T370-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Тогда надо решить, как мы поступим. Ударим в лоб или попробуем найти обходной путь?",
+      "metadata": {
+        "string_id": 1779,
+        "speaker_string_id": 1780,
+        "dialogue_id": "A1M3-T380-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "После гибели вождя остальные огры разбредутся по холмам.",
+      "metadata": {
+        "string_id": 1785,
+        "speaker_string_id": 1786,
+        "dialogue_id": "A1M3-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Каменоломня наша. Теперь ничто не помешает работе Бернда.",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A1M3-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Своеобразный, конечно, способ ловить рыбу. Ладно, давай отведем этого вурдалака к Чанну.",
+      "metadata": {
+        "string_id": 1793,
+        "speaker_string_id": 1794,
+        "dialogue_id": "A1M3-T791-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, вурдалак в бою не пострадал. Давай отведем его к Чанну.",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A1M3-T792-GAREK"
+      }
+    },
+    {
+      "speaker": "Главарь разбойников",
+      "text": "Нежить! Порубим их на куски и заберем все ценное!",
+      "metadata": {
+        "string_id": 1803,
+        "speaker_string_id": 1804,
+        "dialogue_id": "A1M3-T410-BANDITLEADER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, это те части тел, о которых говорил Чанн.",
+      "metadata": {
+        "string_id": 1806,
+        "speaker_string_id": 1807,
+        "dialogue_id": "A1M3-T420-GAREK"
+      }
+    }
+  ]
+}

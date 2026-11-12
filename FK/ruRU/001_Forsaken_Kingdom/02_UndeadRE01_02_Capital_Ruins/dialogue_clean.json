@@ -1,0 +1,449 @@
+{
+  "map": "UndeadRE01",
+  "title": "Capital Ruins",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Марья",
+      "text": "Мой любимый! Где он? Я должна его найти!",
+      "metadata": {
+        "string_id": 2016,
+        "speaker_string_id": 2017,
+        "dialogue_id": "A1M2-M020-010-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Она переживает момент своей смерти. Похоже, один из этих неупокоенных мертвецов – ее возлюбленный.",
+      "metadata": {
+        "string_id": 2014,
+        "speaker_string_id": 2015,
+        "dialogue_id": "A1M2-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Если мы уничтожим это видение, возможно, она придет в себя.",
+      "metadata": {
+        "string_id": 2012,
+        "speaker_string_id": 2013,
+        "dialogue_id": "A1M2-M020-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ясно. Тогда нам нужно как-то ее умиротворить.",
+      "metadata": {
+        "string_id": 2010,
+        "speaker_string_id": 2011,
+        "dialogue_id": "A1M2-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Книжный дух",
+      "text": "Разделите мою боль!",
+      "metadata": {
+        "string_id": 1987,
+        "speaker_string_id": 1988,
+        "dialogue_id": "BansheeYesAttack2"
+      }
+    },
+    {
+      "speaker": "Книжный дух",
+      "text": "Твоя душа сгорит!",
+      "metadata": {
+        "string_id": 1992,
+        "speaker_string_id": 1993,
+        "dialogue_id": "BansheeYesAttack3"
+      }
+    },
+    {
+      "speaker": "Книжный дух",
+      "text": "Когда же кончится эта мука?!",
+      "metadata": {
+        "string_id": 1997,
+        "speaker_string_id": 1998,
+        "dialogue_id": "BansheePissed1"
+      }
+    },
+    {
+      "speaker": "Книжный дух",
+      "text": "Сколько еще мне страдать?!",
+      "metadata": {
+        "string_id": 2000,
+        "speaker_string_id": 2001,
+        "dialogue_id": "BansheePissed2"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Погоди, этот вурдалак... читает? Но это невозможно.",
+      "metadata": {
+        "string_id": 1530,
+        "speaker_string_id": 1531,
+        "dialogue_id": "A1M2-T760-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Хм-м. Можно попытаться выманить его парочкой книг.",
+      "metadata": {
+        "string_id": 1539,
+        "speaker_string_id": 1540,
+        "dialogue_id": "A1M2-T770-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Видимо, он нас боится. Давай отойдем подальше, чтобы ему было спокойнее.",
+      "metadata": {
+        "string_id": 1562,
+        "speaker_string_id": 1563,
+        "dialogue_id": "A1M2-T771-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Сдается мне, Чанн даже найдет в нем родственную душу.",
+      "metadata": {
+        "string_id": 2156,
+        "speaker_string_id": 2157,
+        "dialogue_id": "A1M2-T772-ANYA"
+      }
+    },
+    {
+      "speaker": "Марья",
+      "text": "Он... исчез. Теперь я все вспомнила... Спасибо вам.",
+      "metadata": {
+        "string_id": 1609,
+        "speaker_string_id": 1610,
+        "dialogue_id": "A1M2-T160-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ты освободилась от своего прошлого. Отправляйся в Подгород. Темная Госпожа будет рада тебя приветствовать.",
+      "metadata": {
+        "string_id": 1616,
+        "speaker_string_id": 1617,
+        "dialogue_id": "A1M2-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "Алексия",
+      "text": "Бегите, дети! Культ никого не пощадит!",
+      "metadata": {
+        "string_id": 1625,
+        "speaker_string_id": 1626,
+        "dialogue_id": "A1M2-T180-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Алексия",
+      "text": "Мертвы... Все мертвы.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A1M2-T190-BANSHEE"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как закончишь скорбеть, отправляйся в Подгород. Там ты обретешь новый дом.",
+      "metadata": {
+        "string_id": 1643,
+        "speaker_string_id": 1644,
+        "dialogue_id": "A1M2-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Келестия",
+      "text": "Кто посмел нарушить мой покой?! Я сожгу вас своей магией!",
+      "metadata": {
+        "string_id": 1655,
+        "speaker_string_id": 1656,
+        "dialogue_id": "A1M2-T210-KAELYSTIA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Довольно. Присоединяйся к отрекшимся и направь свой гнев на Плеть.",
+      "metadata": {
+        "string_id": 1664,
+        "speaker_string_id": 1665,
+        "dialogue_id": "A1M2-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Келестия",
+      "text": "Хорошо... Я так и сделаю. Спасибо, что помогли мне снять наваждение.",
+      "metadata": {
+        "string_id": 1676,
+        "speaker_string_id": 1677,
+        "dialogue_id": "A1M2-T230-KAELYSTIA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Будь начеку, Гарек. Не все, кто выходит из-под власти Плети, такие же дружелюбные, как мы.",
+      "metadata": {
+        "string_id": 1726,
+        "speaker_string_id": 1727,
+        "dialogue_id": "A1M2-T010-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Хочешь сказать, нам, возможно, придется защищаться?",
+      "metadata": {
+        "string_id": 1735,
+        "speaker_string_id": 1736,
+        "dialogue_id": "A1M2-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ого, а ты схватываешь на лету.",
+      "metadata": {
+        "string_id": 1746,
+        "speaker_string_id": 1747,
+        "dialogue_id": "A1M2-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Эй. Сильвана Ветрокрылая предлагает тебе укрытие в Подгороде. Отправляйся к стокам.",
+      "metadata": {
+        "string_id": 1755,
+        "speaker_string_id": 1756,
+        "dialogue_id": "A1M2-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Хм. Вроде несложно.",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A1M2-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Но искушать судьбу не стоит.",
+      "metadata": {
+        "string_id": 1777,
+        "speaker_string_id": 1778,
+        "dialogue_id": "A1M2-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Уцелевший отрекшийся",
+      "text": "Нужно есть! Еды!",
+      "metadata": {
+        "string_id": 1786,
+        "speaker_string_id": 1787,
+        "dialogue_id": "A1M2-T070-SURVIVOR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Они были лишенными разума оболочками... Ания, если бы я очнулся в таком виде...",
+      "metadata": {
+        "string_id": 1795,
+        "speaker_string_id": 1796,
+        "dialogue_id": "A1M2-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Тогда я бы тебя убила и позволила Гнилессу разобрать тебя на части. Ладно, пошли дальше.",
+      "metadata": {
+        "string_id": 1804,
+        "speaker_string_id": 1805,
+        "dialogue_id": "A1M2-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Кто-нибудь! Помогите!",
+      "metadata": {
+        "string_id": 1813,
+        "speaker_string_id": 1814,
+        "dialogue_id": "A1M2-T120-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А ну руки прочь!",
+      "metadata": {
+        "string_id": 1839,
+        "speaker_string_id": 1840,
+        "dialogue_id": "A1M2-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Спасибо! Вы нас спасли!",
+      "metadata": {
+        "string_id": 1845,
+        "speaker_string_id": 1846,
+        "dialogue_id": "A1M2-T140-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Спускайтесь в стоки. Госпожа Сильвана дает укрытие всем отрекшимся.",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M2-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Еще захватчики из Плети! Скорее, нужно спасти Отрекшихся!",
+      "metadata": {
+        "string_id": 1863,
+        "speaker_string_id": 1864,
+        "dialogue_id": "A1M2-T100-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Теперь вы в безопасности. Спускайтесь в стоки. Темная Госпожа не даст вас в обиду.",
+      "metadata": {
+        "string_id": 1894,
+        "speaker_string_id": 1895,
+        "dialogue_id": "A1M2-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Какая же мрачная участь – сначала воскреснуть в виде нежити, а затем осознать ужас своего нового существования.",
+      "metadata": {
+        "string_id": 1681,
+        "speaker_string_id": 1682,
+        "dialogue_id": "A1M2-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ну это как посмотреть. Что ты предпочтешь: гнить в земле или получить второй шанс?",
+      "metadata": {
+        "string_id": 1690,
+        "speaker_string_id": 1691,
+        "dialogue_id": "A1M2-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Трудно сказать. О своей прошлой жизни я совершенно ничего не помню.",
+      "metadata": {
+        "string_id": 1699,
+        "speaker_string_id": 1700,
+        "dialogue_id": "A1M2-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Возможно, оно и к лучшему. Многие из нас помнят, как умерли и что нам приходилось делать до того, как мы вновь обрели свободу воли.",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A1M2-T270-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Не всем повезло начать новую жизнь с чистого листа.",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A1M2-T280-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Прислужники Плети продолжают рыскать по этим руинам и строить против нас козни. Надо их истребить.",
+      "metadata": {
+        "string_id": 1982,
+        "speaker_string_id": 1983,
+        "dialogue_id": "A1M2-T061-ANYA"
+      }
+    },
+    {
+      "speaker": "Некромант",
+      "text": "Рано или поздно все станут служить мне!",
+      "metadata": {
+        "string_id": 1491,
+        "speaker_string_id": 1492,
+        "dialogue_id": "NecromancerWarcry1"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Маршал Гаритос, одинаково ненавидимый как врагами, так и союзниками. Никто и слезинки не проронил, когда Сильвана его убила.",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M2-T320-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Зачем только Чанну потребовались его останки? Может, это такое возмездие?",
+      "metadata": {
+        "string_id": 1911,
+        "speaker_string_id": 1912,
+        "dialogue_id": "A1M2-T330-ANYA"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Перебьем их!",
+      "metadata": {
+        "string_id": 1977,
+        "speaker_string_id": 1978,
+        "dialogue_id": "U01Footman23"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Среди этих руин встречаются живые. Надо перебить их всех до единого.",
+      "metadata": {
+        "string_id": 1934,
+        "speaker_string_id": 1935,
+        "dialogue_id": "A1M2-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Люциан Озаренный",
+      "text": "Еще больше мерзких выродков! Свет испепелит вас!",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A1M2-T301-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Паладин! Убьем его!",
+      "metadata": {
+        "string_id": 1958,
+        "speaker_string_id": 1959,
+        "dialogue_id": "A1M2-T302-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ну и задачка, конечно. Чанн не мог чего попроще придумать?",
+      "metadata": {
+        "string_id": 1967,
+        "speaker_string_id": 1968,
+        "dialogue_id": "A1M2-T310-GAREK"
+      }
+    }
+  ]
+}

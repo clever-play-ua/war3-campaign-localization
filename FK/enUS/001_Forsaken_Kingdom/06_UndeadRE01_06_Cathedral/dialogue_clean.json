@@ -1,0 +1,107 @@
+{
+  "map": "UndeadRE01",
+  "title": "Cathedral",
+  "locale": "enUS",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Paladin",
+      "text": "Vile monsters! You dare defile this hallowed ground?!",
+      "metadata": {
+        "string_id": 352,
+        "speaker_string_id": 353,
+        "dialogue_id": "A1M6-T100-COMMANDER"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Well, we’re not getting in through the front. Even if we kill all of the guards, they’ll alert everyone else to our presence.",
+      "metadata": {
+        "string_id": 381,
+        "speaker_string_id": 382,
+        "dialogue_id": "A1M6-M010-010-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "There might be a side entrance. Let’s take a look around.",
+      "metadata": {
+        "string_id": 397,
+        "speaker_string_id": 398,
+        "dialogue_id": "A1M6-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Footman",
+      "text": "Intruders! Lock the doors!",
+      "metadata": {
+        "string_id": 291,
+        "speaker_string_id": 292,
+        "dialogue_id": "A1M6-T010-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "I told you this would happen. Let’s hope you were right about there being a side entrance.",
+      "metadata": {
+        "string_id": 303,
+        "speaker_string_id": 304,
+        "dialogue_id": "A1M6-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Why do these paladins hate us so much? Is it solely because we are undead?",
+      "metadata": {
+        "string_id": 310,
+        "speaker_string_id": 311,
+        "dialogue_id": "A1M6-T030-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "That's reason enough, in their eyes. But in truth, they blame us for the fall of Lordaeron.",
+      "metadata": {
+        "string_id": 313,
+        "speaker_string_id": 314,
+        "dialogue_id": "A1M6-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Perhaps there are some who still pursue justice, whatever that means. But most want only revenge.",
+      "metadata": {
+        "string_id": 317,
+        "speaker_string_id": 318,
+        "dialogue_id": "A1M6-T050-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "We're in. Now to eliminate the Silver Hand.",
+      "metadata": {
+        "string_id": 322,
+        "speaker_string_id": 323,
+        "dialogue_id": "A1M6-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Agh! It.. it burns!",
+      "metadata": {
+        "string_id": 332,
+        "speaker_string_id": 333,
+        "dialogue_id": "A1M6-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "It's the Light! Kill the priests, quickly!",
+      "metadata": {
+        "string_id": 337,
+        "speaker_string_id": 338,
+        "dialogue_id": "A1M6-T090-ANYA"
+      }
+    }
+  ]
+}

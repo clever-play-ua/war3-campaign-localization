@@ -1,0 +1,620 @@
+{
+  "map": "UndeadRE02",
+  "title": "Scarlet Monastery",
+  "locale": "deDE",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Sylvanas",
+      "text": "Eure Informationen waren korrekt, Leonid. Jetzt beginnt der eigentliche Kampf.",
+      "metadata": {
+        "string_id": 764,
+        "speaker_string_id": 765,
+        "dialogue_id": "A2M5-M010-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Der Weg zum Scharlachroten Kloster ist gut verteidigt. Unsere Zahl ist gering, also müssen wir gezielt und überlegt vorgehen.",
+      "metadata": {
+        "string_id": 752,
+        "speaker_string_id": 753,
+        "dialogue_id": "A2M5-M010-020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Dringt unbemerkt hinter die gegnerischen Linien vor, durchbrecht ihre Verteidigung und beseitigt ihre Anführer.",
+      "metadata": {
+        "string_id": 748,
+        "speaker_string_id": 749,
+        "dialogue_id": "A2M5-M010-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Doch seid gewarnt: Sollte sich das Blatt gegen uns wenden, werde ich nicht zögern, den Rückzug zu befehlen. Handelt rasch, bevor uns der Sieg entgleitet.",
+      "metadata": {
+        "string_id": 743,
+        "speaker_string_id": 744,
+        "dialogue_id": "A2M5-M010-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wie Ihr befehlt, Dunkle Fürstin.",
+      "metadata": {
+        "string_id": 739,
+        "speaker_string_id": 740,
+        "dialogue_id": "A2M5-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Ihr schon wieder. Diesmal werde ich Lordaeron von Euch säubern.",
+      "metadata": {
+        "string_id": 1194,
+        "speaker_string_id": 1195,
+        "dialogue_id": "A2M5-C010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Sally",
+      "text": "Mein Champion, vernichtet diese Monster!",
+      "metadata": {
+        "string_id": 1184,
+        "speaker_string_id": 1185,
+        "dialogue_id": "A2M5-C010-020-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Für den Scharlachroten Kreuzzug!",
+      "metadata": {
+        "string_id": 1190,
+        "speaker_string_id": 1191,
+        "dialogue_id": "A2M5-C010-030-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Verlassene, Angriff!",
+      "metadata": {
+        "string_id": 1188,
+        "speaker_string_id": 1189,
+        "dialogue_id": "A2M5-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Tirisfal gehört wieder uns. Die Eiferer ziehen sich in ihr Kloster zurück.",
+      "metadata": {
+        "string_id": 899,
+        "speaker_string_id": 900,
+        "dialogue_id": "A2M5-C020-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Wir sollten ihre Festung stürmen und ihnen endgültig ein Ende bereiten.",
+      "metadata": {
+        "string_id": 847,
+        "speaker_string_id": 848,
+        "dialogue_id": "A2M5-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Erinnerungen an Landen",
+      "text": "Der wahre Sieg ist, zu überleben. Und Frieden ist der Lohn.",
+      "metadata": {
+        "string_id": 950,
+        "speaker_string_id": 951,
+        "dialogue_id": "A2M5-C020-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Erinnerungen an Landen",
+      "text": "Das sollte man nie aus den Augen verlieren.",
+      "metadata": {
+        "string_id": 836,
+        "speaker_string_id": 837,
+        "dialogue_id": "A2M5-C020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Lady Sylvanas. Ich denke, wir sollten in die Unterstadt zurückkehren.",
+      "metadata": {
+        "string_id": 869,
+        "speaker_string_id": 870,
+        "dialogue_id": "A2M5-C020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wir haben den Kreuzzug zurückgedrängt, doch der Preis war hoch. Ein Sturm auf das Kloster …",
+      "metadata": {
+        "string_id": 877,
+        "speaker_string_id": 878,
+        "dialogue_id": "A2M5-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wir Verlassenen können unsere Verluste nicht ersetzen. Jeder Gefallene bringt uns der Auslöschung einen Schritt näher. Ist das Kloster dieses Risiko wirklich wert?",
+      "metadata": {
+        "string_id": 1157,
+        "speaker_string_id": 1158,
+        "dialogue_id": "A2M5-C020-081-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Ich sehe die Weisheit in Euren Worten. Dieser Sieg soll uns genügen. Nun gilt es, unser Gebiet zu sichern.",
+      "metadata": {
+        "string_id": 889,
+        "speaker_string_id": 890,
+        "dialogue_id": "A2M5-C020-090-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Ich werde der Argentumdämmerung vom Ausgang der Schlacht berichten. Regt sich der Kreuzzug erneut, werden die Verlassenen als Erste gewarnt.",
+      "metadata": {
+        "string_id": 897,
+        "speaker_string_id": 898,
+        "dialogue_id": "A2M5-C020-100-LEONID"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Es war mir eine Ehre, an Eurer Seite zu kämpfen. Wisst, dass ich Euch stets als Verbündete betrachten werde.",
+      "metadata": {
+        "string_id": 908,
+        "speaker_string_id": 909,
+        "dialogue_id": "A2M5-C020-110-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ihr … habt Euch als nützlich erwiesen. Sorgt dafür, dass diese Paladine daran nichts ändern.",
+      "metadata": {
+        "string_id": 917,
+        "speaker_string_id": 918,
+        "dialogue_id": "A2M5-C020-120-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Der Kreuzzug wird sich erneut erheben. Das Licht treibt sie dazu, uns zu vernichten.",
+      "metadata": {
+        "string_id": 926,
+        "speaker_string_id": 927,
+        "dialogue_id": "A2M5-C020-130-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Möglich. Aber ob mit oder ohne das Licht, ich denke, ihr Hass würde sie dennoch antreiben.",
+      "metadata": {
+        "string_id": 933,
+        "speaker_string_id": 934,
+        "dialogue_id": "A2M5-C020-140-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ich glaube aber, dass es solche gibt, die das Licht anders einzusetzen vermögen. Vielleicht sogar zum Schutz der Verlassenen.",
+      "metadata": {
+        "string_id": 1114,
+        "speaker_string_id": 1115,
+        "dialogue_id": "A2M5-C020-150-GAREK"
+      }
+    },
+    {
+      "speaker": "Auftragsmörder der Geißel",
+      "text": "So haben sich der Scharlachrote Kreuzzug und die Verlassenen gegenseitig zugrunde gerichtet.",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "A2M5-C020-160-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "Auftragsmörder der Geißel",
+      "text": "Dann ist die Stunde der Geißel bald gekommen.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1127,
+        "dialogue_id": "A2M5-C020-170-CULTASSASSIN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Unsere Truppen sind bereits unterwegs. Wir müssen die Verteidigungsstellungen des Scharlachroten Kreuzzugs ausschalten, sonst marschieren sie direkt in eine Todesfalle.",
+      "metadata": {
+        "string_id": 111,
+        "speaker_string_id": 112,
+        "dialogue_id": "A2M5-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Viele Verlassene sind gefallen, doch der Sieg ist noch zum Greifen nah!",
+      "metadata": {
+        "string_id": 409,
+        "speaker_string_id": 410,
+        "dialogue_id": "A2M5-T020-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Die Verteidigung des Kreuzzugs hat uns bereits die Hälfte unserer Truppen gekostet. Wir dürfen diese Schlacht nicht in die Länge ziehen!",
+      "metadata": {
+        "string_id": 125,
+        "speaker_string_id": 126,
+        "dialogue_id": "A2M5-T030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Wir können die Belagerung nicht mehr lange aufrechterhalten! Beendet das – jetzt!",
+      "metadata": {
+        "string_id": 138,
+        "speaker_string_id": 139,
+        "dialogue_id": "A2M5-T040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Genug! Ich werde keine weiteren Verlassenen für einen aussichtslosen Kampf opfern! Zieht Euch in die Unterstadt zurück!",
+      "metadata": {
+        "string_id": 145,
+        "speaker_string_id": 146,
+        "dialogue_id": "A2M5-T050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Dunkle Waldläuferinnen liefern sich im ganzen Wald Scharmützel mit den Kreuzzüglern. Wenn wir ihnen zu Hilfe kommen, können sich meine Schwestern uns anschließen.",
+      "metadata": {
+        "string_id": 253,
+        "speaker_string_id": 254,
+        "dialogue_id": "A2M5-T080-ANYA"
+      }
+    },
+    {
+      "speaker": "Waldläuferin der Verlassenen",
+      "text": "Ich diene der Bansheekönigin!",
+      "metadata": {
+        "string_id": 260,
+        "speaker_string_id": 261,
+        "dialogue_id": "ForsakenRanger_Ready1"
+      }
+    },
+    {
+      "speaker": "Waldläuferin der Verlassenen",
+      "text": "Seid gegrüßt!",
+      "metadata": {
+        "string_id": 267,
+        "speaker_string_id": 268,
+        "dialogue_id": "ForsakenVillagerF_What1"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Ich habe gehört, dass der Kreuzzug in einer nahegelegenen Kaserne Truppen der Verlassenen gefangen hält. Wenn sich die Gelegenheit bietet, sollten wir sie befreien.",
+      "metadata": {
+        "string_id": 274,
+        "speaker_string_id": 275,
+        "dialogue_id": "A2M5-T110-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Schließt Euch uns an, Soldaten! Wir ziehen gegen das Scharlachrote Kloster!",
+      "metadata": {
+        "string_id": 281,
+        "speaker_string_id": 282,
+        "dialogue_id": "A2M5-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Alle tot. Niedergemetzelt. Genau das erwartet uns, sollte der Kreuzzug triumphieren.",
+      "metadata": {
+        "string_id": 1150,
+        "speaker_string_id": 1151,
+        "dialogue_id": "A2M5-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Diese Bogenschützen werden mit unserer Armee kurzen Prozess machen. Schaltet sie aus.",
+      "metadata": {
+        "string_id": 152,
+        "speaker_string_id": 153,
+        "dialogue_id": "A2M5-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Die Anhöhe ist gesichert. Rücken wir weiter vor!",
+      "metadata": {
+        "string_id": 159,
+        "speaker_string_id": 160,
+        "dialogue_id": "A2M5-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Unsere Truppen werden große Mühe haben, diesen Schildwall zu durchbrechen. Umgeht die Scharlachroten und überrumpelt ihren Hauptmann.",
+      "metadata": {
+        "string_id": 172,
+        "speaker_string_id": 173,
+        "dialogue_id": "A2M5-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Hauptmann Tychos",
+      "text": "Die Untoten greifen von der Anhöhe aus an! Lasst sie nicht durch!",
+      "metadata": {
+        "string_id": 353,
+        "speaker_string_id": 354,
+        "dialogue_id": "A2M5-T150-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Die Phalanx ist gebrochen! Unsere Armee rückt vor!",
+      "metadata": {
+        "string_id": 182,
+        "speaker_string_id": 183,
+        "dialogue_id": "A2M5-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Der Kreuzzug wird zurückschlagen. Wir müssen das Kloster so schnell wie möglich erreichen.",
+      "metadata": {
+        "string_id": 185,
+        "speaker_string_id": 186,
+        "dialogue_id": "A2M5-T170-LEONID"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Dieser Inquisitor wird unsere Streitkräfte mit der Macht des Lichts einäschern. Wir müssen ihn ausschalten!",
+      "metadata": {
+        "string_id": 500,
+        "speaker_string_id": 501,
+        "dialogue_id": "A2M5-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "Inquisitor Kerran",
+      "text": "Widerwärtige Monster! Brennt im heiligen Feuer!",
+      "metadata": {
+        "string_id": 490,
+        "speaker_string_id": 491,
+        "dialogue_id": "A2M5-T190-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Gut, dass wir sie los sind. Jetzt kann unsere Armee vorrücken.",
+      "metadata": {
+        "string_id": 450,
+        "speaker_string_id": 451,
+        "dialogue_id": "A2M5-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Todeswache",
+      "text": "Hauptmann! Unsere Fleischwagen können diesen Turm zerstören, aber zuerst müssen wir die Kanonen ausschalten!",
+      "metadata": {
+        "string_id": 466,
+        "speaker_string_id": 467,
+        "dialogue_id": "A2M5-T555-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "Kreuzzügler Artonius",
+      "text": "Nein! Bis hierher und nicht weiter!",
+      "metadata": {
+        "string_id": 479,
+        "speaker_string_id": 480,
+        "dialogue_id": "A2M5-T220-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Der Kreuzzug hat nur noch eine letzte Verteidigungslinie. Dahinter liegt das Kloster!",
+      "metadata": {
+        "string_id": 474,
+        "speaker_string_id": 475,
+        "dialogue_id": "A2M5-T230-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dann bringen wir diesen Kampf jetzt zu Ende!",
+      "metadata": {
+        "string_id": 472,
+        "speaker_string_id": 473,
+        "dialogue_id": "A2M5-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Fußsoldat",
+      "text": "Angriff!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Schütze",
+      "text": "Euer Kopf wird bald meine Wand schmücken!",
+      "metadata": {
+        "string_id": 320,
+        "speaker_string_id": 321,
+        "dialogue_id": "ScarletMarksman_Warcry1"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Fußsoldat",
+      "text": "Zu den Waffen!",
+      "metadata": {
+        "string_id": 325,
+        "speaker_string_id": 326,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Fußsoldat",
+      "text": "Angriff!",
+      "metadata": {
+        "string_id": 327,
+        "speaker_string_id": 328,
+        "dialogue_id": "FootmanYesAttack2"
+      }
+    },
+    {
+      "speaker": "Kreuzzügler",
+      "text": "Für die Ehre! Für die Freiheit!",
+      "metadata": {
+        "string_id": 707,
+        "speaker_string_id": 708,
+        "dialogue_id": "KnightWarcry1"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Vereint greifen wir an!",
+      "metadata": {
+        "string_id": 1178,
+        "speaker_string_id": 1179,
+        "dialogue_id": "A2M5-T250-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Ich stehe an Eurer Seite!",
+      "metadata": {
+        "string_id": 1180,
+        "speaker_string_id": 1181,
+        "dialogue_id": "A2M5-T260-mograine"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Sie rücken vor! Wir müssen zum Kloster zurück und es verteidigen!",
+      "metadata": {
+        "string_id": 1230,
+        "speaker_string_id": 1231,
+        "dialogue_id": "A2M5-T370-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Nun gut. Eines Tages werden diese unheiligen Kreaturen für ihren Verrat büßen!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "A2M5-T380-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Kämpft weiter, mein Champion!",
+      "metadata": {
+        "string_id": 1200,
+        "speaker_string_id": 1201,
+        "dialogue_id": "A2M5-T320-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Ihr wagt es, die Hochinquisitorin anzugreifen?!",
+      "metadata": {
+        "string_id": 1275,
+        "speaker_string_id": 1276,
+        "dialogue_id": "A2M5-T300-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Das Licht schützt alle, die ihm dienen!",
+      "metadata": {
+        "string_id": 1203,
+        "speaker_string_id": 1204,
+        "dialogue_id": "A2M5-T330-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Wir werden siegen!",
+      "metadata": {
+        "string_id": 1215,
+        "speaker_string_id": 1216,
+        "dialogue_id": "A2M5-T340-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Vertreibt diese Ungläubigen, Mograine!",
+      "metadata": {
+        "string_id": 1220,
+        "speaker_string_id": 1221,
+        "dialogue_id": "A2M5-T350-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Hochinquisitorin Weißsträhne",
+      "text": "Möge die Flamme der Erlösung brennen!",
+      "metadata": {
+        "string_id": 1225,
+        "speaker_string_id": 1226,
+        "dialogue_id": "A2M5-T360-WHITEMANE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Kommt nur her, ihr Monster!",
+      "metadata": {
+        "string_id": 1244,
+        "speaker_string_id": 1245,
+        "dialogue_id": "A2M5-T270-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Ihr werdet alle geläutert!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "A2M5-T280-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Niemand kann sich dem Scharlachroten Kreuzzug widersetzen!",
+      "metadata": {
+        "string_id": 1262,
+        "speaker_string_id": 1263,
+        "dialogue_id": "A2M5-T290-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Scharlachroter Kommandant Mograine",
+      "text": "Euer erbärmliches Dasein endet hier!",
+      "metadata": {
+        "string_id": 1278,
+        "speaker_string_id": 1279,
+        "dialogue_id": "A2M5-T310-MOGRAINE"
+      }
+    }
+  ]
+}

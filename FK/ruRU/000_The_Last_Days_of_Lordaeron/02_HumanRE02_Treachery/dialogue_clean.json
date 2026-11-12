@@ -1,0 +1,917 @@
+{
+  "map": "HumanRE02",
+  "title": "Treachery",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Гарек",
+      "text": "Проклятье! Как же так вышло? Город лежит в руинах...",
+      "metadata": {
+        "string_id": 2189,
+        "speaker_string_id": 2190,
+        "dialogue_id": "HRE02-C010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Сейчас нужно сосредоточиться на том, чтобы вывести людей. Они надеются на нас.",
+      "metadata": {
+        "string_id": 2192,
+        "speaker_string_id": 2193,
+        "dialogue_id": "HRE02-C010-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Они рассчитывали на нашу защиту. Но мы их подвели.",
+      "metadata": {
+        "string_id": 2195,
+        "speaker_string_id": 2196,
+        "dialogue_id": "HRE02-C010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "Смотри-ка, кто-то выжил!",
+      "metadata": {
+        "string_id": 2198,
+        "speaker_string_id": 2199,
+        "dialogue_id": "HRE02-C010-040-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Сэр, мы отбились от своего отряда и оказались здесь.",
+      "metadata": {
+        "string_id": 2766,
+        "speaker_string_id": 2767,
+        "dialogue_id": "HRE02-C010-050-FOOTMAN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Мы собираемся покинуть город по подземному тоннелю. Помогите защитить уцелевших, и мы все выберемся отсюда живыми.",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "HRE02-C010-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Только взгляните на все это! И как долго эти сектанты прятались здесь, словно крысы?",
+      "metadata": {
+        "string_id": 2207,
+        "speaker_string_id": 2208,
+        "dialogue_id": "HRE02-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Должно быть, они планировали нападение многие годы. Наши друзья и соседи...",
+      "metadata": {
+        "string_id": 2210,
+        "speaker_string_id": 2211,
+        "dialogue_id": "HRE02-M010-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Поверить не могу, что все это время скверна расцветала прямо у нас под ногами...",
+      "metadata": {
+        "string_id": 2213,
+        "speaker_string_id": 2214,
+        "dialogue_id": "HRE02-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Оставим пока мирных жителей здесь, а сами проверим путь.",
+      "metadata": {
+        "string_id": 2216,
+        "speaker_string_id": 2217,
+        "dialogue_id": "HRE02-M010-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Заприте ворота. И никому не отворяйте. Если же мы не вернемся...",
+      "metadata": {
+        "string_id": 2219,
+        "speaker_string_id": 2220,
+        "dialogue_id": "HRE02-M010-050-LANDEN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "...да пребудет с вами Свет.",
+      "metadata": {
+        "string_id": 2222,
+        "speaker_string_id": 2223,
+        "dialogue_id": "HRE02-M010-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Городские стражники! Так и знал, что кто-то еще уцелел!",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "HRE02-M015-010-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Мы ведем с собой группу выживших. Можешь открыть ворота?",
+      "metadata": {
+        "string_id": 2228,
+        "speaker_string_id": 2229,
+        "dialogue_id": "HRE02-M015-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Нет, сэр. Треклятые сектанты лебедку разворотили. Сперва надобно у них шестеренки отобрать.",
+      "metadata": {
+        "string_id": 2231,
+        "speaker_string_id": 2232,
+        "dialogue_id": "HRE02-M015-030-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ничего, мы этих негодяев быстро поймаем.",
+      "metadata": {
+        "string_id": 2235,
+        "speaker_string_id": 2236,
+        "dialogue_id": "HRE02-M015-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Это же барон Ривендер, правитель Стратхольма!",
+      "metadata": {
+        "string_id": 2238,
+        "speaker_string_id": 2239,
+        "dialogue_id": "HRE02-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Милорд! Мы ведем с собой группу выживших...",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "HRE02-C020-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Вот так удача. Самое время пополнить ими ряды Плети.",
+      "metadata": {
+        "string_id": 2244,
+        "speaker_string_id": 2245,
+        "dialogue_id": "HRE02-C020-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ты такой же грязный предатель, как и Артас!",
+      "metadata": {
+        "string_id": 2247,
+        "speaker_string_id": 2248,
+        "dialogue_id": "HRE02-C020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Наш дорогой принц – лишь часть грандиозного плана, в сотворении которого я принимал участие.",
+      "metadata": {
+        "string_id": 2250,
+        "speaker_string_id": 2251,
+        "dialogue_id": "HRE02-C020-050-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Скоро это слабое и жалкое королевство падет, и из его трупа восстанет войско проклятых.",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "HRE02-C020-060-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Не пристало мне марать руки о таких ничтожеств. Расправьтесь с ними и убейте остальных.",
+      "metadata": {
+        "string_id": 2256,
+        "speaker_string_id": 2257,
+        "dialogue_id": "HRE02-C020-070-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Идемте наружу!",
+      "metadata": {
+        "string_id": 2259,
+        "speaker_string_id": 2260,
+        "dialogue_id": "HRE02-M020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Простите, капитан. Ведите выживших в Андорал без меня.",
+      "metadata": {
+        "string_id": 2262,
+        "speaker_string_id": 2263,
+        "dialogue_id": "HRE02-M020-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А я не уйду отсюда, пока не покончу с Ривендером.",
+      "metadata": {
+        "string_id": 2265,
+        "speaker_string_id": 2266,
+        "dialogue_id": "HRE02-M020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Гарек, это безумие. Ты не можешь...",
+      "metadata": {
+        "string_id": 2268,
+        "speaker_string_id": 2269,
+        "dialogue_id": "HRE02-M020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кто-то должен свершить возмездие. Если не сейчас, то когда?",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "HRE02-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Солдат, оставляю выживших под твою ответственность.",
+      "metadata": {
+        "string_id": 2274,
+        "speaker_string_id": 2275,
+        "dialogue_id": "HRE02-M020-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Давай поскорее с этим разберемся, лейтенант.",
+      "metadata": {
+        "string_id": 2277,
+        "speaker_string_id": 2278,
+        "dialogue_id": "HRE02-M020-070-LANDEN"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Как рьяно ты ищешь смерти. Возомнил себя героем?",
+      "metadata": {
+        "string_id": 2693,
+        "speaker_string_id": 2694,
+        "dialogue_id": "HRE02-C030-010-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Ты вовсе не герой! Лишь очередной труп, который будет мне служить...",
+      "metadata": {
+        "string_id": 2710,
+        "speaker_string_id": 2711,
+        "dialogue_id": "HRE02-C030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Барьер исчез! Беги!",
+      "metadata": {
+        "string_id": 2719,
+        "speaker_string_id": 2720,
+        "dialogue_id": "HRE02-C030-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что?! Нет! Я вас не брошу!",
+      "metadata": {
+        "string_id": 2728,
+        "speaker_string_id": 2729,
+        "dialogue_id": "HRE02-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Не думай обо мне! Тебе нужно отвести горожан в Андорал!",
+      "metadata": {
+        "string_id": 2737,
+        "speaker_string_id": 2738,
+        "dialogue_id": "HRE02-C030-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Капитан, я...",
+      "metadata": {
+        "string_id": 2746,
+        "speaker_string_id": 2747,
+        "dialogue_id": "HRE02-C030-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Это приказ, лейтенант!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "HRE02-C030-080-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Да пребудет с вами Свет, сэр.",
+      "metadata": {
+        "string_id": 2764,
+        "speaker_string_id": 2765,
+        "dialogue_id": "HRE02-C030-090-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Ступай, Гарек. Исполни свое предназначение.",
+      "metadata": {
+        "string_id": 2775,
+        "speaker_string_id": 2776,
+        "dialogue_id": "HRE02-C030-100-LANDEN"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Думаешь, сможешь уйти?! Эти стоки станут твоей могилой!",
+      "metadata": {
+        "string_id": 2783,
+        "speaker_string_id": 2784,
+        "dialogue_id": "HRE02-C030-110-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "За Лордерон!",
+      "metadata": {
+        "string_id": 2786,
+        "speaker_string_id": 2787,
+        "dialogue_id": "HRE02-C030-120-LANDEN"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Лейтенант Бандарион, вы живы! Но... где капитан Ланден?",
+      "metadata": {
+        "string_id": 2280,
+        "speaker_string_id": 2281,
+        "dialogue_id": "HRE02-M030-010-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Он... погиб.",
+      "metadata": {
+        "string_id": 2288,
+        "speaker_string_id": 2289,
+        "dialogue_id": "HRE02-M030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нам нужно встретиться с Утером в Андорале. Выдвигаемся.",
+      "metadata": {
+        "string_id": 2286,
+        "speaker_string_id": 2287,
+        "dialogue_id": "HRE02-M030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Мирные жители пусть держатся позади. Все остальные за мной.",
+      "metadata": {
+        "string_id": 2591,
+        "speaker_string_id": 2592,
+        "dialogue_id": "HRE02-T010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Артас до сих пор бесчинствует в городе...",
+      "metadata": {
+        "string_id": 2599,
+        "speaker_string_id": 2600,
+        "dialogue_id": "HRE02-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Если мы обезопасим проход наружу, возможно, еще кому-то удастся спастись.",
+      "metadata": {
+        "string_id": 2601,
+        "speaker_string_id": 2602,
+        "dialogue_id": "HRE02-T030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Это еще что?.. Почему здесь так много припасов?",
+      "metadata": {
+        "string_id": 2615,
+        "speaker_string_id": 2616,
+        "dialogue_id": "HRE02-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Мастер-чумотворец",
+      "text": "Чужаки! Убейте их всех!",
+      "metadata": {
+        "string_id": 2617,
+        "speaker_string_id": 2618,
+        "dialogue_id": "HRE02-T240-MASTERBLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что здесь творится?",
+      "metadata": {
+        "string_id": 2613,
+        "speaker_string_id": 2614,
+        "dialogue_id": "HRE02-T250-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Проход завален. Придется искать другой путь.",
+      "metadata": {
+        "string_id": 2663,
+        "speaker_string_id": 2664,
+        "dialogue_id": "HRE02-T330-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, есть только один путь дальше.",
+      "metadata": {
+        "string_id": 2621,
+        "speaker_string_id": 2622,
+        "dialogue_id": "HRE02-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Чумотворец",
+      "text": "Никакого пути у вас нет!",
+      "metadata": {
+        "string_id": 2546,
+        "speaker_string_id": 2547,
+        "dialogue_id": "HRE02-T050-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "К оружию!",
+      "metadata": {
+        "string_id": 2521,
+        "speaker_string_id": 2522,
+        "dialogue_id": "HRE02-T060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Похоже, нас преследуют служители культа. Нужно идти дальше!",
+      "metadata": {
+        "string_id": 2304,
+        "speaker_string_id": 2379,
+        "dialogue_id": "HRE02-T070-LANDEN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Хвала Свету! Оставайся здесь, а я вернусь и приведу выживших.",
+      "metadata": {
+        "string_id": 2305,
+        "speaker_string_id": 2380,
+        "dialogue_id": "HRE02-T470-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Капитан! Я слышу впереди какие-то голоса!",
+      "metadata": {
+        "string_id": 2306,
+        "speaker_string_id": 2381,
+        "dialogue_id": "HRE02-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Это выход!",
+      "metadata": {
+        "string_id": 2307,
+        "speaker_string_id": 2382,
+        "dialogue_id": "HRE02-T350-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Осторожно!",
+      "metadata": {
+        "string_id": 2308,
+        "speaker_string_id": 2383,
+        "dialogue_id": "HRE02-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Готово. Теперь можно идти дальше.",
+      "metadata": {
+        "string_id": 2309,
+        "speaker_string_id": 2384,
+        "dialogue_id": "HRE02-T290-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Тоннель, ведущий наружу, где-то неподалеку. Не пропустить бы.",
+      "metadata": {
+        "string_id": 2310,
+        "speaker_string_id": 2385,
+        "dialogue_id": "HRE02-T260-LANDEN"
+      }
+    },
+    {
+      "speaker": "Аптекарь Ядозлоб",
+      "text": "Как смеете вы прерывать мою работу?!",
+      "metadata": {
+        "string_id": 2629,
+        "speaker_string_id": 2630,
+        "dialogue_id": "HRE02-T270-APOTHECARYVENOMSPITE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Эти испарения – видимо, результат той «работы», которую мы прервали. Надо от них избавиться.",
+      "metadata": {
+        "string_id": 2665,
+        "speaker_string_id": 2666,
+        "dialogue_id": "HRE02-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Хм-м. Это должно защитить нас от испарений.",
+      "metadata": {
+        "string_id": 2315,
+        "speaker_string_id": 2387,
+        "dialogue_id": "HRE02-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А-а! Что это за твари?!",
+      "metadata": {
+        "string_id": 2316,
+        "speaker_string_id": 2388,
+        "dialogue_id": "HRE02-T310-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Засада!",
+      "metadata": {
+        "string_id": 2492,
+        "speaker_string_id": 2493,
+        "dialogue_id": "HRE02-T320-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Что это еще за мерзкое колдовство?",
+      "metadata": {
+        "string_id": 2318,
+        "speaker_string_id": 2390,
+        "dialogue_id": "HRE02-T580-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что бы это ни было, пора с этим кончать!",
+      "metadata": {
+        "string_id": 2319,
+        "speaker_string_id": 2391,
+        "dialogue_id": "HRE02-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ривендер! Ты заплатишь за свои злодеяния!",
+      "metadata": {
+        "string_id": 2321,
+        "speaker_string_id": 2392,
+        "dialogue_id": "HRE02-T600-GAREK"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "О, еще кому-то не терпится умереть!",
+      "metadata": {
+        "string_id": 2322,
+        "speaker_string_id": 2323,
+        "dialogue_id": "HRE02-T610-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Хвала Свету! Оставайся здесь, а я вернусь и приведу выживших.",
+      "metadata": {
+        "string_id": 2305,
+        "speaker_string_id": 2380,
+        "dialogue_id": "HRE02-T470-LANDEN"
+      }
+    },
+    {
+      "speaker": "Мордо",
+      "text": "Ривендер вознаградит меня за это!",
+      "metadata": {
+        "string_id": 2633,
+        "speaker_string_id": 2634,
+        "dialogue_id": "HRE02-T430-MORDO"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Сдохни, тварь!",
+      "metadata": {
+        "string_id": 2328,
+        "speaker_string_id": 2393,
+        "dialogue_id": "HRE02-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Я насажу голову Ривендера на пику!",
+      "metadata": {
+        "string_id": 2334,
+        "speaker_string_id": 2394,
+        "dialogue_id": "HRE02-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Кара его настигнет, Гарек. Нам же нужно сосредоточиться на том, чтобы довести выживших до Андорала.",
+      "metadata": {
+        "string_id": 2331,
+        "speaker_string_id": 2395,
+        "dialogue_id": "HRE02-T460-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Вы не обязаны этого делать, сэр.",
+      "metadata": {
+        "string_id": 2332,
+        "speaker_string_id": 2396,
+        "dialogue_id": "HRE02-T480-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Нет, обязан. Я не позволю тебе идти против Ривендера в одиночку.",
+      "metadata": {
+        "string_id": 2333,
+        "speaker_string_id": 2397,
+        "dialogue_id": "HRE02-T490-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Капитан... Мне жаль...",
+      "metadata": {
+        "string_id": 2335,
+        "speaker_string_id": 2398,
+        "dialogue_id": "HRE02-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "Беги-беги, крысеныш! Я все равно тебя поймаю!",
+      "metadata": {
+        "string_id": 2336,
+        "speaker_string_id": 2399,
+        "dialogue_id": "HRE02-T640-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нужно как-то преградить ему путь. Можно попробовать разбить эти столбы.",
+      "metadata": {
+        "string_id": 2337,
+        "speaker_string_id": 2400,
+        "dialogue_id": "HRE02-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "Барон Ривендер",
+      "text": "От судьбы не уйдешь. Весь Лордерон падет под натиском Плети!",
+      "metadata": {
+        "string_id": 2338,
+        "speaker_string_id": 2401,
+        "dialogue_id": "HRE02-T670-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "В этой тьме таится что-то холодное и опасное.",
+      "metadata": {
+        "string_id": 2572,
+        "speaker_string_id": 2573,
+        "dialogue_id": "HRE02-T360-GAREK"
+      }
+    },
+    {
+      "speaker": "Араж Призыватель",
+      "text": "Глупые смертные. Ваша судьба предрешена!",
+      "metadata": {
+        "string_id": 2637,
+        "speaker_string_id": 2638,
+        "dialogue_id": "HRE02-T370-ARAJTHESUMMONER"
+      }
+    },
+    {
+      "speaker": "Араж Призыватель",
+      "text": "Я еще вернусь...",
+      "metadata": {
+        "string_id": 2643,
+        "speaker_string_id": 2644,
+        "dialogue_id": "HRE02-T380-ARAJTHESUMMONER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Гнусный лич...",
+      "metadata": {
+        "string_id": 2507,
+        "speaker_string_id": 2508,
+        "dialogue_id": "HRE02-T390-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Никогда не видел таких огромных пауков...",
+      "metadata": {
+        "string_id": 2346,
+        "speaker_string_id": 2404,
+        "dialogue_id": "HRE02-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Мать выводка должна быть где-то рядом.",
+      "metadata": {
+        "string_id": 2348,
+        "speaker_string_id": 2405,
+        "dialogue_id": "HRE02-T510-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Проклятая тварь!",
+      "metadata": {
+        "string_id": 2349,
+        "speaker_string_id": 2406,
+        "dialogue_id": "HRE02-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Со смертью матери остальные пауки разбегутся.",
+      "metadata": {
+        "string_id": 2350,
+        "speaker_string_id": 2407,
+        "dialogue_id": "HRE02-T570-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Капитан! Вытащите меня из этой паутины!",
+      "metadata": {
+        "string_id": 2351,
+        "speaker_string_id": 2408,
+        "dialogue_id": "HRE02-T520-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Она меня опутала! Я не могу пошевелиться!",
+      "metadata": {
+        "string_id": 2352,
+        "speaker_string_id": 2409,
+        "dialogue_id": "HRE02-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Гарек! Разруби паутину и освободи меня!",
+      "metadata": {
+        "string_id": 2353,
+        "speaker_string_id": 2410,
+        "dialogue_id": "HRE02-T540-LANDEN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Я попал в сети! Освободи меня, скорее!",
+      "metadata": {
+        "string_id": 2354,
+        "speaker_string_id": 2411,
+        "dialogue_id": "HRE02-T550-LANDEN"
+      }
+    },
+    {
+      "speaker": "Жрец",
+      "text": "Эй, сюда! Выпустите меня!",
+      "metadata": {
+        "string_id": 2796,
+        "speaker_string_id": 2801,
+        "dialogue_id": "HRE02-T120-PRISONERM"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Городской стражник! Прошу, помогите!",
+      "metadata": {
+        "string_id": 2797,
+        "speaker_string_id": 2800,
+        "dialogue_id": "HRE02-T110-PRISONERM"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "Помогите! Откройте клетку!",
+      "metadata": {
+        "string_id": 2798,
+        "speaker_string_id": 2799,
+        "dialogue_id": "HRE02-T130-PRISONERM"
+      }
+    },
+    {
+      "speaker": "Жрец",
+      "text": "Я ваш должник. И буду сражаться на вашей стороне!",
+      "metadata": {
+        "string_id": 2806,
+        "speaker_string_id": 2805,
+        "dialogue_id": "HRE02-T210-PRISONERPRIEST"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Спасибо! А теперь пора отсюда выбираться!",
+      "metadata": {
+        "string_id": 2807,
+        "speaker_string_id": 2808,
+        "dialogue_id": "HRE02-T140-PRISONERFOOTMAN"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "Я уж думал, что здесь и помру! Эти служители культа за все ответят!",
+      "metadata": {
+        "string_id": 2649,
+        "speaker_string_id": 2650,
+        "dialogue_id": "HRE02-T190-PRISONERRIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Ланден",
+      "text": "Главная кузница города. В ней еще остался жар.",
+      "metadata": {
+        "string_id": 2651,
+        "speaker_string_id": 2652,
+        "dialogue_id": "HRE02-T400-LANDEN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "К домам, которые Артас превратил в склепы. Нужно погасить пламя.",
+      "metadata": {
+        "string_id": 2653,
+        "speaker_string_id": 2654,
+        "dialogue_id": "HRE02-T410-GAREK"
+      }
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE03",
+  "title": "Siege",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Гарек",
+      "text": "Пока мы ждем Утера с подкреплением, не дадим нежити уничтожить Андорал. Вперед.",
+      "metadata": {
+        "string_id": 2773,
+        "speaker_string_id": 2774,
+        "dialogue_id": "HRE03-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Благодарю тебя, незнакомец. Ты из столицы? Правду говорят, что Артас предал город огню?",
+      "metadata": {
+        "string_id": 2782,
+        "speaker_string_id": 2783,
+        "dialogue_id": "HRE03-M020-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Да. Лорд Утер приказал нам идти в Андорал. Сам же он отправился за подкреплением.",
+      "metadata": {
+        "string_id": 2785,
+        "speaker_string_id": 2786,
+        "dialogue_id": "HRE03-M020-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Боюсь, время не на нашей стороне. Силы культа вот-вот начнут штурмовать город.",
+      "metadata": {
+        "string_id": 2794,
+        "speaker_string_id": 2795,
+        "dialogue_id": "HRE03-M020-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Я хотел собрать войско, чтобы дать им отпор, но сперва нам нужно организовать базу.",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "HRE03-M020-040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы поможем. Пока будем отвлекать культ на себя, Утер успеет вернуться с подкреплением.",
+      "metadata": {
+        "string_id": 2812,
+        "speaker_string_id": 2813,
+        "dialogue_id": "HRE03-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Славно. Я Иластар Певучий Ветер, к вашим услугам.",
+      "metadata": {
+        "string_id": 2821,
+        "speaker_string_id": 2822,
+        "dialogue_id": "HRE03-M020-060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А я Гарек Бандарион. Будем знакомы. Что ж, дадим бой культу.",
+      "metadata": {
+        "string_id": 2830,
+        "speaker_string_id": 2831,
+        "dialogue_id": "HRE03-M020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Лорд Утер! Неужели это все наше подкрепление?",
+      "metadata": {
+        "string_id": 2894,
+        "speaker_string_id": 2895,
+        "dialogue_id": "HRE03-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Утер",
+      "text": "Боюсь, что так. После роспуска ордена Серебряной Длани паладины разбрелись по всему Лордерону.",
+      "metadata": {
+        "string_id": 2844,
+        "speaker_string_id": 2845,
+        "dialogue_id": "HRE03-M030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "О нет... Этот колокольный звон означает, что силы культа прорвали ворота!",
+      "metadata": {
+        "string_id": 2914,
+        "speaker_string_id": 2915,
+        "dialogue_id": "HRE03-M030-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Утер",
+      "text": "Значит, решающая битва уже началась.",
+      "metadata": {
+        "string_id": 2863,
+        "speaker_string_id": 2864,
+        "dialogue_id": "HRE03-M030-040-UTHER"
+      }
+    },
+    {
+      "speaker": "Утер",
+      "text": "Ведите свое войско внутрь, а я с паладинами возьму город в кольцо.",
+      "metadata": {
+        "string_id": 2872,
+        "speaker_string_id": 2873,
+        "dialogue_id": "HRE03-M030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Слушаюсь, сэр! Мы не позволим Плети захватить Андорал!",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2882,
+        "dialogue_id": "HRE03-M030-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Нет! Вы не лишите меня награды!",
+      "metadata": {
+        "string_id": 2983,
+        "speaker_string_id": 2984,
+        "dialogue_id": "HRE03-M040-010-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "В Стратхольме я получу безграничную силу! В следующую нашу встречу вы все умрете!",
+      "metadata": {
+        "string_id": 2986,
+        "speaker_string_id": 2985,
+        "dialogue_id": "HRE03-M040-020-RAS"
+      }
+    },
+    {
+      "speaker": "Утер",
+      "text": "Андоралу больше ничто не угрожает, но, чтобы его восстановить, понадобится время.",
+      "metadata": {
+        "string_id": 2892,
+        "speaker_string_id": 2893,
+        "dialogue_id": "HRE03-M040-030-UTHER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ривендер был правителем Стратхольма. Если город превратился в логово культа, значит, и он сейчас там.",
+      "metadata": {
+        "string_id": 2903,
+        "speaker_string_id": 2904,
+        "dialogue_id": "HRE03-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Утер",
+      "text": "Знаю, он погубил твоего капитана. Но во имя Света мы обязаны защищать тех, кто жив. Мы должны помнить об этом, лейтенант Бандарион.",
+      "metadata": {
+        "string_id": 2912,
+        "speaker_string_id": 2913,
+        "dialogue_id": "HRE03-M040-050-UTHER"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Я не могу отсиживаться за этими стенами, пока Ривендер творит свои злодеяния.",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "HRE03-M040-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Как и я. Свет также обязует нас нести возмездие. И культ его получит.",
+      "metadata": {
+        "string_id": 2932,
+        "speaker_string_id": 2933,
+        "dialogue_id": "HRE03-M040-070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Так тому и быть. Мы отправимся в Стратхольм, пока лорд Утер нас не остановил.",
+      "metadata": {
+        "string_id": 2963,
+        "speaker_string_id": 2964,
+        "dialogue_id": "HRE03-M040-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Мне это уже надоело. Пора расправиться с вами раз и навсегда!",
+      "metadata": {
+        "string_id": 2664,
+        "speaker_string_id": 2665,
+        "dialogue_id": "HRE03-T350-RAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Культу прислуживает бессчетное количество живых мертвецов.",
+      "metadata": {
+        "string_id": 2574,
+        "speaker_string_id": 2575,
+        "dialogue_id": "HRE03-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Пока мы не уничтожим чумные котлы, эти мерзкие вурдалаки так и будут на нас нападать.",
+      "metadata": {
+        "string_id": 2580,
+        "speaker_string_id": 2581,
+        "dialogue_id": "HRE03-T170-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Если мы расчистим путь для паладинов Утера, они присоединятся к нам в битве за город.",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "HRE03-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "И снова эти чумные котлы. Нужно уничтожить их, пока город не заполонила нежить!",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2681,
+        "dialogue_id": "HRE03-T330-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "Да, ваше высочество?",
+      "metadata": {
+        "string_id": 2761,
+        "speaker_string_id": 2762,
+        "dialogue_id": "FootmanWhat3"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "Мне нужна цель!",
+      "metadata": {
+        "string_id": 2751,
+        "speaker_string_id": 2752,
+        "dialogue_id": "RiflemanWhat3"
+      }
+    },
+    {
+      "speaker": "Стрелок",
+      "text": "Да?",
+      "metadata": {
+        "string_id": 2753,
+        "speaker_string_id": 2754,
+        "dialogue_id": "RiflemanWhat1"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "За Лордерон!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "К оружию!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Жрец",
+      "text": "Чем могу помочь?",
+      "metadata": {
+        "string_id": 2765,
+        "speaker_string_id": 2766,
+        "dialogue_id": "PriestWhat3"
+      }
+    },
+    {
+      "speaker": "Жрец",
+      "text": "Повинуюсь.",
+      "metadata": {
+        "string_id": 2759,
+        "speaker_string_id": 2760,
+        "dialogue_id": "PriestYes1"
+      }
+    },
+    {
+      "speaker": "Работник",
+      "text": "Опять за работу?",
+      "metadata": {
+        "string_id": 2767,
+        "speaker_string_id": 2768,
+        "dialogue_id": "PeasantWhat3"
+      }
+    },
+    {
+      "speaker": "Работник",
+      "text": "Спасите! Помогите!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Работник",
+      "text": "Спасите! Помогите!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Работник",
+      "text": "Спасите! Помогите!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Работник",
+      "text": "Спасите! Помогите!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Враги атакуют! Вперед!",
+      "metadata": {
+        "string_id": 2511,
+        "speaker_string_id": 2512,
+        "dialogue_id": "HRE03-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Этим проклятым прислужникам культа ни за что не победить!",
+      "metadata": {
+        "string_id": 2515,
+        "speaker_string_id": 2516,
+        "dialogue_id": "HRE03-T010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Если мы хотим здесь закрепиться, нужно отремонтировать лесопилку!",
+      "metadata": {
+        "string_id": 2522,
+        "speaker_string_id": 2523,
+        "dialogue_id": "HRE03-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Одной заботой меньше.",
+      "metadata": {
+        "string_id": 2586,
+        "speaker_string_id": 2587,
+        "dialogue_id": "HRE03-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Убийца",
+      "text": "Засада!",
+      "metadata": {
+        "string_id": 2982,
+        "speaker_string_id": 2981,
+        "dialogue_id": "BanditWarcry1"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Из леса врагов выбили. Теперь нужно разобраться с остальными прислужниками культа.",
+      "metadata": {
+        "string_id": 2713,
+        "speaker_string_id": 2737,
+        "dialogue_id": "HRE03-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Неплохое начало, но для полноценной армии нам понадобится больше ресурсов.",
+      "metadata": {
+        "string_id": 2685,
+        "speaker_string_id": 2686,
+        "dialogue_id": "HRE03-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Поблизости есть и другие поселения. Их бы тоже не мешало освободить.",
+      "metadata": {
+        "string_id": 2693,
+        "speaker_string_id": 2694,
+        "dialogue_id": "HRE03-T050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Это одно из отдаленных поселений. Когда-то здесь жили хорошие люди.",
+      "metadata": {
+        "string_id": 2526,
+        "speaker_string_id": 2527,
+        "dialogue_id": "HRE03-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нужно привести сюда рабочих и приступить к ремонту.",
+      "metadata": {
+        "string_id": 2530,
+        "speaker_string_id": 2531,
+        "dialogue_id": "HRE03-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Хорошо, что прислужники культа не тронули лошадей.",
+      "metadata": {
+        "string_id": 2534,
+        "speaker_string_id": 2535,
+        "dialogue_id": "HRE03-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Наши рыцари поскачут на них в бой и отомстят за погибших.",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "HRE03-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Семья, которая здесь жила, искала уединения вдали от городской суеты.",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "HRE03-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Воспользуемся оставшимися здесь припасами, чтобы свершить возмездие над убийцами.",
+      "metadata": {
+        "string_id": 2549,
+        "speaker_string_id": 2550,
+        "dialogue_id": "HRE03-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Это же был храм Света! Неужели у этих язычников ничего святого не осталось?!",
+      "metadata": {
+        "string_id": 2553,
+        "speaker_string_id": 2554,
+        "dialogue_id": "HRE03-T100-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Твои братья-жрецы заставят их заплатить за такие злодеяния.",
+      "metadata": {
+        "string_id": 2559,
+        "speaker_string_id": 2560,
+        "dialogue_id": "HRE03-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Я знал владельцев этой оружейной мастерской. Они очень гордились своим ремеслом.",
+      "metadata": {
+        "string_id": 2561,
+        "speaker_string_id": 2562,
+        "dialogue_id": "HRE03-T140-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Их товары позволят нашим стрелкам нашпиговать врагов свинцом.",
+      "metadata": {
+        "string_id": 2568,
+        "speaker_string_id": 2569,
+        "dialogue_id": "HRE03-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Похоже, у нас незваные гости. Уничтожьте их.",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "HRE03-T190-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Мне некогда с вами возиться! Меня ждут дела поважнее!",
+      "metadata": {
+        "string_id": 2695,
+        "speaker_string_id": 2696,
+        "dialogue_id": "HRE03-T270-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Я имел дело с куда более могущественными врагами! Вас я легко одолею!",
+      "metadata": {
+        "string_id": 2620,
+        "speaker_string_id": 2621,
+        "dialogue_id": "HRE03-T260-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Вы дорого заплатите за свою дерзость! Это еще не конец!",
+      "metadata": {
+        "string_id": 2627,
+        "speaker_string_id": 2628,
+        "dialogue_id": "HRE03-T250-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Упрямые глупцы! Я вернусь и приведу с собой огромное войско!",
+      "metadata": {
+        "string_id": 2705,
+        "speaker_string_id": 2706,
+        "dialogue_id": "HRE03-T240-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Мой повелитель приказал уничтожить этот город. Что я с радостью и сделаю!",
+      "metadata": {
+        "string_id": 2635,
+        "speaker_string_id": 2636,
+        "dialogue_id": "HRE03-T200-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Только глупец решится противостоять культу Проклятых!",
+      "metadata": {
+        "string_id": 2641,
+        "speaker_string_id": 2642,
+        "dialogue_id": "HRE03-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Андорал сгорит, как и весь Лордерон. Вы нас не остановите!",
+      "metadata": {
+        "string_id": 2647,
+        "speaker_string_id": 2648,
+        "dialogue_id": "HRE03-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Рас Ледяной Шепот",
+      "text": "Вы зря сопротивляетесь. Этим миром будет править Плеть.",
+      "metadata": {
+        "string_id": 2670,
+        "speaker_string_id": 2671,
+        "dialogue_id": "HRE03-T230-RAS"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Захватив сторожевые башни, мы сможем изгнать этих мерзких служителей культа из Андорала!",
+      "metadata": {
+        "string_id": 3025,
+        "speaker_string_id": 3026,
+        "dialogue_id": "HRE03-T290-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ополченцы уже сражаются на улицах! Мы к ним присоединимся!",
+      "metadata": {
+        "string_id": 3028,
+        "speaker_string_id": 3027,
+        "dialogue_id": "HRE03-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "За Лордерон!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Ополченец",
+      "text": "Придется драться?",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2979,
+        "dialogue_id": "PeasantYesAttack3"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "К оружию!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Ополченец",
+      "text": "Придется драться?",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2979,
+        "dialogue_id": "PeasantYesAttack3"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "За Лордерон!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Пехотинец",
+      "text": "К оружию!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Иластар",
+      "text": "Жителям нужна наша помощь!",
+      "metadata": {
+        "string_id": 3029,
+        "speaker_string_id": 3030,
+        "dialogue_id": "HRE03-T310-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Спасем всех, кого сумеем!",
+      "metadata": {
+        "string_id": 3031,
+        "speaker_string_id": 3032,
+        "dialogue_id": "HRE03-T320-GAREK"
+      }
+    }
+  ]
+}

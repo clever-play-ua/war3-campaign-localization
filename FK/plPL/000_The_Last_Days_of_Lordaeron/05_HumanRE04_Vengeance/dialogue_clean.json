@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "plPL",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Ilastar",
+      "text": "Spójrz, co zostawił po sobie Arthas. Ile jeszcze miast spali? Ile istnień pochłonie?",
+      "metadata": {
+        "string_id": 1030,
+        "speaker_string_id": 1031,
+        "dialogue_id": "HRE04-M010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To Zerwikrusz zapoczątkował to wszystko. Dopadniemy go tu i teraz.",
+      "metadata": {
+        "string_id": 1033,
+        "speaker_string_id": 1034,
+        "dialogue_id": "HRE04-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Zgadza się. Miasto będzie dobrze ufortyfikowane, ale mogę wejść boczną bramą i podnieść brony.",
+      "metadata": {
+        "string_id": 1036,
+        "speaker_string_id": 1037,
+        "dialogue_id": "HRE04-M010-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Mądry plan. Uważaj na siebie, póki znów nie połączymy sił.",
+      "metadata": {
+        "string_id": 1103,
+        "speaker_string_id": 1104,
+        "dialogue_id": "HRE04-M010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "A ty na siebie, Gareku. Niech Światłość prowadzi twoje ostrze.",
+      "metadata": {
+        "string_id": 1042,
+        "speaker_string_id": 1043,
+        "dialogue_id": "HRE04-M010-050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Rez Szept Mrozu",
+      "text": "Tchórzliwi magowie z Kirin Toru wzgardzili moimi zdolnościami i ambicjami. Ale Król Lisz je wynagrodzi!",
+      "metadata": {
+        "string_id": 1381,
+        "speaker_string_id": 1382,
+        "dialogue_id": "HRE04-T130-RAS"
+      }
+    },
+    {
+      "speaker": "Rez Szept Mrozu",
+      "text": "Wyzbywam się nędznego, krwawego ciała i przyjmuję nieśmiertelność nieumarłości!",
+      "metadata": {
+        "string_id": 1417,
+        "speaker_string_id": 1418,
+        "dialogue_id": "HRE04-T140-RAS"
+      }
+    },
+    {
+      "speaker": "Rez Szept Mrozu",
+      "text": "Strzeżcie się! Powstaję odnowiony i ulepszony!",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "HRE04-T150-RAS"
+      }
+    },
+    {
+      "speaker": "Rez Szept Mrozu",
+      "text": "Leonidzie! Powiedz moim uczniom, że mogą robić, co zechcą. Czeka mnie wspanialszy los!",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "HRE04-T160-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Zerwikrusz! Zapłacisz za swoje zbrodnie własną śmiercią!",
+      "metadata": {
+        "string_id": 1046,
+        "speaker_string_id": 1047,
+        "dialogue_id": "HRE04-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Baron Zerwikrusz",
+      "text": "Śmiercią? A co ty możesz wiedzieć o śmierci?",
+      "metadata": {
+        "string_id": 1054,
+        "speaker_string_id": 1055,
+        "dialogue_id": "HRE04-M030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Zerwikrusz",
+      "text": "Ujrzałem jej prawdziwą moc i posiadłem nad nią władzę! Król Lisz wyniósł mnie ponad takich żałosnych słabeuszy jak ty!",
+      "metadata": {
+        "string_id": 1056,
+        "speaker_string_id": 1057,
+        "dialogue_id": "HRE04-M030-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Zerwikrusz",
+      "text": "Teraz zaś zmuszę cię do krzyku, tak jak zrobiłem to z twoim nędznym kapitanem!",
+      "metadata": {
+        "string_id": 1058,
+        "speaker_string_id": 1059,
+        "dialogue_id": "HRE04-M030-040-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nie waż się wypowiadać jego imienia! Jesteś ledwie plugastwem i jak plugastwo zginiesz! Za Landena!",
+      "metadata": {
+        "string_id": 1052,
+        "speaker_string_id": 1053,
+        "dialogue_id": "HRE04-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Skrzynie dotkniętego zarazą zboża. To tak Zerwikrusz \nskazał swoich ludzi na śmierć.",
+      "metadata": {
+        "string_id": 1233,
+        "speaker_string_id": 1234,
+        "dialogue_id": "HRE04-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Brama zamknięta. Musimy poczekać, aż Ilastar ją otworzy.",
+      "metadata": {
+        "string_id": 1235,
+        "speaker_string_id": 1236,
+        "dialogue_id": "HRE04-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Droga wolna. Zostanę na górze i przeprowadzę zwiad.",
+      "metadata": {
+        "string_id": 1340,
+        "speaker_string_id": 1341,
+        "dialogue_id": "HRE04-T040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Kanonierzy",
+      "text": "Ty... żyjesz? Światłości niech będą dzięki! Od tygodni otacza nas Plaga!",
+      "metadata": {
+        "string_id": 1216,
+        "speaker_string_id": 1217,
+        "dialogue_id": "HRE04-T050-MORTARTEAM"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Skup się na Krypcie, zanim wszystkich nas wykończy!",
+      "metadata": {
+        "string_id": 1107,
+        "speaker_string_id": 1176,
+        "dialogue_id": "HRE04-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastarze, jak się masz?",
+      "metadata": {
+        "string_id": 1467,
+        "speaker_string_id": 1451,
+        "dialogue_id": "HRE04-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Dobrze. Uzdrowię cię, jak tylko mogę.",
+      "metadata": {
+        "string_id": 1469,
+        "speaker_string_id": 1470,
+        "dialogue_id": "HRE04-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Kaplica Alonsusa. Jakim świętokradztwem splugawił ją kult?",
+      "metadata": {
+        "string_id": 1329,
+        "speaker_string_id": 1330,
+        "dialogue_id": "HRE04-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Sam nie dam im rady. Kanonierzy Gareka mogą mi pomóc z oddali.",
+      "metadata": {
+        "string_id": 1109,
+        "speaker_string_id": 1177,
+        "dialogue_id": "HRE04-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Strzelec",
+      "text": "Posiłki! Mówiłem, że musimy tylko trochę wytrzymać!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "HRE04-T090-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Brama wciąż jest zamknięta. W pobliżu musi być druga dźwignia.",
+      "metadata": {
+        "string_id": 1113,
+        "speaker_string_id": 1178,
+        "dialogue_id": "HRE04-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Brama dalej zamknięta. Musi tu być jeszcze jedna dźwignia.",
+      "metadata": {
+        "string_id": 1249,
+        "speaker_string_id": 1250,
+        "dialogue_id": "HRE04-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bramy otwarte! Szept Mrozu skosztuje naszej stali!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bramy otwarte! Szept Mrozu skosztuje naszej stali!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Mieszkaniec",
+      "text": "Ratujesz mi życie! Muszę się stąd wydostać!",
+      "metadata": {
+        "string_id": 1471,
+        "speaker_string_id": 1452,
+        "dialogue_id": "HRE04-T240-CIVILIANM"
+      }
+    },
+    {
+      "speaker": "Mieszkaniec",
+      "text": "Dziękuję, panie! Czekała mnie śmierć... albo coś gorszego!",
+      "metadata": {
+        "string_id": 1472,
+        "speaker_string_id": 1453,
+        "dialogue_id": "HRE04-T270-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Mieszkaniec",
+      "text": "Czy to możliwe? Koszmar się zakończył? Nie wiem, jak ci dziękować!",
+      "metadata": {
+        "string_id": 1473,
+        "speaker_string_id": 1454,
+        "dialogue_id": "HRE04-T290-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Na ulicach pełno nieumarłych. Starajmy się ich unikać.",
+      "metadata": {
+        "string_id": 1251,
+        "speaker_string_id": 1252,
+        "dialogue_id": "HRE04-T430-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nadchodzą! Przygotować się do walki!",
+      "metadata": {
+        "string_id": 1117,
+        "speaker_string_id": 1181,
+        "dialogue_id": "HRE04-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Brama jest zamknięta. Nie przedostaniemy się przez nią bez klucza.",
+      "metadata": {
+        "string_id": 1119,
+        "speaker_string_id": 1182,
+        "dialogue_id": "HRE04-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Droga na Plac Krzyżowca stoi otworem. Zerwikrusz nie może się ukrywać w nieskończoność.",
+      "metadata": {
+        "string_id": 1121,
+        "speaker_string_id": 1183,
+        "dialogue_id": "HRE04-T460-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To był demon! Ze skrzydłami, rogami i kopytami!",
+      "metadata": {
+        "string_id": 1474,
+        "speaker_string_id": 1455,
+        "dialogue_id": "HRE04-T470-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Stratholm był jednym z najwspanialszych miast Lordaeronu. Po czym Zerwikrusz oddał je nieumarłym!",
+      "metadata": {
+        "string_id": 1122,
+        "speaker_string_id": 1184,
+        "dialogue_id": "HRE04-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Nie on jeden zaprzedał duszę Pladze. Wszystkich ich strawi święty ogień.",
+      "metadata": {
+        "string_id": 1124,
+        "speaker_string_id": 1185,
+        "dialogue_id": "HRE04-T510-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Do diabła, rozdzielili nasze siły. Musimy znaleźć dźwignię otwierającą tę bramę.",
+      "metadata": {
+        "string_id": 1125,
+        "speaker_string_id": 1186,
+        "dialogue_id": "HRE04-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Przegrupujmy się i ruszajmy naprzód.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1187,
+        "dialogue_id": "HRE04-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Rycerz",
+      "text": "Kolejni ocaleńcy! Utrzymać pozycję",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "HRE04-T520-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Mieszkaniec",
+      "text": "To pułapka! Na pomoc!",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1456,
+        "dialogue_id": "HRE04-T550-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Mieszkaniec",
+      "text": "Śmierć Lordaeronowi!",
+      "metadata": {
+        "string_id": 1476,
+        "speaker_string_id": 1457,
+        "dialogue_id": "HRE04-T560-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Taki jest los wszystkich kultystów.",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1458,
+        "dialogue_id": "HRE04-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Oto przeklęta wieża, w której zasiada Zerwikrusz.",
+      "metadata": {
+        "string_id": 1130,
+        "speaker_string_id": 1188,
+        "dialogue_id": "HRE04-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Gdy już go pokonam, zrzucę jego ciało z jej szczytu.",
+      "metadata": {
+        "string_id": 1131,
+        "speaker_string_id": 1189,
+        "dialogue_id": "HRE04-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Gareku, w mieście ktoś mógł jeszcze ocaleć.",
+      "metadata": {
+        "string_id": 1132,
+        "speaker_string_id": 1190,
+        "dialogue_id": "HRE04-T620-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nasi żołnierze mogą dalej szukać cywilów, którzy potrzebują pomocy.",
+      "metadata": {
+        "string_id": 1134,
+        "speaker_string_id": 1191,
+        "dialogue_id": "HRE04-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Gdy będzie po wszystkim, przegrupujemy się w Żagiewiu. A teraz wymierzmy Zerwikruszowi sprawiedliwość.",
+      "metadata": {
+        "string_id": 1136,
+        "speaker_string_id": 1208,
+        "dialogue_id": "HRE04-T640-GAREK"
+      }
+    },
+    {
+      "speaker": "Piechur",
+      "text": "Za Lordaeron!",
+      "metadata": {
+        "string_id": 1478,
+        "speaker_string_id": 1459,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Piechur",
+      "text": "Do broni!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Czarodziejka",
+      "text": "Zwycięstwo będzie nasze!",
+      "metadata": {
+        "string_id": 1259,
+        "speaker_string_id": 1260,
+        "dialogue_id": "SorceressYesAttack2"
+      }
+    },
+    {
+      "speaker": "Piechur",
+      "text": "Spokojnie, to powierzchowna rana...",
+      "metadata": {
+        "string_id": 1139,
+        "speaker_string_id": 1140,
+        "dialogue_id": "FootmanPissed4"
+      }
+    },
+    {
+      "speaker": "Kapłan",
+      "text": "Przybywam oczyścić tę krainę.",
+      "metadata": {
+        "string_id": 1142,
+        "speaker_string_id": 1143,
+        "dialogue_id": "PriestReady1"
+      }
+    },
+    {
+      "speaker": "Strzelec",
+      "text": "Gotów do strzału!",
+      "metadata": {
+        "string_id": 1144,
+        "speaker_string_id": 1145,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Kanonierzy",
+      "text": "Bierem się do walki!",
+      "metadata": {
+        "string_id": 1146,
+        "speaker_string_id": 1147,
+        "dialogue_id": "MortarTeamWhat1"
+      }
+    },
+    {
+      "speaker": "Rez Szept Mrozu",
+      "text": "O, wróciliście po dokładkę? Tym razem obedrę was żywcem ze skóry!",
+      "metadata": {
+        "string_id": 1265,
+        "speaker_string_id": 1266,
+        "dialogue_id": "HRE04-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Rez Szept Mrozu",
+      "text": "Tak łatwo mnie nie zgładzicie, śmiertelnicy. Jeszcze się spotkamy.",
+      "metadata": {
+        "string_id": 1269,
+        "speaker_string_id": 1270,
+        "dialogue_id": "HRE04-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Zapomnij o nim. Prawdziwym celem jest Zerwikrusz.",
+      "metadata": {
+        "string_id": 1153,
+        "speaker_string_id": 1209,
+        "dialogue_id": "HRE04-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Lortiras",
+      "text": "Twoje cierpienie będzie rozkoszne.",
+      "metadata": {
+        "string_id": 1305,
+        "speaker_string_id": 1306,
+        "dialogue_id": "HRE04-T480-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Lortiras",
+      "text": "To jeszcze nie koniec, żałośni śmiertelnicy.",
+      "metadata": {
+        "string_id": 1307,
+        "speaker_string_id": 1308,
+        "dialogue_id": "HRE04-T490-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Grimthane",
+      "text": "Wasze kości posłużą Pladze.",
+      "metadata": {
+        "string_id": 1297,
+        "speaker_string_id": 1298,
+        "dialogue_id": "HRE04-T580-GRIMTHANE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wasze kości mogą dołączyć do reszty.",
+      "metadata": {
+        "string_id": 1303,
+        "speaker_string_id": 1304,
+        "dialogue_id": "HRE04-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Baron Zerwikrusz",
+      "text": "Wszyscy będziecie mi służyć!",
+      "metadata": {
+        "string_id": 1295,
+        "speaker_string_id": 1296,
+        "dialogue_id": "HRE04-T650-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Zerwikrusz",
+      "text": "Siły Plagi nigdy się nie kończą! Utoniecie we własnej krwi!",
+      "metadata": {
+        "string_id": 1479,
+        "speaker_string_id": 1460,
+        "dialogue_id": "HRE04-T660-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Co... co to? Mam to w płucach...",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1461,
+        "dialogue_id": "HRE04-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Zarodniki... jesteśmy... zarażeni...",
+      "metadata": {
+        "string_id": 1481,
+        "speaker_string_id": 1462,
+        "dialogue_id": "HRE04-T680-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Baron Zerwikrusz",
+      "text": "Irytujące robactwo! Ujrzyjcie prawdziwą moc!",
+      "metadata": {
+        "string_id": 1482,
+        "speaker_string_id": 1463,
+        "dialogue_id": "HRE04-T690-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastarze, obeliski! Zniszcz je!",
+      "metadata": {
+        "string_id": 1483,
+        "speaker_string_id": 1464,
+        "dialogue_id": "HRE04-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Nie mogę...",
+      "metadata": {
+        "string_id": 1484,
+        "speaker_string_id": 1465,
+        "dialogue_id": "HRE04-T710-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wytrzymaj, Ilastarze!",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1466,
+        "dialogue_id": "HRE04-T720-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Na Światłość! Zarodniki tych grzybów przenoszą zarazę. Nie możemy pozwolić, by rosły!",
+      "metadata": {
+        "string_id": 1163,
+        "speaker_string_id": 1211,
+        "dialogue_id": "HRE04-T070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Niech te przeklęte zarodniki udławią się prochami zgliszczy tego miasta.",
+      "metadata": {
+        "string_id": 1164,
+        "speaker_string_id": 1212,
+        "dialogue_id": "HRE04-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ktoś chyba próbował zwiać ze Stratholmu drogą morską. Kult musiał zatopić jego łódź.",
+      "metadata": {
+        "string_id": 1165,
+        "speaker_string_id": 1213,
+        "dialogue_id": "HRE04-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Powinniśmy odzyskać ich zapasy. Mogą nam pomóc w prowadzeniu wojny.",
+      "metadata": {
+        "string_id": 1166,
+        "speaker_string_id": 1214,
+        "dialogue_id": "HRE04-T410-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Te zapasy powinny wystarczyć. Czas wracać na ląd.",
+      "metadata": {
+        "string_id": 1167,
+        "speaker_string_id": 1215,
+        "dialogue_id": "HRE04-T420-GAREK"
+      }
+    }
+  ]
+}

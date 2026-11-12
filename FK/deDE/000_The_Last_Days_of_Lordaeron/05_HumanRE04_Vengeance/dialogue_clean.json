@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "deDE",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Ilastar",
+      "text": "Seht nur, was Arthas auf seinem Weg hinterlassen hat. Wie viele Städte wird er noch niederbrennen? Wie viele Leben wird er noch fordern?",
+      "metadata": {
+        "string_id": 1030,
+        "speaker_string_id": 1031,
+        "dialogue_id": "HRE04-M010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Rivendare hat das alles in Gang gesetzt. Hier und jetzt bereiten wir ihm ein Ende.",
+      "metadata": {
+        "string_id": 1033,
+        "speaker_string_id": 1034,
+        "dialogue_id": "HRE04-M010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Gewiss. Die Stadt dürfte stark befestigt sein, aber ich kann durch das Seitentor hineinschleichen und die Fallgitter öffnen.",
+      "metadata": {
+        "string_id": 1036,
+        "speaker_string_id": 1037,
+        "dialogue_id": "HRE04-M010-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ein solider Plan. Haltet Euch bedeckt, bis wir wieder zu Euch stoßen können.",
+      "metadata": {
+        "string_id": 1103,
+        "speaker_string_id": 1104,
+        "dialogue_id": "HRE04-M010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Ihr ebenso, Garek. Möge das Licht Eure Klinge führen.",
+      "metadata": {
+        "string_id": 1042,
+        "speaker_string_id": 1043,
+        "dialogue_id": "HRE04-M010-050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ras Frostraunen",
+      "text": "Die feigen Magier der Kirin Tor haben mein Talent und meinen Ehrgeiz verkannt. Aber der Lichkönig wird genau das entlohnen!",
+      "metadata": {
+        "string_id": 1381,
+        "speaker_string_id": 1382,
+        "dialogue_id": "HRE04-T130-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostraunen",
+      "text": "Ich werde mich jetzt dieses erbärmlichen Fleisches und Bluts entledigen und mich der Unsterblichkeit des Untodes ergeben!",
+      "metadata": {
+        "string_id": 1417,
+        "speaker_string_id": 1418,
+        "dialogue_id": "HRE04-T140-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostraunen",
+      "text": "Seht! Ich erhebe mich erneut, perfekt an Gestalt und Macht!",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "HRE04-T150-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostraunen",
+      "text": "Leonid! Sagt meinen Schülern, sie sollen tun, was sie wollen. Mich erwartet eine größere Bestimmung!",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "HRE04-T160-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Rivendare! Für Eure Verbrechen werdet Ihr mit dem Tod büßen!",
+      "metadata": {
+        "string_id": 1046,
+        "speaker_string_id": 1047,
+        "dialogue_id": "HRE04-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Tod? Was wisst Ihr schon vom Tod?",
+      "metadata": {
+        "string_id": 1054,
+        "speaker_string_id": 1055,
+        "dialogue_id": "HRE04-M030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Ich habe die wahre Macht des Todes erblickt und sie mir zu eigen gemacht! Der Lichkönig hat mich über Narren wie Euch erhoben!",
+      "metadata": {
+        "string_id": 1056,
+        "speaker_string_id": 1057,
+        "dialogue_id": "HRE04-M030-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Nun locke ich Euch Eure Schreie aus der Kehle, wie ich es schon bei Eurem armseligen Hauptmann getan habe!",
+      "metadata": {
+        "string_id": 1058,
+        "speaker_string_id": 1059,
+        "dialogue_id": "HRE04-M030-040-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nehmt seinen Namen nicht in den Mund! Verreckt wie das Ungeziefer, das Ihr seid! Für Landen!",
+      "metadata": {
+        "string_id": 1052,
+        "speaker_string_id": 1053,
+        "dialogue_id": "HRE04-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Kisten mit Getreide, infiziert mit der Seuche. So hat Rivendare\nalso sein Volk ans Messer geliefert.",
+      "metadata": {
+        "string_id": 1233,
+        "speaker_string_id": 1234,
+        "dialogue_id": "HRE04-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Das Tor ist verschlossen. Wir müssen abwarten, bis Ilastar es öffnet.",
+      "metadata": {
+        "string_id": 1235,
+        "speaker_string_id": 1236,
+        "dialogue_id": "HRE04-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Der Weg ist frei. Ich bleibe hier oben und spähe voraus.",
+      "metadata": {
+        "string_id": 1340,
+        "speaker_string_id": 1341,
+        "dialogue_id": "HRE04-T040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Mörsertrupp",
+      "text": "Ihr … lebt? Dem Licht sei Dank! Wir sind seit Wochen von der Geißel umzingelt!",
+      "metadata": {
+        "string_id": 1216,
+        "speaker_string_id": 1217,
+        "dialogue_id": "HRE04-T050-MORTARTEAM"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Konzentriert Euch auf die Gruft, bevor sie kurzen Prozess mit uns macht!",
+      "metadata": {
+        "string_id": 1107,
+        "speaker_string_id": 1176,
+        "dialogue_id": "HRE04-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastar, wie läuft es bei Euch?",
+      "metadata": {
+        "string_id": 1467,
+        "speaker_string_id": 1451,
+        "dialogue_id": "HRE04-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Gut genug. Ich werde euch von hier oben so gut wie möglich heilen.",
+      "metadata": {
+        "string_id": 1469,
+        "speaker_string_id": 1470,
+        "dialogue_id": "HRE04-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Die Alonsuskapelle. Welches Sakrileg hat der Kult hier begangen?",
+      "metadata": {
+        "string_id": 1329,
+        "speaker_string_id": 1330,
+        "dialogue_id": "HRE04-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Ich kann mich ihnen nicht alleine stellen. Gareks Mörsertrupps können aus der Ferne helfen.",
+      "metadata": {
+        "string_id": 1109,
+        "speaker_string_id": 1177,
+        "dialogue_id": "HRE04-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Scharfschütze",
+      "text": "Verstärkung! Ich habe doch gesagt, dass wir nur ein wenig länger ausharren müssen!",
+      "metadata": {
+        "string_id": 1239,
+        "speaker_string_id": 1240,
+        "dialogue_id": "HRE04-T090-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Das Tor ist weiterhin geschlossen. Es muss einen zweiten Hebel geben.",
+      "metadata": {
+        "string_id": 1113,
+        "speaker_string_id": 1178,
+        "dialogue_id": "HRE04-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Das Tor ist weiterhin geschlossen. Es muss noch einen weiteren Hebel geben.",
+      "metadata": {
+        "string_id": 1249,
+        "speaker_string_id": 1250,
+        "dialogue_id": "HRE04-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Die Tore sind offen! Frostraunen wird unseren Stahl schmecken!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Die Tore sind offen! Frostraunen wird unseren Stahl schmecken!",
+      "metadata": {
+        "string_id": 1335,
+        "speaker_string_id": 1336,
+        "dialogue_id": "HRE04-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Bürger",
+      "text": "Ihr habt mein Leben gerettet! Ich muss hier raus!",
+      "metadata": {
+        "string_id": 1471,
+        "speaker_string_id": 1452,
+        "dialogue_id": "HRE04-T240-CIVILIANM"
+      }
+    },
+    {
+      "speaker": "Bürger",
+      "text": "Danke, gütiger Herr! Ich dachte, dort drin holt mich der Tod, wenn nicht noch Schlimmeres!",
+      "metadata": {
+        "string_id": 1472,
+        "speaker_string_id": 1453,
+        "dialogue_id": "HRE04-T270-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Bürger",
+      "text": "Kann es sein? Der Albtraum ist vorbei? Tausend Dank!",
+      "metadata": {
+        "string_id": 1473,
+        "speaker_string_id": 1454,
+        "dialogue_id": "HRE04-T290-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Die Straßen sind voller Untoter. Wir sollten ihnen besser aus dem Weg gehen.",
+      "metadata": {
+        "string_id": 1251,
+        "speaker_string_id": 1252,
+        "dialogue_id": "HRE04-T430-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hier kommen sie! Macht Euch bereit zum Kampf!",
+      "metadata": {
+        "string_id": 1117,
+        "speaker_string_id": 1181,
+        "dialogue_id": "HRE04-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Das Tor ist verschlossen. Ohne einen Schlüssel kommen wir nicht durch.",
+      "metadata": {
+        "string_id": 1119,
+        "speaker_string_id": 1182,
+        "dialogue_id": "HRE04-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Der Weg zum Kreuzfahrerplatz ist frei. Rivendare kann sich nicht für immer verstecken.",
+      "metadata": {
+        "string_id": 1121,
+        "speaker_string_id": 1183,
+        "dialogue_id": "HRE04-T460-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Es war ein Dämon! Schwingen und Hörner und Spalthufe!",
+      "metadata": {
+        "string_id": 1474,
+        "speaker_string_id": 1455,
+        "dialogue_id": "HRE04-T470-CIVILIANF"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Stratholme war einst eine der prachtvollsten Städte Lordaerons. Und dann hat Rivendare sie den Untoten geopfert!",
+      "metadata": {
+        "string_id": 1122,
+        "speaker_string_id": 1184,
+        "dialogue_id": "HRE04-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Er ist nur einer von vielen, die ihre Seele der Geißel geopfert haben. Sie alle werden im heiligen Feuer brennen.",
+      "metadata": {
+        "string_id": 1124,
+        "speaker_string_id": 1185,
+        "dialogue_id": "HRE04-T510-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Verdammt, unsere Streitkräfte wurden getrennt. Wir müssen den Hebel finden, der das Tor öffnet.",
+      "metadata": {
+        "string_id": 1125,
+        "speaker_string_id": 1186,
+        "dialogue_id": "HRE04-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wir müssen uns neu formieren und Druck nach vorne machen.",
+      "metadata": {
+        "string_id": 1126,
+        "speaker_string_id": 1187,
+        "dialogue_id": "HRE04-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Ritter",
+      "text": "Weitere Überlebende! Haltet die Stellung!",
+      "metadata": {
+        "string_id": 1128,
+        "speaker_string_id": 1129,
+        "dialogue_id": "HRE04-T520-KNIGHT"
+      }
+    },
+    {
+      "speaker": "Bürger",
+      "text": "Wir sind gefangen! Bitte helft uns!",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1456,
+        "dialogue_id": "HRE04-T550-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Bürger",
+      "text": "Tod sei Lordaeron!",
+      "metadata": {
+        "string_id": 1476,
+        "speaker_string_id": 1457,
+        "dialogue_id": "HRE04-T560-CIVILIAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dies ist das Los aller Kultisten.",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1458,
+        "dialogue_id": "HRE04-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Hier ist der ruchlose Turm, in dem Rivendare Hof hält.",
+      "metadata": {
+        "string_id": 1130,
+        "speaker_string_id": 1188,
+        "dialogue_id": "HRE04-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ich werfe ihn über die Zinnen, sobald ich ihn einen Kopf kürzer gemacht habe.",
+      "metadata": {
+        "string_id": 1131,
+        "speaker_string_id": 1189,
+        "dialogue_id": "HRE04-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Garek, es könnten noch immer Überlebende in der Stadt sein.",
+      "metadata": {
+        "string_id": 1132,
+        "speaker_string_id": 1190,
+        "dialogue_id": "HRE04-T620-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Unsere Soldaten können weiter nach Zivilisten Ausschau halten, die gerettet werden müssen.",
+      "metadata": {
+        "string_id": 1134,
+        "speaker_string_id": 1191,
+        "dialogue_id": "HRE04-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Wir formieren uns in Herdweiler neu, sobald es vollbracht ist. Und jetzt ziehen wir Rivendare zur Rechenschaft.",
+      "metadata": {
+        "string_id": 1136,
+        "speaker_string_id": 1208,
+        "dialogue_id": "HRE04-T640-GAREK"
+      }
+    },
+    {
+      "speaker": "Fußsoldat",
+      "text": "Für Lordaeron!",
+      "metadata": {
+        "string_id": 1478,
+        "speaker_string_id": 1459,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Fußsoldat",
+      "text": "Zu den Waffen!",
+      "metadata": {
+        "string_id": 1257,
+        "speaker_string_id": 1258,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Zauberin",
+      "text": "Jetzt wird der Sieg unser sein!",
+      "metadata": {
+        "string_id": 1259,
+        "speaker_string_id": 1260,
+        "dialogue_id": "SorceressYesAttack2"
+      }
+    },
+    {
+      "speaker": "Fußsoldat",
+      "text": "Es ist nur eine Fleischwunde …",
+      "metadata": {
+        "string_id": 1139,
+        "speaker_string_id": 1140,
+        "dialogue_id": "FootmanPissed4"
+      }
+    },
+    {
+      "speaker": "Priester",
+      "text": "Ich komme, um dieses Land zu läutern.",
+      "metadata": {
+        "string_id": 1142,
+        "speaker_string_id": 1143,
+        "dialogue_id": "PriestReady1"
+      }
+    },
+    {
+      "speaker": "Scharfschütze",
+      "text": "Geladen und entsichert!",
+      "metadata": {
+        "string_id": 1144,
+        "speaker_string_id": 1145,
+        "dialogue_id": "RiflemanReady1"
+      }
+    },
+    {
+      "speaker": "Mörsertrupp",
+      "text": "Geh'n wir kämpfen!",
+      "metadata": {
+        "string_id": 1146,
+        "speaker_string_id": 1147,
+        "dialogue_id": "MortarTeamWhat1"
+      }
+    },
+    {
+      "speaker": "Ras Frostraunen",
+      "text": "Ah, Ihr seid also zurück? Ich werde Euch bei lebendigem Leibe häuten!",
+      "metadata": {
+        "string_id": 1265,
+        "speaker_string_id": 1266,
+        "dialogue_id": "HRE04-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Frostraunen",
+      "text": "So leicht könnt Ihr mich nicht töten, Sterbliche. Wir sehen uns wieder.",
+      "metadata": {
+        "string_id": 1269,
+        "speaker_string_id": 1270,
+        "dialogue_id": "HRE04-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Vergesst ihn. Unser wahres Ziel ist Rivendare.",
+      "metadata": {
+        "string_id": 1153,
+        "speaker_string_id": 1209,
+        "dialogue_id": "HRE04-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Lorthiras",
+      "text": "Eure Qualen werden köstlich sein.",
+      "metadata": {
+        "string_id": 1305,
+        "speaker_string_id": 1306,
+        "dialogue_id": "HRE04-T480-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Lorthiras",
+      "text": "Das ist noch nicht das Ende, kleine Sterbliche.",
+      "metadata": {
+        "string_id": 1307,
+        "speaker_string_id": 1308,
+        "dialogue_id": "HRE04-T490-LORTHIRAS"
+      }
+    },
+    {
+      "speaker": "Grimmfels",
+      "text": "Eure Knochen werden der Geißel dienen.",
+      "metadata": {
+        "string_id": 1297,
+        "speaker_string_id": 1298,
+        "dialogue_id": "HRE04-T580-GRIMTHANE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Jetzt können Eure Knochen sich dem Rest anschließen.",
+      "metadata": {
+        "string_id": 1303,
+        "speaker_string_id": 1304,
+        "dialogue_id": "HRE04-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Ihr werdet Euch alle meinem Willen beugen!",
+      "metadata": {
+        "string_id": 1295,
+        "speaker_string_id": 1296,
+        "dialogue_id": "HRE04-T650-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Die Diener der Geißel sind unendlich! Ihr werdet in eurem eigenen Blut ertrinken!",
+      "metadata": {
+        "string_id": 1479,
+        "speaker_string_id": 1460,
+        "dialogue_id": "HRE04-T660-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Was … ist das? Es ist in meiner Lunge …",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1461,
+        "dialogue_id": "HRE04-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Seuchensporen … wir … sind befallen …",
+      "metadata": {
+        "string_id": 1481,
+        "speaker_string_id": 1462,
+        "dialogue_id": "HRE04-T680-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Baron Rivendare",
+      "text": "Lästiges Ungeziefer! Werdet wahrer Macht gewahr!",
+      "metadata": {
+        "string_id": 1482,
+        "speaker_string_id": 1463,
+        "dialogue_id": "HRE04-T690-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ilastar, die Obelisken! Zerstört sie!",
+      "metadata": {
+        "string_id": 1483,
+        "speaker_string_id": 1464,
+        "dialogue_id": "HRE04-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Ich … kann nicht …",
+      "metadata": {
+        "string_id": 1484,
+        "speaker_string_id": 1465,
+        "dialogue_id": "HRE04-T710-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Haltet ein, Ilastar!",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1466,
+        "dialogue_id": "HRE04-T720-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Beim Licht! Die Sporen dieser Pilze verbreiten die Seuche. Sie dürfen nicht weiter wachsen!",
+      "metadata": {
+        "string_id": 1163,
+        "speaker_string_id": 1211,
+        "dialogue_id": "HRE04-T070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Die üblen Sporen sollen an der Asche der zerstörten Stadt ersticken.",
+      "metadata": {
+        "string_id": 1164,
+        "speaker_string_id": 1212,
+        "dialogue_id": "HRE04-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Es sieht so aus, als hätten einige versucht, übers Meer aus Stratholme zu fliehen. Der Kult muss ihr Schiff versenkt haben.",
+      "metadata": {
+        "string_id": 1165,
+        "speaker_string_id": 1213,
+        "dialogue_id": "HRE04-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Wir sollten die Vorräte sichern. Sie können den Kriegsanstrengungen dienen.",
+      "metadata": {
+        "string_id": 1166,
+        "speaker_string_id": 1214,
+        "dialogue_id": "HRE04-T410-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Das sollten genug Vorräte sein. Kehren wir zum Ufer zurück.",
+      "metadata": {
+        "string_id": 1167,
+        "speaker_string_id": 1215,
+        "dialogue_id": "HRE04-T420-GAREK"
+      }
+    }
+  ]
+}

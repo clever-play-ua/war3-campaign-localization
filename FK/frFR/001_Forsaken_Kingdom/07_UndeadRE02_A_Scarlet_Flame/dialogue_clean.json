@@ -1,0 +1,1241 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "frFR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Garek",
+      "text": "Beau travail, gardes de la mort. Frappez juste et utilisez vos boucliers.",
+      "metadata": {
+        "string_id": 2656,
+        "speaker_string_id": 2657,
+        "dialogue_id": "A2MU-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Pas mal, Garek. Ce ne sont pas des forestiers-sombres, mais ils sauront protéger Fossoyeuse.",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "A2MU-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ravi qu’ils aient votre approbation, Anya.",
+      "metadata": {
+        "string_id": 2660,
+        "speaker_string_id": 2661,
+        "dialogue_id": "A2MU-C020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Capitaine Bandarion, j’ai à vous parler.",
+      "metadata": {
+        "string_id": 2662,
+        "speaker_string_id": 2663,
+        "dialogue_id": "A2MU-C020-040-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Plusieurs zones de la ville ont besoin de réparations, mais je ne peux pas m’en approcher.",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2675,
+        "dialogue_id": "A2MU-C020-050-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Des rats ont fait leur nid dans la cage de l’ascenseur central et des gelées s’échappent sans cesse d’une rupture dans les tuyaux d’égout. Vous pouvez m’aider à m’en débarrasser ?",
+      "metadata": {
+        "string_id": 1455,
+        "speaker_string_id": 1456,
+        "dialogue_id": "A2MU-C020-060-BERND"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Vous voulez que le capitaine de la garde vous aide à dératiser ?",
+      "metadata": {
+        "string_id": 1460,
+        "speaker_string_id": 1461,
+        "dialogue_id": "A2MU-C020-070-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Honnêtement, un peu d’exercice ne me ferait pas de mal. Je m’en occupe, Bernd.",
+      "metadata": {
+        "string_id": 1466,
+        "speaker_string_id": 1467,
+        "dialogue_id": "A2MU-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Cela n’a pas de sens ! Qu’est-ce qui a bien pu causer autant de fissures dans la canalisation principale ?",
+      "metadata": {
+        "string_id": 1470,
+        "speaker_string_id": 1471,
+        "dialogue_id": "A2MU-C030-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Je vais inspecter les murs. Quelque chose est sûrement en train d’endommager les conduits.",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1476,
+        "dialogue_id": "A2MU-C030-020-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous venons avec vous. Il y a peut-être d’autres…",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1481,
+        "dialogue_id": "A2MU-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Attendez. Vous avez entendu ça ?",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1486,
+        "dialogue_id": "A2MU-C030-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "<Grognement de surprise et de douleur.>",
+      "metadata": {
+        "string_id": 1490,
+        "speaker_string_id": 1491,
+        "dialogue_id": "A2MU-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Croisé écarlate",
+      "text": "Voici notre porte d’entrée dans Fossoyeuse ! La Croisade écarlate va leur régler leur compte, à ces immondices !",
+      "metadata": {
+        "string_id": 1495,
+        "speaker_string_id": 1496,
+        "dialogue_id": "A2MU-C030-060-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "Commandant écarlate Mograine",
+      "text": "Ce misérable taudis ne deviendra pas mon tombeau !",
+      "metadata": {
+        "string_id": 1748,
+        "speaker_string_id": 1749,
+        "dialogue_id": "A2MU-M010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek, attendez !",
+      "metadata": {
+        "string_id": 1501,
+        "speaker_string_id": 1502,
+        "dialogue_id": "A2MU-M010-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Argh ! Ça brûle !",
+      "metadata": {
+        "string_id": 1505,
+        "speaker_string_id": 1506,
+        "dialogue_id": "A2MU-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Le lâche s’est échappé.",
+      "metadata": {
+        "string_id": 1509,
+        "speaker_string_id": 1510,
+        "dialogue_id": "A2MU-M010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Avec un peu de chance, l’attaque de Fossoyeuse s’arrête ici.",
+      "metadata": {
+        "string_id": 1514,
+        "speaker_string_id": 1515,
+        "dialogue_id": "A2MU-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il est temps pour nous de faire notre rapport à Sylvanas.",
+      "metadata": {
+        "string_id": 1519,
+        "speaker_string_id": 1520,
+        "dialogue_id": "A2MU-M010-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Anya. Capitaine Bandarion. Au rapport.",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A2MU-C040-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Fossoyeuse est hors de danger, mais… l’attaque a engendré des dégâts considérables.",
+      "metadata": {
+        "string_id": 1528,
+        "speaker_string_id": 1529,
+        "dialogue_id": "A2MU-C040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Les individus qui nous assiègent souhaitent notre destruction totale. Les villages réprouvés à travers Tirisfal font face à une terrible menace.",
+      "metadata": {
+        "string_id": 1754,
+        "speaker_string_id": 1755,
+        "dialogue_id": "A2MU-C040-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Vous devez mettre fin à la Croisade écarlate. Vous pouvez aider ici si vous le souhaitez, mais votre priorité reste l’élimination de ces zélotes.",
+      "metadata": {
+        "string_id": 1760,
+        "speaker_string_id": 1761,
+        "dialogue_id": "A2MU-C040-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ce sera fait, Dame noire.",
+      "metadata": {
+        "string_id": 1543,
+        "speaker_string_id": 1544,
+        "dialogue_id": "A2MU-C040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Capitaine Bandarion, j’ai de nouveau besoin de votre aide.",
+      "metadata": {
+        "string_id": 1547,
+        "speaker_string_id": 1548,
+        "dialogue_id": "A2MU-M040-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "La Croisade écarlate s’est servie d’explosifs pour pénétrer dans la ville et, ce faisant, a mis à jour un réseau de vieux tunnels miniers.",
+      "metadata": {
+        "string_id": 1552,
+        "speaker_string_id": 1553,
+        "dialogue_id": "A2MU-M040-020-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Au lieu d’essayer de défendre ces tunnels, il serait à mon avis préférable de les condamner à l’aide de nos propres explosifs.",
+      "metadata": {
+        "string_id": 1559,
+        "speaker_string_id": 1560,
+        "dialogue_id": "A2MU-M040-030-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bonne idée. Donnez-nous des bombes, et personne ne remettra jamais les pieds dans ces tunnels.",
+      "metadata": {
+        "string_id": 1563,
+        "speaker_string_id": 1564,
+        "dialogue_id": "A2MU-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Anya, Garek. Ces imbéciles écarlates se sont introduits dans mon laboratoire et ont libéré l’une de mes expériences !",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A2MU-M030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Ce spécimen incontrôlable risque de détruire Fossoyeuse. Retrouvez-le et ramenez-le dans sa cellule au plus vite !",
+      "metadata": {
+        "string_id": 1780,
+        "speaker_string_id": 1781,
+        "dialogue_id": "A2MU-M030-020-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Donc c’est à nous de nettoyer votre pagaille ? Vous pourriez demander plus gentiment.",
+      "metadata": {
+        "string_id": 1577,
+        "speaker_string_id": 1578,
+        "dialogue_id": "A2MU-M030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Auriez-vous l’amabilité de m’aider à résoudre ce problème ? Je vous en serais éternellement reconnaissant.",
+      "metadata": {
+        "string_id": 2500,
+        "speaker_string_id": 2501,
+        "dialogue_id": "A2MU-M030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Laissez-nous faire, Putrescin.",
+      "metadata": {
+        "string_id": 2502,
+        "speaker_string_id": 2503,
+        "dialogue_id": "A2MU-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Prenez ce sérum. Il vous permettra de prendre temporairement le contrôle des expériences mineures.",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Bandarion, Anya. Nous avons un problème dans le quartier de la magie. Une banshee a été prise d’une folie furieuse.",
+      "metadata": {
+        "string_id": 1591,
+        "speaker_string_id": 1592,
+        "dialogue_id": "A2MU-M020-010-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "D’après les mages, elle aurait sombré dans la folie à cause d’un pylône de contrôle mental endommagé, mais la cause m’importe peu.",
+      "metadata": {
+        "string_id": 1596,
+        "speaker_string_id": 1597,
+        "dialogue_id": "A2MU-M020-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Je vous laisse régler cette situation comme bon vous semble. Si vous devez éliminer la banshee, qu’il en soit ainsi.",
+      "metadata": {
+        "string_id": 1601,
+        "speaker_string_id": 1602,
+        "dialogue_id": "A2MU-M020-030-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "J’espère ne pas en arriver là. Laissez-nous faire, Varimathras.",
+      "metadata": {
+        "string_id": 1605,
+        "speaker_string_id": 1606,
+        "dialogue_id": "A2MU-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Leonid Barthalomew. Je ne pensais pas vous revoir un jour entre ces murs.",
+      "metadata": {
+        "string_id": 1762,
+        "speaker_string_id": 1763,
+        "dialogue_id": "A2MU-C050-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Pardonnez mon intrusion, dame Coursevent. Les circonstances l’exigent.",
+      "metadata": {
+        "string_id": 1614,
+        "speaker_string_id": 1615,
+        "dialogue_id": "A2MU-C050-020-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous avons repoussé la Croisade écarlate, mais leurs troupes se replient dans leur monastère pour se remobiliser.",
+      "metadata": {
+        "string_id": 1619,
+        "speaker_string_id": 1620,
+        "dialogue_id": "A2MU-C050-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Leonid a espionné leurs déplacements et serait en mesure de diriger nos troupes pour les attaquer.",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A2MU-C050-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Je vois. Qu’en pensez-vous, Anya ? Pouvons-nous confier cette tâche à Leonid ?",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A2MU-C050-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Je répugne à me fier à quelqu’un qui sert la Lumière, et encore moins un homme qui a déserté son propre peuple.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A2MU-C050-060-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mais… Leonid a su se montrer digne de confiance. Sans oublier qu’il a défendu nos villages au péril de sa vie.",
+      "metadata": {
+        "string_id": 1639,
+        "speaker_string_id": 1640,
+        "dialogue_id": "A2MU-C050-070-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Très bien. Il est temps pour la Croisade écarlate de regretter le jour où ils ont croisé le fer avec les Réprouvés.",
+      "metadata": {
+        "string_id": 1772,
+        "speaker_string_id": 1773,
+        "dialogue_id": "A2MU-C050-080-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Capitaine Bandarion, si vous retournez bientôt à la surface, j’ai une petite requête à vous faire.",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A2MU-M045-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "La Dame noire m’a demandé de superviser la reconstruction des villages détruits par la Croisade écarlate.",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A2MU-M045-020-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Mais avant de pouvoir commencer, il me faudrait un rapport de l’étendue des dégâts afin de coordonner les réparations. Pourriez-vous vous en charger ?",
+      "metadata": {
+        "string_id": 1658,
+        "speaker_string_id": 1659,
+        "dialogue_id": "A2MU-M045-030-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bien sûr. Je vais faire le point avec les villageois et je reviendrai vers vous.",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A2MU-M045-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Ah, les travailleurs sont enfin arrivés.",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A2MU-M050-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Que se passe-t-il encore, Putrescin ?",
+      "metadata": {
+        "string_id": 1672,
+        "speaker_string_id": 1673,
+        "dialogue_id": "A2MU-M050-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Vous avez sûrement remarqué que la faune de Tirisfal a subi d’étranges changements, ces derniers temps.",
+      "metadata": {
+        "string_id": 1792,
+        "speaker_string_id": 1793,
+        "dialogue_id": "A2MU-M050-030-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "J’aimerais vraiment étudier le sang de ces créatures. Si vous parvenez à m’en procurer, vous serez fortement récompensés pour vos efforts.",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A2MU-M050-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Très bien. Mais j’espère que cela en vaudra la peine, Putrescin.",
+      "metadata": {
+        "string_id": 1687,
+        "speaker_string_id": 1688,
+        "dialogue_id": "A2MU-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Je ne sais pas comment vous remercier. Tenez, prenez ces torches pour brûler les nids de rats.",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A2MU-T010-BERND"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Vous êtes bien trop arrangeant, vous savez ?",
+      "metadata": {
+        "string_id": 2263,
+        "speaker_string_id": 2264,
+        "dialogue_id": "A2MU-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Mon rôle est d’aider les gens, pas de les mettre de côté.",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "A2MU-T030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "C’était le dernier rat. Maintenant, occupons-nous des gelées.",
+      "metadata": {
+        "string_id": 1700,
+        "speaker_string_id": 1701,
+        "dialogue_id": "A2MU-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Voilà une bonne chose de faite. Retournons au quartier de la guerre.",
+      "metadata": {
+        "string_id": 1704,
+        "speaker_string_id": 1705,
+        "dialogue_id": "A2MU-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "J’ai du mal à croire tout ce qui a été construit à Fossoyeuse en une seule année.",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A2MU-T060-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ça avance plus vite quand la main-d’œuvre n’a pas besoin de dormir ou de manger.",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A2MU-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il y a un levier sur le tuyau. Si nous arrêtons l’écoulement, les gelées ne pourront plus passer.",
+      "metadata": {
+        "string_id": 1717,
+        "speaker_string_id": 1718,
+        "dialogue_id": "A2MU-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Cela devrait faire l’affaire. Retournons au quartier de la guerre.",
+      "metadata": {
+        "string_id": 1721,
+        "speaker_string_id": 1722,
+        "dialogue_id": "A2MU-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je ne vois pas d’autres gelées. Occupons-nous maintenant des rats.",
+      "metadata": {
+        "string_id": 1725,
+        "speaker_string_id": 1726,
+        "dialogue_id": "A2MU-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Bernd sera content de pouvoir reprendre le travail.",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A2MU-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "En effet. Mais c’est tout de même étrange… Ses équipes n’ont jamais fait face à de tels problèmes auparavant.",
+      "metadata": {
+        "string_id": 1734,
+        "speaker_string_id": 1735,
+        "dialogue_id": "A2MU-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "On nous attaque ! Gardes de la mort, aux armes !",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A2MU-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Défendez votre position ! Anya et moi allons sécuriser les autres quartiers de Fossoyeuse !",
+      "metadata": {
+        "string_id": 1742,
+        "speaker_string_id": 1743,
+        "dialogue_id": "A2MU-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "L’accès au quartier de la Guerre est bloqué par des décombres. Nous devons utiliser le chariot à viande pour dégager le passage.",
+      "metadata": {
+        "string_id": 1809,
+        "speaker_string_id": 1810,
+        "dialogue_id": "A2MU-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "0",
+      "text": "Garithos tue les Humains ! Il les tue jusqu’à la mort !",
+      "metadata": {
+        "string_id": 1817,
+        "speaker_string_id": 1818,
+        "dialogue_id": "A2MU-T160-GARITHOS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Avec nous, Garithos !",
+      "metadata": {
+        "string_id": 1822,
+        "speaker_string_id": 1823,
+        "dialogue_id": "A2MU-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Garde de la mort",
+      "text": "Capitaine Bandarion ! Nous défendrons cette salle pendant que vous progressez.",
+      "metadata": {
+        "string_id": 1881,
+        "speaker_string_id": 1882,
+        "dialogue_id": "A2MU-T180-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "Capitaine de la Croisade écarlate",
+      "text": "Serrez les rangs ! La Lumière nous protégera dans notre lutte contre ces démons !",
+      "metadata": {
+        "string_id": 1887,
+        "speaker_string_id": 1888,
+        "dialogue_id": "A2MU-T190-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Le quartier de la guerre est sécurisé ! Gardes de la mort, défendez cette position !",
+      "metadata": {
+        "string_id": 1895,
+        "speaker_string_id": 1896,
+        "dialogue_id": "A2MU-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La Croisade écarlate… Je n’avais jamais entendu ce nom auparavant.",
+      "metadata": {
+        "string_id": 1901,
+        "speaker_string_id": 1902,
+        "dialogue_id": "A2MU-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ce n’est qu’un autre groupe de zélotes aveuglés par la Lumière. Une autre version de la Main d’argent.",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A2MU-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Malgré leurs revendications, je doute qu’ils suivent vraiment la Lumière.",
+      "metadata": {
+        "string_id": 1908,
+        "speaker_string_id": 1909,
+        "dialogue_id": "A2MU-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Anya ! Garek ! Débarrassez-moi de ces imbéciles !",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A2MU-T240-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Vous en avez mis du temps ! Couvrez-moi pendant que je prépare notre riposte pestilentielle !",
+      "metadata": {
+        "string_id": 1924,
+        "speaker_string_id": 1925,
+        "dialogue_id": "A2MU-T250-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Tenez, ça vous sera peut-être utile ! Ou peut-être pas.",
+      "metadata": {
+        "string_id": 1928,
+        "speaker_string_id": 1929,
+        "dialogue_id": "A2MU-T260-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "N’oubliez pas que je vous ai rendu service !",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A2MU-T270-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Je vous ai préparé une potion. Ne la gâchez pas inutilement !",
+      "metadata": {
+        "string_id": 1949,
+        "speaker_string_id": 1950,
+        "dialogue_id": "A2MU-T280-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Vous avez de la chance de pouvoir compter sur moi !",
+      "metadata": {
+        "string_id": 1953,
+        "speaker_string_id": 1954,
+        "dialogue_id": "A2MU-T290-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Buvez ceci, et plus vite que ça !",
+      "metadata": {
+        "string_id": 1961,
+        "speaker_string_id": 1962,
+        "dialogue_id": "A2MU-T300-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Et dire que je n’utilise mes talents que pour vous concocter des élixirs.",
+      "metadata": {
+        "string_id": 1969,
+        "speaker_string_id": 1970,
+        "dialogue_id": "A2MU-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "La préparation de telles potions n’est pas à la hauteur d’un grand apothicaire.",
+      "metadata": {
+        "string_id": 1975,
+        "speaker_string_id": 1976,
+        "dialogue_id": "A2MU-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Ah ! La pestilence est prête !",
+      "metadata": {
+        "string_id": 1981,
+        "speaker_string_id": 1982,
+        "dialogue_id": "A2MU-T330-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Mort aux vivants !",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "A2MU-T340-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Le quartier de l’apothicarium semble sécurisé. Vous feriez mieux de continuer votre progression.",
+      "metadata": {
+        "string_id": 1996,
+        "speaker_string_id": 1997,
+        "dialogue_id": "A2MU-T350-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Il n’y a pas de quoi, Putrescin.",
+      "metadata": {
+        "string_id": 2003,
+        "speaker_string_id": 2004,
+        "dialogue_id": "A2MU-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Mourez, pitoyables zélotes !",
+      "metadata": {
+        "string_id": 2009,
+        "speaker_string_id": 2010,
+        "dialogue_id": "A2MU-T370-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Je me charge des dernières vermines. Rendez-vous au quartier de la magie !",
+      "metadata": {
+        "string_id": 2015,
+        "speaker_string_id": 2016,
+        "dialogue_id": "A2MU-T380-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Des mois de construction, réduits en poussière. Ces fanatiques répondront de leurs actes.",
+      "metadata": {
+        "string_id": 2227,
+        "speaker_string_id": 2228,
+        "dialogue_id": "A2MU-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Fossoyeuse pourra être reconstruite. Le plus important, c’est de protéger notre peuple.",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "A2MU-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek, ce pylône ressemble étrangement à ceux qui contrôlent les captifs.",
+      "metadata": {
+        "string_id": 2028,
+        "speaker_string_id": 2029,
+        "dialogue_id": "A2MU-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous pouvons peut-être l’utiliser pour contrôler l’esprit de nos adversaires.",
+      "metadata": {
+        "string_id": 2035,
+        "speaker_string_id": 2036,
+        "dialogue_id": "A2MU-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Inquisiteur",
+      "text": "Votre magie noire n’a aucun effet sur moi ! Que le jugement de la Lumière s’abatte sur vous !",
+      "metadata": {
+        "string_id": 2043,
+        "speaker_string_id": 2044,
+        "dialogue_id": "A2MU-T430-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Humpf. Pourquoi utiliser de la magie quand on a une lame aussi tranchante ?",
+      "metadata": {
+        "string_id": 2047,
+        "speaker_string_id": 2048,
+        "dialogue_id": "A2MU-T440-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La zone est sécurisée. Dirigeons-nous vers le quartier des voleurs.",
+      "metadata": {
+        "string_id": 2057,
+        "speaker_string_id": 2058,
+        "dialogue_id": "A2MU-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Commandant écarlate Mograine",
+      "text": "La Croisade écarlate purgera votre peuple maudit !",
+      "metadata": {
+        "string_id": 2063,
+        "speaker_string_id": 2064,
+        "dialogue_id": "A2MU-T460-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Commandant écarlate Mograine",
+      "text": "Sales monstres ! Vous devez être purifiés !",
+      "metadata": {
+        "string_id": 2069,
+        "speaker_string_id": 2070,
+        "dialogue_id": "A2MU-T470-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Garek ! À couvert !",
+      "metadata": {
+        "string_id": 2073,
+        "speaker_string_id": 2074,
+        "dialogue_id": "A2MU-T480-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dirigeons-nous vers le centre de Fossoyeuse. Nous évaluerons les dégâts en chemin.",
+      "metadata": {
+        "string_id": 2077,
+        "speaker_string_id": 2078,
+        "dialogue_id": "A2MU-T490-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Une attaque d’une telle ampleur a dû leur prendre des mois de préparation.",
+      "metadata": {
+        "string_id": 2081,
+        "speaker_string_id": 2082,
+        "dialogue_id": "A2MU-T500-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Et nécessiter une grande quantité de soldats. Ils doivent avoir un repaire dans le coin.",
+      "metadata": {
+        "string_id": 2088,
+        "speaker_string_id": 2089,
+        "dialogue_id": "A2MU-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Le quartier des marchands a subi d’importants dégâts. Évitez-le pour le moment et remontez à la surface.",
+      "metadata": {
+        "string_id": 2094,
+        "speaker_string_id": 2095,
+        "dialogue_id": "A2MU-T520-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "À manipuler avec précaution. Ce n’est pas le moment de nous faire exploser !",
+      "metadata": {
+        "string_id": 2100,
+        "speaker_string_id": 2101,
+        "dialogue_id": "A2MU-T530-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ces vieux tunnels ont été complètement laissés à l’abandon. Personne n’a dû y mettre les pieds depuis un long moment.",
+      "metadata": {
+        "string_id": 2106,
+        "speaker_string_id": 2107,
+        "dialogue_id": "A2MU-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Des membres de la Croisade écarlate ! Éliminez-les et placez les explosifs !",
+      "metadata": {
+        "string_id": 2112,
+        "speaker_string_id": 2113,
+        "dialogue_id": "A2MU-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Et une brèche en moins. Allons condamner les autres.",
+      "metadata": {
+        "string_id": 2118,
+        "speaker_string_id": 2119,
+        "dialogue_id": "A2MU-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Quel est cet endroit ?",
+      "metadata": {
+        "string_id": 2122,
+        "speaker_string_id": 2123,
+        "dialogue_id": "A2MU-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Je ne sais pas, mais il a l’air ancien. On dirait presque qu’il a été érigé avant Lordaeron.",
+      "metadata": {
+        "string_id": 2127,
+        "speaker_string_id": 2128,
+        "dialogue_id": "A2MU-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ça ressemble étrangement à un autel… Et on dirait… qu’il m’appelle…",
+      "metadata": {
+        "string_id": 2133,
+        "speaker_string_id": 2134,
+        "dialogue_id": "A2MU-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Ça avait l’air d’être une sacrée aventure. Je me demande quelles autres choses se cachent sous nos pieds…",
+      "metadata": {
+        "string_id": 2139,
+        "speaker_string_id": 2140,
+        "dialogue_id": "A2MU-T600-BERND"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "On dirait que la Croisade écarlate n’était pas au bout de ses surprises.",
+      "metadata": {
+        "string_id": 2143,
+        "speaker_string_id": 2144,
+        "dialogue_id": "A2MU-T610-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous non plus. Peut-être que les plus grands spécimens nous permettraient de le remettre dans sa cellule.",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Je vais devoir reconstruire un spécimen de toutes pièces. Tous ces mois de travail partis en fumée !",
+      "metadata": {
+        "string_id": 2251,
+        "speaker_string_id": 2252,
+        "dialogue_id": "A2MU-T630-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "J’étudierai ce spécimen plus tard. Nous obtiendrons des données intéressantes en éliminant ces imbéciles écarlates.",
+      "metadata": {
+        "string_id": 2172,
+        "speaker_string_id": 2173,
+        "dialogue_id": "A2MU-T640-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Capitaine Bandarion, la Dame noire soit louée ! Nous avons besoin d’une diversion pour réajuster les runes sur le pylône !",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "A2MU-T650-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Protégez-nous des attaques de la banshee pour empêcher un bain de sang !",
+      "metadata": {
+        "string_id": 2596,
+        "speaker_string_id": 2597,
+        "dialogue_id": "A2MU-T660-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Non ! Si nous avions été plus rapides, rien de tout cela ne serait arrivé.",
+      "metadata": {
+        "string_id": 2604,
+        "speaker_string_id": 2605,
+        "dialogue_id": "A2MU-T670-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Excellent travail ! Je vais devoir renforcer ces pylônes.",
+      "metadata": {
+        "string_id": 2555,
+        "speaker_string_id": 2556,
+        "dialogue_id": "A2MU-T680-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "On dirait que les cris ont cessé. Je ne sais pas comment vous avez fait, mais vous avez bien mérité votre récompense.",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "A2MU-T690-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "C’est vraiment généreux de votre part.",
+      "metadata": {
+        "string_id": 2209,
+        "speaker_string_id": 2210,
+        "dialogue_id": "A2MU-T700-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylvanas",
+      "text": "Préparez-vous. Une fois que nous aurons pris d’assaut le monastère Écarlate, il n’y aura pas de retour en arrière.",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "A2MU-T710-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Il va nous falloir des semaines pour réparer les dégâts causés par la Croisade écarlate. Je ferais mieux de me mettre au travail.",
+      "metadata": {
+        "string_id": 2217,
+        "speaker_string_id": 2218,
+        "dialogue_id": "A2MU-T720-BERND"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Hmm, c’est tout ce que vous avez trouvé ? Bon, disons que quelques gouttes de sang, c’est déjà mieux que rien.",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "A2MU-T730-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il est affaibli ! Les autres spécimens vont pouvoir le repousser !",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "A2MU-T613-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Pas étonnant que la Croisade écarlate n’ait pas pu résister à cette monstruosité.",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "A2MU-T614-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nous avons dû éliminer le petit joujou de Putrescin. Quel dommage.",
+      "metadata": {
+        "string_id": 2535,
+        "speaker_string_id": 2536,
+        "dialogue_id": "A2MU-T615-ANYA"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Inutile de tuer la banshee, contentez-vous de la repousser !",
+      "metadata": {
+        "string_id": 2562,
+        "speaker_string_id": 2563,
+        "dialogue_id": "A2MU-T661-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Les réparations vont bon train. Continuez comme ça !",
+      "metadata": {
+        "string_id": 2573,
+        "speaker_string_id": 2574,
+        "dialogue_id": "A2MU-T662-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Le pylône est presque réparé !",
+      "metadata": {
+        "string_id": 2584,
+        "speaker_string_id": 2585,
+        "dialogue_id": "A2MU-T663-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Putrescin",
+      "text": "Prenez ce sérum. Il vous permettra de prendre temporairement le contrôle des expériences mineures.",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous non plus. Peut-être que les plus grands spécimens nous permettraient de le remettre dans sa cellule.",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    }
+  ]
+}

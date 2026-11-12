@@ -1,0 +1,917 @@
+{
+  "map": "HumanRE02",
+  "title": "Treachery",
+  "locale": "zhTW",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "加瑞克",
+      "text": "可惡！怎麼會發生這種事？整個城市都付之一炬了…",
+      "metadata": {
+        "string_id": 2189,
+        "speaker_string_id": 2190,
+        "dialogue_id": "HRE02-C010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "我們不能自亂陣腳。民眾還仰賴我們逃過一劫。",
+      "metadata": {
+        "string_id": 2192,
+        "speaker_string_id": 2193,
+        "dialogue_id": "HRE02-C010-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "保衛民眾是我們的職責。但我們卻失職了。",
+      "metadata": {
+        "string_id": 2195,
+        "speaker_string_id": 2196,
+        "dialogue_id": "HRE02-C010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "步槍兵",
+      "text": "看啊，有倖存者！",
+      "metadata": {
+        "string_id": 2198,
+        "speaker_string_id": 2199,
+        "dialogue_id": "HRE02-C010-040-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "長官，我們半路跟隊員走散，最後在這裡迷路了。",
+      "metadata": {
+        "string_id": 2766,
+        "speaker_string_id": 2767,
+        "dialogue_id": "HRE02-C010-050-FOOTMAN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "我們要前往地道的出口。幫忙我們保護平民，然後大家一起活著逃出去。",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "HRE02-C010-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "都看到了嗎！這些邪教徒鼠輩到底躲在下水道多久了？",
+      "metadata": {
+        "string_id": 2207,
+        "speaker_string_id": 2208,
+        "dialogue_id": "HRE02-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "他們策畫這起事變一定有好幾年了。我們的親朋好友就這麼…",
+      "metadata": {
+        "string_id": 2210,
+        "speaker_string_id": 2211,
+        "dialogue_id": "HRE02-M010-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "想到這群敗類原來一直在我們的腳底下作惡…",
+      "metadata": {
+        "string_id": 2213,
+        "speaker_string_id": 2214,
+        "dialogue_id": "HRE02-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "先讓平民待在原地，我們去確保前方道路安全。",
+      "metadata": {
+        "string_id": 2216,
+        "speaker_string_id": 2217,
+        "dialogue_id": "HRE02-M010-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "把大門鎖好，等我們回來。要是我們一去不回…",
+      "metadata": {
+        "string_id": 2219,
+        "speaker_string_id": 2220,
+        "dialogue_id": "HRE02-M010-050-LANDEN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "…但願聖光與你們同在。",
+      "metadata": {
+        "string_id": 2222,
+        "speaker_string_id": 2223,
+        "dialogue_id": "HRE02-M010-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "是城市守衛！我就知道還有更多倖存者！",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "HRE02-M015-010-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "我們這邊有一群平民。你能打開大門嗎？",
+      "metadata": {
+        "string_id": 2228,
+        "speaker_string_id": 2229,
+        "dialogue_id": "HRE02-M015-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "抱歉，長官。那些該死的邪教徒把絞盤拆掉了。你得從他們手中取回齒輪。",
+      "metadata": {
+        "string_id": 2231,
+        "speaker_string_id": 2232,
+        "dialogue_id": "HRE02-M015-030-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "看來是時候來追殺邪教徒了。",
+      "metadata": {
+        "string_id": 2235,
+        "speaker_string_id": 2236,
+        "dialogue_id": "HRE02-M015-040-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那是斯坦索姆的領主，瑞文戴爾男爵！",
+      "metadata": {
+        "string_id": 2238,
+        "speaker_string_id": 2239,
+        "dialogue_id": "HRE02-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "大人！我們這邊有一群平民…",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "HRE02-C020-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "真是走運。你們這些倖存者正好來天譴軍團充軍。",
+      "metadata": {
+        "string_id": 2244,
+        "speaker_string_id": 2245,
+        "dialogue_id": "HRE02-C020-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "你跟阿薩斯一樣，都是骯髒的叛徒！",
+      "metadata": {
+        "string_id": 2247,
+        "speaker_string_id": 2248,
+        "dialogue_id": "HRE02-C020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "我們親愛的王子只是用來成就大事的工具，而我本人也參與了籌畫。",
+      "metadata": {
+        "string_id": 2250,
+        "speaker_string_id": 2251,
+        "dialogue_id": "HRE02-C020-050-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "現在這個奄奄一息的王國即將滅亡，一支詛咒大軍將踏著它的屍體崛起。",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "HRE02-C020-060-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "這群害蟲不配我親自動手。把他們都殺了，揪出剩下的倖存者。",
+      "metadata": {
+        "string_id": 2256,
+        "speaker_string_id": 2257,
+        "dialogue_id": "HRE02-C020-070-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "大家前往地面！",
+      "metadata": {
+        "string_id": 2259,
+        "speaker_string_id": 2260,
+        "dialogue_id": "HRE02-M020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "不行，隊長。就算少了我，你也可以帶領倖存者抵達安多哈爾。",
+      "metadata": {
+        "string_id": 2262,
+        "speaker_string_id": 2263,
+        "dialogue_id": "HRE02-M020-020-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "只要瑞文戴爾還有一口氣在，我就不能放任不管。",
+      "metadata": {
+        "string_id": 2265,
+        "speaker_string_id": 2266,
+        "dialogue_id": "HRE02-M020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "加瑞克，清醒一點。你怎麼可能…",
+      "metadata": {
+        "string_id": 2268,
+        "speaker_string_id": 2269,
+        "dialogue_id": "HRE02-M020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "正義不會自己伸張，除非有人挺身而出。如果不把握現在，那要等到什麼時候？",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "HRE02-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "士兵，這些平民就託付給你了。",
+      "metadata": {
+        "string_id": 2274,
+        "speaker_string_id": 2275,
+        "dialogue_id": "HRE02-M020-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "副官，我們速戰速決。",
+      "metadata": {
+        "string_id": 2277,
+        "speaker_string_id": 2278,
+        "dialogue_id": "HRE02-M020-070-LANDEN"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "你竟然這麼急著尋死，急著扮演英雄。",
+      "metadata": {
+        "string_id": 2693,
+        "speaker_string_id": 2694,
+        "dialogue_id": "HRE02-C030-010-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "但你什麼都不是！只是一具用來貢獻的屍體…",
+      "metadata": {
+        "string_id": 2710,
+        "speaker_string_id": 2711,
+        "dialogue_id": "HRE02-C030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "屏障破了！快跑！",
+      "metadata": {
+        "string_id": 2719,
+        "speaker_string_id": 2720,
+        "dialogue_id": "HRE02-C030-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "什麼？！不！我不會丟下你不管的！",
+      "metadata": {
+        "string_id": 2728,
+        "speaker_string_id": 2729,
+        "dialogue_id": "HRE02-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "別管我了！你必須把平民安全護送到安多哈爾！",
+      "metadata": {
+        "string_id": 2737,
+        "speaker_string_id": 2738,
+        "dialogue_id": "HRE02-C030-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "隊長，我…",
+      "metadata": {
+        "string_id": 2746,
+        "speaker_string_id": 2747,
+        "dialogue_id": "HRE02-C030-070-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "給我聽好，這是命令！",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "HRE02-C030-080-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "長官，願聖光與你同在。",
+      "metadata": {
+        "string_id": 2764,
+        "speaker_string_id": 2765,
+        "dialogue_id": "HRE02-C030-090-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "去吧，加瑞克。去成就你注定的宿命。",
+      "metadata": {
+        "string_id": 2775,
+        "speaker_string_id": 2776,
+        "dialogue_id": "HRE02-C030-100-LANDEN"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "你以為自己逃得掉？！這座下水道就是你們的墳墓！",
+      "metadata": {
+        "string_id": 2783,
+        "speaker_string_id": 2784,
+        "dialogue_id": "HRE02-C030-110-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "為了羅德隆！",
+      "metadata": {
+        "string_id": 2786,
+        "speaker_string_id": 2787,
+        "dialogue_id": "HRE02-C030-120-LANDEN"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "班達倫副官，你還活著！那…蘭登隊長呢？",
+      "metadata": {
+        "string_id": 2280,
+        "speaker_string_id": 2281,
+        "dialogue_id": "HRE02-M030-010-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "他…不幸喪命了。",
+      "metadata": {
+        "string_id": 2288,
+        "speaker_string_id": 2289,
+        "dialogue_id": "HRE02-M030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我們得趕往安多哈爾與烏瑟會合。出發吧。",
+      "metadata": {
+        "string_id": 2286,
+        "speaker_string_id": 2287,
+        "dialogue_id": "HRE02-M030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "平民待在後方。剩下的人跟我們打頭陣。",
+      "metadata": {
+        "string_id": 2591,
+        "speaker_string_id": 2592,
+        "dialogue_id": "HRE02-T010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "阿薩斯還在破壞這座城市…",
+      "metadata": {
+        "string_id": 2599,
+        "speaker_string_id": 2600,
+        "dialogue_id": "HRE02-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "如果我們能確保一條出路，說不定還可以多救幾個倖存者。",
+      "metadata": {
+        "string_id": 2601,
+        "speaker_string_id": 2602,
+        "dialogue_id": "HRE02-T030-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "等等…為什麼有這麼多物資存放在地下？",
+      "metadata": {
+        "string_id": 2615,
+        "speaker_string_id": 2616,
+        "dialogue_id": "HRE02-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "腐土操弄大師",
+      "text": "有人入侵！全部殺掉！",
+      "metadata": {
+        "string_id": 2617,
+        "speaker_string_id": 2618,
+        "dialogue_id": "HRE02-T240-MASTERBLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "這是什麼地方！？",
+      "metadata": {
+        "string_id": 2613,
+        "speaker_string_id": 2614,
+        "dialogue_id": "HRE02-T250-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "太多碎石了。我們要找另一條路。",
+      "metadata": {
+        "string_id": 2663,
+        "speaker_string_id": 2664,
+        "dialogue_id": "HRE02-T330-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "看來只有一條路可以繼續前進了。",
+      "metadata": {
+        "string_id": 2621,
+        "speaker_string_id": 2622,
+        "dialogue_id": "HRE02-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "腐土操弄者",
+      "text": "你們休想「繼續前進」！",
+      "metadata": {
+        "string_id": 2546,
+        "speaker_string_id": 2547,
+        "dialogue_id": "HRE02-T050-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "所有人，拿起武器！",
+      "metadata": {
+        "string_id": 2521,
+        "speaker_string_id": 2522,
+        "dialogue_id": "HRE02-T060-LANDEN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "教徒一定跟著我們進了下水道。我們得繼續前進！",
+      "metadata": {
+        "string_id": 2304,
+        "speaker_string_id": 2379,
+        "dialogue_id": "HRE02-T070-LANDEN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "感謝聖光！你們先待在這裡，回去要召集倖存者。",
+      "metadata": {
+        "string_id": 2305,
+        "speaker_string_id": 2380,
+        "dialogue_id": "HRE02-T470-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "隊長！前面有聲音！",
+      "metadata": {
+        "string_id": 2306,
+        "speaker_string_id": 2381,
+        "dialogue_id": "HRE02-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "找到出口了！",
+      "metadata": {
+        "string_id": 2307,
+        "speaker_string_id": 2382,
+        "dialogue_id": "HRE02-T350-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "小心！",
+      "metadata": {
+        "string_id": 2308,
+        "speaker_string_id": 2383,
+        "dialogue_id": "HRE02-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "這樣應該就行了。我們走。",
+      "metadata": {
+        "string_id": 2309,
+        "speaker_string_id": 2384,
+        "dialogue_id": "HRE02-T290-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "離開的地道應該就在附近。保持警戒。",
+      "metadata": {
+        "string_id": 2310,
+        "speaker_string_id": 2385,
+        "dialogue_id": "HRE02-T260-LANDEN"
+      }
+    },
+    {
+      "speaker": "藥劑師毒怨",
+      "text": "你們竟敢打斷我的傑作！？",
+      "metadata": {
+        "string_id": 2629,
+        "speaker_string_id": 2630,
+        "dialogue_id": "HRE02-T270-APOTHECARYVENOMSPITE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "這些毒煙想必就是剛剛被我們打斷的「傑作」。得想個辦法清理掉。",
+      "metadata": {
+        "string_id": 2665,
+        "speaker_string_id": 2666,
+        "dialogue_id": "HRE02-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "嗯。這樣應該就不用怕毒煙了。",
+      "metadata": {
+        "string_id": 2315,
+        "speaker_string_id": 2387,
+        "dialogue_id": "HRE02-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "這些鬼東西到底是什麼！？",
+      "metadata": {
+        "string_id": 2316,
+        "speaker_string_id": 2388,
+        "dialogue_id": "HRE02-T310-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "有埋伏！",
+      "metadata": {
+        "string_id": 2492,
+        "speaker_string_id": 2493,
+        "dialogue_id": "HRE02-T320-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "這是什麼邪惡的巫術？",
+      "metadata": {
+        "string_id": 2318,
+        "speaker_string_id": 2390,
+        "dialogue_id": "HRE02-T580-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "不論到底怎麼回事，都到此為止了！",
+      "metadata": {
+        "string_id": 2319,
+        "speaker_string_id": 2391,
+        "dialogue_id": "HRE02-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "瑞文戴爾！你會為罪行付出代價！",
+      "metadata": {
+        "string_id": 2321,
+        "speaker_string_id": 2392,
+        "dialogue_id": "HRE02-T600-GAREK"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "又一群待宰羔羊！",
+      "metadata": {
+        "string_id": 2322,
+        "speaker_string_id": 2323,
+        "dialogue_id": "HRE02-T610-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "感謝聖光！你們先待在這裡，回去要召集倖存者。",
+      "metadata": {
+        "string_id": 2305,
+        "speaker_string_id": 2380,
+        "dialogue_id": "HRE02-T470-LANDEN"
+      }
+    },
+    {
+      "speaker": "摩多",
+      "text": "瑞文戴爾一定會賞賜我！",
+      "metadata": {
+        "string_id": 2633,
+        "speaker_string_id": 2634,
+        "dialogue_id": "HRE02-T430-MORDO"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "下賤的邪教徒，去死吧！",
+      "metadata": {
+        "string_id": 2328,
+        "speaker_string_id": 2393,
+        "dialogue_id": "HRE02-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我要把瑞文戴爾斬首示眾！",
+      "metadata": {
+        "string_id": 2334,
+        "speaker_string_id": 2394,
+        "dialogue_id": "HRE02-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "加瑞克，正義必有伸張的一天。我們要先把倖存者帶往安多哈爾。",
+      "metadata": {
+        "string_id": 2331,
+        "speaker_string_id": 2395,
+        "dialogue_id": "HRE02-T460-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "長官，你不需要這樣。",
+      "metadata": {
+        "string_id": 2332,
+        "speaker_string_id": 2396,
+        "dialogue_id": "HRE02-T480-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "當然要。我怎麼可能放你們獨自對決瑞文戴爾。",
+      "metadata": {
+        "string_id": 2333,
+        "speaker_string_id": 2397,
+        "dialogue_id": "HRE02-T490-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "隊長…對不起…",
+      "metadata": {
+        "string_id": 2335,
+        "speaker_string_id": 2398,
+        "dialogue_id": "HRE02-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "你們這群鼠輩，儘管逃吧！但你們遲早會落到我的手裡！",
+      "metadata": {
+        "string_id": 2336,
+        "speaker_string_id": 2399,
+        "dialogue_id": "HRE02-T640-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "得弄點碎石擋住他的去路。打碎這些支柱應該有用。",
+      "metadata": {
+        "string_id": 2337,
+        "speaker_string_id": 2400,
+        "dialogue_id": "HRE02-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "瑞文戴爾男爵",
+      "text": "你們的命運早已注定。整個羅德隆都難逃天譴軍團魔掌！",
+      "metadata": {
+        "string_id": 2338,
+        "speaker_string_id": 2401,
+        "dialogue_id": "HRE02-T670-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "黑暗中潛藏著某種冰冷的威脅。",
+      "metadata": {
+        "string_id": 2572,
+        "speaker_string_id": 2573,
+        "dialogue_id": "HRE02-T360-GAREK"
+      }
+    },
+    {
+      "speaker": "『召喚者』阿拉基",
+      "text": "愚蠢的凡人，你是自尋死路！",
+      "metadata": {
+        "string_id": 2637,
+        "speaker_string_id": 2638,
+        "dialogue_id": "HRE02-T370-ARAJTHESUMMONER"
+      }
+    },
+    {
+      "speaker": "『召喚者』阿拉基",
+      "text": "我不會罷休的…",
+      "metadata": {
+        "string_id": 2643,
+        "speaker_string_id": 2644,
+        "dialogue_id": "HRE02-T380-ARAJTHESUMMONER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "邪惡的巫妖…",
+      "metadata": {
+        "string_id": 2507,
+        "speaker_string_id": 2508,
+        "dialogue_id": "HRE02-T390-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "這些蜘蛛有夠大隻…",
+      "metadata": {
+        "string_id": 2346,
+        "speaker_string_id": 2404,
+        "dialogue_id": "HRE02-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "附近一定有一隻蛛后。",
+      "metadata": {
+        "string_id": 2348,
+        "speaker_string_id": 2405,
+        "dialogue_id": "HRE02-T510-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "該死的蟲子！",
+      "metadata": {
+        "string_id": 2349,
+        "speaker_string_id": 2406,
+        "dialogue_id": "HRE02-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "蛛后一死，整群蜘蛛應該就會潰散。",
+      "metadata": {
+        "string_id": 2350,
+        "speaker_string_id": 2407,
+        "dialogue_id": "HRE02-T570-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "隊長！幫我掙脫這些網子！",
+      "metadata": {
+        "string_id": 2351,
+        "speaker_string_id": 2408,
+        "dialogue_id": "HRE02-T520-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "她把我綁住了！我動不了！",
+      "metadata": {
+        "string_id": 2352,
+        "speaker_string_id": 2409,
+        "dialogue_id": "HRE02-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "加瑞克！斬斷網子救我出去！",
+      "metadata": {
+        "string_id": 2353,
+        "speaker_string_id": 2410,
+        "dialogue_id": "HRE02-T540-LANDEN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "我被網住了！快點救我！",
+      "metadata": {
+        "string_id": 2354,
+        "speaker_string_id": 2411,
+        "dialogue_id": "HRE02-T550-LANDEN"
+      }
+    },
+    {
+      "speaker": "牧師",
+      "text": "這裡有人！放我出去！",
+      "metadata": {
+        "string_id": 2796,
+        "speaker_string_id": 2801,
+        "dialogue_id": "HRE02-T120-PRISONERM"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "城市守衛！拜託，救我！",
+      "metadata": {
+        "string_id": 2797,
+        "speaker_string_id": 2800,
+        "dialogue_id": "HRE02-T110-PRISONERM"
+      }
+    },
+    {
+      "speaker": "步槍兵",
+      "text": "救命！幫我打開牢籠！",
+      "metadata": {
+        "string_id": 2798,
+        "speaker_string_id": 2799,
+        "dialogue_id": "HRE02-T130-PRISONERM"
+      }
+    },
+    {
+      "speaker": "牧師",
+      "text": "我欠你一份，我會和你一起作戰！",
+      "metadata": {
+        "string_id": 2806,
+        "speaker_string_id": 2805,
+        "dialogue_id": "HRE02-T210-PRISONERPRIEST"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "太感謝你了！我們快點走吧！",
+      "metadata": {
+        "string_id": 2807,
+        "speaker_string_id": 2808,
+        "dialogue_id": "HRE02-T140-PRISONERFOOTMAN"
+      }
+    },
+    {
+      "speaker": "步槍兵",
+      "text": "我還以為要死在這裡了！那些邪教徒要付出代價！",
+      "metadata": {
+        "string_id": 2649,
+        "speaker_string_id": 2650,
+        "dialogue_id": "HRE02-T190-PRISONERRIFLEMAN"
+      }
+    },
+    {
+      "speaker": "蘭登",
+      "text": "那是城裡的中央火爐，它還不斷散發著熱意。",
+      "metadata": {
+        "string_id": 2651,
+        "speaker_string_id": 2652,
+        "dialogue_id": "HRE02-T400-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "回到被阿薩斯摧殘至屍骸遍地的家園。我們得撲滅火勢。",
+      "metadata": {
+        "string_id": 2653,
+        "speaker_string_id": 2654,
+        "dialogue_id": "HRE02-T410-GAREK"
+      }
+    }
+  ]
+}

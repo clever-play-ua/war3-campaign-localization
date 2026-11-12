@@ -1,0 +1,1268 @@
+{
+  "map": "UndeadRE03b",
+  "title": "Naxxramas",
+  "locale": "koKR",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "가렉",
+      "text": "계획을 잊지 마라. 빠르게 공격하고, 폭탄을 설치하고, 터뜨리기 전 비행선으로 돌아온다.",
+      "metadata": {
+        "string_id": 1358,
+        "speaker_string_id": 1359,
+        "dialogue_id": "A3M2-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "저항이 거셀 것이다. 이 복도는 스컬지의 여러 정예 병력이 점거하고 있을 테지.",
+      "metadata": {
+        "string_id": 1367,
+        "speaker_string_id": 1368,
+        "dialogue_id": "A3M2-M010-020-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "그렇다면 이번 임무를 완수하기 위해 포세이큰에서도 최정예 병력을 보내야 하지 않겠어.",
+      "metadata": {
+        "string_id": 1376,
+        "speaker_string_id": 1377,
+        "dialogue_id": "A3M2-M010-030-ANYA"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "거기에 은빛 여명회의 일원도 있겠지, 아마도.",
+      "metadata": {
+        "string_id": 1385,
+        "speaker_string_id": 1386,
+        "dialogue_id": "A3M2-M010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "가치 있는 동료임을 증명하기 위해 최선을 다하겠네.",
+      "metadata": {
+        "string_id": 1394,
+        "speaker_string_id": 1395,
+        "dialogue_id": "A3M2-M010-050-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "이미 증명은 다 했으면서, 리어니드. 움직이자고.",
+      "metadata": {
+        "string_id": 1403,
+        "speaker_string_id": 1404,
+        "dialogue_id": "A3M2-M010-060-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "이곳이 무슨 곳인지는 몰라도, 방어가 삼엄했어. 마지막 폭발물을 설치하자.",
+      "metadata": {
+        "string_id": 1412,
+        "speaker_string_id": 1413,
+        "dialogue_id": "A3M2-M020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "내가 헛것을 듣는 건가? 가렉 반다리온이 아닌가?",
+      "metadata": {
+        "string_id": 1421,
+        "speaker_string_id": 1422,
+        "dialogue_id": "A3M2-M020-020-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "넌 누구지? 내 이름은 어떻게 알고?",
+      "metadata": {
+        "string_id": 1430,
+        "speaker_string_id": 1431,
+        "dialogue_id": "A3M2-M020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "날 기억하지 못하는군.",
+      "metadata": {
+        "string_id": 1439,
+        "speaker_string_id": 1440,
+        "dialogue_id": "A3M2-M020-040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "일라스타 송브리즈다. 너는 내게 가장 값진 선물을 주었지. 죽음 말이다.",
+      "metadata": {
+        "string_id": 1448,
+        "speaker_string_id": 1449,
+        "dialogue_id": "A3M2-M020-045-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "일라스타? 대체... 대체 무슨 소리냐?",
+      "metadata": {
+        "string_id": 1457,
+        "speaker_string_id": 1458,
+        "dialogue_id": "A3M2-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "네 덕에 나는 언데드로 다시 태어났다. 나는 리치 왕의 뜻을 펼치는 도구다! 이제, 너희 모두 같은 영예를 누릴 것이다.",
+      "metadata": {
+        "string_id": 1466,
+        "speaker_string_id": 1467,
+        "dialogue_id": "A3M2-M020-060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "목에 기꺼이 화살을 꿰뚫어 주지.",
+      "metadata": {
+        "string_id": 1477,
+        "speaker_string_id": 1478,
+        "dialogue_id": "A3M2-M020-070-ANYA"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "요새는 정말 흉악한 동료들과 다니는군, 가렉. 상관없다. 고개를 숙이지 않겠다면 무릎을 꿇려 주겠다.",
+      "metadata": {
+        "string_id": 1486,
+        "speaker_string_id": 1487,
+        "dialogue_id": "A3M2-M020-080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "실망스럽군, 가렉. 내가 기억을 뜯어내 열어젖힌다면...",
+      "metadata": {
+        "string_id": 1495,
+        "speaker_string_id": 1496,
+        "dialogue_id": "A3M2-C010-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "안 돼! 내 머리에서... 나가...",
+      "metadata": {
+        "string_id": 1506,
+        "speaker_string_id": 1507,
+        "dialogue_id": "A3M2-C010-060-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "이게 뭐지? 낙스라마스에 폭탄을 설치했나?",
+      "metadata": {
+        "string_id": 1515,
+        "speaker_string_id": 1516,
+        "dialogue_id": "A3M2-C010-080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "멈춰! 뭐 하는 거야?!",
+      "metadata": {
+        "string_id": 1524,
+        "speaker_string_id": 1525,
+        "dialogue_id": "A3M2-C010-090-ANYA"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "승리에 대한 하찮은 희망을 짓밟는 중이지.",
+      "metadata": {
+        "string_id": 1533,
+        "speaker_string_id": 1534,
+        "dialogue_id": "A3M2-C010-100-ILASTAR"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "안 돼! 이 괴물!",
+      "metadata": {
+        "string_id": 1542,
+        "speaker_string_id": 1543,
+        "dialogue_id": "A3M2-C010-110-LEONID"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "너희 셋은 리치 왕을 섬기기에는 고집이 너무 세군. 불운하기도 하지.",
+      "metadata": {
+        "string_id": 1551,
+        "speaker_string_id": 1552,
+        "dialogue_id": "A3M2-C010-140-ILASTAR"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "가렉. 놈들을 죽이고, 너도 자살해라.",
+      "metadata": {
+        "string_id": 1560,
+        "speaker_string_id": 1561,
+        "dialogue_id": "A3M2-C010-150-ILASTAR"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "불청객들이 마침내 내게 문안을 드리러 나타나셨군.",
+      "metadata": {
+        "string_id": 1582,
+        "speaker_string_id": 1583,
+        "dialogue_id": "A3M2-C020-010-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "유감스럽게도 안 좋은 때에 왔다. 내가 지금 조금 바빠서 말이다...",
+      "metadata": {
+        "string_id": 1585,
+        "speaker_string_id": 1586,
+        "dialogue_id": "A3M2-C020-020-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "언더시티를 절멸시키느라 말이지.",
+      "metadata": {
+        "string_id": 1625,
+        "speaker_string_id": 1626,
+        "dialogue_id": "A3M2-C020-030-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "켈투자드! 로데론에 저지른 죗값을 치러라!",
+      "metadata": {
+        "string_id": 1633,
+        "speaker_string_id": 1634,
+        "dialogue_id": "A3M2-C020-040-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "쿠엘탈라스를 몰락시킨 대가도!",
+      "metadata": {
+        "string_id": 1621,
+        "speaker_string_id": 1622,
+        "dialogue_id": "A3M2-C020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "가소롭군. 허나 너 같은 폭도는 내가 신경 쓸 필요도 없다.",
+      "metadata": {
+        "string_id": 3000,
+        "speaker_string_id": 2999,
+        "dialogue_id": "A3M2-C020-060-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "리븐데어! 네 쓸모를 다해 이 벌레들을 처리해라.",
+      "metadata": {
+        "string_id": 1611,
+        "speaker_string_id": 1612,
+        "dialogue_id": "A3M2-C020-070-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "남작 리븐데어...",
+      "metadata": {
+        "string_id": 1662,
+        "speaker_string_id": 1663,
+        "dialogue_id": "A3M2-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "남작 리븐데어",
+      "text": "너... 스트라솔름에서 감히 날 물어뜯은 쥐새끼 아닌가. 이거 반갑고도 놀랍군.",
+      "metadata": {
+        "string_id": 1664,
+        "speaker_string_id": 1665,
+        "dialogue_id": "A3M2-C020-090-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "남작 리븐데어",
+      "text": "이제야 시작한 일을 끝낼 수 있겠어.",
+      "metadata": {
+        "string_id": 1673,
+        "speaker_string_id": 1674,
+        "dialogue_id": "A3M2-C020-100-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "한참 전에 끝났다. 이번에는 복수 때문에 온 게 아니야.",
+      "metadata": {
+        "string_id": 1685,
+        "speaker_string_id": 1686,
+        "dialogue_id": "A3M2-C020-110-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "포세이큰을 지키러 온 것이다.",
+      "metadata": {
+        "string_id": 1694,
+        "speaker_string_id": 1695,
+        "dialogue_id": "A3M2-C020-120-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "이제 어쩌지? 폭탄이 없는데 폭발파를 또 날리기 전 수정을 어떻게 파괴한다?",
+      "metadata": {
+        "string_id": 1705,
+        "speaker_string_id": 1706,
+        "dialogue_id": "A3M2-C030-010-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "다른... 무언가가 있어. 충분한 힘을 가진 것이.",
+      "metadata": {
+        "string_id": 1934,
+        "speaker_string_id": 1935,
+        "dialogue_id": "A3M2-C030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛 말이야.",
+      "metadata": {
+        "string_id": 1950,
+        "speaker_string_id": 1951,
+        "dialogue_id": "A3M2-C030-025-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "안 돼. 신성한 불길에 스스로를 불태우게 두진 않겠어.",
+      "metadata": {
+        "string_id": 1932,
+        "speaker_string_id": 1933,
+        "dialogue_id": "A3M2-C030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "다른 방법이 없어, 안야. 빛은 아직 살아 있는 자들을 지키라 명하고 있어... 뭐, 엄밀히 말해 살아 있지는 않지만.",
+      "metadata": {
+        "string_id": 1920,
+        "speaker_string_id": 1921,
+        "dialogue_id": "A3M2-C030-040-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "우리 모두는... 생전에 무언가를 잃었지만... 언데드가 되어 새로운 것을 이뤘지. 무슨 대가를 치르더라도... 지켜낼 거야.",
+      "metadata": {
+        "string_id": 1912,
+        "speaker_string_id": 1913,
+        "dialogue_id": "A3M2-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛 때문이 아니라... 포세이큰을 위해서.",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A3M2-C030-060-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "나는 생전에 여러 성기사를 알았고, 영웅은 극히 드물었다. 가렉, 항상 그대를 기억하고 숭상하겠다.",
+      "metadata": {
+        "string_id": 1892,
+        "speaker_string_id": 1893,
+        "dialogue_id": "A3M2-C030-070-LEONID"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "빛이 함께하기를, 내 친구여.",
+      "metadata": {
+        "string_id": 1886,
+        "speaker_string_id": 1887,
+        "dialogue_id": "A3M2-C030-080-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "퓨트리스가 널 재료로 쓰게 내버려 둘 걸 그랬어.",
+      "metadata": {
+        "string_id": 1876,
+        "speaker_string_id": 1877,
+        "dialogue_id": "A3M2-C030-090-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "언더시티를 지켜줘, 안야. 깨어난 뒤... 지침이 필요한 사람이... 나뿐만은 아닐 테니까.",
+      "metadata": {
+        "string_id": 1866,
+        "speaker_string_id": 1867,
+        "dialogue_id": "A3M2-C030-100-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "그렇겠지. 너 덕분에 포세이큰은 생존할 거야.",
+      "metadata": {
+        "string_id": 1856,
+        "speaker_string_id": 1857,
+        "dialogue_id": "A3M2-C030-110-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그거야말로 진짜 승리지. 그걸 절대 잊지 마.",
+      "metadata": {
+        "string_id": 1844,
+        "speaker_string_id": 1845,
+        "dialogue_id": "A3M2-C030-120-GAREK"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "안야가 낙스라마스에서 있었던 일을 알려 주었다.",
+      "metadata": {
+        "string_id": 2016,
+        "speaker_string_id": 2017,
+        "dialogue_id": "O01Cairne27"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "이번 전투와 반다리온 대장의 행동은... 내게 생각할 거리를 많이 안겨 주었다.",
+      "metadata": {
+        "string_id": 2009,
+        "speaker_string_id": 2010,
+        "dialogue_id": "O01Cairne27"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "빛을 사용한 가렉과 방어를 도운 은빛 여명회가 아니었더라면, 포세이큰은 절멸당했을 것이다.",
+      "metadata": {
+        "string_id": 2006,
+        "speaker_string_id": 2007,
+        "dialogue_id": "O01Cairne27"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "산 적과 죽은 적 모두가 우리를 둘러싸고 있다. 허나 우리는 여전히 동맹을 찾을 수 있을 것이다...",
+      "metadata": {
+        "string_id": 2003,
+        "speaker_string_id": 2004,
+        "dialogue_id": "O01Cairne27"
+      }
+    },
+    {
+      "speaker": "실바나스",
+      "text": "...이 포세이큰 왕국 또한 홀로 적과 맞서지 않아도 될 것이다.",
+      "metadata": {
+        "string_id": 2001,
+        "speaker_string_id": 2002,
+        "dialogue_id": "O01Cairne27"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그래, 거미가 아니면 안 되지, 응?",
+      "metadata": {
+        "string_id": 2108,
+        "speaker_string_id": 2928,
+        "dialogue_id": "A3M2-T010-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "저 짐승들은 곧 걱정할 거리조차 안 될 것이야.",
+      "metadata": {
+        "string_id": 2113,
+        "speaker_string_id": 2114,
+        "dialogue_id": "A3M2-T020-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "문 몇 개는 한쪽에서만 열리는 것 같아. 돌아갈 방법을 찾아야겠어.",
+      "metadata": {
+        "string_id": 2925,
+        "speaker_string_id": 2142,
+        "dialogue_id": "A3M2-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "거미줄에 걸리기 전에 네루비안을 어서 처치해라!",
+      "metadata": {
+        "string_id": 2927,
+        "speaker_string_id": 2150,
+        "dialogue_id": "A3M2-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "여기에 첫 번째 폭약을 설치한다. 모두 피하도록!",
+      "metadata": {
+        "string_id": 2945,
+        "speaker_string_id": 2160,
+        "dialogue_id": "A3M2-T050-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "기습이다! 조심해!",
+      "metadata": {
+        "string_id": 2141,
+        "speaker_string_id": 2171,
+        "dialogue_id": "A3M2-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "지역을 확보했다! 폭발물을 설치하고 계속 전진하자!",
+      "metadata": {
+        "string_id": 2149,
+        "speaker_string_id": 2200,
+        "dialogue_id": "A3M2-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "살덩어리 골렘과 다른 누더기골렘을 만들어내는 죽음의 요새 구획이군.",
+      "metadata": {
+        "string_id": 2159,
+        "speaker_string_id": 2224,
+        "dialogue_id": "A3M2-T080-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "그렇다면 전진하면서 분해해 버리자고.",
+      "metadata": {
+        "string_id": 2170,
+        "speaker_string_id": 2250,
+        "dialogue_id": "A3M2-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "죽음의 경비병",
+      "text": "반다리온 대장님이십니까?! 도와 주십시오!",
+      "metadata": {
+        "string_id": 2180,
+        "speaker_string_id": 2181,
+        "dialogue_id": "A3M2-T100-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "죽음의 경비병",
+      "text": "감사합니다! 아래의 전투에서 스컬지가 저희와 다른 포로 몇 명을 데려왔습니다.",
+      "metadata": {
+        "string_id": 2188,
+        "speaker_string_id": 2189,
+        "dialogue_id": "A3M2-T110-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "찾아내 풀어주도록 하겠다. 죽음의 경비대여, 가자!",
+      "metadata": {
+        "string_id": 2199,
+        "speaker_string_id": 2325,
+        "dialogue_id": "A3M2-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "죽음의 경비병",
+      "text": "적은 무너지리라!",
+      "metadata": {
+        "string_id": 3032,
+        "speaker_string_id": 3031,
+        "dialogue_id": "ForsakenDeathguard_Attack2"
+      }
+    },
+    {
+      "speaker": "죽음의 경비병",
+      "text": "전투 준비 완료!",
+      "metadata": {
+        "string_id": 3033,
+        "speaker_string_id": 3034,
+        "dialogue_id": "ForsakenDeathguard_Ready1"
+      }
+    },
+    {
+      "speaker": "죽음의 경비병",
+      "text": "실바나스 님께 승리를!",
+      "metadata": {
+        "string_id": 3035,
+        "speaker_string_id": 3036,
+        "dialogue_id": "ForsakenDeathguard_Warcry1"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "이 문은 기억에 있다. 근처에 문을 여는 스위치가 있을 거야.",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2317,
+        "dialogue_id": "A3M2-T130-LEONID"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "문이 열렸겠지. 손님이 찾아온 것 같은데.",
+      "metadata": {
+        "string_id": 2223,
+        "speaker_string_id": 2336,
+        "dialogue_id": "A3M2-T140-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "이 죽음의 요새의 주인이라는 켈투자드... 어떤 자인가?",
+      "metadata": {
+        "string_id": 2466,
+        "speaker_string_id": 2368,
+        "dialogue_id": "A3M2-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "로데론 곳곳에 불사의 역병을 퍼뜨리는 강령술사다. 아서스 왕자가 죽였지만 이후 리치로 직접 되살렸지.",
+      "metadata": {
+        "string_id": 2991,
+        "speaker_string_id": 2436,
+        "dialogue_id": "A3M2-T160-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "그를 위해 내 동족을 살해하고 태양샘을 오염시켰고. 우리 왕국은 켈투자드의 부활을 위해 사라졌어.",
+      "metadata": {
+        "string_id": 2249,
+        "speaker_string_id": 2261,
+        "dialogue_id": "A3M2-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "언더시티도 몰락하게 둘 수는 없어. 살아 있을 때 나는 동족을 실망시켰다. 포세이큰을 지키기 위해서라면 내 모든 힘을 쓸 거야.",
+      "metadata": {
+        "string_id": 2260,
+        "speaker_string_id": 2282,
+        "dialogue_id": "A3M2-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "여기에 다음 폭발물을 설치하면 되겠군.",
+      "metadata": {
+        "string_id": 2287,
+        "speaker_string_id": 2288,
+        "dialogue_id": "A3M2-T190-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "그렇다면 저 흉물을 처리한 뒤 어서 설치하자고.",
+      "metadata": {
+        "string_id": 2281,
+        "speaker_string_id": 2305,
+        "dialogue_id": "A3M2-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "큰 놈이었어. 모두 괜찮나?",
+      "metadata": {
+        "string_id": 2295,
+        "speaker_string_id": 2296,
+        "dialogue_id": "A3M2-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "괜찮아. 폭발물을 설치하고 계속 움직이자고.",
+      "metadata": {
+        "string_id": 2304,
+        "speaker_string_id": 2360,
+        "dialogue_id": "A3M2-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "스컬지가 오크도 언데드로 되살리고 있군. 무시무시한 죽음의 기사가 되겠어.",
+      "metadata": {
+        "string_id": 2316,
+        "speaker_string_id": 2497,
+        "dialogue_id": "A3M2-T230-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "저 해골... 어마어마하게 큰데!",
+      "metadata": {
+        "string_id": 2324,
+        "speaker_string_id": 2395,
+        "dialogue_id": "A3M2-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "우리 힘으로 쓰러뜨리기엔 역부족일 것 같군. 지혜로 속여넘겨야겠어.",
+      "metadata": {
+        "string_id": 2335,
+        "speaker_string_id": 2516,
+        "dialogue_id": "A3M2-T250-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "이 문에는 열쇠가 필요해. 저 나무꾼 해골이 가지고 있는 것 같은데.",
+      "metadata": {
+        "string_id": 2359,
+        "speaker_string_id": 2378,
+        "dialogue_id": "A3M2-T260-ANYA"
+      }
+    },
+    {
+      "speaker": "검귀",
+      "text": "불타는 칼날단을 위하여!",
+      "metadata": {
+        "string_id": 2349,
+        "speaker_string_id": 2350,
+        "dialogue_id": "HeroBladeMasterWarcry1"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "저 불길... 해골을 여기 가둘 수만 있다면 쓰러뜨릴 수 있을지도.",
+      "metadata": {
+        "string_id": 2367,
+        "speaker_string_id": 2467,
+        "dialogue_id": "A3M2-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "수호자를 처치했다. 어서 열쇠를 챙겨 계속 나아가자.",
+      "metadata": {
+        "string_id": 2377,
+        "speaker_string_id": 2413,
+        "dialogue_id": "A3M2-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "스컬지의 타락이 보란 듯이 펼쳐져 있군. 빛으로 모조리 쳐부술 수만 있다면 오죽 좋으랴.",
+      "metadata": {
+        "string_id": 2993,
+        "speaker_string_id": 2542,
+        "dialogue_id": "A3M2-T300-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛이 이곳에 닿을 수나 있을까? 죽음과 어둠이 사방에 퍼져 있는데.",
+      "metadata": {
+        "string_id": 2394,
+        "speaker_string_id": 2486,
+        "dialogue_id": "A3M2-T310-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "빛이 닿지 않는 곳은 없네. 오직 믿음만 있으면 되는 거야.",
+      "metadata": {
+        "string_id": 2435,
+        "speaker_string_id": 2561,
+        "dialogue_id": "A3M2-T320-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "빛에 닿으면 그대로 바삭하게 타버릴 작자가 하는 말치고는 대담한걸.",
+      "metadata": {
+        "string_id": 2412,
+        "speaker_string_id": 2444,
+        "dialogue_id": "A3M2-T330-ANYA"
+      }
+    },
+    {
+      "speaker": "젤리에크 경",
+      "text": "돌아서라, 침입자들이여! 그렇지 않으면 처단할 수밖에 없다!",
+      "metadata": {
+        "string_id": 2422,
+        "speaker_string_id": 2423,
+        "dialogue_id": "A3M2-T340-ZELIEK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "질리에크 경... 한때 은빛 성기사단의 성기사였던 자다!",
+      "metadata": {
+        "string_id": 2429,
+        "speaker_string_id": 2430,
+        "dialogue_id": "A3M2-T350-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "지금은 우리 길을 막고 있고.",
+      "metadata": {
+        "string_id": 2443,
+        "speaker_string_id": 2524,
+        "dialogue_id": "A3M2-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "스컬지가 되어 빛을 휘두른다니? 이런 신성모독이 있나!",
+      "metadata": {
+        "string_id": 2652,
+        "speaker_string_id": 2653,
+        "dialogue_id": "A3M2-T370-LEONID"
+      }
+    },
+    {
+      "speaker": "젤리에크 경",
+      "text": "그에 대한 벌로 빛이 나를 불태우기만을 기도할 뿐. 그제서야 내 주인의 명령으로부터 자유로워질 수 있을 테니.",
+      "metadata": {
+        "string_id": 2464,
+        "speaker_string_id": 2465,
+        "dialogue_id": "A3M2-T380-ZELIEK"
+      }
+    },
+    {
+      "speaker": "젤리에크 경",
+      "text": "오직 빛만이... 나를... 노예의 굴레에서 해방하리라...",
+      "metadata": {
+        "string_id": 2476,
+        "speaker_string_id": 2477,
+        "dialogue_id": "A3M2-T390-ZELIEK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "죽어서도 빛을 불러낼 수 있었어...",
+      "metadata": {
+        "string_id": 2485,
+        "speaker_string_id": 2505,
+        "dialogue_id": "A3M2-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "스컬지가 그를 다시 일으켜 믿음을 고통으로 계속해 뒤틀 것이다. 젤리에크 경은 이런 운명을 맞을 자가 아니었어.",
+      "metadata": {
+        "string_id": 2496,
+        "speaker_string_id": 2706,
+        "dialogue_id": "A3M2-T410-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "도대체 저게 뭐지?",
+      "metadata": {
+        "string_id": 2504,
+        "speaker_string_id": 2532,
+        "dialogue_id": "A3M2-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "또 하나의 뒤틀린 실험의 결과지. 다음 폭발물을 설치할 수 있도록 처치하자고.",
+      "metadata": {
+        "string_id": 2515,
+        "speaker_string_id": 2882,
+        "dialogue_id": "A3M2-T430-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "역겨운 생물 같으니. 폭발물을 설치해 이 똥통에서 나가자고.",
+      "metadata": {
+        "string_id": 2523,
+        "speaker_string_id": 2693,
+        "dialogue_id": "A3M2-T440-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "조심해!",
+      "metadata": {
+        "string_id": 2531,
+        "speaker_string_id": 2550,
+        "dialogue_id": "A3M2-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "일련의 스위치와 연결되어 있는 문이다. 차례대로 각각 켜야 해.",
+      "metadata": {
+        "string_id": 2541,
+        "speaker_string_id": 2992,
+        "dialogue_id": "A3M2-T460-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "돌아갈 때가 되면 이 문을 통해 비행선으로 돌아갈 수 있어.",
+      "metadata": {
+        "string_id": 2904,
+        "speaker_string_id": 2724,
+        "dialogue_id": "A3M2-T470-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "이게 뭐지? 대성당 같은데.",
+      "metadata": {
+        "string_id": 2549,
+        "speaker_string_id": 2642,
+        "dialogue_id": "A3M2-T480-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "스컬지의 신성모독에 한계란 없는 것인가?!",
+      "metadata": {
+        "string_id": 2560,
+        "speaker_string_id": 2994,
+        "dialogue_id": "A3M2-T490-LEONID"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "나처럼 진실을 받아들여라, 어둠 순찰자여. 쿠엘탈라스는 몰락했고 태양샘은 사라졌다. 스컬지야말로 우리의 미래다!",
+      "metadata": {
+        "string_id": 2572,
+        "speaker_string_id": 2573,
+        "dialogue_id": "A3M2-T500-ILASTAR"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "내 미래는 포세이큰에 있다! 네놈 미래는 진흙탕에 처박힐 것이다!",
+      "metadata": {
+        "string_id": 2580,
+        "speaker_string_id": 2581,
+        "dialogue_id": "A3M2-T510-ANYA"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "스컬지의 일원으로서 유망함을 보이지 않았나, 리어니드 바돌로매. 산 자와 한패가 되어 가능성을 버리다니, 한심하군.",
+      "metadata": {
+        "string_id": 2590,
+        "speaker_string_id": 2591,
+        "dialogue_id": "A3M2-T520-ILASTAR"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "은빛 여명회는 빛에 대한 내 믿음을 새롭게 했다. 그들의 용기가 네 어둠의 주인을 쳐부술 것이다!",
+      "metadata": {
+        "string_id": 2601,
+        "speaker_string_id": 2602,
+        "dialogue_id": "A3M2-T530-LEONID"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "네가 맞서는 것은 내가 아닌, 네 의심과 나약함이다!",
+      "metadata": {
+        "string_id": 2611,
+        "speaker_string_id": 2612,
+        "dialogue_id": "A3M2-T540-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그림자일 뿐이야! 몰아내고 일라스타에게 집중해!",
+      "metadata": {
+        "string_id": 2620,
+        "speaker_string_id": 2621,
+        "dialogue_id": "A3M2-T550-GAREK"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "이게 어떻게 가능한 거지? 어떻게 빛을 다루는 거냐?!",
+      "metadata": {
+        "string_id": 2630,
+        "speaker_string_id": 2631,
+        "dialogue_id": "A3M2-T560-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛이 닿지 않는 곳은... 어디에도 없다. 이제... 끝이다!",
+      "metadata": {
+        "string_id": 2633,
+        "speaker_string_id": 2634,
+        "dialogue_id": "A3M2-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "넌... 우리를... 부리지 못해!",
+      "metadata": {
+        "string_id": 2641,
+        "speaker_string_id": 2676,
+        "dialogue_id": "A3M2-T580-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "가렉! 그러다 잿더미가 되어버리겠어!",
+      "metadata": {
+        "string_id": 2650,
+        "speaker_string_id": 2651,
+        "dialogue_id": "A3M2-T590-ANYA"
+      }
+    },
+    {
+      "speaker": "일라스타",
+      "text": "안 돼! 빛은 나를 데려가지 못한다!",
+      "metadata": {
+        "string_id": 2662,
+        "speaker_string_id": 2663,
+        "dialogue_id": "A3M2-T600-ILASTAR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "일라스타... 이런 운명으로 이끌어 미안하다.",
+      "metadata": {
+        "string_id": 2683,
+        "speaker_string_id": 2684,
+        "dialogue_id": "A3M2-T610-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "이제 어쩌지? 낙스라마스를 추락시킬 방법이 없어.",
+      "metadata": {
+        "string_id": 2692,
+        "speaker_string_id": 2905,
+        "dialogue_id": "A3M2-T620-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "수정을... 없애야 해... 그렇지 않으면 또 폭발파를 날릴 거야. 내가 없앨 방법을 알아.",
+      "metadata": {
+        "string_id": 2695,
+        "speaker_string_id": 2696,
+        "dialogue_id": "A3M2-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "젤리에크 경처럼 빛을 다루더군... 이게 어떻게 가능한 것이지?",
+      "metadata": {
+        "string_id": 2705,
+        "speaker_string_id": 2998,
+        "dialogue_id": "A3M2-T640-LEONID"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛을... 불러낼 때마다... 내가 타오르는 게 느껴져. 하지만... 여전히... 나를 돕고 있다...",
+      "metadata": {
+        "string_id": 2714,
+        "speaker_string_id": 2715,
+        "dialogue_id": "A3M2-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "계속할 수는 없어, 가렉. 빛이 너를 파괴할 거야.",
+      "metadata": {
+        "string_id": 2723,
+        "speaker_string_id": 2926,
+        "dialogue_id": "A3M2-T660-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그냥... 포세이큰을 구할 수 있을 때까지만... 버티면 돼...",
+      "metadata": {
+        "string_id": 2732,
+        "speaker_string_id": 2733,
+        "dialogue_id": "A3M2-T670-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "전부... 기억나. 내가 한 실수... 배우지 못한 가르침도...",
+      "metadata": {
+        "string_id": 2740,
+        "speaker_string_id": 2741,
+        "dialogue_id": "A3M2-T680-GAREK"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "그딴 건 이제 버려도 돼. 포세이큰이 된다는 건 네 자신이 누구인지 스스로 결정할 수 있다는 거야.",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "A3M2-T690-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "네 말이 맞아, 안야... 하지만 내가 누구였는지 알게 되니... 내가 어떤 사람이 되고 싶은지... 뭘 해야 하는지 알게 됐어...",
+      "metadata": {
+        "string_id": 3037,
+        "speaker_string_id": 3038,
+        "dialogue_id": "A3M2-T700-GAREK"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "낙스라마스 꼭대기가 가까워진다. 곧 켈투자드와 직접 대면하게 될 거다.",
+      "metadata": {
+        "string_id": 2997,
+        "speaker_string_id": 2753,
+        "dialogue_id": "A3M2-T710-LEONID"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "인간과 엘프 모두에게 파멸을 불러온 놈이지. 이제는 포세이큰을 없애려고 해. 그렇게 둘 수는 없어.",
+      "metadata": {
+        "string_id": 2769,
+        "speaker_string_id": 2770,
+        "dialogue_id": "A3M2-T720-ANYA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "어떤 역경 앞에서도... 포세이큰은 살아남을 거다. 빛에 걸고... 맹세해...",
+      "metadata": {
+        "string_id": 2772,
+        "speaker_string_id": 2773,
+        "dialogue_id": "A3M2-T730-GAREK"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "헛되이 고통스러워하는구나. 내가 수정을 강화하고 나면, 너희들의 소중한 언더시티는 역병이 우글대는 구덩이로만 남을 것이다.",
+      "metadata": {
+        "string_id": 2782,
+        "speaker_string_id": 2783,
+        "dialogue_id": "A3M2-T740-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그렇게... 두지 않겠다!",
+      "metadata": {
+        "string_id": 2793,
+        "speaker_string_id": 2794,
+        "dialogue_id": "A3M2-T750-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "빛이 나를... 불태운다...",
+      "metadata": {
+        "string_id": 2801,
+        "speaker_string_id": 2802,
+        "dialogue_id": "A3M2-T760-GAREK"
+      }
+    },
+    {
+      "speaker": "남작 리븐데어",
+      "text": "스스로가 성기사라도 된 것 같나? 알아서 타죽을 때까지 느긋이 구경이나 해야겠군!",
+      "metadata": {
+        "string_id": 2804,
+        "speaker_string_id": 2805,
+        "dialogue_id": "A3M2-T770-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "남작 리븐데어",
+      "text": "하찮은 벌레 놈! 나는 스트라솔름의 주인이다! 내게 맞서 승산은 없다!",
+      "metadata": {
+        "string_id": 2812,
+        "speaker_string_id": 2813,
+        "dialogue_id": "A3M2-T780-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "리어니드",
+      "text": "곧 네가 배신하고 파괴한 도시의 운명을 똑같이 맞게 될 것이다.",
+      "metadata": {
+        "string_id": 2825,
+        "speaker_string_id": 2826,
+        "dialogue_id": "A3M2-T790-LEONID"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "끝이다! 잠시 후면 언더시티는 사라지리라!",
+      "metadata": {
+        "string_id": 2835,
+        "speaker_string_id": 2836,
+        "dialogue_id": "A3M2-T800-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "그때까지는 도움이 필요해 보이는군, 리븐데어. 부디.",
+      "metadata": {
+        "string_id": 2846,
+        "speaker_string_id": 2847,
+        "dialogue_id": "A3M2-T810-KELTHUZAD"
+      }
+    },
+    {
+      "speaker": "안야",
+      "text": "지금이 기회다! 둘 다 죽여라!",
+      "metadata": {
+        "string_id": 2857,
+        "speaker_string_id": 2858,
+        "dialogue_id": "A3M2-T820-ANYA"
+      }
+    },
+    {
+      "speaker": "남작 리븐데어",
+      "text": "나는... 스트라솔름에서... 다시 일어날 것이다...",
+      "metadata": {
+        "string_id": 2867,
+        "speaker_string_id": 2868,
+        "dialogue_id": "A3M2-T830-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "켈투자드",
+      "text": "내게 이건 끝이 아니다. 네놈에게는 확실한 끝이겠지만.",
+      "metadata": {
+        "string_id": 2987,
+        "speaker_string_id": 2961,
+        "dialogue_id": "A3M2-T840-KELTHUZAD"
+      }
+    }
+  ]
+}

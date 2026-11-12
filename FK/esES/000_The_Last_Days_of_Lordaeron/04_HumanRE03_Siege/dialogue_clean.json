@@ -1,0 +1,692 @@
+{
+  "map": "HumanRE03",
+  "title": "Siege",
+  "locale": "esES",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Garek",
+      "text": "Tenemos que ganar tiempo para Andorhal hasta que Uther regrese con refuerzos. En marcha.",
+      "metadata": {
+        "string_id": 2773,
+        "speaker_string_id": 2774,
+        "dialogue_id": "HRE03-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Gracias, forastero. Vienes de la Capital, ¿no? ¿Es cierto que Arthas la ha reducido a cenizas?",
+      "metadata": {
+        "string_id": 2782,
+        "speaker_string_id": 2783,
+        "dialogue_id": "HRE03-M020-010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "En efecto. Lord Uther ha ordenado que nos reagrupemos en Andorhal. Está reuniendo tropas para levantar al asedio.",
+      "metadata": {
+        "string_id": 2785,
+        "speaker_string_id": 2786,
+        "dialogue_id": "HRE03-M020-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Quizás llegue demasiado tarde. El culto se está preparando para un asalto masivo.",
+      "metadata": {
+        "string_id": 2794,
+        "speaker_string_id": 2795,
+        "dialogue_id": "HRE03-M020-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Tenía pensado reunir tropas para un ataque preventivo, pero antes tenemos que establecer una base.",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "HRE03-M020-040-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Te echaremos una mano. Si mantenemos ocupado al culto, podremos retrasar su ataque hasta el regreso de Uther.",
+      "metadata": {
+        "string_id": 2812,
+        "speaker_string_id": 2813,
+        "dialogue_id": "HRE03-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Muy bien. Ilastar Entonabrisas, a tu servicio.",
+      "metadata": {
+        "string_id": 2821,
+        "speaker_string_id": 2822,
+        "dialogue_id": "HRE03-M020-060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Garek Bandarion, al tuyo. Plantemos cara a esos cultores.",
+      "metadata": {
+        "string_id": 2830,
+        "speaker_string_id": 2831,
+        "dialogue_id": "HRE03-M020-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡Lord Uther! ¿Estos son todos los refuerzos?",
+      "metadata": {
+        "string_id": 2894,
+        "speaker_string_id": 2895,
+        "dialogue_id": "HRE03-M030-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Eso me temo. Con la Mano de Plata disgregada, los paladines hemos acabado por todo Lordaeron.",
+      "metadata": {
+        "string_id": 2844,
+        "speaker_string_id": 2845,
+        "dialogue_id": "HRE03-M030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "No... Esa campana... ¡El culto ha superado las puertas!",
+      "metadata": {
+        "string_id": 2914,
+        "speaker_string_id": 2915,
+        "dialogue_id": "HRE03-M030-030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "En ese caso, la verdadera batalla acaba de empezar.",
+      "metadata": {
+        "string_id": 2863,
+        "speaker_string_id": 2864,
+        "dialogue_id": "HRE03-M030-040-UTHER"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Lidera a tus fuerzas hacia la ciudad mientras mis paladines y yo flanqueamos a los cultores desde fuera de las murallas.",
+      "metadata": {
+        "string_id": 2872,
+        "speaker_string_id": 2873,
+        "dialogue_id": "HRE03-M030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡Sí, señor! ¡No permitiremos que Andorhal caiga ante la Plaga!",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2882,
+        "dialogue_id": "HRE03-M030-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡No! ¡No me quedaré sin recompensa!",
+      "metadata": {
+        "string_id": 2983,
+        "speaker_string_id": 2984,
+        "dialogue_id": "HRE03-M040-010-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡En Stratholme obtendré un poder infinito! ¡La próxima vez que nos veamos, moriréis todos!",
+      "metadata": {
+        "string_id": 2986,
+        "speaker_string_id": 2985,
+        "dialogue_id": "HRE03-M040-020-RAS"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Andorhal está a salvo, aunque reconstruirla llevará lo suyo.",
+      "metadata": {
+        "string_id": 2892,
+        "speaker_string_id": 2893,
+        "dialogue_id": "HRE03-M040-030-UTHER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Stratholme era la base del poder de Osahendido. Si el culto se está reuniendo allí, él también estará.",
+      "metadata": {
+        "string_id": 2903,
+        "speaker_string_id": 2904,
+        "dialogue_id": "HRE03-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Sé que mató a tu capitán, pero la Luz nos llama a proteger a quienes aún viven. Confía en su juicio, teniente Bandarion.",
+      "metadata": {
+        "string_id": 2912,
+        "speaker_string_id": 2913,
+        "dialogue_id": "HRE03-M040-050-UTHER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "No puedo quedarme aquí parado y permitir que Osahendido se vaya de rositas.",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "HRE03-M040-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Ni yo tampoco. La Luz también exige un castigo divino, y debemos hacérselo pagar a ese culto.",
+      "metadata": {
+        "string_id": 2932,
+        "speaker_string_id": 2933,
+        "dialogue_id": "HRE03-M040-070-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Pues eso haremos. Cabalgaremos a Stratholme, antes de que lord Uther se oponga.",
+      "metadata": {
+        "string_id": 2963,
+        "speaker_string_id": 2964,
+        "dialogue_id": "HRE03-M040-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "Basta de intromisiones. ¡Me encargaré de ti permanentemente!",
+      "metadata": {
+        "string_id": 2664,
+        "speaker_string_id": 2665,
+        "dialogue_id": "HRE03-T350-RAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Los esbirros no-muertos del culto parecen interminables.",
+      "metadata": {
+        "string_id": 2574,
+        "speaker_string_id": 2575,
+        "dialogue_id": "HRE03-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "No dejarán de aparecer fétidos necrófagos hasta que destruyamos sus calderas de peste.",
+      "metadata": {
+        "string_id": 2580,
+        "speaker_string_id": 2581,
+        "dialogue_id": "HRE03-T170-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Si abrimos camino a los paladines de Uther, se unirán a nosotros en las calles de la ciudad.",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "HRE03-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Más calderas de peste. ¡Deberíamos destruirlas antes de que infesten la ciudad!",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2681,
+        "dialogue_id": "HRE03-T330-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¿Sí, mi señor?",
+      "metadata": {
+        "string_id": 2761,
+        "speaker_string_id": 2762,
+        "dialogue_id": "FootmanWhat3"
+      }
+    },
+    {
+      "speaker": "Fusilero",
+      "text": "Soy el tirador que buscas.",
+      "metadata": {
+        "string_id": 2751,
+        "speaker_string_id": 2752,
+        "dialogue_id": "RiflemanWhat3"
+      }
+    },
+    {
+      "speaker": "Fusilero",
+      "text": "¡Señor, sí, señor!",
+      "metadata": {
+        "string_id": 2753,
+        "speaker_string_id": 2754,
+        "dialogue_id": "RiflemanWhat1"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¡Por Lordaeron!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¡A las armas!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "¿Se necesita mi ayuda?",
+      "metadata": {
+        "string_id": 2765,
+        "speaker_string_id": 2766,
+        "dialogue_id": "PriestWhat3"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "Soy tu sirviente.",
+      "metadata": {
+        "string_id": 2759,
+        "speaker_string_id": 2760,
+        "dialogue_id": "PriestYes1"
+      }
+    },
+    {
+      "speaker": "Campesino",
+      "text": "¿Más trabajo?",
+      "metadata": {
+        "string_id": 2767,
+        "speaker_string_id": 2768,
+        "dialogue_id": "PeasantWhat3"
+      }
+    },
+    {
+      "speaker": "Campesino",
+      "text": "¡Ayuda! ¡Socorro!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Campesino",
+      "text": "¡Ayuda! ¡Socorro!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Campesino",
+      "text": "¡Ayuda! ¡Socorro!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Campesino",
+      "text": "¡Ayuda! ¡Socorro!",
+      "metadata": {
+        "string_id": 2749,
+        "speaker_string_id": 2750,
+        "dialogue_id": "PeasantHelp"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡Los están atacando! ¡A la carga!",
+      "metadata": {
+        "string_id": 2511,
+        "speaker_string_id": 2512,
+        "dialogue_id": "HRE03-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "¡No permitiré que esos malditos cultores se salgan con la suya!",
+      "metadata": {
+        "string_id": 2515,
+        "speaker_string_id": 2516,
+        "dialogue_id": "HRE03-T010-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Tenemos que reparar el aserradero si queremos una base en condiciones.",
+      "metadata": {
+        "string_id": 2522,
+        "speaker_string_id": 2523,
+        "dialogue_id": "HRE03-T030-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Eso debería darnos algo de margen.",
+      "metadata": {
+        "string_id": 2586,
+        "speaker_string_id": 2587,
+        "dialogue_id": "HRE03-T180-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Asesino",
+      "text": "¡Emboscada!",
+      "metadata": {
+        "string_id": 2982,
+        "speaker_string_id": 2981,
+        "dialogue_id": "BanditWarcry1"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "El bosque está despejado. Pongamos fin al resto del asedio.",
+      "metadata": {
+        "string_id": 2713,
+        "speaker_string_id": 2737,
+        "dialogue_id": "HRE03-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Hemos empezado con buen pie, pero necesitaremos más recursos para crear un ejército.",
+      "metadata": {
+        "string_id": 2685,
+        "speaker_string_id": 2686,
+        "dialogue_id": "HRE03-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Hay otros asentamientos cerca. Deberíamos reclamarlos también.",
+      "metadata": {
+        "string_id": 2693,
+        "speaker_string_id": 2694,
+        "dialogue_id": "HRE03-T050-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Este es uno de los asentamientos periféricos. Aquí vivía gente buena.",
+      "metadata": {
+        "string_id": 2526,
+        "speaker_string_id": 2527,
+        "dialogue_id": "HRE03-T060-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Tendremos que traer obreros de nuestra base para empezar con las reparaciones.",
+      "metadata": {
+        "string_id": 2530,
+        "speaker_string_id": 2531,
+        "dialogue_id": "HRE03-T070-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Al menos los cultores no han masacrado a los caballos.",
+      "metadata": {
+        "string_id": 2534,
+        "speaker_string_id": 2535,
+        "dialogue_id": "HRE03-T080-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nuestros caballeros cargarán a la batalla con ellos y vengarán a los caídos.",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "HRE03-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "La familia que vivía aquí quería disfrutar de una vida tranquila a las afueras de la ciudad.",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "HRE03-T120-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Aprovecharemos sus provisiones y haremos justicia con sus asesinos.",
+      "metadata": {
+        "string_id": 2549,
+        "speaker_string_id": 2550,
+        "dialogue_id": "HRE03-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "¡Este era un lugar de culto! ¡¿Es que no hay nada sagrado para esos paganos?!",
+      "metadata": {
+        "string_id": 2553,
+        "speaker_string_id": 2554,
+        "dialogue_id": "HRE03-T100-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Tus hermanos sacerdotes los castigarán por ello.",
+      "metadata": {
+        "string_id": 2559,
+        "speaker_string_id": 2560,
+        "dialogue_id": "HRE03-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Conocía bien a los propietarios de esta armería. Estaban muy orgullosos de su oficio.",
+      "metadata": {
+        "string_id": 2561,
+        "speaker_string_id": 2562,
+        "dialogue_id": "HRE03-T140-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Armaremos a nuestros fusileros con su mercancía y llenaremos de plomo a los cultores.",
+      "metadata": {
+        "string_id": 2568,
+        "speaker_string_id": 2569,
+        "dialogue_id": "HRE03-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "Vienen a darnos una gélida bienvenida. Exterminadlos.",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "HRE03-T190-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡Esto es una pérdida de tiempo! ¡Tengo asuntos más urgentes que atender!",
+      "metadata": {
+        "string_id": 2695,
+        "speaker_string_id": 2696,
+        "dialogue_id": "HRE03-T270-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡He lidiado con peores malhechores que tú! ¡La victoria será mía!",
+      "metadata": {
+        "string_id": 2620,
+        "speaker_string_id": 2621,
+        "dialogue_id": "HRE03-T260-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡Pagarás cara tu insolencia! ¡Esto no ha acabado!",
+      "metadata": {
+        "string_id": 2627,
+        "speaker_string_id": 2628,
+        "dialogue_id": "HRE03-T250-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡Necios idiotas! ¡Volveré con más fuerzas!",
+      "metadata": {
+        "string_id": 2705,
+        "speaker_string_id": 2706,
+        "dialogue_id": "HRE03-T240-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¡Mi amo ha ordenado la aniquilación de esta ciudad! ¡Y cumpliré su voluntad!",
+      "metadata": {
+        "string_id": 2635,
+        "speaker_string_id": 2636,
+        "dialogue_id": "HRE03-T200-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "Solo un necio se opondría al Culto de los Malditos.",
+      "metadata": {
+        "string_id": 2641,
+        "speaker_string_id": 2642,
+        "dialogue_id": "HRE03-T210-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "Andorhal arderá, como el resto de Lordaeron. ¡No nos detendréis!",
+      "metadata": {
+        "string_id": 2647,
+        "speaker_string_id": 2648,
+        "dialogue_id": "HRE03-T220-RAS"
+      }
+    },
+    {
+      "speaker": "Ras Murmuhielo",
+      "text": "¿Por qué luchar en vano? La Plaga es invencible.",
+      "metadata": {
+        "string_id": 2670,
+        "speaker_string_id": 2671,
+        "dialogue_id": "HRE03-T230-RAS"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "Si recuperamos las torres de vigilancia, ¡podremos echar a esos sucios cultores de Andorhal!",
+      "metadata": {
+        "string_id": 3025,
+        "speaker_string_id": 3026,
+        "dialogue_id": "HRE03-T290-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡La milicia lucha en las calles! ¡Nos uniremos a ellos!",
+      "metadata": {
+        "string_id": 3028,
+        "speaker_string_id": 3027,
+        "dialogue_id": "HRE03-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¡Por Lordaeron!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Milicia",
+      "text": "¿No hay nadie más disponible?",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2979,
+        "dialogue_id": "PeasantYesAttack3"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¡A las armas!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Milicia",
+      "text": "¿No hay nadie más disponible?",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2979,
+        "dialogue_id": "PeasantYesAttack3"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¡Por Lordaeron!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Soldado raso",
+      "text": "¡A las armas!",
+      "metadata": {
+        "string_id": 2757,
+        "speaker_string_id": 2758,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Ilastar",
+      "text": "¡Esta gente necesita nuestra ayuda!",
+      "metadata": {
+        "string_id": 3029,
+        "speaker_string_id": 3030,
+        "dialogue_id": "HRE03-T310-ILASTAR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¡Hay que salvar a todas las personas posibles!",
+      "metadata": {
+        "string_id": 3031,
+        "speaker_string_id": 3032,
+        "dialogue_id": "HRE03-T320-GAREK"
+      }
+    }
+  ]
+}

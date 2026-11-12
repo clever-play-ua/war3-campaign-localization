@@ -1,0 +1,1241 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "plPL",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Garek",
+      "text": "Dobra robota, strażnicy. Niech wasze ciosy będą celne, a tarcze was chronią.",
+      "metadata": {
+        "string_id": 2656,
+        "speaker_string_id": 2657,
+        "dialogue_id": "A2MU-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nieźle, Gareku. To nie mroczni tropiciele, ale nadadzą się do obrony Podmiasta.",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "A2MU-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dobrze, że łaskawie ich zaakceptowałaś, Anyu.",
+      "metadata": {
+        "string_id": 2660,
+        "speaker_string_id": 2661,
+        "dialogue_id": "A2MU-C020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Kapitanie Bandarion, możemy porozmawiać?",
+      "metadata": {
+        "string_id": 2662,
+        "speaker_string_id": 2663,
+        "dialogue_id": "A2MU-C020-040-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "W niektórych dzielnicach miasta trzeba przeprowadzić prace naprawcze, ale nie mogę się tam dostać.",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2675,
+        "dialogue_id": "A2MU-C020-050-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Szczury uwiły sobie gniazdo w centralnym szybie windy, a główna rura kanalizacyjna pękła i leje się z niej śluz. Możesz mi pomóc?",
+      "metadata": {
+        "string_id": 1455,
+        "speaker_string_id": 1456,
+        "dialogue_id": "A2MU-C020-060-BERND"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Prosisz kapitan straży o pomoc w deratyzacji?",
+      "metadata": {
+        "string_id": 1460,
+        "speaker_string_id": 1461,
+        "dialogue_id": "A2MU-C020-070-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Szczerze mówiąc, mnie by się przydało trochę ruchu. Zostaw to mnie, Bernd.",
+      "metadata": {
+        "string_id": 1466,
+        "speaker_string_id": 1467,
+        "dialogue_id": "A2MU-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Nic z tego nie rozumiem! Musi być jakiś powód, dla którego główna rura ma tyle pęknięć...",
+      "metadata": {
+        "string_id": 1470,
+        "speaker_string_id": 1471,
+        "dialogue_id": "A2MU-C030-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Sprawdzę ściany. Coś musi niszczyć te rury.",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1476,
+        "dialogue_id": "A2MU-C030-020-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Idziemy z tobą. Jeśli jest tego więcej...",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1481,
+        "dialogue_id": "A2MU-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Czekaj. Co to było?",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1486,
+        "dialogue_id": "A2MU-C030-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "<Stęknięcie z bólu i zaskoczenia>",
+      "metadata": {
+        "string_id": 1490,
+        "speaker_string_id": 1491,
+        "dialogue_id": "A2MU-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Szkarłatny krzyżowiec",
+      "text": "Włamaliśmy się do Podmiasta! Te łachudry padną pod naporem Szkarłatnej Krucjaty!",
+      "metadata": {
+        "string_id": 1495,
+        "speaker_string_id": 1496,
+        "dialogue_id": "A2MU-C030-060-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "Szkarłatny dowódca Mograine",
+      "text": "Nie zginę w tej parszywej ruderze!",
+      "metadata": {
+        "string_id": 1748,
+        "speaker_string_id": 1749,
+        "dialogue_id": "A2MU-M010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Gareku, zaczekaj!",
+      "metadata": {
+        "string_id": 1501,
+        "speaker_string_id": 1502,
+        "dialogue_id": "A2MU-M010-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Uch, to pali!",
+      "metadata": {
+        "string_id": 1505,
+        "speaker_string_id": 1506,
+        "dialogue_id": "A2MU-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Tchórz uciekł.",
+      "metadata": {
+        "string_id": 1509,
+        "speaker_string_id": 1510,
+        "dialogue_id": "A2MU-M010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Jeśli dopisze nam szczęście, to koniec ataku na Podmiasto.",
+      "metadata": {
+        "string_id": 1514,
+        "speaker_string_id": 1515,
+        "dialogue_id": "A2MU-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Chyba czas zgłosić się do Sylwany.",
+      "metadata": {
+        "string_id": 1519,
+        "speaker_string_id": 1520,
+        "dialogue_id": "A2MU-M010-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Anyu, kapitanie Bandarion. Zdajcie raport.",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A2MU-C040-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Podmiasto jest bezpieczne, ale atak spowodował... ogromne szkody.",
+      "metadata": {
+        "string_id": 1528,
+        "speaker_string_id": 1529,
+        "dialogue_id": "A2MU-C040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Osaczyli nas ci, którzy pragną naszej zguby. Osady Porzuconych w Tirisfalu mogą być w poważnym niebezpieczeństwie.",
+      "metadata": {
+        "string_id": 1754,
+        "speaker_string_id": 1755,
+        "dialogue_id": "A2MU-C040-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Szkarłatna Krucjata musi zostać zlikwidowana. Zajmijcie się tutejszymi kryzysami, jeśli macie na to ochotę, ale nie ociągajcie się z pogonią za fanatykami.",
+      "metadata": {
+        "string_id": 1760,
+        "speaker_string_id": 1761,
+        "dialogue_id": "A2MU-C040-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Tak się stanie, Mroczna Pani.",
+      "metadata": {
+        "string_id": 1543,
+        "speaker_string_id": 1544,
+        "dialogue_id": "A2MU-C040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Kapitanie Bandarionie, raz jeszcze potrzebuję twej pomocy.",
+      "metadata": {
+        "string_id": 1547,
+        "speaker_string_id": 1548,
+        "dialogue_id": "A2MU-M040-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Szkarłatna Krucjata przebiła się do miasta, używając materiałów wybuchowych. Przy okazji odkryła sieć starych tuneli górniczych.",
+      "metadata": {
+        "string_id": 1552,
+        "speaker_string_id": 1553,
+        "dialogue_id": "A2MU-M040-020-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Zamiast je wzmacniać, chyba rozsądniej będzie odciąć je za pomocą naszych materiałów wybuchowych.",
+      "metadata": {
+        "string_id": 1559,
+        "speaker_string_id": 1560,
+        "dialogue_id": "A2MU-M040-030-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To dobry plan. Daj nam bomby, a dopilnujemy, by nikt już nigdy nie użył tych tuneli.",
+      "metadata": {
+        "string_id": 1563,
+        "speaker_string_id": 1564,
+        "dialogue_id": "A2MU-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Anyu, Gareku. Te szkarłatne błazny wdarły się do mojego laboratorium i wypuściły jeden z eksperymentów!",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A2MU-M030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Nie mogę pozwolić, by biegał wolno po Podmieście. Znajdźcie go i schwytajcie, już!",
+      "metadata": {
+        "string_id": 1780,
+        "speaker_string_id": 1781,
+        "dialogue_id": "A2MU-M030-020-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Czyli potrzebujesz pomocy przy sprzątaniu twojego bałaganu? Wypadałoby poprosić grzeczniej.",
+      "metadata": {
+        "string_id": 1577,
+        "speaker_string_id": 1578,
+        "dialogue_id": "A2MU-M030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Byłbym niezmiernie wdzięczny za waszą pomoc w tej kwestii.",
+      "metadata": {
+        "string_id": 2500,
+        "speaker_string_id": 2501,
+        "dialogue_id": "A2MU-M030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Zajmiemy się tym, Putressie.",
+      "metadata": {
+        "string_id": 2502,
+        "speaker_string_id": 2503,
+        "dialogue_id": "A2MU-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Weźcie to serum ze sobą. Zapewni wam tymczasową kontrolę nad pomniejszymi eksperymentami.",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Bandarionie, Anyu. Mamy problem w dzielnicy magicznej. Jedna z banshee oszalała.",
+      "metadata": {
+        "string_id": 1591,
+        "speaker_string_id": 1592,
+        "dialogue_id": "A2MU-M020-010-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Magowie twierdzą, że uszkodzony filar kontroli umysłu doprowadził ją do szału. Szczerze mówiąc, niezbyt obchodzi mnie powód.",
+      "metadata": {
+        "string_id": 1596,
+        "speaker_string_id": 1597,
+        "dialogue_id": "A2MU-M020-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Zajmijcie się tym, jak uznacie za słuszne. Jeśli będzie trzeba zlikwidować rozszalałą zjawę, niech tak będzie.",
+      "metadata": {
+        "string_id": 1601,
+        "speaker_string_id": 1602,
+        "dialogue_id": "A2MU-M020-030-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Oby do tego nie doszło. Zostaw to nam, Varimathrasie.",
+      "metadata": {
+        "string_id": 1605,
+        "speaker_string_id": 1606,
+        "dialogue_id": "A2MU-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Leonid Barthalomew. Nie spodziewałam się, że jeszcze kiedykolwiek cię tu zobaczę.",
+      "metadata": {
+        "string_id": 1762,
+        "speaker_string_id": 1763,
+        "dialogue_id": "A2MU-C050-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Leonid",
+      "text": "Wybacz mi najście, pani Bieżywiatr, ale okoliczności tego wymagały.",
+      "metadata": {
+        "string_id": 1614,
+        "speaker_string_id": 1615,
+        "dialogue_id": "A2MU-C050-020-LEONID"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Odparliśmy Szkarłatną Krucjatę, ale teraz zbierają siły w swoim klasztorze.",
+      "metadata": {
+        "string_id": 1619,
+        "speaker_string_id": 1620,
+        "dialogue_id": "A2MU-C050-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Leonid śledzi ich posunięcia i może pokazać naszym wojskom, gdzie uderzyć.",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A2MU-C050-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Rozumiem. A jakie jest twoje zdanie, Anyu? Możemy zaufać Leonidowi w tej kwestii?",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A2MU-C050-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Brzydzę się myślą, że miałabym zaufać komuś, kto służy Światłości. A co dopiero komuś, kto porzucił własnych ludzi.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A2MU-C050-060-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ale... Leonid pokazał, że można na nim polegać. I naraził się na niebezpieczeństwo, by bronić naszych wiosek.",
+      "metadata": {
+        "string_id": 1639,
+        "speaker_string_id": 1640,
+        "dialogue_id": "A2MU-C050-070-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Znakomicie. Szkarłatna Krucjata pożałuje dnia, w którym nastawiła Porzuconych przeciwko sobie.",
+      "metadata": {
+        "string_id": 1772,
+        "speaker_string_id": 1773,
+        "dialogue_id": "A2MU-C050-080-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Kapitanie Bandarionie, jeśli znów udajesz się na powierzchnię, mam do ciebie małą prośbę.",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A2MU-M045-010-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Mroczna Pani powierzyła mi zadanie odbudowy wiosek zaatakowanych przez Szkarłatną Krucjatę.",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A2MU-M045-020-BERND"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Ale zanim zacznę, potrzebuję szczegółowego raportu o szkodach, bym mógł się przygotować. Możesz zebrać dla mnie te informacje?",
+      "metadata": {
+        "string_id": 1658,
+        "speaker_string_id": 1659,
+        "dialogue_id": "A2MU-M045-030-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Oczywiście. Wypytam mieszkańców i wrócę do ciebie.",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A2MU-M045-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Ach, oto i robotnicy, których chciałem zobaczyć.",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A2MU-M050-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "O cóż znowu chodzi, Putressie?",
+      "metadata": {
+        "string_id": 1672,
+        "speaker_string_id": 1673,
+        "dialogue_id": "A2MU-M050-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Na pewno zauważyłaś, że część fauny w Tirisfalu przeszła ostatnio dziwaczne przemiany.",
+      "metadata": {
+        "string_id": 1792,
+        "speaker_string_id": 1793,
+        "dialogue_id": "A2MU-M050-030-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Bardzo chciałbym przebadać krew tych zwierząt. Przynieś mi jej trochę, a otrzymasz sowite wynagrodzenie.",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A2MU-M050-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Dobrze. Oby było warto, Putressie.",
+      "metadata": {
+        "string_id": 1687,
+        "speaker_string_id": 1688,
+        "dialogue_id": "A2MU-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Nie wiem, jak ci dziękować. Weź te pochodnie, żeby wypalić szczurze gniazda.",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A2MU-T010-BERND"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Jesteś zbyt uprzejmy, wiesz?",
+      "metadata": {
+        "string_id": 2263,
+        "speaker_string_id": 2264,
+        "dialogue_id": "A2MU-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Moim zadaniem jest pomagać ludziom, a nie ich odpychać.",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "A2MU-T030-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To tyle, jeśli chodzi o szczury. Zajmijmy się śluzem.",
+      "metadata": {
+        "string_id": 1700,
+        "speaker_string_id": 1701,
+        "dialogue_id": "A2MU-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To chyba wszystko. Wracajmy do dzielnicy wojennej.",
+      "metadata": {
+        "string_id": 1704,
+        "speaker_string_id": 1705,
+        "dialogue_id": "A2MU-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Trudno uwierzyć, jak bardzo rozbudowaliśmy Podmiasto przez ostatni rok.",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A2MU-T060-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Fakt, że nasi pracownicy nie potrzebują jedzenia ani snu, jest bardzo pomocny.",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A2MU-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Widzę, że na tej rurze jest dźwignia. Gdy ją pociągnę, odetnę przepływ, a wtedy śluz nie będzie miał ujścia.",
+      "metadata": {
+        "string_id": 1717,
+        "speaker_string_id": 1718,
+        "dialogue_id": "A2MU-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To powinno wystarczyć. Wracajmy do dzielnicy wojennej.",
+      "metadata": {
+        "string_id": 1721,
+        "speaker_string_id": 1722,
+        "dialogue_id": "A2MU-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To powinno załatwić kwestię śluzu. Teraz pora wytępić szczury.",
+      "metadata": {
+        "string_id": 1725,
+        "speaker_string_id": 1726,
+        "dialogue_id": "A2MU-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Bernd się ucieszy, że może wznowić pracę.",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A2MU-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To prawda. Choć to dziwne... jego załogi nigdy wcześniej nie natrafiały na takie problemy.",
+      "metadata": {
+        "string_id": 1734,
+        "speaker_string_id": 1735,
+        "dialogue_id": "A2MU-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Atakują nas! Straż Śmierci, do broni!",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A2MU-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Trzymajcie szyk! Anya i ja zabezpieczymy resztę Podmiasta!",
+      "metadata": {
+        "string_id": 1742,
+        "speaker_string_id": 1743,
+        "dialogue_id": "A2MU-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dzielnicę wojenną blokuje gruz. Musimy załadować wozy z mięsem, by oczyścić drogę.",
+      "metadata": {
+        "string_id": 1809,
+        "speaker_string_id": 1810,
+        "dialogue_id": "A2MU-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "Garitos",
+      "text": "Garitos zabije ludzi! Na śmierć!",
+      "metadata": {
+        "string_id": 1817,
+        "speaker_string_id": 1818,
+        "dialogue_id": "A2MU-T160-GARITHOS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Za nami, Garitosie!",
+      "metadata": {
+        "string_id": 1822,
+        "speaker_string_id": 1823,
+        "dialogue_id": "A2MU-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Straż Śmierci",
+      "text": "Kapitanie Bandarion! Utrzymamy tę salę, a ty ruszaj naprzód.",
+      "metadata": {
+        "string_id": 1881,
+        "speaker_string_id": 1882,
+        "dialogue_id": "A2MU-T180-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "Kapitan Szkarłatnej Krucjaty",
+      "text": "Zewrzeć szyki! Światłość was ochroni, gdy będziecie zarzynać te demony!",
+      "metadata": {
+        "string_id": 1887,
+        "speaker_string_id": 1888,
+        "dialogue_id": "A2MU-T190-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dzielnica wojenna jest bezpieczna! Straż Śmierci, bronić pozycji!",
+      "metadata": {
+        "string_id": 1895,
+        "speaker_string_id": 1896,
+        "dialogue_id": "A2MU-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Szkarłatna Krucjata... pierwsze słyszę.",
+      "metadata": {
+        "string_id": 1901,
+        "speaker_string_id": 1902,
+        "dialogue_id": "A2MU-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "To pewnie kolejna grupa zaślepionych Światłością fanatyków. Srebrna Dłoń pod inną nazwą.",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A2MU-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Mimo ich zapewnień nie sądzę, by to Światłość nimi kierowała.",
+      "metadata": {
+        "string_id": 1908,
+        "speaker_string_id": 1909,
+        "dialogue_id": "A2MU-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Anyu, Gareku! Odpędźcie ode mnie tych idiotów!",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A2MU-T240-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Trochę wam to zajęło! A teraz osłaniajcie mnie, a ja przygotuję zarazę!",
+      "metadata": {
+        "string_id": 1924,
+        "speaker_string_id": 1925,
+        "dialogue_id": "A2MU-T250-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Proszę, to może pomóc! Albo i nie.",
+      "metadata": {
+        "string_id": 1928,
+        "speaker_string_id": 1929,
+        "dialogue_id": "A2MU-T260-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "I nie mówcie, że nic nigdy dla was nie zrobiłem!",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A2MU-T270-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Przygotowałem dla was zapasowy eliksir. Nie zmarnujcie go!",
+      "metadata": {
+        "string_id": 1949,
+        "speaker_string_id": 1950,
+        "dialogue_id": "A2MU-T280-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Macie szczęście, że wam pomagam!",
+      "metadata": {
+        "string_id": 1953,
+        "speaker_string_id": 1954,
+        "dialogue_id": "A2MU-T290-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Wypijcie i to szybko!",
+      "metadata": {
+        "string_id": 1961,
+        "speaker_string_id": 1962,
+        "dialogue_id": "A2MU-T300-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "I pomyśleć, że zniżam się do mieszania dla was toników.",
+      "metadata": {
+        "string_id": 1969,
+        "speaker_string_id": 1970,
+        "dialogue_id": "A2MU-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Warzenie takich eliksirów uwłacza Wielkiemu Aptekarzowi.",
+      "metadata": {
+        "string_id": 1975,
+        "speaker_string_id": 1976,
+        "dialogue_id": "A2MU-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Ach, zaraza jest gotowa!",
+      "metadata": {
+        "string_id": 1981,
+        "speaker_string_id": 1982,
+        "dialogue_id": "A2MU-T330-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Śmierć żywym!",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "A2MU-T340-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Sądzę, że Aptekarium jest bezpieczne. Możecie zmykać.",
+      "metadata": {
+        "string_id": 1996,
+        "speaker_string_id": 1997,
+        "dialogue_id": "A2MU-T350-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nie ma za co, Putressie.",
+      "metadata": {
+        "string_id": 2003,
+        "speaker_string_id": 2004,
+        "dialogue_id": "A2MU-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Gińcie, żałośni fanatycy!",
+      "metadata": {
+        "string_id": 2009,
+        "speaker_string_id": 2010,
+        "dialogue_id": "A2MU-T370-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Zajmę się resztą tych szkodników. Ruszajcie do dzielnicy magii!",
+      "metadata": {
+        "string_id": 2015,
+        "speaker_string_id": 2016,
+        "dialogue_id": "A2MU-T380-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Miesiące budowy zniweczone w sekundę. Ci fanatycy za to zapłacą.",
+      "metadata": {
+        "string_id": 2227,
+        "speaker_string_id": 2228,
+        "dialogue_id": "A2MU-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Podmiasto zawsze można odbudować. Teraz ważne jest, by chronić naszych ludzi.",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "A2MU-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Gareku, ten filar przypomina konstrukcje, które kontrolują pojmanych.",
+      "metadata": {
+        "string_id": 2028,
+        "speaker_string_id": 2029,
+        "dialogue_id": "A2MU-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Może więc uda nam się je wykorzystać, żeby kontrolować umysły naszych wrogów.",
+      "metadata": {
+        "string_id": 2035,
+        "speaker_string_id": 2036,
+        "dialogue_id": "A2MU-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Inkwizytor",
+      "text": "Twoja czarna magia mnie się nie ima! Poddaj się osądowi Światłości!",
+      "metadata": {
+        "string_id": 2043,
+        "speaker_string_id": 2044,
+        "dialogue_id": "A2MU-T430-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Hmm. Kto potrzebuje magii, gdy miecz załatwia sprawę?",
+      "metadata": {
+        "string_id": 2047,
+        "speaker_string_id": 2048,
+        "dialogue_id": "A2MU-T440-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Zabezpieczyliśmy okolicę. Udajmy się do dzielnicy łotrzyków.",
+      "metadata": {
+        "string_id": 2057,
+        "speaker_string_id": 2058,
+        "dialogue_id": "A2MU-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Szkarłatny dowódca Mograine",
+      "text": "Szkarłatna Krucjata zlikwiduje takie poczwary jak wy!",
+      "metadata": {
+        "string_id": 2063,
+        "speaker_string_id": 2064,
+        "dialogue_id": "A2MU-T460-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Szkarłatny dowódca Mograine",
+      "text": "Potwory! Trzeba was oczyścić!",
+      "metadata": {
+        "string_id": 2069,
+        "speaker_string_id": 2070,
+        "dialogue_id": "A2MU-T470-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Gareku, kryj się!",
+      "metadata": {
+        "string_id": 2073,
+        "speaker_string_id": 2074,
+        "dialogue_id": "A2MU-T480-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Udajmy się do centrum Podmiasta. Po drodze możemy ocenić szkody.",
+      "metadata": {
+        "string_id": 2077,
+        "speaker_string_id": 2078,
+        "dialogue_id": "A2MU-T490-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Atak na taką skalę wymagałby miesięcy planowania.",
+      "metadata": {
+        "string_id": 2081,
+        "speaker_string_id": 2082,
+        "dialogue_id": "A2MU-T500-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "I sporej liczby żołnierzy – muszą mieć w pobliżu fortecę.",
+      "metadata": {
+        "string_id": 2088,
+        "speaker_string_id": 2089,
+        "dialogue_id": "A2MU-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "W dzielnicy handlowej trwają prace remontowe. Na razie ją omijaj i udaj się prosto na powierzchnię.",
+      "metadata": {
+        "string_id": 2094,
+        "speaker_string_id": 2095,
+        "dialogue_id": "A2MU-T520-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Uważaj na to – nie chcesz znaleźć się w zasięgu wybuchu!",
+      "metadata": {
+        "string_id": 2100,
+        "speaker_string_id": 2101,
+        "dialogue_id": "A2MU-T530-BERND"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Te tunele są stare i opuszczone. Z pewnością od dawna nikogo tu nie było.",
+      "metadata": {
+        "string_id": 2106,
+        "speaker_string_id": 2107,
+        "dialogue_id": "A2MU-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Żołnierze Szkarłatnej Krucjaty! Zabij ich i podłóż ładunki wybuchowe!",
+      "metadata": {
+        "string_id": 2112,
+        "speaker_string_id": 2113,
+        "dialogue_id": "A2MU-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Jeden wyłom usunięty. Pora na pozostałe.",
+      "metadata": {
+        "string_id": 2118,
+        "speaker_string_id": 2119,
+        "dialogue_id": "A2MU-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Co to za miejsce?",
+      "metadata": {
+        "string_id": 2122,
+        "speaker_string_id": 2123,
+        "dialogue_id": "A2MU-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Nie wiem, ale jest bardzo stare. Być może starsze niż Lordaeron.",
+      "metadata": {
+        "string_id": 2127,
+        "speaker_string_id": 2128,
+        "dialogue_id": "A2MU-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "To jakiś ołtarz. Czuję, jak mnie przyzywa...",
+      "metadata": {
+        "string_id": 2133,
+        "speaker_string_id": 2134,
+        "dialogue_id": "A2MU-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "To chyba była niezła przygoda. Ciekawe, co jeszcze jest wokół nas zakopane.",
+      "metadata": {
+        "string_id": 2139,
+        "speaker_string_id": 2140,
+        "dialogue_id": "A2MU-T600-BERND"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Wygląda na to, że Szkarłatna Krucjata znalazła więcej, niż chciała.",
+      "metadata": {
+        "string_id": 2143,
+        "speaker_string_id": 2144,
+        "dialogue_id": "A2MU-T610-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Możliwe. Może większe okazy dałyby radę wepchnąć to coś z powrotem do celi.",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Będę musiał stworzyć nowy okaz od początku. Całe miesiące eksperymentów poszły na marne!",
+      "metadata": {
+        "string_id": 2251,
+        "speaker_string_id": 2252,
+        "dialogue_id": "A2MU-T630-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Zbadam ten okaz później. Po zabiciu tych szkarłatnych głupków z pewnością zyskam wartościowe dane.",
+      "metadata": {
+        "string_id": 2172,
+        "speaker_string_id": 2173,
+        "dialogue_id": "A2MU-T640-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Kapitanie Bandarion, dzięki niech będą Mrocznej Pani, że tu jesteś! Potrzebujemy czasu, by przestawić runy na filarze!",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "A2MU-T650-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Dopilnuj, żeby ta banshee nas nie atakowała, to może obejdzie się bez rozlewu krwi!",
+      "metadata": {
+        "string_id": 2596,
+        "speaker_string_id": 2597,
+        "dialogue_id": "A2MU-T660-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Nie! Gdybyśmy tylko pracowali szybciej, może udałoby się uniknąć tego losu.",
+      "metadata": {
+        "string_id": 2604,
+        "speaker_string_id": 2605,
+        "dialogue_id": "A2MU-T670-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Doskonale! W przyszłości będę musiał wzmocnić te filary.",
+      "metadata": {
+        "string_id": 2555,
+        "speaker_string_id": 2556,
+        "dialogue_id": "A2MU-T680-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Varimathras",
+      "text": "Słyszę, że wrzaski ustały. Nie wiem, jak wam się udało je uciszyć, ale zasługujecie na nagrodę.",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "A2MU-T690-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Cóż za hojność.",
+      "metadata": {
+        "string_id": 2209,
+        "speaker_string_id": 2210,
+        "dialogue_id": "A2MU-T700-ANYA"
+      }
+    },
+    {
+      "speaker": "Sylwana",
+      "text": "Dobrze się przygotujcie. Gdy rozpoczniemy oblężenie Szkarłatnego Klasztoru, nie będzie odwrotu.",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "A2MU-T710-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Bernd",
+      "text": "Naprawa szkód, jakie wyrządziła Szkarłatna Krucjata, zajmie całe tygodnie. Lepiej wezmę się do pracy.",
+      "metadata": {
+        "string_id": 2217,
+        "speaker_string_id": 2218,
+        "dialogue_id": "A2MU-T720-BERND"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Hmm, tylko tyle krwi? Cóż, lepsza mała próbka niż nic.",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "A2MU-T730-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Golem osłabł! Innym okazom może uda się go odeprzeć!",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "A2MU-T613-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nic dziwnego, że Szkarłatna Krucjata poległa w starciu z tym monstrum.",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "A2MU-T614-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Czyli musieliśmy zlikwidować pupilka Putressa. No cóż.",
+      "metadata": {
+        "string_id": 2535,
+        "speaker_string_id": 2536,
+        "dialogue_id": "A2MU-T615-ANYA"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Nie musicie zabijać banshee, tylko ją powstrzymajcie!",
+      "metadata": {
+        "string_id": 2562,
+        "speaker_string_id": 2563,
+        "dialogue_id": "A2MU-T661-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Naprawa dobrze nam idzie. Nie przestawajcie!",
+      "metadata": {
+        "string_id": 2573,
+        "speaker_string_id": 2574,
+        "dialogue_id": "A2MU-T662-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Lexington",
+      "text": "Filar jest prawie naprawiony!",
+      "metadata": {
+        "string_id": 2584,
+        "speaker_string_id": 2585,
+        "dialogue_id": "A2MU-T663-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Putress",
+      "text": "Weźcie to serum ze sobą. Zapewni wam tymczasową kontrolę nad pomniejszymi eksperymentami.",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Możliwe. Może większe okazy dałyby radę wepchnąć to coś z powrotem do celi.",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    }
+  ]
+}

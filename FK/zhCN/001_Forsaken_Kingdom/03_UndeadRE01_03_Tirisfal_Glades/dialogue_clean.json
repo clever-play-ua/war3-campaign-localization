@@ -1,0 +1,755 @@
+{
+  "map": "UndeadRE01",
+  "title": "Tirisfal Glades",
+  "locale": "zhCN",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "法拉尼尔",
+      "text": "恩雅，我们一直在等你。普特雷斯把需要的试剂清单给我们发过来了。",
+      "metadata": {
+        "string_id": 2177,
+        "speaker_string_id": 2178,
+        "dialogue_id": "A1M3-M020-010-FARANELL"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "他想得倒周到。我猜你们进展应该挺顺利的吧？",
+      "metadata": {
+        "string_id": 1840,
+        "speaker_string_id": 1841,
+        "dialogue_id": "A1M3-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "法拉尼尔",
+      "text": "还可以。虽然我真的很怀念自己实验室那种舒适的环境。",
+      "metadata": {
+        "string_id": 1826,
+        "speaker_string_id": 1827,
+        "dialogue_id": "A1M3-M020-030-FARANELL"
+      }
+    },
+    {
+      "speaker": "梅里萨拉",
+      "text": "恩雅，葛尔多那个白痴又不见了。要是你碰到他，能把他拽回营地来吗？",
+      "metadata": {
+        "string_id": 1838,
+        "speaker_string_id": 1839,
+        "dialogue_id": "A1M3-M020-040-MELISARA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我们会留意的。愿黑暗女王庇护你。",
+      "metadata": {
+        "string_id": 1842,
+        "speaker_string_id": 1843,
+        "dialogue_id": "A1M3-M020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "喂！能不能过来帮把手！不会让你们白干的！",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M3-M030-010-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "好，你说说看。",
+      "metadata": {
+        "string_id": 1862,
+        "speaker_string_id": 1863,
+        "dialogue_id": "A1M3-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "我们遭到了豺狼人的埋伏，不得不丢下货物跑路。如果你们能帮我们把货抢回来，我们愿意分你们四分之一。",
+      "metadata": {
+        "string_id": 1870,
+        "speaker_string_id": 1871,
+        "dialogue_id": "A1M3-M030-030-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "对半开，不行我们就走。",
+      "metadata": {
+        "string_id": 1880,
+        "speaker_string_id": 1881,
+        "dialogue_id": "A1M3-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "对半开？！你这是趁火打劫！",
+      "metadata": {
+        "string_id": 1874,
+        "speaker_string_id": 1875,
+        "dialogue_id": "A1M3-M030-050-GLIX"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "好吧……反正我们今天已经被打劫过一次了。行，成交。",
+      "metadata": {
+        "string_id": 1878,
+        "speaker_string_id": 1879,
+        "dialogue_id": "A1M3-M030-060-GLIX"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "哎呀，你成功了！我们的货也原封不动回来了！",
+      "metadata": {
+        "string_id": 1891,
+        "speaker_string_id": 1892,
+        "dialogue_id": "A1M3-M040-010-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "嗯，那现在是不是该谈谈我们的酬劳了？",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M3-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "没问题！我们很乐意亲自把你们那一半物资送到你们的，呃，是叫幽暗城对吧？",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A1M3-M040-030-GLIX"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "还有什么比这更能向我们的新客户——不对——我们慷慨好客的主人表达谢意呢？",
+      "metadata": {
+        "string_id": 1910,
+        "speaker_string_id": 1911,
+        "dialogue_id": "A1M3-M040-040-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你这狡猾的小——",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A1M3-M040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "哇哦！当然，这是你们应得的劳务费！一点小意思，不成敬意！",
+      "metadata": {
+        "string_id": 1922,
+        "speaker_string_id": 1923,
+        "dialogue_id": "A1M3-M040-060-GLIX"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那我们就慷慨接受你的提议，因为你们的货可以帮到被遗忘者。那咱们城里见。",
+      "metadata": {
+        "string_id": 1926,
+        "speaker_string_id": 1927,
+        "dialogue_id": "A1M3-M040-070-GAREK"
+      }
+    },
+    {
+      "speaker": "法拉尼尔",
+      "text": "恩雅，我们一直在等你。普特雷斯把需要的试剂清单给我们发过来了。",
+      "metadata": {
+        "string_id": 2177,
+        "speaker_string_id": 2178,
+        "dialogue_id": "A1M3-M020-010-FARANELL"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "他想得倒周到。我猜你们进展应该挺顺利的吧？",
+      "metadata": {
+        "string_id": 1840,
+        "speaker_string_id": 1841,
+        "dialogue_id": "A1M3-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "法拉尼尔",
+      "text": "还可以。虽然我真的很怀念自己实验室那种舒适的环境。",
+      "metadata": {
+        "string_id": 1826,
+        "speaker_string_id": 1827,
+        "dialogue_id": "A1M3-M020-030-FARANELL"
+      }
+    },
+    {
+      "speaker": "梅里萨拉",
+      "text": "恩雅，葛尔多那个白痴又不见了。要是你碰到他，能把他拽回营地来吗？",
+      "metadata": {
+        "string_id": 1838,
+        "speaker_string_id": 1839,
+        "dialogue_id": "A1M3-M020-040-MELISARA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我们会留意的。愿黑暗女王庇护你。",
+      "metadata": {
+        "string_id": 1842,
+        "speaker_string_id": 1843,
+        "dialogue_id": "A1M3-M020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "喂！能不能过来帮把手！不会让你们白干的！",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M3-M030-010-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "好，你说说看。",
+      "metadata": {
+        "string_id": 1862,
+        "speaker_string_id": 1863,
+        "dialogue_id": "A1M3-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "我们遭到了豺狼人的埋伏，不得不丢下货物跑路。如果你们能帮我们把货抢回来，我们愿意分你们四分之一。",
+      "metadata": {
+        "string_id": 1870,
+        "speaker_string_id": 1871,
+        "dialogue_id": "A1M3-M030-030-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "对半开，不行我们就走。",
+      "metadata": {
+        "string_id": 1880,
+        "speaker_string_id": 1881,
+        "dialogue_id": "A1M3-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "对半开？！你这是趁火打劫！",
+      "metadata": {
+        "string_id": 1874,
+        "speaker_string_id": 1875,
+        "dialogue_id": "A1M3-M030-050-GLIX"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "好吧……反正我们今天已经被打劫过一次了。行，成交。",
+      "metadata": {
+        "string_id": 1878,
+        "speaker_string_id": 1879,
+        "dialogue_id": "A1M3-M030-060-GLIX"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "哎呀，你成功了！我们的货也原封不动回来了！",
+      "metadata": {
+        "string_id": 1891,
+        "speaker_string_id": 1892,
+        "dialogue_id": "A1M3-M040-010-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "嗯，那现在是不是该谈谈我们的酬劳了？",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M3-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "没问题！我们很乐意亲自把你们那一半物资送到你们的，呃，是叫幽暗城对吧？",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A1M3-M040-030-GLIX"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "还有什么比这更能向我们的新客户——不对——我们慷慨好客的主人表达谢意呢？",
+      "metadata": {
+        "string_id": 1910,
+        "speaker_string_id": 1911,
+        "dialogue_id": "A1M3-M040-040-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你这狡猾的小——",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A1M3-M040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "哇哦！当然，这是你们应得的劳务费！一点小意思，不成敬意！",
+      "metadata": {
+        "string_id": 1922,
+        "speaker_string_id": 1923,
+        "dialogue_id": "A1M3-M040-060-GLIX"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那我们就慷慨接受你的提议，因为你们的货可以帮到被遗忘者。那咱们城里见。",
+      "metadata": {
+        "string_id": 1926,
+        "speaker_string_id": 1927,
+        "dialogue_id": "A1M3-M040-070-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "那只食尸鬼好像是在钓鱼。我以前还真没见过这种事。",
+      "metadata": {
+        "string_id": 1929,
+        "speaker_string_id": 1930,
+        "dialogue_id": "A1M3-T780-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "快，追上他们！",
+      "metadata": {
+        "string_id": 1932,
+        "speaker_string_id": 1933,
+        "dialogue_id": "A1M3-T790-GAREK"
+      }
+    },
+    {
+      "speaker": "高克鲁斯",
+      "text": "我要砸扁你！",
+      "metadata": {
+        "string_id": 2184,
+        "speaker_string_id": 1567,
+        "dialogue_id": "OgreYesAttack1"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "前方有一座黑暗游侠营地。我们先去那里探查一番吧。",
+      "metadata": {
+        "string_id": 1589,
+        "speaker_string_id": 1590,
+        "dialogue_id": "A1M3-T010-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "一种邪恶的疫病在这片森林里蔓延。",
+      "metadata": {
+        "string_id": 1598,
+        "speaker_string_id": 1599,
+        "dialogue_id": "A1M3-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这是天灾军团的杰作。他们企图污秽整个洛丹伦。",
+      "metadata": {
+        "string_id": 1611,
+        "speaker_string_id": 1612,
+        "dialogue_id": "A1M3-T270-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "现在这片土地属于被遗忘者。无论是天灾军团还是活人，都休想踏入半步。",
+      "metadata": {
+        "string_id": 1613,
+        "speaker_string_id": 1614,
+        "dialogue_id": "A1M3-T280-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "作为被遗忘者，你可能会对蜘蛛产生莫名的亲近感。但小心驶得万年船，接近的时候还是谨慎点好。",
+      "metadata": {
+        "string_id": 1620,
+        "speaker_string_id": 1621,
+        "dialogue_id": "A1M3-T210-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "鱼人。一种恶心的生物，但它们的鳞片在炼金术里用处颇多。",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A1M3-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "恩雅，说起来，我最开始是怎么落到普特雷斯的皇家药剂师协会手里的？",
+      "metadata": {
+        "string_id": 1629,
+        "speaker_string_id": 1630,
+        "dialogue_id": "A1M3-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "希尔瓦娜斯女王前来收复都城的时候，你就在驻守城市的天灾军团叛军里。",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A1M3-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "战斗结束之后，我们把剩下的亡灵集中起来，送到了普特雷斯那里进行……加工。",
+      "metadata": {
+        "string_id": 1643,
+        "speaker_string_id": 1644,
+        "dialogue_id": "A1M3-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这么说，我在天灾军团的时候跟希尔瓦娜斯交过手？即便如此，她依然欢迎我加入被遗忘者？",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A1M3-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "她太清楚被迫听从巫妖王摆布是什么滋味了。",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A1M3-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "无论生前犯过什么错，她都不会把一个刚刚觉醒的被遗忘者拒之门外。",
+      "metadata": {
+        "string_id": 1657,
+        "speaker_string_id": 1658,
+        "dialogue_id": "A1M3-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那你呢，恩雅？你是怎么加入被遗忘者的？",
+      "metadata": {
+        "string_id": 1660,
+        "speaker_string_id": 1661,
+        "dialogue_id": "A1M3-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我生前就是希尔瓦娜斯的部下。我们都在抵抗天灾军团的保卫战中牺牲了。然后，我们都被复活成了亡灵。",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A1M3-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我重获自由意志后，黑暗女王给了我一个容身之所。为此，我永远效忠于她。",
+      "metadata": {
+        "string_id": 1668,
+        "speaker_string_id": 1669,
+        "dialogue_id": "A1M3-T100-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那你还记得在受巫妖王控制时被迫做过什么吗？",
+      "metadata": {
+        "string_id": 1673,
+        "speaker_string_id": 1674,
+        "dialogue_id": "A1M3-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "记得，但我不想谈论这件事，加瑞克。这不是针对你，对所有人都是这样。",
+      "metadata": {
+        "string_id": 1677,
+        "speaker_string_id": 1678,
+        "dialogue_id": "A1M3-T120-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "沉溺于过去也改变不了什么。最好还是向前看，别回头。",
+      "metadata": {
+        "string_id": 1681,
+        "speaker_string_id": 1682,
+        "dialogue_id": "A1M3-T130-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "看来许多被遗忘者都有着和你类似的经历。饱受亡灵之身的诅咒，却依然在这残酷的命运中寻找着出路。",
+      "metadata": {
+        "string_id": 1686,
+        "speaker_string_id": 1687,
+        "dialogue_id": "A1M3-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我们的确都能感受到这份痛苦，也因而团结在一起。世人把我们视作妖魔，所以我们能依靠的只有彼此。",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A1M3-T150-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那我会努力成为一个值得依靠的人。为了希尔瓦娜斯女王，也为了被遗忘者。",
+      "metadata": {
+        "string_id": 1698,
+        "speaker_string_id": 1699,
+        "dialogue_id": "A1M3-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "普特雷斯要的东西全齐了。回幽暗城去吧。",
+      "metadata": {
+        "string_id": 1703,
+        "speaker_string_id": 1704,
+        "dialogue_id": "A1M3-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "葛尔多",
+      "text": "黏糊糊的网！葛尔多需要帮忙！",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A1M3-T220-GORDO"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "又是你惹出的麻烦，葛尔多！",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A1M3-T230-ANYA"
+      }
+    },
+    {
+      "speaker": "葛尔多",
+      "text": "葛尔多自由了！现在就回营地去！",
+      "metadata": {
+        "string_id": 1716,
+        "speaker_string_id": 1717,
+        "dialogue_id": "A1M3-T240-GORDO"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "别再乱跑了。",
+      "metadata": {
+        "string_id": 1719,
+        "speaker_string_id": 1720,
+        "dialogue_id": "A1M3-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "梅里萨拉",
+      "text": "葛尔多在外面瞎晃的时候顺便收集了一些东西。或许值得去瞧瞧。",
+      "metadata": {
+        "string_id": 1724,
+        "speaker_string_id": 1725,
+        "dialogue_id": "A1M3-T310-MELISARA"
+      }
+    },
+    {
+      "speaker": "格利克斯",
+      "text": "豺狼人营地在南边。别死了啊！我是说，别再死一次。",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A1M3-T170-GLIX"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我们就这么直接让他们在幽暗城里设立店铺？",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A1M3-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "被遗忘者需要物资，而地精正好有物资。如果他们必须仰仗幽暗城的保护……",
+      "metadata": {
+        "string_id": 1740,
+        "speaker_string_id": 1741,
+        "dialogue_id": "A1M3-T190-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这样一来，黑暗女王就能在谈判桌上占据绝对的定价主导权。干得漂亮，班达隆。",
+      "metadata": {
+        "string_id": 1743,
+        "speaker_string_id": 1744,
+        "dialogue_id": "A1M3-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "采石场在森林北边。走吧。",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A1M3-T320-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "幸好伯恩德还记得生前的石匠手艺。他的本事能为幽暗城提供很多帮助。",
+      "metadata": {
+        "string_id": 1756,
+        "speaker_string_id": 1757,
+        "dialogue_id": "A1M3-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这么看来，我们生前经历的事情，到头来也并非毫无价值。",
+      "metadata": {
+        "string_id": 1765,
+        "speaker_string_id": 1766,
+        "dialogue_id": "A1M3-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "哼，你一个刚苏醒不久的人，在这方面倒是能说得头头是道。",
+      "metadata": {
+        "string_id": 1769,
+        "speaker_string_id": 1770,
+        "dialogue_id": "A1M3-T350-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "呃，哈哈。就像你说的嘛，我领悟得很快，不是吗？",
+      "metadata": {
+        "string_id": 1771,
+        "speaker_string_id": 1772,
+        "dialogue_id": "A1M3-T360-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "看来食人魔已经筑起了防御工事。",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A1M3-T370-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "那我们得做个抉择了。要么直接正面强攻，要么找别的入口绕过去。",
+      "metadata": {
+        "string_id": 1779,
+        "speaker_string_id": 1780,
+        "dialogue_id": "A1M3-T380-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "头目一死，剩下的食人魔就会逃散到丘陵里。",
+      "metadata": {
+        "string_id": 1785,
+        "speaker_string_id": 1786,
+        "dialogue_id": "A1M3-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这处采石场能为伯恩德的施工队不断提供原料，真是太好了。",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A1M3-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "看来这样也能抓到鱼。我们把这只食尸鬼带回基佛那儿去吧。",
+      "metadata": {
+        "string_id": 1793,
+        "speaker_string_id": 1794,
+        "dialogue_id": "A1M3-T791-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "看来这只食尸鬼在战斗中活了下来。我们把它带回基佛那儿去吧。",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A1M3-T792-GAREK"
+      }
+    },
+    {
+      "speaker": "强盗头子",
+      "text": "亡灵来了！拆了他们的骨头架子，再把值钱的东西抢过来！",
+      "metadata": {
+        "string_id": 1803,
+        "speaker_string_id": 1804,
+        "dialogue_id": "A1M3-T410-BANDITLEADER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "好了，这些看起来就是基佛让我们收集的零件了。",
+      "metadata": {
+        "string_id": 1806,
+        "speaker_string_id": 1807,
+        "dialogue_id": "A1M3-T420-GAREK"
+      }
+    }
+  ]
+}

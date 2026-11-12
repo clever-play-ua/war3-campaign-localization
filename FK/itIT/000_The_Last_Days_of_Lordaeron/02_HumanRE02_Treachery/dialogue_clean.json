@@ -1,0 +1,917 @@
+{
+  "map": "HumanRE02",
+  "title": "Treachery",
+  "locale": "itIT",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Garek",
+      "text": "Dannazione! Come può essere successo? La città è ridotta in cenere...",
+      "metadata": {
+        "string_id": 2189,
+        "speaker_string_id": 2190,
+        "dialogue_id": "HRE02-C010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Dobbiamo restare concentrati. Queste persone contano su di noi, dobbiamo guidarle al sicuro.",
+      "metadata": {
+        "string_id": 2192,
+        "speaker_string_id": 2193,
+        "dialogue_id": "HRE02-C010-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Contavano già su di noi per tenerli al sicuro. E abbiamo fallito.",
+      "metadata": {
+        "string_id": 2195,
+        "speaker_string_id": 2196,
+        "dialogue_id": "HRE02-C010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Archibugiere",
+      "text": "Guardate, dei superstiti!",
+      "metadata": {
+        "string_id": 2198,
+        "speaker_string_id": 2199,
+        "dialogue_id": "HRE02-C010-040-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "Signore, siamo stati separati dalla nostra unità e siamo finiti quaggiù.",
+      "metadata": {
+        "string_id": 2766,
+        "speaker_string_id": 2767,
+        "dialogue_id": "HRE02-C010-050-FOOTMAN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Stiamo andando verso il tunnel d'uscita. Aiutateci a proteggere i civili e usciremo da qui tutti sani e salvi.",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "HRE02-C010-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Guardate! Da quanto tempo questi infami cultisti si aggiravano di soppiatto nelle fogne?",
+      "metadata": {
+        "string_id": 2207,
+        "speaker_string_id": 2208,
+        "dialogue_id": "HRE02-M010-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Erano anni che preparavano questa insurrezione. I nostri amici, i nostri vicini...",
+      "metadata": {
+        "string_id": 2210,
+        "speaker_string_id": 2211,
+        "dialogue_id": "HRE02-M010-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sapere che questo marciume stava ribollendo sotto i nostri piedi per tutto questo tempo...",
+      "metadata": {
+        "string_id": 2213,
+        "speaker_string_id": 2214,
+        "dialogue_id": "HRE02-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Lasciamo qui i civili mentre liberiamo la strada.",
+      "metadata": {
+        "string_id": 2216,
+        "speaker_string_id": 2217,
+        "dialogue_id": "HRE02-M010-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Tenete chiusi i cancelli finché non torniamo. E se non torniamo...",
+      "metadata": {
+        "string_id": 2219,
+        "speaker_string_id": 2220,
+        "dialogue_id": "HRE02-M010-050-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "...che la Luce sia con voi.",
+      "metadata": {
+        "string_id": 2222,
+        "speaker_string_id": 2223,
+        "dialogue_id": "HRE02-M010-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "La guardia cittadina! Sapevo che dovevano esserci altri sopravvissuti!",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "HRE02-M015-010-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Abbiamo con noi un gruppo di civili. Riuscite ad aprire le porte?",
+      "metadata": {
+        "string_id": 2228,
+        "speaker_string_id": 2229,
+        "dialogue_id": "HRE02-M015-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "Nossignore. Quei dannati cultisti hanno smontato il verricello. Bisogna recuperare gli ingranaggi.",
+      "metadata": {
+        "string_id": 2231,
+        "speaker_string_id": 2232,
+        "dialogue_id": "HRE02-M015-030-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Allora, a quanto pare, è ora di dare la caccia a qualche cultista.",
+      "metadata": {
+        "string_id": 2235,
+        "speaker_string_id": 2236,
+        "dialogue_id": "HRE02-M015-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Quello è il Barone Fieramorte, il signore di Stratholme!",
+      "metadata": {
+        "string_id": 2238,
+        "speaker_string_id": 2239,
+        "dialogue_id": "HRE02-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Mio signore! Abbiamo un gruppo di civili...",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "HRE02-C020-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Che fortuna. I vostri sopravvissuti diventeranno degli ottimi elementi del Flagello.",
+      "metadata": {
+        "string_id": 2244,
+        "speaker_string_id": 2245,
+        "dialogue_id": "HRE02-C020-030-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sei un lurido traditore, proprio come Arthas!",
+      "metadata": {
+        "string_id": 2247,
+        "speaker_string_id": 2248,
+        "dialogue_id": "HRE02-C020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Il nostro caro principe è solo uno strumento al servizio di un piano più grande. Un piano che io ho contribuito a concepire.",
+      "metadata": {
+        "string_id": 2250,
+        "speaker_string_id": 2251,
+        "dialogue_id": "HRE02-C020-050-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Ora questo debole e patetico regno morirà, e dalle sue ceneri sorgerà un'armata di dannati.",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "HRE02-C020-060-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Questi parassiti non sono degni di me. Massacrateli e cercate il resto dei superstiti.",
+      "metadata": {
+        "string_id": 2256,
+        "speaker_string_id": 2257,
+        "dialogue_id": "HRE02-C020-070-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Tutti verso la superficie!",
+      "metadata": {
+        "string_id": 2259,
+        "speaker_string_id": 2260,
+        "dialogue_id": "HRE02-M020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "No, Capitano. Puoi portare i sopravvissuti ad Andorhal anche senza di me.",
+      "metadata": {
+        "string_id": 2262,
+        "speaker_string_id": 2263,
+        "dialogue_id": "HRE02-M020-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Non me andrò da qui finché Fieramorte avrà respiro.",
+      "metadata": {
+        "string_id": 2265,
+        "speaker_string_id": 2266,
+        "dialogue_id": "HRE02-M020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Garek, è una follia. Non puoi davvero pensare di poter...",
+      "metadata": {
+        "string_id": 2268,
+        "speaker_string_id": 2269,
+        "dialogue_id": "HRE02-M020-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Non sarà fatta giustizia, finché qualcuno non gliela impone con la forza. Se non ora, quando?",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "HRE02-M020-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Soldato, ti affido questi civili.",
+      "metadata": {
+        "string_id": 2274,
+        "speaker_string_id": 2275,
+        "dialogue_id": "HRE02-M020-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Vediamo di fare in fretta, tenente.",
+      "metadata": {
+        "string_id": 2277,
+        "speaker_string_id": 2278,
+        "dialogue_id": "HRE02-M020-070-LANDEN"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Con quanta impazienza hai cercato la tua stessa morte. Così ansioso di fare l'eroe.",
+      "metadata": {
+        "string_id": 2693,
+        "speaker_string_id": 2694,
+        "dialogue_id": "HRE02-C030-010-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Ma tu non sei nessuno! Se non un altro cadavere al mio servizio...",
+      "metadata": {
+        "string_id": 2710,
+        "speaker_string_id": 2711,
+        "dialogue_id": "HRE02-C030-020-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "La barriera è caduta! Corri!",
+      "metadata": {
+        "string_id": 2719,
+        "speaker_string_id": 2720,
+        "dialogue_id": "HRE02-C030-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Cosa?!? No! Non ti abbandonerò!",
+      "metadata": {
+        "string_id": 2728,
+        "speaker_string_id": 2729,
+        "dialogue_id": "HRE02-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Non pensare a me! Devi portare i civili ad Andorhal!",
+      "metadata": {
+        "string_id": 2737,
+        "speaker_string_id": 2738,
+        "dialogue_id": "HRE02-C030-060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Capitano, io...",
+      "metadata": {
+        "string_id": 2746,
+        "speaker_string_id": 2747,
+        "dialogue_id": "HRE02-C030-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Questo è un ordine, dannazione!",
+      "metadata": {
+        "string_id": 2755,
+        "speaker_string_id": 2756,
+        "dialogue_id": "HRE02-C030-080-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Che la Luce sia con te.",
+      "metadata": {
+        "string_id": 2764,
+        "speaker_string_id": 2765,
+        "dialogue_id": "HRE02-C030-090-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Vai, Garek. Diventa chi eri destinato a essere.",
+      "metadata": {
+        "string_id": 2775,
+        "speaker_string_id": 2776,
+        "dialogue_id": "HRE02-C030-100-LANDEN"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Credete di poter fuggire?!? Queste fogne saranno la vostra tomba!",
+      "metadata": {
+        "string_id": 2783,
+        "speaker_string_id": 2784,
+        "dialogue_id": "HRE02-C030-110-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Per Lordaeron!",
+      "metadata": {
+        "string_id": 2786,
+        "speaker_string_id": 2787,
+        "dialogue_id": "HRE02-C030-120-LANDEN"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "Tenente Bandarion, sei vivo! Ma... dov'è il Capitano Landen?",
+      "metadata": {
+        "string_id": 2280,
+        "speaker_string_id": 2281,
+        "dialogue_id": "HRE02-M030-010-LORDEARONSOLDIER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Lui... non ce l'ha fatta.",
+      "metadata": {
+        "string_id": 2288,
+        "speaker_string_id": 2289,
+        "dialogue_id": "HRE02-M030-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Dobbiamo raggiungere Uther ad Andorhal. Muoviamoci.",
+      "metadata": {
+        "string_id": 2286,
+        "speaker_string_id": 2287,
+        "dialogue_id": "HRE02-M030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "I civili dietro. Noi altri ci metteremo davanti.",
+      "metadata": {
+        "string_id": 2591,
+        "speaker_string_id": 2592,
+        "dialogue_id": "HRE02-T010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Arthas sta ancora devastando la città...",
+      "metadata": {
+        "string_id": 2599,
+        "speaker_string_id": 2600,
+        "dialogue_id": "HRE02-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Se ci assicuriamo una via di fuga, forse possiamo salvare altri sopravvissuti.",
+      "metadata": {
+        "string_id": 2601,
+        "speaker_string_id": 2602,
+        "dialogue_id": "HRE02-T030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Un attimo... Perché ci sono così tanti rifornimenti quaggiù?",
+      "metadata": {
+        "string_id": 2615,
+        "speaker_string_id": 2616,
+        "dialogue_id": "HRE02-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Maestro Tessimorbo",
+      "text": "Intrusi! Uccideteli tutti!",
+      "metadata": {
+        "string_id": 2617,
+        "speaker_string_id": 2618,
+        "dialogue_id": "HRE02-T240-MASTERBLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Che posto è questo?!?",
+      "metadata": {
+        "string_id": 2613,
+        "speaker_string_id": 2614,
+        "dialogue_id": "HRE02-T250-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Ci sono troppe macerie. Dobbiamo trovare un'altra strada.",
+      "metadata": {
+        "string_id": 2663,
+        "speaker_string_id": 2664,
+        "dialogue_id": "HRE02-T330-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sembra che ci sia una sola strada da seguire.",
+      "metadata": {
+        "string_id": 2621,
+        "speaker_string_id": 2622,
+        "dialogue_id": "HRE02-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Tessimorbo",
+      "text": "La vostra strada si interrompe qui!",
+      "metadata": {
+        "string_id": 2546,
+        "speaker_string_id": 2547,
+        "dialogue_id": "HRE02-T050-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Alle armi!",
+      "metadata": {
+        "string_id": 2521,
+        "speaker_string_id": 2522,
+        "dialogue_id": "HRE02-T060-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Il culto deve averci seguito nelle fogne. Dobbiamo continuare ad avanzare!",
+      "metadata": {
+        "string_id": 2304,
+        "speaker_string_id": 2379,
+        "dialogue_id": "HRE02-T070-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Lode alla Luce! Resta qui, torno indietro a radunare i sopravvissuti.",
+      "metadata": {
+        "string_id": 2305,
+        "speaker_string_id": 2380,
+        "dialogue_id": "HRE02-T470-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Capitano! Sento delle voci più avanti!",
+      "metadata": {
+        "string_id": 2306,
+        "speaker_string_id": 2381,
+        "dialogue_id": "HRE02-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Ecco l'uscita!",
+      "metadata": {
+        "string_id": 2307,
+        "speaker_string_id": 2382,
+        "dialogue_id": "HRE02-T350-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Attenzione!",
+      "metadata": {
+        "string_id": 2308,
+        "speaker_string_id": 2383,
+        "dialogue_id": "HRE02-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Così dovrebbe bastare. Muoviamoci.",
+      "metadata": {
+        "string_id": 2309,
+        "speaker_string_id": 2384,
+        "dialogue_id": "HRE02-T290-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Il tunnel d'uscita dovrebbe essere vicino. Restate in guardia.",
+      "metadata": {
+        "string_id": 2310,
+        "speaker_string_id": 2385,
+        "dialogue_id": "HRE02-T260-LANDEN"
+      }
+    },
+    {
+      "speaker": "Speziale Venefico",
+      "text": "Osate interrompere il mio lavoro?!?",
+      "metadata": {
+        "string_id": 2629,
+        "speaker_string_id": 2630,
+        "dialogue_id": "HRE02-T270-APOTHECARYVENOMSPITE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "\"Quei fumi devono essere il \"\"lavoro\"\" che abbiamo interrotto. Dobbiamo trovare un modo per eliminarli.\"",
+      "metadata": {
+        "string_id": 2665,
+        "speaker_string_id": 2666,
+        "dialogue_id": "HRE02-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Mmm. Questo dovrebbe proteggerci dai fumi.",
+      "metadata": {
+        "string_id": 2315,
+        "speaker_string_id": 2387,
+        "dialogue_id": "HRE02-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Argh! Cosa sono questi cosi?!?",
+      "metadata": {
+        "string_id": 2316,
+        "speaker_string_id": 2388,
+        "dialogue_id": "HRE02-T310-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "È un'imboscata!",
+      "metadata": {
+        "string_id": 2492,
+        "speaker_string_id": 2493,
+        "dialogue_id": "HRE02-T320-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Che vile stregoneria è mai questa?",
+      "metadata": {
+        "string_id": 2318,
+        "speaker_string_id": 2390,
+        "dialogue_id": "HRE02-T580-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Qualsiasi cosa sia, finisce ora!",
+      "metadata": {
+        "string_id": 2319,
+        "speaker_string_id": 2391,
+        "dialogue_id": "HRE02-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Fieramorte! Pagherai per i tuoi crimini!",
+      "metadata": {
+        "string_id": 2321,
+        "speaker_string_id": 2392,
+        "dialogue_id": "HRE02-T600-GAREK"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Altri agnelli al macello!",
+      "metadata": {
+        "string_id": 2322,
+        "speaker_string_id": 2323,
+        "dialogue_id": "HRE02-T610-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Lode alla Luce! Resta qui, torno indietro a radunare i sopravvissuti.",
+      "metadata": {
+        "string_id": 2305,
+        "speaker_string_id": 2380,
+        "dialogue_id": "HRE02-T470-LANDEN"
+      }
+    },
+    {
+      "speaker": "Mordo",
+      "text": "Fieramorte mi ricompenserà per questo!",
+      "metadata": {
+        "string_id": 2633,
+        "speaker_string_id": 2634,
+        "dialogue_id": "HRE02-T430-MORDO"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Muori, feccia cultista!",
+      "metadata": {
+        "string_id": 2328,
+        "speaker_string_id": 2393,
+        "dialogue_id": "HRE02-T440-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Voglio vedere la testa di Fieramorte su una picca!",
+      "metadata": {
+        "string_id": 2334,
+        "speaker_string_id": 2394,
+        "dialogue_id": "HRE02-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "La giustizia lo troverà, Garek. Dobbiamo concentrarci sulla missione e portare i sopravvissuti ad Andorhal.",
+      "metadata": {
+        "string_id": 2331,
+        "speaker_string_id": 2395,
+        "dialogue_id": "HRE02-T460-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Non devi farlo per forza, Capitano.",
+      "metadata": {
+        "string_id": 2332,
+        "speaker_string_id": 2396,
+        "dialogue_id": "HRE02-T480-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Sì che devo. Non ti lascerò affrontare Fieramorte da solo.",
+      "metadata": {
+        "string_id": 2333,
+        "speaker_string_id": 2397,
+        "dialogue_id": "HRE02-T490-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Capitano... Mi dispiace...",
+      "metadata": {
+        "string_id": 2335,
+        "speaker_string_id": 2398,
+        "dialogue_id": "HRE02-T630-GAREK"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Corri quanto vuoi, piccolo ratto! Tanto alla fine ti prenderò!",
+      "metadata": {
+        "string_id": 2336,
+        "speaker_string_id": 2399,
+        "dialogue_id": "HRE02-T640-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bisogna sbarrare la strada con delle macerie. Abbattere questi pilastri di sostegno dovrebbe bastare.",
+      "metadata": {
+        "string_id": 2337,
+        "speaker_string_id": 2400,
+        "dialogue_id": "HRE02-T650-GAREK"
+      }
+    },
+    {
+      "speaker": "Barone Fieramorte",
+      "text": "Non puoi sfuggire al tuo destino. Tutta Lordaeron cadrà dinanzi al Flagello!",
+      "metadata": {
+        "string_id": 2338,
+        "speaker_string_id": 2401,
+        "dialogue_id": "HRE02-T670-RIVENDARE"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Qualcosa di freddo e minaccioso è in agguato nell'oscurità.",
+      "metadata": {
+        "string_id": 2572,
+        "speaker_string_id": 2573,
+        "dialogue_id": "HRE02-T360-GAREK"
+      }
+    },
+    {
+      "speaker": "Araj l'Evocatore",
+      "text": "Folli mortali. Avete sigillato il vostro destino!",
+      "metadata": {
+        "string_id": 2637,
+        "speaker_string_id": 2638,
+        "dialogue_id": "HRE02-T370-ARAJTHESUMMONER"
+      }
+    },
+    {
+      "speaker": "Araj l'Evocatore",
+      "text": "Ritornerò...",
+      "metadata": {
+        "string_id": 2643,
+        "speaker_string_id": 2644,
+        "dialogue_id": "HRE02-T380-ARAJTHESUMMONER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Fetido Lich...",
+      "metadata": {
+        "string_id": 2507,
+        "speaker_string_id": 2508,
+        "dialogue_id": "HRE02-T390-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Questi ragni sono enormi...",
+      "metadata": {
+        "string_id": 2346,
+        "speaker_string_id": 2404,
+        "dialogue_id": "HRE02-T500-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Dev'esserci una Madre della Stirpe nelle vicinanze.",
+      "metadata": {
+        "string_id": 2348,
+        "speaker_string_id": 2405,
+        "dialogue_id": "HRE02-T510-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bestia miserabile!",
+      "metadata": {
+        "string_id": 2349,
+        "speaker_string_id": 2406,
+        "dialogue_id": "HRE02-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Con la morte della loro madre, i ragni dovrebbero disperdersi.",
+      "metadata": {
+        "string_id": 2350,
+        "speaker_string_id": 2407,
+        "dialogue_id": "HRE02-T570-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Capitano! Tirami fuori da queste ragnatele!",
+      "metadata": {
+        "string_id": 2351,
+        "speaker_string_id": 2408,
+        "dialogue_id": "HRE02-T520-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Mi ha avvolto completamente! Non riesco a muovermi!",
+      "metadata": {
+        "string_id": 2352,
+        "speaker_string_id": 2409,
+        "dialogue_id": "HRE02-T530-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Garek! Taglia queste ragnatele e liberami!",
+      "metadata": {
+        "string_id": 2353,
+        "speaker_string_id": 2410,
+        "dialogue_id": "HRE02-T540-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Sono intrappolato! Liberami, presto!",
+      "metadata": {
+        "string_id": 2354,
+        "speaker_string_id": 2411,
+        "dialogue_id": "HRE02-T550-LANDEN"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "Da questa parte! Fatemi uscire!",
+      "metadata": {
+        "string_id": 2796,
+        "speaker_string_id": 2801,
+        "dialogue_id": "HRE02-T120-PRISONERM"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "La guardia cittadina! Aiutatemi!",
+      "metadata": {
+        "string_id": 2797,
+        "speaker_string_id": 2800,
+        "dialogue_id": "HRE02-T110-PRISONERM"
+      }
+    },
+    {
+      "speaker": "Archibugiere",
+      "text": "Aiuto! Aprite la gabbia!",
+      "metadata": {
+        "string_id": 2798,
+        "speaker_string_id": 2799,
+        "dialogue_id": "HRE02-T130-PRISONERM"
+      }
+    },
+    {
+      "speaker": "Sacerdote",
+      "text": "Sono in debito con te. Combatterò al tuo fianco!",
+      "metadata": {
+        "string_id": 2806,
+        "speaker_string_id": 2805,
+        "dialogue_id": "HRE02-T210-PRISONERPRIEST"
+      }
+    },
+    {
+      "speaker": "Fante",
+      "text": "Ti ringrazio! Adesso andiamocene da qui!",
+      "metadata": {
+        "string_id": 2807,
+        "speaker_string_id": 2808,
+        "dialogue_id": "HRE02-T140-PRISONERFOOTMAN"
+      }
+    },
+    {
+      "speaker": "Archibugiere",
+      "text": "Pensavo che sarei morto lì! Quei cultisti la pagheranno!",
+      "metadata": {
+        "string_id": 2649,
+        "speaker_string_id": 2650,
+        "dialogue_id": "HRE02-T190-PRISONERRIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "La fornace centrale della città. Sta ancora producendo calore.",
+      "metadata": {
+        "string_id": 2651,
+        "speaker_string_id": 2652,
+        "dialogue_id": "HRE02-T400-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Per le case che Arthas ha trasformato in ossari. Dobbiamo spegnere le fiamme.",
+      "metadata": {
+        "string_id": 2653,
+        "speaker_string_id": 2654,
+        "dialogue_id": "HRE02-T410-GAREK"
+      }
+    }
+  ]
+}

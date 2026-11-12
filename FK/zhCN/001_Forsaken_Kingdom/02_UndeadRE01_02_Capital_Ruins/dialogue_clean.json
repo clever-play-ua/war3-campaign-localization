@@ -1,0 +1,449 @@
+{
+  "map": "UndeadRE01",
+  "title": "Capital Ruins",
+  "locale": "zhCN",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "玛利亚",
+      "text": "我的爱人！他在哪儿？我必须找到他！",
+      "metadata": {
+        "string_id": 2016,
+        "speaker_string_id": 2017,
+        "dialogue_id": "A1M2-M020-010-BANSHEE"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "她正在重历自己死亡的那一刻。这些踉跄的行尸中一定有一个是她那“爱人”的亡灵。",
+      "metadata": {
+        "string_id": 2014,
+        "speaker_string_id": 2015,
+        "dialogue_id": "A1M2-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "如果我们能让这场幻象平息下来，她或许就能恢复理智。",
+      "metadata": {
+        "string_id": 2012,
+        "speaker_string_id": 2013,
+        "dialogue_id": "A1M2-M020-030-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "明白了。让她解脱吧。",
+      "metadata": {
+        "string_id": 2010,
+        "speaker_string_id": 2011,
+        "dialogue_id": "A1M2-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "书典怨灵",
+      "text": "品尝我的痛苦吧！",
+      "metadata": {
+        "string_id": 1987,
+        "speaker_string_id": 1988,
+        "dialogue_id": "BansheeYesAttack2"
+      }
+    },
+    {
+      "speaker": "书典怨灵",
+      "text": "你的灵魂将化为灰烬！",
+      "metadata": {
+        "string_id": 1992,
+        "speaker_string_id": 1993,
+        "dialogue_id": "BansheeYesAttack3"
+      }
+    },
+    {
+      "speaker": "书典怨灵",
+      "text": "让这痛苦结束吧！",
+      "metadata": {
+        "string_id": 1997,
+        "speaker_string_id": 1998,
+        "dialogue_id": "BansheePissed1"
+      }
+    },
+    {
+      "speaker": "书典怨灵",
+      "text": "我的痛苦何时到头？",
+      "metadata": {
+        "string_id": 2000,
+        "speaker_string_id": 2001,
+        "dialogue_id": "BansheePissed2"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "那只食尸鬼在……读书？不可能。",
+      "metadata": {
+        "string_id": 1530,
+        "speaker_string_id": 1531,
+        "dialogue_id": "A1M2-T760-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "嗯。也许我能找本书把它引诱出来。",
+      "metadata": {
+        "string_id": 1539,
+        "speaker_string_id": 1540,
+        "dialogue_id": "A1M2-T770-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "它好像很怕我们。我们退后一点，给它一些空间。",
+      "metadata": {
+        "string_id": 1562,
+        "speaker_string_id": 1563,
+        "dialogue_id": "A1M2-T771-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "我有种预感，基佛一定能和这家伙交上好朋友。",
+      "metadata": {
+        "string_id": 2156,
+        "speaker_string_id": 2157,
+        "dialogue_id": "A1M2-T772-ANYA"
+      }
+    },
+    {
+      "speaker": "玛利亚",
+      "text": "他……他已经不在了。我想起来了……谢谢你们。",
+      "metadata": {
+        "string_id": 1609,
+        "speaker_string_id": 1610,
+        "dialogue_id": "A1M2-T160-BANSHEE"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你已经从过去解脱了。去幽暗城吧。黑暗女王会欢迎你的。",
+      "metadata": {
+        "string_id": 1616,
+        "speaker_string_id": 1617,
+        "dialogue_id": "A1M2-T170-ANYA"
+      }
+    },
+    {
+      "speaker": "亚历克西娅",
+      "text": "孩子们快逃啊！诅咒教派会把我们全杀光的！",
+      "metadata": {
+        "string_id": 1625,
+        "speaker_string_id": 1626,
+        "dialogue_id": "A1M2-T180-BANSHEE"
+      }
+    },
+    {
+      "speaker": "亚历克西娅",
+      "text": "死了……都死了。",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A1M2-T190-BANSHEE"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "想哭就哭吧。等你准备好了，幽暗城就是你的新家。",
+      "metadata": {
+        "string_id": 1643,
+        "speaker_string_id": 1644,
+        "dialogue_id": "A1M2-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "凯利斯蒂亚",
+      "text": "谁敢打扰我安息？！我要用魔焰把你烧成灰烬！",
+      "metadata": {
+        "string_id": 1655,
+        "speaker_string_id": 1656,
+        "dialogue_id": "A1M2-T210-KAELYSTIA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "够了。你的愤怒不该对着我们发泄。加入被遗忘者，把你的怒火对准天灾军团吧。",
+      "metadata": {
+        "string_id": 1664,
+        "speaker_string_id": 1665,
+        "dialogue_id": "A1M2-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "凯利斯蒂亚",
+      "text": "是的……没错，你说得对。谢谢你帮我彻底看清这一切。",
+      "metadata": {
+        "string_id": 1676,
+        "speaker_string_id": 1677,
+        "dialogue_id": "A1M2-T230-KAELYSTIA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "小心点，加瑞克。有些从天灾军团里解放出来的家伙可没我们这么好说话。",
+      "metadata": {
+        "string_id": 1726,
+        "speaker_string_id": 1727,
+        "dialogue_id": "A1M2-T010-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "意思是说我们可能得自卫？",
+      "metadata": {
+        "string_id": 1735,
+        "speaker_string_id": 1736,
+        "dialogue_id": "A1M2-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "啊，你领悟得倒挺快。",
+      "metadata": {
+        "string_id": 1746,
+        "speaker_string_id": 1747,
+        "dialogue_id": "A1M2-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "喂，那边的。希尔瓦娜斯·风行者会在幽暗城为你提供庇护。快去下水道吧。",
+      "metadata": {
+        "string_id": 1755,
+        "speaker_string_id": 1756,
+        "dialogue_id": "A1M2-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "唔，看起来挺简单的。",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A1M2-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "你就非得去挑战命运吗？",
+      "metadata": {
+        "string_id": 1777,
+        "speaker_string_id": 1778,
+        "dialogue_id": "A1M2-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "被遗忘者幸存者",
+      "text": "必须进食！现在就要进食！",
+      "metadata": {
+        "string_id": 1786,
+        "speaker_string_id": 1787,
+        "dialogue_id": "A1M2-T070-SURVIVOR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "他们是毫无理智的躯壳……恩雅，要是我醒来时也是那副德行……",
+      "metadata": {
+        "string_id": 1795,
+        "speaker_string_id": 1796,
+        "dialogue_id": "A1M2-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "那我会直接宰了你，然后让普特雷斯把你拆成零件。继续走吧。",
+      "metadata": {
+        "string_id": 1804,
+        "speaker_string_id": 1805,
+        "dialogue_id": "A1M2-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "救命！来人啊！",
+      "metadata": {
+        "string_id": 1813,
+        "speaker_string_id": 1814,
+        "dialogue_id": "A1M2-T120-BERND"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "离他们远点！",
+      "metadata": {
+        "string_id": 1839,
+        "speaker_string_id": 1840,
+        "dialogue_id": "A1M2-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "伯恩德",
+      "text": "你们救了我们！谢谢你们！",
+      "metadata": {
+        "string_id": 1845,
+        "speaker_string_id": 1846,
+        "dialogue_id": "A1M2-T140-BERND"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "动身去下水道吧。希尔瓦娜斯女王会为所有被遗忘者提供庇护。",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M2-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "又有天灾军团的入侵者来了！快，营救被遗忘者！",
+      "metadata": {
+        "string_id": 1863,
+        "speaker_string_id": 1864,
+        "dialogue_id": "A1M2-T100-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "现在安全了。去下水道吧，黑暗女王会庇护你。",
+      "metadata": {
+        "string_id": 1894,
+        "speaker_string_id": 1895,
+        "dialogue_id": "A1M2-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这命运真是太残酷了：先是被复活成亡灵，接着又在对自己崭新形态的恐惧中醒来。",
+      "metadata": {
+        "string_id": 1681,
+        "speaker_string_id": 1682,
+        "dialogue_id": "A1M2-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "这也不失为一种观点。你是愿意烂在土里，还是愿意接受重活一次的机会？",
+      "metadata": {
+        "string_id": 1690,
+        "speaker_string_id": 1691,
+        "dialogue_id": "A1M2-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "很难抉择。毕竟，我完全没有生前的记忆。",
+      "metadata": {
+        "string_id": 1699,
+        "speaker_string_id": 1700,
+        "dialogue_id": "A1M2-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "未尝不是一种因祸得福呢？我们有很多人都记得自己是怎么死的，也记得在恢复自由意志之前被迫干过些什么。",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A1M2-T270-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "要是我们都能这么幸运，拥有一张白纸般的过去就好了。",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A1M2-T280-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "天灾军团依然盘踞在这片废墟中，密谋入侵我们。把他们统统消灭掉。",
+      "metadata": {
+        "string_id": 1982,
+        "speaker_string_id": 1983,
+        "dialogue_id": "A1M2-T061-ANYA"
+      }
+    },
+    {
+      "speaker": "通灵师",
+      "text": "最终，一切都将属于我！",
+      "metadata": {
+        "string_id": 1491,
+        "speaker_string_id": 1492,
+        "dialogue_id": "NecromancerWarcry1"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "大元帅加里索斯，无论敌人还是盟友都对他深恶痛绝。希尔瓦娜斯把他干掉的时候，甚至没有人为他惋惜流泪。",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M2-T320-ANYA"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "但是基佛居然想用他的遗骸，真是奇怪。也许他觉得这算是一种正义的惩罚吧。",
+      "metadata": {
+        "string_id": 1911,
+        "speaker_string_id": 1912,
+        "dialogue_id": "A1M2-T330-ANYA"
+      }
+    },
+    {
+      "speaker": "步兵",
+      "text": "把他们全杀光！",
+      "metadata": {
+        "string_id": 1977,
+        "speaker_string_id": 1978,
+        "dialogue_id": "U01Footman23"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "生者也在这片废墟中活动。我们应该去把他们全部根除。",
+      "metadata": {
+        "string_id": 1934,
+        "speaker_string_id": 1935,
+        "dialogue_id": "A1M2-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "卢锡安·光铸者",
+      "text": "又是这些邪恶的脏东西！在圣光中消亡吧！",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A1M2-T301-SILVERHANDKNIGHT"
+      }
+    },
+    {
+      "speaker": "恩雅",
+      "text": "是圣骑士！杀了他！",
+      "metadata": {
+        "string_id": 1958,
+        "speaker_string_id": 1959,
+        "dialogue_id": "A1M2-T302-ANYA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "基佛就不能找个安全点的方法来干这事吗？",
+      "metadata": {
+        "string_id": 1967,
+        "speaker_string_id": 1968,
+        "dialogue_id": "A1M2-T310-GAREK"
+      }
+    }
+  ]
+}

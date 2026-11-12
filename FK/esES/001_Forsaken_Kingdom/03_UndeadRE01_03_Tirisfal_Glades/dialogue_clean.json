@@ -1,0 +1,755 @@
+{
+  "map": "UndeadRE01",
+  "title": "Tirisfal Glades",
+  "locale": "esES",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Faranell",
+      "text": "Anya, te estábamos esperando. Putress nos ha enviado la lista de componentes que necesita.",
+      "metadata": {
+        "string_id": 2177,
+        "speaker_string_id": 2178,
+        "dialogue_id": "A1M3-M020-010-FARANELL"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Qué considerado por su parte. ¿Va todo bien por aquí?",
+      "metadata": {
+        "string_id": 1840,
+        "speaker_string_id": 1841,
+        "dialogue_id": "A1M3-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Faranell",
+      "text": "Relativamente, aunque echo de menos las comodidades de mi laboratorio.",
+      "metadata": {
+        "string_id": 1826,
+        "speaker_string_id": 1827,
+        "dialogue_id": "A1M3-M020-030-FARANELL"
+      }
+    },
+    {
+      "speaker": "Melisara",
+      "text": "Anya, ese idiota de Gordo ha vuelto a desaparecer. Si te lo encuentras, arrástralo de vuelta al campamento.",
+      "metadata": {
+        "string_id": 1838,
+        "speaker_string_id": 1839,
+        "dialogue_id": "A1M3-M020-040-MELISARA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mantendremos los ojos abiertos. Que la Dama Oscura vele por ti.",
+      "metadata": {
+        "string_id": 1842,
+        "speaker_string_id": 1843,
+        "dialogue_id": "A1M3-M020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Eh! ¡Nos vendría bien una ayudita! ¡Haré que os merezca la pena!",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M3-M030-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mmm... Continúa.",
+      "metadata": {
+        "string_id": 1862,
+        "speaker_string_id": 1863,
+        "dialogue_id": "A1M3-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Nos han tendido una emboscada unos gnolls, y hemos tenido que abandonar la mercancía. Si la recuperáis, os daremos un cuarto del género.",
+      "metadata": {
+        "string_id": 1870,
+        "speaker_string_id": 1871,
+        "dialogue_id": "A1M3-M030-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "La mitad o nada.",
+      "metadata": {
+        "string_id": 1880,
+        "speaker_string_id": 1881,
+        "dialogue_id": "A1M3-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡¿La mitad?! ¡Eso es un atraco a mano armada!",
+      "metadata": {
+        "string_id": 1874,
+        "speaker_string_id": 1875,
+        "dialogue_id": "A1M3-M030-050-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Bueno... No sería el primero del día. Vale, trato hecho.",
+      "metadata": {
+        "string_id": 1878,
+        "speaker_string_id": 1879,
+        "dialogue_id": "A1M3-M030-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Hala! ¡Lo habéis logrado! ¡Y nuestra mercancía está intacta!",
+      "metadata": {
+        "string_id": 1891,
+        "speaker_string_id": 1892,
+        "dialogue_id": "A1M3-M040-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "En efecto. ¿Y bien? ¿Dónde está nuestro pago?",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M3-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Marchando! Será todo un placer transportar personalmente vuestra mitad del género hasta... ¿Entrañas? ¿Así se llamaba?",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A1M3-M040-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¿Qué mejor forma de demostrar nuestro agradecimiento a nuestros nuevos clientes... digo... a nuestros gentiles anfitriones?",
+      "metadata": {
+        "string_id": 1910,
+        "speaker_string_id": 1911,
+        "dialogue_id": "A1M3-M040-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¡Pero serás...!",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A1M3-M040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Hala! Evidentemente, recibirás un pago por los servicios prestados. Digamos que es una... ¡pequeña muestra de gratitud!",
+      "metadata": {
+        "string_id": 1922,
+        "speaker_string_id": 1923,
+        "dialogue_id": "A1M3-M040-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Aceptamos de buen grado. A los Renegados les vendrán de maravilla tus artículos. Nos vemos en la ciudad.",
+      "metadata": {
+        "string_id": 1926,
+        "speaker_string_id": 1927,
+        "dialogue_id": "A1M3-M040-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Faranell",
+      "text": "Anya, te estábamos esperando. Putress nos ha enviado la lista de componentes que necesita.",
+      "metadata": {
+        "string_id": 2177,
+        "speaker_string_id": 2178,
+        "dialogue_id": "A1M3-M020-010-FARANELL"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Qué considerado por su parte. ¿Va todo bien por aquí?",
+      "metadata": {
+        "string_id": 1840,
+        "speaker_string_id": 1841,
+        "dialogue_id": "A1M3-M020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Faranell",
+      "text": "Relativamente, aunque echo de menos las comodidades de mi laboratorio.",
+      "metadata": {
+        "string_id": 1826,
+        "speaker_string_id": 1827,
+        "dialogue_id": "A1M3-M020-030-FARANELL"
+      }
+    },
+    {
+      "speaker": "Melisara",
+      "text": "Anya, ese idiota de Gordo ha vuelto a desaparecer. Si te lo encuentras, arrástralo de vuelta al campamento.",
+      "metadata": {
+        "string_id": 1838,
+        "speaker_string_id": 1839,
+        "dialogue_id": "A1M3-M020-040-MELISARA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mantendremos los ojos abiertos. Que la Dama Oscura vele por ti.",
+      "metadata": {
+        "string_id": 1842,
+        "speaker_string_id": 1843,
+        "dialogue_id": "A1M3-M020-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Eh! ¡Nos vendría bien una ayudita! ¡Haré que os merezca la pena!",
+      "metadata": {
+        "string_id": 1854,
+        "speaker_string_id": 1855,
+        "dialogue_id": "A1M3-M030-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Mmm... Continúa.",
+      "metadata": {
+        "string_id": 1862,
+        "speaker_string_id": 1863,
+        "dialogue_id": "A1M3-M030-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Nos han tendido una emboscada unos gnolls, y hemos tenido que abandonar la mercancía. Si la recuperáis, os daremos un cuarto del género.",
+      "metadata": {
+        "string_id": 1870,
+        "speaker_string_id": 1871,
+        "dialogue_id": "A1M3-M030-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "La mitad o nada.",
+      "metadata": {
+        "string_id": 1880,
+        "speaker_string_id": 1881,
+        "dialogue_id": "A1M3-M030-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡¿La mitad?! ¡Eso es un atraco a mano armada!",
+      "metadata": {
+        "string_id": 1874,
+        "speaker_string_id": 1875,
+        "dialogue_id": "A1M3-M030-050-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "Bueno... No sería el primero del día. Vale, trato hecho.",
+      "metadata": {
+        "string_id": 1878,
+        "speaker_string_id": 1879,
+        "dialogue_id": "A1M3-M030-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Hala! ¡Lo habéis logrado! ¡Y nuestra mercancía está intacta!",
+      "metadata": {
+        "string_id": 1891,
+        "speaker_string_id": 1892,
+        "dialogue_id": "A1M3-M040-010-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "En efecto. ¿Y bien? ¿Dónde está nuestro pago?",
+      "metadata": {
+        "string_id": 1902,
+        "speaker_string_id": 1903,
+        "dialogue_id": "A1M3-M040-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Marchando! Será todo un placer transportar personalmente vuestra mitad del género hasta... ¿Entrañas? ¿Así se llamaba?",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A1M3-M040-030-GLIX"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¿Qué mejor forma de demostrar nuestro agradecimiento a nuestros nuevos clientes... digo... a nuestros gentiles anfitriones?",
+      "metadata": {
+        "string_id": 1910,
+        "speaker_string_id": 1911,
+        "dialogue_id": "A1M3-M040-040-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¡Pero serás...!",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A1M3-M040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "¡Hala! Evidentemente, recibirás un pago por los servicios prestados. Digamos que es una... ¡pequeña muestra de gratitud!",
+      "metadata": {
+        "string_id": 1922,
+        "speaker_string_id": 1923,
+        "dialogue_id": "A1M3-M040-060-GLIX"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Aceptamos de buen grado. A los Renegados les vendrán de maravilla tus artículos. Nos vemos en la ciudad.",
+      "metadata": {
+        "string_id": 1926,
+        "speaker_string_id": 1927,
+        "dialogue_id": "A1M3-M040-070-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ese necrófago parece estar pescando. Jamás había visto algo así.",
+      "metadata": {
+        "string_id": 1929,
+        "speaker_string_id": 1930,
+        "dialogue_id": "A1M3-T780-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Rápido, ¡que no escape!",
+      "metadata": {
+        "string_id": 1932,
+        "speaker_string_id": 1933,
+        "dialogue_id": "A1M3-T790-GAREK"
+      }
+    },
+    {
+      "speaker": "Gokrus",
+      "text": "¡Yo aplastar a ti!",
+      "metadata": {
+        "string_id": 2184,
+        "speaker_string_id": 1567,
+        "dialogue_id": "OgreYesAttack1"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Hay un campamento de forestales oscuros más adelante. Vayamos a hablar con ellos primero.",
+      "metadata": {
+        "string_id": 1589,
+        "speaker_string_id": 1590,
+        "dialogue_id": "A1M3-T010-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Una terrible enfermedad corrompe este bosque.",
+      "metadata": {
+        "string_id": 1598,
+        "speaker_string_id": 1599,
+        "dialogue_id": "A1M3-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Agradéceselo a la Plaga. Pretendían infestar todo Lordaeron.",
+      "metadata": {
+        "string_id": 1611,
+        "speaker_string_id": 1612,
+        "dialogue_id": "A1M3-T270-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ahora, estas tierras pertenecen a los Renegados. No franquearemos el paso ni a la Plaga ni a los vivos.",
+      "metadata": {
+        "string_id": 1613,
+        "speaker_string_id": 1614,
+        "dialogue_id": "A1M3-T280-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Tras despertar como un renegado, quizá desarrolles cierta afinidad por las arañas. Aun así, harías bien en acercarte a ellas con cuidado.",
+      "metadata": {
+        "string_id": 1620,
+        "speaker_string_id": 1621,
+        "dialogue_id": "A1M3-T210-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Múrlocs, unas criaturas repugnantes..., pero sus escamas son útiles en la alquimia.",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A1M3-T290-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Anya, ¿cómo acabé en la Botica de Putress?",
+      "metadata": {
+        "string_id": 1629,
+        "speaker_string_id": 1630,
+        "dialogue_id": "A1M3-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Formabas parte de las fuerzas de la Plaga que tenían ocupada la Capital cuando lady Sylvanas vino a reclamarla.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A1M3-T030-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Tras la batalla, reunimos a los no-muertos restantes y se los enviamos a Putress para... que los procesase.",
+      "metadata": {
+        "string_id": 1643,
+        "speaker_string_id": 1644,
+        "dialogue_id": "A1M3-T040-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Entonces, ¿luché contra Sylvanas cuando formaba parte de la Plaga? Y, pese a ello, ¿me da la bienvenida a los Renegados?",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A1M3-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Comprende a la perfección lo que se siente al verse obligada a cumplir la voluntad del Rey Exánime.",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A1M3-T060-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¿Cómo podría dar la espalda a un renegado que acaba de despertar, al margen de lo que haya hecho en el pasado?",
+      "metadata": {
+        "string_id": 1657,
+        "speaker_string_id": 1658,
+        "dialogue_id": "A1M3-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¿Y qué hay de ti, Anya? ¿Cómo te uniste a los Renegados?",
+      "metadata": {
+        "string_id": 1660,
+        "speaker_string_id": 1661,
+        "dialogue_id": "A1M3-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "En vida, serví bajo el mando de Sylvanas. Ambas morimos defendiendo nuestro reino de la Plaga. Y a ambas nos transformaron en no-muertas.",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A1M3-T090-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Cuando recuperé el libre albedrío, la Dama Oscura me ofreció un lugar al que pertenecer. Por ello, siempre le seré leal.",
+      "metadata": {
+        "string_id": 1668,
+        "speaker_string_id": 1669,
+        "dialogue_id": "A1M3-T100-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "¿Recuerdas lo que te viste obligada a hacer bajo el control del Rey Exánime?",
+      "metadata": {
+        "string_id": 1673,
+        "speaker_string_id": 1674,
+        "dialogue_id": "A1M3-T110-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Sí, pero no pienso hablar del tema, Garek. Ni contigo ni con nadie.",
+      "metadata": {
+        "string_id": 1677,
+        "speaker_string_id": 1678,
+        "dialogue_id": "A1M3-T120-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Revivir el pasado no cambiará nada. Es mejor seguir adelante sin mirar atrás.",
+      "metadata": {
+        "string_id": 1681,
+        "speaker_string_id": 1682,
+        "dialogue_id": "A1M3-T130-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Por lo que veo, muchos renegados comparten tu misma historia. Maldecidos con la no-muerte e intentando sacar el máximo provecho a un aciago destino.",
+      "metadata": {
+        "string_id": 1686,
+        "speaker_string_id": 1687,
+        "dialogue_id": "A1M3-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "El dolor que compartimos es lo que nos une. El mundo nos considera monstruos, así que solo podemos confiar los unos en los otros.",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A1M3-T150-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "En ese caso, me esforzaré por merecer esa confianza. Por lady Sylvanas y por los Renegados.",
+      "metadata": {
+        "string_id": 1698,
+        "speaker_string_id": 1699,
+        "dialogue_id": "A1M3-T160-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ya tenemos todo lo que quería Putress. Regresemos a Entrañas.",
+      "metadata": {
+        "string_id": 1703,
+        "speaker_string_id": 1704,
+        "dialogue_id": "A1M3-T300-ANYA"
+      }
+    },
+    {
+      "speaker": "Gordo",
+      "text": "¡Telarañas pegajosas! ¡Gordo necesitar ayuda!",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A1M3-T220-GORDO"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¡En menudo lío te has metido, Gordo!",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A1M3-T230-ANYA"
+      }
+    },
+    {
+      "speaker": "Gordo",
+      "text": "¡Gordo libre! ¡Gordo volver a campamento ahora!",
+      "metadata": {
+        "string_id": 1716,
+        "speaker_string_id": 1717,
+        "dialogue_id": "A1M3-T240-GORDO"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Intenta no perderte otra vez.",
+      "metadata": {
+        "string_id": 1719,
+        "speaker_string_id": 1720,
+        "dialogue_id": "A1M3-T250-ANYA"
+      }
+    },
+    {
+      "speaker": "Melisara",
+      "text": "Gordo reunió un botín considerable mientras deambulaba por ahí. Deberíamos echarle un vistazo.",
+      "metadata": {
+        "string_id": 1724,
+        "speaker_string_id": 1725,
+        "dialogue_id": "A1M3-T310-MELISARA"
+      }
+    },
+    {
+      "speaker": "Glix",
+      "text": "El campamento gnoll se encuentra al sur de aquí. ¡Ni se os ocurra moriros! Otra vez...",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A1M3-T170-GLIX"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¿Vamos a dejar que monten una tienda en Entrañas? ¿Así, sin más?",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A1M3-T180-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Los Renegados necesitan suministros, y los goblins pueden ofrecérselos. Y, si su protección depende de Entrañas...",
+      "metadata": {
+        "string_id": 1740,
+        "speaker_string_id": 1741,
+        "dialogue_id": "A1M3-T190-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "La Dama Oscura podrá negociar sus precios desde una posición de poder. Impresionante, Bandarion.",
+      "metadata": {
+        "string_id": 1743,
+        "speaker_string_id": 1744,
+        "dialogue_id": "A1M3-T200-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "La cantera se encuentra en el extremo norte del bosque. En marcha.",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A1M3-T320-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Tenemos suerte de que Bernd recuerde el oficio que desempeñaba en vida. Sus habilidades le serán útiles a Entrañas.",
+      "metadata": {
+        "string_id": 1756,
+        "speaker_string_id": 1757,
+        "dialogue_id": "A1M3-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "En definitiva, cabría decir que nuestras antiguas vidas todavía nos sirven de algo.",
+      "metadata": {
+        "string_id": 1765,
+        "speaker_string_id": 1766,
+        "dialogue_id": "A1M3-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "¡Hmf! Pareces saber mucho sobre el tema, para ser alguien que ha despertado hace tan poco.",
+      "metadata": {
+        "string_id": 1769,
+        "speaker_string_id": 1770,
+        "dialogue_id": "A1M3-T350-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ya. A ver, lo has dicho tú misma. Soy muy avispado, ¿no?",
+      "metadata": {
+        "string_id": 1771,
+        "speaker_string_id": 1772,
+        "dialogue_id": "A1M3-T360-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Parece que los ogros han montado algunas defensas.",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A1M3-T370-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Debemos tomar una decisión: ¿atacamos de frente o buscamos otra forma de entrar?",
+      "metadata": {
+        "string_id": 1779,
+        "speaker_string_id": 1780,
+        "dialogue_id": "A1M3-T380-ANYA"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Ahora que su líder ha caído, los demás ogros se dispersarán por las colinas.",
+      "metadata": {
+        "string_id": 1785,
+        "speaker_string_id": 1786,
+        "dialogue_id": "A1M3-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Me alegra saber que esta cantera servirá para abastecer a los obreros de Bernd.",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A1M3-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Anya",
+      "text": "Bueno, es otra forma de pescar un pez. Vamos a llevarlo con Keever.",
+      "metadata": {
+        "string_id": 1793,
+        "speaker_string_id": 1794,
+        "dialogue_id": "A1M3-T791-ANYA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Parece que el necrófago ha sobrevivido al enfrentamiento. Llevémoslo con Keever.",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A1M3-T792-GAREK"
+      }
+    },
+    {
+      "speaker": "Señor de los bandidos",
+      "text": "¡Los no-muertos! ¡Hacedlos picadillos y saquead sus cadáveres!",
+      "metadata": {
+        "string_id": 1803,
+        "speaker_string_id": 1804,
+        "dialogue_id": "A1M3-T410-BANDITLEADER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Vaya, vaya, parecen las piezas que Keever nos ha pedido conseguir.",
+      "metadata": {
+        "string_id": 1806,
+        "speaker_string_id": 1807,
+        "dialogue_id": "A1M3-T420-GAREK"
+      }
+    }
+  ]
+}

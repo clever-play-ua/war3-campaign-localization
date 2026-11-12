@@ -1,0 +1,1241 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "ruRU",
+  "note": "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder).",
+  "lines": [
+    {
+      "speaker": "Гарек",
+      "text": "Отлично, стражи смерти. Бейте наверняка и не опускайте щиты.",
+      "metadata": {
+        "string_id": 2656,
+        "speaker_string_id": 2657,
+        "dialogue_id": "A2MU-C020-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Неплохо, Гарек. Конечно, это не темные следопыты, но, думаю, они смогут защитить Подгород.",
+      "metadata": {
+        "string_id": 2658,
+        "speaker_string_id": 2659,
+        "dialogue_id": "A2MU-C020-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Спасибо на добром слове, Ания.",
+      "metadata": {
+        "string_id": 2660,
+        "speaker_string_id": 2661,
+        "dialogue_id": "A2MU-C020-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Капитан Бандарион, можно на пару слов?",
+      "metadata": {
+        "string_id": 2662,
+        "speaker_string_id": 2663,
+        "dialogue_id": "A2MU-C020-040-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "В городе нужно кое-что починить, но я не могу добраться в эти места.",
+      "metadata": {
+        "string_id": 2674,
+        "speaker_string_id": 2675,
+        "dialogue_id": "A2MU-C020-050-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Крысы гнездятся в центральной шахте лифта, а слизни лезут из основной канализационной трубы – она протекает. Поможешь мне?",
+      "metadata": {
+        "string_id": 1455,
+        "speaker_string_id": 1456,
+        "dialogue_id": "A2MU-C020-060-BERND"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ты просишь капитана стражи лично разбираться с вредителями?",
+      "metadata": {
+        "string_id": 1460,
+        "speaker_string_id": 1461,
+        "dialogue_id": "A2MU-C020-070-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Честно говоря, мне не помешает размяться. Я помогу, Бернд.",
+      "metadata": {
+        "string_id": 1466,
+        "speaker_string_id": 1467,
+        "dialogue_id": "A2MU-C020-080-GAREK"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Я ничего не понимаю! Должна же быть причина всех этих протечек...",
+      "metadata": {
+        "string_id": 1470,
+        "speaker_string_id": 1471,
+        "dialogue_id": "A2MU-C030-010-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Я проверю стены. Похоже, что-то повреждает трубы.",
+      "metadata": {
+        "string_id": 1475,
+        "speaker_string_id": 1476,
+        "dialogue_id": "A2MU-C030-020-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы пойдем с тобой. Если там будут еще...",
+      "metadata": {
+        "string_id": 1480,
+        "speaker_string_id": 1481,
+        "dialogue_id": "A2MU-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Стойте. Вы это слышали?",
+      "metadata": {
+        "string_id": 1485,
+        "speaker_string_id": 1486,
+        "dialogue_id": "A2MU-C030-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "<Вскрикивает от боли и удивления.>",
+      "metadata": {
+        "string_id": 1490,
+        "speaker_string_id": 1491,
+        "dialogue_id": "A2MU-C030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Крестоносец Алого ордена",
+      "text": "Нам удалось пробиться в Подгород! Эти твари познают гнев Алого ордена!",
+      "metadata": {
+        "string_id": 1495,
+        "speaker_string_id": 1496,
+        "dialogue_id": "A2MU-C030-060-SCARLETCRUSADER"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Я не собираюсь помирать в этом логове нечестивцев!",
+      "metadata": {
+        "string_id": 1748,
+        "speaker_string_id": 1749,
+        "dialogue_id": "A2MU-M010-010-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Гарек, постой!",
+      "metadata": {
+        "string_id": 1501,
+        "speaker_string_id": 1502,
+        "dialogue_id": "A2MU-M010-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "А-а! Жжется!",
+      "metadata": {
+        "string_id": 1505,
+        "speaker_string_id": 1506,
+        "dialogue_id": "A2MU-M010-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Этот трус сбежал.",
+      "metadata": {
+        "string_id": 1509,
+        "speaker_string_id": 1510,
+        "dialogue_id": "A2MU-M010-040-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Раз так, надеюсь, мы отбили атаку на Подгород.",
+      "metadata": {
+        "string_id": 1514,
+        "speaker_string_id": 1515,
+        "dialogue_id": "A2MU-M010-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Думаю, пришло время доложить Сильване.",
+      "metadata": {
+        "string_id": 1519,
+        "speaker_string_id": 1520,
+        "dialogue_id": "A2MU-M010-060-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Ания. Капитан Бандарион. Докладывайте!",
+      "metadata": {
+        "string_id": 1750,
+        "speaker_string_id": 1751,
+        "dialogue_id": "A2MU-C040-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нам удалось отстоять Подгород, но повреждения... значительные.",
+      "metadata": {
+        "string_id": 1528,
+        "speaker_string_id": 1529,
+        "dialogue_id": "A2MU-C040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Вокруг нас сжимается кольцо тех, кто хочет нашей гибели. Деревни отрекшихся по всему Тирисфалю могут быть в смертельной опасности.",
+      "metadata": {
+        "string_id": 1754,
+        "speaker_string_id": 1755,
+        "dialogue_id": "A2MU-C040-030-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Алый орден должен быть уничтожен. Ваша помощь здесь будет очень кстати, но не забывайте, что основная задача – истребить фанатиков.",
+      "metadata": {
+        "string_id": 1760,
+        "speaker_string_id": 1761,
+        "dialogue_id": "A2MU-C040-040-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Будет исполнено, Темная Госпожа.",
+      "metadata": {
+        "string_id": 1543,
+        "speaker_string_id": 1544,
+        "dialogue_id": "A2MU-C040-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Капитан Бандарион, мне вновь нужна ваша помощь.",
+      "metadata": {
+        "string_id": 1547,
+        "speaker_string_id": 1548,
+        "dialogue_id": "A2MU-M040-010-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Алый орден использовал взрывчатку, чтобы пробраться в город. При этом они нашли систему старых шахтерских тоннелей.",
+      "metadata": {
+        "string_id": 1552,
+        "speaker_string_id": 1553,
+        "dialogue_id": "A2MU-M040-020-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Думаю, вместо того, чтобы укреплять их, нам стоит завалить эти тоннели, используя свою взрывчатку.",
+      "metadata": {
+        "string_id": 1559,
+        "speaker_string_id": 1560,
+        "dialogue_id": "A2MU-M040-030-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Отличный план. Нам только нужна взрывчатка, и мы проследим, чтобы в эти тоннели больше никто не прошел.",
+      "metadata": {
+        "string_id": 1563,
+        "speaker_string_id": 1564,
+        "dialogue_id": "A2MU-M040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Ания, Гарек. Эти напыщенные болваны вломились в мою лабораторию и выпустили одно из моих созданий!",
+      "metadata": {
+        "string_id": 1776,
+        "speaker_string_id": 1777,
+        "dialogue_id": "A2MU-M030-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Нельзя, чтобы эта особь бесчинствовала в Подгороде. Срочно найдите и схватите ее!",
+      "metadata": {
+        "string_id": 1780,
+        "speaker_string_id": 1781,
+        "dialogue_id": "A2MU-M030-020-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Значит, ты натворил дел, а мы теперь должны всё исправлять? Мог бы хоть попросить повежливее.",
+      "metadata": {
+        "string_id": 1577,
+        "speaker_string_id": 1578,
+        "dialogue_id": "A2MU-M030-030-ANYA"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Я буду очень благодарен, если вы поможете мне с этим делом. Будьте так добры.",
+      "metadata": {
+        "string_id": 2500,
+        "speaker_string_id": 2501,
+        "dialogue_id": "A2MU-M030-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы этим займемся, Гнилесс.",
+      "metadata": {
+        "string_id": 2502,
+        "speaker_string_id": 2503,
+        "dialogue_id": "A2MU-M030-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Возьмите эту сыворотку. Она позволит вам какое-то время управлять подопытными – из числа тех, что помельче.",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Бандарион, Ания. В квартале Магов беда. Одна из банши обезумела.",
+      "metadata": {
+        "string_id": 1591,
+        "speaker_string_id": 1592,
+        "dialogue_id": "A2MU-M020-010-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Маги говорят, что ее свел с ума поврежденный пилон контроля над разумом. Но мне, честно говоря, плевать на причины.",
+      "metadata": {
+        "string_id": 1596,
+        "speaker_string_id": 1597,
+        "dialogue_id": "A2MU-M020-020-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Решите эту проблему как сочтёте нужным. Если придётся уничтожить эту обезумевшую банши, значит, так тому и быть.",
+      "metadata": {
+        "string_id": 1601,
+        "speaker_string_id": 1602,
+        "dialogue_id": "A2MU-M020-030-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Будем надеяться, до этого не дойдет. Мы все сделаем, Вариматрас.",
+      "metadata": {
+        "string_id": 1605,
+        "speaker_string_id": 1606,
+        "dialogue_id": "A2MU-M020-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Леонид Барталомей. Я не ожидала вновь увидеть тебя в этих стенах.",
+      "metadata": {
+        "string_id": 1762,
+        "speaker_string_id": 1763,
+        "dialogue_id": "A2MU-C050-010-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Леонид",
+      "text": "Простите за вторжение, леди Ветрокрылая. Но этого требуют обстоятельства.",
+      "metadata": {
+        "string_id": 1614,
+        "speaker_string_id": 1615,
+        "dialogue_id": "A2MU-C050-020-LEONID"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нам удалось отбросить армию Алого ордена, но сейчас они собираются с силами в своем монастыре.",
+      "metadata": {
+        "string_id": 1619,
+        "speaker_string_id": 1620,
+        "dialogue_id": "A2MU-C050-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Леонид отследил все их перемещения и может показать нашим войскам, куда нанести удар.",
+      "metadata": {
+        "string_id": 1624,
+        "speaker_string_id": 1625,
+        "dialogue_id": "A2MU-C050-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Ясно. А ты что скажешь, Ания? Можем мы доверять Леониду в этом деле?",
+      "metadata": {
+        "string_id": 1766,
+        "speaker_string_id": 1767,
+        "dialogue_id": "A2MU-C050-050-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Я не могу доверять никому из служителей Света. Особенному тому, кто предает своих.",
+      "metadata": {
+        "string_id": 1634,
+        "speaker_string_id": 1635,
+        "dialogue_id": "A2MU-C050-060-ANYA"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Но... Леонид доказал, что он надежный союзник. И он подвергал себя опасности, чтобы защитить наши деревни.",
+      "metadata": {
+        "string_id": 1639,
+        "speaker_string_id": 1640,
+        "dialogue_id": "A2MU-C050-070-ANYA"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Ну что же. Пусть Алый орден жалеет о том дне, когда они напали на отрекшихся.",
+      "metadata": {
+        "string_id": 1772,
+        "speaker_string_id": 1773,
+        "dialogue_id": "A2MU-C050-080-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Капитан Бандарион, если вы снова идете на поверхность, у меня будет к вам небольшая просьба.",
+      "metadata": {
+        "string_id": 1648,
+        "speaker_string_id": 1649,
+        "dialogue_id": "A2MU-M045-010-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Темная Госпожа поручила мне восстановить деревни, разрушенные Алым орденом.",
+      "metadata": {
+        "string_id": 1653,
+        "speaker_string_id": 1654,
+        "dialogue_id": "A2MU-M045-020-BERND"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Но прежде, чем я начну этим заниматься, мне нужны подробные отчеты об их состоянии, чтобы все спланировать. Не могли бы вы собрать для меня эти сведения?",
+      "metadata": {
+        "string_id": 1658,
+        "speaker_string_id": 1659,
+        "dialogue_id": "A2MU-M045-030-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Конечно. Я опрошу жителей и вернусь к вам.",
+      "metadata": {
+        "string_id": 1663,
+        "speaker_string_id": 1664,
+        "dialogue_id": "A2MU-M045-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "А, именно этих работников я и надеялся увидеть.",
+      "metadata": {
+        "string_id": 1788,
+        "speaker_string_id": 1789,
+        "dialogue_id": "A2MU-M050-010-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Что еще, Гнилесс?",
+      "metadata": {
+        "string_id": 1672,
+        "speaker_string_id": 1673,
+        "dialogue_id": "A2MU-M050-020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Наверняка вы заметили, что в последнее время часть фауны в Тирисфале претерпела странные изменения.",
+      "metadata": {
+        "string_id": 1792,
+        "speaker_string_id": 1793,
+        "dialogue_id": "A2MU-M050-030-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Я бы очень хотел изучить кровь этих особей. Раздобудьте ее для меня, а я в долгу не останусь.",
+      "metadata": {
+        "string_id": 1798,
+        "speaker_string_id": 1799,
+        "dialogue_id": "A2MU-M050-040-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Хорошо. И я надеюсь, награда будет щедрой, Гнилесс.",
+      "metadata": {
+        "string_id": 1687,
+        "speaker_string_id": 1688,
+        "dialogue_id": "A2MU-M050-050-ANYA"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Даже не знаю, как вас благодарить. Вот, эти факелы понадобятся вам, чтобы сжечь крысиные гнезда.",
+      "metadata": {
+        "string_id": 1691,
+        "speaker_string_id": 1692,
+        "dialogue_id": "A2MU-T010-BERND"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Ты какой-то слишком любезный. Тебе никто об этом не говорил?",
+      "metadata": {
+        "string_id": 2263,
+        "speaker_string_id": 2264,
+        "dialogue_id": "A2MU-T020-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Моя задача – помогать людям, а не отталкивать их.",
+      "metadata": {
+        "string_id": 2271,
+        "speaker_string_id": 2272,
+        "dialogue_id": "A2MU-T030-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, с крысами все. Перейдем к слизням.",
+      "metadata": {
+        "string_id": 1700,
+        "speaker_string_id": 1701,
+        "dialogue_id": "A2MU-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Кажется, мы все сделали. Возвращаемся в квартал Воинов.",
+      "metadata": {
+        "string_id": 1704,
+        "speaker_string_id": 1705,
+        "dialogue_id": "A2MU-T050-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "До сих пор сложно поверить, что Подгород так изменился за последний год.",
+      "metadata": {
+        "string_id": 1708,
+        "speaker_string_id": 1709,
+        "dialogue_id": "A2MU-T060-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как хорошо, что нашим рабочим не нужна ни еда, ни сон.",
+      "metadata": {
+        "string_id": 1713,
+        "speaker_string_id": 1714,
+        "dialogue_id": "A2MU-T070-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Я вижу на трубе рычаг. Он остановит подачу воды, а вместе с ней и нашествие слизней.",
+      "metadata": {
+        "string_id": 1717,
+        "speaker_string_id": 1718,
+        "dialogue_id": "A2MU-T080-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Ну вот и все. Возвращаемся в квартал Воинов.",
+      "metadata": {
+        "string_id": 1721,
+        "speaker_string_id": 1722,
+        "dialogue_id": "A2MU-T090-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Думаю, со слизнями покончено. Теперь займемся крысами.",
+      "metadata": {
+        "string_id": 1725,
+        "speaker_string_id": 1726,
+        "dialogue_id": "A2MU-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Бернд будет рад, что теперь сможет работать дальше.",
+      "metadata": {
+        "string_id": 1729,
+        "speaker_string_id": 1730,
+        "dialogue_id": "A2MU-T110-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Это точно. Но всё-таки странно... раньше рабочие никогда не сталкивались с подобными препятствиями.",
+      "metadata": {
+        "string_id": 1734,
+        "speaker_string_id": 1735,
+        "dialogue_id": "A2MU-T120-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Нас атакуют! Стражи смерти, к оружию!",
+      "metadata": {
+        "string_id": 1738,
+        "speaker_string_id": 1739,
+        "dialogue_id": "A2MU-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Держите оборону! Мы с Анией освободим остальные районы Подгорода.",
+      "metadata": {
+        "string_id": 1742,
+        "speaker_string_id": 1743,
+        "dialogue_id": "A2MU-T140-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Проход в квартал Воинов завален. Нужно зарядить мясные фургоны, чтобы расчистить путь.",
+      "metadata": {
+        "string_id": 1809,
+        "speaker_string_id": 1810,
+        "dialogue_id": "A2MU-T150-GAREK"
+      }
+    },
+    {
+      "speaker": "Гаритос",
+      "text": "Гаритос убивать людей! Убивать насмерть!",
+      "metadata": {
+        "string_id": 1817,
+        "speaker_string_id": 1818,
+        "dialogue_id": "A2MU-T160-GARITHOS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "За нами, Гаритос!",
+      "metadata": {
+        "string_id": 1822,
+        "speaker_string_id": 1823,
+        "dialogue_id": "A2MU-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Страж смерти",
+      "text": "Капитан Бандарион! Мы будем обороняться здесь, пока вы пробиваетесь вперед.",
+      "metadata": {
+        "string_id": 1881,
+        "speaker_string_id": 1882,
+        "dialogue_id": "A2MU-T180-DEATHGUARD"
+      }
+    },
+    {
+      "speaker": "Капитан Алого ордена",
+      "text": "Сомкнуть ряды! Убивайте чудовищ, и да защитит вас Свет!",
+      "metadata": {
+        "string_id": 1887,
+        "speaker_string_id": 1888,
+        "dialogue_id": "A2MU-T190-SCARLETCAPTAIN"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы освободили квартал Воинов! Стражи смерти, защищайте его!",
+      "metadata": {
+        "string_id": 1895,
+        "speaker_string_id": 1896,
+        "dialogue_id": "A2MU-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Алый орден... Прежде я о них не слышал.",
+      "metadata": {
+        "string_id": 1901,
+        "speaker_string_id": 1902,
+        "dialogue_id": "A2MU-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Скорее всего, очередные фанатики, ослепленные Светом. Та же Серебряная Длань, только называется по-другому.",
+      "metadata": {
+        "string_id": 1906,
+        "speaker_string_id": 1907,
+        "dialogue_id": "A2MU-T220-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что бы они ни говорили, сомневаюсь, что их и правда ведет Свет.",
+      "metadata": {
+        "string_id": 1908,
+        "speaker_string_id": 1909,
+        "dialogue_id": "A2MU-T230-GAREK"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Ания! Гарек! Спасите меня от этих недоумков!",
+      "metadata": {
+        "string_id": 1916,
+        "speaker_string_id": 1917,
+        "dialogue_id": "A2MU-T240-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "А вы не торопились! Защищайте меня, пока я готовлю чуму!",
+      "metadata": {
+        "string_id": 1924,
+        "speaker_string_id": 1925,
+        "dialogue_id": "A2MU-T250-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Вот, думаю, это поможет. Или нет.",
+      "metadata": {
+        "string_id": 1928,
+        "speaker_string_id": 1929,
+        "dialogue_id": "A2MU-T260-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "И больше не говорите, что я ничего не делаю!",
+      "metadata": {
+        "string_id": 1943,
+        "speaker_string_id": 1944,
+        "dialogue_id": "A2MU-T270-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Я сделал для вас еще одно зелье. Не потеряйте его!",
+      "metadata": {
+        "string_id": 1949,
+        "speaker_string_id": 1950,
+        "dialogue_id": "A2MU-T280-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Вам очень повезло, что я здесь и могу помочь!",
+      "metadata": {
+        "string_id": 1953,
+        "speaker_string_id": 1954,
+        "dialogue_id": "A2MU-T290-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Выпейте это, и пошустрее!",
+      "metadata": {
+        "string_id": 1961,
+        "speaker_string_id": 1962,
+        "dialogue_id": "A2MU-T300-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "До чего я докатился – делаю для вас зелья...",
+      "metadata": {
+        "string_id": 1969,
+        "speaker_string_id": 1970,
+        "dialogue_id": "A2MU-T310-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Варить подобные микстуры ниже достоинства верховного аптекаря.",
+      "metadata": {
+        "string_id": 1975,
+        "speaker_string_id": 1976,
+        "dialogue_id": "A2MU-T320-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Ага! Чума готова!",
+      "metadata": {
+        "string_id": 1981,
+        "speaker_string_id": 1982,
+        "dialogue_id": "A2MU-T330-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Смерть всем живым!",
+      "metadata": {
+        "string_id": 2253,
+        "speaker_string_id": 2254,
+        "dialogue_id": "A2MU-T340-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Кажется, район Фармацевтов в безопасности. Ну что ж, можете идти.",
+      "metadata": {
+        "string_id": 1996,
+        "speaker_string_id": 1997,
+        "dialogue_id": "A2MU-T350-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Всегда пожалуйста, Гнилесс.",
+      "metadata": {
+        "string_id": 2003,
+        "speaker_string_id": 2004,
+        "dialogue_id": "A2MU-T360-ANYA"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Умрите, жалкие фанатики!",
+      "metadata": {
+        "string_id": 2009,
+        "speaker_string_id": 2010,
+        "dialogue_id": "A2MU-T370-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "С оставшимися паразитами я разберусь. А вы идите в квартал Магов!",
+      "metadata": {
+        "string_id": 2015,
+        "speaker_string_id": 2016,
+        "dialogue_id": "A2MU-T380-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Месяцы упорного труда, и все разрушено в мгновение ока. Эти фанатики поплатятся.",
+      "metadata": {
+        "string_id": 2227,
+        "speaker_string_id": 2228,
+        "dialogue_id": "A2MU-T390-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Подгород всегда можно отстроить заново. Сейчас самое главное – защитить людей.",
+      "metadata": {
+        "string_id": 2241,
+        "speaker_string_id": 2242,
+        "dialogue_id": "A2MU-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Гарек, кажется, как раз такие пилоны контролируют пленников.",
+      "metadata": {
+        "string_id": 2028,
+        "speaker_string_id": 2029,
+        "dialogue_id": "A2MU-T410-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что, если мы сможем с их помощью управлять разумом наших врагов?",
+      "metadata": {
+        "string_id": 2035,
+        "speaker_string_id": 2036,
+        "dialogue_id": "A2MU-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Инквизитор",
+      "text": "Ваша черная магия на меня не действует! Правосудие Света уничтожит вас!",
+      "metadata": {
+        "string_id": 2043,
+        "speaker_string_id": 2044,
+        "dialogue_id": "A2MU-T430-SCARLETINQUISITOR"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Пф-ф. Кому нужна магия, если клинок отлично справляется...",
+      "metadata": {
+        "string_id": 2047,
+        "speaker_string_id": 2048,
+        "dialogue_id": "A2MU-T440-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Мы освободили этот район. Вперед, в квартал Разбойников.",
+      "metadata": {
+        "string_id": 2057,
+        "speaker_string_id": 2058,
+        "dialogue_id": "A2MU-T450-GAREK"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Алый орден очистит землю от презренных нелюдей!",
+      "metadata": {
+        "string_id": 2063,
+        "speaker_string_id": 2064,
+        "dialogue_id": "A2MU-T460-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Чудовища! Вас всех ждет очищение!",
+      "metadata": {
+        "string_id": 2069,
+        "speaker_string_id": 2070,
+        "dialogue_id": "A2MU-T470-MOGRAINE"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Гарек! В укрытие!",
+      "metadata": {
+        "string_id": 2073,
+        "speaker_string_id": 2074,
+        "dialogue_id": "A2MU-T480-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Идем к центру города. Ущерб сможем оценить по дороге.",
+      "metadata": {
+        "string_id": 2077,
+        "speaker_string_id": 2078,
+        "dialogue_id": "A2MU-T490-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Чтобы спланировать атаку такого масштаба, нужны месяцы.",
+      "metadata": {
+        "string_id": 2081,
+        "speaker_string_id": 2082,
+        "dialogue_id": "A2MU-T500-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "И большая армия. Похоже, где-то неподалеку у них цитадель.",
+      "metadata": {
+        "string_id": 2088,
+        "speaker_string_id": 2089,
+        "dialogue_id": "A2MU-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Торговый квартал нуждается в серьезном ремонте, поэтому пока что идите прямиком на поверхность.",
+      "metadata": {
+        "string_id": 2094,
+        "speaker_string_id": 2095,
+        "dialogue_id": "A2MU-T520-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Только аккуратно. Смотрите, чтобы вас не зацепило взрывом!",
+      "metadata": {
+        "string_id": 2100,
+        "speaker_string_id": 2101,
+        "dialogue_id": "A2MU-T530-BERND"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Эти тоннели очень старые. И, похоже, давно пустуют.",
+      "metadata": {
+        "string_id": 2106,
+        "speaker_string_id": 2107,
+        "dialogue_id": "A2MU-T540-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Алые крестоносцы! Убьем их и установим взрывчатку!",
+      "metadata": {
+        "string_id": 2112,
+        "speaker_string_id": 2113,
+        "dialogue_id": "A2MU-T550-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Один проход завален. Займемся остальными.",
+      "metadata": {
+        "string_id": 2118,
+        "speaker_string_id": 2119,
+        "dialogue_id": "A2MU-T560-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Что это за место?",
+      "metadata": {
+        "string_id": 2122,
+        "speaker_string_id": 2123,
+        "dialogue_id": "A2MU-T570-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Не знаю. Но явно очень древнее. Возможно, старше самого Лордерона.",
+      "metadata": {
+        "string_id": 2127,
+        "speaker_string_id": 2128,
+        "dialogue_id": "A2MU-T580-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Похоже, это алтарь. И... я чувствую, что он зовет меня...",
+      "metadata": {
+        "string_id": 2133,
+        "speaker_string_id": 2134,
+        "dialogue_id": "A2MU-T590-GAREK"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Да уж, то еще было приключение. Интересно, сколько других тайн нас окружает.",
+      "metadata": {
+        "string_id": 2139,
+        "speaker_string_id": 2140,
+        "dialogue_id": "A2MU-T600-BERND"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Наверное, такого Алый орден не ожидал.",
+      "metadata": {
+        "string_id": 2143,
+        "speaker_string_id": 2144,
+        "dialogue_id": "A2MU-T610-ANYA"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Может, более крупные особи смогут загнать эту тварь обратно в камеру.",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Мне придется начинать работу с нуля! Месяцы экспериментов, и всё напрасно!",
+      "metadata": {
+        "string_id": 2251,
+        "speaker_string_id": 2252,
+        "dialogue_id": "A2MU-T630-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Эту особь я изучу позже. Уверен, истребление фанатичных глупцов даст немало ценных сведений.",
+      "metadata": {
+        "string_id": 2172,
+        "speaker_string_id": 2173,
+        "dialogue_id": "A2MU-T640-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Капитан Бандарион, хвала Темной Госпоже, вы здесь! Нам потребуется время, чтобы выставить руны на пилоне в нужном порядке!",
+      "metadata": {
+        "string_id": 2592,
+        "speaker_string_id": 2593,
+        "dialogue_id": "A2MU-T650-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Не подпускайте к нам банши, и мы сможем решить всё без кровопролития.",
+      "metadata": {
+        "string_id": 2596,
+        "speaker_string_id": 2597,
+        "dialogue_id": "A2MU-T660-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Нет! Работай мы быстрее, этого можно было бы избежать.",
+      "metadata": {
+        "string_id": 2604,
+        "speaker_string_id": 2605,
+        "dialogue_id": "A2MU-T670-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Отлично! В будущем придется укрепить эти пилоны.",
+      "metadata": {
+        "string_id": 2555,
+        "speaker_string_id": 2556,
+        "dialogue_id": "A2MU-T680-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Вариматрас",
+      "text": "Похоже, крики прекратились. Не знаю, как вам это удалось, но вы определенно заслужили награду.",
+      "metadata": {
+        "string_id": 2204,
+        "speaker_string_id": 2205,
+        "dialogue_id": "A2MU-T690-VARIMATHRAS"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Как это щедро с твоей стороны.",
+      "metadata": {
+        "string_id": 2209,
+        "speaker_string_id": 2210,
+        "dialogue_id": "A2MU-T700-ANYA"
+      }
+    },
+    {
+      "speaker": "Сильвана",
+      "text": "Готовьтесь. Когда мы начнем осаду Монастыря Алого ордена, пути назад уже не будет.",
+      "metadata": {
+        "string_id": 2803,
+        "speaker_string_id": 2804,
+        "dialogue_id": "A2MU-T710-SYLVANAS"
+      }
+    },
+    {
+      "speaker": "Бернд",
+      "text": "Чтобы восстановить все, что разрушил Алый орден, уйдут недели. Что ж, примусь за работу.",
+      "metadata": {
+        "string_id": 2217,
+        "speaker_string_id": 2218,
+        "dialogue_id": "A2MU-T720-BERND"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Хм-м, и это вся кровь, которую вам удалось найти? Ну ладно. Лучше, чем ничего.",
+      "metadata": {
+        "string_id": 2225,
+        "speaker_string_id": 2226,
+        "dialogue_id": "A2MU-T730-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Он ослаб! Теперь другие особи могут затолкать его обратно!",
+      "metadata": {
+        "string_id": 2539,
+        "speaker_string_id": 2540,
+        "dialogue_id": "A2MU-T613-GAREK"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Неудивительно, что Алый орден пал жертвой этого чудовища.",
+      "metadata": {
+        "string_id": 2545,
+        "speaker_string_id": 2546,
+        "dialogue_id": "A2MU-T614-GAREK"
+      }
+    },
+    {
+      "speaker": "Ания",
+      "text": "Пришлось уничтожить зверушку Гнилесса. Ну что ж...",
+      "metadata": {
+        "string_id": 2535,
+        "speaker_string_id": 2536,
+        "dialogue_id": "A2MU-T615-ANYA"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Не надо убивать банши! Достаточно сдерживать ее!",
+      "metadata": {
+        "string_id": 2562,
+        "speaker_string_id": 2563,
+        "dialogue_id": "A2MU-T661-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Мы скоро починим пилон! Так держать!",
+      "metadata": {
+        "string_id": 2573,
+        "speaker_string_id": 2574,
+        "dialogue_id": "A2MU-T662-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Лексингтон",
+      "text": "Пилон почти восстановлен!",
+      "metadata": {
+        "string_id": 2584,
+        "speaker_string_id": 2585,
+        "dialogue_id": "A2MU-T663-LEXINGTON"
+      }
+    },
+    {
+      "speaker": "Гнилесс",
+      "text": "Возьмите эту сыворотку. Она позволит вам какое-то время управлять подопытными – из числа тех, что помельче.",
+      "metadata": {
+        "string_id": 2519,
+        "speaker_string_id": 2520,
+        "dialogue_id": "A2MU-T611-PUTRESS"
+      }
+    },
+    {
+      "speaker": "Гарек",
+      "text": "Может, более крупные особи смогут загнать эту тварь обратно в камеру.",
+      "metadata": {
+        "string_id": 2853,
+        "speaker_string_id": 2854,
+        "dialogue_id": "A2MU-T612-GAREK"
+      }
+    }
+  ]
+}

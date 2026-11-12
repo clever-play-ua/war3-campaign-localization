@@ -240,7 +240,10 @@ Scripts (not in this repo): `casc_common.py`, `blte.py`, `encoding_file.py`, `ca
   never mix with the original progress. Carry-over across our maps is not yet verified in game.
 * Strings the scripts show come from the map WTS (`StringIdentity("TRIGSTR_1670")` etc.), so translating the WTS is enough
   for map text; menu names are `CAMP_*` in `_Locales\<loc>.w3mod:UI/FrameDef/GlobalStrings.fdf` (saved in `FK/enUS/GLOBAL`).
-* Tools: `tools/fk_extract.py` (decrypted maps -> `FK/enUS/<campaign>/<NN_Map_Title>/` wts + conversation + dialogue.json),
+* Tools: `tools/fk_extract.py` (decrypted maps -> `FK/<locale>/<campaign>/<NN_Map_Title>/` wts + dialogue.json, conversation.json
+  in enUS), `tools/fk_clean.py` (`dialogue_clean.json` = speaker/text/metadata for proofreading, all missions and languages;
+  Blizzard's conversation.json order, which the user accepted; HumanRE01 has a story order worked out from its script:
+  cinematics are queued by `Cinematic_NN_Play_CS_Q` triggers from gameplay events, T numbers are story order),
   `tools/fk_build.py` (decrypted maps + decompiled Lua -> `CampaignUA/ForsakenKingdom/<Map>_ukUA.w3x` + `UI/CampaignInfoDLC01.txt`,
   `--tag "UA TEST"` marks story strings in all 12 locales, `--cache-prefix UA_TEST_`, `--install <_retail_>`).
 * Decompiled scripts: 20 files, 0.4-5.2 MB each; unluac output has no error markers, a few `goto` (UndeadRE01: 29). A full
