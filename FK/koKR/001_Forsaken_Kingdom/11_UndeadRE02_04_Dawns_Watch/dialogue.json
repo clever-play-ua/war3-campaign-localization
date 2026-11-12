@@ -1,0 +1,301 @@
+{
+  "map": "UndeadRE02_04",
+  "title": "Dawns Watch",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M4-C010-010-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "군주 티로서스",
+      "text": "스컬지가 우리를 찾아냈다! 은빛 여명회여, 무기를 들어라!",
+      "string_id": 411,
+      "speaker_string_id": 412,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-010-TYROSUS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M4-C010-011-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "이럴 줄 알았지!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]이럴 줄 알았지![/\"Angry\"]",
+      "string_id": 852,
+      "speaker_string_id": 851,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-011-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M4-C010-012-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "티로서스 경! 이 포세이큰들은 제 보호 아래 있습니다.",
+      "string_id": 854,
+      "speaker_string_id": 853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-012-LEONID.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M4-C010-013-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "군주 티로서스",
+      "text": "리어니드, 돌아왔군. 빛께 감사를! 그렇다면 이 언데드들은...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]리어니드, 돌아왔군. 빛께 감사를! 그렇다면 이 언데드들은...[/\"Surprised\"]",
+      "string_id": 856,
+      "speaker_string_id": 855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-013-TYROSUS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M4-C010-014-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "저와 같은 신세입니다. 붉은십자군의 공격을 받고 있지요.",
+      "string_id": 858,
+      "speaker_string_id": 857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-014-LEONID.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M4-C010-020-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "군주 티로서스",
+      "text": "광신도 놈들을 막아야 합니다.",
+      "string_id": 505,
+      "speaker_string_id": 506,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-020-TYROSUS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M4-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "너희들이 서로 다르다는 걸 정말 우리더러 믿으라는 거냐?",
+      "string_id": 395,
+      "speaker_string_id": 396,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M4-C010-040-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "군주 티로서스",
+      "text": "우리 모두는 한때 은빛 성기사단 소속이었지. 그러나 로데론의 복수를 하려는 자들이 기사단을 붉은십자군으로 뒤틀어 버렸다.",
+      "string_id": 509,
+      "speaker_string_id": 510,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-040-TYROSUS.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M4-C010-050-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "군주 티로서스",
+      "text": "빛의 진정한 가르침을 고수하는 이들은 떠나 은빛 여명회를 세웠지.",
+      "string_id": 513,
+      "speaker_string_id": 514,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-050-TYROSUS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M4-C010-060-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "군주 티로서스",
+      "text": "아아, 우리의 수는 적도다. 붉은십자군은 수도원 안에서 세를 불렸고, 우리가 전투에서 그들을 꺾을 희망은 극히 적다.",
+      "string_id": 515,
+      "speaker_string_id": 516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-060-TYROSUS.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M4-C010-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "이 수도원으로... 우리를 데려갈 수 있나?",
+      "string_id": 460,
+      "speaker_string_id": 461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-070-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M4-C010-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "너희들에게는 붉은십자군의 요새를 포위할 병력이 없지만, 포세이큰이라면 가능하지.",
+      "string_id": 469,
+      "speaker_string_id": 470,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-080-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M4-C010-090-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "놈들 전쟁을 위해 싸워주겠다고?",
+      "string_id": 478,
+      "speaker_string_id": 479,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-090-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M4-C010-091-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그렇다면 우리의 전쟁이기도 하군. 붉은십자군은 분명 언더시티를 다시 공격할 걸세.",
+      "string_id": 860,
+      "speaker_string_id": 859,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-091-GAREK.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M4-C010-100-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "내가 안내하겠다. 실바나스 여군주가 은빛 여명회가 아닌 다른 세력을 믿을지 모르겠으니.",
+      "string_id": 487,
+      "speaker_string_id": 488,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-100-LEONID.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M4-C010-110-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "믿어 주신다면 다행인 줄 알아라.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]믿어 주신다면 다행인 줄 알아라.[/\"Squint\"]",
+      "string_id": 496,
+      "speaker_string_id": 497,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M4-C010-120-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그렇다면 결정됐군. 빛이 우리 길을 이끄리라.",
+      "string_id": 501,
+      "speaker_string_id": 502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-120-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M4-T010-LEONID",
+      "scene": "Transmissions.Entry Transmission",
+      "speaker": "리어니드",
+      "text": "은빛 여명회는 오우거 영역에 주둔지를 세울 수밖에 없었다. 언덕 위로 싸우며 올라가야 할지도.",
+      "string_id": 154,
+      "speaker_string_id": 155,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T010-LEONID.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M4-T020-ARGENTDAWNCAPTIVE",
+      "scene": "Transmissions.Survivor Soldier Transmission",
+      "speaker": "보병",
+      "text": "리어니드! 오우거가 순찰대를 포로로 잡았습니다! 요새가 공격받고 있어요!",
+      "string_id": 126,
+      "speaker_string_id": 127,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T020-ARGENTDAWNCAPTIVE.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M4-T030-LEONID",
+      "scene": "Transmissions.Survivor Soldier Transmission",
+      "speaker": "리어니드",
+      "text": "뭐라?! 그렇다면 여유 부릴 때가 아니군! 다른 이들을 구해 포위망을 뚫어야 해!",
+      "string_id": 146,
+      "speaker_string_id": 147,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T030-LEONID.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M4-T060-LEONID",
+      "scene": "Transmissions.Siege Transmission",
+      "speaker": "리어니드",
+      "text": "빛의 은혜로다, 아직 너무 늦지는 않았군! 요새 문이 아직도 버티고 있어!",
+      "string_id": 258,
+      "speaker_string_id": 259,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T060-LEONID.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M4-T070-GAREK",
+      "scene": "Transmissions.Siege Transmission",
+      "speaker": "가렉",
+      "text": "오래가지는 못할 거다. 당장 포위를 끝내야 해!",
+      "string_id": 260,
+      "speaker_string_id": 261,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T070-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M4-T080-LEONID",
+      "scene": "Transmissions.Boss Defeated Transmission",
+      "speaker": "리어니드",
+      "text": "포위망을 해산했고, 나머지 오우거들은 언덕 지대로 흩어지겠지. 요새로 가자.",
+      "string_id": 252,
+      "speaker_string_id": 253,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T080-LEONID.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M4-T090-GAREK",
+      "scene": "Transmissions.Introducing Leonid Transmission",
+      "speaker": "가렉",
+      "text": "실바나스 여군주님께 알아낸 사실을 보고해 드릴 시간이군.",
+      "string_id": 833,
+      "speaker_string_id": 834,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T090-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M4-T100-ANYA",
+      "scene": "Transmissions.Introducing Leonid Transmission",
+      "speaker": "안야",
+      "text": "따뜻한 환영은 기대하지 말라고, 리어니드. 모든 포세이큰이 나처럼 자비롭지는 않으니까.",
+      "string_id": 835,
+      "speaker_string_id": 836,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T100-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "FootmanReady1",
+      "scene": "Argent Dawn Resuce.Rescue 1",
+      "speaker": "보병",
+      "text": "전투 준비 완료!",
+      "string_id": 912,
+      "speaker_string_id": 911,
+      "sound": "Units/Human/Footman/FootmanReady1.ogg"
+    },
+    {
+      "n": 27,
+      "id": "PriestYes1",
+      "scene": "Argent Dawn Resuce.Rescue 2",
+      "speaker": "사제",
+      "text": "섬기겠습니다.",
+      "string_id": 913,
+      "speaker_string_id": 914,
+      "sound": "Units/Human/Priest/PriestYes1.ogg"
+    },
+    {
+      "n": 28,
+      "id": "FootmanWhat4",
+      "scene": "Argent Dawn Resuce.Rescue 3",
+      "speaker": "보병",
+      "text": "말씀만 하십시오.",
+      "string_id": 915,
+      "speaker_string_id": 916,
+      "sound": "Units/Human/Footman/FootmanWhat4.ogg"
+    },
+    {
+      "n": 29,
+      "id": "RiflemanReady1",
+      "scene": "Argent Dawn Resuce.Rescue 4",
+      "speaker": "소총병",
+      "text": "장전 완료!",
+      "string_id": 917,
+      "speaker_string_id": 918,
+      "sound": "Units/Human/Rifleman/RiflemanReady1.ogg"
+    }
+  ]
+}

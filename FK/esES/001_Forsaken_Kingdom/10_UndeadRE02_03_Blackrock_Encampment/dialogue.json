@@ -1,0 +1,98 @@
+{
+  "map": "UndeadRE02_03",
+  "title": "Blackrock Encampment",
+  "locale": "esES",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M3-T010-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Anya",
+      "text": "Orcos. Llevan años siendo una lacra para estas tierras.",
+      "string_id": 39,
+      "speaker_string_id": 40,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M3-T020-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Leonid",
+      "text": "No todos, pero el clan Roca Negra es famoso por sus brutales incursiones.",
+      "string_id": 319,
+      "speaker_string_id": 320,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M3-T030-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Garek",
+      "text": "Pues hay que disuadirlos de que ataquen a los Renegados.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M3-T040-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 02 The Deed Is Done",
+      "speaker": "Anya",
+      "text": "Ya no hay vuelta atrás. Ojalá los otros orcos tomen nota.",
+      "string_id": 53,
+      "speaker_string_id": 54,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M3-T050-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Garek",
+      "text": "Leonid, has dicho que no todos los orcos son una amenaza. ¿Has conocido a otros?",
+      "string_id": 57,
+      "speaker_string_id": 58,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M3-T060-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Leonid",
+      "text": "Sí, del Alba Argenta. Parece que un joven jefe de guerra guio a muchos orcos a través del mar.",
+      "string_id": 335,
+      "speaker_string_id": 336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T060-LEONID.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M3-T061-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Leonid",
+      "text": "\"Cuentan que está formando una \"\"nueva Horda\"\" que se rige por la fuerza y el honor.\"",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T061-LEONID.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M3-T070-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Anya",
+      "text": "Cuesta creerlo sin haberlo visto.",
+      "string_id": 71,
+      "speaker_string_id": 72,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HeroBladeMasterYesAttack3",
+      "scene": "Dialogues.Transmissions Dialogue 04 Blademaster Taunt 1",
+      "speaker": "Nikoro",
+      "text": "¡Prueba mi acero!",
+      "string_id": 341,
+      "speaker_string_id": 342,
+      "sound": "Units/Orc/HeroBladeMaster/HeroBladeMasterYesAttack3.flac"
+    }
+  ]
+}

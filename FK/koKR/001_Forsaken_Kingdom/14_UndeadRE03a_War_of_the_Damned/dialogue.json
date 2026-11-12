@@ -1,0 +1,521 @@
+{
+  "map": "UndeadRE03a",
+  "title": "War of the Damned",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3M1-C010-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "안야! 반다리온 대장! 이쪽이다!",
+      "string_id": 1694,
+      "speaker_string_id": 1695,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3M1-C010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "실바나스 님, 저게 대체 뭡니까?!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]실바나스 님, 저게 대체 뭡니까?![/\"Surprised\"]",
+      "string_id": 1696,
+      "speaker_string_id": 1697,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3M1-C010-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "낙스라마스다. 비행 요새로 개조된 옛 죽음의 요새요, 고위 리치 켈투자드의 거처지.",
+      "string_id": 1698,
+      "speaker_string_id": 1699,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3M1-C010-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "막대한 파괴의 힘을 뽐내지만, 도시 폐허를 깔아뭉개는 것은 스컬지의 목표가 아니었다.",
+      "string_id": 1700,
+      "speaker_string_id": 1701,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3M1-C010-050-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "저 폭발로 지상이 뚫려 언더시티로 가는 입구가 열렸다. 침입해 포세이큰으로부터 되찾으려는 계획이겠지.",
+      "string_id": 1702,
+      "speaker_string_id": 1703,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A3M1-C010-060-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "상공은 정리할 수 있지만, 놈들의 지상 병력이 진군 중이다. 전방 방어선이 막는 것도 한계가 있을 테지.",
+      "string_id": 1704,
+      "speaker_string_id": 1705,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-060-SYLVANAS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A3M1-C010-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "어떻게든 병력을 모아 증원하겠습니다.",
+      "string_id": 1706,
+      "speaker_string_id": 1707,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-070-GAREK.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A3M1-C010-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "스컬지는 언더시티에 발을 들일 수 없을 겁니다, 어둠의 여왕이시여. 맹세하나이다.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-080-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A3M1-C010-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "좋다. 이제 가라. 포세이큰의 운명이 너희 손에 달렸다.",
+      "string_id": 1710,
+      "speaker_string_id": 1711,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A3M1-C020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "딱 맞춰 왔군, 리어니드. 예상치 못했는데.",
+      "string_id": 1712,
+      "speaker_string_id": 1713,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A3M1-C020-020-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "낙스라마스가 언더시티 쪽으로 향하는 걸 볼 때 스컬지의 뜻을 깨달았소. 저렇게 떠다니게 둘 수는 없지.",
+      "string_id": 1714,
+      "speaker_string_id": 1715,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-020-LEONID.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A3M1-C020-030-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "스컬지가 비행선을 통해 병력을 배치했소. 비행선을 징발할 수만 있다면 죽음의 요새로 갈 수 있겠지.",
+      "string_id": 1716,
+      "speaker_string_id": 1717,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-030-LEONID.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A3M1-C020-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "비행선으로는 한 번에 소수의 인원만 수송할 수 있다. 올라가면 낙스라마스는 어떻게 파괴하지?",
+      "string_id": 1718,
+      "speaker_string_id": 1719,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-040-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A3M1-C020-050-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "그건 제가 도울 수 있을지도 모릅니다.",
+      "string_id": 1720,
+      "speaker_string_id": 1721,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-050-BERND.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A3M1-C020-060-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "제가 폭파조에 나눠 주는 폭발물입니다.",
+      "string_id": 1722,
+      "speaker_string_id": 1723,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-060-BERND.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A3M1-C020-070-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "핵심 구조물 위치에서 터뜨린다면 이 흉물스러운 도시는 무너져 내릴 겁니다.",
+      "string_id": 1724,
+      "speaker_string_id": 1725,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-070-BERND.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A3M1-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "우리 모두를 구했군, 친구.",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]우리 모두를 구했군, 친구.[/\"Happy\"]",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A3M1-C020-090-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "은혜를 갚는 것뿐입니다.",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]은혜를 갚는 것뿐입니다.[/\"Happy\"]",
+      "string_id": 1728,
+      "speaker_string_id": 1729,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-090-BERND.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A3M1-C020-100-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "그렇다면 앞으로의 계획은 명확하군. 가렉, 낙스라마스의 파괴를 믿고 맡기겠다.",
+      "string_id": 1730,
+      "speaker_string_id": 1731,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-100-SYLVANAS.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A3M1-C020-110-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "예상치 못한 우리 남은 동맹은 그대가 돌아올 때까지 언더시티를 지키겠다.",
+      "string_id": 1732,
+      "speaker_string_id": 1733,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-110-SYLVANAS.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A3M1-C020-120-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그리하겠습니다, 어둠의 여왕이시여.",
+      "string_id": 1734,
+      "speaker_string_id": 1735,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-120-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A3M1-T010-SYLVANAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold GameplayStart Q",
+      "speaker": "실바나스",
+      "text": "최대한 병력을 소집해라. 전장 곳곳에 그대의 도움이 필요한 병력이 있을 것이다.",
+      "string_id": 1753,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T010-SYLVANAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A3M1-T020-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q",
+      "speaker": "안야",
+      "text": "낙스라마스가 다시 포화를 쏟아붓는다면 지상 공격을 막는다 해도 아무 소용도 없을 거야.",
+      "string_id": 1754,
+      "speaker_string_id": 1737,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T020-ANYA.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A3M1-T030-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q",
+      "speaker": "가렉",
+      "text": "그렇다면 끌어내릴 방법을 찾아야겠군.",
+      "string_id": 1755,
+      "speaker_string_id": 1738,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T030-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A3M1-T040-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q",
+      "speaker": "죽음의 경비병",
+      "text": "반다리온 대장님! 다른 두 곳의 다리에서 위치를 확보했지만, 오래 버티지 못할 겁니다!",
+      "string_id": 1758,
+      "speaker_string_id": 1757,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T040-DEATHGUARD.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A3M1-T050-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q",
+      "speaker": "가렉",
+      "text": "필요한 대로 추가 병력을 보내겠다. 어쩔 수 없이 후퇴하기 전까지 굳건히 버텨라!",
+      "string_id": 1756,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T050-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A3M1-T060-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 01 Rescue Q",
+      "speaker": "죽음의 경비병",
+      "text": "전투에 합류하셔서 다행입니다, 반다리온 대장!",
+      "string_id": 1785,
+      "speaker_string_id": 1782,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T060-DEATHGUARD.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A3M1-T070-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 02 Rescue Q",
+      "speaker": "죽음의 경비병",
+      "text": "스컬지 구더기들은 우리 고향을 공격한 걸 후회하게 될 것이다!",
+      "string_id": 1786,
+      "speaker_string_id": 1783,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T070-DEATHGUARD.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A3M1-T080-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 04 Rescue Q",
+      "speaker": "죽음의 경비병",
+      "text": "헤. 포세이큰을 물리치려면 이걸로는 부족하지!",
+      "string_id": 1787,
+      "speaker_string_id": 1784,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T080-DEATHGUARD.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A3M1-T090-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold MeatWagons Q NOT USED",
+      "speaker": "가렉",
+      "text": "시체 수레가 고지대에 있다. 일꾼을 시켜 수리해 방어를 보강해라.",
+      "string_id": 1760,
+      "speaker_string_id": 1759,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T090-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A3M1-T100-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost1 Q",
+      "speaker": "바리마트라스",
+      "text": "다리를 잃었다! 내가 엄호하는 동안 후퇴해라!",
+      "string_id": 1761,
+      "speaker_string_id": 1740,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T100-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A3M1-T110-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost2 Q",
+      "speaker": "바리마트라스",
+      "text": "이 위치를 사수할 수 없다! 언더시티로 돌아가라!",
+      "string_id": 1762,
+      "speaker_string_id": 1741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T110-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A3M1-T120-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost3 Q",
+      "speaker": "바리마트라스",
+      "text": "적이 너무 많다! 아직 가능할 때 후퇴해라!",
+      "string_id": 1763,
+      "speaker_string_id": 1742,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T120-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A3M1-T130-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q",
+      "speaker": "가렉",
+      "text": "끝도 없이 밀려드는군!",
+      "string_id": 1764,
+      "speaker_string_id": 1743,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T130-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A3M1-T140-SYLVANAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q",
+      "speaker": "실바나스",
+      "text": "위치를 사수해라! 이곳에서 쓰러진다면 포세이큰도 사라진다!",
+      "string_id": 1765,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T140-SYLVANAS.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A3M1-T150-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q",
+      "speaker": "리어니드",
+      "text": "은빛 여명회의 기사들이여! 스컬지 이교도를 쳐부숴라!",
+      "string_id": 1768,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T150-LEONID.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A3M1-T160-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q",
+      "speaker": "가렉",
+      "text": "리어니드다! 은빛 여명회가 전투에 합류했다!",
+      "string_id": 1766,
+      "speaker_string_id": 1745,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T160-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A3M1-T170-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold Completed Q",
+      "speaker": "가렉",
+      "text": "폐허를 확보했다! 언더시티 입구에서 재집결하라!",
+      "string_id": 1769,
+      "speaker_string_id": 1746,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T170-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A3M1-T180-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Discover Q",
+      "speaker": "리어니드",
+      "text": "낙스라마스 공격에 함께하겠다. 폭발물로 가장 큰 피해를 줄 만한 곳을 알아.",
+      "string_id": 1770,
+      "speaker_string_id": 1771,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T180-LEONID.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A3M1-T190-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "가렉",
+      "text": "리어니드, 폭발물을 어디 설치해야 하는지는 어떻게 알지?",
+      "string_id": 1774,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T190-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A3M1-T200-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "리어니드",
+      "text": "이전에 낙스라마스의 전당을 걸은 적이 있으니까... 스컬지로서. 내부에서 본 것은 아직 모두 기억한다.",
+      "string_id": 1772,
+      "speaker_string_id": 1773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T200-LEONID.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A3M1-T210-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "안야",
+      "text": "그렇다면 스트라솔름에 있었겠군. 노스렌드의 얼어붙은 황무지에서 뜯겨져 나온 뒤 옮겨진 곳이 바로 거기니까.",
+      "string_id": 1775,
+      "speaker_string_id": 1748,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T210-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A3M1-T220-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "가렉",
+      "text": "스트라솔름... 어째서 난...",
+      "string_id": 1776,
+      "speaker_string_id": 1749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T220-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A3M1-T230-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "가렉",
+      "text": "아니. 지금 중요한 게 아니지. 중요한 것은 우리 임무뿐이다.",
+      "string_id": 1777,
+      "speaker_string_id": 1750,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T230-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A3M1-T240-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky GateEnemies Q",
+      "speaker": "가렉",
+      "text": "어서 비행선으로 가지 않으면 압도당할 거다!",
+      "string_id": 1778,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T240-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A3M1-T250-NECROMANCERMORKATH",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update1 Q",
+      "speaker": "강령술사 모르카스",
+      "text": "침입자다! 너희 배신자 놈들을 스컬지 앞에 무릎 꿇리겠다!",
+      "string_id": 1779,
+      "speaker_string_id": 1780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T250-NECROMANCERMORKATH.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A3M1-T260-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update2 Q",
+      "speaker": "가렉",
+      "text": "서둘러서 비행선으로! 증원군이 도착하기 전에!",
+      "string_id": 1781,
+      "speaker_string_id": 1752,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T260-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "DeathKnightWarcry1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold DeathKnightAttacked Q",
+      "speaker": "죽음의 기사",
+      "text": "공포의 지배가 시작되리라!",
+      "string_id": 1402,
+      "speaker_string_id": 1403,
+      "sound": "Units/Undead/HeroDeathKnight/DeathKnightWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "HeroLichYesAttack1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold LichAttacked Q",
+      "speaker": "리치",
+      "text": "최후를 맞이하라!",
+      "string_id": 1404,
+      "speaker_string_id": 1405,
+      "sound": "Units/Undead/HeroLich/HeroLichYesAttack1.flac"
+    },
+    {
+      "n": 50,
+      "id": "NerubianCryptLordPissed1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold CryptLordAttacked Q",
+      "speaker": "지하군주",
+      "text": "스컬지가 모든 것을 삼키리라!",
+      "string_id": 1621,
+      "speaker_string_id": 1622,
+      "sound": "Units/Undead/HeroCryptLord/NerubianCryptLordPissed1.flac"
+    },
+    {
+      "n": 51,
+      "id": "AbominationWhat1",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 03 Rescue Abomination Q",
+      "speaker": "누더기골렘",
+      "text": "무엇을 해야 하나?",
+      "string_id": 1286,
+      "speaker_string_id": 1287,
+      "sound": "Units/Undead/Abomination/AbominationWhat1.flac"
+    }
+  ]
+}

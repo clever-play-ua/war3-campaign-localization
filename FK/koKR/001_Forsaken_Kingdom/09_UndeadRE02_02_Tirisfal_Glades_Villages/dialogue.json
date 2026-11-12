@@ -1,0 +1,1203 @@
+{
+  "map": "UndeadRE02_02",
+  "title": "Tirisfal Glades Villages",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M2-C010-010-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "붉은십자군이 후퇴한다. 은빛 여명회로 돌아가 무슨 일이 있었는지 보고해야겠어.",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-010-LEONID.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M2-C010-020-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "둘에게 동행을 부탁하고 싶은데. 티리스팔, 특히 포세이큰에 관해서는 나보다 훨씬 잘 알고 있을 테니.",
+      "string_id": 1856,
+      "speaker_string_id": 1857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M2-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "너희 성기사들에게 포세이큰에 관해 하나라도 알려 줄 거란 생각은 추호도 하지 마라.",
+      "string_id": 1858,
+      "speaker_string_id": 1859,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M2-C010-040-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "우리가 같은 편이라는 건 대체 언제쯤 깨달으려나?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]우리가 같은 편이라는 건 대체 언제쯤 깨달으려나?[/\"Angry\"]",
+      "string_id": 1860,
+      "speaker_string_id": 1861,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-040-LEONID.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M2-C010-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "같은 적을 두고 있다고 해서 우리가 동맹인 건 아냐.",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-050-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M2-C010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "안야. 리어니드는 우리와 함께 싸우기 위해 목숨을 걸었어. 이렇게까지 의심할 필요는 없을 것 같은데.",
+      "string_id": 1864,
+      "speaker_string_id": 1865,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-060-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M2-C010-070-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "의심 말고는 아무것도 줄 생각 없어. 하지만 네가 놈을 믿는다면... 당분간은 활을 거두지.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]의심 말고는 아무것도 줄 생각 없어. 하지만 네가 놈을 믿는다면... 당분간은 활을 거두지.[/\"Squint\"]",
+      "string_id": 1866,
+      "speaker_string_id": 1867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-070-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M2-C010-080-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "은빛 여명회에서도 고마워할 거다. 너무 기다리게 두지는 말자고.",
+      "string_id": 1743,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-080-LEONID.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M2-M005-010-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "연기가 브릴에서 피어오른다! 붉은십자군이 틀림없어!",
+      "string_id": 1314,
+      "speaker_string_id": 1315,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M005-010-ANYA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M2-M005-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그렇다면 낭비할 시간이 없겠군. 움직이자!",
+      "string_id": 1316,
+      "speaker_string_id": 1317,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M005-020-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M2-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "괜찮나, 친구? 나는 가렉 반다리온이다. 경비대의...",
+      "string_id": 1477,
+      "speaker_string_id": 1478,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M2-M010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "안야?! 뭐 하는 거야? 포세이큰이잖아! 우리 동족이라고!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]안야?! 뭐 하는 거야? 포세이큰이잖아! 우리 동족이라고![/\"Surprised\"]",
+      "string_id": 1480,
+      "speaker_string_id": 1481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M2-M010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "아니. 우리 동족일 수도 있었지. 그러는 대신 등을 돌렸고.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]아니. 우리 동족일 수도 있었지. 그러는 대신 등을 돌렸고.[/\"Angry\"]",
+      "string_id": 1485,
+      "speaker_string_id": 1486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-030-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M2-M010-040-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "그 말이 맞아.",
+      "string_id": 1747,
+      "speaker_string_id": 1748,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-040-LEONID.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M2-M010-050-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "내 이름은 리어니드 바돌로매, 은빛 여명회의 기사다.",
+      "string_id": 1753,
+      "speaker_string_id": 1754,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-050-LEONID.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M2-M010-060-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "우리처럼 스컬지에게서 해방된 자다. 하지만 이 성기사들과 함께하기 위해 어둠의 여왕님을 두고 떠났지.",
+      "string_id": 1534,
+      "speaker_string_id": 1535,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-060-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M2-M010-061-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "놈들이 네가 모습을 보이자마자 죽여 버리지 않았다니 놀라운데.",
+      "string_id": 1540,
+      "speaker_string_id": 1541,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-061-ANYA.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M2-M010-070-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "붉은십자군과 은빛 여명회는 닮은 점이 하나도 없지. 내... 상태에도 불구하고, 은빛 여명회에서는 두 팔 벌려 날 환영해 줬어.",
+      "string_id": 1759,
+      "speaker_string_id": 1760,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-070-LEONID.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M2-M010-071-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "붉은십자군 광신도들이 은빛 성기사단의 유산을 더럽히고 있지만, 우린 이 유산을 지키려 해.",
+      "string_id": 1765,
+      "speaker_string_id": 1766,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-071-LEONID.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M2-M010-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "외투의 문양은 다르지만, 결국 같은 천에서 잘라낸 거잖나.",
+      "string_id": 1550,
+      "speaker_string_id": 1551,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-080-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M2-M010-090-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그만. 우리가 입씨름하는 동안에도 붉은십자군은 계속해서 티리스팔을 불태우고 있다.",
+      "string_id": 1556,
+      "speaker_string_id": 1557,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-090-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M2-M010-100-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "다른 마을도 구해내려면 재빨리 행동해야 해.",
+      "string_id": 1565,
+      "speaker_string_id": 1566,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-100-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M2-M010-110-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "리어니드",
+      "text": "빛에 맹세컨대, 너희들이 붉은십자군에 맞설 수 있도록 돕지.",
+      "string_id": 1773,
+      "speaker_string_id": 1774,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-110-LEONID.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M2-M010-120-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "빛은 지옥에나 떨어지라지. 우릴 돕지 않는다면 내가 직접 끝장내 주마.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]빛은 지옥에나 떨어지라지. 우릴 돕지 않는다면 내가 직접 끝장내 주마.[/\"Angry\"]",
+      "string_id": 1775,
+      "speaker_string_id": 1776,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-120-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M2-M020-010-MAGISTRATESEVREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "집정관 세브렌",
+      "text": "반다리온 대장, 도움이 필요하오.",
+      "string_id": 1403,
+      "speaker_string_id": 1404,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-010-MAGISTRATESEVREN.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2M2-M020-020-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "집정관 세브렌",
+      "text": "고블린 무리가 목재 비축분을 약탈해 버려서 수리 작업이 중단되었어. 되찾아 줄 수 있겠나?",
+      "string_id": 1406,
+      "speaker_string_id": 1407,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-020-MagistrateSevren.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2M2-M020-030-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "가렉",
+      "text": "물론이지. 우리에게 맡겨라, 세브렌.",
+      "string_id": 1414,
+      "speaker_string_id": 1415,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2M2-M030-010-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "손재주 좋은 루즈",
+      "text": "어, 거기 안녕하쇼! 혹시... 그 동네 이름이 뭐였지? 거기서 오셨나?",
+      "string_id": 1656,
+      "speaker_string_id": 1657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-010-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2M2-M030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "브릴. 그래, 거기서 왔다. 목재를 내놔라. 그럼 아무도 다칠 일 없어.",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2M2-M030-030-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "손재주 좋은 루즈",
+      "text": "그건 안 되겠는뎁쇼, 나리. 여기 비행선을 완성하려면 필요해서.",
+      "string_id": 1665,
+      "speaker_string_id": 1666,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-030-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2M2-M030-040-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "손재주 좋은 루즈",
+      "text": "혹시... 모르는 척 지나가신다면 땅바닥에 금화가 좀 떨어져 있는 걸 찾을 수 있을지도. 무슨 소린지 아시겠수?",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-040-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2M2-M030-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "네놈의 뇌물 따위 아무 소용 없다. 브릴의 사람들이 집을 재건하려면 그 목재가 필요해.",
+      "string_id": 1670,
+      "speaker_string_id": 1671,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-050-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2M2-M030-060-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "손재주 좋은 루즈",
+      "text": "집? 걸어 다니는 시체 놈들이 집은 무슨 집! 구덩이나 파서 뛰어들어!",
+      "string_id": 1675,
+      "speaker_string_id": 1676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-060-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2M2-M030-070-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "가렉, 어쩔래? 금을 가져갈까, 아니면 저놈들 목숨을 가져갈까?",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-070-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2M2-M030-010-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "손재주 좋은 루즈",
+      "text": "어, 거기 안녕하쇼! 혹시... 그 동네 이름이 뭐였지? 거기서 오셨나?",
+      "string_id": 1656,
+      "speaker_string_id": 1657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-010-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2M2-M030-020-GAREK",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "가렉",
+      "text": "브릴. 그래, 거기서 왔다. 목재를 내놔라. 그럼 아무도 다칠 일 없어.",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2M2-M030-030-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "손재주 좋은 루즈",
+      "text": "그건 안 되겠는뎁쇼, 나리. 여기 비행선을 완성하려면 필요해서.",
+      "string_id": 1665,
+      "speaker_string_id": 1666,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-030-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2M2-M030-040-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "손재주 좋은 루즈",
+      "text": "혹시... 모르는 척 지나가신다면 땅바닥에 금화가 좀 떨어져 있는 걸 찾을 수 있을지도. 무슨 소린지 아시겠수?",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-040-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2M2-M030-050-ANYA",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "안야",
+      "text": "네놈의 뇌물 따위 아무 소용 없다. 브릴의 사람들이 집을 재건하려면 그 목재가 필요해.",
+      "string_id": 1670,
+      "speaker_string_id": 1671,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-050-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2M2-M030-060-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "손재주 좋은 루즈",
+      "text": "집? 걸어 다니는 시체 놈들이 집은 무슨 집! 구덩이나 파서 뛰어들어!",
+      "string_id": 1675,
+      "speaker_string_id": 1676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-060-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2M2-M030-070-ANYA",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "안야",
+      "text": "가렉, 어쩔래? 금을 가져갈까, 아니면 저놈들 목숨을 가져갈까?",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-070-ANYA.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2M2-M030-080-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Goblin GoldTaken Q",
+      "speaker": "가렉",
+      "text": "오늘 피는 충분히 봤다. 브릴에 필요한 목재는 다른 곳에서 구할 수 있겠지.",
+      "string_id": 1591,
+      "speaker_string_id": 1592,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-080-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2M2-M040-010-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Discover Q",
+      "speaker": "집행관 아렌",
+      "text": "잘 왔네, 반다리온 대장. 여기 문제가 좀 생겼어.",
+      "string_id": 1397,
+      "speaker_string_id": 1398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M040-010-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2M2-M040-020-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Discover Q",
+      "speaker": "집행관 아렌",
+      "text": "최근 전투로 마을 묘지에 죽음의 망령이 늘었어. 곧 처리하지 않으면 위협이 될 거야.",
+      "string_id": 1395,
+      "speaker_string_id": 1396,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M040-020-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2M2-M050-010-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "아, 반다리온 대장! 이 곤경에서 나를 좀 구해줄 수 있을까.",
+      "string_id": 1420,
+      "speaker_string_id": 1421,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-010-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2M2-M050-020-OLSON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "올슨",
+      "text": "곤경이라니, 네놈이 이 살인자를 아직도 체포하지 않았다는 게 문제지!",
+      "string_id": 1423,
+      "speaker_string_id": 1424,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-020-OLSON.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2M2-M050-020-ANDRE",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "안드레",
+      "text": "나?! 딱 봐도 중독돼 죽었잖아! 그러면 네놈이 주요 용의자지!",
+      "string_id": 1426,
+      "speaker_string_id": 1427,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-020-ANDRE.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2M2-M050-030-GAREK",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "가렉",
+      "text": "그만. 무슨 일이 있었지?",
+      "string_id": 1429,
+      "speaker_string_id": 1430,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-030-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2M2-M050-040-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "누가 살인을 저지르고 붉은십자군의 공격으로 덮어씌웠어. 여기 불쌍한 살로만이 죽었는데 전투 근처에도 간 적이 없거든.",
+      "string_id": 1432,
+      "speaker_string_id": 1433,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-040-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2M2-M050-050-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "이 둘이 전투 중 행방이 파악되지 않은 유이한 마을 사람이야. 마을 연금술사 올슨과 마을 사냥꾼 안드레.",
+      "string_id": 1438,
+      "speaker_string_id": 1439,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-050-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2M2-M050-060-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "날 위해 사건을 좀 조사해 주겠어? 마을의 난장판을 수습하느라 너무 바쁘거든.",
+      "string_id": 1441,
+      "speaker_string_id": 1442,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-060-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2M2-M050-070-GAREK",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "가렉",
+      "text": "내가 딱히 수사관은 아니지만, 세드릭, 그래도 최선을 다해 보지.",
+      "string_id": 1446,
+      "speaker_string_id": 1447,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-070-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2M2-M050-080-SEDRICKCALSTON",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Discover Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "수사를 끝내고 누가 일을 저질렀는지 알아내면 나한테 알려 줘.",
+      "string_id": 1601,
+      "speaker_string_id": 1602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-080-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2M2-M060-010-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "자, 반다리온 대장? 뭘 찾아냈지?",
+      "string_id": 1605,
+      "speaker_string_id": 1606,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-010-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2M2-M060-120-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "가렉",
+      "text": "둘 다 범인이다. 올슨이 빚을 갚기 싫어 살로만의 맥주에 독을 탔어. 안드레는 가죽을 도둑맞아 복수를 하려 했고.",
+      "string_id": 1608,
+      "speaker_string_id": 1609,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-120-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2M2-M060-130-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "가렉",
+      "text": "둘 모두가 그랬다. 붉은십자군의 공격은 뜻밖의 행운이었고... 범행을 은폐할 완벽한 기회였지.",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-130-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2M2-M060-140-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "올슨",
+      "text": "선택의 여지가 없었어! 빚 때문에 파멸할 지경이었다고!",
+      "string_id": 1614,
+      "speaker_string_id": 1615,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-140-OLSON.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2M2-M060-150-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "안드레",
+      "text": "그 도둑놈은 당해도 싸!",
+      "string_id": 1617,
+      "speaker_string_id": 1618,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-150-ANDRE.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2M2-M060-160-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "정신 차려! 너희 둘 다 체포다! 당장 따라와.",
+      "string_id": 1620,
+      "speaker_string_id": 1621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-160-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2M2-M060-020-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "가렉",
+      "text": "안드레 짓이었다. 앙심을 품은 명사수의 짓이었지.",
+      "string_id": 1623,
+      "speaker_string_id": 1624,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-020-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2M2-M060-030-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "흐음. 그럼 살로만이 입에 거품을 물고 있는 게 설명이 안 되는데... 뭐, 그래도 그쪽이 전문가니까.",
+      "string_id": 1626,
+      "speaker_string_id": 1627,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-030-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A2M2-M060-040-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "안드레",
+      "text": "뭐라고?! 말도 안 되는 소리! 난 결백해!",
+      "string_id": 1629,
+      "speaker_string_id": 1630,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-040-ANDRE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A2M2-M060-050-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "올슨",
+      "text": "마음껏 부정해 봐! 사건 종결이야!",
+      "string_id": 1632,
+      "speaker_string_id": 1633,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-050-OLSON.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A2M2-M060-060-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "넌 체포다, 안드레. 따라와라.",
+      "string_id": 1635,
+      "speaker_string_id": 1636,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-060-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A2M2-M060-070-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "가렉",
+      "text": "올슨 짓이었다. 치명적인 물약을 쓸 수 있는 연금술사의 솜씨야.",
+      "string_id": 1638,
+      "speaker_string_id": 1639,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-070-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A2M2-M060-080-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "흠. 그럼 살로만의 등에 난 상처가 설명이 안 되는데... 뭐, 그래도 그쪽이 전문가니까.",
+      "string_id": 1641,
+      "speaker_string_id": 1642,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-080-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A2M2-M060-090-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "올슨",
+      "text": "뭐? 아냐! 내가 안 그랬어!",
+      "string_id": 1644,
+      "speaker_string_id": 1645,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-090-OLSON.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A2M2-M060-100-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "안드레",
+      "text": "안 그러기는 뭘 안 그래! 처음부터 다 알고 있었어!",
+      "string_id": 1647,
+      "speaker_string_id": 1648,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-100-ANDRE.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A2M2-M060-110-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "넌 체포다, 올슨. 따라와라.",
+      "string_id": 1650,
+      "speaker_string_id": 1651,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-110-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A2M2-M060-170-SEDRICKCALSTON",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Return Q",
+      "speaker": "세드릭 칼스턴",
+      "text": "끔찍한 일도 다 있지. 해결을 도와 줘서 고마워, 반다리온 대장.",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-170-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A2M2-T010-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land LeonidVision Q",
+      "speaker": "리어니드",
+      "text": "물러나라! 네놈들의 행동 하나하나가 빛에 대한 불경이다!",
+      "string_id": 1321,
+      "speaker_string_id": 1326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T010-LEONID.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A2M2-T020-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land LeonidVision Q",
+      "speaker": "가렉",
+      "text": "포세이큰이다! 서둘러, 도와야 해!",
+      "string_id": 1322,
+      "speaker_string_id": 2020,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A2M2-T030-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "가렉",
+      "text": "은빛 여명회에서 널 여기까지 혼자 보냈나?",
+      "string_id": 1318,
+      "speaker_string_id": 1323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T030-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A2M2-T040-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "리어니드",
+      "text": "내 명령은 들키지 않고 붉은십자군을 감시하는 거였다. 하지만 마을을 불태우는 걸 보니 가만히 있을 수가 없었어.",
+      "string_id": 1781,
+      "speaker_string_id": 1782,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T040-LEONID.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A2M2-T050-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "안야",
+      "text": "그렇다면 적어도 동족을 완전히 버린 것은 아니군.",
+      "string_id": 1783,
+      "speaker_string_id": 1784,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T050-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A2M2-T060-Garek",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update UncoverBalnir Q",
+      "speaker": "가렉",
+      "text": "너무 늦은 것 같군. 생존자를 찾아야겠어.",
+      "string_id": 1329,
+      "speaker_string_id": 1335,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T060-Garek.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A2M2-T070-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue1 Pickup Q",
+      "speaker": "가렉",
+      "text": "누가 마을을 샅샅이 수색했군. 물자를 위해 약탈당한 것 같아.",
+      "string_id": 1330,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T070-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A2M2-T080-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue2 Pickup Q",
+      "speaker": "리어니드",
+      "text": "지옥 마법이다. 붉은십자군이 온갖 악행을 저지르긴 했지만, 이렇게 사악한 마법에 손을 대지는 않을 거야.",
+      "string_id": 1831,
+      "speaker_string_id": 1832,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T080-LEONID.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A2M2-T090-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue3 Pickup Q",
+      "speaker": "안야",
+      "text": "오크제 도끼다. 검은바위 부족 것이군.",
+      "string_id": 1836,
+      "speaker_string_id": 1837,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A2M2-T091-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue3 Pickup Q",
+      "speaker": "리어니드",
+      "text": "아서스와 우서가 역병이 퍼지기 전 이 땅에서 놈들을 몰아냈는데. 잔당이 틀림없어.",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T091-LEONID.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A2M2-T100-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue4 Pickup Q",
+      "speaker": "안야",
+      "text": "늑대의 흔적이다. 따라가면 오크에게 갈 수 있을 거야.",
+      "string_id": 1333,
+      "speaker_string_id": 1340,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A2M2-T110-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue4 Pickup Q",
+      "speaker": "가렉",
+      "text": "뿌리를 뽑아 버리는 편이 좋을지도. 붉은십자군은 아니지만 그래도 위험해.",
+      "string_id": 1334,
+      "speaker_string_id": 1341,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T110-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A2M2-T120-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "가렉",
+      "text": "리어니드, 은빛 여명회의 기사라고 했는데, 성기사는 아닌 건가?",
+      "string_id": 1342,
+      "speaker_string_id": 1356,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T120-GAREK.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A2M2-T130-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "리어니드",
+      "text": "성스러운 빛을 불러내면 안에서부터 불타는 느낌이야. 언데드는 그런 신성한 힘을 사용하기에 맞지 않아.",
+      "string_id": 1789,
+      "speaker_string_id": 1790,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T130-LEONID.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A2M2-T140-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "안야",
+      "text": "서로 의견이 일치하는 게 하나는 있군.",
+      "string_id": 1791,
+      "speaker_string_id": 1792,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T140-ANYA.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A2M2-T150-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Scouting Out.Transmission Scout Discover Q",
+      "speaker": "안야",
+      "text": "붉은십자군이 감시탑으로 우릴 감시하고 있었다. 되찾는 편이 현명하겠지.",
+      "string_id": 2266,
+      "speaker_string_id": 1520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T150-ANYA.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A2M2-T160-FORSAKENGUARD",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Update Q",
+      "speaker": "죽음의 경비병",
+      "text": "반다리온 대장님! 죽음의 종소리 마을이 공격받고 있습니다!",
+      "string_id": 2260,
+      "speaker_string_id": 1523,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T160-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A2M2-T170-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Update Q",
+      "speaker": "가렉",
+      "text": "언더시티로 전언을 보내라. 우리가 주민을 보호하겠다.",
+      "string_id": 2261,
+      "speaker_string_id": 1524,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T170-GAREK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A2M2-T180-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Completed Q",
+      "speaker": "가렉",
+      "text": "다 처리한 것 같군. 계속 움직이자.",
+      "string_id": 1852,
+      "speaker_string_id": 1853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T180-GAREK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A2M2-T190-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "리어니드",
+      "text": "붉은십자군이 믿음을 광신으로 뒤트는 모습을 보니 마음이 아프군.",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T190-LEONID.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A2M2-T200-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "가렉",
+      "text": "정의, 연민, 신성함, 수호. 허나 붉은십자군은 오직 응징만을 중히 여기는 것 같아.",
+      "string_id": 1346,
+      "speaker_string_id": 1360,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T200-GAREK.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A2M2-T210-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "리어니드",
+      "text": "은빛 성기사단의 신조를 잘 알고 있는데? 혹시 생전에 성기사였던 것이 아닐까?",
+      "string_id": 1803,
+      "speaker_string_id": 1804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T210-LEONID.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A2M2-T220-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "가렉",
+      "text": "난... 모르겠다. 깨어나기 전의 기억은 전혀 없어. 내가 빛에 대해 아는 것은 언데드일 때 배운 거야.",
+      "string_id": 1805,
+      "speaker_string_id": 1806,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T220-GAREK.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A2M2-T230-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "안야",
+      "text": "시간 낭비야. 빛은 포세이큰을 혐오하고, 그건 우리도 마찬가지지.",
+      "string_id": 1807,
+      "speaker_string_id": 1808,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T230-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A2M2-T240-WHITEMANE",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss WhitemaneMeet Q",
+      "speaker": "샐리 화이트메인",
+      "text": "로데론에서 이 타락한 언데드 놈들을 몰아내라!",
+      "string_id": 1574,
+      "speaker_string_id": 1575,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T240-WHITEMANE.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A2M2-T250-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss WhitemaneMeet Q",
+      "speaker": "안야",
+      "text": "미쳤군! 막아야 해!",
+      "string_id": 1577,
+      "speaker_string_id": 1578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A2M2-T260-WHITEMANE",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss Sally Defeated Q",
+      "speaker": "샐리 화이트메인",
+      "text": "내 목숨은 빼앗지 못한다, 이단자 놈들아! 내가 돌아오면, 너희가 불길에 휩싸이는 꼴을 보게 될 것이다!",
+      "string_id": 1686,
+      "speaker_string_id": 1687,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T260-WHITEMANE.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A2M2-T270-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "가렉",
+      "text": "포세이큰이 아니라 은빛 여명회에 합류하려 오다니, 왜지?",
+      "string_id": 1351,
+      "speaker_string_id": 1364,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T270-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A2M2-T280-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "리어니드",
+      "text": "여군주 실바나스가 언더시티에서 있을 곳을 마련해 주었을 때, 뭐랄까... 받아들일 수가 없더군.",
+      "string_id": 1811,
+      "speaker_string_id": 1812,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T280-LEONID.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A2M2-T290-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "리어니드",
+      "text": "불사는 병환이야. 언젠가 빛이 나를 치료해 산 자들의 사이로 돌려보내 줄 수 있기를 바랄 뿐.",
+      "string_id": 1817,
+      "speaker_string_id": 1818,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T290-LEONID.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A2M2-T300-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "안야",
+      "text": "망상에 찬 머저리 같으니. 이전의 모습에 매달리기보다는 지금 모습 그대로를 받아들이는 게 낫지.",
+      "string_id": 1354,
+      "speaker_string_id": 1367,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A2M2-T310-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "리어니드",
+      "text": "네가 망상이라 부르는 걸 나는 희망이라 부르지. 빛께서는 믿음을 버리지 않는 이들을 위해 기적을 행하시니.",
+      "string_id": 1825,
+      "speaker_string_id": 1826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T310-LEONID.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A2M2-T320-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Batting for Brewings.Transmission Bat Update Q",
+      "speaker": "안야",
+      "text": "퓨트리스가 말한 짐승인 것 같은데. 피를 뽑아 연금술 실험실로 가져가자.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A2M2-T321-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss Murloc Fight Start Q",
+      "speaker": "안야",
+      "text": "멀록이다. 끊임없이 솎아내야 하지.",
+      "string_id": 1579,
+      "speaker_string_id": 1580,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T321-ANYA.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A2M2-T330-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill GoblinFound Q",
+      "speaker": "가렉",
+      "text": "티리스팔에 고블린이 더 있군. 무슨 꿍꿍이지?",
+      "string_id": 1589,
+      "speaker_string_id": 1590,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T330-GAREK.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A2M2-T340-GOBLINTINKER",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Boss Goblins Fight Start Q",
+      "speaker": "손재주 좋은 루즈",
+      "text": "크게 실수한 거야, 친구!",
+      "string_id": 1587,
+      "speaker_string_id": 1588,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T340-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A2M2-T350-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Completed Q",
+      "speaker": "집정관 세브렌",
+      "text": "목재를 되찾아오지 않은 것 같군. 베른트에게 더 부탁해야겠어.",
+      "string_id": 1594,
+      "speaker_string_id": 1595,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T350-MagistrateSevren.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A2M2-T360-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Completed Q",
+      "speaker": "집정관 세브렌",
+      "text": "감사하오. 이제 브릴 재건을 계속할 수 있겠군.",
+      "string_id": 1597,
+      "speaker_string_id": 1598,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T360-MagistrateSevren.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A2M2-T370-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Boss EoF Killed Q",
+      "speaker": "안야",
+      "text": "망령은 언데드에게도 두려운 적이야.",
+      "string_id": 1581,
+      "speaker_string_id": 1582,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T370-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A2M2-T380-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Completed Q",
+      "speaker": "집행관 아렌",
+      "text": "망령이 사라졌으니 공격 피해를 복구하는 데 집중할 수 있겠군. 죽음의 종소리 마을에서 다시금 감사를 표하지.",
+      "string_id": 1417,
+      "speaker_string_id": 1418,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T380-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A2M2-T390-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Body Q",
+      "speaker": "가렉",
+      "text": "입가에 거품이라. 독 같은데... 하지만 등에 화살도 꽂혀 있어.",
+      "string_id": 2153,
+      "speaker_string_id": 2154,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T390-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A2M2-T400-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Receipt Q",
+      "speaker": "가렉",
+      "text": "미지불 연금술 시약 영수증이다. 올슨이 살로만에게 금화를 꽤나 빚졌던 것 같은데.",
+      "string_id": 2161,
+      "speaker_string_id": 2162,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T400-GAREK.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A2M2-T410-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Pelts Q",
+      "speaker": "가렉",
+      "text": "살로몬의 헛간이야. 하지만 이 가죽들은 꽤나 비싸고 전문적으로 손질되어 있어. 안드레에게서 훔쳤을까?",
+      "string_id": 2169,
+      "speaker_string_id": 2170,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T410-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A2M2-T420-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Mugs Q",
+      "speaker": "가렉",
+      "text": "이 잔에 뭐가 들었는지는 몰라도 단순한 맥주는 아냐. 표면 바로 아래에서 어떤 냄새가 느껴져.",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T420-GAREK.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A2M2-T430-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Bow Q",
+      "speaker": "가렉",
+      "text": "이 활을 마지막으로 들었던 자는 급하게 없애려 했던 것 같은데.",
+      "string_id": 2185,
+      "speaker_string_id": 2186,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T430-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A2M2-T440-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue OlsonLetter Q",
+      "speaker": "가렉",
+      "text": "올슨의 편지다. 맥주 한잔하면서 살로만에게 빚 얘기를 하는 내용이야. 붉은십자군 공격 직전의 일일지도.",
+      "string_id": 2193,
+      "speaker_string_id": 2194,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T440-GAREK.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A2M2-T450-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue AndreLetter Q",
+      "speaker": "가렉",
+      "text": "안드레의 편지다. 살로만이 자기 가죽을 훔치고 있다는 걸 알고 있고 오늘까지 돌려달라는 내용이군... 안 그러면 혼쭐을 내주겠다면서.",
+      "string_id": 2201,
+      "speaker_string_id": 2202,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T450-GAREK.ogg"
+    },
+    {
+      "n": 118,
+      "id": "ScarletFootman_Warcry1",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land ScarletFarmEncounter Q",
+      "speaker": "보병",
+      "text": "붉은십자군을 위하여!",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Units/Human/Scarletfootman/ScarletFootman_Warcry1.ogg"
+    },
+    {
+      "n": 119,
+      "id": "ScarletMarksman_Ready1",
+      "scene": "TRANSMISSIONS.Optional Quest - Scouting Out.Transmission Scout Tower3 Ambush Q",
+      "speaker": "명사수",
+      "text": "누구도 빛을 피할 수는 없다!",
+      "string_id": 2259,
+      "speaker_string_id": 2258,
+      "sound": "Units/Human/ScarletMarksman/ScarletMarksman_Ready1.ogg"
+    }
+  ]
+}

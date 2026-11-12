@@ -1,0 +1,128 @@
+{
+  "map": "UndeadRE01_05",
+  "title": "Arcane Sanctuary",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M5-C010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "這是什麼地方？",
+      "string_id": 1143,
+      "speaker_string_id": 1144,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M5-C010-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "這是由法師建立的異次元空間，專門存放廢物。",
+      "string_id": 1152,
+      "speaker_string_id": 1153,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M5-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "果然不出我所料，這裡面充滿了守護者造物，搞不好還布滿了陷阱。",
+      "string_id": 1161,
+      "speaker_string_id": 1162,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M5-C010-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "我們得利用傳送門來探索這廳堂。希望最後能找到什麼好東西，值得我們費盡這麼多苦心。",
+      "string_id": 1169,
+      "speaker_string_id": 1170,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-040-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M5-T010-GAREK",
+      "scene": "Transmissions.Inert Portal TMS Portal",
+      "speaker": "加瑞克",
+      "text": "這道傳送門好像動不了。或許需要能量來源。",
+      "string_id": 848,
+      "speaker_string_id": 849,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T010-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M5-T020-GAREK",
+      "scene": "Transmissions.Inert Portal TMS Orb",
+      "speaker": "加瑞克",
+      "text": "看來這與傳送門的外框相容。這肯定是我們所需的能量來源。",
+      "string_id": 873,
+      "speaker_string_id": 874,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T020-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M5-T030-ANYA",
+      "scene": "Transmissions.Grid Puzzle TMS",
+      "speaker": "安雅",
+      "text": "這些可惡的法師就愛耍小花招。我們得沿原路折返了。",
+      "string_id": 908,
+      "speaker_string_id": 909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M5-T040-GAREK",
+      "scene": "Transmissions.Beam Puzzle TMS",
+      "speaker": "加瑞克",
+      "text": "如果我們能將阻礙路徑的障礙物移除，這道光束或許能啟動下一道傳送門。",
+      "string_id": 950,
+      "speaker_string_id": 951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T040-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M5-T050-ANYA",
+      "scene": "Transmissions.Artifact Transmission Fake",
+      "speaker": "安雅",
+      "text": "是幻象！真正的神器肯定藏在寶庫的某處。",
+      "string_id": 992,
+      "speaker_string_id": 993,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T050-ANYA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M5-T060-GAREK",
+      "scene": "Transmissions.Artifact Transmission Fake",
+      "speaker": "加瑞克",
+      "text": "我們得繼續尋找。",
+      "string_id": 994,
+      "speaker_string_id": 995,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T060-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M5-T070-GAREK",
+      "scene": "Transmissions.Artifact Transmission Real",
+      "speaker": "加瑞克",
+      "text": "看來這就是真正的神器。",
+      "string_id": 998,
+      "speaker_string_id": 999,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T070-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M5-T080-ANYA",
+      "scene": "Transmissions.Artifact Transmission Real",
+      "speaker": "安雅",
+      "text": "終於。我們把這該死的東西帶回去給萊克斯頓吧。",
+      "string_id": 1006,
+      "speaker_string_id": 1007,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T080-ANYA.ogg"
+    }
+  ]
+}

@@ -1,0 +1,1388 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "frFR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2MU-C020-010-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Garek",
+      "text": "Beau travail, gardes de la mort. Frappez juste et utilisez vos boucliers.",
+      "string_id": 2656,
+      "speaker_string_id": 2657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2MU-C020-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Anya",
+      "text": "Pas mal, Garek. Ce ne sont pas des forestiers-sombres, mais ils sauront protéger Fossoyeuse.",
+      "string_id": 2658,
+      "speaker_string_id": 2659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2MU-C020-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Garek",
+      "text": "Ravi qu’ils aient votre approbation, Anya.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ravi qu’ils aient votre approbation, Anya.[/\"Squint\"]",
+      "string_id": 2660,
+      "speaker_string_id": 2661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2MU-C020-040-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Bernd",
+      "text": "Capitaine Bandarion, j’ai à vous parler.",
+      "string_id": 2662,
+      "speaker_string_id": 2663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-040-BERND.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2MU-C020-050-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Bernd",
+      "text": "Plusieurs zones de la ville ont besoin de réparations, mais je ne peux pas m’en approcher.",
+      "string_id": 2674,
+      "speaker_string_id": 2675,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-050-BERND.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2MU-C020-060-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Bernd",
+      "text": "Des rats ont fait leur nid dans la cage de l’ascenseur central et des gelées s’échappent sans cesse d’une rupture dans les tuyaux d’égout. Vous pouvez m’aider à m’en débarrasser ?",
+      "string_id": 1455,
+      "speaker_string_id": 1456,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-060-BERND.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2MU-C020-070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Anya",
+      "text": "Vous voulez que le capitaine de la garde vous aide à dératiser ?",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Vous voulez que le capitaine de la garde vous aide à dératiser ?[/\"Squint\"]",
+      "string_id": 1460,
+      "speaker_string_id": 1461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-070-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2MU-C020-080-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Garek",
+      "text": "Honnêtement, un peu d’exercice ne me ferait pas de mal. Je m’en occupe, Bernd.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Honnêtement, un peu d’exercice ne me ferait pas de mal. Je m’en occupe, Bernd.[/\"Happy\"]",
+      "string_id": 1466,
+      "speaker_string_id": 1467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2MU-C030-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Bernd",
+      "text": "Cela n’a pas de sens ! Qu’est-ce qui a bien pu causer autant de fissures dans la canalisation principale ?",
+      "string_id": 1470,
+      "speaker_string_id": 1471,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-010-BERND.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2MU-C030-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Bernd",
+      "text": "Je vais inspecter les murs. Quelque chose est sûrement en train d’endommager les conduits.",
+      "string_id": 1475,
+      "speaker_string_id": 1476,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-020-BERND.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2MU-C030-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Garek",
+      "text": "Nous venons avec vous. Il y a peut-être d’autres…",
+      "string_id": 1480,
+      "speaker_string_id": 1481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-030-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2MU-C030-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Garek",
+      "text": "Attendez. Vous avez entendu ça ?",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Attendez. Vous avez entendu ça ?[/\"Squint\"]",
+      "string_id": 1485,
+      "speaker_string_id": 1486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-040-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2MU-C030-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Garek",
+      "text": "<Grognement de surprise et de douleur.>",
+      "string_id": 1490,
+      "speaker_string_id": 1491,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2MU-C030-060-SCARLETCRUSADER",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Croisé écarlate",
+      "text": "Voici notre porte d’entrée dans Fossoyeuse ! La Croisade écarlate va leur régler leur compte, à ces immondices !",
+      "string_id": 1495,
+      "speaker_string_id": 1496,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-060-SCARLETCRUSADER.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2MU-C040-010-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Sylvanas",
+      "text": "Anya. Capitaine Bandarion. Au rapport.",
+      "string_id": 1750,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2MU-C040-020-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Garek",
+      "text": "Fossoyeuse est hors de danger, mais… l’attaque a engendré des dégâts considérables.",
+      "string_id": 1528,
+      "speaker_string_id": 1529,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-020-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2MU-C040-030-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Sylvanas",
+      "text": "Les individus qui nous assiègent souhaitent notre destruction totale. Les villages réprouvés à travers Tirisfal font face à une terrible menace.",
+      "string_id": 1754,
+      "speaker_string_id": 1755,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2MU-C040-040-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Sylvanas",
+      "text": "Vous devez mettre fin à la Croisade écarlate. Vous pouvez aider ici si vous le souhaitez, mais votre priorité reste l’élimination de ces zélotes.",
+      "string_id": 1760,
+      "speaker_string_id": 1761,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2MU-C040-050-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Anya",
+      "text": "Ce sera fait, Dame noire.",
+      "string_id": 1543,
+      "speaker_string_id": 1544,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-050-ANYA.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2MU-C050-010-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Sylvanas",
+      "text": "Leonid Barthalomew. Je ne pensais pas vous revoir un jour entre ces murs.",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Leonid Barthalomew. Je ne pensais pas vous revoir un jour entre ces murs.[/\"Surprised\"]",
+      "string_id": 1762,
+      "speaker_string_id": 1763,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2MU-C050-020-LEONID",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Leonid",
+      "text": "Pardonnez mon intrusion, dame Coursevent. Les circonstances l’exigent.",
+      "string_id": 1614,
+      "speaker_string_id": 1615,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-020-LEONID.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2MU-C050-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Garek",
+      "text": "Nous avons repoussé la Croisade écarlate, mais leurs troupes se replient dans leur monastère pour se remobiliser.",
+      "string_id": 1619,
+      "speaker_string_id": 1620,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-030-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2MU-C050-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Garek",
+      "text": "Leonid a espionné leurs déplacements et serait en mesure de diriger nos troupes pour les attaquer.",
+      "string_id": 1624,
+      "speaker_string_id": 1625,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-040-GAREK.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2MU-C050-050-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Sylvanas",
+      "text": "Je vois. Qu’en pensez-vous, Anya ? Pouvons-nous confier cette tâche à Leonid ?",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2MU-C050-060-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Anya",
+      "text": "Je répugne à me fier à quelqu’un qui sert la Lumière, et encore moins un homme qui a déserté son propre peuple.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Je répugne à me fier à quelqu’un qui sert la Lumière, et encore moins un homme qui a déserté son propre peuple.[/\"Squint\"]",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-060-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2MU-C050-070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Anya",
+      "text": "Mais… Leonid a su se montrer digne de confiance. Sans oublier qu’il a défendu nos villages au péril de sa vie.",
+      "string_id": 1639,
+      "speaker_string_id": 1640,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-070-ANYA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2MU-C050-080-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Sylvanas",
+      "text": "Très bien. Il est temps pour la Croisade écarlate de regretter le jour où ils ont croisé le fer avec les Réprouvés.",
+      "string_id": 1772,
+      "speaker_string_id": 1773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-080-SYLVANAS.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2MU-M010-010-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 03 Mograine Unholy",
+      "speaker": "Commandant écarlate Mograine",
+      "text": "Ce misérable taudis ne deviendra pas mon tombeau !",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ce misérable taudis ne deviendra pas mon tombeau ![/\"Angry\"]",
+      "string_id": 1748,
+      "speaker_string_id": 1749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-010-MOGRAINE.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2MU-M010-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 04 Anya Wait",
+      "speaker": "Anya",
+      "text": "Garek, attendez !",
+      "string_id": 1501,
+      "speaker_string_id": 1502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-020-ANYA.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2MU-M010-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 05 Garek Burns",
+      "speaker": "Garek",
+      "text": "Argh ! Ça brûle !",
+      "string_id": 1505,
+      "speaker_string_id": 1506,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2MU-M010-040-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "Anya",
+      "text": "Le lâche s’est échappé.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Le lâche s’est échappé.[/\"Angry\"]",
+      "string_id": 1509,
+      "speaker_string_id": 1510,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-040-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2MU-M010-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "Garek",
+      "text": "Avec un peu de chance, l’attaque de Fossoyeuse s’arrête ici.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Avec un peu de chance, l’attaque de Fossoyeuse s’arrête ici.[/\"Angry\"]",
+      "string_id": 1514,
+      "speaker_string_id": 1515,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2MU-M010-060-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "Garek",
+      "text": "Il est temps pour nous de faire notre rapport à Sylvanas.",
+      "string_id": 1519,
+      "speaker_string_id": 1520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-060-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2MU-M020-010-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Varimathras",
+      "text": "Bandarion, Anya. Nous avons un problème dans le quartier de la magie. Une banshee a été prise d’une folie furieuse.",
+      "string_id": 1591,
+      "speaker_string_id": 1592,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-010-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2MU-M020-020-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Varimathras",
+      "text": "D’après les mages, elle aurait sombré dans la folie à cause d’un pylône de contrôle mental endommagé, mais la cause m’importe peu.",
+      "string_id": 1596,
+      "speaker_string_id": 1597,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-020-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2MU-M020-030-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Varimathras",
+      "text": "Je vous laisse régler cette situation comme bon vous semble. Si vous devez éliminer la banshee, qu’il en soit ainsi.",
+      "string_id": 1601,
+      "speaker_string_id": 1602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-030-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2MU-M020-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Garek",
+      "text": "J’espère ne pas en arriver là. Laissez-nous faire, Varimathras.",
+      "string_id": 1605,
+      "speaker_string_id": 1606,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2MU-M030-010-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Putrescin",
+      "text": "Anya, Garek. Ces imbéciles écarlates se sont introduits dans mon laboratoire et ont libéré l’une de mes expériences !",
+      "string_id": 1776,
+      "speaker_string_id": 1777,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-010-PUTRESS.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2MU-M030-020-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Putrescin",
+      "text": "Ce spécimen incontrôlable risque de détruire Fossoyeuse. Retrouvez-le et ramenez-le dans sa cellule au plus vite !",
+      "string_id": 1780,
+      "speaker_string_id": 1781,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-020-PUTRESS.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2MU-M030-030-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Anya",
+      "text": "Donc c’est à nous de nettoyer votre pagaille ? Vous pourriez demander plus gentiment.",
+      "string_id": 1577,
+      "speaker_string_id": 1578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-030-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2MU-M030-040-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Putrescin",
+      "text": "Auriez-vous l’amabilité de m’aider à résoudre ce problème ? Je vous en serais éternellement reconnaissant.",
+      "string_id": 2500,
+      "speaker_string_id": 2501,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-040-PUTRESS.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2MU-M030-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Garek",
+      "text": "Laissez-nous faire, Putrescin.",
+      "string_id": 2502,
+      "speaker_string_id": 2503,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-050-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2MU-M040-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Bernd",
+      "text": "Capitaine Bandarion, j’ai de nouveau besoin de votre aide.",
+      "string_id": 1547,
+      "speaker_string_id": 1548,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-010-BERND.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2MU-M040-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Bernd",
+      "text": "La Croisade écarlate s’est servie d’explosifs pour pénétrer dans la ville et, ce faisant, a mis à jour un réseau de vieux tunnels miniers.",
+      "string_id": 1552,
+      "speaker_string_id": 1553,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-020-BERND.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2MU-M040-030-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Bernd",
+      "text": "Au lieu d’essayer de défendre ces tunnels, il serait à mon avis préférable de les condamner à l’aide de nos propres explosifs.",
+      "string_id": 1559,
+      "speaker_string_id": 1560,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-030-BERND.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2MU-M040-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Garek",
+      "text": "Bonne idée. Donnez-nous des bombes, et personne ne remettra jamais les pieds dans ces tunnels.",
+      "string_id": 1563,
+      "speaker_string_id": 1564,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-040-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2MU-M045-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Bernd",
+      "text": "Capitaine Bandarion, si vous retournez bientôt à la surface, j’ai une petite requête à vous faire.",
+      "string_id": 1648,
+      "speaker_string_id": 1649,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-010-BERND.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2MU-M045-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Bernd",
+      "text": "La Dame noire m’a demandé de superviser la reconstruction des villages détruits par la Croisade écarlate.",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-020-BERND.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2MU-M045-030-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Bernd",
+      "text": "Mais avant de pouvoir commencer, il me faudrait un rapport de l’étendue des dégâts afin de coordonner les réparations. Pourriez-vous vous en charger ?",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-030-BERND.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2MU-M045-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Garek",
+      "text": "Bien sûr. Je vais faire le point avec les villageois et je reviendrai vers vous.",
+      "string_id": 1663,
+      "speaker_string_id": 1664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-040-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2MU-M050-010-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Putrescin",
+      "text": "Ah, les travailleurs sont enfin arrivés.",
+      "string_id": 1788,
+      "speaker_string_id": 1789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-010-PUTRESS.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2MU-M050-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Anya",
+      "text": "Que se passe-t-il encore, Putrescin ?",
+      "string_id": 1672,
+      "speaker_string_id": 1673,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-020-ANYA.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2MU-M050-030-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Putrescin",
+      "text": "Vous avez sûrement remarqué que la faune de Tirisfal a subi d’étranges changements, ces derniers temps.",
+      "string_id": 1792,
+      "speaker_string_id": 1793,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-030-PUTRESS.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2MU-M050-040-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Putrescin",
+      "text": "J’aimerais vraiment étudier le sang de ces créatures. Si vous parvenez à m’en procurer, vous serez fortement récompensés pour vos efforts.",
+      "string_id": 1798,
+      "speaker_string_id": 1799,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-040-PUTRESS.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2MU-M050-050-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Anya",
+      "text": "Très bien. Mais j’espère que cela en vaudra la peine, Putrescin.",
+      "string_id": 1687,
+      "speaker_string_id": 1688,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-050-ANYA.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2MU-T010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 01 Bernd Cant Thank",
+      "speaker": "Bernd",
+      "text": "Je ne sais pas comment vous remercier. Tenez, prenez ces torches pour brûler les nids de rats.",
+      "string_id": 1691,
+      "speaker_string_id": 1692,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T010-BERND.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2MU-T020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 02 Anya Too Accommodating",
+      "speaker": "Anya",
+      "text": "Vous êtes bien trop arrangeant, vous savez ?",
+      "string_id": 2263,
+      "speaker_string_id": 2264,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T020-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2MU-T030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 02 Anya Too Accommodating",
+      "speaker": "Garek",
+      "text": "Mon rôle est d’aider les gens, pas de les mettre de côté.",
+      "string_id": 2271,
+      "speaker_string_id": 2272,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T030-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2MU-T040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 03 All The Rats",
+      "speaker": "Garek",
+      "text": "C’était le dernier rat. Maintenant, occupons-nous des gelées.",
+      "string_id": 1700,
+      "speaker_string_id": 1701,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T040-GAREK.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2MU-T050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 04 Head Back War 01",
+      "speaker": "Garek",
+      "text": "Voilà une bonne chose de faite. Retournons au quartier de la guerre.",
+      "string_id": 1704,
+      "speaker_string_id": 1705,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T050-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2MU-T060-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 05 How Much We Built Undercity",
+      "speaker": "Garek",
+      "text": "J’ai du mal à croire tout ce qui a été construit à Fossoyeuse en une seule année.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T060-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A2MU-T070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 05 How Much We Built Undercity",
+      "speaker": "Anya",
+      "text": "Ça avance plus vite quand la main-d’œuvre n’a pas besoin de dormir ou de manger.",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T070-ANYA.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A2MU-T080-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 06 I See Lever On Pipe",
+      "speaker": "Garek",
+      "text": "Il y a un levier sur le tuyau. Si nous arrêtons l’écoulement, les gelées ne pourront plus passer.",
+      "string_id": 1717,
+      "speaker_string_id": 1718,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T080-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A2MU-T090-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 07 Head Back War 02",
+      "speaker": "Garek",
+      "text": "Cela devrait faire l’affaire. Retournons au quartier de la guerre.",
+      "string_id": 1721,
+      "speaker_string_id": 1722,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T090-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A2MU-T100-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 08 All The Slimes",
+      "speaker": "Garek",
+      "text": "Je ne vois pas d’autres gelées. Occupons-nous maintenant des rats.",
+      "string_id": 1725,
+      "speaker_string_id": 1726,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T100-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A2MU-T110-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 09 Bernd Work Resume",
+      "speaker": "Anya",
+      "text": "Bernd sera content de pouvoir reprendre le travail.",
+      "string_id": 1729,
+      "speaker_string_id": 1730,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T110-ANYA.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A2MU-T120-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 09 Bernd Work Resume",
+      "speaker": "Garek",
+      "text": "En effet. Mais c’est tout de même étrange… Ses équipes n’ont jamais fait face à de tels problèmes auparavant.",
+      "string_id": 1734,
+      "speaker_string_id": 1735,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T120-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A2MU-T130-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 10 Under Attack Deathguard To Arms",
+      "speaker": "Garek",
+      "text": "On nous attaque ! Gardes de la mort, aux armes !",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]On nous attaque ! Gardes de la mort, aux armes ![/\"Angry\"]",
+      "string_id": 1738,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T130-GAREK.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A2MU-T140-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 11 Hold The Line",
+      "speaker": "Garek",
+      "text": "Défendez votre position ! Anya et moi allons sécuriser les autres quartiers de Fossoyeuse !",
+      "string_id": 1742,
+      "speaker_string_id": 1743,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T140-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A2MU-T150-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 12 War Quarter Blocked Rubble",
+      "speaker": "Garek",
+      "text": "L’accès au quartier de la Guerre est bloqué par des décombres. Nous devons utiliser le chariot à viande pour dégager le passage.",
+      "string_id": 1809,
+      "speaker_string_id": 1810,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T150-GAREK.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A2MU-T160-GARITHOS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 13 Garithos Kill Humans",
+      "speaker": "0",
+      "text": "Garithos tue les Humains ! Il les tue jusqu’à la mort !",
+      "string_id": 1817,
+      "speaker_string_id": 1818,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T160-GARITHOS.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A2MU-T170-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 13 Garithos Kill Humans",
+      "speaker": "Garek",
+      "text": "Avec nous, Garithos !",
+      "string_id": 1822,
+      "speaker_string_id": 1823,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T170-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A2MU-T180-DEATHGUARD",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 14 Hold This Room Push Forward",
+      "speaker": "Garde de la mort",
+      "text": "Capitaine Bandarion ! Nous défendrons cette salle pendant que vous progressez.",
+      "string_id": 1881,
+      "speaker_string_id": 1882,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T180-DEATHGUARD.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A2MU-T190-SCARLETCAPTAIN",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 15 Close Ranks Scarlet Captain",
+      "speaker": "Capitaine de la Croisade écarlate",
+      "text": "Serrez les rangs ! La Lumière nous protégera dans notre lutte contre ces démons !",
+      "string_id": 1887,
+      "speaker_string_id": 1888,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T190-SCARLETCAPTAIN.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A2MU-T200-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 16 War Quarter Secure",
+      "speaker": "Garek",
+      "text": "Le quartier de la guerre est sécurisé ! Gardes de la mort, défendez cette position !",
+      "string_id": 1895,
+      "speaker_string_id": 1896,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T200-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A2MU-T210-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "Garek",
+      "text": "La Croisade écarlate… Je n’avais jamais entendu ce nom auparavant.",
+      "string_id": 1901,
+      "speaker_string_id": 1902,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T210-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A2MU-T220-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "Anya",
+      "text": "Ce n’est qu’un autre groupe de zélotes aveuglés par la Lumière. Une autre version de la Main d’argent.",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T220-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A2MU-T230-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "Garek",
+      "text": "Malgré leurs revendications, je doute qu’ils suivent vraiment la Lumière.",
+      "string_id": 1908,
+      "speaker_string_id": 1909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T230-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A2MU-T240-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 18 Putress Imbeciles",
+      "speaker": "Putrescin",
+      "text": "Anya ! Garek ! Débarrassez-moi de ces imbéciles !",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T240-PUTRESS.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A2MU-T250-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 19 Putress Took Long Enough",
+      "speaker": "Putrescin",
+      "text": "Vous en avez mis du temps ! Couvrez-moi pendant que je prépare notre riposte pestilentielle !",
+      "string_id": 1924,
+      "speaker_string_id": 1925,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T250-PUTRESS.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A2MU-T260-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 20 Mystery Potion 01",
+      "speaker": "Putrescin",
+      "text": "Tenez, ça vous sera peut-être utile ! Ou peut-être pas.",
+      "string_id": 1928,
+      "speaker_string_id": 1929,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T260-PUTRESS.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A2MU-T270-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 21 Mystery Potion 02",
+      "speaker": "Putrescin",
+      "text": "N’oubliez pas que je vous ai rendu service !",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T270-PUTRESS.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A2MU-T280-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 22 Mystery Potion 03",
+      "speaker": "Putrescin",
+      "text": "Je vous ai préparé une potion. Ne la gâchez pas inutilement !",
+      "string_id": 1949,
+      "speaker_string_id": 1950,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T280-PUTRESS.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A2MU-T290-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 23 Mystery Potion 04",
+      "speaker": "Putrescin",
+      "text": "Vous avez de la chance de pouvoir compter sur moi !",
+      "string_id": 1953,
+      "speaker_string_id": 1954,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T290-PUTRESS.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A2MU-T300-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 24 Mystery Potion 05",
+      "speaker": "Putrescin",
+      "text": "Buvez ceci, et plus vite que ça !",
+      "string_id": 1961,
+      "speaker_string_id": 1962,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T300-PUTRESS.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A2MU-T310-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 25 Mystery Potion 06",
+      "speaker": "Putrescin",
+      "text": "Et dire que je n’utilise mes talents que pour vous concocter des élixirs.",
+      "string_id": 1969,
+      "speaker_string_id": 1970,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T310-PUTRESS.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A2MU-T320-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 26 Mystery Potion 07",
+      "speaker": "Putrescin",
+      "text": "La préparation de telles potions n’est pas à la hauteur d’un grand apothicaire.",
+      "string_id": 1975,
+      "speaker_string_id": 1976,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T320-PUTRESS.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A2MU-T330-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 27 Plague Ready",
+      "speaker": "Putrescin",
+      "text": "Ah ! La pestilence est prête !",
+      "string_id": 1981,
+      "speaker_string_id": 1982,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T330-PUTRESS.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A2MU-T340-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "Putrescin",
+      "text": "Mort aux vivants !",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T340-PUTRESS.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A2MU-T350-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "Putrescin",
+      "text": "Le quartier de l’apothicarium semble sécurisé. Vous feriez mieux de continuer votre progression.",
+      "string_id": 1996,
+      "speaker_string_id": 1997,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T350-PUTRESS.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A2MU-T360-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "Anya",
+      "text": "Il n’y a pas de quoi, Putrescin.",
+      "string_id": 2003,
+      "speaker_string_id": 2004,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T360-ANYA.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A2MU-T370-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 29 Varimathras Die Zealots",
+      "speaker": "Varimathras",
+      "text": "Mourez, pitoyables zélotes !",
+      "string_id": 2009,
+      "speaker_string_id": 2010,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T370-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A2MU-T380-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 30 Varimathras Deal With",
+      "speaker": "Varimathras",
+      "text": "Je me charge des dernières vermines. Rendez-vous au quartier de la magie !",
+      "string_id": 2015,
+      "speaker_string_id": 2016,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T380-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A2MU-T390-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 31 Months Of Construction",
+      "speaker": "Anya",
+      "text": "Des mois de construction, réduits en poussière. Ces fanatiques répondront de leurs actes.",
+      "string_id": 2227,
+      "speaker_string_id": 2228,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T390-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A2MU-T400-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 31 Months Of Construction",
+      "speaker": "Garek",
+      "text": "Fossoyeuse pourra être reconstruite. Le plus important, c’est de protéger notre peuple.",
+      "string_id": 2241,
+      "speaker_string_id": 2242,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T400-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A2MU-T410-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 32 Pylon Looks Similar",
+      "speaker": "Anya",
+      "text": "Garek, ce pylône ressemble étrangement à ceux qui contrôlent les captifs.",
+      "string_id": 2028,
+      "speaker_string_id": 2029,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T410-ANYA.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A2MU-T420-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 32 Pylon Looks Similar",
+      "speaker": "Garek",
+      "text": "Nous pouvons peut-être l’utiliser pour contrôler l’esprit de nos adversaires.",
+      "string_id": 2035,
+      "speaker_string_id": 2036,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T420-GAREK.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A2MU-T430-SCARLETINQUISITOR",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 33 Magic Has No Hold",
+      "speaker": "Inquisiteur",
+      "text": "Votre magie noire n’a aucun effet sur moi ! Que le jugement de la Lumière s’abatte sur vous !",
+      "string_id": 2043,
+      "speaker_string_id": 2044,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T430-SCARLETINQUISITOR.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A2MU-T440-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 34 Who Needs Magic",
+      "speaker": "Anya",
+      "text": "Humpf. Pourquoi utiliser de la magie quand on a une lame aussi tranchante ?",
+      "string_id": 2047,
+      "speaker_string_id": 2048,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T440-ANYA.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A2MU-T450-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 34 Who Needs Magic",
+      "speaker": "Garek",
+      "text": "La zone est sécurisée. Dirigeons-nous vers le quartier des voleurs.",
+      "string_id": 2057,
+      "speaker_string_id": 2058,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T450-GAREK.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A2MU-T460-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 35 Scarled Crusade Will Purge",
+      "speaker": "Commandant écarlate Mograine",
+      "text": "La Croisade écarlate purgera votre peuple maudit !",
+      "string_id": 2063,
+      "speaker_string_id": 2064,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T460-MOGRAINE.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A2MU-T470-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 36 Infidels Must Be Purified",
+      "speaker": "Commandant écarlate Mograine",
+      "text": "Sales monstres ! Vous devez être purifiés !",
+      "string_id": 2069,
+      "speaker_string_id": 2070,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T470-MOGRAINE.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A2MU-T480-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 36 Infidels Must Be Purified",
+      "speaker": "Anya",
+      "text": "Garek ! À couvert !",
+      "string_id": 2073,
+      "speaker_string_id": 2074,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T480-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A2MU-T490-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 37 Lets Head For Center UC",
+      "speaker": "Garek",
+      "text": "Dirigeons-nous vers le centre de Fossoyeuse. Nous évaluerons les dégâts en chemin.",
+      "string_id": 2077,
+      "speaker_string_id": 2078,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T490-GAREK.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A2MU-T500-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 38 Attack Months Planning",
+      "speaker": "Anya",
+      "text": "Une attaque d’une telle ampleur a dû leur prendre des mois de préparation.",
+      "string_id": 2081,
+      "speaker_string_id": 2082,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T500-ANYA.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A2MU-T510-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 38 Attack Months Planning",
+      "speaker": "Garek",
+      "text": "Et nécessiter une grande quantité de soldats. Ils doivent avoir un repaire dans le coin.",
+      "string_id": 2088,
+      "speaker_string_id": 2089,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T510-GAREK.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A2MU-T520-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 39 Sylvanas Heavy Repair",
+      "speaker": "Sylvanas",
+      "text": "Le quartier des marchands a subi d’importants dégâts. Évitez-le pour le moment et remontez à la surface.",
+      "string_id": 2094,
+      "speaker_string_id": 2095,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T520-SYLVANAS.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A2MU-T530-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 40 Bernd Explosives Warning",
+      "speaker": "Bernd",
+      "text": "À manipuler avec précaution. Ce n’est pas le moment de nous faire exploser !",
+      "string_id": 2100,
+      "speaker_string_id": 2101,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T530-BERND.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A2MU-T540-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 41 Tunnels Are Abandoned",
+      "speaker": "Garek",
+      "text": "Ces vieux tunnels ont été complètement laissés à l’abandon. Personne n’a dû y mettre les pieds depuis un long moment.",
+      "string_id": 2106,
+      "speaker_string_id": 2107,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T540-GAREK.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A2MU-T550-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 42 Scarlet Crusader Explosives",
+      "speaker": "Anya",
+      "text": "Des membres de la Croisade écarlate ! Éliminez-les et placez les explosifs !",
+      "string_id": 2112,
+      "speaker_string_id": 2113,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T550-ANYA.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A2MU-T560-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 43 One Breach Down",
+      "speaker": "Garek",
+      "text": "Et une brèche en moins. Allons condamner les autres.",
+      "string_id": 2118,
+      "speaker_string_id": 2119,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T560-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A2MU-T570-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 44 What Is This Place Ruins",
+      "speaker": "Garek",
+      "text": "Quel est cet endroit ?",
+      "string_id": 2122,
+      "speaker_string_id": 2123,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T570-GAREK.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A2MU-T580-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 44 What Is This Place Ruins",
+      "speaker": "Anya",
+      "text": "Je ne sais pas, mais il a l’air ancien. On dirait presque qu’il a été érigé avant Lordaeron.",
+      "string_id": 2127,
+      "speaker_string_id": 2128,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T580-ANYA.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A2MU-T590-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 45 Some Kind Of Altar",
+      "speaker": "Garek",
+      "text": "Ça ressemble étrangement à un autel… Et on dirait… qu’il m’appelle…",
+      "string_id": 2133,
+      "speaker_string_id": 2134,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A2MU-T600-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 46 Bernd Quite The Adventure",
+      "speaker": "Bernd",
+      "text": "Ça avait l’air d’être une sacrée aventure. Je me demande quelles autres choses se cachent sous nos pieds…",
+      "string_id": 2139,
+      "speaker_string_id": 2140,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T600-BERND.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A2MU-T610-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 47 Scarlet Crusade More Than Bargain",
+      "speaker": "Anya",
+      "text": "On dirait que la Croisade écarlate n’était pas au bout de ses surprises.",
+      "string_id": 2143,
+      "speaker_string_id": 2144,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T610-ANYA.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A2MU-T611-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Putrescin",
+      "text": "Prenez ce sérum. Il vous permettra de prendre temporairement le contrôle des expériences mineures.",
+      "string_id": 2519,
+      "speaker_string_id": 2520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T611-PUTRESS.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A2MU-T611-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 62 Putress Take This Serum",
+      "speaker": "Putrescin",
+      "text": "Prenez ce sérum. Il vous permettra de prendre temporairement le contrôle des expériences mineures.",
+      "string_id": 2519,
+      "speaker_string_id": 2520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T611-PUTRESS.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A2MU-T612-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 47 Scarlet Crusade More Than Bargain",
+      "speaker": "Garek",
+      "text": "Nous non plus. Peut-être que les plus grands spécimens nous permettraient de le remettre dans sa cellule.",
+      "string_id": 2853,
+      "speaker_string_id": 2854,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T612-GAREK.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A2MU-T612-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 63 MISSING DIALOGUE",
+      "speaker": "Garek",
+      "text": "Nous non plus. Peut-être que les plus grands spécimens nous permettraient de le remettre dans sa cellule.",
+      "string_id": 2853,
+      "speaker_string_id": 2854,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T612-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A2MU-T613-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 57 Its Weakened Flesh Golem",
+      "speaker": "Garek",
+      "text": "Il est affaibli ! Les autres spécimens vont pouvoir le repousser !",
+      "string_id": 2539,
+      "speaker_string_id": 2540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T613-GAREK.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A2MU-T614-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 58 No Wonder Scarlet Crus Fell",
+      "speaker": "Garek",
+      "text": "Pas étonnant que la Croisade écarlate n’ait pas pu résister à cette monstruosité.",
+      "string_id": 2545,
+      "speaker_string_id": 2546,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T614-GAREK.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A2MU-T615-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 59 Eliminate Putress Pet",
+      "speaker": "Anya",
+      "text": "Nous avons dû éliminer le petit joujou de Putrescin. Quel dommage.",
+      "string_id": 2535,
+      "speaker_string_id": 2536,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T615-ANYA.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A2MU-T630-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 48 Putress Start New Specimen",
+      "speaker": "Putrescin",
+      "text": "Je vais devoir reconstruire un spécimen de toutes pièces. Tous ces mois de travail partis en fumée !",
+      "string_id": 2251,
+      "speaker_string_id": 2252,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T630-PUTRESS.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A2MU-T640-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 49 Putress Study Specimen",
+      "speaker": "Putrescin",
+      "text": "J’étudierai ce spécimen plus tard. Nous obtiendrons des données intéressantes en éliminant ces imbéciles écarlates.",
+      "string_id": 2172,
+      "speaker_string_id": 2173,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T640-PUTRESS.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A2MU-T650-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 50 Lexington Realign Pylon",
+      "speaker": "Lexington",
+      "text": "Capitaine Bandarion, la Dame noire soit louée ! Nous avons besoin d’une diversion pour réajuster les runes sur le pylône !",
+      "string_id": 2592,
+      "speaker_string_id": 2593,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T650-LEXINGTON.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A2MU-T660-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 50 Lexington Realign Pylon",
+      "speaker": "Lexington",
+      "text": "Protégez-nous des attaques de la banshee pour empêcher un bain de sang !",
+      "string_id": 2596,
+      "speaker_string_id": 2597,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T660-LEXINGTON.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A2MU-T661-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 60 Neednt Kill Banshee",
+      "speaker": "Lexington",
+      "text": "Inutile de tuer la banshee, contentez-vous de la repousser !",
+      "string_id": 2562,
+      "speaker_string_id": 2563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T661-LEXINGTON.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A2MU-T662-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 61 Making Pylon Repair Progress",
+      "speaker": "Lexington",
+      "text": "Les réparations vont bon train. Continuez comme ça !",
+      "string_id": 2573,
+      "speaker_string_id": 2574,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T662-LEXINGTON.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A2MU-T663-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 62 Pylon Nearly Restored",
+      "speaker": "Lexington",
+      "text": "Le pylône est presque réparé !",
+      "string_id": 2584,
+      "speaker_string_id": 2585,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T663-LEXINGTON.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A2MU-T670-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 51 Lexington Banshee Dead",
+      "speaker": "Lexington",
+      "text": "Non ! Si nous avions été plus rapides, rien de tout cela ne serait arrivé.",
+      "string_id": 2604,
+      "speaker_string_id": 2605,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T670-LEXINGTON.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A2MU-T680-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 52 Lexington Banshee Success",
+      "speaker": "Lexington",
+      "text": "Excellent travail ! Je vais devoir renforcer ces pylônes.",
+      "string_id": 2555,
+      "speaker_string_id": 2556,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T680-LEXINGTON.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A2MU-T690-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 53 Varimathras Banshee Turn In",
+      "speaker": "Varimathras",
+      "text": "On dirait que les cris ont cessé. Je ne sais pas comment vous avez fait, mais vous avez bien mérité votre récompense.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T690-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A2MU-T700-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 53 Varimathras Banshee Turn In",
+      "speaker": "Anya",
+      "text": "C’est vraiment généreux de votre part.",
+      "string_id": 2209,
+      "speaker_string_id": 2210,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T700-ANYA.ogg"
+    },
+    {
+      "n": 135,
+      "id": "A2MU-T710-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 54 Sylvanas Preparations",
+      "speaker": "Sylvanas",
+      "text": "Préparez-vous. Une fois que nous aurons pris d’assaut le monastère Écarlate, il n’y aura pas de retour en arrière.",
+      "string_id": 2803,
+      "speaker_string_id": 2804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T710-SYLVANAS.ogg"
+    },
+    {
+      "n": 136,
+      "id": "A2MU-T720-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 55 Bernd So Much To Rebuild",
+      "speaker": "Bernd",
+      "text": "Il va nous falloir des semaines pour réparer les dégâts causés par la Croisade écarlate. Je ferais mieux de me mettre au travail.",
+      "string_id": 2217,
+      "speaker_string_id": 2218,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T720-BERND.ogg"
+    },
+    {
+      "n": 137,
+      "id": "A2MU-T730-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 56 Putress All The Blood Could Find",
+      "speaker": "Putrescin",
+      "text": "Hmm, c’est tout ce que vous avez trouvé ? Bon, disons que quelques gouttes de sang, c’est déjà mieux que rien.",
+      "string_id": 2225,
+      "speaker_string_id": 2226,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T730-PUTRESS.ogg"
+    }
+  ]
+}

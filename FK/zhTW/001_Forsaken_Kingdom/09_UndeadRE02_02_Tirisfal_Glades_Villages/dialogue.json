@@ -1,0 +1,1203 @@
+{
+  "map": "UndeadRE02_02",
+  "title": "Tirisfal Glades Villages",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M2-C010-010-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "血色十字軍開始撤退了。我必須回到銀色黎明回報情況。",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-010-LEONID.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M2-C010-020-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "我請求你們派出兩位陪同我。你們對於提里斯法，尤其是對於被遺忘者的了解遠超過我。",
+      "string_id": 1856,
+      "speaker_string_id": 1857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M2-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "別以為我們會把被遺忘者的事告訴你們這些聖騎士。",
+      "string_id": 1858,
+      "speaker_string_id": 1859,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M2-C010-040-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "你什麼時候才會明白我們站在同一陣線？",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你什麼時候才會明白我們站在同一陣線？[/\"Angry\"]",
+      "string_id": 1860,
+      "speaker_string_id": 1861,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-040-LEONID.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M2-C010-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "擁有共同敵人不代表我們就是盟友。",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-050-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M2-C010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "安雅，萊尼德冒了生命危險與我們並肩作戰。我認為他已經證明了自己。",
+      "string_id": 1864,
+      "speaker_string_id": 1865,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-060-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M2-C010-070-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "我並不這麼認為。但如果你相信他…我會暫時不往他頭上來一箭。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我並不這麼認為。但如果你相信他…我會暫時不往他頭上來一箭。[/\"Squint\"]",
+      "string_id": 1866,
+      "speaker_string_id": 1867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-070-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M2-C010-080-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "銀色黎明一定會很感謝各位。別讓他們等太久了。",
+      "string_id": 1743,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-080-LEONID.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M2-M005-010-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "煙是從布瑞爾飄出來的！一定是血色十字軍！",
+      "string_id": 1314,
+      "speaker_string_id": 1315,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M005-010-ANYA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M2-M005-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "那我們不能再浪費時間了。出發！",
+      "string_id": 1316,
+      "speaker_string_id": 1317,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M005-020-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M2-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "朋友，沒事吧？我是加瑞克‧班達倫隊長…",
+      "string_id": 1477,
+      "speaker_string_id": 1478,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M2-M010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "安雅！你在做什麼？他可是被遺忘者！是我們的一份子！",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]安雅！你在做什麼？他可是被遺忘者！是我們的一份子！[/\"Surprised\"]",
+      "string_id": 1480,
+      "speaker_string_id": 1481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M2-M010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "不對。他本可成為我們的一份子，但他卻選擇轉頭離開。.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]不對。他本可成為我們的一份子，但他卻選擇轉頭離開。.[/\"Angry\"]",
+      "string_id": 1485,
+      "speaker_string_id": 1486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-030-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M2-M010-040-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "她說的對。",
+      "string_id": 1747,
+      "speaker_string_id": 1748,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-040-LEONID.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M2-M010-050-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "我是萊尼德‧巴薩羅梅，銀色黎明的騎士。",
+      "string_id": 1753,
+      "speaker_string_id": 1754,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-050-LEONID.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M2-M010-060-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "他和我們相同，從天譴軍團被解救出來。隨後他離開了黑暗女王，加入這些聖騎士的行列。",
+      "string_id": 1534,
+      "speaker_string_id": 1535,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-060-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M2-M010-061-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "我很驚訝他們沒有第一眼就把你宰了。",
+      "string_id": 1540,
+      "speaker_string_id": 1541,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-061-ANYA.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M2-M010-070-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "銀色黎明和血色十字軍截然不同。儘管我的…狀況如此，銀色黎明依然敞開雙臂歡迎我。",
+      "string_id": 1759,
+      "speaker_string_id": 1760,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-070-LEONID.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M2-M010-071-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "那些血色狂熱者玷汙了白銀之手的傳承，我們則是一心想保留。",
+      "string_id": 1765,
+      "speaker_string_id": 1766,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-071-LEONID.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M2-M010-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "你雖然穿上了不同的外袍，但本質並無區別。",
+      "string_id": 1550,
+      "speaker_string_id": 1551,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-080-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M2-M010-090-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "夠了。在我們爭執的同時，血色十字軍正在摧毀提里斯法。",
+      "string_id": 1556,
+      "speaker_string_id": 1557,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-090-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M2-M010-100-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "如果我們想要拯救其他村莊，就得加快腳步。",
+      "string_id": 1565,
+      "speaker_string_id": 1566,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-100-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M2-M010-110-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊尼德",
+      "text": "我對聖光發誓，將協助你們對抗血色十字軍。",
+      "string_id": 1773,
+      "speaker_string_id": 1774,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-110-LEONID.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M2-M010-120-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "去你的聖光。你最好幫助我們，不然我會親手把你幹掉。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]去你的聖光。你最好幫助我們，不然我會親手把你幹掉。[/\"Angry\"]",
+      "string_id": 1775,
+      "speaker_string_id": 1776,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-120-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M2-M020-010-MAGISTRATESEVREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "執政官塞弗倫",
+      "text": "班達倫隊長，我們需要你的幫助。",
+      "string_id": 1403,
+      "speaker_string_id": 1404,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-010-MAGISTRATESEVREN.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2M2-M020-020-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "執政官塞弗倫",
+      "text": "有一群哥布林搶走了我們的木材堆，修復行動被迫暫停。你能幫我們搶回木材嗎？",
+      "string_id": 1406,
+      "speaker_string_id": 1407,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-020-MagistrateSevren.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2M2-M020-030-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "加瑞克",
+      "text": "當然。塞弗倫，交給我們吧。",
+      "string_id": 1414,
+      "speaker_string_id": 1415,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2M2-M030-010-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "巧手路茲",
+      "text": "哦…喂！你們是不是來自…那座城鎮叫什麼來著？",
+      "string_id": 1656,
+      "speaker_string_id": 1657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-010-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2M2-M030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "布瑞爾。然後，我們的確是從那裡來的。交出木材，這樣就不會有人受傷。",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2M2-M030-030-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "巧手路茲",
+      "text": "老大，我恐怕不能這麼做。我們需要這些木材才能完成我們的小飛艇。",
+      "string_id": 1665,
+      "speaker_string_id": 1666,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-030-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2M2-M030-040-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "巧手路茲",
+      "text": "但…你看看另一邊，也許會在地上找到一些金幣。懂我的意思嗎？",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-040-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2M2-M030-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "我們不要你的賄賂。布瑞爾的人民需要木材來重建家園。",
+      "string_id": 1670,
+      "speaker_string_id": 1671,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-050-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2M2-M030-060-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "巧手路茲",
+      "text": "家園？你們不過是一群會走路的屍體！挖個洞跳進去就行了！",
+      "string_id": 1675,
+      "speaker_string_id": 1676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-060-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2M2-M030-070-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "加瑞克，怎麼辦？我們要拿走他們的黃金，還是他們的小命？",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-070-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2M2-M030-010-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "巧手路茲",
+      "text": "哦…喂！你們是不是來自…那座城鎮叫什麼來著？",
+      "string_id": 1656,
+      "speaker_string_id": 1657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-010-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2M2-M030-020-GAREK",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "加瑞克",
+      "text": "布瑞爾。然後，我們的確是從那裡來的。交出木材，這樣就不會有人受傷。",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2M2-M030-030-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "巧手路茲",
+      "text": "老大，我恐怕不能這麼做。我們需要這些木材才能完成我們的小飛艇。",
+      "string_id": 1665,
+      "speaker_string_id": 1666,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-030-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2M2-M030-040-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "巧手路茲",
+      "text": "但…你看看另一邊，也許會在地上找到一些金幣。懂我的意思嗎？",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-040-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2M2-M030-050-ANYA",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "安雅",
+      "text": "我們不要你的賄賂。布瑞爾的人民需要木材來重建家園。",
+      "string_id": 1670,
+      "speaker_string_id": 1671,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-050-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2M2-M030-060-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "巧手路茲",
+      "text": "家園？你們不過是一群會走路的屍體！挖個洞跳進去就行了！",
+      "string_id": 1675,
+      "speaker_string_id": 1676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-060-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2M2-M030-070-ANYA",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "安雅",
+      "text": "加瑞克，怎麼辦？我們要拿走他們的黃金，還是他們的小命？",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-070-ANYA.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2M2-M030-080-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Goblin GoldTaken Q",
+      "speaker": "加瑞克",
+      "text": "我們今天已經見識夠多暴力了。我們可以從別處取得布瑞爾需要的木材。",
+      "string_id": 1591,
+      "speaker_string_id": 1592,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-080-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2M2-M040-010-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Discover Q",
+      "speaker": "執行官阿倫",
+      "text": "班達倫隊長，幸好你在這。我們遇到了麻煩。",
+      "string_id": 1397,
+      "speaker_string_id": 1398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M040-010-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2M2-M040-020-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Discover Q",
+      "speaker": "執行官阿倫",
+      "text": "最近的戰鬥讓鎮上墓地裡的亡魄數量激增。要是不盡早處理，很快就會變成威脅。",
+      "string_id": 1395,
+      "speaker_string_id": 1396,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M040-020-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2M2-M050-010-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "啊，班達倫隊長！或許你能幫助我們解決問題。",
+      "string_id": 1420,
+      "speaker_string_id": 1421,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-010-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2M2-M050-020-OLSON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "歐爾森",
+      "text": "唯一的問題就是你還沒逮捕這個殺人犯！",
+      "string_id": 1423,
+      "speaker_string_id": 1424,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-020-OLSON.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2M2-M050-020-ANDRE",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "安德烈",
+      "text": "我是殺人犯？！他很明顯是中毒了！這代表你才是頭號嫌疑犯！",
+      "string_id": 1426,
+      "speaker_string_id": 1427,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-020-ANDRE.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2M2-M050-030-GAREK",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "加瑞克",
+      "text": "夠了。發生什麼事了？",
+      "string_id": 1429,
+      "speaker_string_id": 1430,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-030-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2M2-M050-040-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "有人利用血色十字軍的攻擊行動隱瞞了一樁謀殺案。這位可憐的薩羅門死了，但他壓根就沒靠近過戰場。",
+      "string_id": 1432,
+      "speaker_string_id": 1433,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-040-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2M2-M050-050-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "這兩位是唯二在混亂中去向不明的人。鎮上的鍊金師歐爾森，以及鎮上的獵人安德烈。",
+      "string_id": 1438,
+      "speaker_string_id": 1439,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-050-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2M2-M050-060-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "可以協助我調查這起事件嗎？我光是要維持鎮上的秩序就已經忙得不可開交。",
+      "string_id": 1441,
+      "speaker_string_id": 1442,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-060-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2M2-M050-070-GAREK",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "加瑞克",
+      "text": "塞德瑞克，我不是什麼很優秀的調查員。但我會盡力幫忙。",
+      "string_id": 1446,
+      "speaker_string_id": 1447,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-070-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2M2-M050-080-SEDRICKCALSTON",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Discover Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "完成調查，決定誰是犯人後就來找我吧。",
+      "string_id": 1601,
+      "speaker_string_id": 1602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-080-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2M2-M060-010-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "班達倫隊長，如何？有什麼發現嗎？",
+      "string_id": 1605,
+      "speaker_string_id": 1606,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-010-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2M2-M060-120-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "加瑞克",
+      "text": "他們兩個都犯下了罪。歐爾森在薩羅門的麥酒裡下毒想免除債務。安德烈則是因為毛皮被搶想進行報復。",
+      "string_id": 1608,
+      "speaker_string_id": 1609,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-120-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2M2-M060-130-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "加瑞克",
+      "text": "他們兩人一起下了手。血色十字軍的攻擊行動不過是場意外…更是個完美的掩護。",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-130-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2M2-M060-140-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "歐爾森",
+      "text": "我別無選擇！我的債快把我搞垮了！",
+      "string_id": 1614,
+      "speaker_string_id": 1615,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-140-OLSON.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2M2-M060-150-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "安德烈",
+      "text": "是那小偷活該！",
+      "string_id": 1617,
+      "speaker_string_id": 1618,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-150-ANDRE.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2M2-M060-160-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "聽聽你們說的話！你們都被捕了！跟我過來。",
+      "string_id": 1620,
+      "speaker_string_id": 1621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-160-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2M2-M060-020-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "加瑞克",
+      "text": "是安德烈。這是獵人為了復仇而下的手。",
+      "string_id": 1623,
+      "speaker_string_id": 1624,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-020-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2M2-M060-030-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "嗯…這解釋不了薩羅門嘴邊的泡沫…但你才是專業人士。",
+      "string_id": 1626,
+      "speaker_string_id": 1627,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-030-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A2M2-M060-040-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "安德烈",
+      "text": "什麼？！太離譜了！我是無辜的！",
+      "string_id": 1629,
+      "speaker_string_id": 1630,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-040-ANDRE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A2M2-M060-050-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "歐爾森",
+      "text": "你儘管否認吧！結案！",
+      "string_id": 1632,
+      "speaker_string_id": 1633,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-050-OLSON.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A2M2-M060-060-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "安德烈，你被逮捕了。跟我過來。",
+      "string_id": 1635,
+      "speaker_string_id": 1636,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-060-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A2M2-M060-070-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "加瑞克",
+      "text": "是歐爾森。這是可以取得致命劇毒的鍊金師下的手。",
+      "string_id": 1638,
+      "speaker_string_id": 1639,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-070-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A2M2-M060-080-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "嗯…這無法解釋薩羅門背上的傷…但你才是專業人士。",
+      "string_id": 1641,
+      "speaker_string_id": 1642,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-080-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A2M2-M060-090-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "歐爾森",
+      "text": "什麼？不對！不是我幹的！",
+      "string_id": 1644,
+      "speaker_string_id": 1645,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-090-OLSON.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A2M2-M060-100-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "安德烈",
+      "text": "絕對是！我們早就知道了！",
+      "string_id": 1647,
+      "speaker_string_id": 1648,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-100-ANDRE.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A2M2-M060-110-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "歐爾森，你被逮捕了。跟我過來。",
+      "string_id": 1650,
+      "speaker_string_id": 1651,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-110-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A2M2-M060-170-SEDRICKCALSTON",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Return Q",
+      "speaker": "塞德瑞克‧考斯頓",
+      "text": "真是一起可怕的事件。班達倫隊長，謝謝你協助釐清真相。",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-170-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A2M2-T010-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land LeonidVision Q",
+      "speaker": "萊尼德",
+      "text": "退下！你們的一舉一動都在褻瀆聖光！",
+      "string_id": 1321,
+      "speaker_string_id": 1326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T010-LEONID.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A2M2-T020-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land LeonidVision Q",
+      "speaker": "加瑞克",
+      "text": "他是被遺忘者！快，我們得幫助他！",
+      "string_id": 1322,
+      "speaker_string_id": 2020,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A2M2-T030-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "加瑞克",
+      "text": "銀色黎明就派你一個人過來？",
+      "string_id": 1318,
+      "speaker_string_id": 1323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T030-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A2M2-T040-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "萊尼德",
+      "text": "我收到的命令是暗中監視血色十字軍。但看到他們燒毀這些村莊後，我不能就這麼坐視不管。",
+      "string_id": 1781,
+      "speaker_string_id": 1782,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T040-LEONID.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A2M2-T050-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "安雅",
+      "text": "至少你沒有徹底拋棄同胞。",
+      "string_id": 1783,
+      "speaker_string_id": 1784,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T050-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A2M2-T060-Garek",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update UncoverBalnir Q",
+      "speaker": "加瑞克",
+      "text": "我們似乎太遲了。尋找生還者吧。",
+      "string_id": 1329,
+      "speaker_string_id": 1335,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T060-Garek.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A2M2-T070-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue1 Pickup Q",
+      "speaker": "加瑞克",
+      "text": "村子被洗劫一空了。似乎是為了補給品而來。",
+      "string_id": 1330,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T070-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A2M2-T080-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue2 Pickup Q",
+      "speaker": "萊尼德",
+      "text": "魔化魔法。血色十字軍儘管作惡多端，但他們絕不會接觸這種邪惡的巫術。",
+      "string_id": 1831,
+      "speaker_string_id": 1832,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T080-LEONID.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A2M2-T090-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue3 Pickup Q",
+      "speaker": "安雅",
+      "text": "這把斧頭是出自獸人之手。是黑石氏族。",
+      "string_id": 1836,
+      "speaker_string_id": 1837,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A2M2-T091-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue3 Pickup Q",
+      "speaker": "萊尼德",
+      "text": "在瘟疫開始散播之前，阿薩斯和烏瑟就將他們趕出了這片土地。這些人一定是反抗者。",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T091-LEONID.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A2M2-T100-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue4 Pickup Q",
+      "speaker": "安雅",
+      "text": "狼的足跡。要是我們跟上去，就能帶我們找到那些獸人。",
+      "string_id": 1333,
+      "speaker_string_id": 1340,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A2M2-T110-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue4 Pickup Q",
+      "speaker": "加瑞克",
+      "text": "或許我們可以除掉他們。他們雖不是血色十字軍，但依然有可能造成威脅。",
+      "string_id": 1334,
+      "speaker_string_id": 1341,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T110-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A2M2-T120-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "加瑞克",
+      "text": "萊尼德，你身為銀色黎明的騎士，卻不是聖騎士？",
+      "string_id": 1342,
+      "speaker_string_id": 1356,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T120-GAREK.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A2M2-T130-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "萊尼德",
+      "text": "呼喚聖光會讓我全身都受到灼燒。被遺忘者無法駕馭如此神聖的力量。",
+      "string_id": 1789,
+      "speaker_string_id": 1790,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T130-LEONID.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A2M2-T140-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "安雅",
+      "text": "至少我們有共同的想法。",
+      "string_id": 1791,
+      "speaker_string_id": 1792,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T140-ANYA.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A2M2-T150-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Scouting Out.Transmission Scout Discover Q",
+      "speaker": "安雅",
+      "text": "血色十字軍用這些瞭望塔監視我們。奪回那些瞭望塔應該相當明智。",
+      "string_id": 2266,
+      "speaker_string_id": 1520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T150-ANYA.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A2M2-T160-FORSAKENGUARD",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Update Q",
+      "speaker": "亡靈守衛",
+      "text": "班達倫隊長！喪鐘鎮遭到攻擊！",
+      "string_id": 2260,
+      "speaker_string_id": 1523,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T160-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A2M2-T170-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Update Q",
+      "speaker": "加瑞克",
+      "text": "快通知幽暗城，我們來保護平民。",
+      "string_id": 2261,
+      "speaker_string_id": 1524,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T170-GAREK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A2M2-T180-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Completed Q",
+      "speaker": "加瑞克",
+      "text": "那應該就是所有人了。繼續前進吧。",
+      "string_id": 1852,
+      "speaker_string_id": 1853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T180-GAREK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A2M2-T190-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "萊尼德",
+      "text": "看見血色十字軍將信仰扭曲為狂熱讓我痛苦不已。",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T190-LEONID.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A2M2-T200-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "加瑞克",
+      "text": "正義、憐憫、神聖、守護。但血色十字軍僅重視制裁。",
+      "string_id": 1346,
+      "speaker_string_id": 1360,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T200-GAREK.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A2M2-T210-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "萊尼德",
+      "text": "你熟悉白銀之手的信條？你生前或許是一位聖騎士？",
+      "string_id": 1803,
+      "speaker_string_id": 1804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T210-LEONID.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A2M2-T220-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "加瑞克",
+      "text": "我…不知道。我沒有甦醒前的記憶了。我對於聖光的了解都是在這段不死生命中學到的。",
+      "string_id": 1805,
+      "speaker_string_id": 1806,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T220-GAREK.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A2M2-T230-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "安雅",
+      "text": "要我說，那就是浪費時間。聖光憎恨著被遺忘者，而我們也憎恨著聖光。",
+      "string_id": 1807,
+      "speaker_string_id": 1808,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T230-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A2M2-T240-WHITEMANE",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss WhitemaneMeet Q",
+      "speaker": "莎莉‧懷特邁恩",
+      "text": "把這些不死族垃圾趕出羅德隆！",
+      "string_id": 1574,
+      "speaker_string_id": 1575,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T240-WHITEMANE.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A2M2-T250-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss WhitemaneMeet Q",
+      "speaker": "安雅",
+      "text": "那個瘋子！我們得阻止她！",
+      "string_id": 1577,
+      "speaker_string_id": 1578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A2M2-T260-WHITEMANE",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss Sally Defeated Q",
+      "speaker": "莎莉‧懷特邁恩",
+      "text": "異教徒，你殺不死我的！等我回來，我一定會讓你被火焰吞噬！",
+      "string_id": 1686,
+      "speaker_string_id": 1687,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T260-WHITEMANE.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A2M2-T270-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "加瑞克",
+      "text": "你怎麼會加入銀色黎明，而不是被遺忘者？",
+      "string_id": 1351,
+      "speaker_string_id": 1364,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T270-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A2M2-T280-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "萊尼德",
+      "text": "希瓦娜斯女士賜予我幽暗城的一席之地時，我發現我…無法接受。",
+      "string_id": 1811,
+      "speaker_string_id": 1812,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T280-LEONID.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A2M2-T290-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "萊尼德",
+      "text": "不死是一種疾病。我希望總有一天聖光能治好我，使我重獲生命。",
+      "string_id": 1817,
+      "speaker_string_id": 1818,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T290-LEONID.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A2M2-T300-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "安雅",
+      "text": "你真是個癡心妄想的蠢貨。比起心繫過去的身分，不如接受現在的模樣。",
+      "string_id": 1354,
+      "speaker_string_id": 1367,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A2M2-T310-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "萊尼德",
+      "text": "你認為是癡心妄想，我卻認為是希望。聖光能為懷有信仰者帶來奇蹟。",
+      "string_id": 1825,
+      "speaker_string_id": 1826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T310-LEONID.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A2M2-T320-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Batting for Brewings.Transmission Bat Update Q",
+      "speaker": "安雅",
+      "text": "這似乎就是普崔司提到的野獸了。把牠的血帶回去藥劑院吧。",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A2M2-T321-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss Murloc Fight Start Q",
+      "speaker": "安雅",
+      "text": "魚人。見一次除一次。",
+      "string_id": 1579,
+      "speaker_string_id": 1580,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T321-ANYA.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A2M2-T330-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill GoblinFound Q",
+      "speaker": "加瑞克",
+      "text": "提里斯法裡出現了哥布林。不知道他們在打什麼算盤。",
+      "string_id": 1589,
+      "speaker_string_id": 1590,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T330-GAREK.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A2M2-T340-GOBLINTINKER",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Boss Goblins Fight Start Q",
+      "speaker": "巧手路茲",
+      "text": "夥計，你可是犯了大錯！",
+      "string_id": 1587,
+      "speaker_string_id": 1588,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T340-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A2M2-T350-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Completed Q",
+      "speaker": "執政官塞弗倫",
+      "text": "你似乎沒有搶回木材。我應該會向貝恩德請求更多木材。",
+      "string_id": 1594,
+      "speaker_string_id": 1595,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T350-MagistrateSevren.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A2M2-T360-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Completed Q",
+      "speaker": "執政官塞弗倫",
+      "text": "感謝你。我們可以繼續重建布瑞爾了。",
+      "string_id": 1597,
+      "speaker_string_id": 1598,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T360-MagistrateSevren.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A2M2-T370-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Boss EoF Killed Q",
+      "speaker": "安雅",
+      "text": "即便對被遺忘者來說，亡魄也是一種可怕的敵人。",
+      "string_id": 1581,
+      "speaker_string_id": 1582,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T370-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A2M2-T380-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Completed Q",
+      "speaker": "執行官阿倫",
+      "text": "搞定亡魄後，我們就能專注於修復攻擊造成的損壞。喪鐘鎮再次感謝你。",
+      "string_id": 1417,
+      "speaker_string_id": 1418,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T380-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A2M2-T390-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Body Q",
+      "speaker": "加瑞克",
+      "text": "受害者嘴邊有泡沫。似乎是毒…但他的背上也有箭傷。",
+      "string_id": 2153,
+      "speaker_string_id": 2154,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T390-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A2M2-T400-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Receipt Q",
+      "speaker": "加瑞克",
+      "text": "煉金材料的收據，還沒付款。歐爾森似乎欠了薩羅門很大一筆錢。",
+      "string_id": 2161,
+      "speaker_string_id": 2162,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T400-GAREK.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A2M2-T410-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Pelts Q",
+      "speaker": "加瑞克",
+      "text": "這是薩羅門的穀倉，但這些毛皮似乎十分昂貴，且出自專家之手。可能是他從安德烈那偷來的？",
+      "string_id": 2169,
+      "speaker_string_id": 2170,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T410-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A2M2-T420-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Mugs Q",
+      "speaker": "加瑞克",
+      "text": "不論這杯子裡是什麼玩意，絕不是單純的麥酒。單單聞了一下就能感到不對勁。",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T420-GAREK.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A2M2-T430-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Bow Q",
+      "speaker": "加瑞克",
+      "text": "這把弓的主人似乎急於扔掉它。",
+      "string_id": 2185,
+      "speaker_string_id": 2186,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T430-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A2M2-T440-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue OlsonLetter Q",
+      "speaker": "加瑞克",
+      "text": "來自歐爾森的信，邀請薩羅門在酒桌上討論債務。這似乎是在血色十字軍攻擊前寄出的。",
+      "string_id": 2193,
+      "speaker_string_id": 2194,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T440-GAREK.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A2M2-T450-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue AndreLetter Q",
+      "speaker": "加瑞克",
+      "text": "來自安德烈的信，信中說他知道薩羅門偷走了他的毛皮，要求立即歸還…否則後果自負。",
+      "string_id": 2201,
+      "speaker_string_id": 2202,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T450-GAREK.ogg"
+    },
+    {
+      "n": 118,
+      "id": "ScarletFootman_Warcry1",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land ScarletFarmEncounter Q",
+      "speaker": "步兵",
+      "text": "為了血色十字軍！",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Units/Human/Scarletfootman/ScarletFootman_Warcry1.ogg"
+    },
+    {
+      "n": 119,
+      "id": "ScarletMarksman_Ready1",
+      "scene": "TRANSMISSIONS.Optional Quest - Scouting Out.Transmission Scout Tower3 Ambush Q",
+      "speaker": "射手",
+      "text": "沒人能逃過聖光的照耀！",
+      "string_id": 2259,
+      "speaker_string_id": 2258,
+      "sound": "Units/Human/ScarletMarksman/ScarletMarksman_Ready1.ogg"
+    }
+  ]
+}

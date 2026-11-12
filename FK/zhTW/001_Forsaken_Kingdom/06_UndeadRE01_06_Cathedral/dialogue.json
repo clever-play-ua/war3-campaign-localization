@@ -1,0 +1,118 @@
+{
+  "map": "UndeadRE01_06",
+  "title": "Cathedral",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M6-M010-010-ANYA",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "安雅",
+      "text": "我們不可能從正面進去的。就算把守衛全都殺掉，他們還是會警告其他人我們來到這裡。",
+      "string_id": 381,
+      "speaker_string_id": 382,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-M010-010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M6-M010-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "或許有側門能走。我們四處看看吧。",
+      "string_id": 397,
+      "speaker_string_id": 398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M6-T010-KNIGHT",
+      "scene": "Transmissions.Front Door Transmission 01",
+      "speaker": "步兵",
+      "text": "入侵者！把門鎖上！",
+      "string_id": 291,
+      "speaker_string_id": 292,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T010-KNIGHT.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M6-T020-ANYA",
+      "scene": "Transmissions.Front Door Transmission 02",
+      "speaker": "安雅",
+      "text": "我就跟你說會發生這種事了。希望我們真的找得到你說的側門。",
+      "string_id": 303,
+      "speaker_string_id": 304,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T020-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M6-T030-GAREK",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "加瑞克",
+      "text": "為什麼這些聖騎士這麼痛恨我們？難道只是因為我們是不死族嗎？",
+      "string_id": 310,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T030-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M6-T040-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "安雅",
+      "text": "對他們而言，那理由已經很充分了。不過事實上，他們是把羅德隆的陷落怪罪在我們頭上。",
+      "string_id": 313,
+      "speaker_string_id": 314,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T040-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M6-T050-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "安雅",
+      "text": "或許還有些人仍追求正義，無論正義對他們而言意味著什麼。但大部分的人都只想報仇。",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T050-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M6-T060-ANYA",
+      "scene": "Transmissions.Wall Gap Transmission 01",
+      "speaker": "安雅",
+      "text": "我們進來了。現在去解決白銀之手吧。",
+      "string_id": 322,
+      "speaker_string_id": 323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T060-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M6-T080-GAREK",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "加瑞克",
+      "text": "啊！燒…燒起來了！",
+      "string_id": 332,
+      "speaker_string_id": 333,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T080-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M6-T090-ANYA",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "安雅",
+      "text": "是聖光！快把祭司殺掉！",
+      "string_id": 337,
+      "speaker_string_id": 338,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T090-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M6-T100-COMMANDER",
+      "scene": "Bossfight.Paladin Transmission 01 Initial Camera Steal",
+      "speaker": "聖騎士",
+      "text": "邪惡的怪物！竟敢玷污這神聖之地？！",
+      "string_id": 352,
+      "speaker_string_id": 353,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-T100-COMMANDER.ogg"
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "map": "HumanRE03",
+  "title": "Siege",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE03-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "우서 경이 지원군과 함께 돌아올 때까지 안돌할에 시간을 벌어 줘야 한다. 움직이자.",
+      "string_id": 2773,
+      "speaker_string_id": 2774,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE03-M020-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "감사합니다, 낯선 분. 수도에서 오신 게 아닙니까? 아서스가 수도를 불태웠다는 게 정말입니까?",
+      "string_id": 2782,
+      "speaker_string_id": 2783,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-010-ILASTAR.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE03-M020-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그래. 우서 경이 안돌할에서 재집결하라는 명을 내리셨다. 포위망을 뚫기 위해 부대를 모으고 계시지.",
+      "string_id": 2785,
+      "speaker_string_id": 2786,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-020-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE03-M020-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "이미 늦었을지도 모릅니다. 교단이 도시에 대규모 공습을 시작하려 준비하고 있습니다.",
+      "string_id": 2794,
+      "speaker_string_id": 2795,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-030-ILASTAR.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE03-M020-040-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "선제 공격을 위해 부대를 모을 계획을 마련해 두었습니다만, 그러려면 먼저 기지를 세워야 합니다.",
+      "string_id": 2803,
+      "speaker_string_id": 2804,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-040-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE03-M020-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "우리가 돕지. 교단을 계속 바쁘게 만든다면, 우서 경이 도착할 때까지 공격을 늦출 수 있을 거다.",
+      "string_id": 2812,
+      "speaker_string_id": 2813,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE03-M020-060-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "알겠습니다. 저는 일라스타 송브리즈라고 합니다.",
+      "string_id": 2821,
+      "speaker_string_id": 2822,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-060-ILASTAR.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE03-M020-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "가렉 반다리온이다. 교단원을 사냥해 보자고.",
+      "string_id": 2830,
+      "speaker_string_id": 2831,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-070-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE03-M030-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "우서 경! 이게 지원군의 전부입니까?",
+      "string_id": 2894,
+      "speaker_string_id": 2895,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-010-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE03-M030-020-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "우서",
+      "text": "안타깝게도 그렇다네. 은빛 성기사단이 해산된 이후, 우리 성기사들은 로데론 전역에 흩어져 있어.",
+      "string_id": 2844,
+      "speaker_string_id": 2845,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-020-UTHER.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE03-M030-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "안 돼... 저 종소리는 교단이 성문을 돌파했다는 뜻입니다!",
+      "string_id": 2914,
+      "speaker_string_id": 2915,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-030-ILASTAR.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE03-M030-040-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "우서",
+      "text": "그렇다면 진짜 전투가 시작되겠군.",
+      "string_id": 2863,
+      "speaker_string_id": 2864,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-040-UTHER.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE03-M030-050-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "우서",
+      "text": "내가 성기사들과 성벽 밖에서 교단원들과 싸우는 동안, 귀관은 도시 안으로 병력을 이끌도록 하게.",
+      "string_id": 2872,
+      "speaker_string_id": 2873,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-050-UTHER.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE03-M030-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "예, 알겠습니다! 스컬지에게서 반드시 안돌할을 지키겠습니다!",
+      "string_id": 2881,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-060-GAREK.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE03-M040-010-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "안돼! 감히 내 보상을 앗아갈 순 없다!",
+      "string_id": 2983,
+      "speaker_string_id": 2984,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-010-RAS.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE03-M040-020-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "스트라솔름에서 나는 영원불멸한 힘을 얻으리라! 다음에 만날 때는 너희 모두 죽여 주마!",
+      "string_id": 2986,
+      "speaker_string_id": 2985,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-020-RAS.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE03-M040-030-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "우서",
+      "text": "안돌할은 지켜냈으나, 재건에는 시간이 필요하겠지.",
+      "string_id": 2892,
+      "speaker_string_id": 2893,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-030-UTHER.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE03-M040-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "스트라솔름은 리븐데어의 요충지였습니다. 그곳에 교단이 모이고 있다면, 놈도 있을 겁니다.",
+      "string_id": 2903,
+      "speaker_string_id": 2904,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-040-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE03-M040-050-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "우서",
+      "text": "그의 손에 자네 대장이 쓰러졌다는 것은 알고 있네. 허나 빛은 아직 살아 있는 자들을 지키라 명하고 있어. 빛의 판단을 믿게나, 반다리온 부관.",
+      "string_id": 2912,
+      "speaker_string_id": 2913,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-050-UTHER.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE03-M040-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "리븐데어가 아무런 처벌도 받지 않았는데 성벽 안에서 앉아만 있을 수는 없어.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]리븐데어가 아무런 처벌도 받지 않았는데 성벽 안에서 앉아만 있을 수는 없어.[/\"Angry\"]",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-060-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE03-M040-070-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "저 또한 그렇습니다. 빛 또한 징벌을 명하시니, 교단에 응징을 내려야 합니다.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]저 또한 그렇습니다. 빛 또한 징벌을 명하시니, 교단에 응징을 내려야 합니다.[/\"Angry\"]",
+      "string_id": 2932,
+      "speaker_string_id": 2933,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-070-ILASTAR.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE03-M040-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그렇다면 응징을 내리도록 하자고. 우서 경이 반대하기 전 스트라솔름으로 가자.",
+      "string_id": 2963,
+      "speaker_string_id": 2964,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-080-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE03-T010-ILASTAR",
+      "scene": "User Base Start.User Base Start Fight Q",
+      "speaker": "일라스타",
+      "text": "추악한 교단원들은 승리하지 못할 겁니다!",
+      "string_id": 2515,
+      "speaker_string_id": 2516,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T010-ILASTAR.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE03-T020-GAREK",
+      "scene": "User Base Start.User Base Start Fight Q",
+      "speaker": "가렉",
+      "text": "공격받고 있다! 전진!",
+      "string_id": 2511,
+      "speaker_string_id": 2512,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T020-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE03-T030-ILASTAR",
+      "scene": "User Base Start.User Base Start Paesant Rescue Q",
+      "speaker": "일라스타",
+      "text": "제대로 된 기지로 삼으려면 제재소를 수리해야 합니다.",
+      "string_id": 2522,
+      "speaker_string_id": 2523,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T030-ILASTAR.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE03-T040-GAREK",
+      "scene": "Point of Interest.Point of Interest Start Q",
+      "speaker": "가렉",
+      "text": "시작이 좋군. 하지만 군대를 양성하려면 자원이 더 필요해.",
+      "string_id": 2685,
+      "speaker_string_id": 2686,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T040-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE03-T050-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Start Q",
+      "speaker": "일라스타",
+      "text": "근처에 다른 정착지도 있습니다. 되찾아야 합니다.",
+      "string_id": 2693,
+      "speaker_string_id": 2694,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T050-ILASTAR.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE03-T060-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Approach Q",
+      "speaker": "일라스타",
+      "text": "외진 정착지 중 한 곳입니다. 선량한 사람들의 집이었죠.",
+      "string_id": 2526,
+      "speaker_string_id": 2527,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T060-ILASTAR.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE03-T070-GAREK",
+      "scene": "Point of Interest.Point of Interest Approach Q",
+      "speaker": "가렉",
+      "text": "수리를 시작하려면 기지에서 일꾼을 데려와야 합니다.",
+      "string_id": 2530,
+      "speaker_string_id": 2531,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T070-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE03-T080-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Blacksmith Retrieved Q",
+      "speaker": "일라스타",
+      "text": "적어도 교단이 말은 내버려뒀군요.",
+      "string_id": 2534,
+      "speaker_string_id": 2535,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T080-ILASTAR.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE03-T090-GAREK",
+      "scene": "Point of Interest.Point of Interest Blacksmith Retrieved Q",
+      "speaker": "가렉",
+      "text": "우리 기사들이 말에 올라 전장으로 질주해 쓰러진 이들의 복수를 할 것이다.",
+      "string_id": 2539,
+      "speaker_string_id": 2540,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T090-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE03-T100-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Sanctuary Retrieved Q",
+      "speaker": "일라스타",
+      "text": "이곳은 예배소였습니다! 이교도 놈들에게 신성한 것은 없는 걸까요?",
+      "string_id": 2553,
+      "speaker_string_id": 2554,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T100-ILASTAR.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE03-T110-GAREK",
+      "scene": "Point of Interest.Point of Interest Sanctuary Retrieved Q",
+      "speaker": "가렉",
+      "text": "네 동료 사제들이 복수의 심판을 할 것이다.",
+      "string_id": 2559,
+      "speaker_string_id": 2560,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T110-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE03-T120-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Fair Retrieved Q",
+      "speaker": "일라스타",
+      "text": "여기 살았던 가족은 도시 밖에서 조용한 삶을 바랐습니다.",
+      "string_id": 2545,
+      "speaker_string_id": 2546,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T120-ILASTAR.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE03-T130-GAREK",
+      "scene": "Point of Interest.Point of Interest Fair Retrieved Q",
+      "speaker": "가렉",
+      "text": "이들의 물자를 써 살인자들에게 정의의 심판을 내리도록 하지.",
+      "string_id": 2549,
+      "speaker_string_id": 2550,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T130-GAREK.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE03-T140-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Gunshop Retrieved Q",
+      "speaker": "일라스타",
+      "text": "이 총포상의 주인을 알았습니다. 실력에 자부심이 있었죠.",
+      "string_id": 2561,
+      "speaker_string_id": 2562,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T140-ILASTAR.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE03-T150-GAREK",
+      "scene": "Point of Interest.Point of Interest Gunshop Retrieved Q",
+      "speaker": "가렉",
+      "text": "남은 물품으로 소총병을 무장시켜 교단 놈들에게 납탄을 먹여 주자.",
+      "string_id": 2568,
+      "speaker_string_id": 2569,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T150-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE03-T160-GAREK",
+      "scene": "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q",
+      "speaker": "가렉",
+      "text": "교단의 언데드 하수인은 그 수가 끝도 없어 보이는군.",
+      "string_id": 2574,
+      "speaker_string_id": 2575,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T160-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE03-T170-ILASTAR",
+      "scene": "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q",
+      "speaker": "일라스타",
+      "text": "놈들의 악취 나는 구울 떼가 계속해서 몰려들고 있습니다. 속히 역병 가마솥을 파괴해야 합니다.",
+      "string_id": 2580,
+      "speaker_string_id": 2581,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T170-ILASTAR.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE03-T180-ILASTAR",
+      "scene": "Plague Cauldrons.Plague Cauldrons Countryiside Defeated Q",
+      "speaker": "일라스타",
+      "text": "조금이라도 숨 돌릴 여유가 생기겠지요.",
+      "string_id": 2586,
+      "speaker_string_id": 2587,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T180-ILASTAR.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE03-T190-RAS",
+      "scene": "Ras.Ras Countryside Spawn Dialogue Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "불청객이 오셨군. 몰살해 버려라.",
+      "string_id": 2592,
+      "speaker_string_id": 2593,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T190-RAS.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE03-T200-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 01 Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "내 주인께서 이 도시의 멸망을 명하셨다! 반드시 그리하리라!",
+      "string_id": 2635,
+      "speaker_string_id": 2636,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T200-RAS.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE03-T210-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 02 Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "바보만이 감히 저주받은 자들의 교단에 반항하려 들지.",
+      "string_id": 2641,
+      "speaker_string_id": 2642,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T210-RAS.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE03-T220-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 03 Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "안돌할은 로데론의 다른 곳과 마찬가지로 불탈 것이다. 우리를 막을 수는 없다!",
+      "string_id": 2647,
+      "speaker_string_id": 2648,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T220-RAS.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE03-T230-RAS",
+      "scene": "Ras Bossfight.Ras Bossfight Half Life Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "어찌 무력히 반항하느냐? 스컬지의 지배는 확고하다.",
+      "string_id": 2670,
+      "speaker_string_id": 2671,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T230-RAS.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE03-T240-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "끈질긴 천치 놈들! 더 강한 병력을 끌고 돌아오겠다!",
+      "string_id": 2705,
+      "speaker_string_id": 2706,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T240-RAS.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE03-T250-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "오만에 크나큰 대가를 치를 것이다! 아직 끝이 아니다!",
+      "string_id": 2627,
+      "speaker_string_id": 2628,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T250-RAS.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE03-T260-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "네놈보다도 심각한 이단자도 상대해 보았다! 승리는 내 것이다!",
+      "string_id": 2620,
+      "speaker_string_id": 2621,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T260-RAS.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE03-T270-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "눈을 돌리려는 수작이다! 나는 보다 긴급한 사안을 처리해야 한다!",
+      "string_id": 2695,
+      "speaker_string_id": 2696,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T270-RAS.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE03-T280-GAREK",
+      "scene": "Point of Interest.Point of Interest Enter Andorhal Start Q",
+      "speaker": "가렉",
+      "text": "숲을 정리했군. 이제 나머지 포위망을 뚫어야 해.",
+      "string_id": 2713,
+      "speaker_string_id": 2737,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T280-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE03-T290-ILASTAR",
+      "scene": "Regional Defenders.Regional Defenders Start Q",
+      "speaker": "일라스타",
+      "text": "경비탑을 되찾는다면 안돌할에서 타락한 교단원을 모두 몰아낼 수 있을 겁니다!",
+      "string_id": 3025,
+      "speaker_string_id": 3026,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T290-ILASTAR.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE03-T300-GAREK",
+      "scene": "Regional Defenders.Regional Defenders Start Q",
+      "speaker": "가렉",
+      "text": "민병대가 거리에서 전투 중이다! 힘을 합쳐 싸우자!",
+      "string_id": 3028,
+      "speaker_string_id": 3027,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T300-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE03-T310-ILASTAR",
+      "scene": "Villagers.Villagers Discover Q",
+      "speaker": "일라스타",
+      "text": "주민들에게 도움이 필요합니다!",
+      "string_id": 3029,
+      "speaker_string_id": 3030,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T310-ILASTAR.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE03-T320-GAREK",
+      "scene": "Villagers.Villagers Discover Q",
+      "speaker": "가렉",
+      "text": "최대한 많이 구해라!",
+      "string_id": 3031,
+      "speaker_string_id": 3032,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T320-GAREK.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE03-T330-ILASTAR",
+      "scene": "Optional Quest - Destroy The Plague Cauldrons.Optional Quest PCauldrons Discover Event Q",
+      "speaker": "일라스타",
+      "text": "역병 가마솥이 더 있군. 도시가 짓밟히기 전에 파괴해야 한다!",
+      "string_id": 2674,
+      "speaker_string_id": 2681,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T330-ILASTAR.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE03-T340-GAREK",
+      "scene": "Optional Quest - Reinforcements.Optional Quest Reinforce Discover Event Q",
+      "speaker": "가렉",
+      "text": "우서 경의 성기사들을 위해 길을 틀 수 있다면, 도시의 거리에서 우리와 합류할 수 있겠지.",
+      "string_id": 2658,
+      "speaker_string_id": 2659,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T340-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE03-T350-RAS",
+      "scene": "Cinematic 04 - Ras Frostwhisper.Cinematic 04 Play Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "방해도 이제 그만. 네놈을 끝장내 주겠다!",
+      "string_id": 2664,
+      "speaker_string_id": 2665,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T350-RAS.ogg"
+    },
+    {
+      "n": 58,
+      "id": "FootmanWhat3",
+      "scene": "Cages.Cages Footman Rescue 01 Q",
+      "speaker": "보병",
+      "text": "네, 전하?",
+      "string_id": 2761,
+      "speaker_string_id": 2762,
+      "sound": "Units/Human/Footman/FootmanWhat3.flac"
+    },
+    {
+      "n": 59,
+      "id": "RiflemanWhat3",
+      "scene": "Cages.Cages Rifleman Rescue 01 Q",
+      "speaker": "소총병",
+      "text": "1번 사수 대기 중!",
+      "string_id": 2751,
+      "speaker_string_id": 2752,
+      "sound": "Units/Human/Rifleman/RiflemanWhat3.flac"
+    },
+    {
+      "n": 60,
+      "id": "RiflemanWhat1",
+      "scene": "Cages.Cages Rifleman Rescue 02 Q",
+      "speaker": "소총병",
+      "text": "예, 대장님!",
+      "string_id": 2753,
+      "speaker_string_id": 2754,
+      "sound": "Units/Human/Rifleman/RiflemanWhat1.flac"
+    },
+    {
+      "n": 61,
+      "id": "FootmanWarcry1",
+      "scene": "Cages.Cages Footman Rescue 02 Q",
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 62,
+      "id": "FootmanYesAttack3",
+      "scene": "Cages.Cages Footman Rescue 03 Q",
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 63,
+      "id": "PriestWhat3",
+      "scene": "Cages.Cages Priest Rescue 01 Q",
+      "speaker": "사제",
+      "text": "도움이 필요하십니까?",
+      "string_id": 2765,
+      "speaker_string_id": 2766,
+      "sound": "Units/Human/Priest/PriestWhat3.flac"
+    },
+    {
+      "n": 64,
+      "id": "PriestYes1",
+      "scene": "Cages.Cages Priest Rescue 02 Q",
+      "speaker": "사제",
+      "text": "섬기겠습니다.",
+      "string_id": 2759,
+      "speaker_string_id": 2760,
+      "sound": "Units/Human/Priest/PriestYes1.flac"
+    },
+    {
+      "n": 65,
+      "id": "PeasantWhat3",
+      "scene": "Cages.Cages Peasant Rescue Q",
+      "speaker": "농부",
+      "text": "더 일하라고요?",
+      "string_id": 2767,
+      "speaker_string_id": 2768,
+      "sound": "Units/Human/Peasant/PeasantWhat3.flac"
+    },
+    {
+      "n": 66,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Gunshop Approach Q",
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 67,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Fair Approach Q",
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 68,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Blacksmith Approach Q",
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 69,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Sanctuary Approach Q",
+      "speaker": "농부",
+      "text": "사람 살려! 살려줘요!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 70,
+      "id": "BanditWarcry1",
+      "scene": "Encounters.Encounters Assassins Q",
+      "speaker": "암살자",
+      "text": "기습이다!",
+      "string_id": 2982,
+      "speaker_string_id": 2981,
+      "sound": "Units/Creeps/Bandit/BanditWarcry1.flac"
+    },
+    {
+      "n": 71,
+      "id": "FootmanWarcry1",
+      "scene": "Regional Defenders.Regional Defenders Group 01 Defeated Cult Q",
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 72,
+      "id": "PeasantYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 02 Defeated Cult Q",
+      "speaker": "민병대",
+      "text": "저 말곤 없나요?",
+      "string_id": 2980,
+      "speaker_string_id": 2979,
+      "sound": "Units/Human/Peasant/PeasantYesAttack3.flac"
+    },
+    {
+      "n": 73,
+      "id": "FootmanYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 03 Defeated Cult Q",
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 74,
+      "id": "PeasantYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 04 Defeated Cult Q",
+      "speaker": "민병대",
+      "text": "저 말곤 없나요?",
+      "string_id": 2980,
+      "speaker_string_id": 2979,
+      "sound": "Units/Human/Peasant/PeasantYesAttack3.flac"
+    },
+    {
+      "n": 75,
+      "id": "FootmanWarcry1",
+      "scene": "Regional Defenders.Regional Defenders Group 05 Defeated Cult Q",
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 76,
+      "id": "FootmanYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 06 Defeated Cult Q",
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    }
+  ]
+}

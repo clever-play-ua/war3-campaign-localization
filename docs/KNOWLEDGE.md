@@ -203,6 +203,49 @@ CreditsPanel/CreditsPanel.js` credits. Battle.net Agent "Scan and Repair" would 
 (not `/Encoding`); the SC:R root is also a plaintext `path|ckey` list. Locale lookup must skip locales not installed.
 Scripts (not in this repo): `casc_common.py`, `blte.py`, `encoding_file.py`, `casc_patch.py` in `sc_rem_test_inject`.
 
+### 7.1a Forsaken Kingdom (Blizzard DLC, Reforged 3.0.1), verified 2026-11-12
+* Maps live only in CASC: `War3.w3mod:Campaign/ForsakenKingdom/*.w3xd` (20 files). Read with `tools/casc.py` (own reader:
+  `.build.info` -> build config -> encoding -> `.idx` -> BLTE; root is a plaintext `path|ckey` list).
+* `.w3xd` = xorshift32 XOR + AES-256-CCM around a normal MPQ, bound to the account license. Decrypt with the community
+  [w3xd-toolkit](https://github.com/mythic-p/w3xd-toolkit) (MIT; `python -m w3xd batch DIR -x`). Never publish the decrypted
+  maps or the license. `tools/w3xd_pack.py` re-encrypts byte-identically, BUT the game rejects any modified `.w3xd`
+  (one byte flipped in the MPQ `NGIS` signature or in the 20-byte trailer digest -> mission does not even start).
+* Each map has `war3map.wts` (English) + `_Locales\<loc>.w3mod\war3map.wts` for deDE esES esMX frFR itIT koKR plPL ptBR ruRU
+  zhCN zhTW, same STRING numbers. The game reads the one of the client's TEXT language (this install: text frFR, speech enUS,
+  stored in `.product.db`), so always patch every locale file. Dialogue: `conversation.json` (speaker/text STRING ids, ogg path,
+  ids like `HRE01-C010-020-GAREK`: C = cinematic, M = in-engine cutscene, T = gameplay transmission).
+* Mission list: `War3.w3mod:UI/CampaignInfoDLC01.txt` (HumanRe: RE01, RE02, RE02Interlude, RE03, RE04; UndeadRe: RE01, RE02,
+  RE03Interlude, RE03a; the `_0x` maps and RE03b are sub-maps loaded by the missions).
+* **What works (Allow Local Files):** `_retail_\UI\CampaignInfoDLC01.txt` with a mission pointing to a local plain map, e.g.
+  `CampaignUA/ForsakenKingdom/HumanRE01_ukUA.w3x`. A plain `.w3x` may not contain compiled Lua ("compiled lua bytecode module
+  '%s' is not allowed for non-.w3xd maps" -> "map is unavailable or corrupted"), so `war3map.luac` is decompiled with unluac
+  (`python -m luac53 decompile`, UNLUAC_JAR) to `war3map.lua` and the map is rebuilt with `tools/mpq_build.py` (HM3W header,
+  fresh MPQ v1, no attributes/signature). Verified in game: HumanRE01 loads and shows the patched strings.
+* **What does not work:** loose files next to the map (`_retail_\Campaign\...\HumanRE01.w3x\war3map.wts` or
+  `_retail_\war3.w3mod\Campaign\...\HumanRE01.w3x\...`) are ignored for map strings. Loose files DO work for global assets
+  (French fan dub puts audio in `_retail_\war3.w3mod\_locales\frfr.w3mod\sound\dialogue\`).
+* **Mission chaining (why "after victory the original English map starts").** `CampaignInfo*.txt` only drives the menu. The
+  next mission is hard-coded in each map script: `SetNextLevelBJ("Campaign\\ForsakenKingdom\\HumanRE02.w3xd")` (17 calls in
+  the 20 scripts, path case varies: `forsakenkingdom`, `undeadre03interlude`). Hubs build paths at run time:
+  UndeadRE01 `udg_ZoneMapPath .. udg_ZoneMaps[i] .. udg_ZoneMapExt` (`"Campaign\\ForsakenKingdom\\"`, `".w3xd"`), UndeadRE02
+  and its sub-maps `FK_TRANSITION_CONFIG.Save.MapDirectory .. MapName .. MapExtension`; both use `SaveAndChangeLevelBJ`
+  with zone saves in `Blizzard\Zones` (`.w3z`). With the decompiled Lua these are plain strings and are rewritten to
+  `CampaignUA\\ForsakenKingdom\\<Map>_ukUA.w3x` (`tools/fk_build.py`). The same applied to the earlier Ukrainian prologue
+  test: its next-level path still pointed to the original map.
+* **Carry-over of heroes/items/gold** is game cache, keyed by constant strings, not by file name: Human uses cache
+  `udg_Cache_HumanRE = "HumanRE"` (`udg_Cache_CampaignName` in the Interlude), mission keys `"HumanRE01"`..`"HumanRE04"`,
+  `StoreUnitBJ("Garek"/"Landen")` + `PlayerGold`/`PlayerLumber` at the end, `RestoreUnitLocFacingPointBJ` in the next map.
+  Undead uses `"Campaigns.w3v"` (31 calls) + `FKTC.Save.GameCacheFile` and `GameCacheMissionKey`. Test builds rename the
+  caches and the zone save folder with a prefix (`UA_TEST_HumanRE`, `UA_TEST_Campaigns.w3v`, `Blizzard\UA_TEST_Zones`) so they
+  never mix with the original progress. Carry-over across our maps is not yet verified in game.
+* Strings the scripts show come from the map WTS (`StringIdentity("TRIGSTR_1670")` etc.), so translating the WTS is enough
+  for map text; menu names are `CAMP_*` in `_Locales\<loc>.w3mod:UI/FrameDef/GlobalStrings.fdf` (saved in `FK/enUS/GLOBAL`).
+* Tools: `tools/fk_extract.py` (decrypted maps -> `FK/enUS/<campaign>/<NN_Map_Title>/` wts + conversation + dialogue.json),
+  `tools/fk_build.py` (decrypted maps + decompiled Lua -> `CampaignUA/ForsakenKingdom/<Map>_ukUA.w3x` + `UI/CampaignInfoDLC01.txt`,
+  `--tag "UA TEST"` marks story strings in all 12 locales, `--cache-prefix UA_TEST_`, `--install <_retail_>`).
+* Decompiled scripts: 20 files, 0.4-5.2 MB each; unluac output has no error markers, a few `goto` (UndeadRE01: 29). A full
+  playthrough of the decompiled scripts is not verified yet (2026-11-12: Human 1 loads and shows the patched strings).
+
 ### 7.2 BFME1 Ukrainian localization (separate repo)
 Community patch 2.22 at `F:\BFME1`. CSF/font/subtitle files can only come from `lang\english.big`; patch archives
 `_patchNNN.big` can override `data\...` paths only. `.big` headers: base archives `BIG4`, patches `BIGF`; a wrong header makes the

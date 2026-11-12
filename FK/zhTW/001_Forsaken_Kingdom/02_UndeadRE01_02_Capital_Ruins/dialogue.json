@@ -1,0 +1,498 @@
+{
+  "map": "UndeadRE01_02",
+  "title": "Capital Ruins",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M2-M020-010-BANSHEE",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "瑪麗亞",
+      "text": "我的摯愛！他去哪了？我得找到他！",
+      "string_id": 2016,
+      "speaker_string_id": 2017,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-010-BANSHEE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M2-M020-020-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "安雅",
+      "text": "她在不斷重演自己死去的那一刻。這些步履蹣跚的行屍走肉裡，肯定有一個就是她的「摯愛」。",
+      "string_id": 2014,
+      "speaker_string_id": 2015,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M2-M020-030-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "安雅",
+      "text": "只要平息她這番失常的舉動，或許就能讓她恢復理智了。",
+      "string_id": 2012,
+      "speaker_string_id": 2013,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M2-M020-040-GAREK",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "加瑞克",
+      "text": "了解。讓我們為她帶來安寧吧。",
+      "string_id": 2010,
+      "speaker_string_id": 2011,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M2-T010-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "安雅",
+      "text": "加瑞克，務必當心。擺脫天譴軍團的人不一定會和我們一樣友善。",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T010-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M2-T020-GAREK",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "加瑞克",
+      "text": "這代表我們得保護自己？",
+      "string_id": 1735,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M2-T030-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "安雅",
+      "text": "啊，你很快就抓到重點了。",
+      "string_id": 1746,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M2-T040-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "安雅",
+      "text": "那邊的傢伙。希瓦娜斯‧風行者會讓你在幽暗城有個容身之地。去下水道吧。",
+      "string_id": 1755,
+      "speaker_string_id": 1756,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T040-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M2-T050-GAREK",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "加瑞克",
+      "text": "嗯…看來沒什麼困難。",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T050-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M2-T060-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "安雅",
+      "text": "你非得要挑戰命運嗎？",
+      "string_id": 1777,
+      "speaker_string_id": 1778,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T060-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M2-T061-ANYA",
+      "scene": "Encounters.Encounter A Enter Q",
+      "speaker": "安雅",
+      "text": "天譴軍團依然在這些廢墟中潛伏，蓄意圖謀不軌。一個都不要放過。",
+      "string_id": 1982,
+      "speaker_string_id": 1983,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T061-ANYA.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M2-T070-SURVIVOR",
+      "scene": "Forsaken.Forsaken 02 Enter Q",
+      "speaker": "被遺忘者生還者",
+      "text": "肚子餓！肚子餓了！",
+      "string_id": 1786,
+      "speaker_string_id": 1787,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T070-SURVIVOR.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M2-T080-GAREK",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "加瑞克",
+      "text": "安雅，它們原本只是沒有意識的軀殼…要是我當初醒來也是那樣的話…",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T080-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M2-T090-ANYA",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "安雅",
+      "text": "那我就會殺了你，讓普崔司把你當零件用。繼續前進吧。",
+      "string_id": 1804,
+      "speaker_string_id": 1805,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M2-T100-ANYA",
+      "scene": "Forsaken.Forsaken 04 Enter Q",
+      "speaker": "安雅",
+      "text": "更多天譴軍團入侵者來了！趕緊拯救被遺忘者！",
+      "string_id": 1863,
+      "speaker_string_id": 1864,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M2-T110-ANYA",
+      "scene": "Forsaken.Forsaken 04 Scourge Defeated Q",
+      "speaker": "安雅",
+      "text": "安全了。前往下水道吧。黑暗女王會看顧你們。",
+      "string_id": 1894,
+      "speaker_string_id": 1895,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M2-T120-BERND",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "貝恩德",
+      "text": "救命啊！有人嗎！",
+      "string_id": 1813,
+      "speaker_string_id": 1814,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T120-BERND.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M2-T130-GAREK",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "加瑞克",
+      "text": "離他們遠一點！",
+      "string_id": 1839,
+      "speaker_string_id": 1840,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T130-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M2-T140-BERND",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "貝恩德",
+      "text": "謝謝！你救了我們！",
+      "string_id": 1845,
+      "speaker_string_id": 1846,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T140-BERND.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M2-T150-GAREK",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "加瑞克",
+      "text": "前往下水道吧。希瓦娜斯女士會保護所有被遺忘者。",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T150-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M2-T160-BANSHEE",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "瑪麗亞",
+      "text": "他…他已經走了。我想起來了…謝謝。",
+      "string_id": 1609,
+      "speaker_string_id": 1610,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T160-BANSHEE.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M2-T170-ANYA",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "安雅",
+      "text": "你從過往中解脫了。去幽暗城吧，黑暗女王會歡迎你。",
+      "string_id": 1616,
+      "speaker_string_id": 1617,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T170-ANYA.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M2-T180-BANSHEE",
+      "scene": "Banshee.Banshee B Enter Q",
+      "speaker": "艾力克西亞",
+      "text": "快跑，孩子們！那些邪教徒會殺光我們！",
+      "string_id": 1625,
+      "speaker_string_id": 1626,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T180-BANSHEE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M2-T190-BANSHEE",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "艾力克西亞",
+      "text": "死了…全都死了。",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T190-BANSHEE.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M2-T200-ANYA",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "安雅",
+      "text": "想哀悼的話就去吧。等你準備好了，就前往幽暗城的新家園。",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T200-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M2-T210-KAELYSTIA",
+      "scene": "Banshee.Banshee C Enter Q",
+      "speaker": "凱利斯蒂亞",
+      "text": "是誰膽敢打擾我的安息？！我要用魔法之火燒死你！",
+      "string_id": 1655,
+      "speaker_string_id": 1656,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T210-KAELYSTIA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M2-T220-ANYA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "安雅",
+      "text": "夠了。你的憤怒不應該發洩在這裡。加入被遺忘者吧，向天譴軍團發洩你的憤怒。",
+      "string_id": 1664,
+      "speaker_string_id": 1665,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T220-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M2-T230-KAELYSTIA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "凱利斯蒂亞",
+      "text": "對…對，你說的沒錯。謝謝你幫助我看清這一切。",
+      "string_id": 1676,
+      "speaker_string_id": 1677,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T230-KAELYSTIA.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M2-T240-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "加瑞克",
+      "text": "真是悲涼的命運，先是被復活成不死者，然後恐懼自己的全新身分。",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T240-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M2-T250-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "安雅",
+      "text": "那是其中一種看法，但你想要就這樣腐爛分解，還是要把握第二段人生的機會？",
+      "string_id": 1690,
+      "speaker_string_id": 1691,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M2-T260-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "加瑞克",
+      "text": "很難說。我沒有前世的記憶了。",
+      "string_id": 1699,
+      "speaker_string_id": 1700,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T260-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M2-T270-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "安雅",
+      "text": "這何嘗不是種福分。我們大部分都還記得如何死去，以及在重獲自由意志之前，被逼著做了什麼勾當。",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T270-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M2-T280-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "安雅",
+      "text": "真希望我們有這個福氣，可以活得像白紙一樣。",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T280-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M2-T300-ANYA",
+      "scene": "Abomination.Abomination Human Base Enter Q",
+      "speaker": "安雅",
+      "text": "活人正在這些廢墟中四處亂竄。我們應該把他們連根拔除。",
+      "string_id": 1934,
+      "speaker_string_id": 1935,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M2-T301-SILVERHANDKNIGHT",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "路西恩‧光鑄",
+      "text": "又有汙穢的邪魔來了！用聖光燒盡他們！",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T301-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M2-T302-ANYA",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "安雅",
+      "text": "有聖騎士！殺掉他！",
+      "string_id": 1958,
+      "speaker_string_id": 1959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T302-ANYA.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M2-T310-GAREK",
+      "scene": "Abomination.Abomination Paladin Dies Q",
+      "speaker": "加瑞克",
+      "text": "難道基佛就不能找個沒那麼危險的方法嗎？",
+      "string_id": 1967,
+      "speaker_string_id": 1968,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T310-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M2-T320-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "安雅",
+      "text": "加里索斯總元帥，不論敵友都唾棄這個人。希瓦娜斯殺死他的時候，沒有人為他落淚。",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M2-T330-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "安雅",
+      "text": "基佛居然想要利用他的遺體，真是奇怪。或許他認為某種程度上來說，這是正義。",
+      "string_id": 1911,
+      "speaker_string_id": 1912,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T330-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M2-T760-ANYA",
+      "scene": "Ghoul.Ghoul Approached Q",
+      "speaker": "安雅",
+      "text": "那隻食屍鬼是在…看書嗎？這不太可能吧。",
+      "string_id": 1530,
+      "speaker_string_id": 1531,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T760-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M2-T770-GAREK",
+      "scene": "Ghoul.Ghoul Flee Q",
+      "speaker": "加瑞克",
+      "text": "嗯…或許我們可以用書來引誘他出來。",
+      "string_id": 1539,
+      "speaker_string_id": 1540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T770-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M2-T771-GAREK",
+      "scene": "Ghoul.Ghoul Lure Item Dropped Q",
+      "speaker": "加瑞克",
+      "text": "它可能在害怕我們。我們退後一點，給它點空間。",
+      "string_id": 1562,
+      "speaker_string_id": 1563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T771-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M2-T772-ANYA",
+      "scene": "Ghoul.Ghoul Lured Captured Q",
+      "speaker": "安雅",
+      "text": "我有預感，基佛會在這傢伙身上找到志同道合的靈魂夥伴。",
+      "string_id": 2156,
+      "speaker_string_id": 2157,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T772-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "BansheeYesAttack2",
+      "scene": "Tome Wraiths.Tome Wraiths GHOUL Activate Q",
+      "speaker": "魔典怨靈",
+      "text": "感受我的痛苦！",
+      "string_id": 1987,
+      "speaker_string_id": 1988,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack2.flac"
+    },
+    {
+      "n": 45,
+      "id": "BansheeYesAttack3",
+      "scene": "Tome Wraiths.Tome Wraiths INT Activate Q",
+      "speaker": "魔典怨靈",
+      "text": "你的靈魂會燃燒！",
+      "string_id": 1992,
+      "speaker_string_id": 1993,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack3.flac"
+    },
+    {
+      "n": 46,
+      "id": "BansheePissed1",
+      "scene": "Tome Wraiths.Tome Wraiths STR Activate Q",
+      "speaker": "魔典怨靈",
+      "text": "誰能終止這無盡的折磨！",
+      "string_id": 1997,
+      "speaker_string_id": 1998,
+      "sound": "Units/Undead/Banshee/BansheePissed1.flac"
+    },
+    {
+      "n": 47,
+      "id": "BansheePissed2",
+      "scene": "Tome Wraiths.Tome Wraiths AGI Activate Q",
+      "speaker": "魔典怨靈",
+      "text": "我還得承受多少痛苦？",
+      "string_id": 2000,
+      "speaker_string_id": 2001,
+      "sound": "Units/Undead/Banshee/BansheePissed2.flac"
+    },
+    {
+      "n": 48,
+      "id": "NecromancerWarcry1",
+      "scene": "Encounters.Encounter B Enter Q",
+      "speaker": "死靈法師",
+      "text": "到最後，他們全都是我的！",
+      "string_id": 1491,
+      "speaker_string_id": 1492,
+      "sound": "Units/Undead/Necromancer/NecromancerWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "U01Footman23",
+      "scene": "Abomination.Abomination Human Engaged Q",
+      "speaker": "步兵",
+      "text": "殺光他們！",
+      "string_id": 1977,
+      "speaker_string_id": 1978,
+      "sound": "Sound/Dialogue/UndeadCampaign/Undead01/U01Footman23.flac"
+    }
+  ]
+}

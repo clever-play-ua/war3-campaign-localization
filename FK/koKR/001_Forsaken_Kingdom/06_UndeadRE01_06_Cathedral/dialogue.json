@@ -1,0 +1,118 @@
+{
+  "map": "UndeadRE01_06",
+  "title": "Cathedral",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M6-M010-010-ANYA",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "안야",
+      "text": "정면돌파는 힘들 것 같군. 경비병을 전부 죽인다 해도, 우리의 존재를 모두에게 알릴 테니.",
+      "string_id": 381,
+      "speaker_string_id": 382,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-M010-010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M6-M010-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "측면에 입구가 있을지도. 한번 살펴보자.",
+      "string_id": 397,
+      "speaker_string_id": 398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M6-T010-KNIGHT",
+      "scene": "Transmissions.Front Door Transmission 01",
+      "speaker": "보병",
+      "text": "침입자다! 문을 잠가라!",
+      "string_id": 291,
+      "speaker_string_id": 292,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T010-KNIGHT.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M6-T020-ANYA",
+      "scene": "Transmissions.Front Door Transmission 02",
+      "speaker": "안야",
+      "text": "이럴 거라고 했지. 옆에 입구가 있을지도 모른다는 네 말이 맞기를 바라자고.",
+      "string_id": 303,
+      "speaker_string_id": 304,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T020-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M6-T030-GAREK",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "가렉",
+      "text": "저 성기사 놈들은 우릴 왜 이리도 증오하는 거지? 우리가 언데드라서?",
+      "string_id": 310,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T030-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M6-T040-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "안야",
+      "text": "놈들 보기에 그 정도면 이유가 차고 넘치지. 실제로는 로데론의 몰락을 우리 탓이라고 생각해.",
+      "string_id": 313,
+      "speaker_string_id": 314,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T040-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M6-T050-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "안야",
+      "text": "수단이 어떻든 간에 여전히 정의를 추구하는 자가 있을지도. 하지만 대부분은 그저 복수만을 원해.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T050-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M6-T060-ANYA",
+      "scene": "Transmissions.Wall Gap Transmission 01",
+      "speaker": "안야",
+      "text": "들어왔다. 이제 은빛 성기사단을 처치하자.",
+      "string_id": 322,
+      "speaker_string_id": 323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T060-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M6-T080-GAREK",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "가렉",
+      "text": "아악! 타는 듯이 아파!",
+      "string_id": 332,
+      "speaker_string_id": 333,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T080-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M6-T090-ANYA",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "안야",
+      "text": "빛이다! 사제를 죽여, 어서!",
+      "string_id": 337,
+      "speaker_string_id": 338,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T090-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M6-T100-COMMANDER",
+      "scene": "Bossfight.Paladin Transmission 01 Initial Camera Steal",
+      "speaker": "성기사",
+      "text": "사악한 괴물 놈들! 감히 성지를 더럽히려 드느냐?!",
+      "string_id": 352,
+      "speaker_string_id": 353,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-T100-COMMANDER.ogg"
+    }
+  ]
+}

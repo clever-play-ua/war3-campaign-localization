@@ -1,0 +1,498 @@
+{
+  "map": "UndeadRE01_02",
+  "title": "Capital Ruins",
+  "locale": "esMX",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M2-M020-010-BANSHEE",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Marya",
+      "text": "¡Mi amado! ¿Dónde está? ¡Debo encontrarlo!",
+      "string_id": 2016,
+      "speaker_string_id": 2017,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-010-BANSHEE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M2-M020-020-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Anya",
+      "text": "Revive el momento de su muerte. Uno de esos cadáveres debe ser su amado.",
+      "string_id": 2014,
+      "speaker_string_id": 2015,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M2-M020-030-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Anya",
+      "text": "Si le ponemos fin a esto, podría recuperar la razón.",
+      "string_id": 2012,
+      "speaker_string_id": 2013,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M2-M020-040-GAREK",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Garek",
+      "text": "Entendido. Tenemos que terminar con su sufrimiento.",
+      "string_id": 2010,
+      "speaker_string_id": 2011,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M2-T010-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "Anya",
+      "text": "Cuidado, Garek. Hay seres que se libraron de la Plaga, pero que no son tan amigables como nosotros.",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T010-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M2-T020-GAREK",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "Garek",
+      "text": "¿Y tendremos que defendernos?",
+      "string_id": 1735,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M2-T030-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "Anya",
+      "text": "Ah, entiendes todo muy rápido.",
+      "string_id": 1746,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M2-T040-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "Anya",
+      "text": "Escucha, Sylvanas Windrunner te ofrece refugio en la Ciudad Subterránea. Dirígete a las alcantarillas.",
+      "string_id": 1755,
+      "speaker_string_id": 1756,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T040-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M2-T050-GAREK",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "Garek",
+      "text": "Mmm, fue bastante fácil.",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T050-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M2-T060-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "Anya",
+      "text": "¿Te burlas del destino?",
+      "string_id": 1777,
+      "speaker_string_id": 1778,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T060-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M2-T061-ANYA",
+      "scene": "Encounters.Encounter A Enter Q",
+      "speaker": "Anya",
+      "text": "La Plaga sigue acechando en las ruinas para destruirnos. Que no quede ninguno.",
+      "string_id": 1982,
+      "speaker_string_id": 1983,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T061-ANYA.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M2-T070-SURVIVOR",
+      "scene": "Forsaken.Forsaken 02 Enter Q",
+      "speaker": "Superviviente renegado",
+      "text": "¡Debo comer! ¡Debo comer ya!",
+      "string_id": 1786,
+      "speaker_string_id": 1787,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T070-SURVIVOR.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M2-T080-GAREK",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "Garek",
+      "text": "Eran cadáveres sin voluntad. Anya, si yo hubiera despertado así...",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T080-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M2-T090-ANYA",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "Anya",
+      "text": "Te habría matado, y luego le habría dado tus pedazos a Putress. Sigamos avanzando.",
+      "string_id": 1804,
+      "speaker_string_id": 1805,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M2-T100-ANYA",
+      "scene": "Forsaken.Forsaken 04 Enter Q",
+      "speaker": "Anya",
+      "text": "¡Más invasores de la Plaga! ¡Rápido, debemos rescatar a los Renegados!",
+      "string_id": 1863,
+      "speaker_string_id": 1864,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M2-T110-ANYA",
+      "scene": "Forsaken.Forsaken 04 Scourge Defeated Q",
+      "speaker": "Anya",
+      "text": "Ya es seguro. Vayan a las alcantarillas, la Dama Oscura los resguardará.",
+      "string_id": 1894,
+      "speaker_string_id": 1895,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M2-T120-BERND",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "Bernd",
+      "text": "¡Ayuda, por favor!",
+      "string_id": 1813,
+      "speaker_string_id": 1814,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T120-BERND.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M2-T130-GAREK",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "Garek",
+      "text": "¡Aléjense de ellos!",
+      "string_id": 1839,
+      "speaker_string_id": 1840,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T130-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M2-T140-BERND",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "Bernd",
+      "text": "¡Gracias! ¡Nos salvaste!",
+      "string_id": 1845,
+      "speaker_string_id": 1846,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T140-BERND.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M2-T150-GAREK",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "Garek",
+      "text": "Dirígete a las alcantarillas. Lady Sylvanas ofrece refugio a todos los Renegados.",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T150-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M2-T160-BANSHEE",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "Marya",
+      "text": "Él... se fue. Ahora lo recuerdo. Gracias.",
+      "string_id": 1609,
+      "speaker_string_id": 1610,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T160-BANSHEE.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M2-T170-ANYA",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "Anya",
+      "text": "Tu pasado ya no te ata. Ve a la Ciudad Subterránea. La Dama Oscura te dará la bienvenida.",
+      "string_id": 1616,
+      "speaker_string_id": 1617,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T170-ANYA.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M2-T180-BANSHEE",
+      "scene": "Banshee.Banshee B Enter Q",
+      "speaker": "Alexsia",
+      "text": "¡Huyan, niños! ¡El culto nos matará a todos!",
+      "string_id": 1625,
+      "speaker_string_id": 1626,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T180-BANSHEE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M2-T190-BANSHEE",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "Alexsia",
+      "text": "Muertos... Están todos muertos.",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T190-BANSHEE.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M2-T200-ANYA",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "Anya",
+      "text": "Si necesitas llorar, adelante. Cuando estés lista, te espera un nuevo hogar en la Ciudad Subterránea.",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T200-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M2-T210-KAELYSTIA",
+      "scene": "Banshee.Banshee C Enter Q",
+      "speaker": "Kaelystia",
+      "text": "¡¿Quién osa importunar mi descanso?! ¡Arderán en las llamas de mi magia!",
+      "string_id": 1655,
+      "speaker_string_id": 1656,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T210-KAELYSTIA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M2-T220-ANYA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "Anya",
+      "text": "Basta. Tu furia está mal dirigida. Únete a los Renegados y concentra tu ira en la Plaga.",
+      "string_id": 1664,
+      "speaker_string_id": 1665,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T220-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M2-T230-KAELYSTIA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "Kaelystia",
+      "text": "Sí... tienes razón. Gracias por ayudarme a ver las cosas con claridad.",
+      "string_id": 1676,
+      "speaker_string_id": 1677,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T230-KAELYSTIA.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M2-T240-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Garek",
+      "text": "Qué destino tan cruel el de terminar como no-muerto y luego despertar en los horrores de tu nueva existencia.",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T240-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M2-T250-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Anya",
+      "text": "Es una forma de verlo, sí. Pero dime, ¿preferirías quedarte ahí mientras te pudres? ¿O sería mejor una segunda oportunidad?",
+      "string_id": 1690,
+      "speaker_string_id": 1691,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M2-T260-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Garek",
+      "text": "No sé decirte. No tengo recuerdos de mi primera vida.",
+      "string_id": 1699,
+      "speaker_string_id": 1700,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T260-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M2-T270-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Anya",
+      "text": "Podría ser una bendición. Muchos de nosotros recordamos nuestras muertes y lo que nos ordenaron hacer antes de recuperar la voluntad.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T270-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M2-T280-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Anya",
+      "text": "No todos tenemos la suerte de empezar como página en blanco.",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T280-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M2-T300-ANYA",
+      "scene": "Abomination.Abomination Human Base Enter Q",
+      "speaker": "Anya",
+      "text": "Los vivos pasan por las ruinas. Deberíamos sacarlos de aquí.",
+      "string_id": 1934,
+      "speaker_string_id": 1935,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M2-T301-SILVERHANDKNIGHT",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "Lucian Lightforged",
+      "text": "¡Más campos ruines! ¡Que ardan en la luz!",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T301-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M2-T302-ANYA",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "Anya",
+      "text": "¡Un paladín! ¡Mátenlo!",
+      "string_id": 1958,
+      "speaker_string_id": 1959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T302-ANYA.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M2-T310-GAREK",
+      "scene": "Abomination.Abomination Paladin Dies Q",
+      "speaker": "Garek",
+      "text": "¿Keever no pudo encontrar una forma menos peligrosa de hacer esto?",
+      "string_id": 1967,
+      "speaker_string_id": 1968,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T310-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M2-T320-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "Anya",
+      "text": "El gran mariscal Garithos, repudiado por aliados y enemigos. A nadie le dolió cuando Sylvanas ordenó su muerte.",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M2-T330-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "Anya",
+      "text": "Es extraño que Keever quiera aprovechar sus restos. Tal vez eso le parezca una forma de justicia.",
+      "string_id": 1911,
+      "speaker_string_id": 1912,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T330-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M2-T760-ANYA",
+      "scene": "Ghoul.Ghoul Approached Q",
+      "speaker": "Anya",
+      "text": "¿Ese necrófago está... leyendo? Imposible.",
+      "string_id": 1530,
+      "speaker_string_id": 1531,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T760-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M2-T770-GAREK",
+      "scene": "Ghoul.Ghoul Flee Q",
+      "speaker": "Garek",
+      "text": "Mmm, quizá podamos usar libros para llamarle la atención.",
+      "string_id": 1539,
+      "speaker_string_id": 1540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T770-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M2-T771-GAREK",
+      "scene": "Ghoul.Ghoul Lure Item Dropped Q",
+      "speaker": "Garek",
+      "text": "Podría asustarse. Deberíamos alejarnos y darle un poco de espacio.",
+      "string_id": 1562,
+      "speaker_string_id": 1563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T771-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M2-T772-ANYA",
+      "scene": "Ghoul.Ghoul Lured Captured Q",
+      "speaker": "Anya",
+      "text": "Sospecho que Keever podría llegar a verlo como un alma gemela.",
+      "string_id": 2156,
+      "speaker_string_id": 2157,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T772-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "BansheeYesAttack2",
+      "scene": "Tome Wraiths.Tome Wraiths GHOUL Activate Q",
+      "speaker": "Ánima del tomo",
+      "text": "¡Siente mi dolor!",
+      "string_id": 1987,
+      "speaker_string_id": 1988,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack2.flac"
+    },
+    {
+      "n": 45,
+      "id": "BansheeYesAttack3",
+      "scene": "Tome Wraiths.Tome Wraiths INT Activate Q",
+      "speaker": "Ánima del tomo",
+      "text": "¡Tu alma arderá!",
+      "string_id": 1992,
+      "speaker_string_id": 1993,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack3.flac"
+    },
+    {
+      "n": 46,
+      "id": "BansheePissed1",
+      "scene": "Tome Wraiths.Tome Wraiths STR Activate Q",
+      "speaker": "Ánima del tomo",
+      "text": "¡Que termine este tormento!",
+      "string_id": 1997,
+      "speaker_string_id": 1998,
+      "sound": "Units/Undead/Banshee/BansheePissed1.flac"
+    },
+    {
+      "n": 47,
+      "id": "BansheePissed2",
+      "scene": "Tome Wraiths.Tome Wraiths AGI Activate Q",
+      "speaker": "Ánima del tomo",
+      "text": "¿Cuánto más debo sufrir?",
+      "string_id": 2000,
+      "speaker_string_id": 2001,
+      "sound": "Units/Undead/Banshee/BansheePissed2.flac"
+    },
+    {
+      "n": 48,
+      "id": "NecromancerWarcry1",
+      "scene": "Encounters.Encounter B Enter Q",
+      "speaker": "Nigromante",
+      "text": "¡Al final, todos serán míos!",
+      "string_id": 1491,
+      "speaker_string_id": 1492,
+      "sound": "Units/Undead/Necromancer/NecromancerWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "U01Footman23",
+      "scene": "Abomination.Abomination Human Engaged Q",
+      "speaker": "Soldado",
+      "text": "¡Mátenlos a todos!",
+      "string_id": 1977,
+      "speaker_string_id": 1978,
+      "sound": "Sound/Dialogue/UndeadCampaign/Undead01/U01Footman23.flac"
+    }
+  ]
+}

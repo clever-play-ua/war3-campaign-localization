@@ -1,0 +1,1430 @@
+{
+  "map": "UndeadRE03b",
+  "title": "Naxxramas",
+  "locale": "esMX",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3M2-C010-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Ilastar",
+      "text": "Me decepcionas, Garek. Quizá si desgarro tus recuerdos...",
+      "string_id": 1495,
+      "speaker_string_id": 1496,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-010-ILASTAR.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3M2-C010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Garek",
+      "text": "¡No! Sal... de mi cabeza...",
+      "string_id": 1506,
+      "speaker_string_id": 1507,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-060-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3M2-C010-080-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Ilastar",
+      "text": "¿Qué es esto? ¿Has estado colocando bombas por todo Naxxramas?",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¿Qué es esto? ¿Has estado colocando bombas por todo Naxxramas?[/\"Squint\"]",
+      "string_id": 1515,
+      "speaker_string_id": 1516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-080-ILASTAR.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3M2-C010-090-ANYA",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Anya",
+      "text": "¡Alto! ¡¿Qué hacen?!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Alto! ¡¿Qué hacen?![/\"Surprised\"]",
+      "string_id": 1524,
+      "speaker_string_id": 1525,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-090-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3M2-C010-100-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Ilastar",
+      "text": "Aplastar tus patéticas esperanzas de victoria.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Aplastar tus patéticas esperanzas de victoria.[/\"Angry\"]",
+      "string_id": 1533,
+      "speaker_string_id": 1534,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-100-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A3M2-C010-110-LEONID",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Leonid",
+      "text": "¡No! ¡Vil miserable!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡No! ¡Vil miserable![/\"Angry\"]",
+      "string_id": 1542,
+      "speaker_string_id": 1543,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-110-LEONID.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A3M2-C010-140-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Ilastar",
+      "text": "Parece que ustedes tres son demasiado tercos para servir al Rey Exánime. Qué lástima.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Parece que ustedes tres son demasiado tercos para servir al Rey Exánime. Qué lástima.[/\"Squint\"]",
+      "string_id": 1551,
+      "speaker_string_id": 1552,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-140-ILASTAR.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A3M2-C010-150-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "Ilastar",
+      "text": "Garek. Mátalos y después acaba contigo mismo.",
+      "string_id": 1560,
+      "speaker_string_id": 1561,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-150-ILASTAR.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A3M2-C020-010-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Kel'Thuzad",
+      "text": "Así que nuestros invitados no deseados por fin se han decidido a saludarme.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Así que nuestros invitados no deseados por fin se han decidido a saludarme.[/\"Squint\"]",
+      "string_id": 1582,
+      "speaker_string_id": 1583,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-010-KELTHUZAD.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A3M2-C020-020-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Kel'Thuzad",
+      "text": "Por desgracia, llegan en mal momento. Ahora mismo estoy ocupado...",
+      "string_id": 1585,
+      "speaker_string_id": 1586,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-020-KELTHUZAD.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A3M2-C020-030-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Kel'Thuzad",
+      "text": "Con la aniquilación de Ciudad Subterránea.",
+      "string_id": 1625,
+      "speaker_string_id": 1626,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-030-KELTHUZAD.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A3M2-C020-040-LEONID",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Leonid",
+      "text": "¡Kel'Thuzad! ¡Pagarás por tus crímenes contra Lordaeron!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Kel'Thuzad! ¡Pagarás por tus crímenes contra Lordaeron![/\"Angry\"]",
+      "string_id": 1633,
+      "speaker_string_id": 1634,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-040-LEONID.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A3M2-C020-050-ANYA",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Anya",
+      "text": "¡Y por la caída de Quel'Thalas!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Y por la caída de Quel'Thalas![/\"Angry\"]",
+      "string_id": 1621,
+      "speaker_string_id": 1622,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-050-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A3M2-C020-060-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Kelthuzad",
+      "text": "Qué peculiar. Pero la chusma como ustedes no me incumbe.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Qué peculiar. Pero la chusma como ustedes no me incumbe.[/\"Squint\"]",
+      "string_id": 3000,
+      "speaker_string_id": 2999,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-060-KELTHUZAD.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A3M2-C020-070-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Kel'Thuzad",
+      "text": "¡Rivendare! Haz algo útil y deshazte de estas alimañas.",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-070-KELTHUZAD.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A3M2-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Garek",
+      "text": "Barón Rivendare...",
+      "string_id": 1662,
+      "speaker_string_id": 1663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A3M2-C020-090-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Barón Rivendare",
+      "text": "Tú, la rata que se atrevió a morderme en Stratholme. Qué agradable sorpresa.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Tú, la rata que se atrevió a morderme en Stratholme. Qué agradable sorpresa.[/\"Angry\"]",
+      "string_id": 1664,
+      "speaker_string_id": 1665,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-090-RIVENDARE.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A3M2-C020-100-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Barón Rivendare",
+      "text": "Ahora podré terminar lo que empecé.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ahora podré terminar lo que empecé.[/\"Happy\"]",
+      "string_id": 1673,
+      "speaker_string_id": 1674,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-100-RIVENDARE.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A3M2-C020-110-GAREK",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Garek",
+      "text": "Eso terminó hace mucho. Esta vez no vengo por venganza.",
+      "string_id": 1685,
+      "speaker_string_id": 1686,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-110-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A3M2-C020-120-GAREK",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "Garek",
+      "text": "Estoy aquí para proteger a los Renegados.",
+      "string_id": 1694,
+      "speaker_string_id": 1695,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-120-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A3M2-C030-010-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Anya",
+      "text": "¿Y ahora qué? Sin las bombas, ¿cómo destruimos el cristal antes de que lance otra descarga?",
+      "string_id": 1705,
+      "speaker_string_id": 1706,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-010-ANYA.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A3M2-C030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "Tenemos... otra cosa... con suficiente poder para hacerlo.",
+      "string_id": 1934,
+      "speaker_string_id": 1935,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-020-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A3M2-C030-025-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "La Luz.",
+      "string_id": 1950,
+      "speaker_string_id": 1951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-025-GAREK.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A3M2-C030-030-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Anya",
+      "text": "No. No vas a inmolarte en llamas sagradas.",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No. No vas a inmolarte en llamas sagradas.[/\"Surprised\"]",
+      "string_id": 1932,
+      "speaker_string_id": 1933,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-030-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A3M2-C030-040-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "No hay otra forma, Anya. La Luz nos llama... a proteger a quienes aún viven, en cierto modo.",
+      "string_id": 1920,
+      "speaker_string_id": 1921,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-040-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A3M2-C030-050-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "Todos hemos... perdido algo que tuvimos en vida... y construido algo nuevo en la no-muerte. Lo preservaré... cueste lo que cueste.",
+      "string_id": 1912,
+      "speaker_string_id": 1913,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A3M2-C030-060-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "No por la Luz, sino por... los Renegados.",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-060-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A3M2-C030-070-LEONID",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Leonid",
+      "text": "He conocido a muchos paladines en mis tiempos. Héroes, menos. A ti, Garek, siempre te recordaré y te veneraré.",
+      "string_id": 1892,
+      "speaker_string_id": 1893,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-070-LEONID.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A3M2-C030-080-LEONID",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Leonid",
+      "text": "Que la Luz te acompañe, amigo mío.",
+      "string_id": 1886,
+      "speaker_string_id": 1887,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-080-LEONID.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A3M2-C030-090-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Anya",
+      "text": "type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Debí dejar que Putress te despedazara.",
+      "raw": "[\"Sad\"] type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Debí dejar que Putress te despedazara.[/\"Sad\"]",
+      "string_id": 1876,
+      "speaker_string_id": 1877,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-090-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A3M2-C030-100-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "Cuida la Ciudad Subterránea, Anya. No seré... el último... quien despierte y necesite guía.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Cuida la Ciudad Subterránea, Anya. No seré... el último... quien despierte y necesite guía.[/\"Happy\"]",
+      "string_id": 1866,
+      "speaker_string_id": 1867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-100-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A3M2-C030-110-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Anya",
+      "text": "type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No, no lo serás. Los Renegados sobrevivirán gracias a ti.",
+      "raw": "[\"Sad\"] type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No, no lo serás. Los Renegados sobrevivirán gracias a ti.[/\"Sad\"]",
+      "string_id": 1856,
+      "speaker_string_id": 1857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-110-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A3M2-C030-120-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "Garek",
+      "text": "Esa es la verdadera victoria. Nunca la pierdas de vista.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Esa es la verdadera victoria. Nunca la pierdas de vista.[/\"Happy\"]",
+      "string_id": 1844,
+      "speaker_string_id": 1845,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-120-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A3M2-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "Garek",
+      "text": "Recuerden el plan. Atacamos rápido, colocamos las bombas y regresamos a la barcaza voladora antes de detonarlas.",
+      "string_id": 1358,
+      "speaker_string_id": 1359,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A3M2-M010-020-LEONID",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "Leonid",
+      "text": "Prepárense para encontrar una fuerte resistencia más adelante. Estas salas están ocupadas por muchas de las tropas de élite de la Plaga.",
+      "string_id": 1367,
+      "speaker_string_id": 1368,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-020-LEONID.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A3M2-M010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "Anya",
+      "text": "Entonces es lógico que los Renegados hayan enviado a nuestras tropas de élite para llevar a cabo esta misión.",
+      "string_id": 1376,
+      "speaker_string_id": 1377,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-030-ANYA.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A3M2-M010-040-ANYA",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "Anya",
+      "text": "Y el Alba Argenta también, supongo.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Y el Alba Argenta también, supongo.[/\"Squint\"]",
+      "string_id": 1385,
+      "speaker_string_id": 1386,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-040-ANYA.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A3M2-M010-050-LEONID",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "Leonid",
+      "text": "Haré cuanto esté en mi mano para demostrar que soy digno de tu compañía.",
+      "string_id": 1394,
+      "speaker_string_id": 1395,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-050-LEONID.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A3M2-M010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "Garek",
+      "text": "Ya lo has hecho, Leonid. Ahora en marcha.",
+      "string_id": 1403,
+      "speaker_string_id": 1404,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-060-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A3M2-M020-010-GAREK",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Garek",
+      "text": "Sea lo que sea este lugar, estaba muy bien defendido. Coloquemos el último explosivo.",
+      "string_id": 1412,
+      "speaker_string_id": 1413,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-010-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A3M2-M020-020-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Ilastar",
+      "text": "¿Me engañan mis oídos? ¿Podría ser ese Garek Bandarion?",
+      "string_id": 1421,
+      "speaker_string_id": 1422,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-020-ILASTAR.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A3M2-M020-030-GAREK",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Garek",
+      "text": "¿Quién eres? ¿Cómo sabes mi nombre?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¿Quién eres? ¿Cómo sabes mi nombre?[/\"Surprised\"]",
+      "string_id": 1430,
+      "speaker_string_id": 1431,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A3M2-M020-040-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Ilastar",
+      "text": "No me recuerdas.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No me recuerdas.[/\"Happy\"]",
+      "string_id": 1439,
+      "speaker_string_id": 1440,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-040-ILASTAR.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A3M2-M020-045-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Ilastar",
+      "text": "Soy Ilastar Entonabrisas, y me diste el mayor regalo de todos: mi perdición.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Soy Ilastar Entonabrisas, y me diste el mayor regalo de todos: mi perdición.[/\"Happy\"]",
+      "string_id": 1448,
+      "speaker_string_id": 1449,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-045-ILASTAR.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A3M2-M020-050-GAREK",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Ilastar",
+      "text": "¿Ilastar? ¿Qué estás diciendo?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¿Ilastar? ¿Qué estás diciendo?[/\"Surprised\"]",
+      "string_id": 1457,
+      "speaker_string_id": 1458,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A3M2-M020-060-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Ilastar",
+      "text": "Gracias a ti, he renacido en la muerte. ¡Soy un instrumento de la voluntad del Rey Exánime! Y ahora, todos disfrutarán del mismo honor.",
+      "string_id": 1466,
+      "speaker_string_id": 1467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-060-ILASTAR.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A3M2-M020-070-ANYA",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Anya",
+      "text": "Disfrutaré atravesándote la garganta con una flecha.",
+      "string_id": 1477,
+      "speaker_string_id": 1478,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-070-ANYA.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A3M2-M020-080-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "Ilastar",
+      "text": "Qué compañías de mala muerte frecuentas en estos días, Garek. No importa. Si no te inclinas, te arrodillarás.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Qué compañías de mala muerte frecuentas en estos días, Garek. No importa. Si no te inclinas, te arrodillarás.[/\"Happy\"]",
+      "string_id": 1486,
+      "speaker_string_id": 1487,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-080-ILASTAR.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A3M2-T010-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach AlwaysSpiders Q",
+      "speaker": "Garek",
+      "text": "Siempre tienen que ser arañas, ¿verdad?",
+      "string_id": 2108,
+      "speaker_string_id": 2928,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T010-GAREK.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A3M2-T020-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach AlwaysSpiders Q",
+      "speaker": "Leonid",
+      "text": "Estas criaturas pronto serán la menor de nuestras preocupaciones.",
+      "string_id": 2113,
+      "speaker_string_id": 2114,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T020-LEONID.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A3M2-T030-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach Gate Q NOT USED",
+      "speaker": "Anya",
+      "text": "Algunas de estas puertas parecen abrirse solo desde un lado. Tendremos que buscar la manera de rodearlas.",
+      "string_id": 2925,
+      "speaker_string_id": 2142,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T030-ANYA.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A3M2-T040-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach KillNerubian Q",
+      "speaker": "Garek",
+      "text": "¡Maten a ese nerubiano antes de que nos ate con sus redes!",
+      "string_id": 2927,
+      "speaker_string_id": 2150,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T040-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A3M2-T050-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach FirstExplosive Q",
+      "speaker": "Leonid",
+      "text": "Aquí es donde deberíamos colocar el primer explosivo. ¡Despejen el área!",
+      "string_id": 2945,
+      "speaker_string_id": 2160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T050-LEONID.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A3M2-T060-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CryptLord Start Q",
+      "speaker": "Anya",
+      "text": "¡Es una emboscada! ¡Cuidado!",
+      "string_id": 2141,
+      "speaker_string_id": 2171,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T060-ANYA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A3M2-T070-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CryptLord End Q",
+      "speaker": "Garek",
+      "text": "¡Aseguramos la zona! ¡Coloquemos los explosivos y avancemos!",
+      "string_id": 2149,
+      "speaker_string_id": 2200,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T070-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A3M2-T080-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons MeatWagonAttack Q",
+      "speaker": "Leonid",
+      "text": "Esta es el ala de la necrópolis donde ensamblan sus gólems de carne y otras abominaciones.",
+      "string_id": 2159,
+      "speaker_string_id": 2224,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T080-LEONID.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A3M2-T090-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons MeatWagonAttack Q",
+      "speaker": "Anya",
+      "text": "Entonces los desmontaremos mientras nos abrimos paso.",
+      "string_id": 2170,
+      "speaker_string_id": 2250,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A3M2-T100-DEATHGUARD",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisonerApproach Q",
+      "speaker": "Guardia de la muerte",
+      "text": "Capitán Bandarion, ¡¿eres tú?! ¡Ayuda!",
+      "string_id": 2180,
+      "speaker_string_id": 2181,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T100-DEATHGUARD.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A3M2-T110-DEATHGUARD",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "Guardia de la muerte",
+      "text": "¡Gracias, señor! La Plaga nos tomó prisioneros y a otros más en la batalla de abajo.",
+      "string_id": 2188,
+      "speaker_string_id": 2189,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T110-DEATHGUARD.ogg"
+    },
+    {
+      "n": 60,
+      "id": "ForsakenDeathguard_Attack2",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "Guardia de la muerte",
+      "text": "¡Nuestros enemigos caerán!",
+      "string_id": 3032,
+      "speaker_string_id": 3031,
+      "sound": "Units/Undead/ForsakenDeathguard/ForsakenDeathguard_Attack2.ogg"
+    },
+    {
+      "n": 61,
+      "id": "ForsakenDeathguard_Ready1",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "Guardia de la muerte",
+      "text": "¡Todo listo para luchar!",
+      "string_id": 3033,
+      "speaker_string_id": 3034,
+      "sound": "Units/Undead/ForsakenDeathguard/ForsakenDeathguard_Ready1.ogg"
+    },
+    {
+      "n": 62,
+      "id": "ForsakenDeathguard_Warcry1",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "Guardia de la muerte",
+      "text": "¡Victoria para Sylvanas!",
+      "string_id": 3035,
+      "speaker_string_id": 3036,
+      "sound": "Units/Undead/ForsakenDeathguard/ForsakenDeathguard_Warcry1.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A3M2-T120-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "Garek",
+      "text": "Los encontraremos y los liberaremos. ¡Con nosotros, guardias de la muerte!",
+      "string_id": 2199,
+      "speaker_string_id": 2325,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T120-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A3M2-T130-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons GateNotFromHere Q",
+      "speaker": "Leonid",
+      "text": "Recuerdo esta puerta. El interruptor para abrirla debería estar por aquí cerca.",
+      "string_id": 2881,
+      "speaker_string_id": 2317,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T130-LEONID.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A3M2-T140-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons MassArmy GateOpen Q",
+      "speaker": "Leonid",
+      "text": "Eso debería haber abierto la puerta. Y parece que tenemos compañía.",
+      "string_id": 2223,
+      "speaker_string_id": 2336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T140-LEONID.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A3M2-T150-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "Garek",
+      "text": "El señor de esta necrópolis, Kel'Thuzad... ¿Quién es?",
+      "string_id": 2466,
+      "speaker_string_id": 2368,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T150-GAREK.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A3M2-T160-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "Leonid",
+      "text": "Un nigromante que propagó la plaga de no-muertos por todo Lordaeron. El príncipe Arthas lo mató, pero después lo resucitó como exánime.",
+      "string_id": 2991,
+      "speaker_string_id": 2436,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T160-LEONID.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A3M2-T170-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "Anya",
+      "text": "Para conseguirlo, masacró a mi pueblo y profanó la Fuente del Sol. Nuestro reino pereció para que Kel'Thuzad pudiera renacer.",
+      "string_id": 2249,
+      "speaker_string_id": 2261,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T170-ANYA.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A3M2-T180-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "Anya",
+      "text": "No dejaré que Ciudad Subterránea caiga también. Fallé a mi pueblo en vida. Haré todo lo que esté a mi alcance para proteger a los Renegados.",
+      "string_id": 2260,
+      "speaker_string_id": 2282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T180-ANYA.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A3M2-T190-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CorpseTitan See Q",
+      "speaker": "Leonid",
+      "text": "Deberíamos colocar el siguiente explosivo aquí.",
+      "string_id": 2287,
+      "speaker_string_id": 2288,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T190-LEONID.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A3M2-T200-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CorpseTitan See Q",
+      "speaker": "Anya",
+      "text": "Entonces ocupémonos de esa monstruosidad y hagámoslo.",
+      "string_id": 2281,
+      "speaker_string_id": 2305,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T200-ANYA.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A3M2-T210-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CorpseTitan End Q",
+      "speaker": "Garek",
+      "text": "Fue enorme. ¿Están todos bien?",
+      "string_id": 2295,
+      "speaker_string_id": 2296,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T210-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A3M2-T220-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CorpseTitan End Q",
+      "speaker": "Anya",
+      "text": "Bastante bien. Coloquemos los explosivos y sigamos adelante.",
+      "string_id": 2304,
+      "speaker_string_id": 2360,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T220-ANYA.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A3M2-T230-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje UndeadOrcs Q",
+      "speaker": "Leonid",
+      "text": "La Plaga también está resucitando orcos. Serían unos caballeros de la muerte aterradores.",
+      "string_id": 2316,
+      "speaker_string_id": 2497,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T230-LEONID.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A3M2-T240-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantAttack Q",
+      "speaker": "Garek",
+      "text": "Ese esqueleto... ¡es descomunal!",
+      "string_id": 2324,
+      "speaker_string_id": 2395,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T240-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A3M2-T250-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantAttack Q",
+      "speaker": "Leonid",
+      "text": "Dudo que podamos derribarlo por nuestra cuenta. Tendremos que ser más astutos que él.",
+      "string_id": 2335,
+      "speaker_string_id": 2516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T250-LEONID.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A3M2-T260-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantGate Open Q",
+      "speaker": "Anya",
+      "text": "Esta puerta requiere una llave. Apostaría a que ese esqueleto pesado es quien la tiene.",
+      "string_id": 2359,
+      "speaker_string_id": 2378,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T260-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A3M2-T280-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantSkeletonHint Q",
+      "speaker": "Garek",
+      "text": "Estas llamas... Si logramos atrapar al esqueleto aquí dentro, quizá podamos derrotarlo.",
+      "string_id": 2367,
+      "speaker_string_id": 2467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T280-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A3M2-T290-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje Giant Key Q",
+      "speaker": "Anya",
+      "text": "El guardián ha caído. Rápido, toma la llave para que podamos continuar.",
+      "string_id": 2377,
+      "speaker_string_id": 2413,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T290-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A3M2-T300-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "Leonid",
+      "text": "La depravación de la Plaga se muestra en todo su esplendor. Ojalá pudiera fulminarlos a todos con la Luz.",
+      "string_id": 2993,
+      "speaker_string_id": 2542,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T300-LEONID.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A3M2-T310-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "Garek",
+      "text": "¿Acaso podría alcanzarnos aquí? Estamos rodeados de muerte y oscuridad.",
+      "string_id": 2394,
+      "speaker_string_id": 2486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T310-GAREK.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A3M2-T320-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "Leonid",
+      "text": "No hay lugar que escape al alcance de la Luz. Solo hace falta tener fe.",
+      "string_id": 2435,
+      "speaker_string_id": 2561,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T320-LEONID.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A3M2-T330-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "Anya",
+      "text": "Palabras muy audaces para alguien a quien la Luz reduciría a cenizas.",
+      "string_id": 2412,
+      "speaker_string_id": 2444,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T330-ANYA.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A3M2-T340-ZELIEK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight Start Q",
+      "speaker": "Sir Zeliek",
+      "text": "¡Retrocedan, intrusos! ¡O me veré obligado a acabar con ustedes!",
+      "string_id": 2422,
+      "speaker_string_id": 2423,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T340-ZELIEK.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A3M2-T350-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight Start Q",
+      "speaker": "Leonid",
+      "text": "Sir Zeliek... ¡En su día fue un paladín de la Mano de Plata!",
+      "string_id": 2429,
+      "speaker_string_id": 2430,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T350-LEONID.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A3M2-T360-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight Start Q",
+      "speaker": "Anya",
+      "text": "Y ahora se interpone en nuestro camino.",
+      "string_id": 2443,
+      "speaker_string_id": 2524,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T360-ANYA.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A3M2-T370-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight LightAbilities Q",
+      "speaker": "Leonid",
+      "text": "¿Empuñas la Luz perteneciendo a la Plaga? ¡Esto es un sacrilegio!",
+      "string_id": 2652,
+      "speaker_string_id": 2653,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T370-LEONID.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A3M2-T380-ZELIEK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight LightAbilities Q",
+      "speaker": "Sir Zeliek",
+      "text": "Ruego que la Luz me destruya por ello. Entonces al fin me veré libre del mandato de mi amo.",
+      "string_id": 2464,
+      "speaker_string_id": 2465,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T380-ZELIEK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A3M2-T390-ZELIEK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight End Q",
+      "speaker": "Sir Zeliek",
+      "text": "Solo la Luz... me librará... de la servidumbre...",
+      "string_id": 2476,
+      "speaker_string_id": 2477,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T390-ZELIEK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A3M2-T400-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight End Q",
+      "speaker": "Garek",
+      "text": "Podía invocar el poder de la Luz, incluso en la no-muerte...",
+      "string_id": 2485,
+      "speaker_string_id": 2505,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T400-GAREK.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A3M2-T410-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight End Q",
+      "speaker": "Leonid",
+      "text": "La Plaga lo resucitará de nuevo y seguirá retorciendo su fe hasta convertirla en tormento. Sir Zeliek merece algo mucho mejor que esto.",
+      "string_id": 2496,
+      "speaker_string_id": 2706,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T410-LEONID.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A3M2-T420-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss PlagueBeast Start Q",
+      "speaker": "Garek",
+      "text": "¿Qué demonios es esa cosa?",
+      "string_id": 2504,
+      "speaker_string_id": 2532,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T420-GAREK.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A3M2-T430-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss PlagueBeast Start Q",
+      "speaker": "Leonid",
+      "text": "El resultado de otro experimento retorcido. Acaba con él para que podamos colocar el siguiente explosivo.",
+      "string_id": 2515,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T430-LEONID.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A3M2-T440-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss PlagueBeast End Q",
+      "speaker": "Anya",
+      "text": "Criatura repugnante. Coloquemos el explosivo y salgamos de este fango.",
+      "string_id": 2523,
+      "speaker_string_id": 2693,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T440-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A3M2-T450-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Plag Multigates1 Q",
+      "speaker": "Garek",
+      "text": "¡Cuidado!",
+      "string_id": 2531,
+      "speaker_string_id": 2550,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T450-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A3M2-T460-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Plag Multigates2 Q",
+      "speaker": "Leonid",
+      "text": "Estas puertas están conectadas por una cadena de interruptores. Debemos activarlos uno por uno.",
+      "string_id": 2541,
+      "speaker_string_id": 2992,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T460-LEONID.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A3M2-T470-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach SkyBarge Q NOT USED",
+      "speaker": "Anya",
+      "text": "Esta puerta nos llevará de vuelta a la nave voladora cuando sea hora de partir.",
+      "string_id": 2904,
+      "speaker_string_id": 2724,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T470-ANYA.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A3M2-T480-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cath CathedralEnter Q",
+      "speaker": "Garek",
+      "text": "¿Qué es esto? Parece una catedral.",
+      "string_id": 2549,
+      "speaker_string_id": 2642,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T480-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A3M2-T490-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cath CathedralEnter Q",
+      "speaker": "Leonid",
+      "text": "¡¿Es que la blasfemia de la Plaga no tiene límites?!",
+      "string_id": 2560,
+      "speaker_string_id": 2994,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T490-LEONID.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A3M2-T500-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Anya Q",
+      "speaker": "Ilastar",
+      "text": "Abraza la verdad como yo he hecho, forestal oscura. Quel'Thalas ha caído y la Fuente del Sol ya no existe. ¡La Plaga es ahora nuestro futuro!",
+      "string_id": 2572,
+      "speaker_string_id": 2573,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T500-ILASTAR.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A3M2-T510-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Anya Q",
+      "speaker": "Anya",
+      "text": "¡Mi futuro está con los Renegados! ¡Y el tuyo, bajo tierra!",
+      "string_id": 2580,
+      "speaker_string_id": 2581,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T510-ANYA.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A3M2-T520-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Leonid Q",
+      "speaker": "Ilastar",
+      "text": "Prometías como uno de la Plaga, Leonid Barthalomew. Es una lástima que lo hayas echado a perder poniéndote del lado de los vivos.",
+      "string_id": 2590,
+      "speaker_string_id": 2591,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T520-ILASTAR.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A3M2-T530-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Leonid Q",
+      "speaker": "Leonid",
+      "text": "El Alba Argenta renovó mi fe en la Luz. ¡Su valentía destruirá a tus oscuros amos!",
+      "string_id": 2601,
+      "speaker_string_id": 2602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T530-LEONID.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A3M2-T540-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar ShadowClones Q",
+      "speaker": "Ilastar",
+      "text": "¡No es a mí a quien te enfrentas, sino a tus propias dudas y debilidades!",
+      "string_id": 2611,
+      "speaker_string_id": 2612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T540-ILASTAR.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A3M2-T550-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar ShadowClones Q",
+      "speaker": "Garek",
+      "text": "¡No son más que sombras! ¡Acaba con ellas y céntrate en Ilastar!",
+      "string_id": 2620,
+      "speaker_string_id": 2621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T550-GAREK.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A3M2-T560-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar HolyWrath Q",
+      "speaker": "Ilastar",
+      "text": "¿Cómo es posible? ¡¿Cómo puedes canalizar la Luz?!",
+      "string_id": 2630,
+      "speaker_string_id": 2631,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T560-ILASTAR.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A3M2-T570-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar HolyWrath Q",
+      "speaker": "Garek",
+      "text": "No hay lugar... que la Luz no pueda alcanzar. ¡Esto... acaba ahora!",
+      "string_id": 2633,
+      "speaker_string_id": 2634,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T570-GAREK.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A3M2-T580-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar AvatarOfLight Q",
+      "speaker": "Garek",
+      "text": "¡No... nos darán... órdenes!",
+      "string_id": 2641,
+      "speaker_string_id": 2676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T580-GAREK.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A3M2-T590-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar AvatarOfLight Q",
+      "speaker": "Anya",
+      "text": "¡Garek! ¡Te reducirás a cenizas!",
+      "string_id": 2650,
+      "speaker_string_id": 2651,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T590-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A3M2-T600-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar Phase4 End Q",
+      "speaker": "Ilastar",
+      "text": "¡No! ¡La Luz no me llevará!",
+      "string_id": 2662,
+      "speaker_string_id": 2663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T600-ILASTAR.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A3M2-T610-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen Discover Q",
+      "speaker": "Garek",
+      "text": "Ilastar... Siento haberte llevado a este destino.",
+      "string_id": 2683,
+      "speaker_string_id": 2684,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T610-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A3M2-T620-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen Discover Q",
+      "speaker": "Anya",
+      "text": "¿Y ahora qué hacemos? No tenemos forma de hacer caer Naxxramas.",
+      "string_id": 2692,
+      "speaker_string_id": 2905,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T620-ANYA.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A3M2-T630-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen Discover Q",
+      "speaker": "Garek",
+      "text": "Tenemos... que deshacernos de su cristal... antes de que lance otra ráfaga. Y sé cómo hacerlo.",
+      "string_id": 2695,
+      "speaker_string_id": 2696,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T630-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A3M2-T640-LEONID",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "Leonid",
+      "text": "Puedes canalizar la Luz, igual que sir Zeliek... ¿Cómo es esto posible?",
+      "string_id": 2705,
+      "speaker_string_id": 2998,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T640-LEONID.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A3M2-T650-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "Garek",
+      "text": "Puedo... sentir cómo quema... cada vez que la invoco. Pero... aun así... acude en mi ayuda...",
+      "string_id": 2714,
+      "speaker_string_id": 2715,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T650-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A3M2-T660-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "Anya",
+      "text": "No puedes seguir así, Garek. La Luz te destruirá.",
+      "string_id": 2723,
+      "speaker_string_id": 2926,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T660-ANYA.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A3M2-T670-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "Garek",
+      "text": "Solo necesito... resistir el tiempo suficiente... para salvar a los Renegados...",
+      "string_id": 2732,
+      "speaker_string_id": 2733,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T670-GAREK.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A3M2-T680-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower2 Q",
+      "speaker": "Garek",
+      "text": "Lo recuerdo... todo. Los errores que cometí, las lecciones que no pude aprender...",
+      "string_id": 2740,
+      "speaker_string_id": 2741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T680-GAREK.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A3M2-T690-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower2 Q",
+      "speaker": "Anya",
+      "text": "Tienes que dejar eso atrás. Ser un Renegado significa tener la oportunidad de definir quién eres.",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T690-ANYA.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A3M2-T700-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower2 Q",
+      "speaker": "Garek",
+      "text": "Tienes razón, Anya... Pero saber quién fui... me mostró quién quiero ser... y lo que debo hacer...",
+      "string_id": 3037,
+      "speaker_string_id": 3038,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T700-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A3M2-T710-LEONID",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower3 Q",
+      "speaker": "Leonid",
+      "text": "Nos acercamos a la cima de Naxxramas. Estoy seguro de que pronto nos enfrentaremos al mismísimo Kel'Thuzad.",
+      "string_id": 2997,
+      "speaker_string_id": 2753,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T710-LEONID.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A3M2-T720-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower3 Q",
+      "speaker": "Anya",
+      "text": "Trajo la ruina tanto a humanos como a elfos. Ahora pretende exterminar a los Renegados. No podemos permitir que eso ocurra.",
+      "string_id": 2769,
+      "speaker_string_id": 2770,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T720-ANYA.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A3M2-T730-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower3 Q",
+      "speaker": "Garek",
+      "text": "Pase lo que pase... los Renegados sobrevivirán. Lo juro... por la Luz...",
+      "string_id": 2772,
+      "speaker_string_id": 2773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T730-GAREK.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A3M2-T740-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare1 Q",
+      "speaker": "Kel'Thuzad",
+      "text": "Te resistes en vano. Una vez que haya potenciado el cristal, tu preciada Ciudad Subterránea quedará reducida a un cráter infestado.",
+      "string_id": 2782,
+      "speaker_string_id": 2783,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T740-KELTHUZAD.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A3M2-T750-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare1 Q",
+      "speaker": "Garek",
+      "text": "¡No permitiremos... que eso pase!",
+      "string_id": 2793,
+      "speaker_string_id": 2794,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T750-GAREK.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A3M2-T760-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare2 Q",
+      "speaker": "Garek",
+      "text": "La Luz... Quema...",
+      "string_id": 2801,
+      "speaker_string_id": 2802,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T760-GAREK.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A3M2-T770-RIVENDARE",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare2 Q",
+      "speaker": "Barón Rivendare",
+      "text": "¿Te crees una especie de paladín? ¡Debería quedarme sentado y ver cómo te incineras!",
+      "string_id": 2804,
+      "speaker_string_id": 2805,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T770-RIVENDARE.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A3M2-T780-RIVENDARE",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare3 Q",
+      "speaker": "Barón Rivendare",
+      "text": "¡Alimañas patéticas! ¡Yo soy el amo de Stratholme! ¡No tienen ninguna posibilidad contra mí!",
+      "string_id": 2812,
+      "speaker_string_id": 2813,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T780-RIVENDARE.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A3M2-T790-LEONID",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare3 Q",
+      "speaker": "Leonid",
+      "text": "Pronto compartirán el mismo destino de la ciudad que traicionaron y destruyeron.",
+      "string_id": 2825,
+      "speaker_string_id": 2826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T790-LEONID.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A3M2-T800-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Phase2 End Q",
+      "speaker": "Kel'Thuzad",
+      "text": "¡Ya está! ¡En unos instantes, Ciudad Subterránea dejará de existir!",
+      "string_id": 2835,
+      "speaker_string_id": 2836,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T800-KELTHUZAD.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A3M2-T810-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Phase2 End Q",
+      "speaker": "Kel'Thuzad",
+      "text": "Hasta entonces, parece que necesitas ayuda, Rivendare. Permíteme.",
+      "string_id": 2846,
+      "speaker_string_id": 2847,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T810-KELTHUZAD.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A3M2-T820-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Phase2 End Q",
+      "speaker": "Anya",
+      "text": "¡Es nuestra oportunidad! ¡Mátalos a los dos!",
+      "string_id": 2857,
+      "speaker_string_id": 2858,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T820-ANYA.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A3M2-T830-RIVENDARE",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale End Rivendare Q",
+      "speaker": "Barón Rivendare",
+      "text": "Ellos... me resucitarán de nuevo... en Stratholme...",
+      "string_id": 2867,
+      "speaker_string_id": 2868,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T830-RIVENDARE.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A3M2-T840-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale End KelThuzad Q",
+      "speaker": "Kel'Thuzad",
+      "text": "Este no es mi final. Pero para ustedes sí.",
+      "string_id": 2987,
+      "speaker_string_id": 2961,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T840-KELTHUZAD.ogg"
+    },
+    {
+      "n": 135,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "Sylvanas",
+      "text": "Anya me informó de lo acontecido en Naxxramas.",
+      "string_id": 2016,
+      "speaker_string_id": 2017,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 136,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "Sylvanas",
+      "text": "Esta batalla, y las acciones del capitán Bandarion, me han dado mucho en qué pensar.",
+      "string_id": 2009,
+      "speaker_string_id": 2010,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 137,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "Sylvanas",
+      "text": "Si no hubiera sido por Garek esgrimiendo la Luz y por el Alba Argenta uniéndose a nuestras defensas, los Renegados podrían haberse extinguido.",
+      "string_id": 2006,
+      "speaker_string_id": 2007,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 138,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "Sylvanas",
+      "text": "Es cierto que estamos rodeados de enemigos, tanto vivos como no-muertos. Y, aun así, quizás también podamos descubrir aliados...",
+      "string_id": 2003,
+      "speaker_string_id": 2004,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 139,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "Sylvanas",
+      "text": "Y quizás este reino Renegado no tenga por qué luchar en solitario...",
+      "string_id": 2001,
+      "speaker_string_id": 2002,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 140,
+      "id": "HeroBladeMasterWarcry1",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje CagedEnemy Q",
+      "speaker": "Maestro del Acero",
+      "text": "¡Por el Filo Ardiente!",
+      "string_id": 2349,
+      "speaker_string_id": 2350,
+      "sound": "Units/Orc/HeroBladeMaster/HeroBladeMasterWarcry1.flac"
+    }
+  ]
+}

@@ -1,0 +1,1203 @@
+{
+  "map": "UndeadRE02_02",
+  "title": "Tirisfal Glades Villages",
+  "locale": "enUS",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M2-C010-010-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "The Scarlet Crusade is in retreat.  I must return to the Argent Dawn and report on what has transpired.",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-010-LEONID.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M2-C010-020-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "I ask that the two of you accompany me. Your knowledge of Tirisfal, and particularly of the Forsaken, exceeds my own.",
+      "string_id": 1856,
+      "speaker_string_id": 1857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M2-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Do not think for a moment that we would tell your paladins anything about the Forsaken.",
+      "string_id": 1858,
+      "speaker_string_id": 1859,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M2-C010-040-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "When will you realize that we are on the same side?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]When will you realize that we are on the same side?[/\"Angry\"]",
+      "string_id": 1860,
+      "speaker_string_id": 1861,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-040-LEONID.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M2-C010-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Just because we share a common foe does not make us allies.",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-050-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M2-C010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Anya, Leonid has risked his life to fight beside us.  I think he's earned the benefit of the doubt.",
+      "string_id": 1864,
+      "speaker_string_id": 1865,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-060-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M2-C010-070-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "My doubt is all I'm willing to offer. But if you trust him... then I'll stow my arrows for now.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]My doubt is all I'm willing to offer. But if you trust him... then I'll stow my arrows for now.[/\"Squint\"]",
+      "string_id": 1866,
+      "speaker_string_id": 1867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-070-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M2-C010-080-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "I'm sure the Argent Dawn will be much obliged.  Let's not keep them waiting.",
+      "string_id": 1743,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-C010-080-LEONID.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M2-M005-010-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "That smoke is coming from Brill! It must be the Scarlet Crusade!",
+      "string_id": 1314,
+      "speaker_string_id": 1315,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M005-010-ANYA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M2-M005-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Then we have no time to spare. Let's move!",
+      "string_id": 1316,
+      "speaker_string_id": 1317,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M005-020-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M2-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Are you all right, friend? I'm Garek Bandarion, captain of--",
+      "string_id": 1477,
+      "speaker_string_id": 1478,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M2-M010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Anya?! What are you doing?! He's Forsaken! One of us!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Anya?! What are you doing?! He's Forsaken! One of us![/\"Surprised\"]",
+      "string_id": 1480,
+      "speaker_string_id": 1481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M2-M010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "No. He could have been one of us. Instead he chose to walk away.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No. He could have been one of us. Instead he chose to walk away.[/\"Angry\"]",
+      "string_id": 1485,
+      "speaker_string_id": 1486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-030-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M2-M010-040-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "She is correct.",
+      "string_id": 1747,
+      "speaker_string_id": 1748,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-040-LEONID.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M2-M010-050-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "My name is Leonid Barthalomew, knight of the Argent Dawn.",
+      "string_id": 1753,
+      "speaker_string_id": 1754,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-050-LEONID.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M2-M010-060-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Like us, he was freed from the Scourge. And then he left the Dark Lady's side to join these paladins.",
+      "string_id": 1534,
+      "speaker_string_id": 1535,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-060-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M2-M010-061-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "I'm surprised they didn't slay you the moment you approached them.",
+      "string_id": 1540,
+      "speaker_string_id": 1541,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-061-ANYA.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M2-M010-070-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "The Scarlet Crusade and the Argent Dawn are nothing alike.  Despite my... condition, the Argent Dawn welcomed me with open arms.",
+      "string_id": 1759,
+      "speaker_string_id": 1760,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-070-LEONID.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M2-M010-071-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "While the Scarlet zealots tarnish the legacy of the Silver Hand, we seek to uphold it.",
+      "string_id": 1765,
+      "speaker_string_id": 1766,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-071-LEONID.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M2-M010-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "You wear a different tabard, but it's cut from the same cloth.",
+      "string_id": 1550,
+      "speaker_string_id": 1551,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-080-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M2-M010-090-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Enough.  While we argue, the Scarlet Crusade continues to raze Tirisfal.",
+      "string_id": 1556,
+      "speaker_string_id": 1557,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-090-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M2-M010-100-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "We need to act swiftly if we are to save the other villages.",
+      "string_id": 1565,
+      "speaker_string_id": 1566,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-100-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M2-M010-110-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "I swear by the Light to aid you in your fight against the Crusade.",
+      "string_id": 1773,
+      "speaker_string_id": 1774,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-110-LEONID.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M2-M010-120-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "To hell with your Light. You'll help us or I'll end you myself.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]To hell with your Light. You'll help us or I'll end you myself.[/\"Angry\"]",
+      "string_id": 1775,
+      "speaker_string_id": 1776,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M010-120-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M2-M020-010-MAGISTRATESEVREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "Magistrate Sevren",
+      "text": "Captain Bandarion, we are in need of your assistance.",
+      "string_id": 1403,
+      "speaker_string_id": 1404,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-010-MAGISTRATESEVREN.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2M2-M020-020-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "Magistrate Sevren",
+      "text": "Repairs have been halted because a group of goblins raided our stockpile of lumber. Can you reclaim it for us?",
+      "string_id": 1406,
+      "speaker_string_id": 1407,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-020-MagistrateSevren.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2M2-M020-030-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Discover Q",
+      "speaker": "Garek",
+      "text": "Of course. Leave it to us, Sevren.",
+      "string_id": 1414,
+      "speaker_string_id": 1415,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2M2-M030-010-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Rooz the Crafty",
+      "text": "Oh, uh, hey!  Are you from... what's that town's name, again?",
+      "string_id": 1656,
+      "speaker_string_id": 1657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-010-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2M2-M030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Brill. And yes, we are. Give back the lumber, and no one gets hurt.",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2M2-M030-030-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Rooz the Crafty",
+      "text": "Afraid I can't do that, boss.  We need it in order to finish our little zeppelin here.",
+      "string_id": 1665,
+      "speaker_string_id": 1666,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-030-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2M2-M030-040-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Rooz the Crafty",
+      "text": "But... you look the other way, and maybe you'll find some gold on the ground.  You get what I mean?",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-040-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2M2-M030-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Your bribes mean nothing to us.  The people of Brill need that lumber to rebuild their homes.",
+      "string_id": 1670,
+      "speaker_string_id": 1671,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-050-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2M2-M030-060-GOBLINTINKER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Rooz the Crafty",
+      "text": "Homes?  You're a bunch of walking corpses!  Dig a hole and jump in it!",
+      "string_id": 1675,
+      "speaker_string_id": 1676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-060-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2M2-M030-070-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Well, Garek?  Do we take their gold, or take their lives?",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-070-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2M2-M030-010-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Rooz the Crafty",
+      "text": "Oh, uh, hey!  Are you from... what's that town's name, again?",
+      "string_id": 1656,
+      "speaker_string_id": 1657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-010-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2M2-M030-020-GAREK",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Garek",
+      "text": "Brill. And yes, we are. Give back the lumber, and no one gets hurt.",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2M2-M030-030-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Rooz the Crafty",
+      "text": "Afraid I can't do that, boss.  We need it in order to finish our little zeppelin here.",
+      "string_id": 1665,
+      "speaker_string_id": 1666,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-030-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2M2-M030-040-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Rooz the Crafty",
+      "text": "But... you look the other way, and maybe you'll find some gold on the ground.  You get what I mean?",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-040-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2M2-M030-050-ANYA",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Anya",
+      "text": "Your bribes mean nothing to us.  The people of Brill need that lumber to rebuild their homes.",
+      "string_id": 1670,
+      "speaker_string_id": 1671,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-050-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2M2-M030-060-GOBLINTINKER",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Rooz the Crafty",
+      "text": "Homes?  You're a bunch of walking corpses!  Dig a hole and jump in it!",
+      "string_id": 1675,
+      "speaker_string_id": 1676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-060-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2M2-M030-070-ANYA",
+      "scene": "CINEMATICS.Goblins Cinematic.Cinematic Goblins Q",
+      "speaker": "Anya",
+      "text": "Well, Garek?  Do we take their gold, or take their lives?",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-070-ANYA.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2M2-M030-080-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Goblin GoldTaken Q",
+      "speaker": "Garek",
+      "text": "We've seen enough violence today. We can get Brill the lumber it needs from elsewhere.",
+      "string_id": 1591,
+      "speaker_string_id": 1592,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M030-080-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2M2-M040-010-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Discover Q",
+      "speaker": "Executor Arren",
+      "text": "Glad you're here, Captain Bandarion. We have a situation on our hands.",
+      "string_id": 1397,
+      "speaker_string_id": 1398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M040-010-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2M2-M040-020-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Discover Q",
+      "speaker": "Executor Arren",
+      "text": "The recent fighting has given rise to a death revenant in the town's graveyard.  It could pose a threat if we don't deal with it soon.",
+      "string_id": 1395,
+      "speaker_string_id": 1396,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M040-020-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2M2-M050-010-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Sedrick Calston",
+      "text": "Ah, Captain Bandarion! Perhaps you can help me with this predicament.",
+      "string_id": 1420,
+      "speaker_string_id": 1421,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-010-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2M2-M050-020-OLSON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Olson",
+      "text": "The only predicament is you haven't yet arrested this murderer!",
+      "string_id": 1423,
+      "speaker_string_id": 1424,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-020-OLSON.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2M2-M050-020-ANDRE",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Andre",
+      "text": "Me?! He was clearly poisoned! That makes you the prime suspect!",
+      "string_id": 1426,
+      "speaker_string_id": 1427,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-020-ANDRE.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2M2-M050-030-GAREK",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Garek",
+      "text": "Enough. What happened here?",
+      "string_id": 1429,
+      "speaker_string_id": 1430,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-030-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2M2-M050-040-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Sedrick Calston",
+      "text": "Someone used the Scarlet Crusade's attack to cover up a murder. Poor Saloman here was found dead, but he was nowhere near the battle.",
+      "string_id": 1432,
+      "speaker_string_id": 1433,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-040-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2M2-M050-050-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Sedrick Calston",
+      "text": "These two were the only villagers unaccounted for during the fray. Olson, the town alchemist, and Andre, the town huntsman.",
+      "string_id": 1438,
+      "speaker_string_id": 1439,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-050-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2M2-M050-060-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Sedrick Calston",
+      "text": "Can you please investigate this matter for me? I have my hands full trying to get the town in order.",
+      "string_id": 1441,
+      "speaker_string_id": 1442,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-060-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2M2-M050-070-GAREK",
+      "scene": "CINEMATICS.MurderMystery Cinematic.Cinematic MurderMystery Q",
+      "speaker": "Garek",
+      "text": "I'm not much of an investigator, Sedrick. But I'll do what I can.",
+      "string_id": 1446,
+      "speaker_string_id": 1447,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-070-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2M2-M050-080-SEDRICKCALSTON",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Discover Q",
+      "speaker": "Sedrick Calston",
+      "text": "Speak to me once you've completed your investigation and have determined who did the deed.",
+      "string_id": 1601,
+      "speaker_string_id": 1602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M050-080-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2M2-M060-010-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Sedrick Calston",
+      "text": "Well, Captain Bandarion?  What have you found?",
+      "string_id": 1605,
+      "speaker_string_id": 1606,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-010-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2M2-M060-120-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Garek",
+      "text": "It was both of them.  Olson poisoned Saloman's ale to get out of paying his debt.  Andre wanted revenge for being robbed of his pelts.",
+      "string_id": 1608,
+      "speaker_string_id": 1609,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-120-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2M2-M060-130-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Garek",
+      "text": "They both did the deed.  The Scarlet Crusade's attack was serendipity... and the perfect cover up.",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-130-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2M2-M060-140-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Olson",
+      "text": "I had no choice!  My debt would have ruined me!",
+      "string_id": 1614,
+      "speaker_string_id": 1615,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-140-OLSON.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2M2-M060-150-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Andre",
+      "text": "That thief got what was coming to him!",
+      "string_id": 1617,
+      "speaker_string_id": 1618,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-150-ANDRE.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2M2-M060-160-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Sedrick Calston",
+      "text": "Listen to yourselves!  You're both under arrest!  Come with me at once.",
+      "string_id": 1620,
+      "speaker_string_id": 1621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-160-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2M2-M060-020-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Garek",
+      "text": "It was Andre.  This was the work of a marksman with a vendetta.",
+      "string_id": 1623,
+      "speaker_string_id": 1624,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-020-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2M2-M060-030-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Sedrick Calston",
+      "text": "Hmm.  That doesn't explain the frothing around Saloman's mouth... but I suppose you're the expert.",
+      "string_id": 1626,
+      "speaker_string_id": 1627,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-030-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A2M2-M060-040-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Andre",
+      "text": "What?! This is outrageous! I'm innocent!",
+      "string_id": 1629,
+      "speaker_string_id": 1630,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-040-ANDRE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A2M2-M060-050-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Olson",
+      "text": "Deny it all you want! The case is closed!",
+      "string_id": 1632,
+      "speaker_string_id": 1633,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-050-OLSON.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A2M2-M060-060-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Sedrick Calston",
+      "text": "You're under arrest, Andre. Come with me.",
+      "string_id": 1635,
+      "speaker_string_id": 1636,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-060-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A2M2-M060-070-GAREK",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Garek",
+      "text": "It was Olson. This was the work of an alchemist with access to deadly potions.",
+      "string_id": 1638,
+      "speaker_string_id": 1639,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-070-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A2M2-M060-080-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Sedrick Calston",
+      "text": "Hmm. That doesn't explain the wound in Saloman's back... but I suppose you're the expert.",
+      "string_id": 1641,
+      "speaker_string_id": 1642,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-080-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A2M2-M060-090-OLSON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Olson",
+      "text": "What? No! It wasn't me!",
+      "string_id": 1644,
+      "speaker_string_id": 1645,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-090-OLSON.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A2M2-M060-100-ANDRE",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Andre",
+      "text": "Of course it was!  We've known it all along!",
+      "string_id": 1647,
+      "speaker_string_id": 1648,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-100-ANDRE.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A2M2-M060-110-SEDRICKCALSTON",
+      "scene": "CINEMATICS.MurderSolved Cinematic.Cinematic MurderSolved Q",
+      "speaker": "Sedrick Calston",
+      "text": "You're under arrest, Olson. Come with me.",
+      "string_id": 1650,
+      "speaker_string_id": 1651,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-110-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A2M2-M060-170-SEDRICKCALSTON",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Return Q",
+      "speaker": "Sedrick Calston",
+      "text": "What a dreadful affair.  Thank you for helping me sort it out, Captain Bandarion.",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-M060-170-SEDRICKCALSTON.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A2M2-T010-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land LeonidVision Q",
+      "speaker": "Leonid",
+      "text": "Stay back! You profane the Light with your every action!",
+      "string_id": 1321,
+      "speaker_string_id": 1326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T010-LEONID.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A2M2-T020-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land LeonidVision Q",
+      "speaker": "Garek",
+      "text": "He's Forsaken! Quickly, we have to help him!",
+      "string_id": 1322,
+      "speaker_string_id": 2020,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A2M2-T030-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "Garek",
+      "text": "The Argent Dawn sent you here alone?",
+      "string_id": 1318,
+      "speaker_string_id": 1323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T030-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A2M2-T040-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "Leonid",
+      "text": "My orders were to monitor the Scarlet Crusade and remain unseen. But I could not stand idle as they torched these villages.",
+      "string_id": 1781,
+      "speaker_string_id": 1782,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T040-LEONID.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A2M2-T050-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update LeonidSaved Q",
+      "speaker": "Anya",
+      "text": "Then at least you have not completely abandoned your kind.",
+      "string_id": 1783,
+      "speaker_string_id": 1784,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T050-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A2M2-T060-Garek",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Update UncoverBalnir Q",
+      "speaker": "Garek",
+      "text": "It seems we’re too late. We should search for survivors.",
+      "string_id": 1329,
+      "speaker_string_id": 1335,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T060-Garek.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A2M2-T070-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue1 Pickup Q",
+      "speaker": "Garek",
+      "text": "The village was ransacked. Almost as if it were raided for supplies.",
+      "string_id": 1330,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T070-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A2M2-T080-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue2 Pickup Q",
+      "speaker": "Leonid",
+      "text": "Fel magic. For all their faults, the Scarlet Crusade would never dabble in such vile sorcery.",
+      "string_id": 1831,
+      "speaker_string_id": 1832,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T080-LEONID.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A2M2-T090-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue3 Pickup Q",
+      "speaker": "Anya",
+      "text": "This axe is of orcish make. Blackrock clan.",
+      "string_id": 1836,
+      "speaker_string_id": 1837,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A2M2-T091-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue3 Pickup Q",
+      "speaker": "Leonid",
+      "text": "Arthas and Uther drove them from these lands before the plague began. These must be holdouts.",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T091-LEONID.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A2M2-T100-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue4 Pickup Q",
+      "speaker": "Anya",
+      "text": "Wolf tracks. If we follow them, they'll lead us back to the orcs.",
+      "string_id": 1333,
+      "speaker_string_id": 1340,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A2M2-T110-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land Balnir Clue4 Pickup Q",
+      "speaker": "Garek",
+      "text": "It might be a good idea to root them out. They're not the Crusade, but they can still pose a threat.",
+      "string_id": 1334,
+      "speaker_string_id": 1341,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T110-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A2M2-T120-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "Garek",
+      "text": "Leonid, you are a knight of the Argent Dawn, but not a paladin?",
+      "string_id": 1342,
+      "speaker_string_id": 1356,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T120-GAREK.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A2M2-T130-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "Leonid",
+      "text": "Calling upon the Holy Light burns me from within. The undead are not meant to wield such divine power.",
+      "string_id": 1789,
+      "speaker_string_id": 1790,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T130-LEONID.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A2M2-T140-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToDeathknell Q",
+      "speaker": "Anya",
+      "text": "At least that's something we can agree on.",
+      "string_id": 1791,
+      "speaker_string_id": 1792,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T140-ANYA.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A2M2-T150-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Scouting Out.Transmission Scout Discover Q",
+      "speaker": "Anya",
+      "text": "The Scarlet Crusade have been using these watchtowers to spy on us. It would be wise to reclaim them.",
+      "string_id": 2266,
+      "speaker_string_id": 1520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T150-ANYA.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A2M2-T160-FORSAKENGUARD",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Update Q",
+      "speaker": "Deathguard",
+      "text": "Captain Bandarion! Deathknell is under attack!",
+      "string_id": 2260,
+      "speaker_string_id": 1523,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T160-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A2M2-T170-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Update Q",
+      "speaker": "Garek",
+      "text": "Send word to the Undercity, we'll protect the civilians.",
+      "string_id": 2261,
+      "speaker_string_id": 1524,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T170-GAREK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A2M2-T180-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land DeathknellDefend Completed Q",
+      "speaker": "Garek",
+      "text": "That seems to be all of them. We should move on.",
+      "string_id": 1852,
+      "speaker_string_id": 1853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T180-GAREK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A2M2-T190-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "Leonid",
+      "text": "It pains me to see the Scarlet Crusade twist their faith into zealotry.",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T190-LEONID.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A2M2-T200-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "Garek",
+      "text": "Justice, compassion, holiness, protection. Yet the Crusade seems to value only retribution.",
+      "string_id": 1346,
+      "speaker_string_id": 1360,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T200-GAREK.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A2M2-T210-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "Leonid",
+      "text": "You are familiar with the tenets of the Silver Hand? Were you perhaps a paladin in life?",
+      "string_id": 1803,
+      "speaker_string_id": 1804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T210-LEONID.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A2M2-T220-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "Garek",
+      "text": "I... don't know. I have no memories from before my awakening. What I know of the Light, I studied in undeath.",
+      "string_id": 1805,
+      "speaker_string_id": 1806,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T220-GAREK.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A2M2-T230-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToAgamand Q",
+      "speaker": "Anya",
+      "text": "A waste of time, I say. The Light abhors the Forsaken, and the feeling is mutual.",
+      "string_id": 1807,
+      "speaker_string_id": 1808,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T230-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A2M2-T240-WHITEMANE",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss WhitemaneMeet Q",
+      "speaker": "Sally Whitemane",
+      "text": "Lordaeron must be purged of this undead filth!",
+      "string_id": 1574,
+      "speaker_string_id": 1575,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T240-WHITEMANE.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A2M2-T250-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss WhitemaneMeet Q",
+      "speaker": "Anya",
+      "text": "That lunatic!  We have to stop her!",
+      "string_id": 1577,
+      "speaker_string_id": 1578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A2M2-T260-WHITEMANE",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss Sally Defeated Q",
+      "speaker": "Sally Whitemane",
+      "text": "You will not claim my life, heathens!  When I return, I will see you engulfed in flames!",
+      "string_id": 1686,
+      "speaker_string_id": 1687,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T260-WHITEMANE.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A2M2-T270-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "Garek",
+      "text": "How did you come to join the Argent Dawn, and not the Forsaken?",
+      "string_id": 1351,
+      "speaker_string_id": 1364,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T270-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A2M2-T280-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "Leonid",
+      "text": "When Lady Sylvanas offered me a place in the Undercity, I found that I... could not accept it.",
+      "string_id": 1811,
+      "speaker_string_id": 1812,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T280-LEONID.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A2M2-T290-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "Leonid",
+      "text": "Undeath is a malady. My hope is that one day, the Light may cure me of it and return me to the living.",
+      "string_id": 1817,
+      "speaker_string_id": 1818,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T290-LEONID.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A2M2-T300-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "Anya",
+      "text": "You're a delusional fool. Better to accept what you are than to cling to what you used to be.",
+      "string_id": 1354,
+      "speaker_string_id": 1367,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A2M2-T310-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land RoadToArgent  Q",
+      "speaker": "Leonid",
+      "text": "What you call delusion, I call hope. The Light can perform miracles for those who keep faith.",
+      "string_id": 1825,
+      "speaker_string_id": 1826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T310-LEONID.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A2M2-T320-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Batting for Brewings.Transmission Bat Update Q",
+      "speaker": "Anya",
+      "text": "This seems like one of the beasts Putress mentioned. Let's bring its blood back to Apothecarium.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A2M2-T321-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Boss Murloc Fight Start Q",
+      "speaker": "Anya",
+      "text": "Murlocs. Always in need of culling.",
+      "string_id": 1579,
+      "speaker_string_id": 1580,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T321-ANYA.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A2M2-T330-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill GoblinFound Q",
+      "speaker": "Garek",
+      "text": "More goblins in Tirisfal. I wonder what they're up to.",
+      "string_id": 1589,
+      "speaker_string_id": 1590,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T330-GAREK.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A2M2-T340-GOBLINTINKER",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Boss Goblins Fight Start Q",
+      "speaker": "Rooz the Crafty",
+      "text": "Big mistake, pal!",
+      "string_id": 1587,
+      "speaker_string_id": 1588,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T340-GOBLINTINKER.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A2M2-T350-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Completed Q",
+      "speaker": "Magistrate Sevren",
+      "text": "I take it you did not retrieve the lumber.  I suppose I will have to ask Bernd for more of it.",
+      "string_id": 1594,
+      "speaker_string_id": 1595,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T350-MagistrateSevren.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A2M2-T360-MagistrateSevren",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Brill Completed Q",
+      "speaker": "Magistrate Sevren",
+      "text": "You have my gratitude. Now we can continue rebuilding Brill.",
+      "string_id": 1597,
+      "speaker_string_id": 1598,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T360-MagistrateSevren.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A2M2-T370-ANYA",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Boss EoF Killed Q",
+      "speaker": "Anya",
+      "text": "Revenants are a dreadful foe, even for the undead.",
+      "string_id": 1581,
+      "speaker_string_id": 1582,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T370-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A2M2-T380-EXECUTORARREN",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Deathknell Completed Q",
+      "speaker": "Executor Arren",
+      "text": "With the revenant gone, we can focus on repairing the damage from the attack. Deathknell thanks you yet again.",
+      "string_id": 1417,
+      "speaker_string_id": 1418,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T380-EXECUTORARREN.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A2M2-T390-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Body Q",
+      "speaker": "Garek",
+      "text": "Froth around the victim's mouth. Seems like poison... but there's also an arrow wound in his back.",
+      "string_id": 2153,
+      "speaker_string_id": 2154,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T390-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A2M2-T400-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Receipt Q",
+      "speaker": "Garek",
+      "text": "An unpaid invoice for alchemical reagents. It seems Olson owed Saloman quite a bit of gold.",
+      "string_id": 2161,
+      "speaker_string_id": 2162,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T400-GAREK.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A2M2-T410-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Pelts Q",
+      "speaker": "Garek",
+      "text": "This is Saloman's barn, but these pelts seem expensive and expertly prepared. Could he have stolen them from Andre?",
+      "string_id": 2169,
+      "speaker_string_id": 2170,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T410-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A2M2-T420-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Mugs Q",
+      "speaker": "Garek",
+      "text": "Whatever's in this mug, it isn't merely ale. I can smell something just beneath the surface.",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T420-GAREK.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A2M2-T430-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue Bow Q",
+      "speaker": "Garek",
+      "text": "It seems like whoever last held this bow was in a hurry to get rid of it.",
+      "string_id": 2185,
+      "speaker_string_id": 2186,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T430-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A2M2-T440-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue OlsonLetter Q",
+      "speaker": "Garek",
+      "text": "A letter from Olson, asking Saloman to discuss his debt over a mug of ale. This would have been just before the Scarlet attack.",
+      "string_id": 2193,
+      "speaker_string_id": 2194,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T440-GAREK.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A2M2-T450-GAREK",
+      "scene": "TRANSMISSIONS.Optional Quest - Assess the damage.Transmission Assess Mills Clue AndreLetter Q",
+      "speaker": "Garek",
+      "text": "A letter from Andre, saying he knows Saloman has been stealing his pelts and demanding he return them by today... or else.",
+      "string_id": 2201,
+      "speaker_string_id": 2202,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m2/A2M2-T450-GAREK.ogg"
+    },
+    {
+      "n": 118,
+      "id": "ScarletFootman_Warcry1",
+      "scene": "TRANSMISSIONS.Main Quest - Our Land, Our Home.Transmission Land ScarletFarmEncounter Q",
+      "speaker": "Footman",
+      "text": "For the Scarlet Crusade!",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Units/Human/Scarletfootman/ScarletFootman_Warcry1.ogg"
+    },
+    {
+      "n": 119,
+      "id": "ScarletMarksman_Ready1",
+      "scene": "TRANSMISSIONS.Optional Quest - Scouting Out.Transmission Scout Tower3 Ambush Q",
+      "speaker": "Marksman",
+      "text": "None can hide from the Light!",
+      "string_id": 2259,
+      "speaker_string_id": 2258,
+      "sound": "Units/Human/ScarletMarksman/ScarletMarksman_Ready1.ogg"
+    }
+  ]
+}

@@ -1,0 +1,966 @@
+{
+  "map": "HumanRE01",
+  "title": "Homecoming",
+  "locale": "esES",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE01-C010-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Atención, guardias. El príncipe Arthas ha regresado de Rasganorte. Con suerte, habrá traído consigo una cura para la peste.",
+      "string_id": 2839,
+      "speaker_string_id": 2840,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-010-LANDEN.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE01-C010-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Así, al menos, su viajecito en barco habrá valido la pena. No entiendo por qué tenemos que alabar todo lo que hace.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Así, al menos, su viajecito en barco habrá valido la pena. No entiendo por qué tenemos que alabar todo lo que hace.[/\"Squint\"]",
+      "string_id": 2835,
+      "speaker_string_id": 2836,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE01-C010-030-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Teniente Bandarion, juramos servir a la casa de los Menethil. Preparemos la ciudad para recibir a nuestro príncipe.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]Teniente Bandarion, juramos servir a la casa de los Menethil.[/\"Angry\"] [\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.55 easeout=0.45]Preparemos la ciudad para recibir a nuestro príncipe.[/\"Happy\"]",
+      "string_id": 3412,
+      "speaker_string_id": 3413,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-030-LANDEN.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE01-C010-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Por supuesto, capitán Landen. No me gustaría defraudar al príncipe.",
+      "string_id": 2845,
+      "speaker_string_id": 2846,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "AbominationYes3",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Sebo",
+      "text": "¡Desgarrar y rasgar!",
+      "string_id": 2875,
+      "speaker_string_id": 2876,
+      "sound": "Units/Undead/Abomination/AbominationYes3.flac"
+    },
+    {
+      "n": 6,
+      "id": "HRE01-C020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "...Garek",
+      "string_id": 3443,
+      "speaker_string_id": 3442,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C020-010-LANDEN.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE01-C020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "¡Garek!",
+      "string_id": 3410,
+      "speaker_string_id": 3411,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C020-010-LANDEN.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE01-C030-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "¡Uther el Iluminado!",
+      "string_id": 3426,
+      "speaker_string_id": 3427,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-010-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE01-C030-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "¡Guardias! ¿Te han herido?",
+      "string_id": 3430,
+      "speaker_string_id": 3431,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-020-UTHER.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE01-C030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "No, señor...",
+      "string_id": 3434,
+      "speaker_string_id": 3435,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-030-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE01-C030-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Pero el rey Terenas...",
+      "string_id": 3440,
+      "speaker_string_id": 3441,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-040-LANDEN.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE01-C030-050-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Mi rey...",
+      "string_id": 3422,
+      "speaker_string_id": 3423,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-050-UTHER.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE01-C040-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "¡Casi estamos! La ruta de evacuación está delante.",
+      "string_id": 2866,
+      "speaker_string_id": 2867,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-010-LANDEN.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE01-C040-030-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Esa abominación nos corta el paso a las cloacas.",
+      "string_id": 2869,
+      "speaker_string_id": 2870,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-030-LANDEN.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE01-C040-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "No por mucho tiempo.",
+      "string_id": 2872,
+      "speaker_string_id": 2873,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-040-GAREK.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE01-M015-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Sin ofender, capitán, pero no me uní a la guardia de la ciudad para barrer calles para la familia real.",
+      "string_id": 2878,
+      "speaker_string_id": 2879,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-010-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE01-M015-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Quiero luchar en la defensa de Lordaeron. Ansío la emoción de la batalla y la gloria de la victoria.",
+      "string_id": 2881,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-020-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE01-M015-030-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Garek, he luchado en las guerras suficientes como para saber que la gloria es un mito.",
+      "string_id": 2884,
+      "speaker_string_id": 2885,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-030-LANDEN.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE01-M015-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Sobrevivir es la verdadera victoria. Y la paz, su recompensa. Nunca lo olvides.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Sobrevivir es la verdadera victoria. Y la paz, su recompensa. Nunca lo olvides.[/\"Happy\"]",
+      "string_id": 2887,
+      "speaker_string_id": 2888,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-040-LANDEN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE01-M015-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Espera... ¿Oyes eso?",
+      "string_id": 2890,
+      "speaker_string_id": 2891,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-050-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE01-M020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "¡Rey Terenas! ¡No!",
+      "string_id": 2893,
+      "speaker_string_id": 2894,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M020-010-LANDEN.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE01-M030-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Lord Uther, ¿qué ocurre ahí fuera?",
+      "string_id": 2902,
+      "speaker_string_id": 2903,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-010-LANDEN.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE01-M030-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Un ejército de cultores y no-muertos ha invadido la ciudad. ¡Arthas nos ha traicionado!",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Un ejército de cultores y no-muertos ha invadido la ciudad. ¡Arthas nos ha traicionado![/\"Sad\"]",
+      "string_id": 2905,
+      "speaker_string_id": 2906,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-020-UTHER.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE01-M030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "¡¿Qué?!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡¿Qué?![/\"Surprised\"]",
+      "string_id": 2908,
+      "speaker_string_id": 2909,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-030-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE01-M030-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "No pude salvar a Terenas, pero llevaré a esos traidores ante la justicia.",
+      "string_id": 2911,
+      "speaker_string_id": 2912,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-040-UTHER.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE01-M030-050-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Vosotros, reunid a la guardia y rescatad tantos civiles como podáis.",
+      "string_id": 2914,
+      "speaker_string_id": 2915,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-050-UTHER.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE01-M030-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Nos veremos en Andorhal. Que la Luz os guíe.",
+      "string_id": 2917,
+      "speaker_string_id": 2918,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-060-UTHER.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE01-M040-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Por la Luz...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Por la Luz...[/\"Surprised\"]",
+      "string_id": 2920,
+      "speaker_string_id": 2921,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-010-LANDEN.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE01-M040-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "No es posible... ¿Cómo ha podido Arthas condenar a su propio reino?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No es posible... ¿Cómo ha podido Arthas condenar a su propio reino?[/\"Surprised\"]",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-020-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE01-M040-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "¡Debemos luchar! Hay que expulsar a esos monstruos y recuperar nuestro hogar.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Debemos luchar! Hay que expulsar a esos monstruos y recuperar nuestro hogar.[/\"Angry\"]",
+      "string_id": 2926,
+      "speaker_string_id": 2927,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-030-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE01-M040-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Garek, escucha. La ciudad está perdida, pero puede reconstruirse. Lo importante es proteger a la gente.",
+      "string_id": 2930,
+      "speaker_string_id": 2931,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-040-LANDEN.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE01-M040-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Lo... lo entiendo. Llevémoslos a las cloacas.",
+      "string_id": 2933,
+      "speaker_string_id": 2934,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-050-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE01-M050-010-GUARD2",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Guardia de la ciudad",
+      "text": "¡Capitán Landen! ¡Hemos asegurado los túneles de salida!",
+      "string_id": 2936,
+      "speaker_string_id": 2937,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-010-GUARD2.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE01-M050-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "¡Bien hecho, guardias! ¡A las cloacas!",
+      "string_id": 2939,
+      "speaker_string_id": 2940,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-020-LANDEN.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE01-M050-030-GUARD2",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Guardia de la ciudad",
+      "text": "Id con los supervivientes. Nosotros los retendremos.",
+      "string_id": 2942,
+      "speaker_string_id": 2943,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-030-GUARD2.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE01-M050-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Por Lordaeron.",
+      "string_id": 2945,
+      "speaker_string_id": 2946,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-040-LANDEN.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE01-T010-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace Start Q",
+      "speaker": "Landen",
+      "text": "Eres mejor guardia de lo que aparentas, Garek. Podrías llegar a capitán si te tomases las cosas más en serio.",
+      "string_id": 2980,
+      "speaker_string_id": 2981,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T010-LANDEN.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE01-T020-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace Start Q",
+      "speaker": "Garek",
+      "text": "¿Tantas ganas tienes de que te quite el puesto?",
+      "string_id": 2969,
+      "speaker_string_id": 2970,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T020-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE01-T030-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace Start Q",
+      "speaker": "Landen",
+      "text": "Pues claro. Me muero por jubilarme.",
+      "string_id": 2974,
+      "speaker_string_id": 2975,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T030-LANDEN.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE01-T040-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Roses.Roses Acquire Q",
+      "speaker": "Garek",
+      "text": "Me parece un tanto excesivo cubrir al príncipe de flores.",
+      "string_id": 2985,
+      "speaker_string_id": 2986,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T040-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE01-T050-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Roses.Roses Acquire Q",
+      "speaker": "Landen",
+      "text": "Este acontecimiento hay que celebrarlo, Garek. La gente se merece disfrutar.",
+      "string_id": 3199,
+      "speaker_string_id": 3200,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T050-LANDEN.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE01-T060-GUARDSMAN",
+      "scene": "TRANSMISSIONS.Stage 1.Guards.Guards Oliver Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "¿Es cierto? ¿Al fin ha vuelto el príncipe Arthas? ¡Ya era hora!",
+      "string_id": 3181,
+      "speaker_string_id": 3182,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T060-GUARDSMAN.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE01-T070-GUARDSMAN",
+      "scene": "TRANSMISSIONS.Stage 1.Guards.Guards David Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "¿Alguien sabe por qué el príncipe zarpó rumbo a Rasganorte? ¿Qué asuntos podrían haberlo llevado allí?",
+      "string_id": 3219,
+      "speaker_string_id": 3220,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T070-GUARDSMAN.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE01-T080-GUARDSMAN",
+      "scene": "TRANSMISSIONS.Stage 1.Guards.Guards Sam Brad Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "He oído que el príncipe Arthas disolvió la orden de los paladines antes de partir. ¿Por qué lo haría?",
+      "string_id": 3372,
+      "speaker_string_id": 3373,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T080-GUARDSMAN.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE01-T100-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q",
+      "speaker": "Garek",
+      "text": "Tienes que mover el carro. Bloquea las puertas del palacio.",
+      "string_id": 2760,
+      "speaker_string_id": 2761,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T100-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE01-T110-ALICIA",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q",
+      "speaker": "Alicia",
+      "text": "¡Pero la rueda no tiene arreglo!",
+      "string_id": 2802,
+      "speaker_string_id": 2803,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T110-ALICIA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE01-T120-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q",
+      "speaker": "Landen",
+      "text": "No te preocupes. Buscaremos una nueva.",
+      "string_id": 2816,
+      "speaker_string_id": 2817,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T120-LANDEN.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE01-T130-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Wheel Q",
+      "speaker": "Garek",
+      "text": "Un oro bien gastado. Hemos podido quitar de en medio el carro para que no estorbe al príncipe.",
+      "string_id": 2998,
+      "speaker_string_id": 2999,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T130-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE01-T140-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Wheel Q",
+      "speaker": "Landen",
+      "text": "Así seguiría rota. Nuestro trabajo consiste en ayudar a la gente, no en dejarla de lado.",
+      "string_id": 3000,
+      "speaker_string_id": 3001,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T140-LANDEN.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE01-T150-ALICIA",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Return Q",
+      "speaker": "Alicia",
+      "text": "¡Ay, muchas gracias! Acepta esto en señal de agradecimiento.",
+      "string_id": 3205,
+      "speaker_string_id": 3206,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T150-ALICIA.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE01-T160-MERCHANT",
+      "scene": "TRANSMISSIONS.Stage 1.Thief.Thief Q",
+      "speaker": "Eugene",
+      "text": "¡Alto! ¡Al ladrón!",
+      "string_id": 3215,
+      "speaker_string_id": 3216,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T160-MERCHANT.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE01-T170-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Thief.Thief Q",
+      "speaker": "Garek",
+      "text": "¡A por él!",
+      "string_id": 3217,
+      "speaker_string_id": 3218,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T170-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE01-T180-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Thief.Thief Capture Captain Q",
+      "speaker": "Landen",
+      "text": "No permitiré que el príncipe Arthas regrese a una ciudad sumida en el crimen.",
+      "string_id": 3035,
+      "speaker_string_id": 3036,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T180-LANDEN.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE01-T190-LUCA",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Discover Q Q",
+      "speaker": "Luca",
+      "text": "¡Lo he visto con mis propios ojos! ¡El príncipe Arthas ha purgado Stratholme! ¡Ha matado a todo el mundo!",
+      "string_id": 3191,
+      "speaker_string_id": 3192,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T190-LUCA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE01-T200-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Discover Q Q",
+      "speaker": "Garek",
+      "text": "Deberíamos ir a comprobarlo.",
+      "string_id": 3195,
+      "speaker_string_id": 3196,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T200-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE01-T210-GAREK",
+      "scene": "Drunkard Crowd.Drunkard Crowd Disperse",
+      "speaker": "Garek",
+      "text": "¡Vamos!",
+      "string_id": 3016,
+      "speaker_string_id": 3017,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T210-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE01-T220-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Disperse Q",
+      "speaker": "Landen",
+      "text": "Puedes pasar la cogorza en casa o en una celda. Tú decides.",
+      "string_id": 3021,
+      "speaker_string_id": 3022,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T220-LANDEN.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE01-T230-LUCA",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Disperse Q",
+      "speaker": "Luca",
+      "text": "¡Sé lo que he visto!",
+      "string_id": 3207,
+      "speaker_string_id": 3208,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T230-LUCA.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE01-T240-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Done Q",
+      "speaker": "Garek",
+      "text": "¿Te puedes creer lo que ha dicho?",
+      "string_id": 3008,
+      "speaker_string_id": 3009,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T240-GAREK.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE01-T250-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Done Q",
+      "speaker": "Landen",
+      "text": "Rumores infundados. Nadie sabe qué ha pasado en Stratholme, pero seguro que el príncipe Arthas hizo todo lo posible por sus súbditos.",
+      "string_id": 3010,
+      "speaker_string_id": 3011,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T250-LANDEN.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE01-T260-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Roses.Roses Drop Q",
+      "speaker": "Garek",
+      "text": "Ha sido un día de mucho trabajo. Seguro que el príncipe lo apreciará.",
+      "string_id": 2989,
+      "speaker_string_id": 2990,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T260-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE01-T270-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace End Q",
+      "speaker": "Landen",
+      "text": "Parece que el príncipe Arthas ya ha llegado. Volvamos a nuestro puesto.",
+      "string_id": 2976,
+      "speaker_string_id": 2977,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T270-LANDEN.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE01-T280-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Side Q",
+      "speaker": "Garek",
+      "text": "¿Qué demonios ha sido eso?",
+      "string_id": 3044,
+      "speaker_string_id": 3045,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T280-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE01-T290-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Side Q",
+      "speaker": "Landen",
+      "text": "No tengo ni... ¡Garek! ¡Cuidado!",
+      "string_id": 3048,
+      "speaker_string_id": 3049,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T290-LANDEN.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE01-T300-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Door Q",
+      "speaker": "Garek",
+      "text": "¡La puerta está cerrada!",
+      "string_id": 3051,
+      "speaker_string_id": 3052,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T300-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE01-T310-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Door Q",
+      "speaker": "Landen",
+      "text": "Hay que encontrar otra forma de entrar. ¡Rápido!",
+      "string_id": 3056,
+      "speaker_string_id": 3057,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T310-LANDEN.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE01-T320-ARTHAS",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Passage Q",
+      "speaker": "Arthas",
+      "text": "Este reino caerá, ¡y de sus cenizas surgirá un nuevo orden que hará temblar los cimientos del mundo!",
+      "string_id": 3223,
+      "speaker_string_id": 3224,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T320-ARTHAS.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE01-T330-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Passage Q",
+      "speaker": "Garek",
+      "text": "Conque los rumores eran ciertos... ¡El príncipe Arthas ha perdido la cabeza!",
+      "string_id": 3239,
+      "speaker_string_id": 3240,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T330-GAREK.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE01-T340-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Start Q",
+      "speaker": "Garek",
+      "text": "¡Los no-muertos! Capitán, ¡debemos unirnos a la batalla!",
+      "string_id": 3068,
+      "speaker_string_id": 3069,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T340-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "HRE01-T350-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q",
+      "speaker": "Landen",
+      "text": "¡¿Qué ha pasado aquí?!",
+      "string_id": 3070,
+      "speaker_string_id": 3071,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T350-LANDEN.ogg"
+    },
+    {
+      "n": 71,
+      "id": "HRE01-T360-THRONEROOMGUARD",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "Era... ¡era el príncipe Arthas, señor! ¡Ha asesinado al rey! ¡A su propio padre!",
+      "string_id": 3078,
+      "speaker_string_id": 3149,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T360-THRONEROOMGUARD.ogg"
+    },
+    {
+      "n": 72,
+      "id": "HRE01-T370-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q",
+      "speaker": "Garek",
+      "text": "¡¿Que se ha aliado con estos monstruos?!",
+      "string_id": 3073,
+      "speaker_string_id": 3074,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T370-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "HRE01-T380-LORDVILEOR",
+      "scene": "TRANSMISSIONS.Stage 2.Acolyte.Acolyte Start Q",
+      "speaker": "Lord Vileor",
+      "text": "¡El Culto de los Malditos al fin arrasará Lordaeron!",
+      "string_id": 3348,
+      "speaker_string_id": 3349,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T380-LORDVILEOR.ogg"
+    },
+    {
+      "n": 74,
+      "id": "HRE01-T390-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue End  Q",
+      "speaker": "Garek",
+      "text": "¿Es que no se acaban nunca? ¡Tenemos que salir de aquí!",
+      "string_id": 3079,
+      "speaker_string_id": 3080,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T390-GAREK.ogg"
+    },
+    {
+      "n": 75,
+      "id": "HRE01-T400-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Exit Q",
+      "speaker": "Garek",
+      "text": "Capitán... ¿Qué hacemos?",
+      "string_id": 3088,
+      "speaker_string_id": 3089,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T400-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "HRE01-T410-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Exit Q",
+      "speaker": "Landen",
+      "text": "Existe una ruta de evacuación a través de las cloacas. Recemos por que siga intacta.",
+      "string_id": 3086,
+      "speaker_string_id": 3087,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T410-LANDEN.ogg"
+    },
+    {
+      "n": 77,
+      "id": "HRE01-T420-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Background.Background Palace Dialogue Q",
+      "speaker": "Garek",
+      "text": "¡Arthas! ¡Será traidor!",
+      "string_id": 3175,
+      "speaker_string_id": 3176,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T420-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "HRE01-T430-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Background.Background Palace Dialogue Q",
+      "speaker": "Landen",
+      "text": "¡Déjaselo a Uther! ¡No podemos parar!",
+      "string_id": 3041,
+      "speaker_string_id": 3042,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T430-LANDEN.ogg"
+    },
+    {
+      "n": 79,
+      "id": "HRE01-T470-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 02 Q",
+      "speaker": "Hilaañublo",
+      "text": "¡Nuestros planes se consumarán! ¡La muerte os llevará a todos!",
+      "string_id": 3340,
+      "speaker_string_id": 3341,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T470-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 80,
+      "id": "HRE01-T480-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 04 Q",
+      "speaker": "Hilaañublo",
+      "text": "¡Llevo muchísimo tiempo esperando este día!",
+      "string_id": 3344,
+      "speaker_string_id": 3345,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T480-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 81,
+      "id": "HRE01-T500-GUARD1",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 01 Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "¡Capitán Landen! ¡Teniente Bandarion!",
+      "string_id": 3279,
+      "speaker_string_id": 3280,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T500-GUARD1.ogg"
+    },
+    {
+      "n": 82,
+      "id": "HRE01-T510-GAREK",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 01 Q",
+      "speaker": "Garek",
+      "text": "Guardias, ¡a mí!",
+      "string_id": 3281,
+      "speaker_string_id": 3282,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T510-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "HRE01-T520-SURVIVOR",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Start Q",
+      "speaker": "Aldeano",
+      "text": "¡Gracias a la Luz! ¡Hay más supervivientes atrapados al otro lado del palacio!",
+      "string_id": 3293,
+      "speaker_string_id": 3294,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T520-SURVIVOR.ogg"
+    },
+    {
+      "n": 84,
+      "id": "HRE01-T530-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Start Q",
+      "speaker": "Landen",
+      "text": "Haremos todo lo posible por salvarlos. ¡Esperad aquí mientras despejamos el camino!",
+      "string_id": 3297,
+      "speaker_string_id": 3298,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T530-LANDEN.ogg"
+    },
+    {
+      "n": 85,
+      "id": "HRE01-T540-RIFLEMAN",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 02 Q",
+      "speaker": "Fusilero",
+      "text": "¡Guardias! ¡Os cubrimos las espaldas!",
+      "string_id": 3277,
+      "speaker_string_id": 3278,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T540-RIFLEMAN.ogg"
+    },
+    {
+      "n": 86,
+      "id": "HRE01-T560-GUARD3",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Guard Rescue Enter Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "¡Aquí! ¡Necesitamos ayuda!",
+      "string_id": 3283,
+      "speaker_string_id": 3284,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T560-GUARD3.ogg"
+    },
+    {
+      "n": 87,
+      "id": "HRE01-T570-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Skeletons Acolyte Defeated Q",
+      "speaker": "Landen",
+      "text": "El área es segura por el momento. ¡Defended la posición y esperad nuestra señal!",
+      "string_id": 3285,
+      "speaker_string_id": 3286,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T570-LANDEN.ogg"
+    },
+    {
+      "n": 88,
+      "id": "HRE01-T590-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 3.Abomination.Abomination End Q",
+      "speaker": "Landen",
+      "text": "¡El camino está despejado! ¡Reúne a los supervivientes!",
+      "string_id": 3383,
+      "speaker_string_id": 3384,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T590-LANDEN.ogg"
+    },
+    {
+      "n": 89,
+      "id": "FootmanWarcry1",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 01 Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "¡Por Lordaeron!",
+      "string_id": 3314,
+      "speaker_string_id": 3315,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 90,
+      "id": "PriestYesAttack1",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 02 Q",
+      "speaker": "Sacerdote",
+      "text": "¡Largo, engendro de la oscuridad!",
+      "string_id": 3312,
+      "speaker_string_id": 3313,
+      "sound": "Units/Human/Priest/PriestYesAttack1.flac"
+    },
+    {
+      "n": 91,
+      "id": "FootmanYesAttack3",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 03 Q",
+      "speaker": "Guardia de la ciudad",
+      "text": "¡A las armas!",
+      "string_id": 3310,
+      "speaker_string_id": 3311,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 92,
+      "id": "BanditYesAttack3",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 01 Q",
+      "speaker": "Asesino",
+      "text": "¡A por ellos!",
+      "string_id": 3336,
+      "speaker_string_id": 3337,
+      "sound": "Units/Creeps/Bandit/BanditYesAttack3.flac"
+    },
+    {
+      "n": 93,
+      "id": "NecromancerYesAttack2",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounter Palace Skeletons Q",
+      "speaker": "Nigromante",
+      "text": "¡Tiembla ante la Plaga!",
+      "string_id": 3346,
+      "speaker_string_id": 3347,
+      "sound": "Units/Undead/Necromancer/NecromancerYesAttack2.flac"
+    },
+    {
+      "n": 94,
+      "id": "NecromancerYesAttack3",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounter Gardens Skeletons Q",
+      "speaker": "Nigromante",
+      "text": "¡Nadie sobrevivirá!",
+      "string_id": 3144,
+      "speaker_string_id": 3145,
+      "sound": "Units/Undead/Necromancer/NecromancerYesAttack3.flac"
+    },
+    {
+      "n": 95,
+      "id": "GhoulWhat4",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Cultists 04 Q",
+      "speaker": "Necrófago",
+      "text": "¡Debo alimentarme!",
+      "string_id": 3275,
+      "speaker_string_id": 3276,
+      "sound": "Units/Undead/Ghoul/GhoulWhat4.flac"
+    }
+  ]
+}

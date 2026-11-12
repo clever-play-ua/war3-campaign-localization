@@ -1,0 +1,48 @@
+{
+  "map": "UndeadRE02_01",
+  "title": "Forgotten Hollow",
+  "locale": "esES",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2MU-T590-GAREK",
+      "scene": "Transmissions.Transmission Discover Alter",
+      "speaker": "Garek",
+      "text": "Es una especie de altar. Y... siento que me llama...",
+      "string_id": 304,
+      "speaker_string_id": 305,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2MU-T591-GAREK",
+      "scene": "Transmissions.Transmission Garek Run End",
+      "speaker": "Garek",
+      "text": "Qué... qué experiencia tan extraña.",
+      "string_id": 307,
+      "speaker_string_id": 308,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T591-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2MU-T592-ANYA",
+      "scene": "Transmissions.Transmission Anya Run End",
+      "speaker": "Anya",
+      "text": "No sé bien qué esperaba..., pero eso no, seguro.",
+      "string_id": 310,
+      "speaker_string_id": 309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T592-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2MU-T593-LEONID",
+      "scene": "Transmissions.Transmission Leonid Run End",
+      "speaker": "Leonid",
+      "text": "¿Qué clase de brujería abyecta era esa?",
+      "string_id": 312,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T593-LEONID.ogg"
+    }
+  ]
+}

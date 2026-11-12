@@ -1,0 +1,844 @@
+{
+  "map": "UndeadRE01_03",
+  "title": "Tirisfal Glades",
+  "locale": "esMX",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M3-M020-010-FARANELL",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Faranell",
+      "text": "Estábamos esperándote, Anya. Putress nos envió la lista de reactivos que necesita.",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-010-FARANELL.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M3-M020-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Qué considerado de su parte. Espero que todo vaya bien por aquí.",
+      "string_id": 1840,
+      "speaker_string_id": 1841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M3-M020-030-FARANELL",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Faranell",
+      "text": "No está mal. Aunque extraño la comodidad de mi laboratorio.",
+      "string_id": 1826,
+      "speaker_string_id": 1827,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-030-FARANELL.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M3-M020-040-MELISARA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Melisara",
+      "text": "Anya, el idiota de Gordo volvió a perderse. Si lo encuentras, tráelo de vuelta al campamento, ¿quieres?",
+      "string_id": 1838,
+      "speaker_string_id": 1839,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-040-MELISARA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M3-M020-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Estaremos atentos. Que la Dama Oscura te proteja.",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-050-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M3-M020-010-FARANELL",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Faranell",
+      "text": "Estábamos esperándote, Anya. Putress nos envió la lista de reactivos que necesita.",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-010-FARANELL.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M3-M020-020-ANYA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Anya",
+      "text": "Qué considerado de su parte. Espero que todo vaya bien por aquí.",
+      "string_id": 1840,
+      "speaker_string_id": 1841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M3-M020-030-FARANELL",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Faranell",
+      "text": "No está mal. Aunque extraño la comodidad de mi laboratorio.",
+      "string_id": 1826,
+      "speaker_string_id": 1827,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-030-FARANELL.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M3-M020-040-MELISARA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Melisara",
+      "text": "Anya, el idiota de Gordo volvió a perderse. Si lo encuentras, tráelo de vuelta al campamento, ¿quieres?",
+      "string_id": 1838,
+      "speaker_string_id": 1839,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-040-MELISARA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M3-M020-050-ANYA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Anya",
+      "text": "Estaremos atentos. Que la Dama Oscura te proteja.",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-050-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M3-M030-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "¡Oigan, necesitamos ayuda por aquí! ¡Juro que valdrá la pena!",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-010-GLIX.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M3-M030-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Mmm. A ver.",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M3-M030-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "Nos emboscaron unos gnolls y tuvimos que abandonar nuestra mercancía. Si nos la devuelven, pueden quedarse con la cuarta parte.",
+      "string_id": 1870,
+      "speaker_string_id": 1871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-030-GLIX.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M3-M030-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Que sea la mitad o no hay trato.",
+      "string_id": 1880,
+      "speaker_string_id": 1881,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M3-M030-050-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "¡¿La mitad?! ¡Es un robo!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡¿La mitad?! ¡Es un robo![/\"Surprised\"]",
+      "string_id": 1874,
+      "speaker_string_id": 1875,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-050-GLIX.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M3-M030-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "Bueno... ya nos robaron hoy de todos modos. Bien, trato hecho.",
+      "string_id": 1878,
+      "speaker_string_id": 1879,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-060-GLIX.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M3-M030-010-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Glix",
+      "text": "¡Oigan, necesitamos ayuda por aquí! ¡Juro que valdrá la pena!",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-010-GLIX.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M3-M030-020-ANYA",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Anya",
+      "text": "Mmm. A ver.",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M3-M030-030-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Glix",
+      "text": "Nos emboscaron unos gnolls y tuvimos que abandonar nuestra mercancía. Si nos la devuelven, pueden quedarse con la cuarta parte.",
+      "string_id": 1870,
+      "speaker_string_id": 1871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-030-GLIX.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M3-M030-040-ANYA",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Anya",
+      "text": "Que sea la mitad o no hay trato.",
+      "string_id": 1880,
+      "speaker_string_id": 1881,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M3-M030-050-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Glix",
+      "text": "¡¿La mitad?! ¡Es un robo!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡¿La mitad?! ¡Es un robo![/\"Surprised\"]",
+      "string_id": 1874,
+      "speaker_string_id": 1875,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-050-GLIX.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M3-M030-060-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Glix",
+      "text": "Bueno... ya nos robaron hoy de todos modos. Bien, trato hecho.",
+      "string_id": 1878,
+      "speaker_string_id": 1879,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-060-GLIX.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M3-M040-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "¡Lo lograron! ¡Y la mercancía sigue intacta!",
+      "string_id": 1891,
+      "speaker_string_id": 1892,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-010-GLIX.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M3-M040-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Así es. Hablemos del pago.",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M3-M040-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "¡Por supuesto! Estaremos encantados de transportar en persona su mitad de los suministros hasta... la Ciudad Subterránea, ¿no?",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-030-GLIX.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M3-M040-040-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "No hay mejor forma de agradecerles a nuestros nuevos clien... digo, a nuestros amables anfitriones.",
+      "string_id": 1910,
+      "speaker_string_id": 1911,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-040-GLIX.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M3-M040-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "¡Pero serás...!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Pero serás...![/\"Angry\"]",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-050-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M3-M040-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "¡Oye! Mira, también recibirán un pago por sus servicios, por supuesto. Es una muestra de gratitud.",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Oye! Mira, también recibirán un pago por sus servicios, por supuesto. Es una muestra de gratitud.[/\"Scared\"]",
+      "string_id": 1922,
+      "speaker_string_id": 1923,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-060-GLIX.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M3-M040-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Aceptamos con gusto. Los Renegados sabrán aprovechar su mercancía. Nos vemos en la Ciudad Subterránea.",
+      "string_id": 1926,
+      "speaker_string_id": 1927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-070-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M3-M040-010-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Glix",
+      "text": "¡Lo lograron! ¡Y la mercancía sigue intacta!",
+      "string_id": 1891,
+      "speaker_string_id": 1892,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-010-GLIX.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M3-M040-020-ANYA",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Anya",
+      "text": "Así es. Hablemos del pago.",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M3-M040-030-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Glix",
+      "text": "¡Por supuesto! Estaremos encantados de transportar en persona su mitad de los suministros hasta... la Ciudad Subterránea, ¿no?",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-030-GLIX.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M3-M040-040-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Glix",
+      "text": "No hay mejor forma de agradecerles a nuestros nuevos clien... digo, a nuestros amables anfitriones.",
+      "string_id": 1910,
+      "speaker_string_id": 1911,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-040-GLIX.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M3-M040-050-ANYA",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Anya",
+      "text": "¡Pero serás...!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Pero serás...![/\"Angry\"]",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-050-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M3-M040-060-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Glix",
+      "text": "¡Oye! Mira, también recibirán un pago por sus servicios, por supuesto. Es una muestra de gratitud.",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Oye! Mira, también recibirán un pago por sus servicios, por supuesto. Es una muestra de gratitud.[/\"Scared\"]",
+      "string_id": 1922,
+      "speaker_string_id": 1923,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-060-GLIX.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M3-M040-070-GAREK",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Garek",
+      "text": "Aceptamos con gusto. Los Renegados sabrán aprovechar su mercancía. Nos vemos en la Ciudad Subterránea.",
+      "string_id": 1926,
+      "speaker_string_id": 1927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-070-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M3-T010-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Load Into Map First Comment",
+      "speaker": "Anya",
+      "text": "Hay un campamento de forestales oscuros adelante. Hablemos con ellos primero.",
+      "string_id": 1589,
+      "speaker_string_id": 1590,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M3-T020-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "Garek",
+      "text": "Anya, ¿cómo fue que terminé en el Apothecarium de Putress?",
+      "string_id": 1629,
+      "speaker_string_id": 1630,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T020-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M3-T030-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "Anya",
+      "text": "Eras parte de las tropas de la Plaga que se apoderaron de la Ciudad capital cuando Lady Sylvanas vino a conquistarla.",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T030-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M3-T040-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "Anya",
+      "text": "Tras la batalla, reunimos a todos los no-muertos y se los enviamos a Putress para que... los procesara.",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M3-T050-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "Garek",
+      "text": "¿O sea que luché contra Sylvanas cuando servía a la Plaga? ¿Y aun así me recibe como uno de los Renegados?",
+      "string_id": 1648,
+      "speaker_string_id": 1649,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M3-T060-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "Anya",
+      "text": "Ella entiende mejor que nadie lo que es obedecer al Rey Exánime por la fuerza.",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T060-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M3-T070-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "Anya",
+      "text": "¿Cómo podría rechazar a un renegado que recién despertaba, sin importar su vida pasada?",
+      "string_id": 1657,
+      "speaker_string_id": 1658,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A1M3-T080-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "Garek",
+      "text": "¿Y tú, Anya? ¿Cómo te uniste a los Renegados?",
+      "string_id": 1660,
+      "speaker_string_id": 1661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T080-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A1M3-T090-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "Anya",
+      "text": "En vida, le serví a Sylvanas. Ambas morimos en la defensa de nuestro reino contra la Plaga. Y ambas resucitamos como no-muertas.",
+      "string_id": 1663,
+      "speaker_string_id": 1664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T090-ANYA.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A1M3-T100-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "Anya",
+      "text": "Cuando recuperé mi libre albedrío, la Dama Oscura me ofreció un lugar al que pertenecer. Por eso le debo mi lealtad eterna.",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T100-ANYA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A1M3-T110-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "Garek",
+      "text": "¿Recuerdas qué cosas te obligaron a hacer cuando estabas bajo el control del Rey Exánime?",
+      "string_id": 1673,
+      "speaker_string_id": 1674,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T110-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A1M3-T120-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "Anya",
+      "text": "Sí, pero no pienso hablar de eso, Garek. No te lo contaré a ti ni a nadie.",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T120-ANYA.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A1M3-T130-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "Anya",
+      "text": "Recordar el pasado no lo cambia. Es mejor seguir adelante sin mirar atrás.",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T130-ANYA.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A1M3-T140-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "Garek",
+      "text": "Muchos Renegados tienen historias parecidas a la tuya. Condenados a la no muerte que tratan de forjar un destino mejor.",
+      "string_id": 1686,
+      "speaker_string_id": 1687,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T140-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A1M3-T150-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "Anya",
+      "text": "Así es, el tormento nos une. El mundo considera que somos monstruos, así que solo nos tenemos los unos a los otros.",
+      "string_id": 1691,
+      "speaker_string_id": 1692,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T150-ANYA.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A1M3-T160-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "Garek",
+      "text": "Entonces intentaré dar lo mejor de mí. Por Lady Sylvanas y por los Renegados.",
+      "string_id": 1698,
+      "speaker_string_id": 1699,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T160-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A1M3-T170-GLIX",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Glix Comment After Cinematic 02",
+      "speaker": "Glix",
+      "text": "El campamento gnoll está al sur. No mueran... de nuevo.",
+      "string_id": 1729,
+      "speaker_string_id": 1730,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T170-GLIX.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A1M3-T180-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "Anya",
+      "text": "¿Vamos a dejar que se afinquen en la Ciudad Subterránea como si nada?",
+      "string_id": 1738,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T180-ANYA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A1M3-T190-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "Garek",
+      "text": "Los Renegados necesitan suministros, y los goblins pueden proporcionarlos. Y si dependen de la Ciudad Subterránea para su protección...",
+      "string_id": 1740,
+      "speaker_string_id": 1741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T190-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A1M3-T200-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "Anya",
+      "text": "Quiere decir que la Dama Oscura puede negociar sus precios con ventaja. Excelente, Bandarion.",
+      "string_id": 1743,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T200-ANYA.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A1M3-T210-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting Broodmother Venom",
+      "speaker": "Anya",
+      "text": "Como parte de los Renegados, puede que desarrolles cierta afinidad por las arañas. Pero trata de no acercarte mucho.",
+      "string_id": 1620,
+      "speaker_string_id": 1621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T210-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A1M3-T220-GORDO",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Found",
+      "speaker": "Gordo",
+      "text": "¡Redes pegajosas! ¡Gordo necesita ayuda!",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T220-GORDO.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A1M3-T230-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Found",
+      "speaker": "Anya",
+      "text": "¡Otro desastre más, Gordo!",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T230-ANYA.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A1M3-T240-GORDO",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Freed",
+      "speaker": "Gordo",
+      "text": "¡Gordo libre, vuelve al campamento ya!",
+      "string_id": 1716,
+      "speaker_string_id": 1717,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T240-GORDO.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A1M3-T250-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Freed",
+      "speaker": "Anya",
+      "text": "Intenta no perderte esta vez.",
+      "string_id": 1719,
+      "speaker_string_id": 1720,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T250-ANYA.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A1M3-T260-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "Garek",
+      "text": "Una enfermedad vil se extiende por el bosque.",
+      "string_id": 1598,
+      "speaker_string_id": 1599,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T260-GAREK.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A1M3-T270-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "Anya",
+      "text": "Es obra de la Plaga. Busca contaminar todo Lordaeron.",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T270-ANYA.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A1M3-T280-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "Anya",
+      "text": "Ahora estas tierras pertenecen a los Renegados. No permitiremos que ni la Plaga ni los vivos nos invadan.",
+      "string_id": 1613,
+      "speaker_string_id": 1614,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T280-ANYA.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A1M3-T290-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting First Murloc Scale",
+      "speaker": "Anya",
+      "text": "Múrlocs. Son criaturas viles, pero sus escamas son útiles para la alquimia.",
+      "string_id": 1624,
+      "speaker_string_id": 1625,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T290-ANYA.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A1M3-T300-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting All Reagents Collected",
+      "speaker": "Anya",
+      "text": "Eso es todo lo que Putress necesita. Regresemos a la Ciudad Subterránea.",
+      "string_id": 1703,
+      "speaker_string_id": 1704,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T300-ANYA.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A1M3-T310-MELISARA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Melisara Return Quest Completed",
+      "speaker": "Melisara",
+      "text": "Gordo consiguió unas cosas mientras andaba por ahí. Podrían servir para algo.",
+      "string_id": 1724,
+      "speaker_string_id": 1725,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T310-MELISARA.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A1M3-T320-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Load Into Map Quarry Location",
+      "speaker": "Anya",
+      "text": "La cantera está en la parte norte del bosque. Vamos.",
+      "string_id": 1750,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T320-ANYA.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A1M3-T330-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Garek",
+      "text": "Es una suerte que Bernd recuerde la albañilería de cuando estaba vivo. Sus habilidades beneficiarán a la Ciudad Subterránea.",
+      "string_id": 1756,
+      "speaker_string_id": 1757,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T330-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A1M3-T340-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Garek",
+      "text": "Podría decirse que nuestras vidas pasadas a veces tienen algún valor.",
+      "string_id": 1765,
+      "speaker_string_id": 1766,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T340-GAREK.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A1M3-T350-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Anya",
+      "text": "Mmm. Hablas muy seguro de estos asuntos para alguien que despertó hace tan poco.",
+      "string_id": 1769,
+      "speaker_string_id": 1770,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T350-ANYA.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A1M3-T360-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Garek",
+      "text": "Así es. ¿No dijiste que entiendo todo muy rápido?",
+      "string_id": 1771,
+      "speaker_string_id": 1772,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T360-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A1M3-T370-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Approach Quarry",
+      "speaker": "Garek",
+      "text": "Parece que los ogros fortificaron su base.",
+      "string_id": 1776,
+      "speaker_string_id": 1777,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T370-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A1M3-T380-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Approach Quarry",
+      "speaker": "Anya",
+      "text": "Tendremos que decidir. Podemos atacar de frente o buscar otra entrada.",
+      "string_id": 1779,
+      "speaker_string_id": 1780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T380-ANYA.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A1M3-T390-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Ogre Lord Dead",
+      "speaker": "Anya",
+      "text": "Con su líder eliminado, el resto de los ogros se dispersará por las colinas.",
+      "string_id": 1785,
+      "speaker_string_id": 1786,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T390-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A1M3-T400-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Ogre Lord Dead",
+      "speaker": "Garek",
+      "text": "Es bueno saber que esta cantera servirá de suministro para Bernd.",
+      "string_id": 1788,
+      "speaker_string_id": 1789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T400-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A1M3-T410-BANDITLEADER",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Bandit Leader Found",
+      "speaker": "Señor de los bandidos",
+      "text": "¡Los no-muertos! ¡Destrúyanlos y llévense todo!",
+      "string_id": 1803,
+      "speaker_string_id": 1804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T410-BANDITLEADER.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A1M3-T420-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Bandit Leader Dead",
+      "speaker": "Garek",
+      "text": "Creo que esas son las partes que nos pidió Keever.",
+      "string_id": 1806,
+      "speaker_string_id": 1807,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T420-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A1M3-T780-ANYA",
+      "scene": "Cinematics.Cinematic 04 Ghoul Found.Cinematic 04 Ghoul Found",
+      "speaker": "Anya",
+      "text": "Parece que ese necrófago está pescando. Jamás había visto algo así.",
+      "string_id": 1929,
+      "speaker_string_id": 1930,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T780-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A1M3-T790-GAREK",
+      "scene": "Cinematics.Cinematic 04 Ghoul Found.Cinematic 04 Ghoul Found",
+      "speaker": "Garek",
+      "text": "¡Tras ellos, deprisa!",
+      "string_id": 1932,
+      "speaker_string_id": 1933,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T790-GAREK.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A1M3-T791-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Ghoul Captured",
+      "speaker": "Anya",
+      "text": "Y con eso queda resuelto lo de los materiales. Llevémosle el necrófago a Keever.",
+      "string_id": 1793,
+      "speaker_string_id": 1794,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T791-ANYA.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A1M3-T792-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Ghoul Faints",
+      "speaker": "Garek",
+      "text": "Parece que el necrófago sobrevivió a la pelea. Debemos llevárselo a Keever.",
+      "string_id": 1798,
+      "speaker_string_id": 1799,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T792-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "OgreYesAttack1",
+      "scene": "Map Events.Main Quest 02 Secure Quarry.Ogre Taunt",
+      "speaker": "Gokrus",
+      "text": "¡Yo aplastarte!",
+      "string_id": 2184,
+      "speaker_string_id": 1567,
+      "sound": "Units/Creeps/Ogre/OgreYesAttack1.flac"
+    }
+  ]
+}

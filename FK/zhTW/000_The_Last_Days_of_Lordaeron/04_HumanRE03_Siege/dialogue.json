@@ -1,0 +1,770 @@
+{
+  "map": "HumanRE03",
+  "title": "Siege",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE03-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "在烏瑟帶著援軍趕來前，我們得為安多哈爾爭取時間。出發吧。",
+      "string_id": 2773,
+      "speaker_string_id": 2774,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE03-M020-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "伊拉斯特",
+      "text": "謝謝你，陌生人。你是從主城來的，對吧？阿薩斯真的放火燒了主城嗎？",
+      "string_id": 2782,
+      "speaker_string_id": 2783,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-010-ILASTAR.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE03-M020-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "是。烏瑟大人命令我們在安多哈爾會合。他正在集結部隊，準備阻止攻城。",
+      "string_id": 2785,
+      "speaker_string_id": 2786,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-020-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE03-M020-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "伊拉斯特",
+      "text": "他恐怕已經來不及了。邪教徒正準備對城市大舉進攻。",
+      "string_id": 2794,
+      "speaker_string_id": 2795,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-030-ILASTAR.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE03-M020-040-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "伊拉斯特",
+      "text": "我原本計畫集結部隊發動先發制人的打擊，但我們得先建立基地。",
+      "string_id": 2803,
+      "speaker_string_id": 2804,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-040-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE03-M020-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "這點我們可以幫忙。只要我們能牽制邪教徒，就能把他們的攻勢拖延到烏瑟抵達為止。",
+      "string_id": 2812,
+      "speaker_string_id": 2813,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE03-M020-060-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "伊拉斯特",
+      "text": "很好。伊拉斯特‧風歌，隨時聽候差遣。",
+      "string_id": 2821,
+      "speaker_string_id": 2822,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-060-ILASTAR.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE03-M020-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "加瑞克‧班達倫，為你效勞。讓我們去給那些邪教徒一點顏色瞧瞧。",
+      "string_id": 2830,
+      "speaker_string_id": 2831,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-070-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE03-M030-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "烏瑟大人！這些就是所有的援軍了嗎？",
+      "string_id": 2894,
+      "speaker_string_id": 2895,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-010-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE03-M030-020-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "烏瑟",
+      "text": "恐怕是的。隨著白銀之手解散，我們聖騎士分散在羅德隆各處，兵力極其有限。",
+      "string_id": 2844,
+      "speaker_string_id": 2845,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-020-UTHER.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE03-M030-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "伊拉斯特",
+      "text": "不…那是警鐘！代表邪教徒已經攻破城門了！",
+      "string_id": 2914,
+      "speaker_string_id": 2915,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-030-ILASTAR.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE03-M030-040-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "烏瑟",
+      "text": "那麼，真正的戰鬥開始了。",
+      "string_id": 2863,
+      "speaker_string_id": 2864,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-040-UTHER.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE03-M030-050-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "烏瑟",
+      "text": "帶領你的部隊進城，我和聖騎士們會在城牆外側包抄那些邪教徒。",
+      "string_id": 2872,
+      "speaker_string_id": 2873,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-050-UTHER.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE03-M030-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "遵命，長官！我們絕不會讓安多哈爾毀於天譴軍團之手！",
+      "string_id": 2881,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-060-GAREK.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE03-M040-010-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊斯‧霜語",
+      "text": "不！你沒辦法阻止我拿到獎勵！",
+      "string_id": 2983,
+      "speaker_string_id": 2984,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-010-RAS.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE03-M040-020-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "萊斯‧霜語",
+      "text": "在斯坦索姆裡，我會獲得永恆的力量！下次見面的時候，你們全都死定了！",
+      "string_id": 2986,
+      "speaker_string_id": 2985,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-020-RAS.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE03-M040-030-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "烏瑟",
+      "text": "安多哈爾安全了，不過要重建這裡還需要一段時間。",
+      "string_id": 2892,
+      "speaker_string_id": 2893,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-030-UTHER.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE03-M040-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "斯坦索姆曾經是瑞文戴爾的權力核心。如果邪教徒聚集在那裡，他也一定會在場。",
+      "string_id": 2903,
+      "speaker_string_id": 2904,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-040-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE03-M040-050-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "烏瑟",
+      "text": "我知道他殺了你的隊長。但聖光召喚我們去保護那些活著的人。班達倫副官，相信聖光的抉擇。",
+      "string_id": 2912,
+      "speaker_string_id": 2913,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-050-UTHER.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE03-M040-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "我無法就這樣縮在城牆後面，眼睜睜看著瑞文戴爾逃過懲罰。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我無法就這樣縮在城牆後面，眼睜睜看著瑞文戴爾逃過懲罰。[/\"Angry\"]",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-060-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE03-M040-070-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "伊拉斯特",
+      "text": "我也一樣。聖光同樣渴望懲戒，我們必須讓這份制裁降臨在邪教身上。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我也一樣。聖光同樣渴望懲戒，我們必須讓這份制裁降臨在邪教身上。[/\"Angry\"]",
+      "string_id": 2932,
+      "speaker_string_id": 2933,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-070-ILASTAR.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE03-M040-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "那就這麼辦吧。在烏瑟大人阻止之前，我們即刻前往斯坦索姆。",
+      "string_id": 2963,
+      "speaker_string_id": 2964,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-080-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE03-T010-ILASTAR",
+      "scene": "User Base Start.User Base Start Fight Q",
+      "speaker": "伊拉斯特",
+      "text": "這些邪惡的教徒休想得逞！",
+      "string_id": 2515,
+      "speaker_string_id": 2516,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T010-ILASTAR.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE03-T020-GAREK",
+      "scene": "User Base Start.User Base Start Fight Q",
+      "speaker": "加瑞克",
+      "text": "他們遭到攻擊！前進！",
+      "string_id": 2511,
+      "speaker_string_id": 2512,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T020-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE03-T030-ILASTAR",
+      "scene": "User Base Start.User Base Start Paesant Rescue Q",
+      "speaker": "伊拉斯特",
+      "text": "要讓這裡成為像樣的基地，就得先修復伐木場。",
+      "string_id": 2522,
+      "speaker_string_id": 2523,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T030-ILASTAR.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE03-T040-GAREK",
+      "scene": "Point of Interest.Point of Interest Start Q",
+      "speaker": "加瑞克",
+      "text": "這是好的開始，但要編組軍隊的話還需要更多資源。",
+      "string_id": 2685,
+      "speaker_string_id": 2686,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T040-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE03-T050-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Start Q",
+      "speaker": "伊拉斯特",
+      "text": "附近還有其他聚落。我們應該一併收復。",
+      "string_id": 2693,
+      "speaker_string_id": 2694,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T050-ILASTAR.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE03-T060-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Approach Q",
+      "speaker": "伊拉斯特",
+      "text": "這是外圍的其中一個聚落。善良的人們曾經以此為家。",
+      "string_id": 2526,
+      "speaker_string_id": 2527,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T060-ILASTAR.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE03-T070-GAREK",
+      "scene": "Point of Interest.Point of Interest Approach Q",
+      "speaker": "加瑞克",
+      "text": "我們得從基地調派工人過來開始修復。",
+      "string_id": 2530,
+      "speaker_string_id": 2531,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T070-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE03-T080-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Blacksmith Retrieved Q",
+      "speaker": "伊拉斯特",
+      "text": "至少邪教徒沒有屠殺這些馬匹。",
+      "string_id": 2534,
+      "speaker_string_id": 2535,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T080-ILASTAR.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE03-T090-GAREK",
+      "scene": "Point of Interest.Point of Interest Blacksmith Retrieved Q",
+      "speaker": "加瑞克",
+      "text": "我們的騎士將騎上牠們奔向戰場，為逝者報仇雪恨。",
+      "string_id": 2539,
+      "speaker_string_id": 2540,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T090-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE03-T100-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Sanctuary Retrieved Q",
+      "speaker": "伊拉斯特",
+      "text": "這裡曾經是祈禱之地！這些異教徒恬不知恥地玷污神聖！",
+      "string_id": 2553,
+      "speaker_string_id": 2554,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T100-ILASTAR.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE03-T110-GAREK",
+      "scene": "Point of Interest.Point of Interest Sanctuary Retrieved Q",
+      "speaker": "加瑞克",
+      "text": "你的牧師同伴會懲戒他們作為反擊。",
+      "string_id": 2559,
+      "speaker_string_id": 2560,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T110-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE03-T120-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Fair Retrieved Q",
+      "speaker": "伊拉斯特",
+      "text": "居住在這裡的家庭原本只想在城外過平靜的生活。",
+      "string_id": 2545,
+      "speaker_string_id": 2546,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T120-ILASTAR.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE03-T130-GAREK",
+      "scene": "Point of Interest.Point of Interest Fair Retrieved Q",
+      "speaker": "加瑞克",
+      "text": "我們會善用他們的補給，並將兇手繩之以法。",
+      "string_id": 2549,
+      "speaker_string_id": 2550,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T130-GAREK.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE03-T140-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Gunshop Retrieved Q",
+      "speaker": "伊拉斯特",
+      "text": "我認識這家槍械店的主人。他們以自己的工藝為榮。",
+      "string_id": 2561,
+      "speaker_string_id": 2562,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T140-ILASTAR.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE03-T150-GAREK",
+      "scene": "Point of Interest.Point of Interest Gunshop Retrieved Q",
+      "speaker": "加瑞克",
+      "text": "他們的成品能武裝我們的步槍兵，把鉛彈打進邪教徒的身體。",
+      "string_id": 2568,
+      "speaker_string_id": 2569,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T150-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE03-T160-GAREK",
+      "scene": "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q",
+      "speaker": "加瑞克",
+      "text": "邪教徒的不死族手下似乎無窮無盡。",
+      "string_id": 2574,
+      "speaker_string_id": 2575,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T160-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE03-T170-ILASTAR",
+      "scene": "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q",
+      "speaker": "伊拉斯特",
+      "text": "必須摧毀他們的瘟疫大鍋，否則那些惡臭食屍鬼只會源源不絕地湧向我們。",
+      "string_id": 2580,
+      "speaker_string_id": 2581,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T170-ILASTAR.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE03-T180-ILASTAR",
+      "scene": "Plague Cauldrons.Plague Cauldrons Countryiside Defeated Q",
+      "speaker": "伊拉斯特",
+      "text": "這應該能爭取一點喘息的空間。",
+      "string_id": 2586,
+      "speaker_string_id": 2587,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T180-ILASTAR.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE03-T190-RAS",
+      "scene": "Ras.Ras Countryside Spawn Dialogue Q",
+      "speaker": "萊斯‧霜語",
+      "text": "看來我們有不速之客。徹底消滅他們。",
+      "string_id": 2592,
+      "speaker_string_id": 2593,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T190-RAS.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE03-T200-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 01 Q",
+      "speaker": "萊斯‧霜語",
+      "text": "我的主人下令毀滅這座城市！我會執行到底！",
+      "string_id": 2635,
+      "speaker_string_id": 2636,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T200-RAS.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE03-T210-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 02 Q",
+      "speaker": "萊斯‧霜語",
+      "text": "只有傻子才敢與詛咒神教為敵。",
+      "string_id": 2641,
+      "speaker_string_id": 2642,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T210-RAS.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE03-T220-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 03 Q",
+      "speaker": "萊斯‧霜語",
+      "text": "安多哈爾將會像羅德隆的其他地方一樣化為灰燼。你阻止不了我們！",
+      "string_id": 2647,
+      "speaker_string_id": 2648,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T220-RAS.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE03-T230-RAS",
+      "scene": "Ras Bossfight.Ras Bossfight Half Life Q",
+      "speaker": "萊斯‧霜語",
+      "text": "何苦無謂掙扎？天譴軍團才是至高無上的主宰。",
+      "string_id": 2670,
+      "speaker_string_id": 2671,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T230-RAS.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE03-T240-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "萊斯‧霜語",
+      "text": "頑固的蠢貨！我會帶著更強的大軍歸來！",
+      "string_id": 2705,
+      "speaker_string_id": 2706,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T240-RAS.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE03-T250-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "萊斯‧霜語",
+      "text": "你會為你的狂妄付出慘痛代價！這事還沒了結！",
+      "string_id": 2627,
+      "speaker_string_id": 2628,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T250-RAS.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE03-T260-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "萊斯‧霜語",
+      "text": "我對付過比你們更棘手的惡徒！勝利終將屬於我！",
+      "string_id": 2620,
+      "speaker_string_id": 2621,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T260-RAS.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE03-T270-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "萊斯‧霜語",
+      "text": "這不過是小小阻礙！我還有大業尚未完成！",
+      "string_id": 2695,
+      "speaker_string_id": 2696,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T270-RAS.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE03-T280-GAREK",
+      "scene": "Point of Interest.Point of Interest Enter Andorhal Start Q",
+      "speaker": "加瑞克",
+      "text": "森林已經掃蕩完成。現在去阻止攻擊。",
+      "string_id": 2713,
+      "speaker_string_id": 2737,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T280-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE03-T290-ILASTAR",
+      "scene": "Regional Defenders.Regional Defenders Start Q",
+      "speaker": "伊拉斯特",
+      "text": "如果能重奪守衛塔，就可以把這些邪惡的教徒趕出安多哈爾！",
+      "string_id": 3025,
+      "speaker_string_id": 3026,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T290-ILASTAR.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE03-T300-GAREK",
+      "scene": "Regional Defenders.Regional Defenders Start Q",
+      "speaker": "加瑞克",
+      "text": "民兵在街上戰鬥！我們去助一臂之力！",
+      "string_id": 3028,
+      "speaker_string_id": 3027,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T300-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE03-T310-ILASTAR",
+      "scene": "Villagers.Villagers Discover Q",
+      "speaker": "伊拉斯特",
+      "text": "人民需要我們的協助！",
+      "string_id": 3029,
+      "speaker_string_id": 3030,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T310-ILASTAR.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE03-T320-GAREK",
+      "scene": "Villagers.Villagers Discover Q",
+      "speaker": "加瑞克",
+      "text": "盡可能救出所有人！",
+      "string_id": 3031,
+      "speaker_string_id": 3032,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T320-GAREK.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE03-T330-ILASTAR",
+      "scene": "Optional Quest - Destroy The Plague Cauldrons.Optional Quest PCauldrons Discover Event Q",
+      "speaker": "伊拉斯特",
+      "text": "又是瘟疫大鍋。我們應該在城市淪陷前徹底摧毀這些東西！",
+      "string_id": 2674,
+      "speaker_string_id": 2681,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T330-ILASTAR.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE03-T340-GAREK",
+      "scene": "Optional Quest - Reinforcements.Optional Quest Reinforce Discover Event Q",
+      "speaker": "加瑞克",
+      "text": "如果我們為烏瑟的聖騎士開出一條路，他們就能在城內的街道上與我們會合。",
+      "string_id": 2658,
+      "speaker_string_id": 2659,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T340-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE03-T350-RAS",
+      "scene": "Cinematic 04 - Ras Frostwhisper.Cinematic 04 Play Q",
+      "speaker": "萊斯‧霜語",
+      "text": "你太礙事了。這次我要永絕後患！",
+      "string_id": 2664,
+      "speaker_string_id": 2665,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T350-RAS.ogg"
+    },
+    {
+      "n": 58,
+      "id": "FootmanWhat3",
+      "scene": "Cages.Cages Footman Rescue 01 Q",
+      "speaker": "步兵",
+      "text": "是，大人？",
+      "string_id": 2761,
+      "speaker_string_id": 2762,
+      "sound": "Units/Human/Footman/FootmanWhat3.flac"
+    },
+    {
+      "n": 59,
+      "id": "RiflemanWhat3",
+      "scene": "Cages.Cages Rifleman Rescue 01 Q",
+      "speaker": "步槍兵",
+      "text": "射手前來報到！",
+      "string_id": 2751,
+      "speaker_string_id": 2752,
+      "sound": "Units/Human/Rifleman/RiflemanWhat3.flac"
+    },
+    {
+      "n": 60,
+      "id": "RiflemanWhat1",
+      "scene": "Cages.Cages Rifleman Rescue 02 Q",
+      "speaker": "步槍兵",
+      "text": "遵命，長官！",
+      "string_id": 2753,
+      "speaker_string_id": 2754,
+      "sound": "Units/Human/Rifleman/RiflemanWhat1.flac"
+    },
+    {
+      "n": 61,
+      "id": "FootmanWarcry1",
+      "scene": "Cages.Cages Footman Rescue 02 Q",
+      "speaker": "步兵",
+      "text": "為了羅德隆！",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 62,
+      "id": "FootmanYesAttack3",
+      "scene": "Cages.Cages Footman Rescue 03 Q",
+      "speaker": "步兵",
+      "text": "拿起武器！",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 63,
+      "id": "PriestWhat3",
+      "scene": "Cages.Cages Priest Rescue 01 Q",
+      "speaker": "牧師",
+      "text": "需要幫忙嗎？",
+      "string_id": 2765,
+      "speaker_string_id": 2766,
+      "sound": "Units/Human/Priest/PriestWhat3.flac"
+    },
+    {
+      "n": 64,
+      "id": "PriestYes1",
+      "scene": "Cages.Cages Priest Rescue 02 Q",
+      "speaker": "牧師",
+      "text": "我聽候差遣。",
+      "string_id": 2759,
+      "speaker_string_id": 2760,
+      "sound": "Units/Human/Priest/PriestYes1.flac"
+    },
+    {
+      "n": 65,
+      "id": "PeasantWhat3",
+      "scene": "Cages.Cages Peasant Rescue Q",
+      "speaker": "農民",
+      "text": "還有工作要做？",
+      "string_id": 2767,
+      "speaker_string_id": 2768,
+      "sound": "Units/Human/Peasant/PeasantWhat3.flac"
+    },
+    {
+      "n": 66,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Gunshop Approach Q",
+      "speaker": "農民",
+      "text": "救命！救命！",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 67,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Fair Approach Q",
+      "speaker": "農民",
+      "text": "救命！救命！",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 68,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Blacksmith Approach Q",
+      "speaker": "農民",
+      "text": "救命！救命！",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 69,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Sanctuary Approach Q",
+      "speaker": "農民",
+      "text": "救命！救命！",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 70,
+      "id": "BanditWarcry1",
+      "scene": "Encounters.Encounters Assassins Q",
+      "speaker": "刺客",
+      "text": "突襲！",
+      "string_id": 2982,
+      "speaker_string_id": 2981,
+      "sound": "Units/Creeps/Bandit/BanditWarcry1.flac"
+    },
+    {
+      "n": 71,
+      "id": "FootmanWarcry1",
+      "scene": "Regional Defenders.Regional Defenders Group 01 Defeated Cult Q",
+      "speaker": "步兵",
+      "text": "為了羅德隆！",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 72,
+      "id": "PeasantYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 02 Defeated Cult Q",
+      "speaker": "民兵",
+      "text": "非得找我嗎？",
+      "string_id": 2980,
+      "speaker_string_id": 2979,
+      "sound": "Units/Human/Peasant/PeasantYesAttack3.flac"
+    },
+    {
+      "n": 73,
+      "id": "FootmanYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 03 Defeated Cult Q",
+      "speaker": "步兵",
+      "text": "拿起武器！",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 74,
+      "id": "PeasantYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 04 Defeated Cult Q",
+      "speaker": "民兵",
+      "text": "非得找我嗎？",
+      "string_id": 2980,
+      "speaker_string_id": 2979,
+      "sound": "Units/Human/Peasant/PeasantYesAttack3.flac"
+    },
+    {
+      "n": 75,
+      "id": "FootmanWarcry1",
+      "scene": "Regional Defenders.Regional Defenders Group 05 Defeated Cult Q",
+      "speaker": "步兵",
+      "text": "為了羅德隆！",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 76,
+      "id": "FootmanYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 06 Defeated Cult Q",
+      "speaker": "步兵",
+      "text": "拿起武器！",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    }
+  ]
+}

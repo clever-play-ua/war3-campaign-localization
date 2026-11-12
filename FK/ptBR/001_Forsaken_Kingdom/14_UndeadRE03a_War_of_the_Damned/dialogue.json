@@ -1,0 +1,521 @@
+{
+  "map": "UndeadRE03a",
+  "title": "War of the Damned",
+  "locale": "ptBR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3M1-C010-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Anya! Capitão Bandarion! Por aqui!",
+      "string_id": 1694,
+      "speaker_string_id": 1695,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3M1-C010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Lady Sylvana, que diabo é aquilo?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Lady Sylvana, que diabo é aquilo?[/\"Surprised\"]",
+      "string_id": 1696,
+      "speaker_string_id": 1697,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3M1-C010-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Naxxramas. Uma necrópole ancestral reconstruída como uma fortaleza voadora, lar do Arquilich Kel'Thuzad.",
+      "string_id": 1698,
+      "speaker_string_id": 1699,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3M1-C010-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Ela conta com imenso poder destrutivo, mas o objetivo do Flagelo não era devastar as ruínas da cidade.",
+      "string_id": 1700,
+      "speaker_string_id": 1701,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3M1-C010-050-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Aquela explosão abriu a superfície, criando uma entrada para a Cidade Baixa. Eles pretendem invadi-la e tomá-la dos Renegados.",
+      "string_id": 1702,
+      "speaker_string_id": 1703,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A3M1-C010-060-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Posso manter os céus limpos, mas as tropas terrestres deles estão avançando. Nossas defesas exteriores não durarão por muito tempo.",
+      "string_id": 1704,
+      "speaker_string_id": 1705,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-060-SYLVANAS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A3M1-C010-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Podemos reforçá-las com quaisquer tropas que conseguirmos reunir.",
+      "string_id": 1706,
+      "speaker_string_id": 1707,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-070-GAREK.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A3M1-C010-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "O Flagelo não alcançará a Cidade Baixa, Dama Sombria. Eu prometo.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-080-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A3M1-C010-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Ótimo, agora vão. O destino dos Renegados está em suas mãos.",
+      "string_id": 1710,
+      "speaker_string_id": 1711,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A3M1-C020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Sua chegada foi pontual, Leonid. E inesperada.",
+      "string_id": 1712,
+      "speaker_string_id": 1713,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A3M1-C020-020-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Supomos as intenções do Flagelo quando vimos Naxxramas avançando em direção à Cidade Baixa. Não podemos permitir que continuem no ar.",
+      "string_id": 1714,
+      "speaker_string_id": 1715,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-020-LEONID.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A3M1-C020-030-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "O Flagelo já usou seus dirigíveis para mobilizar tropas. Se conseguirmos tomar conta de um deles, poderíamos usá-lo para chegar à necrópole.",
+      "string_id": 1716,
+      "speaker_string_id": 1717,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-030-LEONID.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A3M1-C020-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Um dirigível só pode transportar um pequeno número por vez. Como destruiremos Naxxramas quando chegarmos lá?",
+      "string_id": 1718,
+      "speaker_string_id": 1719,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-040-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A3M1-C020-050-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Talvez eu possa ajudar com isso.",
+      "string_id": 1720,
+      "speaker_string_id": 1721,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-050-BERND.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A3M1-C020-060-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Esses são os explosivos que forneço às minhas equipes de demolição.",
+      "string_id": 1722,
+      "speaker_string_id": 1723,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-060-BERND.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A3M1-C020-070-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Se os detonarem em locais específicos da estrutura, aquela coisa horrenda vai colapsar por inteiro.",
+      "string_id": 1724,
+      "speaker_string_id": 1725,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-070-BERND.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A3M1-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Parece que você nos salvou, amigo.",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]Parece que você nos salvou, amigo.[/\"Happy\"]",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A3M1-C020-090-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Só estou retribuindo o favor.",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]Só estou retribuindo o favor.[/\"Happy\"]",
+      "string_id": 1728,
+      "speaker_string_id": 1729,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-090-BERND.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A3M1-C020-100-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Então nosso plano está claro. Garek, confio a destruição de Naxxramas a você.",
+      "string_id": 1730,
+      "speaker_string_id": 1731,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-100-SYLVANAS.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A3M1-C020-110-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "O restante da nossa improvável aliança defenderá a Cidade Baixa até que você retorne.",
+      "string_id": 1732,
+      "speaker_string_id": 1733,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-110-SYLVANAS.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A3M1-C020-120-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Conte conosco, Dama Sombria.",
+      "string_id": 1734,
+      "speaker_string_id": 1735,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-120-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A3M1-T010-SYLVANAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold GameplayStart Q",
+      "speaker": "Sylvana",
+      "text": "Reúna qualquer tropa que puder. Talvez você encontre outros dos nossos no campo de batalha precisando de sua ajuda.",
+      "string_id": 1753,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T010-SYLVANAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A3M1-T020-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q",
+      "speaker": "Anya",
+      "text": "Impedir a invasão terrestre não servirá de nada se Naxxramas nos atacar novamente.",
+      "string_id": 1754,
+      "speaker_string_id": 1737,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T020-ANYA.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A3M1-T030-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q",
+      "speaker": "Garek",
+      "text": "Então teremos que encontrar uma maneira de derrubá-la.",
+      "string_id": 1755,
+      "speaker_string_id": 1738,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T030-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A3M1-T040-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q",
+      "speaker": "Necroguarda",
+      "text": "Capitão Bandarion! Garantimos posições nas outras duas pontes, mas não durarão muito tempo!",
+      "string_id": 1758,
+      "speaker_string_id": 1757,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T040-DEATHGUARD.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A3M1-T050-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q",
+      "speaker": "Garek",
+      "text": "Mobilizaremos mais tropas conforme necessário. Aguentem firme até não terem outra opção exceto recuar!",
+      "string_id": 1756,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T050-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A3M1-T060-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 01 Rescue Q",
+      "speaker": "Necroguarda",
+      "text": "Que bom que se juntou à luta, Capitão Bandarion!",
+      "string_id": 1785,
+      "speaker_string_id": 1782,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T060-DEATHGUARD.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A3M1-T070-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 02 Rescue Q",
+      "speaker": "Necroguarda",
+      "text": "Esses vermes do Flagelo se arrependerão de atacar nosso lar!",
+      "string_id": 1786,
+      "speaker_string_id": 1783,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T070-DEATHGUARD.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A3M1-T080-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 04 Rescue Q",
+      "speaker": "Necroguarda",
+      "text": "Heh. É preciso mais do que isso para derrotar os Renegados!",
+      "string_id": 1787,
+      "speaker_string_id": 1784,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T080-DEATHGUARD.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A3M1-T090-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold MeatWagons Q NOT USED",
+      "speaker": "Garek",
+      "text": "Essas carroças carniceiras estão no terreno elevado. Nossos trabalhadores podem consertá-las e reforçar nossas defesas.",
+      "string_id": 1760,
+      "speaker_string_id": 1759,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T090-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A3M1-T100-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost1 Q",
+      "speaker": "Varimatras",
+      "text": "A ponte está perdida! Recuem enquanto eu dou cobertura!",
+      "string_id": 1761,
+      "speaker_string_id": 1740,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T100-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A3M1-T110-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost2 Q",
+      "speaker": "Varimatras",
+      "text": "Não podemos defender essa posição! Voltem para a Cidade Baixa!",
+      "string_id": 1762,
+      "speaker_string_id": 1741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T110-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A3M1-T120-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost3 Q",
+      "speaker": "Varimatras",
+      "text": "Eles são muitos! Recuem enquanto ainda podem!",
+      "string_id": 1763,
+      "speaker_string_id": 1742,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T120-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A3M1-T130-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q",
+      "speaker": "Garek",
+      "text": "Não termina nunca?",
+      "string_id": 1764,
+      "speaker_string_id": 1743,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T130-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A3M1-T140-SYLVANAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q",
+      "speaker": "Sylvana",
+      "text": "Defendam suas posições! Se hesitarmos aqui, os Renegados estarão perdidos!",
+      "string_id": 1765,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T140-SYLVANAS.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A3M1-T150-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q",
+      "speaker": "Leonid",
+      "text": "Cavaleiros da Aurora Argêntea! Ataquem esses pagãos do Flagelo!",
+      "string_id": 1768,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T150-LEONID.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A3M1-T160-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q",
+      "speaker": "Garek",
+      "text": "É Leonid! A Aurora Argêntea se juntou à batalha!",
+      "string_id": 1766,
+      "speaker_string_id": 1745,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T160-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A3M1-T170-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold Completed Q",
+      "speaker": "Garek",
+      "text": "Defendemos as ruínas! Reagrupem-se na entrada da Cidade Baixa!",
+      "string_id": 1769,
+      "speaker_string_id": 1746,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T170-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A3M1-T180-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Discover Q",
+      "speaker": "Leonid",
+      "text": "Me juntarei a vocês no ataque à Naxxramas. Talvez eu saiba onde os explosivos causarão mais danos.",
+      "string_id": 1770,
+      "speaker_string_id": 1771,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T180-LEONID.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A3M1-T190-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Garek",
+      "text": "Leonid, como você sabe onde posicionar os explosivos?",
+      "string_id": 1774,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T190-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A3M1-T200-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Leonid",
+      "text": "Eu já andei pelos salões de Naxxramas antes... como parte do Flagelo. Ainda me lembro de tudo que vi lá dentro.",
+      "string_id": 1772,
+      "speaker_string_id": 1773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T200-LEONID.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A3M1-T210-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Anya",
+      "text": "Você estava em Stratholme, então. Foi para lá que ela foi levada depois de ser destruída nos ermos congelados de Nortúndria.",
+      "string_id": 1775,
+      "speaker_string_id": 1748,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T210-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A3M1-T220-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Garek",
+      "text": "Stratholme... por que eu...",
+      "string_id": 1776,
+      "speaker_string_id": 1749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T220-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A3M1-T230-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Garek",
+      "text": "Não. Isso não é importante agora. Tudo que importa é nossa missão.",
+      "string_id": 1777,
+      "speaker_string_id": 1750,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T230-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A3M1-T240-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky GateEnemies Q",
+      "speaker": "Garek",
+      "text": "Precisamos alcançar o dirigível do Flagelo logo, ou seremos derrotados!",
+      "string_id": 1778,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T240-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A3M1-T250-NECROMANCERMORKATH",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update1 Q",
+      "speaker": "Necromante Morkath",
+      "text": "Intrusos! Traidores como vocês se curvarão diante do Flagelo!",
+      "string_id": 1779,
+      "speaker_string_id": 1780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T250-NECROMANCERMORKATH.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A3M1-T260-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update2 Q",
+      "speaker": "Garek",
+      "text": "Depressa, para o dirigível! Antes que mandem reforços!",
+      "string_id": 1781,
+      "speaker_string_id": 1752,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T260-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "DeathKnightWarcry1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold DeathKnightAttacked Q",
+      "speaker": "Cavaleiro da Morte",
+      "text": "Que o terror domine!",
+      "string_id": 1402,
+      "speaker_string_id": 1403,
+      "sound": "Units/Undead/HeroDeathKnight/DeathKnightWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "HeroLichYesAttack1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold LichAttacked Q",
+      "speaker": "Lich",
+      "text": "Entreguem-se ao fim!",
+      "string_id": 1404,
+      "speaker_string_id": 1405,
+      "sound": "Units/Undead/HeroLich/HeroLichYesAttack1.flac"
+    },
+    {
+      "n": 50,
+      "id": "NerubianCryptLordPissed1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold CryptLordAttacked Q",
+      "speaker": "Senhor da Cripta",
+      "text": "O Flagelo devorará a todos!",
+      "string_id": 1621,
+      "speaker_string_id": 1622,
+      "sound": "Units/Undead/HeroCryptLord/NerubianCryptLordPissed1.flac"
+    },
+    {
+      "n": 51,
+      "id": "AbominationWhat1",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 03 Rescue Abomination Q",
+      "speaker": "Abominação",
+      "text": "E agora?",
+      "string_id": 1286,
+      "speaker_string_id": 1287,
+      "sound": "Units/Undead/Abomination/AbominationWhat1.flac"
+    }
+  ]
+}

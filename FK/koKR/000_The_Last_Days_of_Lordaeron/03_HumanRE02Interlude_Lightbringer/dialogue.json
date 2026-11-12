@@ -1,0 +1,100 @@
+{
+  "map": "HumanRE02Interlude",
+  "title": "Lightbringer",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02I-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "우서 경! 아서스 왕자와 만나셨습니까?",
+      "string_id": 61,
+      "speaker_string_id": 62,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02I-M010-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "우서",
+      "text": "아닐세. 테레나스의 유해를 안치했을 때쯤 아서스는 이미 수도를 떠났어.",
+      "string_id": 58,
+      "speaker_string_id": 59,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-020-UTHER.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02I-M010-023-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "우서",
+      "text": "자네 상관의 모습이 보이지 않는군. 설마...",
+      "string_id": 105,
+      "speaker_string_id": 106,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-023-UTHER.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02I-M010-025-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "배신자 리븐데어에게 살해당했습니다. 랜든 대장이 아니었더라면 저도 죽었을 겁니다.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.25 easein=0.45 easeout=0.55]배신자 리븐데어에게 살해당했습니다.[/\"Angry\"] [\"Sad\" type=quad v2=0.25 v3=0.5 easein=0.55 easeout=0.45]랜든 대장이 아니었더라면 저도 죽었을 겁니다.[/\"Sad\"]",
+      "string_id": 107,
+      "speaker_string_id": 108,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-025-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02I-M010-028-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "우서",
+      "text": "자네와 슬픔을 나누겠네, 부관. 그의 희생이 헛되지 않도록 해야 하겠지.",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]자네와 슬픔을 나누겠네, 부관. 그의 희생이 헛되지 않도록 해야 하겠지.[/\"Sad\"]",
+      "string_id": 109,
+      "speaker_string_id": 110,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-028-UTHER.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02I-M010-030-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "우서",
+      "text": "불운하게도 안돌할은 교단원과 강령술사에게 둘러싸였네. 포위를 뚫을 여력이 없어.",
+      "string_id": 103,
+      "speaker_string_id": 104,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-030-UTHER.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02I-M010-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "우서",
+      "text": "하스글렌으로 생존자들을 인도해 증원군을 모으겠네. 자네는 여기 남아 내가 돌아올 때까지 교단원들을 공격하게나.",
+      "string_id": 82,
+      "speaker_string_id": 83,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-040-UTHER.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02I-M010-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "알겠습니다.",
+      "string_id": 84,
+      "speaker_string_id": 85,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02I-M010-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "우서",
+      "text": "교단에게 안돌할을 빼앗길 수는 없어. 빛이 자네의 앞길을 인도하기를.",
+      "string_id": 88,
+      "speaker_string_id": 89,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-060-UTHER.ogg"
+    }
+  ]
+}

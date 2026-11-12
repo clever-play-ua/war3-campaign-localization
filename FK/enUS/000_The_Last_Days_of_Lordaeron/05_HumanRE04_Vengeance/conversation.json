@@ -1,0 +1,1023 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Initialization.Dialogue Reference": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1031,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-010-ILASTAR.ogg",
+                "dialogueId": 1030,
+                "animationLabel": "HRE04-M010-010-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1034,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-020-GAREK.ogg",
+                "dialogueId": 1033,
+                "animationLabel": "HRE04-M010-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1037,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-030-ILASTAR.ogg",
+                "dialogueId": 1036,
+                "animationLabel": "HRE04-M010-030-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1104,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-040-GAREK.ogg",
+                "dialogueId": 1103,
+                "animationLabel": "HRE04-M010-040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1043,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-050-ILASTAR.ogg",
+                "dialogueId": 1042,
+                "animationLabel": "HRE04-M010-050-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "units\\creeps\\HumanMage\\HumanMage.mdl",
+                "speakerNameId": 1382,
+                "speakerUnitID": "n002",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T130-RAS.ogg",
+                "dialogueId": 1381,
+                "animationLabel": "HRE04-T130-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/HumanMage.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "units\\creeps\\HumanMage\\HumanMage.mdl",
+                "speakerNameId": 1418,
+                "speakerUnitID": "n002",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T140-RAS.ogg",
+                "dialogueId": 1417,
+                "animationLabel": "HRE04-T140-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/HumanMage.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units/Undead/RasFrostWhisper/RasFrostwhisper.mdl",
+                "speakerNameId": 1431,
+                "speakerUnitID": "U00Q",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T150-RAS.ogg",
+                "dialogueId": 1430,
+                "animationLabel": "HRE04-T150-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/RasFrostwhisper.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units/Undead/RasFrostWhisper/RasFrostwhisper.mdl",
+                "speakerNameId": 1449,
+                "speakerUnitID": "U00Q",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T160-RAS.ogg",
+                "dialogueId": 1448,
+                "animationLabel": "HRE04-T160-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/RasFrostwhisper.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1047,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-010-GAREK.ogg",
+                "dialogueId": 1046,
+                "animationLabel": "HRE04-M030-010-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "Units\\Human\\BaronRivendare\\BaronRivendare.mdl",
+                "speakerNameId": 1055,
+                "speakerUnitID": "Ubtr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-020-RIVENDARE.ogg",
+                "dialogueId": 1054,
+                "animationLabel": "HRE04-M030-020-RIVENDARE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/BaronRivendare.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "Units\\Human\\BaronRivendare\\BaronRivendare.mdl",
+                "speakerNameId": 1057,
+                "speakerUnitID": "Ubtr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-030-RIVENDARE.ogg",
+                "dialogueId": 1056,
+                "animationLabel": "HRE04-M030-030-RIVENDARE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/BaronRivendare.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "Units\\Human\\BaronRivendare\\BaronRivendare.mdl",
+                "speakerNameId": 1059,
+                "speakerUnitID": "Ubtr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-040-RIVENDARE.ogg",
+                "dialogueId": 1058,
+                "animationLabel": "HRE04-M030-040-RIVENDARE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/BaronRivendare.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1053,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-050-GAREK.ogg",
+                "dialogueId": 1052,
+                "animationLabel": "HRE04-M030-050-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Entrance GrainShipments Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1234,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T010-GAREK.ogg",
+                "dialogueId": 1233,
+                "animationLabel": "HRE04-T010-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Entrance InnerGate Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1236,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T020-GAREK.ogg",
+                "dialogueId": 1235,
+                "animationLabel": "HRE04-T020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Entrance HouseZombies1 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1341,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T040-ILASTAR.ogg",
+                "dialogueId": 1340,
+                "animationLabel": "HRE04-T040-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Entrance MortarTeam Rescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\MortarTeam\\MortarTeam.mdl",
+                "speakerNameId": 1217,
+                "speakerUnitID": "hmtm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T050-MORTARTEAM.ogg",
+                "dialogueId": 1216,
+                "animationLabel": "HRE04-T050-MORTARTEAM",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/MortarTeam.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Entrance CryptAttacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1176,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T100-GAREK.ogg",
+                "dialogueId": 1107,
+                "animationLabel": "HRE04-T100-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Entrance HeroesAtGate Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1451,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T110-GAREK.ogg",
+                "dialogueId": 1467,
+                "animationLabel": "HRE04-T110-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1470,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T120-ILASTAR.ogg",
+                "dialogueId": 1469,
+                "animationLabel": "HRE04-T120-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ramparts Alonsus Chapel": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1330,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T030-ILASTAR.ogg",
+                "dialogueId": 1329,
+                "animationLabel": "HRE04-T030-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ramparts AttackedBySpiritTower Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1177,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T060-ILASTAR.ogg",
+                "dialogueId": 1109,
+                "animationLabel": "HRE04-T060-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ramparts RiflemenBarricades Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Rifleman\\Rifleman.mdl",
+                "speakerNameId": 1240,
+                "speakerUnitID": "hrif",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T090-RIFLEMAN.ogg",
+                "dialogueId": 1239,
+                "animationLabel": "HRE04-T090-RIFLEMAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Rifleman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Q1": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1178,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T170-GAREK.ogg",
+                "dialogueId": 1113,
+                "animationLabel": "HRE04-T170-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Q2": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1250,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T180-ILASTAR.ogg",
+                "dialogueId": 1249,
+                "animationLabel": "HRE04-T180-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Real Ilastar Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1336,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T200-GAREK.ogg",
+                "dialogueId": 1335,
+                "animationLabel": "HRE04-T200-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Real Garek Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1336,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T200-GAREK.ogg",
+                "dialogueId": 1335,
+                "animationLabel": "HRE04-T200-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved1 Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 1452,
+                "speakerUnitID": "nvil",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T240-CIVILIANM.ogg",
+                "dialogueId": 1471,
+                "animationLabel": "HRE04-T240-CIVILIANM",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved2 Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 1453,
+                "speakerUnitID": "nvlw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T270-CIVILIANF.ogg",
+                "dialogueId": 1472,
+                "animationLabel": "HRE04-T270-CIVILIANF",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved3 Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 1454,
+                "speakerUnitID": "nvlw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T290-CIVILIANF.ogg",
+                "dialogueId": 1473,
+                "animationLabel": "HRE04-T290-CIVILIANF",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage ZombieHorde Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1252,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T430-ILASTAR.ogg",
+                "dialogueId": 1251,
+                "animationLabel": "HRE04-T430-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage ZombieHordeAttack Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1181,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T440-GAREK.ogg",
+                "dialogueId": 1117,
+                "animationLabel": "HRE04-T440-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderGate Locked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1182,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T450-GAREK.ogg",
+                "dialogueId": 1119,
+                "animationLabel": "HRE04-T450-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderGate Enter Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1183,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T460-GAREK.ogg",
+                "dialogueId": 1121,
+                "animationLabel": "HRE04-T460-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage ThereWasADemon Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1455,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-T470-CIVILIANF.ogg",
+                "dialogueId": 1474,
+                "animationLabel": "HRE04-T470-CIVILIANF",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderSquareProper Gate Enter Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1184,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T500-GAREK.ogg",
+                "dialogueId": 1122,
+                "animationLabel": "HRE04-T500-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1185,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T510-ILASTAR.ogg",
+                "dialogueId": 1124,
+                "animationLabel": "HRE04-T510-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage TrapGate Enter Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1186,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T530-GAREK.ogg",
+                "dialogueId": 1125,
+                "animationLabel": "HRE04-T530-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Passage TrapGate LeverKill Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1187,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T540-GAREK.ogg",
+                "dialogueId": 1126,
+                "animationLabel": "HRE04-T540-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Upper KnightsRescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Knight\\Knight.mdl",
+                "speakerNameId": 1129,
+                "speakerUnitID": "hkni",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T520-KNIGHT.ogg",
+                "dialogueId": 1128,
+                "animationLabel": "HRE04-T520-KNIGHT",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Knight.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileMeet Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 1456,
+                "speakerUnitID": "nvil",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T550-CIVILIAN.ogg",
+                "dialogueId": 1475,
+                "animationLabel": "HRE04-T550-CIVILIAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileConvert Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 1457,
+                "speakerUnitID": "nvil",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T560-CIVILIAN.ogg",
+                "dialogueId": 1476,
+                "animationLabel": "HRE04-T560-CIVILIAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileSlain Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1458,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T570-GAREK.ogg",
+                "dialogueId": 1477,
+                "animationLabel": "HRE04-T570-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterGate Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1188,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T600-ILASTAR.ogg",
+                "dialogueId": 1130,
+                "animationLabel": "HRE04-T600-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1189,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T610-GAREK.ogg",
+                "dialogueId": 1131,
+                "animationLabel": "HRE04-T610-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1190,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T620-ILASTAR.ogg",
+                "dialogueId": 1132,
+                "animationLabel": "HRE04-T620-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1191,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T630-GAREK.ogg",
+                "dialogueId": 1134,
+                "animationLabel": "HRE04-T630-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1208,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T640-GAREK.ogg",
+                "dialogueId": 1136,
+                "animationLabel": "HRE04-T640-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Captured 01 Rescue Rack Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 1459,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanWarcry1.ogg",
+                "dialogueId": 1478,
+                "animationLabel": "FootmanWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.The Baron.Transmission Captured 04 Rescue Rack Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 1258,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanYesAttack3.flac",
+                "dialogueId": 1257,
+                "animationLabel": "FootmanYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedSorceress Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Sorceress\\Sorceress_V1.mdl",
+                "speakerNameId": 1260,
+                "speakerUnitID": "hsor",
+                "soundFile": "Units/Human/Sorceress/SorceressYesAttack2.flac",
+                "dialogueId": 1259,
+                "animationLabel": "SorceressYesAttack2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Sorceress_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedFootman Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 1140,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanPissed4.flac",
+                "dialogueId": 1139,
+                "animationLabel": "FootmanPissed4",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedPriest Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Priest\\Priest_V1.mdl",
+                "speakerNameId": 1143,
+                "speakerUnitID": "hmpr",
+                "soundFile": "Units/Human/Priest/PriestReady1.flac",
+                "dialogueId": 1142,
+                "animationLabel": "PriestReady1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Priest_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedRifleman Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Rifleman\\Rifleman.mdl",
+                "speakerNameId": 1145,
+                "speakerUnitID": "hrif",
+                "soundFile": "Units/Human/Rifleman/RiflemanReady1.flac",
+                "dialogueId": 1144,
+                "animationLabel": "RiflemanReady1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Rifleman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedMotarTeam Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\MortarTeam\\MortarTeam.mdl",
+                "speakerNameId": 1147,
+                "speakerUnitID": "hmtm",
+                "soundFile": "Units/Human/MortarTeam/MortarTeamWhat1.flac",
+                "dialogueId": 1146,
+                "animationLabel": "MortarTeamWhat1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/MortarTeam.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Ras Attacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Undead/RasFrostWhisper/RasFrostwhisper.mdl",
+                "speakerNameId": 1266,
+                "speakerUnitID": "U00Q",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T210-RAS.ogg",
+                "dialogueId": 1265,
+                "animationLabel": "HRE04-T210-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/RasFrostwhisper.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Ras Dies Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Undead/RasFrostWhisper/RasFrostwhisper.mdl",
+                "speakerNameId": 1270,
+                "speakerUnitID": "U00Q",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T220-RAS.ogg",
+                "dialogueId": 1269,
+                "animationLabel": "HRE04-T220-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/RasFrostwhisper.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1209,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T230-GAREK.ogg",
+                "dialogueId": 1153,
+                "animationLabel": "HRE04-T230-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Lorthiras Attacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\HeroDreadLord\\HeroDreadLord.mdl",
+                "speakerNameId": 1306,
+                "speakerUnitID": "U000",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T480-LORTHIRAS.ogg",
+                "dialogueId": 1305,
+                "animationLabel": "HRE04-T480-LORTHIRAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/HeroDreadLord.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Lorthiras Dies Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\HeroDreadLord\\HeroDreadLord.mdl",
+                "speakerNameId": 1308,
+                "speakerUnitID": "U000",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T490-LORTHIRAS.ogg",
+                "dialogueId": 1307,
+                "animationLabel": "HRE04-T490-LORTHIRAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/HeroDreadLord.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Skeletons Attacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Necromancer\\Necromancer.mdl",
+                "speakerNameId": 1298,
+                "speakerUnitID": "U013",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T580-GRIMTHANE.ogg",
+                "dialogueId": 1297,
+                "animationLabel": "HRE04-T580-GRIMTHANE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Necromancer.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Skeletons Dead Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1304,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T590-GAREK.ogg",
+                "dialogueId": 1303,
+                "animationLabel": "HRE04-T590-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Rivendare Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\BaronRivendare\\BaronRivendare.mdl",
+                "speakerNameId": 1296,
+                "speakerUnitID": "Ubtr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T650-RIVENDARE.ogg",
+                "dialogueId": 1295,
+                "animationLabel": "HRE04-T650-RIVENDARE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/BaronRivendare.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Rivendare Endless Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\BaronRivendare\\BaronRivendare.mdl",
+                "speakerNameId": 1460,
+                "speakerUnitID": "Ubtr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T660-RIVENDARE.ogg",
+                "dialogueId": 1479,
+                "animationLabel": "HRE04-T660-RIVENDARE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/BaronRivendare.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Rivendare Gas Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1461,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T670-GAREK.ogg",
+                "dialogueId": 1480,
+                "animationLabel": "HRE04-T670-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1462,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T680-ILASTAR.ogg",
+                "dialogueId": 1481,
+                "animationLabel": "HRE04-T680-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Rivendare Obelisks Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\BaronRivendare\\BaronRivendare.mdl",
+                "speakerNameId": 1463,
+                "speakerUnitID": "Ubtr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T690-RIVENDARE.ogg",
+                "dialogueId": 1482,
+                "animationLabel": "HRE04-T690-RIVENDARE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/BaronRivendare.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1464,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T700-GAREK.ogg",
+                "dialogueId": 1483,
+                "animationLabel": "HRE04-T700-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Boss.Transmission Boss Rivendare Cant Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1465,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T710-ILASTAR.ogg",
+                "dialogueId": 1484,
+                "animationLabel": "HRE04-T710-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1466,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T720-GAREK.ogg",
+                "dialogueId": 1485,
+                "animationLabel": "HRE04-T720-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Plague Mushrooms.Transmission Mush Discover Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1211,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T070-ILASTAR.ogg",
+                "dialogueId": 1163,
+                "animationLabel": "HRE04-T070-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Plague Mushrooms.Transmission Mush Completed Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1212,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T080-ILASTAR.ogg",
+                "dialogueId": 1164,
+                "animationLabel": "HRE04-T080-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Discover Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1213,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T400-GAREK.ogg",
+                "dialogueId": 1165,
+                "animationLabel": "HRE04-T400-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 1214,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T410-ILASTAR.ogg",
+                "dialogueId": 1166,
+                "animationLabel": "HRE04-T410-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Completed Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 1215,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T420-GAREK.ogg",
+                "dialogueId": 1167,
+                "animationLabel": "HRE04-T420-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE04/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

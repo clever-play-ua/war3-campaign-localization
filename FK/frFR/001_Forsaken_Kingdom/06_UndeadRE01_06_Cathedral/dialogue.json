@@ -1,0 +1,118 @@
+{
+  "map": "UndeadRE01_06",
+  "title": "Cathedral",
+  "locale": "frFR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M6-M010-010-ANYA",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Anya",
+      "text": "Nous n’entrerons pas par devant. Même si nous éliminons tous les gardes, ils alerteront tout le monde de notre présence.",
+      "string_id": 381,
+      "speaker_string_id": 382,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-M010-010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M6-M010-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Il y a peut-être une entrée latérale. Jetons un œil.",
+      "string_id": 397,
+      "speaker_string_id": 398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M6-T010-KNIGHT",
+      "scene": "Transmissions.Front Door Transmission 01",
+      "speaker": "Fantassin",
+      "text": "Des intrus ! Verrouillez les portes !",
+      "string_id": 291,
+      "speaker_string_id": 292,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T010-KNIGHT.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M6-T020-ANYA",
+      "scene": "Transmissions.Front Door Transmission 02",
+      "speaker": "Anya",
+      "text": "Je vous l’avais bien dit. J’espère que vous avez raison au sujet de l’existence d’une autre entrée.",
+      "string_id": 303,
+      "speaker_string_id": 304,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T020-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M6-T030-GAREK",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "Garek",
+      "text": "Pourquoi ces paladins nous haïssent-ils tant ? Simplement parce que nous sommes morts-vivants ?",
+      "string_id": 310,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T030-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M6-T040-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "Anya",
+      "text": "À leurs yeux, cela suffit. Mais en réalité, ils nous reprochent la chute de Lordaeron.",
+      "string_id": 313,
+      "speaker_string_id": 314,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T040-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M6-T050-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "Anya",
+      "text": "Certains sont en quête de justice, quoi que cela signifie. Mais la plupart ne désirent que la vengeance.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T050-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M6-T060-ANYA",
+      "scene": "Transmissions.Wall Gap Transmission 01",
+      "speaker": "Anya",
+      "text": "Nous sommes entrés. Allons éliminer la Main d’argent.",
+      "string_id": 322,
+      "speaker_string_id": 323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T060-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M6-T080-GAREK",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "Garek",
+      "text": "Argh ! Ça brûle !",
+      "string_id": 332,
+      "speaker_string_id": 333,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T080-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M6-T090-ANYA",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "Anya",
+      "text": "C’est la Lumière ! Éliminez les prêtres, vite !",
+      "string_id": 337,
+      "speaker_string_id": 338,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T090-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M6-T100-COMMANDER",
+      "scene": "Bossfight.Paladin Transmission 01 Initial Camera Steal",
+      "speaker": "Paladin",
+      "text": "Viles créatures ! Comment osez-vous souiller ces saintes terres ?",
+      "string_id": 352,
+      "speaker_string_id": 353,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-T100-COMMANDER.ogg"
+    }
+  ]
+}

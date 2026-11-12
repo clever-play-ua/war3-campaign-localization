@@ -1,0 +1,59 @@
+{
+  "map": "UndeadRE03Interlude",
+  "title": "A Looming Shadow",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3I-C010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "貝恩德要求亡靈守衛護送他的伐木工。他顯然想砍伐銀松森林的木材。",
+      "string_id": 25,
+      "speaker_string_id": 20,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3I-C010-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "他又在抱怨提里斯法森林的「樹木品質」了嗎？",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]他又在抱怨提里斯法森林的「樹木品質」了嗎？[/\"Happy\"]",
+      "string_id": 26,
+      "speaker_string_id": 21,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3I-C010-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "他就是這樣。我試著告訴他銀松森林到處都是危險，最好待在幽暗城附近，會比較…",
+      "string_id": 27,
+      "speaker_string_id": 22,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3I-C010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "…安全。",
+      "string_id": 28,
+      "speaker_string_id": 23,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3I-C010-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "安雅",
+      "text": "不…",
+      "string_id": 29,
+      "speaker_string_id": 24,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-050-ANYA.ogg"
+    }
+  ]
+}

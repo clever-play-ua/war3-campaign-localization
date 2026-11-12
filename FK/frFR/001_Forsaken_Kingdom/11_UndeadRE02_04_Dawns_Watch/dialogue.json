@@ -1,0 +1,301 @@
+{
+  "map": "UndeadRE02_04",
+  "title": "Dawns Watch",
+  "locale": "frFR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M4-C010-010-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Seigneur Tyrosus",
+      "text": "Le Fléau nous a trouvés ! Aube d’argent, aux armes !",
+      "string_id": 411,
+      "speaker_string_id": 412,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-010-TYROSUS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M4-C010-011-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Je savais que ça arriverait !",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Je savais que ça arriverait ![/\"Angry\"]",
+      "string_id": 852,
+      "speaker_string_id": 851,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-011-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M4-C010-012-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Seigneur Tyrosus ! Ces Réprouvés sont sous ma protection.",
+      "string_id": 854,
+      "speaker_string_id": 853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-012-LEONID.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M4-C010-013-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Seigneur Tyrosus",
+      "text": "Leonid, grâce à la Lumière, vous êtes revenu ! Ces Morts-vivants sont donc…",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Leonid, grâce à la Lumière, vous êtes revenu ! Ces Morts-vivants sont donc…[/\"Surprised\"]",
+      "string_id": 856,
+      "speaker_string_id": 855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-013-TYROSUS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M4-C010-014-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Comme moi. Et ils subissent les assauts de la Croisade écarlate.",
+      "string_id": 858,
+      "speaker_string_id": 857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-014-LEONID.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M4-C010-020-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Seigneur Tyrosus",
+      "text": "Nous devons arrêter ces fanatiques.",
+      "string_id": 505,
+      "speaker_string_id": 506,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-020-TYROSUS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M4-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Vous pensez vraiment être si différents d’eux ?",
+      "string_id": 395,
+      "speaker_string_id": 396,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M4-C010-040-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Seigneur Tyrosus",
+      "text": "Nous avons tous un jour été des chevaliers de la Main-d’Argent. Mais certains, pour se venger de Lordaeron, ont créé la Croisade écarlate.",
+      "string_id": 509,
+      "speaker_string_id": 510,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-040-TYROSUS.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M4-C010-050-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Seigneur Tyrosus",
+      "text": "Nous autres, qui souhaitions perpétuer les préceptes de la Lumière, sommes partis pour former l’Aube d’argent.",
+      "string_id": 513,
+      "speaker_string_id": 514,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-050-TYROSUS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M4-C010-060-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Seigneur Tyrosus",
+      "text": "Malheureusement, nous sommes peu nombreux. Au sein de leur monastère, les troupes de la Croisade gagnent en puissance, et nous avons peu de chances de les vaincre.",
+      "string_id": 515,
+      "speaker_string_id": 516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-060-TYROSUS.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M4-C010-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Ce monastère… pourriez-vous nous guider jusqu’à lui ?",
+      "string_id": 460,
+      "speaker_string_id": 461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-070-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M4-C010-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Vous n’avez peut-être pas suffisamment de troupes pour assiéger le bastion de la Croisade, mais les Réprouvés ont une armée assez puissante.",
+      "string_id": 469,
+      "speaker_string_id": 470,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-080-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M4-C010-090-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Vous voulez qu’on livre leur guerre ?",
+      "string_id": 478,
+      "speaker_string_id": 479,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-090-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M4-C010-091-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "C’est aussi notre guerre. La Croisade écarlate attaquera sûrement la Fossoyeuse de nouveau.",
+      "string_id": 860,
+      "speaker_string_id": 859,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-091-GAREK.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M4-C010-100-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Je vous conduirai à eux. Je doute que dame Sylvanas se fie à qui ce soit d’autre au sein de l’Aube d’argent.",
+      "string_id": 487,
+      "speaker_string_id": 488,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-100-LEONID.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M4-C010-110-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Nous verrons déjà si elle vous fait confiance.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Nous verrons déjà si elle vous fait confiance.[/\"Squint\"]",
+      "string_id": 496,
+      "speaker_string_id": 497,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M4-C010-120-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Alors, c’est décidé. Que la Lumière guide notre chemin.",
+      "string_id": 501,
+      "speaker_string_id": 502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-120-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M4-T010-LEONID",
+      "scene": "Transmissions.Entry Transmission",
+      "speaker": "Leonid",
+      "text": "L’Aube d’argent a été contrainte de tenir garnison au cœur du territoire des Ogres. Nous devrons peut-être nous battre pour gravir la colline.",
+      "string_id": 154,
+      "speaker_string_id": 155,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T010-LEONID.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M4-T020-ARGENTDAWNCAPTIVE",
+      "scene": "Transmissions.Survivor Soldier Transmission",
+      "speaker": "Fantassin",
+      "text": "Leonid ! Les Ogres ont capturé nos patrouilles ! Le fort est attaqué !",
+      "string_id": 126,
+      "speaker_string_id": 127,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T020-ARGENTDAWNCAPTIVE.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M4-T030-LEONID",
+      "scene": "Transmissions.Survivor Soldier Transmission",
+      "speaker": "Leonid",
+      "text": "Quoi ?! Alors il n’y a pas de temps à perdre ! Nous devons libérer les autres et mettre fin au siège !",
+      "string_id": 146,
+      "speaker_string_id": 147,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T030-LEONID.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M4-T060-LEONID",
+      "scene": "Transmissions.Siege Transmission",
+      "speaker": "Leonid",
+      "text": "Que la Lumière soit louée, nous n’arrivons pas trop tard ! Les portes du fort tiennent bon !",
+      "string_id": 258,
+      "speaker_string_id": 259,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T060-LEONID.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M4-T070-GAREK",
+      "scene": "Transmissions.Siege Transmission",
+      "speaker": "Garek",
+      "text": "Plus pour longtemps. Nous devons mettre un terme à ce siège au plus vite !",
+      "string_id": 260,
+      "speaker_string_id": 261,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T070-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M4-T080-LEONID",
+      "scene": "Transmissions.Boss Defeated Transmission",
+      "speaker": "Leonid",
+      "text": "Maintenant que le siège a pris fin, les Ogres restants vont se disperser dans les collines. Rentrons dans le fort.",
+      "string_id": 252,
+      "speaker_string_id": 253,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T080-LEONID.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M4-T090-GAREK",
+      "scene": "Transmissions.Introducing Leonid Transmission",
+      "speaker": "Garek",
+      "text": "Il est temps de faire savoir à dame Sylvanas ce que nous avons appris.",
+      "string_id": 833,
+      "speaker_string_id": 834,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T090-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M4-T100-ANYA",
+      "scene": "Transmissions.Introducing Leonid Transmission",
+      "speaker": "Anya",
+      "text": "N’attendez point d’accueil chaleureux, Leonid. Tous les Réprouvés n’ont pas la même indulgence que moi.",
+      "string_id": 835,
+      "speaker_string_id": 836,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T100-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "FootmanReady1",
+      "scene": "Argent Dawn Resuce.Rescue 1",
+      "speaker": "Fantassin",
+      "text": "Paré à l’action !",
+      "string_id": 912,
+      "speaker_string_id": 911,
+      "sound": "Units/Human/Footman/FootmanReady1.ogg"
+    },
+    {
+      "n": 27,
+      "id": "PriestYes1",
+      "scene": "Argent Dawn Resuce.Rescue 2",
+      "speaker": "Prêtre",
+      "text": "Je suis à votre service.",
+      "string_id": 913,
+      "speaker_string_id": 914,
+      "sound": "Units/Human/Priest/PriestYes1.ogg"
+    },
+    {
+      "n": 28,
+      "id": "FootmanWhat4",
+      "scene": "Argent Dawn Resuce.Rescue 3",
+      "speaker": "Fantassin",
+      "text": "Vous n’avez qu’un mot à dire.",
+      "string_id": 915,
+      "speaker_string_id": 916,
+      "sound": "Units/Human/Footman/FootmanWhat4.ogg"
+    },
+    {
+      "n": 29,
+      "id": "RiflemanReady1",
+      "scene": "Argent Dawn Resuce.Rescue 4",
+      "speaker": "Fusilier",
+      "text": "Paré à tirer !",
+      "string_id": 917,
+      "speaker_string_id": 918,
+      "sound": "Units/Human/Rifleman/RiflemanReady1.ogg"
+    }
+  ]
+}

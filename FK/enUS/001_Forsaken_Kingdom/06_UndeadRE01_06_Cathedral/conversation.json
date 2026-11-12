@@ -1,0 +1,151 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Bossfight.Paladin Transmission 01 Initial Camera Steal": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Human/HeroPaladinVariant/HeroPaladinVariant.mdl",
+                "speakerNameId": 353,
+                "speakerUnitID": "H000",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-T100-COMMANDER.ogg",
+                "dialogueId": 352,
+                "animationLabel": "A1M6-T100-COMMANDER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroPaladinVariant.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Initialization.DialogueReference": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 382,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-M010-010-ANYA.ogg",
+                "dialogueId": 381,
+                "animationLabel": "A1M6-M010-010-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\Hero_ForsakenGarek\\Hero_ForsakenGarek.mdl",
+                "speakerNameId": 398,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-M010-020-GAREK.ogg",
+                "dialogueId": 397,
+                "animationLabel": "A1M6-M010-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/Hero_ForsakenGarek.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Front Door Transmission 01": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 292,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T010-KNIGHT.ogg",
+                "dialogueId": 291,
+                "animationLabel": "A1M6-T010-KNIGHT",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Front Door Transmission 02": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 304,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T020-ANYA.ogg",
+                "dialogueId": 303,
+                "animationLabel": "A1M6-T020-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Side Path Transmission 01": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\Hero_ForsakenGarek\\Hero_ForsakenGarek.mdl",
+                "speakerNameId": 311,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T030-GAREK.ogg",
+                "dialogueId": 310,
+                "animationLabel": "A1M6-T030-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/Hero_ForsakenGarek.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 314,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T040-ANYA.ogg",
+                "dialogueId": 313,
+                "animationLabel": "A1M6-T040-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 318,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T050-ANYA.ogg",
+                "dialogueId": 317,
+                "animationLabel": "A1M6-T050-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Wall Gap Transmission 01": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 323,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T060-ANYA.ogg",
+                "dialogueId": 322,
+                "animationLabel": "A1M6-T060-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Holy Aura Transmission 01": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\Hero_ForsakenGarek\\Hero_ForsakenGarek.mdl",
+                "speakerNameId": 333,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T080-GAREK.ogg",
+                "dialogueId": 332,
+                "animationLabel": "A1M6-T080-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/Hero_ForsakenGarek.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 338,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T090-ANYA.ogg",
+                "dialogueId": 337,
+                "animationLabel": "A1M6-T090-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE01_06/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

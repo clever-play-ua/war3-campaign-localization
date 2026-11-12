@@ -1,0 +1,3937 @@
+STRING 1
+{
+HumanRE04
+}
+
+STRING 2
+{
+1
+}
+
+STRING 3
+{
+Chapter Four: Ashes of Stratholme
+}
+
+STRING 4
+{
+暴雪娛樂
+}
+
+STRING 5
+{
+第四章
+}
+
+STRING 6
+{
+復仇
+}
+
+STRING 7
+{
+幾天後，加瑞克和伊拉斯特率領一小批兵力向斯坦索姆城門進軍，目標是拿下瑞文戴爾的首級。
+}
+
+STRING 9
+{
+勢力1
+}
+
+STRING 10
+{
+玩家2
+}
+
+STRING 11
+{
+天譴軍團
+}
+
+STRING 12
+{
+勢力2
+}
+
+STRING 15
+{
+深入地道
+}
+
+STRING 22
+{
+步兵
+}
+
+STRING 23
+{
+瑞文戴爾男爵
+}
+
+STRING 25
+{
+失敗！
+}
+
+STRING 26
+{
+|cffffcc00任務失敗|r
+加瑞克已死亡。
+}
+
+STRING 27
+{
+失敗！
+}
+
+STRING 28
+{
+|cffffcc00任務失敗|r
+伊拉斯特已死亡。
+}
+
+STRING 29
+{
+失敗！
+}
+
+STRING 42
+{
+啊…蠢貨自己來我的屠宰場送死了。
+}
+
+STRING 43
+{
+你背叛民眾，投靠天譴軍團。
+}
+
+STRING 44
+{
+什麼樣的天選之人會去濫殺無辜？
+}
+
+STRING 45
+{
+瑞文戴爾，今晚就是你惡行的終點。
+}
+
+STRING 66
+{
+結…結束了…
+}
+
+STRING 129
+{
+男爵
+}
+
+STRING 130
+{
+斯坦索姆現在受天譴軍團掌控，但反抗勢力仍然在城中各處守著據點持續抵抗。一路殺進城裡，前往市中心那座陰森的屠宰場，制裁叛徒瑞文戴爾。
+}
+
+STRING 131
+{
+找出並殺死瑞文戴爾男爵
+}
+
+STRING 132
+{
+加瑞克和伊拉斯特必須存活下來
+}
+
+STRING 133
+{
+|cffffcc00主線任務|r
+男爵
+ - 找出並殺死瑞文戴爾男爵
+ - 加瑞克和伊拉斯特必須存活下來
+}
+
+STRING 134
+{
+|cffffcc00主線任務完成|r
+男爵
+}
+
+STRING 189
+{
+|cffffcc00發現秘密|r
+無敵老鼠。
+}
+
+STRING 191
+// Abilities: A001 (Disease Cloud Effect), Tip (Tooltip - Normal)
+{
+時光定錨
+}
+
+STRING 192
+// Abilities: AHdr (Siphon Mana), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 197
+// Abilities: A001 (Disease Cloud Effect), Researchtip (Tooltip - Learn)
+{
+學習時光定錨 - [|cffffcc00等級%d|r]
+}
+
+STRING 205
+// Abilities: A000 (Hero Glow), Researchtip (Tooltip - Learn)
+{
+學習幻象 - [|cffffcc00等級%d|r]
+}
+
+STRING 206
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+施法者產生一個定錨並將自身傳送到目標地點。定錨於15秒後死亡，並將施法者傳回原本的位置。
+}
+
+STRING 207
+// Abilities: A001 (Disease Cloud Effect), Researchubertip (Tooltip - Learn - Extended)
+{
+施法者在原地產生一個定錨並將自身傳送到目標地點。定錨死亡時，將施法者傳回原本的位置。|n|n|cffffcc00等級1|r - 15秒後傳回。|n|cffffcc00等級2|r - 25秒後傳回。|n|cffffcc00等級3|r - 35秒後傳回。
+}
+
+STRING 208
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+施法者產生一個定錨並將自身傳送到目標地點。定錨於25秒後死亡，並將施法者傳回原本的位置。
+}
+
+STRING 209
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+施法者產生一個定錨並將自身傳送到目標地點。定錨於35秒後死亡，並將施法者傳回原本的位置。
+}
+
+STRING 210
+// Abilities: AHdr (Siphon Mana), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 211
+// Doodads: D000 (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 213
+// Destructibles: B00D (Table), EditorSuffix (Editor Suffix)
+{
+(Walkable)
+}
+
+STRING 215
+// Destructibles: B001 (Dungeon Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Big)
+}
+
+STRING 217
+// Abilities: A001 (Disease Cloud Effect), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 218
+// Abilities: A001 (Disease Cloud Effect), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 225
+// Abilities: A003 (精神控制), Name (Name)
+{
+精神控制
+}
+
+STRING 227
+{
+到了。斯坦索姆就在前方。我們的時刻要來了。
+}
+
+STRING 229
+{
+你一心復仇，所以會直接穿過城門進入城市。我去找其他入口。分頭行動比較不會引起注意。
+}
+
+STRING 230
+{
+伊拉斯特，別傻了。城裡到處都是邪惡的不死生物。我們得同進同出。
+}
+
+STRING 231
+{
+看來我對聖光的信念還不足以感化你…那麼我們城裡見。
+}
+
+STRING 232
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 1|r]
+}
+
+STRING 233
+// Abilities: A003 (Mind Control), Researchtip (Tooltip - Learn)
+{
+Learn Mind Control
+}
+
+STRING 234
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 2|r]
+}
+
+STRING 235
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 3|r]
+}
+
+STRING 268
+// Destructibles: B00D (桌子), Name (Name)
+{
+桌子
+}
+
+STRING 270
+{
+|cffffcc00支線任務完成|r
+瘟疫蘑菇
+}
+
+STRING 271
+{
+|cffffcc00支線任務|r
+瘟疫蘑菇
+ - 摧毀巨大瘟疫蘑菇(已摧毀0/3)
+}
+
+STRING 272
+{
+瘟疫蘑菇
+}
+
+STRING 273
+{
+斯坦索姆各處生長著巨大的蘑菇，它們的毒孢子會不斷散播不死瘟疫。在蘑菇感染整個區域之前摧毀它們。
+}
+
+STRING 274
+{
+摧毀巨大瘟疫蘑菇(已摧毀0/3)
+}
+
+STRING 276
+{
+|cffffcc00支線任務完成|r
+港口打撈
+}
+
+STRING 282
+// Doodads: D001 (City Building Large (Diagonal 2, Blue) (Flat)), Name (Name)
+{
+City Building Large (Diagonal 2, Blue) (Flat)
+}
+
+STRING 283
+// Destructibles: B00E (灼燒樹牆大), Name (Name)
+{
+灼燒樹牆大
+}
+
+STRING 284
+// Doodads: YS04 (City Building (Horizontal, Green) (No Pathing)), Name (Name)
+{
+City Building (Horizontal, Green) (No Pathing)
+}
+
+STRING 285
+// Doodads: YS13 (City Building Large (Red) (No Pathing)), Name (Name)
+{
+City Building Large (Red) (No Pathing)
+}
+
+STRING 286
+// Destructibles: B000 (崩塌建築), Name (Name)
+{
+崩塌建築
+}
+
+STRING 287
+// Destructibles: B000 (Toppled Building), EditorSuffix (Editor Suffix)
+{
+(Walkable)
+}
+
+STRING 288
+{
+這裡無法通行。
+}
+
+STRING 289
+{
+占位動畫影片
+}
+
+STRING 290
+{
+斯坦索姆殘存者
+}
+
+STRING 291
+// Doodads: LOsw (Wall Stone (Red)), Name (Name)
+{
+Wall Stone (Red)
+}
+
+STRING 292
+// Doodads: D002 (Wall Stone (Grey)), Name (Name)
+{
+Wall Stone (Grey)
+}
+
+STRING 293
+// Abilities: S000 (漸隱術), Name (Name)
+{
+漸隱術
+}
+
+STRING 294
+// Abilities: S000 (Fade), Ubertip (Tooltip - Normal - Extended)
+{
+讓單位停止自動攻擊敵人，進入漸隱狀態，並在夜晚不被看見。
+}
+
+STRING 295
+// Abilities: S000 (漸隱術), Tip (Tooltip - Normal)
+{
+漸隱術
+}
+
+STRING 296
+// Abilities: A004 (Rivendare - Raise Dead), EditorSuffix (Editor Suffix)
+{
+(Forever)
+}
+
+STRING 304
+// Units: U000 (Dreadlord), Propernames (Proper Names)
+{
+洛席拉斯
+}
+
+STRING 305
+// Units: U000 (Dreadlord), EditorSuffix (Name - Editor Suffix)
+{
+(Lorthiras)
+}
+
+STRING 306
+// Units: u001 ([假施法者]), Name (Name)
+{
+[假施法者]
+}
+
+STRING 307
+// Units: u001 ([Dummy Caster]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 308
+// Units: u001 ([Dummy Caster]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 309
+// Units: u001 ([Dummy Caster]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 310
+// Abilities: A00W (洛席拉斯 - 盲目之怒), Name (Name)
+{
+洛席拉斯 - 盲目之怒
+}
+
+STRING 311
+// Abilities: A00X (盲目之怒(假人)), Name (Name)
+{
+盲目之怒(假人)
+}
+
+STRING 314
+// Units: n007 (Survivor Camp), EditorSuffix (Name - Editor Suffix)
+{
+(Stratholme)
+}
+
+STRING 316
+{
+伊拉斯特
+}
+
+STRING 317
+// Units: n007 (倖存者營地), Name (Name)
+{
+倖存者營地
+}
+
+STRING 318
+// Doodads: D003 (Barracks), Name (Name)
+{
+Barracks
+}
+
+STRING 319
+// Doodads: D004 (Altar of Kings), Name (Name)
+{
+Altar of Kings
+}
+
+STRING 321
+// Units: U00Q (Lich), Propernames (Proper Names)
+{
+萊斯‧霜語
+}
+
+STRING 337
+// Units: U00Q (Lich), EditorSuffix (Name - Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 338
+// Abilities: A010 (亡靈之霜轟擊), Name (Name)
+{
+亡靈之霜轟擊
+}
+
+STRING 339
+// Abilities: A011 (法力霜甲術), Name (Name)
+{
+法力霜甲術
+}
+
+STRING 340
+// Abilities: A012 (Frost Nova), EditorSuffix (Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 341
+// Abilities: A013 (冰封死亡法力), Name (Name)
+{
+冰封死亡法力
+}
+
+STRING 342
+// Abilities: A014 (冰封死亡速度), Name (Name)
+{
+冰封死亡速度
+}
+
+STRING 343
+// Buffs/Effects: B008 (冰封死亡法力), EditorName (Name (Editor Only))
+{
+冰封死亡法力
+}
+
+STRING 344
+// Buffs/Effects: B008 (Frozen Death Mana), Bufftip (Tooltip)
+{
+冰封死亡：法力
+}
+
+STRING 345
+// Buffs/Effects: B008 (Frozen Death Mana), Buffubertip (Tooltip - Extended)
+{
+此單位受到冰封死亡的效果影響，法力恢復速度降低。
+}
+
+STRING 346
+// Abilities: A00Y (Frost Attack), EditorSuffix (Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 347
+// Buffs/Effects: B009 (冰封死亡速度), EditorName (Name (Editor Only))
+{
+冰封死亡速度
+}
+
+STRING 348
+// Buffs/Effects: B009 (Frozen Death Speed), Bufftip (Tooltip)
+{
+冰封死亡：速度
+}
+
+STRING 349
+// Buffs/Effects: B009 (Frozen Death Speed), Buffubertip (Tooltip - Extended)
+{
+此單位受到冰封死亡的效果影響，攻擊和移動速度降低。
+}
+
+STRING 351
+// Units: n002 (萊斯‧霜語), Name (Name)
+{
+萊斯‧霜語
+}
+
+STRING 375
+// Buffs/Effects: B006 (亡靈之霜(增益)), EditorName (Name (Editor Only))
+{
+亡靈之霜(增益)
+}
+
+STRING 376
+// Buffs/Effects: B006 (亡靈之霜 (Buff)), Bufftip (Tooltip)
+{
+亡靈之霜
+}
+
+STRING 377
+// Buffs/Effects: B006 (Necrofrost (Buff)), Buffubertip (Tooltip - Extended)
+{
+此單位受到亡靈之霜侵襲，戰鬥能力嚴重下降。在附近尋找燃燒的房屋來移除此效果！
+}
+
+STRING 378
+// Buffs/Effects: B007 (法力霜甲術), EditorName (Name (Editor Only))
+{
+法力霜甲術
+}
+
+STRING 379
+// Buffs/Effects: B007 (法力霜甲術), Bufftip (Tooltip)
+{
+法力霜甲術
+}
+
+STRING 380
+// Buffs/Effects: B007 (Manafrost Armor), Buffubertip (Tooltip - Extended)
+{
+此單位擁有法力霜甲，能夠恢復法力，並在被敵人命中時施加亡靈之霜，對325範圍外的敵人效果加倍。
+}
+
+STRING 382
+{
+Lordaeron... was doomed to fall.
+}
+
+STRING 383
+{
+I, Ras Frostwhisper, have joined the Cult of the Damned to serve Ner'zhul, and follow his unholy command. I have only asked for one favor in return... the gift of immortality.
+}
+
+STRING 384
+{
+The skies darken and cry in havoc on this glorious day when I finally reclaim what should've been mine long ago... I have chosen this path, and none shall stand in my way.
+}
+
+STRING 385
+{
+As part of Ner'zhul's challenge, your lives I'll now take. With this sacred ritual, I spill your blood.
+}
+
+STRING 386
+{
+Ner'zhul! Claim this worthless flesh of mine. It is yours to break!
+}
+
+STRING 388
+// Units: n002 (Ras Frostwhisper), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 389
+// Destructibles: B002 (階梯(可行走)), Name (Name)
+{
+階梯(可行走)
+}
+
+STRING 390
+// Destructibles: DTc2 (獸園大門), Name (Name)
+{
+獸園大門
+}
+
+STRING 391
+// Doodads: D005 (Grates), Name (Name)
+{
+Grates
+}
+
+STRING 392
+{
+They found us. Hold the line!
+}
+
+STRING 395
+{
+騎士
+}
+
+STRING 396
+{
+鬼魅居民
+}
+
+STRING 397
+{
+勢力3
+}
+
+STRING 398
+// Units: nvlw (居民), Name (Name)
+{
+居民
+}
+
+STRING 399
+// Units: nvl2 (居民), Name (Name)
+{
+居民
+}
+
+STRING 400
+// Units: nvil (居民), Name (Name)
+{
+居民
+}
+
+STRING 401
+// Units: h000 (鬼魅農民), Name (Name)
+{
+鬼魅農民
+}
+
+STRING 402
+// Units: n003 (鬼魅居民), Name (Name)
+{
+鬼魅居民
+}
+
+STRING 403
+// Units: n004 (鬼魅居民), Name (Name)
+{
+鬼魅居民
+}
+
+STRING 404
+// Units: n005 (鬼魅居民), Name (Name)
+{
+鬼魅居民
+}
+
+STRING 405
+{
+斯坦索姆居民
+}
+
+STRING 406
+// Units: O000 (骷髏泰坦), Name (Name)
+{
+骷髏泰坦
+}
+
+STRING 411
+// Abilities: A01L (熊形態), Name (Name)
+{
+熊形態
+}
+
+STRING 412
+// Abilities: A01L (熊形態), Tip (Tooltip - Normal)
+{
+熊形態
+}
+
+STRING 414
+// Abilities: A01P (生命吐息), Name (Name)
+{
+生命吐息
+}
+
+STRING 415
+// Buffs/Effects: B00C (Enraged), EditorSuffix (Editor Suffix)
+{
+(Shazza)
+}
+
+STRING 416
+// Units: u015 ([Dummy Attacker - Throw Axe]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 419
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 420
+// Abilities: AHav (Avatar), Researchhotkey (Hotkey - Learn)
+{
+R
+}
+
+STRING 421
+// Abilities: AHav (Avatar), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 422
+// Abilities: AHav (Avatar), Unhotkey (Hotkey - Turn Off)
+{
+R
+}
+
+STRING 423
+// Units: u00S ([Dummy Immolation]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 424
+// Units: u00D ([Dummy Caster]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 425
+// Abilities: AHhb (Holy Light), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 426
+// Abilities: AHhb (Holy Light), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 427
+// Abilities: A000 (英雄微光), Name (Name)
+{
+英雄微光
+}
+
+STRING 428
+// Abilities: A001 (疫病雲效果), Name (Name)
+{
+疫病雲效果
+}
+
+STRING 429
+// Abilities: A002 (Magic Sentry), EditorSuffix (Editor Suffix)
+{
+(Rivendare's Archer Ability)
+}
+
+STRING 430
+// Abilities: A003 (Mind Control), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 431
+// Items: phea (Potion of Healing), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 433
+// Abilities: A004 (瑞文戴爾 - 復甦骷髏), Name (Name)
+{
+瑞文戴爾 - 復甦骷髏
+}
+
+STRING 435
+// Units: u00F ([Dummy Caster - CE]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 436
+// Abilities: A005 (瑞文戴爾 - 號令弓箭手), Name (Name)
+{
+瑞文戴爾 - 號令弓箭手
+}
+
+STRING 437
+// Abilities: A005 (Rivendare - Command Archers), Tip (Tooltip - Normal)
+{
+號令弓箭手 - [|cffffcc00等級1|r]
+}
+
+STRING 438
+// Abilities: A005 (Rivendare - Command Archers), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfc瑞文戴爾男爵|r號令麾下弓箭手集中火力攻擊|cffFFFF00羅德里克|r。
+}
+
+STRING 439
+// Abilities: A006 (瑞文戴爾 - 屍爆術), Name (Name)
+{
+瑞文戴爾 - 屍爆術
+}
+
+STRING 440
+// Abilities: A007 (瑞文戴爾 - 冰凍棺柩), Name (Name)
+{
+瑞文戴爾 - 冰凍棺柩
+}
+
+STRING 441
+// Abilities: A008 (劇毒射擊), Name (Name)
+{
+劇毒射擊
+}
+
+STRING 442
+// Abilities: A008 (Poison Shots), EditorSuffix (Editor Suffix)
+{
+(Skeleton Archer)
+}
+
+STRING 443
+// Abilities: A009 (Frost Attack), EditorSuffix (Editor Suffix)
+{
+(Skeleton Mage)
+}
+
+STRING 444
+// Abilities: A00A (瑞文戴爾 - 復甦骷髏), Name (Name)
+{
+瑞文戴爾 - 復甦骷髏
+}
+
+STRING 445
+// Abilities: A00A (Rivendare - Raise Dead), EditorSuffix (Editor Suffix)
+{
+(Unholy Summoner)
+}
+
+STRING 446
+// Abilities: A00B (瑞文戴爾 - 屍爆術), Name (Name)
+{
+瑞文戴爾 - 屍爆術
+}
+
+STRING 447
+// Abilities: A00B (Rivendare - Corpse Explosion), EditorSuffix (Editor Suffix)
+{
+(Blood Cultist)
+}
+
+STRING 448
+// Abilities: A00C (冰凍棺柩), Name (Name)
+{
+冰凍棺柩
+}
+
+STRING 449
+// Abilities: A00C (Frozen Coffin), EditorSuffix (Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 450
+// Abilities: A00D (屍爆術), Name (Name)
+{
+屍爆術
+}
+
+STRING 451
+// Items: pman (Potion of Mana), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 452
+// Abilities: A00D (Corpse Explosion), Hotkey (Hotkey - Normal)
+{
+F
+}
+
+STRING 453
+// Abilities: A00D (屍爆術), Tip (Tooltip - Normal)
+{
+屍爆術
+}
+
+STRING 454
+// Abilities: A00D (Corpse Explosion), Ubertip (Tooltip - Normal - Extended)
+{
+轟。
+}
+
+STRING 455
+// Abilities: A00E (瑞文戴爾 - 冰凍棺柩), Name (Name)
+{
+瑞文戴爾 - 冰凍棺柩
+}
+
+STRING 456
+// Abilities: A00E (Rivendare - Frozen Coffin), EditorSuffix (Editor Suffix)
+{
+(Lich)
+}
+
+STRING 457
+// Abilities: A00F (聖水), Name (Name)
+{
+聖水
+}
+
+STRING 458
+// Abilities: A00G (Holy Water Stun), Name (Name)
+{
+Holy Water Stun
+}
+
+STRING 459
+// Abilities: A00H (瑞文戴爾 - 靈魂吞噬), Name (Name)
+{
+瑞文戴爾 - 靈魂吞噬
+}
+
+STRING 460
+// Abilities: A00I (靈魂吞噬 - 穢邪狂熱), Name (Name)
+{
+靈魂吞噬 - 穢邪狂熱
+}
+
+STRING 461
+// Abilities: A00J (靈魂吞噬 - 穢邪光環), Name (Name)
+{
+靈魂吞噬 - 穢邪光環
+}
+
+STRING 462
+// Abilities: A00K (霜寒祝福), Name (Name)
+{
+霜寒祝福
+}
+
+STRING 463
+// Abilities: A00L (霜甲祝福), Name (Name)
+{
+霜甲祝福
+}
+
+STRING 464
+// Abilities: A00M (城塞關鍵技能), Name (Name)
+{
+城塞關鍵技能
+}
+
+STRING 465
+// Abilities: A00N (替代關鍵技能), Name (Name)
+{
+替代關鍵技能
+}
+
+STRING 466
+// Abilities: A00O (主要關鍵技能), Name (Name)
+{
+主要關鍵技能
+}
+
+STRING 467
+// Abilities: A00P (消失), Name (Name)
+{
+消失
+}
+
+STRING 468
+// Abilities: A00Q (消失假人), Name (Name)
+{
+消失假人
+}
+
+STRING 469
+// Abilities: A00Q (Disappearance Dummy), Ubertip (Tooltip - Normal - Extended)
+{
+使一個單位隱形。若該單位攻擊、使用技能或施放法術，則它會現形。|n持續12秒。
+}
+
+STRING 470
+// Abilities: A00R (範本金幣), Name (Name)
+{
+範本金幣
+}
+
+STRING 471
+// Abilities: A00S (邪教徒 - 引導法術), Name (Name)
+{
+邪教徒 - 引導法術
+}
+
+STRING 472
+// Abilities: A00T (假人定身石像鬼), Name (Name)
+{
+假人定身石像鬼
+}
+
+STRING 473
+// Abilities: A00U (Disappearance (Priest)), Name (Name)
+{
+Disappearance (Priest)
+}
+
+STRING 474
+// Abilities: A00U (Disappearance (Priest)), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 475
+// Abilities: A00U (Disappearance (Priest)), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all allies within 350 range of a target point, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+}
+
+STRING 476
+// Abilities: A00V (Major Illusion (Priest - Old)), Name (Name)
+{
+Major Illusion (Priest - Old)
+}
+
+STRING 477
+// Abilities: A00V (Major Illusion (Priest - Old)), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 478
+// Abilities: A00V (Major Illusion (Priest - Old)), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all allies within 350 range of a target point, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+}
+
+STRING 479
+// Abilities: A00V (Major Illusion (Priest - Old)), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 480
+// Abilities: A00Z (燃燒房子焚燒), Name (Name)
+{
+燃燒房子焚燒
+}
+
+STRING 481
+// Abilities: A015 (Major Illusion), Name (Name)
+{
+Major Illusion
+}
+
+STRING 482
+// Abilities: A015 (Major Illusion), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 483
+// Abilities: A015 (Major Illusion), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all of your units on the map, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+
+|cffaeaeaeThis spell has a 4 second cast time and a 120 second cooldown. Use it wisely.
+}
+
+STRING 484
+// Abilities: A015 (Major Illusion), EditorSuffix (Editor Suffix)
+{
+(Priest - New)
+}
+
+STRING 486
+// Abilities: A016 (邪教徒 - 引導法術), Name (Name)
+{
+邪教徒 - 引導法術
+}
+
+STRING 487
+// Abilities: A016 (Cultist - Channeling Spell), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 488
+// Abilities: A017 (動畫影片萊斯 - 引導法術), Name (Name)
+{
+動畫影片萊斯 - 引導法術
+}
+
+STRING 489
+// Abilities: A017 (Cinematic Ras - Channeling Spell), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 490
+// Abilities: A018 (Defend), EditorSuffix (Editor Suffix)
+{
+(Veteran Footman)
+}
+
+STRING 491
+// Abilities: A018 (Defend), Ubertip (Tooltip - Normal - Extended)
+{
+Activate to have a 25% chance to reflect Piercing attacks upon the source, and to take only 50% of the damage from attacks that are not reflected. While Defend is active, move speed is reduced by 20%.
+}
+
+STRING 492
+// Abilities: A019 (戰鬥老手), Name (Name)
+{
+戰鬥老手
+}
+
+STRING 493
+// Abilities: A019 (Combat Veteran), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfcGives a |cffFFFF0010%|r |cff82cdfcchance to dodge an attack and a |cffFFFF0015% |cff82cdfcchance to deal |cffFFFF002 |cff82cdfctimes total damage.|r
+
+|cffaeaeaeThis unit has acquired combat proficiency via elite training.
+}
+
+STRING 494
+// Abilities: A019 (Combat Veteran), Tip (Tooltip - Normal)
+{
+|cff82cdfcCombat Veteran
+}
+
+STRING 495
+// Abilities: A01A (爆頭), Name (Name)
+{
+爆頭
+}
+
+STRING 496
+// Abilities: A01A (Headshot), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfcGives a |cffffff0015% |cff82cdfcchance that an attack will do |cffffff0040 |cff82cdfcbonus damage and stun the target for |cffffff002.5 |cff82cdfcseconds.|r
+
+|cffaeaeaeThis unit has acquired combat proficiency via elite training.
+}
+
+STRING 497
+// Abilities: A01A (Headshot), Tip (Tooltip - Normal)
+{
+|cff82cdfcHeadshot
+}
+
+STRING 498
+// Abilities: A01B (屠宰場關鍵技能), Name (Name)
+{
+屠宰場關鍵技能
+}
+
+STRING 499
+// Abilities: A01C (死者終極復生), Name (Name)
+{
+死者終極復生
+}
+
+STRING 500
+// Abilities: A01C (Raise Ultimate Dead), EditorSuffix (Editor Suffix)
+{
+(Master Necromancer)
+}
+
+STRING 501
+// Abilities: A01D (學識之書), Name (Name)
+{
+學識之書
+}
+
+STRING 502
+// Abilities: A01E (血肉桶), Name (Name)
+{
+血肉桶
+}
+
+STRING 503
+// Abilities: A01F (Death Coil), EditorSuffix (Editor Suffix)
+{
+(Cultist)
+}
+
+STRING 504
+// Abilities: A01G (疫病雲假人), Name (Name)
+{
+疫病雲假人
+}
+
+STRING 505
+// Abilities: A01G (Disease Cloud Dummy), EditorSuffix (Editor Suffix)
+{
+(Bucket of Flesh)
+}
+
+STRING 506
+// Abilities: A01H (夏札CDR), Name (Name)
+{
+夏札CDR
+}
+
+STRING 507
+// Abilities: A01I (狂怒), Name (Name)
+{
+狂怒
+}
+
+STRING 508
+// Buffs/Effects: B00B (Enraged), EditorSuffix (Editor Suffix)
+{
+(Kol'ga)
+}
+
+STRING 509
+// Abilities: A01J (狂怒), Name (Name)
+{
+狂怒
+}
+
+STRING 511
+// Abilities: A01K (殘廢術), Name (Name)
+{
+殘廢術
+}
+
+STRING 512
+// Abilities: A01K (殘廢術), Tip (Tooltip - Normal)
+{
+殘廢術
+}
+
+STRING 513
+// Buffs/Effects: B00D (Cripple), EditorSuffix (Editor Suffix)
+{
+(Kol'ga)
+}
+
+STRING 514
+// Abilities: A01M (恐嚇咆哮), Name (Name)
+{
+恐嚇咆哮
+}
+
+STRING 515
+// Abilities: A01M (恐嚇咆哮), Tip (Tooltip - Normal)
+{
+恐嚇咆哮
+}
+
+STRING 516
+// Abilities: A01M (Terrifying Roar), Ubertip (Tooltip - Normal - Extended)
+{
+降低附近敵人的護甲和移動速度。
+}
+
+STRING 518
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 519
+// Abilities: A01N (恐嚇咆哮), Name (Name)
+{
+恐嚇咆哮
+}
+
+STRING 520
+// Abilities: A01N (恐嚇咆哮), Tip (Tooltip - Normal)
+{
+恐嚇咆哮
+}
+
+STRING 522
+// Abilities: A01O (烈焰風暴), Name (Name)
+{
+烈焰風暴
+}
+
+STRING 524
+// Units: u00H ([Dummy Tanker]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 526
+// Abilities: A01R (生命吐息), Name (Name)
+{
+生命吐息
+}
+
+STRING 529
+// Buffs/Effects: B000 (), Bufftip (Tooltip)
+{
+鎖定目標！
+}
+
+STRING 530
+// Buffs/Effects: B000 (), Buffubertip (Tooltip - Extended)
+{
+小心箭矢！
+}
+
+STRING 531
+// Buffs/Effects: B001 (), Bufftip (Tooltip)
+{
+關鍵效果
+}
+
+STRING 532
+// Buffs/Effects: B002 (), Bufftip (Tooltip)
+{
+塵埃
+}
+
+STRING 533
+// Buffs/Effects: B002 (), Buffubertip (Tooltip - Extended)
+{
+此單位沾染塵埃。
+}
+
+STRING 534
+// Buffs/Effects: B003 (石化形態), EditorName (Name (Editor Only))
+{
+石化形態
+}
+
+STRING 535
+// Buffs/Effects: B003 (石化形態), Bufftip (Tooltip)
+{
+石化形態
+}
+
+STRING 536
+// Buffs/Effects: B003 (Stone Form), Buffubertip (Tooltip - Extended)
+{
+石像鬼在監視。
+}
+
+STRING 537
+// Buffs/Effects: B004 (盲目之怒), EditorName (Name (Editor Only))
+{
+盲目之怒
+}
+
+STRING 538
+// Buffs/Effects: B004 (Blind Rage), Buffubertip (Tooltip - Extended)
+{
+此單位具有盲目之怒，攻擊速度提高，但移動速度降低。
+}
+
+STRING 539
+// Buffs/Effects: B005 (燃燒房子焚燒), EditorName (Name (Editor Only))
+{
+燃燒房子焚燒
+}
+
+STRING 540
+// Buffs/Effects: B005 (Burning Houses Immolation), EditorSuffix (Editor Suffix)
+{
+(Buff)
+}
+
+STRING 541
+// Buffs/Effects: B00A (), Bufftip (Tooltip)
+{
+血肉桶
+}
+
+STRING 542
+// Buffs/Effects: B00A (), Buffubertip (Tooltip - Extended)
+{
+新鮮的肉！
+}
+
+STRING 543
+// Buffs/Effects: B00B (狂怒), Bufftip (Tooltip)
+{
+狂怒
+}
+
+STRING 544
+// Buffs/Effects: B00B (狂怒), EditorName (Name (Editor Only))
+{
+狂怒
+}
+
+STRING 545
+// Buffs/Effects: B00B (Enraged), Buffubertip (Tooltip - Extended)
+{
+科加為報夏札喪命之仇而渴求鮮血，攻擊速度提高100%。
+}
+
+STRING 547
+// Buffs/Effects: B00C (狂怒), Bufftip (Tooltip)
+{
+狂怒
+}
+
+STRING 548
+// Buffs/Effects: B00C (狂怒), EditorName (Name (Editor Only))
+{
+狂怒
+}
+
+STRING 549
+// Buffs/Effects: B00C (Enraged), Buffubertip (Tooltip - Extended)
+{
+夏札為報科加喪命之仇而求助於詹亞力，獲得50%冷卻時間縮短。
+}
+
+STRING 552
+// Buffs/Effects: B00D (殘廢術), Bufftip (Tooltip)
+{
+殘廢術
+}
+
+STRING 553
+// Buffs/Effects: B00D (Cripple), Buffubertip (Tooltip - Extended)
+{
+此單位中了殘廢術，移動速度降低。
+}
+
+STRING 554
+// Buffs/Effects: B00D (殘廢術), EditorName (Name (Editor Only))
+{
+殘廢術
+}
+
+STRING 555
+// Buffs/Effects: B00E (), Bufftip (Tooltip)
+{
+恐嚇咆哮
+}
+
+STRING 556
+// Buffs/Effects: B00E (), Buffubertip (Tooltip - Extended)
+{
+此單位受到恐嚇咆哮影響，護甲和移動速度降低。
+}
+
+STRING 566
+// Units: U013 (Skeletal Warlock), Name (Name)
+{
+Skeletal Warlock
+}
+
+STRING 570
+// Units: u015 ([假攻擊者 - 投擲飛斧]), Name (Name)
+{
+[假攻擊者 - 投擲飛斧]
+}
+
+STRING 571
+// Units: u015 ([Dummy Attacker - Throw Axe]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 572
+// Units: u015 ([Dummy Attacker - Throw Axe]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 573
+// Units: u00E (Corpse Explosion - Dummy), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 575
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 576
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 577
+// Units: u00I (shutup), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 579
+// Items: I00B (Rune of the Unbound), Ubertip (Tooltip - Extended)
+{
+提高單位的移動速度並移除定身效果。
+}
+
+STRING 580
+// Items: I00B (Rune of the Unbound), Description (Description)
+{
+提高單位的移動速度並移除定身效果。
+}
+
+STRING 581
+// Units: U013 (Skeletal Warlock), Propernames (Proper Names)
+{
+莫凡
+}
+
+STRING 582
+// Units: U013 (Skeletal Warlock), EditorSuffix (Name - Editor Suffix)
+{
+莫凡
+}
+
+STRING 583
+// Units: O000 (Skeletal Titan), Propernames (Proper Names)
+{
+冷酷族長
+}
+
+STRING 584
+// Units: U012 (Titan), EditorSuffix (Name - Editor Suffix)
+{
+(Grimthane)
+}
+
+STRING 585
+// Units: u016 ([假施法者 - 術士火焰之雨]), Name (Name)
+{
+[假施法者 - 術士火焰之雨]
+}
+
+STRING 586
+// Abilities: A01L (Bear Form), EditorSuffix (Editor Suffix)
+{
+(Titan Phase 2)
+}
+
+STRING 587
+// Abilities: A01P (Breath of Life), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 588
+// Abilities: A01I (Enrage), EditorSuffix (Editor Suffix)
+{
+(Titan)
+}
+
+STRING 589
+// Abilities: A01J (Enrage), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 590
+// Abilities: A01K (Cripple), EditorSuffix (Editor Suffix)
+{
+(Titan)
+}
+
+STRING 591
+// Abilities: A01M (Terrifying Roar), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 592
+// Abilities: A01N (Terrifying Roar), EditorSuffix (Editor Suffix)
+{
+(Titan Cast)
+}
+
+STRING 593
+// Abilities: A01O (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 594
+// Abilities: A01Q (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 595
+// Abilities: A01R (Breath of Life), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 596
+// Abilities: A01S (Rain of Fire), EditorSuffix (Editor Suffix)
+{
+(Warlock Phase 2 Dummy)
+}
+
+STRING 597
+// Units: u00S ([假焚燒]), Name (Name)
+{
+[假焚燒]
+}
+
+STRING 598
+// Units: u00S ([Dummy Immolation]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 599
+// Units: u00S ([Dummy Immolation]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 600
+// Units: u00S ([Dummy Immolation]), EditorSuffix (Name - Editor Suffix)
+{
+(Burning Houses)
+}
+
+STRING 601
+// Abilities: AHtb (Storm Bolt), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 603
+// Units: n006 (Skeleton Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Flying)
+}
+
+STRING 605
+// Doodads: D007 (Undead Battleship), Name (Name)
+{
+Undead Battleship
+}
+
+STRING 606
+// Destructibles: B003 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 607
+// Destructibles: B004 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 608
+// Destructibles: B005 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 609
+// Destructibles: B006 (Barrel of Explosives), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 614
+{
+煩人的雜碎。你別想阻止運送。
+}
+
+STRING 615
+// Doodads: D008 (Wall Low (No Pathing)), Name (Name)
+{
+Wall Low (No Pathing)
+}
+
+STRING 617
+// Doodads: D009 (Sacrificial Pit), Name (Name)
+{
+Sacrificial Pit
+}
+
+STRING 618
+// Doodads: D00A (Shrine), Name (Name)
+{
+Shrine
+}
+
+STRING 619
+// Doodads: D00B (Chain Post (No Pathing)), Name (Name)
+{
+Chain Post (No Pathing)
+}
+
+STRING 620
+// Items: I000 (Bundle of Lumber), Ubertip (Tooltip - Extended)
+{
+使用時提供玩家<A01t.AIlu,DataA1>單位木材。
+}
+
+STRING 621
+// Abilities: A01T (Bundle of Lumber), EditorSuffix (Editor Suffix)
+{
++1
+}
+
+STRING 642
+{
+|cffffcc00支線任務更新|r
+}
+
+STRING 643
+{
+瘟疫蘑菇
+}
+
+STRING 662
+{
+- 摧毀巨大瘟疫蘑菇(
+}
+
+STRING 663
+{
+/3已摧毀)
+}
+
+STRING 665
+{
+摧毀巨大瘟疫蘑菇
+}
+
+STRING 709
+// Doodads: D00C (Blacksmith), Name (Name)
+{
+Blacksmith
+}
+
+STRING 710
+{
+這座兵營完好無缺，我們可以使用。
+}
+
+STRING 713
+// Units: nC06 (老鼠菲爾森), Name (Name)
+{
+老鼠菲爾森
+}
+
+STRING 715
+{
+別靠近。
+}
+
+STRING 716
+// Abilities: A003 (Mind Control), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 717
+// Units: U002 (斯坦索姆公爵), Name (Name)
+{
+斯坦索姆公爵
+}
+
+STRING 718
+// Units: U002 (Duke of Stratholme), Propernames (Proper Names)
+{
+瑞文戴爾男爵
+}
+
+STRING 719
+// Units: u00C (冰霜巫妖), Name (Name)
+{
+冰霜巫妖
+}
+
+STRING 720
+// Units: u00C (Frost Lich), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 721
+// Units: u00B (血魄教徒), Name (Name)
+{
+血魄教徒
+}
+
+STRING 722
+// Units: u00B (Blood Cultist), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 723
+// Units: u00A (穢邪召喚師), Name (Name)
+{
+穢邪召喚師
+}
+
+STRING 724
+// Units: u00A (Unholy Summoner), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 725
+// Units: u004 (血魄方尖碑), Name (Name)
+{
+血魄方尖碑
+}
+
+STRING 726
+// Units: u004 (Obelisk of Blood), Ubertip (Tooltip - Extended)
+{
+瑞文戴爾的防禦機關。
+}
+
+STRING 727
+// Units: u006 (死亡方尖碑), Name (Name)
+{
+死亡方尖碑
+}
+
+STRING 728
+// Units: u006 (Obelisk of Death), Ubertip (Tooltip - Extended)
+{
+瑞文戴爾的防禦機關。
+}
+
+STRING 729
+// Units: u007 (冰霜方尖碑), Name (Name)
+{
+冰霜方尖碑
+}
+
+STRING 730
+// Units: u007 (Obelisk of Frost), Ubertip (Tooltip - Extended)
+{
+瑞文戴爾的防禦機關。
+}
+
+STRING 731
+// Units: n000 (瑞文戴爾的弓箭手), Name (Name)
+{
+瑞文戴爾的弓箭手
+}
+
+STRING 732
+// Units: n001 (Zombie), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare GY)
+}
+
+STRING 759
+// Units: u00D ([假施法者]), Name (Name)
+{
+[假施法者]
+}
+
+STRING 760
+// Units: u00D ([Dummy Caster]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 761
+// Units: u00D ([Dummy Caster]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 762
+// Units: u00F ([假施法者 - CE]), Name (Name)
+{
+[假施法者 - CE]
+}
+
+STRING 763
+// Units: u00F ([Dummy Caster - CE]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 764
+// Units: u00F ([Dummy Caster - CE]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 765
+// Abilities: AHtb (Storm Bolt), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 766
+// Abilities: AHfs (Flame Strike), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 791
+{
+I will stay up here and scout ahead.
+}
+
+STRING 793
+{
+吾王，求你不要！
+}
+
+STRING 794
+{
+You will all serve me!
+}
+
+STRING 795
+// Units: h001 (寒冰屏障), Name (Name)
+{
+寒冰屏障
+}
+
+STRING 796
+// Units: h001 (Ice Block), Ubertip (Tooltip - Extended)
+{
+破壞屏障，從瑞文戴爾的魔掌中救出我方單位！
+}
+
+STRING 797
+// Items: I001 (冰霜祝福), Name (Name)
+{
+冰霜祝福
+}
+
+STRING 798
+// Items: I001 (Blessing of Frost), Ubertip (Tooltip - Extended)
+{
+|cff00ff00瑞文戴爾獲得冰霜祝福，提高5點護甲並賦予冰霜攻擊。此外提高他的施法頻率。
+}
+
+STRING 799
+// Units: u00G ([假攻擊者 - 靈魂吞噬]), Name (Name)
+{
+[假攻擊者 - 靈魂吞噬]
+}
+
+STRING 800
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 801
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 802
+// Abilities: AHfs (Flame Strike), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 804
+// Units: u00H ([假載具]), Name (Name)
+{
+[假載具]
+}
+
+STRING 805
+// Units: u00H ([Dummy Tanker]), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 806
+// Units: u00H ([Dummy Tanker]), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 807
+// Abilities: A01P (Breath of Life), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 808
+// Units: u005 (Disease Cloud), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare's Archer)
+}
+
+STRING 809
+// Units: u00E (屍爆術 - 假人), Name (Name)
+{
+屍爆術 - 假人
+}
+
+STRING 810
+// Units: u00E (Corpse Explosion - Dummy), Ubertip (Tooltip - Extended)
+{
+被你找到了！
+}
+
+STRING 811
+// Units: u00E (Corpse Explosion - Dummy), Tip (Tooltip - Basic)
+{
+唉呀。
+}
+
+STRING 812
+// Abilities: A01M (Terrifying Roar), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 813
+// Units: u008 (Skeleton Warrior), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 814
+// Units: u009 (骷髏法師), Name (Name)
+{
+骷髏法師
+}
+
+STRING 815
+// Units: u009 (Skeleton Mage), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 816
+// Units: u002 (Skeleton Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 817
+{
+他們來了!
+}
+
+STRING 819
+{
+It looks as if we need a key.
+}
+
+STRING 820
+// Items: I002 (十字軍廣場鑰匙), Name (Name)
+{
+十字軍廣場鑰匙
+}
+
+STRING 821
+// Items: I002 (Crusader Square Key), Ubertip (Tooltip - Extended)
+{
+通往十字軍廣場的鑰匙。
+}
+
+STRING 822
+// Items: I002 (Crusader Square Key), Description (Description)
+{
+一把紅色鑰匙。
+}
+
+STRING 823
+// Items: I002 (Crusader Square Key), Tip (Tooltip - Basic)
+{
+購買十字軍廣場鑰匙
+}
+
+STRING 825
+// Items: I003 (食物符文), Name (Name)
+{
+食物符文
+}
+
+STRING 826
+// Items: I003 (Rune of Food), Tip (Tooltip - Basic)
+{
+購買食物符文
+}
+
+STRING 828
+// Items: I003 (Rune of Food), Description (Description)
+{
+永久提高食物上限。
+}
+
+STRING 830
+{
+無法以瑞文戴爾的邪教徒為目標。
+}
+
+STRING 831
+// Doodads: D00D (Tox Gas Cloud), Name (Name)
+{
+Tox Gas Cloud
+}
+
+STRING 834
+{
+他們發現我們了！
+}
+
+STRING 835
+{
+Nothing's happening. There must be another lever.
+}
+
+STRING 836
+{
+Nothing's happening. There must be another lever.
+}
+
+STRING 837
+{
+It's too late for me, my lord...
+}
+
+STRING 843
+{
+Your suffering will be… exquisite.
+}
+
+STRING 844
+{
+|cffffcc00支線任務|r
+港口打撈
+ - 登上運輸船
+ - 打撈100份漂浮的補給品
+}
+
+STRING 845
+{
+The battleships destroyed the vessels and left the cargo to drift, caring nothing for the lives or hope it carried.
+}
+
+STRING 847
+{
+These crates bear the seal of Lordaeron — a relief fleet must have tried to reach the city before the Scourge sank them.
+}
+
+STRING 848
+{
+If any resistance still fights within those walls, food and steel like this could mean survival.
+}
+
+STRING 850
+{
+Then we take a transport and slip between their guns — what little hope remains, we will not leave to drown.
+}
+
+STRING 851
+// Abilities: S001 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Ship) (1)
+}
+
+STRING 852
+// Abilities: A01U (Inventory), EditorSuffix (Editor Suffix)
+{
+(Ship)
+}
+
+STRING 853
+{
+港口打撈
+}
+
+STRING 854
+{
+取回補給品
+}
+
+STRING 855
+{
+必須承載一位英雄。
+}
+
+STRING 856
+{
+港口打撈
+}
+
+STRING 857
+{
+在斯坦索姆港口取回從船骸散落的漂浮補給桶。這些補給對於抵抗天譴軍團相當重要。
+}
+
+STRING 858
+{
+打撈100份漂浮的補給品
+}
+
+STRING 859
+{
+|cff32cd32提示|r - 食物上限提高了。
+}
+
+STRING 860
+// Destructibles: B003 (漂浮的補給品), Name (Name)
+{
+漂浮的補給品
+}
+
+STRING 861
+// Destructibles: B004 (漂浮的補給品), Name (Name)
+{
+漂浮的補給品
+}
+
+STRING 862
+// Destructibles: B005 (漂浮的補給品), Name (Name)
+{
+漂浮的補給品
+}
+
+STRING 864
+// Units: O000 (Skeletal Titan), EditorSuffix (Name - Editor Suffix)
+{
+(Kol'ga) (Skeleton Form)
+}
+
+STRING 865
+// Units: U012 (Titan), Propernames (Proper Names)
+{
+Grimthane
+}
+
+STRING 866
+// Units: U012 (泰坦), Name (Name)
+{
+泰坦
+}
+
+STRING 869
+{
+步槍兵
+}
+
+STRING 870
+// Items: I00B (無縛符文), Name (Name)
+{
+無縛符文
+}
+
+STRING 871
+{
+登上運輸船
+}
+
+STRING 883
+{
+|cffffcc00支線任務更新|r
+港口打撈
+ - |cff808080登上運輸船(完成)|r
+ - 打撈100份漂浮的補給品
+}
+
+STRING 884
+{
+Take the Crypt down, quickly!
+}
+
+STRING 885
+{
+100！
+}
+
+STRING 887
+{
+加瑞克
+}
+
+STRING 888
+{
+The gate is locked. Maybe Ilastar has more luck.
+}
+
+STRING 890
+{
+我們需要你幫忙！
+}
+
+STRING 892
+{
+Light preserve us… what blasphemy festers here? I can feel the sickness upon the wind…
+}
+
+STRING 896
+{
+This mushroom is no common growths of rot. If left unchecked, its spores will drift beyond these ruined walls and poison the lands anew. The taint must not be allowed to spread.
+}
+
+STRING 898
+{
+It is done… The foul growths are ash, and their spores scatter no more.
+}
+
+STRING 907
+// Units: u003 (『暴食者』拉姆斯登), Name (Name)
+{
+『暴食者』拉姆斯登
+}
+
+STRING 908
+// Units: u00P (邪教徒), Name (Name)
+{
+邪教徒
+}
+
+STRING 909
+// Abilities: A01V (疫病雲效果), Name (Name)
+{
+疫病雲效果
+}
+
+STRING 910
+// Units: n008 (達米安), Name (Name)
+{
+達米安
+}
+
+STRING 911
+// Units: n008 (Damian), EditorSuffix (Name - Editor Suffix)
+{
+(Ghost)
+}
+
+STRING 912
+{
+They were spreading the plague...
+}
+
+STRING 913
+{
+What are all these empty crates for?
+}
+
+STRING 914
+{
+Help at last. We've been holed up here for a while. Undead from all sides.
+}
+
+STRING 916
+{
+洛席拉斯
+}
+
+STRING 918
+{
+萊斯‧霜語
+}
+
+STRING 920
+{
+迫擊砲小隊
+}
+
+STRING 922
+{
+居民
+}
+
+STRING 924
+{
+鬼魅農民
+}
+
+STRING 926
+{
+冷酷族長
+}
+
+STRING 928
+{
+腐土操弄者
+}
+
+STRING 934
+{
+冷死了！我要取暖！
+}
+
+STRING 936
+// Abilities: A01W (Chest of Gold), EditorSuffix (Editor Suffix)
+{
++1
+}
+
+STRING 937
+{
+You cannot kill what is already dead.
+}
+
+STRING 938
+// Units/Human/Footman/FootmanYesAttack3.flac
+{
+進攻！
+}
+
+STRING 939
+// Items: shea (Scroll of Healing), Hotkey (Hotkey)
+{
+X
+}
+
+STRING 940
+// Items: sman (Scroll of Mana), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 941
+// Items: pclr (Clarity Potion), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 942
+// Abilities: A00D (Corpse Explosion), Unhotkey (Hotkey - Turn Off)
+{
+F
+}
+
+STRING 943
+// Abilities: A015 (Major Illusion), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 944
+{
+我不會讓你死的！
+}
+
+STRING 945
+{
+Your bones will join our legion.
+}
+
+STRING 946
+// Abilities: A01X (食物符文), Name (Name)
+{
+食物符文
+}
+
+STRING 947
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 2.
+}
+
+STRING 948
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 3.
+}
+
+STRING 949
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 4.
+}
+
+STRING 950
+// Abilities: A003 (Mind Control), Researchubertip (Tooltip - Learn - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units.|n|n|cffffcc00Level 1|r - Maximum unit level 2. |n|cffffcc00Level 2|r - Maximum unit level 3. |n|cffffcc00Level 3|r - Maximum unit level 4.
+}
+
+STRING 951
+{
+That should be enough supplies.
+}
+
+STRING 955
+{
+May the Light cleanse what remains of you.
+}
+
+STRING 956
+{
+The streets crawl with zombies. Best not engage.
+}
+
+STRING 957
+{
+大人，謝謝你。還以為它要把我們吃下肚了！
+}
+
+STRING 958
+{
+有一條路可以逃出去。動作快。
+}
+
+STRING 960
+{
+怎麼…那些方尖碑！摧毀方尖碑，別讓瑞文戴爾吸收其中的魔法！
+}
+
+STRING 961
+{
+|cffffcc00發現秘密|r
+異國樹木。
+}
+
+STRING 962
+{
+背叛？不不不…我是天選之人。
+}
+
+STRING 963
+{
+生者脆弱無助。死者倒是…聽話多了。
+}
+
+STRING 964
+{
+來吧…一起淪為在斯坦索姆哀號慘死的無數冤魂吧。
+}
+
+STRING 965
+{
+可憐的傢伙…我們無能為力，只能讓它們安息了。
+}
+
+STRING 966
+// Units: uzg2 (鬼魂塔), Name (Name)
+{
+鬼魂塔
+}
+
+STRING 967
+// Units: n009 (拉瑞斯), Name (Name)
+{
+拉瑞斯
+}
+
+STRING 968
+{
+|cff32cd32提示|r - 已在兵營解鎖額外研發。
+}
+
+STRING 972
+{
+Garek, wait! There are still people alive in Stratholme.
+}
+
+STRING 973
+{
+Then our soldiers will see them to safety. But we must end this nightmare now.
+}
+
+STRING 974
+{
+Come now. Like lambs to the slaughter...
+}
+
+STRING 975
+// Items: I003 (Rune of Food), Ubertip (Tooltip - Extended)
+{
+永久提高2單位食物上限。
+}
+
+STRING 976
+// Doodads: D00E (Fire Pit Trashed (No Pathing)), Name (Name)
+{
+Fire Pit Trashed (No Pathing)
+}
+
+STRING 977
+// Doodads: D00F (Abomination (Flying)), Name (Name)
+{
+Abomination (Flying)
+}
+
+STRING 978
+// Doodads: D00G (Undead Frigate), Name (Name)
+{
+Undead Frigate
+}
+
+STRING 979
+{
+|cffffcc00發現秘密|r
+所有箱子！
+}
+
+STRING 980
+{
+75！
+}
+
+STRING 981
+{
+50！
+}
+
+STRING 983
+{
+Their bones return to dust where they belong.
+}
+
+STRING 984
+// Units/Undead/Acolyte/AcolytePissed1.flac
+{
+天譴軍團的時代來臨了！
+}
+
+STRING 986
+// Units: h002 (隨機屍體), Name (Name)
+{
+隨機屍體
+}
+
+STRING 987
+// Units: h002 (Random Corpse), EditorSuffix (Name - Editor Suffix)
+{
+(Villager)
+}
+
+STRING 988
+// Units: u00I (shutup), Name (Name)
+{
+shutup
+}
+
+STRING 989
+// Units: u00I (shutup), Ubertip (Tooltip - Extended)
+{
+You found me!
+}
+
+STRING 990
+// Units: u00I (shutup), Tip (Tooltip - Basic)
+{
+唉呀！
+}
+
+STRING 991
+// Abilities: A01O (Flame Strike), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 992
+// Doodads: D00H (BlackWall), Name (Name)
+{
+BlackWall
+}
+
+STRING 993
+// Destructibles: B007 (岩壁(無滾動)), Name (Name)
+{
+岩壁(無滾動)
+}
+
+STRING 994
+// Doodads: D00I (Strahnbrad Tree Leafless), Name (Name)
+{
+Strahnbrad Tree Leafless
+}
+
+STRING 995
+// Doodads: D00J (Water Plane Intense), Name (Name)
+{
+Water Plane Intense
+}
+
+STRING 996
+// Doodads: D00K (BrownWall), Name (Name)
+{
+BrownWall
+}
+
+STRING 997
+// Doodads: D00L (Skull (no pathing)), Name (Name)
+{
+Skull (no pathing)
+}
+
+STRING 999
+// Doodads: D00N (Broken Floor Decals2), Name (Name)
+{
+Broken Floor Decals2
+}
+
+STRING 1000
+// Doodads: D00O (General Decals2), Name (Name)
+{
+General Decals2
+}
+
+STRING 1002
+// Doodads: D00P (Omni Light OnOff), Name (Name)
+{
+Omni Light OnOff
+}
+
+STRING 1003
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T390-SORCERESS.ogg
+{
+The cult has made a dangerous foe!
+}
+
+STRING 1004
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T340-RIFLEMAN.ogg
+{
+我來掩護你！
+}
+
+STRING 1005
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T330-PRIEST.ogg
+{
+Evil shall not prevail!
+}
+
+STRING 1006
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T370-MORTARTEAM.ogg
+{
+Ready to burn some scourge!
+}
+
+STRING 1010
+{
+巫女
+}
+
+STRING 1012
+{
+牧師
+}
+
+STRING 1013
+{
+|cff8080ff25/100|r
+}
+
+STRING 1014
+{
+|cff8080ff50/100|r
+}
+
+STRING 1015
+{
+|cff8080ff75/100|r
+}
+
+STRING 1016
+// Items: I004 (船艦戰利品), Name (Name)
+{
+船艦戰利品
+}
+
+STRING 1017
+{
+TRIGSTR_399 (Male 2)
+}
+
+STRING 1018
+{
+巫女
+}
+
+STRING 1019
+{
+牧師
+}
+
+STRING 1020
+{
+步槍兵
+}
+
+STRING 1021
+{
+迫擊砲小隊
+}
+
+STRING 1022
+// Doodads: D00M (Volumetric Fog-blue), Name (Name)
+{
+Volumetric Fog-blue
+}
+
+STRING 1023
+// Doodads: D00Q (Volumetric Fog-Green), Name (Name)
+{
+Volumetric Fog-Green
+}
+
+STRING 1030
+{
+["Surprised" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]看看阿薩斯犯下的罪行。他還要燒毀多少座城市？還要殺死多少生靈？[/"Surprised"]
+}
+
+STRING 1031
+{
+伊拉斯特
+}
+
+STRING 1033
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]瑞文戴爾是幕後的黑手。我們要在這裡一舉了結他。[/"Angry"]
+}
+
+STRING 1034
+{
+加瑞克
+}
+
+STRING 1036
+{
+確實。城市防備森嚴，但我可以從側門進去升起閘門。
+}
+
+STRING 1037
+{
+伊拉斯特
+}
+
+STRING 1039
+{
+A sound plan. Stay safe until we can regroup with you.
+}
+
+STRING 1040
+{
+加瑞克
+}
+
+STRING 1042
+{
+你也是，加瑞克。願聖光指引你的劍。
+}
+
+STRING 1043
+{
+伊拉斯特
+}
+
+STRING 1046
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]瑞文戴爾！你罪大惡極，只能以死抵罪。[/"Angry"]
+}
+
+STRING 1047
+{
+加瑞克
+}
+
+STRING 1052
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你不配提到他的名字！像你這種害蟲就該去死！為了蘭登！[/"Angry"]
+}
+
+STRING 1053
+{
+加瑞克
+}
+
+STRING 1054
+{
+["Happy" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]死？你瞭解死亡嗎？[/"Happy"]
+}
+
+STRING 1055
+{
+瑞文戴爾男爵
+}
+
+STRING 1056
+{
+我見識過死亡的真正力量，還能運用它！巫妖王讓我昇華，你們這等孱弱之軀哪裡能相提並論！
+}
+
+STRING 1057
+{
+瑞文戴爾男爵
+}
+
+STRING 1058
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我會讓你痛苦哀號，就像你那可悲的隊長一樣！[/"Angry"]
+}
+
+STRING 1059
+{
+瑞文戴爾男爵
+}
+
+
+STRING 1104
+{
+加瑞克
+}
+
+STRING 1129
+{
+騎士
+}
+
+STRING 1140
+{
+步兵
+}
+
+STRING 1143
+{
+牧師
+}
+
+STRING 1145
+{
+步槍兵
+}
+
+STRING 1147
+{
+迫擊砲小隊
+}
+
+STRING 1176
+{
+加瑞克
+}
+
+STRING 1177
+{
+伊拉斯特
+}
+
+STRING 1178
+{
+加瑞克
+}
+
+STRING 1181
+{
+加瑞克
+}
+
+STRING 1182
+{
+加瑞克
+}
+
+STRING 1183
+{
+加瑞克
+}
+
+STRING 1184
+{
+加瑞克
+}
+
+STRING 1185
+{
+伊拉斯特
+}
+
+STRING 1186
+{
+加瑞克
+}
+
+STRING 1187
+{
+加瑞克
+}
+
+STRING 1188
+{
+伊拉斯特
+}
+
+STRING 1189
+{
+加瑞克
+}
+
+STRING 1190
+{
+伊拉斯特
+}
+
+STRING 1191
+{
+加瑞克
+}
+
+STRING 1208
+{
+加瑞克
+}
+
+STRING 1209
+{
+加瑞克
+}
+
+STRING 1211
+{
+伊拉斯特
+}
+
+STRING 1212
+{
+伊拉斯特
+}
+
+STRING 1213
+{
+加瑞克
+}
+
+STRING 1214
+{
+伊拉斯特
+}
+
+STRING 1215
+{
+加瑞克
+}
+
+STRING 1217
+{
+迫擊砲小隊
+}
+
+STRING 1234
+{
+加瑞克
+}
+
+STRING 1236
+{
+加瑞克
+}
+
+STRING 1240
+{
+步槍兵
+}
+
+STRING 1250
+{
+伊拉斯特
+}
+
+STRING 1252
+{
+伊拉斯特
+}
+
+STRING 1258
+{
+步兵
+}
+
+STRING 1260
+{
+巫女
+}
+
+STRING 1266
+{
+萊斯‧霜語
+}
+
+STRING 1270
+{
+萊斯‧霜語
+}
+
+STRING 1296
+{
+瑞文戴爾男爵
+}
+
+STRING 1298
+{
+冷酷族長
+}
+
+STRING 1304
+{
+加瑞克
+}
+
+STRING 1306
+{
+洛席拉斯
+}
+
+STRING 1308
+{
+洛席拉斯
+}
+
+STRING 1330
+{
+伊拉斯特
+}
+
+STRING 1336
+{
+加瑞克
+}
+
+STRING 1341
+{
+伊拉斯特
+}
+
+STRING 1345
+{
+假人單位
+}
+
+STRING 1346
+{
+遭到獵殺
+}
+
+STRING 1347
+{
+遭到獵殺
+}
+
+STRING 1349
+{
+護甲值加成
+}
+
+STRING 1350
+{
+攻擊速度加成
+}
+
+STRING 1367
+{
+死靈法師
+}
+
+STRING 1369
+{
+骷髏泰坦
+}
+
+STRING 1382
+{
+萊斯‧霜語
+}
+
+STRING 1389
+{
+伊拉斯特
+}
+
+STRING 1391
+{
+瑞文戴爾男爵
+}
+
+STRING 1393
+{
+瑞文戴爾男爵
+}
+
+STRING 1395
+{
+瑞文戴爾男爵
+}
+
+STRING 1397
+{
+瑞文戴爾男爵
+}
+
+STRING 1399
+{
+加瑞克
+}
+
+STRING 1400
+{
+閉嘴。
+}
+
+STRING 1408
+{
+你就這麼急著想被我取代？
+}
+
+STRING 1410
+{
+當然啊。我可是很想退休的。
+}
+
+STRING 1418
+{
+萊斯‧霜語
+}
+
+STRING 1431
+{
+萊斯‧霜語
+}
+
+STRING 1449
+{
+萊斯‧霜語
+}
+
+STRING 1142
+{
+我為淨化這片土地而來。
+}
+
+STRING 1144
+{
+彈藥上膛，隨時上陣！
+}
+
+STRING 1257
+{
+拿起武器！
+}
+
+STRING 1259
+{
+現在，勝利將屬於我們！
+}
+
+STRING 1295
+{
+你們全都要服侍我！
+}
+
+STRING 1451
+{
+加瑞克
+}
+
+STRING 1452
+{
+居民
+}
+
+STRING 1453
+{
+居民
+}
+
+STRING 1454
+{
+居民
+}
+
+STRING 1455
+{
+加瑞克
+}
+
+STRING 1456
+{
+居民
+}
+
+STRING 1457
+{
+居民
+}
+
+STRING 1458
+{
+加瑞克
+}
+
+STRING 1459
+{
+步兵
+}
+
+STRING 1460
+{
+瑞文戴爾男爵
+}
+
+STRING 1461
+{
+加瑞克
+}
+
+STRING 1462
+{
+伊拉斯特
+}
+
+STRING 1463
+{
+瑞文戴爾男爵
+}
+
+STRING 1464
+{
+加瑞克
+}
+
+STRING 1465
+{
+伊拉斯特
+}
+
+STRING 1466
+{
+加瑞克
+}
+
+STRING 1470
+{
+伊拉斯特
+}
+
+STRING 1478
+{
+為了羅德隆！
+}
+
+STRING 1484
+{
+我…做不到…
+}
+
+STRING 1348
+{
+此單位正遭到獵殺。其移動與攻擊速度已暫時降低。
+}
+
+STRING 1354
+{
+幻象之步 - [|cffffcc00階段1|r]
+}
+
+STRING 1355
+{
+幻象之步 - [|cffffcc00階段2|r]
+}
+
+STRING 1356
+{
+幻象之步 - [|cffffcc00階段3|r]
+}
+
+STRING 1357
+{
+英雄轉為隱形並留下幻象，混淆敵人的視聽。
+}
+
+STRING 1358
+{
+英雄轉為隱形並留下幻象，混淆敵人的視聽。
+}
+
+STRING 1359
+{
+英雄轉為隱形並留下幻象，混淆敵人的視聽。
+}
+
+STRING 1360
+{
+不死瘟疫
+}
+
+STRING 1361
+{
+不死瘟疫
+}
+
+STRING 1362
+{
+附近的敵方單位將會感染瘟疫。
+}
+
+STRING 1363
+{
+|cffff0000已感染|r
+}
+
+STRING 1364
+{
+此單位注定會死，無藥可救。
+}
+
+STRING 1365
+{
+蘑菇樹假人目標
+}
+
+STRING 1366
+{
+|cff32cd32提示|r - 伊拉斯特的慈悲聖光技能可以摧毀瘟疫蘑菇。
+}
+
+STRING 1390
+{
+聖光啊…讓正義…實現吧…
+}
+
+STRING 1392
+{
+你以為…你…成功了嗎？
+}
+
+STRING 1394
+{
+死亡並非終點。不…這只是個開始。
+}
+
+STRING 1396
+{
+我的忠誠將會得到回報。我會歸來，而且比以往更強大。
+}
+
+STRING 1398
+{
+但你不同。不，你只是砲灰，行屍走肉，就像你的隊…
+}
+
+STRING 1401
+{
+烏瑟的回憶
+}
+
+STRING 1402
+{
+聖光召喚我們去保護那些活著的人。
+}
+
+STRING 1405
+{
+伊拉斯特的回憶
+}
+
+STRING 1406
+{
+聖光同樣渴望懲戒。
+}
+
+STRING 1407
+{
+加瑞克的回憶
+}
+
+STRING 1409
+{
+蘭登的回憶
+}
+
+STRING 1411
+{
+加瑞克的回憶
+}
+
+STRING 1412
+{
+我想體驗戰鬥的熱血和勝利的榮耀。
+}
+
+STRING 1413
+{
+蘭登的回憶
+}
+
+STRING 1414
+{
+活下去才是真正的勝利，和平就是報酬。
+}
+
+STRING 1415
+{
+蘭登的回憶
+}
+
+STRING 1416
+{
+永遠不要忘記這一點。
+}
+
+STRING 1103
+{
+好計畫。在我們會合以前，注意自己的安全。
+}
+
+STRING 1107
+{
+集中火力對付墓穴！在它把我們收拾掉之前先毀掉它！
+}
+
+STRING 1109
+{
+我無法獨自對付它們。加瑞克的迫擊砲小隊可以在遠處提供支援。
+}
+
+STRING 1113
+{
+大門依然緊閉。一定還有第二個控制桿。
+}
+
+STRING 1117
+{
+它們來了！準備迎戰！
+}
+
+STRING 1119
+{
+大門上鎖了。沒有鑰匙我們進不去。
+}
+
+STRING 1121
+{
+前往十字軍廣場的道路已開。瑞文戴爾沒辦法永遠躲下去。
+}
+
+STRING 1122
+{
+斯坦索姆曾是羅德隆最偉大的城市。瑞文戴爾卻把它獻給了不死族！
+}
+
+STRING 1124
+{
+他只是眾多將靈魂出賣給天譴軍團的敗類之一。他們全都會在聖火中化為灰燼。
+}
+
+STRING 1125
+{
+該死，我們的部隊被隔開了。我們得找到開啟大門的控制桿。
+}
+
+STRING 1126
+{
+讓我們重新會合，繼續推進。
+}
+
+STRING 1128
+{
+又發現倖存者了！堅守陣線！
+}
+
+STRING 1130
+{
+這就是瑞文戴爾佔領施令的不潔之塔。
+}
+
+STRING 1131
+{
+等我斬殺他，就要把他從城牆扔下去。
+}
+
+STRING 1132
+{
+加瑞克，城裡各處可能都還有倖存者。
+}
+
+STRING 1134
+{
+我們的士兵可以繼續搜尋需要救援的平民。
+}
+
+STRING 1136
+{
+等大功告成，我們就在壁爐谷會合。讓我們把瑞文戴爾繩之以法吧！
+}
+
+STRING 1139
+{
+這只是皮肉傷…
+}
+
+STRING 1146
+{
+開打啦！
+}
+
+STRING 1153
+{
+別理他，我們真正的目標是瑞文戴爾。
+}
+
+STRING 1163
+{
+聖光在上！那些蘑菇散發的孢子正在傳播瘟疫，絕不能任由它們蔓延！
+}
+
+STRING 1164
+{
+讓這些邪惡孢子在廢墟城市的灰燼中徹底窒息吧。
+}
+
+STRING 1165
+{
+看來有人試圖走海路逃離斯坦索姆。邪教徒一定擊沉了他們的船。
+}
+
+STRING 1166
+{
+我們應該回收他們的補給品，這對戰事有所幫助。
+}
+
+STRING 1167
+{
+這些補給品應該夠了。該返回陸地了。
+}
+
+STRING 1233
+{
+感染瘟疫的穀物貨箱。瑞文戴爾
+就是這樣親手把他的子民推向毀滅的。
+}
+
+STRING 1235
+{
+大門上鎖了。我們得等伊拉斯特把門打開。
+}
+
+STRING 1340
+{
+道路已開。我會留在上面偵查前方動靜。
+}
+
+STRING 1216
+{
+你們…還活著？感謝聖光！我們已經被天譴軍團包圍好幾個星期了！
+}
+
+STRING 1329
+{
+阿隆索斯教堂。那些邪教徒對這裡犯下了何等褻瀆的暴行？
+}
+
+STRING 1239
+{
+是援軍！我就跟你們說只要再撐一下就好了！
+}
+
+STRING 1249
+{
+大門依然緊閉。一定還有另一個控制桿。
+}
+
+STRING 1335
+{
+大門打開了！霜語會領教我們的利刃！
+}
+
+STRING 1251
+{
+街道上到處都是不死族。可以的話最好避開它們。
+}
+
+STRING 1265
+{
+啊，又回來了是吧？這次我要剝下你的皮！
+}
+
+STRING 1269
+{
+凡人，你們沒那麼輕易殺死我。我們還會再見面的。
+}
+
+STRING 1305
+{
+你們受苦的模樣，會是絕妙的美景。
+}
+
+STRING 1307
+{
+事情還沒了結，渺小的凡人們。
+}
+
+STRING 1297
+{
+你的骨骸將會效忠天譴軍團。
+}
+
+STRING 1303
+{
+你的骨骸可以和其他廢物躺在一起了。
+}
+
+STRING 1381
+{
+祈倫托那些膽小的法師唾棄我的天賦與野心。但巫妖王會給予我應得的賞賜！
+}
+
+STRING 1417
+{
+我現在就拋棄這可悲肉身，擁抱不死的永生！
+}
+
+STRING 1430
+{
+看吧！我獲得新生，蛻變為完美的型態和力量！
+}
+
+STRING 1448
+{
+萊尼德！告訴我的學生們，他們就隨心所欲吧。現在有更偉大的宿命在等待著我！
+}
+
+STRING 1487
+{
+復仇
+}
+
+STRING 1488
+{
+第四章：復仇
+}
+
+STRING 1467
+{
+伊拉斯特，你還好嗎？
+}
+
+STRING 1469
+{
+還不錯。我會在上面這裡盡可能治療你。
+}
+
+STRING 1471
+{
+你救了我一命！我要離開這裡！
+}
+
+STRING 1472
+{
+謝謝你，長官！我還以為自己會死在這裡，或是落得更慘的下場！
+}
+
+STRING 1473
+{
+真的嗎？這場惡夢居然要結束了嗎？感謝你的大恩大德！
+}
+
+STRING 1474
+{
+有惡魔！有翅膀又有角，甚至還有蹄！
+}
+
+STRING 1475
+{
+我們被困住了！拜託，救命！
+}
+
+STRING 1476
+{
+羅德隆去死吧！
+}
+
+STRING 1477
+{
+所有教徒都是這種下場。
+}
+
+STRING 1479
+{
+天譴軍團無窮無盡！你們會被自己流出的鮮血嗆死！
+}
+
+STRING 1480
+{
+這是…什麼？在我的肺裡面…
+}
+
+STRING 1481
+{
+瘟疫孢子…我們…我們被感染了…
+}
+
+STRING 1482
+{
+一群煩人的害蟲！看看真正的力量吧！
+}
+
+STRING 1483
+{
+伊拉斯特，那些方尖碑！摧毀它們！
+}
+
+STRING 1485
+{
+伊拉斯特，撐住！
+}
+
+STRING 1489
+{
+摧毀巨大瘟疫蘑菇(已摧毀1/3)
+}
+
+STRING 1491
+{
+摧毀巨大瘟疫蘑菇(已摧毀2/3)
+}
+
+STRING 1494
+{
+英雄微光
+}
+
+STRING 1495
+{
+能見度幫手
+}
+
+STRING 1497
+{
+假人單位
+}
+
+STRING 1500
+{
+冰凍
+}
+
+STRING 1499
+{
+萊斯‧霜語擊昏冰凍
+}
+
+STRING 1501
+{
+萊斯‧霜語擊昏冰凍
+}

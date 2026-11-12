@@ -1,0 +1,1777 @@
+{
+  "map": "UndeadRE01",
+  "title": "City of the Dead",
+  "locale": "ptBR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M1-C020-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Nós, Renegados, estamos apenas começando a encontrar nosso lugar neste mundo que abomina nossa própria existência.",
+      "string_id": 3825,
+      "speaker_string_id": 3826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M1-C020-050-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Não existe um lar para nós, então temos que construí-lo nós mesmos. E precisamos fazê-lo juntos.",
+      "string_id": 3834,
+      "speaker_string_id": 3835,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M1-C020-060-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Nos anos vindouros, contarei com a sua força, Garek Bandarion. Assim como todo o povo da Cidade Baixa.",
+      "string_id": 3843,
+      "speaker_string_id": 3844,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-060-SYLVANAS.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M1-C020-070-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Você está preparado para servir a ele? Servir aos Renegados?",
+      "string_id": 3852,
+      "speaker_string_id": 3853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-070-SYLVANAS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M1-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Eu... Sim. Estou, Lady Sylvana.",
+      "string_id": 4234,
+      "speaker_string_id": 4235,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M1-C020-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Então contarei com você.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Então contarei com você.[/\"Happy\"]",
+      "string_id": 3870,
+      "speaker_string_id": 3871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M1-C020-100-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Anya, ensine-o com atenção. Ainda há muito a ser feito.",
+      "string_id": 3879,
+      "speaker_string_id": 3880,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-100-SYLVANAS.ogg"
+    },
+    {
+      "n": 8,
+      "id": "AbominationYes3",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Abominação",
+      "text": "Rasgar e despedaçar!",
+      "string_id": 4570,
+      "speaker_string_id": 4571,
+      "sound": "Units/Undead/Abomination/AbominationYes3.flac"
+    },
+    {
+      "n": 9,
+      "id": "A1M1-C030-010-PUTRESS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Putriss",
+      "text": "Ah, você voltou. Sem ressentimentos sobre antes, assim espero.",
+      "string_id": 4310,
+      "speaker_string_id": 4311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-010-PUTRESS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M1-C030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "É, acho que não.",
+      "string_id": 3942,
+      "speaker_string_id": 3943,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-020-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M1-C030-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "O que você quer, Putriss?",
+      "string_id": 4476,
+      "speaker_string_id": 4477,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-030-ANYA.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M1-C030-040-PUTRESS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Putriss",
+      "text": "Ah, só isso ou aquilo para a minha pesquisa. Seria uma grande gentileza sua.",
+      "string_id": 3951,
+      "speaker_string_id": 3952,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-040-PUTRESS.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M1-C030-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "A Dama Sombria pediu que te ajudássemos e é isso que faremos. Vamos, Garek.",
+      "string_id": 3960,
+      "speaker_string_id": 3961,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-050-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M1-C040-010-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Ah, é você! Agradeço por me salvar do Flagelo.",
+      "string_id": 4091,
+      "speaker_string_id": 4092,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-010-BERND.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M1-C040-020-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Como pode ver, Lady Sylvana já encontrou uma tarefa para mim. Quando vivia, eu era um pedreiro, e agora posso usar minhas habilidades para construir nossa cidade.",
+      "string_id": 3986,
+      "speaker_string_id": 3987,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-020-BERND.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M1-C040-030-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Mas não posso fazer muito sem as rochas da pedreira daqui de perto. Ela foi conquistada por ogros.",
+      "string_id": 3997,
+      "speaker_string_id": 3998,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-030-BERND.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M1-C040-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Então você quer que ela seja liberada. Não se preocupe, cuidaremos desses ogros e você terá o que precisa.",
+      "string_id": 4006,
+      "speaker_string_id": 4007,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-040-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M1-C060-020-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Varimatras",
+      "text": "Esse é meu!",
+      "string_id": 4026,
+      "speaker_string_id": 4027,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-020-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M1-C060-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Quem... quem é você?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Quem... quem é você?[/\"Surprised\"]",
+      "string_id": 4035,
+      "speaker_string_id": 4036,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-030-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M1-C060-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Este é o Senhor do Medo Varimatras. Desertor do Flagelo e agora um servo da Dama Sombria.",
+      "string_id": 4044,
+      "speaker_string_id": 4045,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-040-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M1-C060-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Que bom que finalmente apareceu. Onde você esteve?",
+      "string_id": 4053,
+      "speaker_string_id": 4054,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-050-ANYA.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M1-C060-060-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Varimatras",
+      "text": "Investigando essa invasão. O Flagelo estava cavando túneis pelas antigas catacumbas.",
+      "string_id": 4062,
+      "speaker_string_id": 4063,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-060-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M1-C060-070-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Varimatras",
+      "text": "O que você enfrentou aqui era apenas uma tropa de reconhecimento. Eu ordeno que extermine o restante deles.",
+      "string_id": 4071,
+      "speaker_string_id": 4072,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-070-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M1-C060-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Pode ser um pouco difícil para nós dois.",
+      "string_id": 4080,
+      "speaker_string_id": 4081,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-080-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M1-C060-090-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Varimatras",
+      "text": "Então recrute mais soldados e forme uma guarda da cidade. Não importa como decidir agir, faça logo. Não sou tão paciente quanto Lady Sylvana.",
+      "string_id": 4089,
+      "speaker_string_id": 4090,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-090-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M1-C070-010-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "O líder deles falou de uma catedral. Ele deve estar se referindo àquela nas ruínas da cidade. Aposto que a base de operações deles fica lá.",
+      "string_id": 4100,
+      "speaker_string_id": 4101,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-010-ANYA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M1-C070-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Seguiremos esses túneis para nos infiltrar na catedral e matar quem encontrarmos lá.",
+      "string_id": 4109,
+      "speaker_string_id": 4110,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-020-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M1-C070-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "O sacerdote que estava acompanhando esses soldados... Ele parecia entender que os Renegados não são parte do Flagelo.",
+      "string_id": 4118,
+      "speaker_string_id": 4119,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-030-GAREK.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M1-C070-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Você acha que, se o encontrarmos na catedral, poderemos dialogar com ele?",
+      "string_id": 4127,
+      "speaker_string_id": 4128,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-040-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M1-C070-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Claro que não. Nunca confie nos vivos, Garek. Eles são nossos inimigos.",
+      "string_id": 4136,
+      "speaker_string_id": 4137,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-050-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M1-C070-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Se você insiste, Anya.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Se você insiste, Anya.[/\"Squint\"]",
+      "string_id": 4149,
+      "speaker_string_id": 4150,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-060-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M1-M010-010-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Daniel",
+      "text": "Putriss incumbiu Daniel de formar uma nova abominação. Mas, para isso, precisaremos de outra remessa de partes.",
+      "string_id": 4158,
+      "speaker_string_id": 4159,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-010-KEEVER.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M1-M010-020-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Daniel",
+      "text": "Aparentemente, as partes que Daniel deveria usar despertaram e começaram a andar por aí.",
+      "string_id": 4167,
+      "speaker_string_id": 4168,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-020-KEEVER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M1-M010-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Lamento o incômodo.",
+      "string_id": 4178,
+      "speaker_string_id": 4179,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M1-M010-040-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Daniel",
+      "text": "Hunf. Daniel compilou uma lista de substituições adequadas. Você poderia coletar?",
+      "string_id": 4187,
+      "speaker_string_id": 4188,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-040-KEEVER.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M1-M010-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "É o mínimo que eu deveria fazer. Vamos conferir a lista, então.",
+      "string_id": 4196,
+      "speaker_string_id": 4197,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M1-M020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Anya, Garek. Vocês se saíram bem trazendo mais Renegados para a Cidade Baixa. Conforme nossa população aumenta, nossa chance de sobrevivência também cresce.",
+      "string_id": 4205,
+      "speaker_string_id": 4206,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M1-M020-020-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Infelizmente, também nos tornamos um alvo maior para aqueles que desejam nos destruir. Invasores foram avistados nos canais da cidade.",
+      "string_id": 4214,
+      "speaker_string_id": 4215,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-020-SYLVANAS.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M1-M020-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvana",
+      "text": "Peço que envenenem o abastecimento hídrico com a peste. Essas toxinas não afetarão os Renegados, mas farão qualquer criatura viva repensar antes de invadir.",
+      "string_id": 4223,
+      "speaker_string_id": 4224,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M1-M020-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Conte conosco, Dama Sombria.",
+      "string_id": 4232,
+      "speaker_string_id": 4233,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-040-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M1-M030-010-EDRIC",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Edric",
+      "text": "Olá? Quem está aí? Não consigo ver sem meu olho!",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Olá? Quem está aí? Não consigo ver sem meu olho![/\"Scared\"]",
+      "string_id": 4243,
+      "speaker_string_id": 4244,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-010-EDRIC.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M1-M030-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Edric? O que você está fazendo aqui?",
+      "string_id": 4252,
+      "speaker_string_id": 4253,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M1-M030-030-EDRIC",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Edric",
+      "text": "Anya, é você? Eu perdi meu único olho bom e agora não consigo encontrar a saída do esgoto!",
+      "string_id": 4261,
+      "speaker_string_id": 4262,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-030-EDRIC.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A1M1-M030-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Sinceramente, as chances de encontrá-lo são bem baixas. Espere aqui por enquanto.",
+      "string_id": 4270,
+      "speaker_string_id": 4271,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A1M1-M040-010-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Daniel",
+      "text": "Hmm. Você acha que os carniçais podem apresentar senciência, apesar de sua massa cerebral?",
+      "string_id": 4281,
+      "speaker_string_id": 4282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-010-KEEVER.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A1M1-M040-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "De novo isso, Daniel? Carniçais são criaturas irracionais, movidos apenas pela fome.",
+      "string_id": 4290,
+      "speaker_string_id": 4291,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A1M1-M040-030-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Daniel",
+      "text": "Uma hipótese comum. Que Daniel precisa provar ou refutar.",
+      "string_id": 4299,
+      "speaker_string_id": 4300,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-030-KEEVER.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A1M1-M040-040-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Daniel",
+      "text": "Houve relatos de carniçais próximos demonstrando comportamentos incomuns. Traga-os até Daniel para observar.",
+      "string_id": 4308,
+      "speaker_string_id": 4309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-040-KEEVER.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A1M1-M050-010-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Licurgo",
+      "text": "Anya, Garek, sua ajuda seria de muita utilidade para mim.",
+      "string_id": 4315,
+      "speaker_string_id": 4316,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-010-LEXINGTON.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A1M1-M050-020-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Licurgo",
+      "text": "Vejam bem, descobri recentemente que, escondida nas ruínas da capital, existe a entrada para um cofre arcano.",
+      "string_id": 4331,
+      "speaker_string_id": 4332,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-020-LEXINGTON.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A1M1-M050-030-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Licurgo",
+      "text": "Suponho que ele contenha um artefato poderoso usado no passado pelos próprios magos reais de Menethil.",
+      "string_id": 4341,
+      "speaker_string_id": 4342,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-030-LEXINGTON.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A1M1-M050-040-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Licurgo",
+      "text": "Eu não me atreveria a desbravar as ruínas, muito menos o cofre. Mas se vocês fizessem isso por mim...",
+      "string_id": 4351,
+      "speaker_string_id": 4352,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-040-LEXINGTON.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A1M1-M050-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Vamos ver o que podemos fazer. Se isso não resultar em nada, você terá que pagar. Muito.",
+      "string_id": 4356,
+      "speaker_string_id": 4574,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-050-ANYA.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A1M1-M060-010-LABORER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Operário",
+      "text": "Me poupe, eu imploro! Sou apenas um pedreiro! Não tenho ligação nenhuma com o Flagelo!",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Me poupe, eu imploro! Sou apenas um pedreiro! Não tenho ligação nenhuma com o Flagelo![/\"Scared\"]",
+      "string_id": 4367,
+      "speaker_string_id": 4368,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-010-LABORER.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A1M1-M060-020-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Irmão Damien",
+      "text": "Você... consegue falar? E sua consciência parece intacta...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Você... consegue falar? E sua consciência parece intacta...[/\"Surprised\"]",
+      "string_id": 4400,
+      "speaker_string_id": 4401,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-020-DAMIEN.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A1M1-M060-030-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Irmão Damien",
+      "text": "Lorde Francis, precisamos levar este homem até o General Abbendis. Se alguns mortos-vivos realmente se libertaram do Flagelo...",
+      "string_id": 4387,
+      "speaker_string_id": 4388,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-030-DAMIEN.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A1M1-M060-040-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lorde Francis",
+      "text": "As ordens do General Abbendis foram claras. Os mortos-vivos precisam ser eliminados. Todos eles.",
+      "string_id": 4390,
+      "speaker_string_id": 4391,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-040-FRANCIS.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A1M1-M060-050-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Irmão Damien",
+      "text": "Pare! O que você está fazendo?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Pare! O que você está fazendo?[/\"Surprised\"]",
+      "string_id": 4411,
+      "speaker_string_id": 4412,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-050-DAMIEN.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A1M1-M060-060-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lorde Francis",
+      "text": "Me vingando em nome de Lordaeron, Irmão Damien. Agora queime o cadáver.",
+      "string_id": 4422,
+      "speaker_string_id": 4423,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-060-FRANCIS.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A1M1-M060-070-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Irmão Damien",
+      "text": "Pela Luz... Se alguns dos mortos-vivos podem ser salvos...",
+      "string_id": 4431,
+      "speaker_string_id": 4432,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-070-DAMIEN.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A1M1-M060-080-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lorde Francis",
+      "text": "Todos eles são monstros que merecem ser exterminados. E agora conseguimos uma maneira de adentrar em seu covil maligno.",
+      "string_id": 4434,
+      "speaker_string_id": 4435,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-080-FRANCIS.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A1M1-M060-090-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lorde Francis",
+      "text": "Venha comigo, Deimon. Precisamos nos preparar para um ataque com força total.",
+      "string_id": 4572,
+      "speaker_string_id": 4573,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-090-FRANCIS.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A1M1-M070-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "Garek! Anya! Vocês têm um segundo?",
+      "string_id": 4449,
+      "speaker_string_id": 4450,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-010-GLIX.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A1M1-M070-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Na verdade, não...",
+      "string_id": 4460,
+      "speaker_string_id": 4461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-020-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A1M1-M070-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "Ótimo! Estou precisando de ajuda.",
+      "string_id": 4472,
+      "speaker_string_id": 4473,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-030-GLIX.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A1M1-M070-040-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "A Guilda de Engenharia Mecânica de Azeroth está organizando uma liga aberta de corrida, mas o meu piloto acabou de se explodir!",
+      "string_id": 4484,
+      "speaker_string_id": 4485,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-040-GLIX.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A1M1-M070-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Uma liga de corrida?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Uma liga de corrida?[/\"Surprised\"]",
+      "string_id": 4493,
+      "speaker_string_id": 4494,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-050-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A1M1-M070-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "As máquinas mais velozes sobre rodas, todas competindo pelo primeiro lugar. E acho que você tem o que é preciso para vencer! Eu vou até te pagar!",
+      "string_id": 4503,
+      "speaker_string_id": 4504,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-060-GLIX.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A1M1-M070-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Beleza, Glix. Mas acho bom isso ser rápido.",
+      "string_id": 4513,
+      "speaker_string_id": 4514,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-070-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A1M1-M070-080-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "Hah! Eu ia dizer a mesma coisa para você! Agora vamos colocar seu cinto.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Hah! Eu ia dizer a mesma coisa para você! Agora vamos colocar seu cinto.[/\"Happy\"]",
+      "string_id": 4577,
+      "speaker_string_id": 4578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-080-GLIX.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A1M1-M070-090-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Glix",
+      "text": "A corrida vai acontecer em Pinhaprata. Eu ofereço o transporte, de graça!",
+      "string_id": 4667,
+      "speaker_string_id": 4663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-090-GLIX.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A1M1-M070-090-GLIX",
+      "scene": "Transmissions.Transmission OQ AR Portal Q",
+      "speaker": "Glix",
+      "text": "A corrida vai acontecer em Pinhaprata. Eu ofereço o transporte, de graça!",
+      "string_id": 4667,
+      "speaker_string_id": 4663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-090-GLIX.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A1M1-T010-GAREK",
+      "scene": "Transmissions.Transmission MQ Sec Ch Start Game Q",
+      "speaker": "Garek",
+      "text": "Que lugar é esse?",
+      "string_id": 3619,
+      "speaker_string_id": 3620,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T010-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A1M1-T020-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Start Game Q",
+      "speaker": "Anya",
+      "text": "Nós a chamamos de Cidade Baixa, criada nos esgotos e catacumbas sob a arruinada capital de Lordaeron.",
+      "string_id": 3627,
+      "speaker_string_id": 3628,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T020-ANYA.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A1M1-T030-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Start Game Q",
+      "speaker": "Anya",
+      "text": "E para responder à sua pergunta anterior, meu nome é Anya. Agora me siga. Você tem muito a aprender.",
+      "string_id": 2779,
+      "speaker_string_id": 2780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T030-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A1M1-T040-GAREK",
+      "scene": "Transmissions.Transmission MQ Sec Ch Questions Q",
+      "speaker": "Garek",
+      "text": "O que aconteceu comigo? Eu... morri?",
+      "string_id": 2788,
+      "speaker_string_id": 2789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T040-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A1M1-T050-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Questions Q",
+      "speaker": "Anya",
+      "text": "Morto-vivo. Nós, os Renegados, já fomos os servos do Lich Rei, mas a Lady Sylvana Correventos nos libertou recentemente.",
+      "string_id": 2791,
+      "speaker_string_id": 2792,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T050-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A1M1-T060-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Questions Q",
+      "speaker": "Anya",
+      "text": "Quem quer que tenha sido em vida, você é um de nós agora.",
+      "string_id": 2815,
+      "speaker_string_id": 2816,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T060-ANYA.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A1M1-T070-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Altar Q",
+      "speaker": "Anya",
+      "text": "Acostume-se com o Altar de Ressureição. Você precisará dele quando perecer em batalha.",
+      "string_id": 3810,
+      "speaker_string_id": 3811,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T070-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A1M1-T080-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Training Q",
+      "speaker": "Anya",
+      "text": "Ótimo. Agora vamos testar suas habilidades de combate em treinos com os guardas.",
+      "string_id": 2831,
+      "speaker_string_id": 2832,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T080-ANYA.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A1M1-T090-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro01 Q",
+      "speaker": "Guarda Renegado",
+      "text": "Vamos ver como você se sai, novato.",
+      "string_id": 2909,
+      "speaker_string_id": 2910,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T090-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A1M1-T100-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro02 Q",
+      "speaker": "Guarda Renegado",
+      "text": "Tente não cair rápido demais.",
+      "string_id": 2919,
+      "speaker_string_id": 2920,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T100-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A1M1-T110-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro03 Q",
+      "speaker": "Guarda Renegado",
+      "text": "Recrutou mais alguém, Anya? Tomara que dessa vez dure mais tempo.",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T110-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A1M1-T120-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro04 Q",
+      "speaker": "Guarda Renegado",
+      "text": "Estou com vontade de lutar!",
+      "string_id": 2927,
+      "speaker_string_id": 2928,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T120-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A1M1-T130-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro05 Q",
+      "speaker": "Guarda Renegado",
+      "text": "Finalmente, algo que não seja um carniçal!",
+      "string_id": 2929,
+      "speaker_string_id": 2930,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T130-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A1M1-T140-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro06 Q",
+      "speaker": "Guarda Renegado",
+      "text": "Chegou a sua hora, aprendiz!",
+      "string_id": 2943,
+      "speaker_string_id": 2944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T140-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A1M1-T150-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Traps 01 Q",
+      "speaker": "Anya",
+      "text": "Está vendo aquele fogo? Seria uma boa ideia deixá-lo lutar em nosso lugar.",
+      "string_id": 2834,
+      "speaker_string_id": 2835,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T150-ANYA.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A1M1-T160-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Package Q",
+      "speaker": "Anya",
+      "text": "Muito bem. Parece que você conseguiu aprender mais do que apenas o seu nome.",
+      "string_id": 2840,
+      "speaker_string_id": 2841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T160-ANYA.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A1M1-T170-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Package Q",
+      "speaker": "Anya",
+      "text": "Venha, tenho mais tarefas para cumprir no Distrito Comercial.",
+      "string_id": 2848,
+      "speaker_string_id": 2849,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T170-ANYA.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A1M1-T180-GAREK",
+      "scene": "Transmissions.Transmission MQ Sec Ch Elevator Q",
+      "speaker": "Garek",
+      "text": "Minhas memórias... elas voltarão algum dia?",
+      "string_id": 2857,
+      "speaker_string_id": 2858,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T180-GAREK.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A1M1-T190-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Elevator Q",
+      "speaker": "Anya",
+      "text": "Talvez sim, talvez não. O despertar é diferente para cada Renegado.",
+      "string_id": 2866,
+      "speaker_string_id": 2867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T190-ANYA.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A1M1-T200-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Elevator Q",
+      "speaker": "Anya",
+      "text": "De qualquer forma, sua vida antiga não existe mais. Você deve se reconstruir em sua morte-viva.",
+      "string_id": 2875,
+      "speaker_string_id": 2876,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T200-ANYA.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A1M1-T210-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Money Q",
+      "speaker": "Anya",
+      "text": "A Fiona costuma ter suprimentos valiosos. Leve essas moedas para gastar com algo.",
+      "string_id": 2884,
+      "speaker_string_id": 2885,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T210-ANYA.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A1M1-T220-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Sylvanas Q",
+      "speaker": "Anya",
+      "text": "Depois que acabar, me acompanhe. Tem alguém que você deveria conhecer.",
+      "string_id": 2899,
+      "speaker_string_id": 2900,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T220-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A1M1-T230-SYLVANAS",
+      "scene": "Transmissions.Transmission MQ FW Sylvanas Gives Quest Q",
+      "speaker": "Sylvana",
+      "text": "Mais mortos-vivos despertam em meio às ruínas. Leve esses novos Renegados para a segurança da Cidade Baixa.",
+      "string_id": 2958,
+      "speaker_string_id": 2959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T230-SYLVANAS.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A1M1-T230-SYLVANAS",
+      "scene": "Research.Change Color of Portrait",
+      "speaker": "Sylvana",
+      "text": "Mais mortos-vivos despertam em meio às ruínas. Leve esses novos Renegados para a segurança da Cidade Baixa.",
+      "string_id": 2958,
+      "speaker_string_id": 2959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T230-SYLVANAS.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A1M1-T240-GAREK",
+      "scene": "Transmissions.Transmission MQ FW Return Q",
+      "speaker": "Garek",
+      "text": "Está bem movimentado aqui. Imagino que Sylvana está encontrando ocupações para todos.",
+      "string_id": 2961,
+      "speaker_string_id": 2962,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T240-GAREK.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A1M1-T250-ANYA",
+      "scene": "Transmissions.Transmission MQ FW Return Q",
+      "speaker": "Anya",
+      "text": "Todos nós precisamos fazer nossa parte para que a cidade se torne realmente nossa.",
+      "string_id": 2969,
+      "speaker_string_id": 2970,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T250-ANYA.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A1M1-T260-SYLVANAS",
+      "scene": "Transmissions.Transmission MQ FW Sylvanas Reward Q",
+      "speaker": "Sylvana",
+      "text": "Muito bem. A Cidade Baixa está repleta de novos Renegados.",
+      "string_id": 2981,
+      "speaker_string_id": 2982,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T260-SYLVANAS.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A1M1-T270-SYLVANAS",
+      "scene": "Transmissions.Transmission MQ FW Sylvanas Direct to Putters Q",
+      "speaker": "Sylvana",
+      "text": "O Boticário-mor Putriss estava procurando por você. Acredito que sua reputação está se espalhando rápido.",
+      "string_id": 2984,
+      "speaker_string_id": 2985,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T270-SYLVANAS.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A1M1-T280-GAREK",
+      "scene": "Transmissions.Transmission MQ AS Gossiping About Putress Q",
+      "speaker": "Garek",
+      "text": "Parece que você não gosta muito do Putriss.",
+      "string_id": 2993,
+      "speaker_string_id": 2994,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T280-GAREK.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A1M1-T290-ANYA",
+      "scene": "Transmissions.Transmission MQ AS Gossiping About Putress Q",
+      "speaker": "Anya",
+      "text": "A sabedoria dele é inegável. É o comportamento dele que deixa a desejar.",
+      "string_id": 3002,
+      "speaker_string_id": 3003,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T290-ANYA.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A1M1-T300-ANYA",
+      "scene": "Transmissions.Transmission MQ AS Gossiping About Putress Q",
+      "speaker": "Anya",
+      "text": "Ainda assim, a Dama Sombria confia nele. Por isso preciso me esforçar para tolerá-lo.",
+      "string_id": 3011,
+      "speaker_string_id": 3012,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T300-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A1M1-T310-PUTRESS",
+      "scene": "Transmissions.Transmission MQ AS Putress Reward Q",
+      "speaker": "Putriss",
+      "text": "Ah, os reagentes que solicitei. Espero que não tenham sido muito difíceis de encontrar.",
+      "string_id": 3014,
+      "speaker_string_id": 3015,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T310-PUTRESS.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A1M1-T320-PUTRESS",
+      "scene": "Transmissions.Transmission MQ AS Putress Direct to Bernd Q",
+      "speaker": "Putriss",
+      "text": "Aliás, o pedreiro que você resgatou está precisando de sua ajuda. Você poderá encontrá-lo próximo do canal.",
+      "string_id": 3020,
+      "speaker_string_id": 3021,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T320-PUTRESS.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A1M1-T330-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "Garek",
+      "text": "Espalhar a peste no abastecimento hídrico da cidade parece uma medida drástica.",
+      "string_id": 3029,
+      "speaker_string_id": 3030,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T330-GAREK.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A1M1-T340-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "Anya",
+      "text": "Somente os Renegados conhecem a Cidade Baixa como casa. Torná-la inóspita é a defesa perfeita contra os vivos.",
+      "string_id": 3038,
+      "speaker_string_id": 3039,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T340-ANYA.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A1M1-T350-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "Garek",
+      "text": "Os vivos nos odeiam tanto assim? O Flagelo é nosso inimigo em comum.",
+      "string_id": 3047,
+      "speaker_string_id": 3048,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T350-GAREK.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A1M1-T360-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "Anya",
+      "text": "Na visão dos vivos, os Renegados e o Flagelo são a mesma coisa.",
+      "string_id": 3056,
+      "speaker_string_id": 3057,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T360-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A1M1-T370-ANYA",
+      "scene": "Transmissions.Transmission OQ BF Eye Aquired Q",
+      "speaker": "Anya",
+      "text": "O olho de Edric é um poderoso berloque mágico. Que ele está sempre perdendo.",
+      "string_id": 3059,
+      "speaker_string_id": 3060,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T370-ANYA.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A1M1-T380-ANYA",
+      "scene": "Transmissions.Transmission OQ BF Eye Aquired Q",
+      "speaker": "Anya",
+      "text": "Podemos devolvê-lo, para que ele o perca de novo, ou podemos equipá-lo nós mesmos. Você que sabe.",
+      "string_id": 3065,
+      "speaker_string_id": 3066,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T380-ANYA.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A1M1-T390-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Pour Poison Q",
+      "speaker": "Anya",
+      "text": "Despeje o veneno aqui. O fluxo da água o levará para os outros canais.",
+      "string_id": 3410,
+      "speaker_string_id": 3411,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T390-ANYA.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A1M1-T400-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Garek Flashback 03 Q",
+      "speaker": "Garek",
+      "text": "Tem algo familiar nesses canais. Como se eu já tivesse estado aqui antes...",
+      "string_id": 3083,
+      "speaker_string_id": 3084,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T400-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A1M1-T410-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Garek Flashback 03 Q",
+      "speaker": "Anya",
+      "text": "Talvez você tenha trabalhado na vigilância sanitária em vida.",
+      "string_id": 3092,
+      "speaker_string_id": 3093,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T410-ANYA.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A1M1-T420-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Garek Flashback 03 Q",
+      "speaker": "Garek",
+      "text": "Parece que eu tinha um motivo para estar aqui... algo importante...",
+      "string_id": 3097,
+      "speaker_string_id": 3098,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T420-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A1M1-T430-EDRIC",
+      "scene": "Transmissions.Transmission OQ BF Reward Q",
+      "speaker": "Edric",
+      "text": "Você encontrou meu olho? Ah, graças à Dama Sombria! Eu jamais conseguiria sair daqui sem isso.",
+      "string_id": 3124,
+      "speaker_string_id": 3125,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T430-EDRIC.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A1M1-T440-EDRIC",
+      "scene": "Transmissions.Transmission OQ BF No Reward Q",
+      "speaker": "Edric",
+      "text": "Meu olho... Como vou sair daqui se não consigo enxergar?",
+      "string_id": 3141,
+      "speaker_string_id": 3142,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T440-EDRIC.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A1M1-T450-SYLVANAS",
+      "scene": "Transmissions.Transmission OQ PC Sylvanas Reward Q",
+      "speaker": "Sylvana",
+      "text": "Excelente trabalho. Os canais estão fluindo com a peste. Os vivos se arriscarão demais se tentarem realizar uma invasão.",
+      "string_id": 3111,
+      "speaker_string_id": 3112,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T450-SYLVANAS.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A1M1-T452-ANYA",
+      "scene": "Transmissions.Transmission OQ SPQ Help Q",
+      "speaker": "Anya",
+      "text": "Deixa com a gente. É melhor sermos os caçadores do que a presa.",
+      "string_id": 3527,
+      "speaker_string_id": 3528,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T452-ANYA.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A1M1-T453-GAREK",
+      "scene": "Transmissions.Transmission OQ SPQ Giant Spider Q",
+      "speaker": "Garek",
+      "text": "É realmente uma aranha gigantesca.",
+      "string_id": 3536,
+      "speaker_string_id": 3537,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T453-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A1M1-T454-ANYA",
+      "scene": "Transmissions.Transmission OQ SPQ Cut Mushrooms Q",
+      "speaker": "Anya",
+      "text": "Não vamos alcançar lá em cima! Derrube os cogumelos!",
+      "string_id": 3539,
+      "speaker_string_id": 3540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T454-ANYA.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A1M1-T455-ANYA",
+      "scene": "Transmissions.Transmission OQ SPQ Reward Q",
+      "speaker": "Anya",
+      "text": "Ótimo trabalho. Agora nossos trabalhadores podem continuar a construir em paz.",
+      "string_id": 3548,
+      "speaker_string_id": 3549,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T455-ANYA.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A1M1-T460-KEEVER",
+      "scene": "Transmissions.Transmission OQ AB Keever Reward Q",
+      "speaker": "Daniel",
+      "text": "Hmm. Essas partes servirão. Pelo menos você não as danificou. Não muito.",
+      "string_id": 3150,
+      "speaker_string_id": 3151,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T460-KEEVER.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A1M1-T470-GAREK",
+      "scene": "Transmissions.Transmission OQ AB Keever Reward Q",
+      "speaker": "Garek",
+      "text": "De nada, Daniel.",
+      "string_id": 3159,
+      "speaker_string_id": 3160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T470-GAREK.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A1M1-T480-BERND",
+      "scene": "Transmissions.Transmission MQ SQ Bernd Reward Q",
+      "speaker": "Bernd",
+      "text": "Os carregamentos da pedreira já estão chegando! Mal consigo expressar minha gratidão. Leve isso como agradecimento.",
+      "string_id": 3168,
+      "speaker_string_id": 3169,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T480-BERND.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A1M1-T490-BERND",
+      "scene": "Transmissions.Transmission MQ SQ Bernd Direct to Excavation Q",
+      "speaker": "Bernd",
+      "text": "Odeio ter que pedir ajuda de novo tão cedo, mas uma das minhas equipes de escavação não voltou. Você poderia descobrir o paradeiro dela?",
+      "string_id": 3177,
+      "speaker_string_id": 3178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T490-BERND.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A1M1-T500-GAREK",
+      "scene": "Transmissions.Transmission MQ SQ Bernd Direct to Excavation Q",
+      "speaker": "Garek",
+      "text": "Entendi. Marque o sítio de escavação em nosso mapa e iremos conferir.",
+      "string_id": 3192,
+      "speaker_string_id": 3193,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T500-GAREK.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A1M1-T510-GAREK",
+      "scene": "Transmissions.Transmission MQ DD Corpses Found Q",
+      "speaker": "Garek",
+      "text": "Anya, veja! O que é isso...",
+      "string_id": 3201,
+      "speaker_string_id": 3202,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T510-GAREK.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A1M1-T520-SCOURGEFANATIC",
+      "scene": "Transmissions.Transmission MQ DD Corpses Found Q",
+      "speaker": "Fanático do Flagelo",
+      "text": "Acabem com esses Renegados traidores!",
+      "string_id": 3206,
+      "speaker_string_id": 3207,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T520-SCOURGEFANATIC.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A1M1-T530-GAREK",
+      "scene": "Transmissions.Transmission MQ DD Corpses Found Q",
+      "speaker": "Anya",
+      "text": "O Flagelo!",
+      "string_id": 3212,
+      "speaker_string_id": 3213,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T530-GAREK.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A1M1-T540-GAREK",
+      "scene": "Transmissions.Transmission MQ DD Gareks Flashback 01 Q",
+      "speaker": "Garek",
+      "text": "Está... está acontecendo outra vez...",
+      "string_id": 3229,
+      "speaker_string_id": 3230,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T540-GAREK.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A1M1-T550-ANYA",
+      "scene": "Transmissions.Transmission MQ DD Gareks Flashback 01 Q",
+      "speaker": "Anya",
+      "text": "Garek, do que você está falando?",
+      "string_id": 3238,
+      "speaker_string_id": 3239,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T550-ANYA.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A1M1-T570-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ SP Varimathras Hint Q",
+      "speaker": "Varimatras",
+      "text": "Recrute as tropas de que precisa no acampamento de mercenários. Assim que tiver o necessário, faça um ataque rápido e poderoso.",
+      "string_id": 3258,
+      "speaker_string_id": 3259,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T570-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A1M1-T570-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Gareks Flashback 02 Q",
+      "speaker": "Garek",
+      "text": "Toda essa luta... no esgoto, na cidade... Estou quase me lembrando...",
+      "string_id": 4665,
+      "speaker_string_id": 4661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T570-GAREK.ogg"
+    },
+    {
+      "n": 135,
+      "id": "A1M1-T580-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Gareks Flashback 02 Q",
+      "speaker": "Anya",
+      "text": "Garek. Esse não é o momento de refletir sobre suas memórias perdidas. Foque no aqui e agora.",
+      "string_id": 3275,
+      "speaker_string_id": 3276,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T580-ANYA.ogg"
+    },
+    {
+      "n": 136,
+      "id": "A1M1-T590-SCOURGEFANATIC",
+      "scene": "Transmissions.Transmission MQ SP Acolyte Flee Q",
+      "speaker": "Acólito",
+      "text": "Intrusos! Eles não devem interferir nos planos do mestre!",
+      "string_id": 4666,
+      "speaker_string_id": 4662,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T590-SCOURGEFANATIC.ogg"
+    },
+    {
+      "n": 137,
+      "id": "A1M1-T600-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Raise Dead Comment 01 Q",
+      "speaker": "Anya",
+      "text": "Eles estão erguendo os mortos sepultados aqui para fortalecer o próprio exército.",
+      "string_id": 3281,
+      "speaker_string_id": 3282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T600-ANYA.ogg"
+    },
+    {
+      "n": 138,
+      "id": "A1M1-T610-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Raise Dead Comment 01 Q",
+      "speaker": "Garek",
+      "text": "Os Renegados não podem fazer isso também?",
+      "string_id": 3287,
+      "speaker_string_id": 3288,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T610-GAREK.ogg"
+    },
+    {
+      "n": 139,
+      "id": "A1M1-T620-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Raise Dead Comment 01 Q",
+      "speaker": "Anya",
+      "text": "Não. Só o Flagelo é capaz de realizar isso. Nós dependemos de um lapso em seu controle para recrutar mais mortos-vivos para o nosso lado.",
+      "string_id": 3299,
+      "speaker_string_id": 3300,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T620-ANYA.ogg"
+    },
+    {
+      "n": 140,
+      "id": "A1M1-T630-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Catacomb Event Trap Start Q",
+      "speaker": "Garek",
+      "text": "Estamos presos! É uma emboscada!",
+      "string_id": 3308,
+      "speaker_string_id": 3309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T630-GAREK.ogg"
+    },
+    {
+      "n": 141,
+      "id": "A1M1-T640-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Catacomb Event Trap Start Q",
+      "speaker": "Anya",
+      "text": "Algo está mantendo aquela barreira. Sobreviva até que se revele!",
+      "string_id": 3317,
+      "speaker_string_id": 3318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T640-ANYA.ogg"
+    },
+    {
+      "n": 142,
+      "id": "A1M1-T650-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Catacomb Event Trap Complete Q",
+      "speaker": "Garek",
+      "text": "O caminho está livre! Vamos andando!",
+      "string_id": 3320,
+      "speaker_string_id": 3321,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T650-GAREK.ogg"
+    },
+    {
+      "n": 143,
+      "id": "A1M1-T660-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Landen Shield Q",
+      "speaker": "Garek",
+      "text": "O escudo deste guarda está em perfeita condição. Ele devia se orgulhar muito de defender a cidade.",
+      "string_id": 3326,
+      "speaker_string_id": 3327,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T660-GAREK.ogg"
+    },
+    {
+      "n": 144,
+      "id": "A1M1-T670-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Landen Shield Q",
+      "speaker": "Anya",
+      "text": "Então seria uma pena deixar esse escudo enferrujando. Use-o para proteger os Renegados.",
+      "string_id": 3332,
+      "speaker_string_id": 3333,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T670-ANYA.ogg"
+    },
+    {
+      "n": 145,
+      "id": "A1M1-T690-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Boss Finished Q",
+      "speaker": "Anya",
+      "text": "Acho que acabaram. Vamos informar Varimatras que as catacumbas estão seguras.",
+      "string_id": 3343,
+      "speaker_string_id": 3344,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T690-ANYA.ogg"
+    },
+    {
+      "n": 146,
+      "id": "A1M1-T700-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Scrourge Discussion Q",
+      "speaker": "Garek",
+      "text": "E pensar que uma tropa grande como essa poderia chegar tão perto da Cidade Baixa...",
+      "string_id": 3346,
+      "speaker_string_id": 3347,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T700-GAREK.ogg"
+    },
+    {
+      "n": 147,
+      "id": "A1M1-T710-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Scrourge Discussion Q",
+      "speaker": "Anya",
+      "text": "Muitos entre os vivos e os mortos desejam exterminar os Renegados. Precisamos permanecer sempre atentos.",
+      "string_id": 3352,
+      "speaker_string_id": 3353,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T710-ANYA.ogg"
+    },
+    {
+      "n": 148,
+      "id": "A1M1-T720-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ SP Varimathras Reward Q",
+      "speaker": "Varimatras",
+      "text": "O Flagelo terá que pensar duas vezes antes de tentar isso de novo. Aqui está sua recompensa.",
+      "string_id": 3356,
+      "speaker_string_id": 3357,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T720-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 149,
+      "id": "A1M1-T730-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ MF Varimathras Gives Quest Q",
+      "speaker": "Varimatras",
+      "text": "Esses trabalhadores não foram os únicos a desaparecer. Outro grupo ainda não voltou dos corredores de ventilação.",
+      "string_id": 3362,
+      "speaker_string_id": 3363,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T730-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 150,
+      "id": "A1M1-T740-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ MF Varimathras Gives Quest Q",
+      "speaker": "Varimatras",
+      "text": "Precisarei que você siga seus rastros. Comece pelo Distrito Comercial, onde foram vistos pela última vez.",
+      "string_id": 3368,
+      "speaker_string_id": 3369,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T740-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 151,
+      "id": "A1M1-T750-GAREK",
+      "scene": "Transmissions.Transmission OQ GH Sewers Ghoul Spotted Q",
+      "speaker": "Garek",
+      "text": "Aquele carniçal parece o tipo que Daniel gostaria de estudar.",
+      "string_id": 3383,
+      "speaker_string_id": 3384,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T750-GAREK.ogg"
+    },
+    {
+      "n": 152,
+      "id": "A1M1-T800-KEEVER",
+      "scene": "Transmissions.Transmission OQ GH Keever Reward Q",
+      "speaker": "Daniel",
+      "text": "Os carniçais demonstraram sinais de inteligência? Interessante. Daniel poderia aproveitar isso.",
+      "string_id": 3386,
+      "speaker_string_id": 3387,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T800-KEEVER.ogg"
+    },
+    {
+      "n": 153,
+      "id": "A1M1-T810-LEXINGTON",
+      "scene": "Transmissions.Transmission OQ AV Reward Q",
+      "speaker": "Licurgo",
+      "text": "Ah, isso está perfeito! Espero que não tenha sida muito difícil de recuperar. Aceite minha sincera gratidão.",
+      "string_id": 3408,
+      "speaker_string_id": 3409,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T810-LEXINGTON.ogg"
+    },
+    {
+      "n": 154,
+      "id": "A1M1-T820-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers Rats Q",
+      "speaker": "Garek",
+      "text": "Nenhum sinal dos trabalhadores... Nem dos guardas. Só vejo ratos.",
+      "string_id": 3419,
+      "speaker_string_id": 3420,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T820-GAREK.ogg"
+    },
+    {
+      "n": 155,
+      "id": "A1M1-T830-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Blocked Way Q",
+      "speaker": "Anya",
+      "text": "O caminho está bloqueado. Teremos que encontrar outra alternativa.",
+      "string_id": 3430,
+      "speaker_string_id": 3431,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T830-ANYA.ogg"
+    },
+    {
+      "n": 156,
+      "id": "A1M1-T840-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Blocked Door Q",
+      "speaker": "Anya",
+      "text": "O portão é controlado por duas alavancas. Ele só abrirá quando ambas forem acionadas ao mesmo tempo.",
+      "string_id": 3435,
+      "speaker_string_id": 3436,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T840-ANYA.ogg"
+    },
+    {
+      "n": 157,
+      "id": "A1M1-T850-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers Burned Undead Q",
+      "speaker": "Garek",
+      "text": "Bem, encontramos os trabalhadores.",
+      "string_id": 3609,
+      "speaker_string_id": 3610,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T850-GAREK.ogg"
+    },
+    {
+      "n": 158,
+      "id": "A1M1-T860-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Burned Undead Q",
+      "speaker": "Anya",
+      "text": "Seus corpos foram queimados. Há algo de errado nisso.",
+      "string_id": 3587,
+      "speaker_string_id": 3588,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T860-ANYA.ogg"
+    },
+    {
+      "n": 159,
+      "id": "A1M1-T870-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Vocies Around Corner Q",
+      "speaker": "Anya",
+      "text": "Silêncio. Estou ouvindo vozes adiante.",
+      "string_id": 3581,
+      "speaker_string_id": 3582,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T870-ANYA.ogg"
+    },
+    {
+      "n": 160,
+      "id": "A1M1-T880-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Kill Silverhand Intruders Q",
+      "speaker": "Anya",
+      "text": "Os Cavaleiros do Punho de Prata. Precisamos nos livrar deles. Já!",
+      "string_id": 3468,
+      "speaker_string_id": 3469,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T880-ANYA.ogg"
+    },
+    {
+      "n": 161,
+      "id": "A1M1-T890-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers SH Door Need Keys Q",
+      "speaker": "Garek",
+      "text": "Estou vendo duas fechaduras. Imagino que precisaremos abrir as duas para passar pela porta.",
+      "string_id": 3471,
+      "speaker_string_id": 3472,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T890-GAREK.ogg"
+    },
+    {
+      "n": 162,
+      "id": "A1M1-T900-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers Who Are Silverhand Q",
+      "speaker": "Garek",
+      "text": "Quem é o Punho de Prata?",
+      "string_id": 3480,
+      "speaker_string_id": 3481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T900-GAREK.ogg"
+    },
+    {
+      "n": 163,
+      "id": "A1M1-T910-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Who Are Silverhand Q",
+      "speaker": "Anya",
+      "text": "Fanáticos que veneram a Luz Sagrada. Eles nos veem como um anátema e desejam expurgar nossa existência.",
+      "string_id": 3489,
+      "speaker_string_id": 3490,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T910-ANYA.ogg"
+    },
+    {
+      "n": 164,
+      "id": "A1M1-T920-SILVERHANDKNIGHT",
+      "scene": "Traps.TQ Wall Trap Squeeze.MQ 08 Wall Trap Moment",
+      "speaker": "Soldado do Punho de Prata",
+      "text": "Os mortos-vivos nos encontraram! Fechem o túnel!",
+      "string_id": 3551,
+      "speaker_string_id": 3552,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T920-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 165,
+      "id": "A1M1-T930-SILVERHANDKNIGHT",
+      "scene": "Traps.TQ Wall Trap Squeeze.MQ 08 Wall Trap Moment",
+      "speaker": "Soldado do Punho de Prata",
+      "text": "Não! Esperem por mim!",
+      "string_id": 3563,
+      "speaker_string_id": 3564,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T930-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 166,
+      "id": "A1M1-T940-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Steam Room Trap Q",
+      "speaker": "Anya",
+      "text": "Essa água vai nos cozinhar até virarmos mingau. Precisamos diminuir a temperatura.",
+      "string_id": 3492,
+      "speaker_string_id": 3493,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T940-ANYA.ogg"
+    },
+    {
+      "n": 167,
+      "id": "A1M1-T950-FRANCIS",
+      "scene": "Transmissions.Transmission TQ Sewers Captain Taunt Q",
+      "speaker": "Lorde Francis",
+      "text": "Os mortos-vivos nos descobriram! Eles não podem chegar à catedral!",
+      "string_id": 3501,
+      "speaker_string_id": 3502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T950-FRANCIS.ogg"
+    },
+    {
+      "n": 168,
+      "id": "A1M1-T960-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers PONR Q",
+      "speaker": "Anya",
+      "text": "Antes de continuarmos, precisamos nos abastecer e recrutar algumas tropas. Não haverá volta depois que entrarmos na catedral.",
+      "string_id": 3510,
+      "speaker_string_id": 3511,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T960-ANYA.ogg"
+    },
+    {
+      "n": 169,
+      "id": "A1M1-T970-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers PONR Q",
+      "speaker": "Garek",
+      "text": "Concordo. E também pode haver civis na Cidade Baixa que ainda precisam de nossa ajuda.",
+      "string_id": 3521,
+      "speaker_string_id": 3522,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T970-GAREK.ogg"
+    },
+    {
+      "n": 170,
+      "id": "A1M1-T975-LABORER",
+      "scene": "Transmissions.Transmission OQ SPQ Help Q",
+      "speaker": "Civil Renegado",
+      "text": "Anya, socorro! Tem uma aranha gigantesca à espreita nas cavernas!",
+      "string_id": 3524,
+      "speaker_string_id": 3525,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T975-LABORER.ogg"
+    },
+    {
+      "n": 171,
+      "id": "A1M1-T980-GLIX",
+      "scene": "Transmissions.Transmission OQ AR Reward Q",
+      "speaker": "Glix",
+      "text": "Dirigiu bem, Garek. Aqui está o seu prêmio, conforme prometido!",
+      "string_id": 4668,
+      "speaker_string_id": 4664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T980-GLIX.ogg"
+    },
+    {
+      "n": 172,
+      "id": "AcolytePissed4",
+      "scene": "Transmissions.Transmission MQ DD Deciever Warcry Q",
+      "speaker": "Fanático do Flagelo",
+      "text": "Que o sangue afogue os fracos!",
+      "string_id": 3215,
+      "speaker_string_id": 3216,
+      "sound": "Units/Undead/Acolyte/AcolytePissed4.flac"
+    },
+    {
+      "n": 173,
+      "id": "NecromancerYesAttack1",
+      "scene": "Transmissions.Transmission MQ DD Necro Warcry Q",
+      "speaker": "Necromante",
+      "text": "Morra!",
+      "string_id": 3247,
+      "speaker_string_id": 3248,
+      "sound": "Units/Undead/Necromancer/NecromancerYesAttack1.flac"
+    },
+    {
+      "n": 174,
+      "id": "GhoulPissed2",
+      "scene": "Transmissions.Transmission OQ GH Sewers Ghoul Scared Q",
+      "speaker": "Carniçal Trabalhador",
+      "text": "Eu medonho!",
+      "string_id": 3390,
+      "speaker_string_id": 3391,
+      "sound": "Units/Undead/Ghoul/GhoulPissed2.flac"
+    },
+    {
+      "n": 175,
+      "id": "GhoulWhat2",
+      "scene": "Transmissions.Transmission OQ GH Sewers Ghoul Happy Q",
+      "speaker": "Carniçal Trabalhador",
+      "text": "Qual é a boa?",
+      "string_id": 3399,
+      "speaker_string_id": 3400,
+      "sound": "Units/Undead/Ghoul/GhoulWhat2.flac"
+    },
+    {
+      "n": 176,
+      "id": "DeathKnightYes5",
+      "scene": "CINEMATICS.Cinematic Moment 03 - Scourge Boss Appears.Cinematic Moment 03 Play Q",
+      "speaker": "Cavaleiro da Morte",
+      "text": "Pelo Lich Rei!",
+      "string_id": 3578,
+      "speaker_string_id": 3579,
+      "sound": "Units/Undead/HeroDeathKnight/DeathKnightYes5.flac"
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "map": "UndeadRE01_03",
+  "title": "Tirisfal Glades",
+  "locale": "zhCN",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M3-M020-010-FARANELL",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "法拉尼尔",
+      "text": "恩雅，我们一直在等你。普特雷斯把需要的试剂清单给我们发过来了。",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-010-FARANELL.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M3-M020-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "他想得倒周到。我猜你们进展应该挺顺利的吧？",
+      "string_id": 1840,
+      "speaker_string_id": 1841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M3-M020-030-FARANELL",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "法拉尼尔",
+      "text": "还可以。虽然我真的很怀念自己实验室那种舒适的环境。",
+      "string_id": 1826,
+      "speaker_string_id": 1827,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-030-FARANELL.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M3-M020-040-MELISARA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "梅里萨拉",
+      "text": "恩雅，葛尔多那个白痴又不见了。要是你碰到他，能把他拽回营地来吗？",
+      "string_id": 1838,
+      "speaker_string_id": 1839,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-040-MELISARA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M3-M020-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "我们会留意的。愿黑暗女王庇护你。",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-050-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M3-M020-010-FARANELL",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "法拉尼尔",
+      "text": "恩雅，我们一直在等你。普特雷斯把需要的试剂清单给我们发过来了。",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-010-FARANELL.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M3-M020-020-ANYA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "恩雅",
+      "text": "他想得倒周到。我猜你们进展应该挺顺利的吧？",
+      "string_id": 1840,
+      "speaker_string_id": 1841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M3-M020-030-FARANELL",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "法拉尼尔",
+      "text": "还可以。虽然我真的很怀念自己实验室那种舒适的环境。",
+      "string_id": 1826,
+      "speaker_string_id": 1827,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-030-FARANELL.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M3-M020-040-MELISARA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "梅里萨拉",
+      "text": "恩雅，葛尔多那个白痴又不见了。要是你碰到他，能把他拽回营地来吗？",
+      "string_id": 1838,
+      "speaker_string_id": 1839,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-040-MELISARA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M3-M020-050-ANYA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "恩雅",
+      "text": "我们会留意的。愿黑暗女王庇护你。",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-050-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M3-M030-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "喂！能不能过来帮把手！不会让你们白干的！",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-010-GLIX.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M3-M030-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "好，你说说看。",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M3-M030-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "我们遭到了豺狼人的埋伏，不得不丢下货物跑路。如果你们能帮我们把货抢回来，我们愿意分你们四分之一。",
+      "string_id": 1870,
+      "speaker_string_id": 1871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-030-GLIX.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M3-M030-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "对半开，不行我们就走。",
+      "string_id": 1880,
+      "speaker_string_id": 1881,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M3-M030-050-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "对半开？！你这是趁火打劫！",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]对半开？！你这是趁火打劫！[/\"Surprised\"]",
+      "string_id": 1874,
+      "speaker_string_id": 1875,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-050-GLIX.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M3-M030-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "好吧……反正我们今天已经被打劫过一次了。行，成交。",
+      "string_id": 1878,
+      "speaker_string_id": 1879,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-060-GLIX.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M3-M030-010-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "格利克斯",
+      "text": "喂！能不能过来帮把手！不会让你们白干的！",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-010-GLIX.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M3-M030-020-ANYA",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "恩雅",
+      "text": "好，你说说看。",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M3-M030-030-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "格利克斯",
+      "text": "我们遭到了豺狼人的埋伏，不得不丢下货物跑路。如果你们能帮我们把货抢回来，我们愿意分你们四分之一。",
+      "string_id": 1870,
+      "speaker_string_id": 1871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-030-GLIX.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M3-M030-040-ANYA",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "恩雅",
+      "text": "对半开，不行我们就走。",
+      "string_id": 1880,
+      "speaker_string_id": 1881,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M3-M030-050-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "格利克斯",
+      "text": "对半开？！你这是趁火打劫！",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]对半开？！你这是趁火打劫！[/\"Surprised\"]",
+      "string_id": 1874,
+      "speaker_string_id": 1875,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-050-GLIX.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M3-M030-060-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "格利克斯",
+      "text": "好吧……反正我们今天已经被打劫过一次了。行，成交。",
+      "string_id": 1878,
+      "speaker_string_id": 1879,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-060-GLIX.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M3-M040-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "哎呀，你成功了！我们的货也原封不动回来了！",
+      "string_id": 1891,
+      "speaker_string_id": 1892,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-010-GLIX.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M3-M040-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "嗯，那现在是不是该谈谈我们的酬劳了？",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M3-M040-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "没问题！我们很乐意亲自把你们那一半物资送到你们的，呃，是叫幽暗城对吧？",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-030-GLIX.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M3-M040-040-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "还有什么比这更能向我们的新客户——不对——我们慷慨好客的主人表达谢意呢？",
+      "string_id": 1910,
+      "speaker_string_id": 1911,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-040-GLIX.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M3-M040-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "你这狡猾的小——",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你这狡猾的小——[/\"Angry\"]",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-050-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M3-M040-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "格利克斯",
+      "text": "哇哦！当然，这是你们应得的劳务费！一点小意思，不成敬意！",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]哇哦！当然，这是你们应得的劳务费！一点小意思，不成敬意！[/\"Scared\"]",
+      "string_id": 1922,
+      "speaker_string_id": 1923,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-060-GLIX.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M3-M040-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "那我们就慷慨接受你的提议，因为你们的货可以帮到被遗忘者。那咱们城里见。",
+      "string_id": 1926,
+      "speaker_string_id": 1927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-070-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M3-M040-010-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "格利克斯",
+      "text": "哎呀，你成功了！我们的货也原封不动回来了！",
+      "string_id": 1891,
+      "speaker_string_id": 1892,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-010-GLIX.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M3-M040-020-ANYA",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "恩雅",
+      "text": "嗯，那现在是不是该谈谈我们的酬劳了？",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M3-M040-030-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "格利克斯",
+      "text": "没问题！我们很乐意亲自把你们那一半物资送到你们的，呃，是叫幽暗城对吧？",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-030-GLIX.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M3-M040-040-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "格利克斯",
+      "text": "还有什么比这更能向我们的新客户——不对——我们慷慨好客的主人表达谢意呢？",
+      "string_id": 1910,
+      "speaker_string_id": 1911,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-040-GLIX.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M3-M040-050-ANYA",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "恩雅",
+      "text": "你这狡猾的小——",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你这狡猾的小——[/\"Angry\"]",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-050-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M3-M040-060-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "格利克斯",
+      "text": "哇哦！当然，这是你们应得的劳务费！一点小意思，不成敬意！",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]哇哦！当然，这是你们应得的劳务费！一点小意思，不成敬意！[/\"Scared\"]",
+      "string_id": 1922,
+      "speaker_string_id": 1923,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-060-GLIX.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M3-M040-070-GAREK",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "加瑞克",
+      "text": "那我们就慷慨接受你的提议，因为你们的货可以帮到被遗忘者。那咱们城里见。",
+      "string_id": 1926,
+      "speaker_string_id": 1927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-070-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M3-T010-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Load Into Map First Comment",
+      "speaker": "恩雅",
+      "text": "前方有一座黑暗游侠营地。我们先去那里探查一番吧。",
+      "string_id": 1589,
+      "speaker_string_id": 1590,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M3-T020-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "加瑞克",
+      "text": "恩雅，说起来，我最开始是怎么落到普特雷斯的皇家药剂师协会手里的？",
+      "string_id": 1629,
+      "speaker_string_id": 1630,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T020-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M3-T030-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "恩雅",
+      "text": "希尔瓦娜斯女王前来收复都城的时候，你就在驻守城市的天灾军团叛军里。",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T030-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M3-T040-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "恩雅",
+      "text": "战斗结束之后，我们把剩下的亡灵集中起来，送到了普特雷斯那里进行……加工。",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M3-T050-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "加瑞克",
+      "text": "这么说，我在天灾军团的时候跟希尔瓦娜斯交过手？即便如此，她依然欢迎我加入被遗忘者？",
+      "string_id": 1648,
+      "speaker_string_id": 1649,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M3-T060-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "恩雅",
+      "text": "她太清楚被迫听从巫妖王摆布是什么滋味了。",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T060-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M3-T070-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "恩雅",
+      "text": "无论生前犯过什么错，她都不会把一个刚刚觉醒的被遗忘者拒之门外。",
+      "string_id": 1657,
+      "speaker_string_id": 1658,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A1M3-T080-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "加瑞克",
+      "text": "那你呢，恩雅？你是怎么加入被遗忘者的？",
+      "string_id": 1660,
+      "speaker_string_id": 1661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T080-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A1M3-T090-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "恩雅",
+      "text": "我生前就是希尔瓦娜斯的部下。我们都在抵抗天灾军团的保卫战中牺牲了。然后，我们都被复活成了亡灵。",
+      "string_id": 1663,
+      "speaker_string_id": 1664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T090-ANYA.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A1M3-T100-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "恩雅",
+      "text": "我重获自由意志后，黑暗女王给了我一个容身之所。为此，我永远效忠于她。",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T100-ANYA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A1M3-T110-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "加瑞克",
+      "text": "那你还记得在受巫妖王控制时被迫做过什么吗？",
+      "string_id": 1673,
+      "speaker_string_id": 1674,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T110-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A1M3-T120-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "恩雅",
+      "text": "记得，但我不想谈论这件事，加瑞克。这不是针对你，对所有人都是这样。",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T120-ANYA.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A1M3-T130-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "恩雅",
+      "text": "沉溺于过去也改变不了什么。最好还是向前看，别回头。",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T130-ANYA.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A1M3-T140-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "加瑞克",
+      "text": "看来许多被遗忘者都有着和你类似的经历。饱受亡灵之身的诅咒，却依然在这残酷的命运中寻找着出路。",
+      "string_id": 1686,
+      "speaker_string_id": 1687,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T140-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A1M3-T150-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "恩雅",
+      "text": "我们的确都能感受到这份痛苦，也因而团结在一起。世人把我们视作妖魔，所以我们能依靠的只有彼此。",
+      "string_id": 1691,
+      "speaker_string_id": 1692,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T150-ANYA.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A1M3-T160-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "加瑞克",
+      "text": "那我会努力成为一个值得依靠的人。为了希尔瓦娜斯女王，也为了被遗忘者。",
+      "string_id": 1698,
+      "speaker_string_id": 1699,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T160-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A1M3-T170-GLIX",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Glix Comment After Cinematic 02",
+      "speaker": "格利克斯",
+      "text": "豺狼人营地在南边。别死了啊！我是说，别再死一次。",
+      "string_id": 1729,
+      "speaker_string_id": 1730,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T170-GLIX.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A1M3-T180-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "恩雅",
+      "text": "我们就这么直接让他们在幽暗城里设立店铺？",
+      "string_id": 1738,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T180-ANYA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A1M3-T190-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "加瑞克",
+      "text": "被遗忘者需要物资，而地精正好有物资。如果他们必须仰仗幽暗城的保护……",
+      "string_id": 1740,
+      "speaker_string_id": 1741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T190-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A1M3-T200-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "恩雅",
+      "text": "这样一来，黑暗女王就能在谈判桌上占据绝对的定价主导权。干得漂亮，班达隆。",
+      "string_id": 1743,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T200-ANYA.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A1M3-T210-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting Broodmother Venom",
+      "speaker": "恩雅",
+      "text": "作为被遗忘者，你可能会对蜘蛛产生莫名的亲近感。但小心驶得万年船，接近的时候还是谨慎点好。",
+      "string_id": 1620,
+      "speaker_string_id": 1621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T210-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A1M3-T220-GORDO",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Found",
+      "speaker": "葛尔多",
+      "text": "黏糊糊的网！葛尔多需要帮忙！",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T220-GORDO.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A1M3-T230-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Found",
+      "speaker": "恩雅",
+      "text": "又是你惹出的麻烦，葛尔多！",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T230-ANYA.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A1M3-T240-GORDO",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Freed",
+      "speaker": "葛尔多",
+      "text": "葛尔多自由了！现在就回营地去！",
+      "string_id": 1716,
+      "speaker_string_id": 1717,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T240-GORDO.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A1M3-T250-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Freed",
+      "speaker": "恩雅",
+      "text": "别再乱跑了。",
+      "string_id": 1719,
+      "speaker_string_id": 1720,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T250-ANYA.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A1M3-T260-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "加瑞克",
+      "text": "一种邪恶的疫病在这片森林里蔓延。",
+      "string_id": 1598,
+      "speaker_string_id": 1599,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T260-GAREK.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A1M3-T270-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "恩雅",
+      "text": "这是天灾军团的杰作。他们企图污秽整个洛丹伦。",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T270-ANYA.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A1M3-T280-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "恩雅",
+      "text": "现在这片土地属于被遗忘者。无论是天灾军团还是活人，都休想踏入半步。",
+      "string_id": 1613,
+      "speaker_string_id": 1614,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T280-ANYA.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A1M3-T290-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting First Murloc Scale",
+      "speaker": "恩雅",
+      "text": "鱼人。一种恶心的生物，但它们的鳞片在炼金术里用处颇多。",
+      "string_id": 1624,
+      "speaker_string_id": 1625,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T290-ANYA.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A1M3-T300-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting All Reagents Collected",
+      "speaker": "恩雅",
+      "text": "普特雷斯要的东西全齐了。回幽暗城去吧。",
+      "string_id": 1703,
+      "speaker_string_id": 1704,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T300-ANYA.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A1M3-T310-MELISARA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Melisara Return Quest Completed",
+      "speaker": "梅里萨拉",
+      "text": "葛尔多在外面瞎晃的时候顺便收集了一些东西。或许值得去瞧瞧。",
+      "string_id": 1724,
+      "speaker_string_id": 1725,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T310-MELISARA.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A1M3-T320-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Load Into Map Quarry Location",
+      "speaker": "恩雅",
+      "text": "采石场在森林北边。走吧。",
+      "string_id": 1750,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T320-ANYA.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A1M3-T330-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "加瑞克",
+      "text": "幸好伯恩德还记得生前的石匠手艺。他的本事能为幽暗城提供很多帮助。",
+      "string_id": 1756,
+      "speaker_string_id": 1757,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T330-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A1M3-T340-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "加瑞克",
+      "text": "这么看来，我们生前经历的事情，到头来也并非毫无价值。",
+      "string_id": 1765,
+      "speaker_string_id": 1766,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T340-GAREK.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A1M3-T350-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "恩雅",
+      "text": "哼，你一个刚苏醒不久的人，在这方面倒是能说得头头是道。",
+      "string_id": 1769,
+      "speaker_string_id": 1770,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T350-ANYA.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A1M3-T360-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "加瑞克",
+      "text": "呃，哈哈。就像你说的嘛，我领悟得很快，不是吗？",
+      "string_id": 1771,
+      "speaker_string_id": 1772,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T360-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A1M3-T370-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Approach Quarry",
+      "speaker": "加瑞克",
+      "text": "看来食人魔已经筑起了防御工事。",
+      "string_id": 1776,
+      "speaker_string_id": 1777,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T370-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A1M3-T380-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Approach Quarry",
+      "speaker": "恩雅",
+      "text": "那我们得做个抉择了。要么直接正面强攻，要么找别的入口绕过去。",
+      "string_id": 1779,
+      "speaker_string_id": 1780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T380-ANYA.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A1M3-T390-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Ogre Lord Dead",
+      "speaker": "恩雅",
+      "text": "头目一死，剩下的食人魔就会逃散到丘陵里。",
+      "string_id": 1785,
+      "speaker_string_id": 1786,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T390-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A1M3-T400-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Ogre Lord Dead",
+      "speaker": "加瑞克",
+      "text": "这处采石场能为伯恩德的施工队不断提供原料，真是太好了。",
+      "string_id": 1788,
+      "speaker_string_id": 1789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T400-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A1M3-T410-BANDITLEADER",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Bandit Leader Found",
+      "speaker": "强盗头子",
+      "text": "亡灵来了！拆了他们的骨头架子，再把值钱的东西抢过来！",
+      "string_id": 1803,
+      "speaker_string_id": 1804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T410-BANDITLEADER.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A1M3-T420-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Bandit Leader Dead",
+      "speaker": "加瑞克",
+      "text": "好了，这些看起来就是基佛让我们收集的零件了。",
+      "string_id": 1806,
+      "speaker_string_id": 1807,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T420-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A1M3-T780-ANYA",
+      "scene": "Cinematics.Cinematic 04 Ghoul Found.Cinematic 04 Ghoul Found",
+      "speaker": "恩雅",
+      "text": "那只食尸鬼好像是在钓鱼。我以前还真没见过这种事。",
+      "string_id": 1929,
+      "speaker_string_id": 1930,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T780-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A1M3-T790-GAREK",
+      "scene": "Cinematics.Cinematic 04 Ghoul Found.Cinematic 04 Ghoul Found",
+      "speaker": "加瑞克",
+      "text": "快，追上他们！",
+      "string_id": 1932,
+      "speaker_string_id": 1933,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T790-GAREK.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A1M3-T791-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Ghoul Captured",
+      "speaker": "恩雅",
+      "text": "看来这样也能抓到鱼。我们把这只食尸鬼带回基佛那儿去吧。",
+      "string_id": 1793,
+      "speaker_string_id": 1794,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T791-ANYA.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A1M3-T792-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Ghoul Faints",
+      "speaker": "加瑞克",
+      "text": "看来这只食尸鬼在战斗中活了下来。我们把它带回基佛那儿去吧。",
+      "string_id": 1798,
+      "speaker_string_id": 1799,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T792-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "OgreYesAttack1",
+      "scene": "Map Events.Main Quest 02 Secure Quarry.Ogre Taunt",
+      "speaker": "高克鲁斯",
+      "text": "我要砸扁你！",
+      "string_id": 2184,
+      "speaker_string_id": 1567,
+      "sound": "Units/Creeps/Ogre/OgreYesAttack1.flac"
+    }
+  ]
+}

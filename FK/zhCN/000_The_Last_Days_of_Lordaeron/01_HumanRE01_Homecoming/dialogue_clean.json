@@ -1,0 +1,863 @@
+{
+  "map": "HumanRE01",
+  "title": "Homecoming",
+  "locale": "zhCN",
+  "note": "Story order taken from the map script. Encounter lines (fights, side events) are placed where they usually happen; their exact order depends on the player's route.",
+  "lines": [
+    {
+      "speaker": "兰登",
+      "text": "立正！卫兵们，阿尔萨斯王子已经从诺森德凯旋归来！若我等有幸，他也会带回来瘟疫的解药。",
+      "metadata": {
+        "string_id": 2839,
+        "speaker_string_id": 2840,
+        "dialogue_id": "HRE01-C010-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那至少他这趟出海兜风就没白跑。我真不知道为什么大家要这么宠他，不论他做什么都是众星捧月，交口称赞。",
+      "metadata": {
+        "string_id": 2835,
+        "speaker_string_id": 2836,
+        "dialogue_id": "HRE01-C010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "班达隆副官，我们曾宣誓为米奈希尔家族效力。 现在，我们去为都城做好准备，迎接王子的归来吧。",
+      "metadata": {
+        "string_id": 3412,
+        "speaker_string_id": 3413,
+        "dialogue_id": "HRE01-C010-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "当然，兰登队长。我也不想让王子殿下失望。",
+      "metadata": {
+        "string_id": 2845,
+        "speaker_string_id": 2846,
+        "dialogue_id": "HRE01-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "加瑞克，或许你没有意识到，其实你是名非常优秀的卫兵。只要能认真对待自己的工作，有朝一日你也一定能成为队长。",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2981,
+        "dialogue_id": "HRE01-T010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "你就这么盼着让我接你的班吗？",
+      "metadata": {
+        "string_id": 2969,
+        "speaker_string_id": 2970,
+        "dialogue_id": "HRE01-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "当然。我早就想退休了。",
+      "metadata": {
+        "string_id": 2974,
+        "speaker_string_id": 2975,
+        "dialogue_id": "HRE01-T030-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "给王子献上铺天盖地的花朵，我感觉有些超规格了吧。",
+      "metadata": {
+        "string_id": 2985,
+        "speaker_string_id": 2986,
+        "dialogue_id": "HRE01-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "加瑞克，这是值得庆贺的盛事。人民有权利欢庆。",
+      "metadata": {
+        "string_id": 3199,
+        "speaker_string_id": 3200,
+        "dialogue_id": "HRE01-T050-LANDEN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "是真的吗？阿尔萨斯王子真的要回来了？真是太好了！",
+      "metadata": {
+        "string_id": 3181,
+        "speaker_string_id": 3182,
+        "dialogue_id": "HRE01-T060-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "有人知道王子殿下为什么要去诺森德吗？他到那里去是想要找到什么呢？",
+      "metadata": {
+        "string_id": 3219,
+        "speaker_string_id": 3220,
+        "dialogue_id": "HRE01-T070-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "我听说阿尔萨斯王子在出发之前解散了圣骑士团。他为什么要这么做呢？",
+      "metadata": {
+        "string_id": 3372,
+        "speaker_string_id": 3373,
+        "dialogue_id": "HRE01-T080-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "女士，请把你的推车推走，挡住王宫大门了。",
+      "metadata": {
+        "string_id": 2760,
+        "speaker_string_id": 2761,
+        "dialogue_id": "HRE01-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "艾丽西娅",
+      "text": "可是轮子彻底坏掉了，已经修不好了！",
+      "metadata": {
+        "string_id": 2802,
+        "speaker_string_id": 2803,
+        "dialogue_id": "HRE01-T110-ALICIA"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "别担心，我们给你找个新的。",
+      "metadata": {
+        "string_id": 2816,
+        "speaker_string_id": 2817,
+        "dialogue_id": "HRE01-T120-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "钱真是花对了。我们可以把推车推开，不会再挡王子的路。",
+      "metadata": {
+        "string_id": 2998,
+        "speaker_string_id": 2999,
+        "dialogue_id": "HRE01-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "那它依然会是坏的。我们的任务是帮助人民，而不是将他们赶走。",
+      "metadata": {
+        "string_id": 3000,
+        "speaker_string_id": 3001,
+        "dialogue_id": "HRE01-T140-LANDEN"
+      }
+    },
+    {
+      "speaker": "艾丽西娅",
+      "text": "啊，谢谢你！请收下这份谢礼。",
+      "metadata": {
+        "string_id": 3205,
+        "speaker_string_id": 3206,
+        "dialogue_id": "HRE01-T150-ALICIA"
+      }
+    },
+    {
+      "speaker": "尤金",
+      "text": "别跑！你这小偷！",
+      "metadata": {
+        "string_id": 3215,
+        "speaker_string_id": 3216,
+        "dialogue_id": "HRE01-T160-MERCHANT"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "追上他！",
+      "metadata": {
+        "string_id": 3217,
+        "speaker_string_id": 3218,
+        "dialogue_id": "HRE01-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "我可不能让阿尔萨斯王子回来之后看到城里全是罪犯。",
+      "metadata": {
+        "string_id": 3035,
+        "speaker_string_id": 3036,
+        "dialogue_id": "HRE01-T180-LANDEN"
+      }
+    },
+    {
+      "speaker": "卢卡",
+      "text": "我看到了！阿尔萨斯王子扫荡了斯坦索姆！他杀掉了所有人！",
+      "metadata": {
+        "string_id": 3191,
+        "speaker_string_id": 3192,
+        "dialogue_id": "HRE01-T190-LUCA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们最好去查看一下。",
+      "metadata": {
+        "string_id": 3195,
+        "speaker_string_id": 3196,
+        "dialogue_id": "HRE01-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "快走开！",
+      "metadata": {
+        "string_id": 3016,
+        "speaker_string_id": 3017,
+        "dialogue_id": "HRE01-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "你可以躺在家里，或是蹲在牢房里醒酒。你自己选吧。",
+      "metadata": {
+        "string_id": 3021,
+        "speaker_string_id": 3022,
+        "dialogue_id": "HRE01-T220-LANDEN"
+      }
+    },
+    {
+      "speaker": "卢卡",
+      "text": "我真的看见了，我发誓！",
+      "metadata": {
+        "string_id": 3207,
+        "speaker_string_id": 3208,
+        "dialogue_id": "HRE01-T230-LUCA"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "你说我们能相信他说的话吗？",
+      "metadata": {
+        "string_id": 3008,
+        "speaker_string_id": 3009,
+        "dialogue_id": "HRE01-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "毫无根据的传言。没有人能证明斯坦索姆发生的事情，而且我相信阿尔萨斯王子所做的一切都是为了他的子民。",
+      "metadata": {
+        "string_id": 3010,
+        "speaker_string_id": 3011,
+        "dialogue_id": "HRE01-T250-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "呼，今天还真是忙碌啊。我们亲爱的王子殿下一定会很高兴的。",
+      "metadata": {
+        "string_id": 2989,
+        "speaker_string_id": 2990,
+        "dialogue_id": "HRE01-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "阿尔萨斯王子好像已经到了。我们快返回岗位。",
+      "metadata": {
+        "string_id": 2976,
+        "speaker_string_id": 2977,
+        "dialogue_id": "HRE01-T270-LANDEN"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "……加瑞克。",
+      "metadata": {
+        "string_id": 3443,
+        "speaker_string_id": 3442,
+        "dialogue_id": "HRE01-C020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "加瑞克！",
+      "metadata": {
+        "string_id": 3410,
+        "speaker_string_id": 3411,
+        "dialogue_id": "HRE01-C020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "恕我冒昧，队长。我加入城市卫兵队不是来给王室扫大街的。",
+      "metadata": {
+        "string_id": 2878,
+        "speaker_string_id": 2879,
+        "dialogue_id": "HRE01-M015-010-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我想要的是为了守护洛丹伦而战斗。我想要的是冲锋陷阵，建功立业。",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2882,
+        "dialogue_id": "HRE01-M015-020-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "加瑞克，我已经经历了太多的战斗，相信我，功业不过是过眼云烟。",
+      "metadata": {
+        "string_id": 2884,
+        "speaker_string_id": 2885,
+        "dialogue_id": "HRE01-M015-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "活下去才是真正的胜利，和平才是真正的功业。千万不要本末倒置了。",
+      "metadata": {
+        "string_id": 2887,
+        "speaker_string_id": 2888,
+        "dialogue_id": "HRE01-M015-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "等等……你听到了吗？",
+      "metadata": {
+        "string_id": 2890,
+        "speaker_string_id": 2891,
+        "dialogue_id": "HRE01-M015-050-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那是什么鬼东西？",
+      "metadata": {
+        "string_id": 3044,
+        "speaker_string_id": 3045,
+        "dialogue_id": "HRE01-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "我不……加瑞克！小心！",
+      "metadata": {
+        "string_id": 3048,
+        "speaker_string_id": 3049,
+        "dialogue_id": "HRE01-T290-LANDEN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "为了洛丹伦！",
+      "metadata": {
+        "string_id": 3314,
+        "speaker_string_id": 3315,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "牧师",
+      "text": "黑暗的孽物，退散！",
+      "metadata": {
+        "string_id": 3312,
+        "speaker_string_id": 3313,
+        "dialogue_id": "PriestYesAttack1"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "拿起武器！",
+      "metadata": {
+        "string_id": 3310,
+        "speaker_string_id": 3311,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "刺客",
+      "text": "干掉他们！",
+      "metadata": {
+        "string_id": 3336,
+        "speaker_string_id": 3337,
+        "dialogue_id": "BanditYesAttack3"
+      }
+    },
+    {
+      "speaker": "灾厄散播者",
+      "text": "我们的计划一定会成功！死亡将笼罩所有人！",
+      "metadata": {
+        "string_id": 3340,
+        "speaker_string_id": 3341,
+        "dialogue_id": "HRE01-T470-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "通灵师",
+      "text": "在天灾军团面前颤抖吧！",
+      "metadata": {
+        "string_id": 3346,
+        "speaker_string_id": 3347,
+        "dialogue_id": "NecromancerYesAttack2"
+      }
+    },
+    {
+      "speaker": "灾厄散播者",
+      "text": "这一天我已经等待了太久！",
+      "metadata": {
+        "string_id": 3344,
+        "speaker_string_id": 3345,
+        "dialogue_id": "HRE01-T480-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "这道门锁上了！",
+      "metadata": {
+        "string_id": 3051,
+        "speaker_string_id": 3052,
+        "dialogue_id": "HRE01-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "我们需要另外找路进去。快！",
+      "metadata": {
+        "string_id": 3056,
+        "speaker_string_id": 3057,
+        "dialogue_id": "HRE01-T310-LANDEN"
+      }
+    },
+    {
+      "speaker": "阿尔萨斯",
+      "text": "这个王国必将灭亡，新的秩序将从灰烬中崛起，动摇整个世界的根基！",
+      "metadata": {
+        "string_id": 3223,
+        "speaker_string_id": 3224,
+        "dialogue_id": "HRE01-T320-ARTHAS"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "看来传言是真的……阿尔萨斯王子疯了！",
+      "metadata": {
+        "string_id": 3239,
+        "speaker_string_id": 3240,
+        "dialogue_id": "HRE01-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "泰瑞纳斯国王！不好！",
+      "metadata": {
+        "string_id": 2893,
+        "speaker_string_id": 2894,
+        "dialogue_id": "HRE01-M020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "是亡灵！队长，我们必须要加入战斗！",
+      "metadata": {
+        "string_id": 3068,
+        "speaker_string_id": 3069,
+        "dialogue_id": "HRE01-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "这里发生了什么事？！",
+      "metadata": {
+        "string_id": 3070,
+        "speaker_string_id": 3071,
+        "dialogue_id": "HRE01-T350-LANDEN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "那、那是阿尔萨斯王子，长官！他杀死了国王！他的亲生父亲！",
+      "metadata": {
+        "string_id": 3078,
+        "speaker_string_id": 3149,
+        "dialogue_id": "HRE01-T360-THRONEROOMGUARD"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "他和那些怪物串通一气了？！",
+      "metadata": {
+        "string_id": 3073,
+        "speaker_string_id": 3074,
+        "dialogue_id": "HRE01-T370-GAREK"
+      }
+    },
+    {
+      "speaker": "维里奥尔领主",
+      "text": "终于到了这一天，诅咒教派将会摧毁洛丹伦！",
+      "metadata": {
+        "string_id": 3348,
+        "speaker_string_id": 3349,
+        "dialogue_id": "HRE01-T380-LORDVILEOR"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "到底还有完没完？我们得想办法离开这里！",
+      "metadata": {
+        "string_id": 3079,
+        "speaker_string_id": 3080,
+        "dialogue_id": "HRE01-T390-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "光明使者乌瑟尔！",
+      "metadata": {
+        "string_id": 3426,
+        "speaker_string_id": 3427,
+        "dialogue_id": "HRE01-C030-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "卫兵！你们没事吧？",
+      "metadata": {
+        "string_id": 3430,
+        "speaker_string_id": 3431,
+        "dialogue_id": "HRE01-C030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "没事，大人……",
+      "metadata": {
+        "string_id": 3434,
+        "speaker_string_id": 3435,
+        "dialogue_id": "HRE01-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "可泰瑞纳斯国王他……",
+      "metadata": {
+        "string_id": 3440,
+        "speaker_string_id": 3441,
+        "dialogue_id": "HRE01-C030-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "国王陛下……",
+      "metadata": {
+        "string_id": 3422,
+        "speaker_string_id": 3423,
+        "dialogue_id": "HRE01-C030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "乌瑟尔大人，外面出什么事了？",
+      "metadata": {
+        "string_id": 2902,
+        "speaker_string_id": 2903,
+        "dialogue_id": "HRE01-M030-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "城里满是邪教徒和亡灵。阿尔萨斯背叛了整个王国！",
+      "metadata": {
+        "string_id": 2905,
+        "speaker_string_id": 2906,
+        "dialogue_id": "HRE01-M030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "什么？！",
+      "metadata": {
+        "string_id": 2908,
+        "speaker_string_id": 2909,
+        "dialogue_id": "HRE01-M030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "我没能及时救下泰瑞纳斯，不过我一定会把那个叛徒王子绳之以法。",
+      "metadata": {
+        "string_id": 2911,
+        "speaker_string_id": 2912,
+        "dialogue_id": "HRE01-M030-040-UTHER"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "你们俩去召集城市卫兵，尽量拯救市民。",
+      "metadata": {
+        "string_id": 2914,
+        "speaker_string_id": 2915,
+        "dialogue_id": "HRE01-M030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "乌瑟尔",
+      "text": "我们在安多哈尔会合。愿圣光指引你们的前路。",
+      "metadata": {
+        "string_id": 2917,
+        "speaker_string_id": 2918,
+        "dialogue_id": "HRE01-M030-060-UTHER"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "队长……我们要怎么做？",
+      "metadata": {
+        "string_id": 3088,
+        "speaker_string_id": 3089,
+        "dialogue_id": "HRE01-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "以前有一条通过下水道撤离的路线。希望那里还能走通。",
+      "metadata": {
+        "string_id": 3086,
+        "speaker_string_id": 3087,
+        "dialogue_id": "HRE01-T410-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "阿尔萨斯！叛徒！",
+      "metadata": {
+        "string_id": 3175,
+        "speaker_string_id": 3176,
+        "dialogue_id": "HRE01-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "让乌瑟尔去对付他吧！我们得继续前进！",
+      "metadata": {
+        "string_id": 3041,
+        "speaker_string_id": 3042,
+        "dialogue_id": "HRE01-T430-LANDEN"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "圣光在上……",
+      "metadata": {
+        "string_id": 2920,
+        "speaker_string_id": 2921,
+        "dialogue_id": "HRE01-M040-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "怎么会出这种事……阿尔萨斯怎么能如此摧残自己的王国？！",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "HRE01-M040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我们必须要反击！我们必须要把那些怪物赶出去，夺回我们的家园！",
+      "metadata": {
+        "string_id": 2926,
+        "speaker_string_id": 2927,
+        "dialogue_id": "HRE01-M040-030-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "加瑞克，听我说。都城已经沦陷了，不过有朝一日还能重建。最重要的是保护我们的人民。",
+      "metadata": {
+        "string_id": 2930,
+        "speaker_string_id": 2931,
+        "dialogue_id": "HRE01-M040-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "我……我明白了。我们去下水道吧。",
+      "metadata": {
+        "string_id": 2933,
+        "speaker_string_id": 2934,
+        "dialogue_id": "HRE01-M040-050-GAREK"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "兰登队长！班达隆副官！",
+      "metadata": {
+        "string_id": 3279,
+        "speaker_string_id": 3280,
+        "dialogue_id": "HRE01-T500-GUARD1"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "卫兵们，跟我们走！",
+      "metadata": {
+        "string_id": 3281,
+        "speaker_string_id": 3282,
+        "dialogue_id": "HRE01-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "村民",
+      "text": "感谢圣光！还有更多幸存者被困在王宫的另一侧！",
+      "metadata": {
+        "string_id": 3293,
+        "speaker_string_id": 3294,
+        "dialogue_id": "HRE01-T520-SURVIVOR"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "我们会尽全力施救。留在这里，等我们打通道路！",
+      "metadata": {
+        "string_id": 3297,
+        "speaker_string_id": 3298,
+        "dialogue_id": "HRE01-T530-LANDEN"
+      }
+    },
+    {
+      "speaker": "火枪手",
+      "text": "卫兵！我们来支援你！",
+      "metadata": {
+        "string_id": 3277,
+        "speaker_string_id": 3278,
+        "dialogue_id": "HRE01-T540-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "通灵师",
+      "text": "都得死！",
+      "metadata": {
+        "string_id": 3144,
+        "speaker_string_id": 3145,
+        "dialogue_id": "NecromancerYesAttack3"
+      }
+    },
+    {
+      "speaker": "食尸鬼",
+      "text": "需要食物！",
+      "metadata": {
+        "string_id": 3275,
+        "speaker_string_id": 3276,
+        "dialogue_id": "GhoulWhat4"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "在这里！我们需要帮助！",
+      "metadata": {
+        "string_id": 3283,
+        "speaker_string_id": 3284,
+        "dialogue_id": "HRE01-T560-GUARD3"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "这片区域已经安全了。坚守这处阵地，等待我们的信号！",
+      "metadata": {
+        "string_id": 3285,
+        "speaker_string_id": 3286,
+        "dialogue_id": "HRE01-T570-LANDEN"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "就快要成功了！撤离路线就在前面！",
+      "metadata": {
+        "string_id": 2866,
+        "speaker_string_id": 2867,
+        "dialogue_id": "HRE01-C040-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "法吉",
+      "text": "撕碎血肉！",
+      "metadata": {
+        "string_id": 2875,
+        "speaker_string_id": 2876,
+        "dialogue_id": "AbominationYes3"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "那只憎恶挡在我们前往下水道的路上。",
+      "metadata": {
+        "string_id": 2869,
+        "speaker_string_id": 2870,
+        "dialogue_id": "HRE01-C040-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "加瑞克",
+      "text": "那就速战速决吧。",
+      "metadata": {
+        "string_id": 2872,
+        "speaker_string_id": 2873,
+        "dialogue_id": "HRE01-C040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "道路打通了！快召集幸存者！",
+      "metadata": {
+        "string_id": 3383,
+        "speaker_string_id": 3384,
+        "dialogue_id": "HRE01-T590-LANDEN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "兰登队长！我们已经确保了出城地道的畅通！",
+      "metadata": {
+        "string_id": 2936,
+        "speaker_string_id": 2937,
+        "dialogue_id": "HRE01-M050-010-GUARD2"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "干得好，卫兵们！大家都快进到下水道里去！",
+      "metadata": {
+        "string_id": 2939,
+        "speaker_string_id": 2940,
+        "dialogue_id": "HRE01-M050-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "城市卫兵",
+      "text": "你们先带幸存者离开！我们会帮你们争取时间！",
+      "metadata": {
+        "string_id": 2942,
+        "speaker_string_id": 2943,
+        "dialogue_id": "HRE01-M050-030-GUARD2"
+      }
+    },
+    {
+      "speaker": "兰登",
+      "text": "为了洛丹伦。",
+      "metadata": {
+        "string_id": 2945,
+        "speaker_string_id": 2946,
+        "dialogue_id": "HRE01-M050-040-LANDEN"
+      }
+    }
+  ]
+}

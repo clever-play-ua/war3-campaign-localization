@@ -1,0 +1,301 @@
+{
+  "map": "UndeadRE02_04",
+  "title": "Dawns Watch",
+  "locale": "enUS",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M4-C010-010-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lord Tyrosus",
+      "text": "The Scourge have found us! Argent Dawn, to arms!",
+      "string_id": 411,
+      "speaker_string_id": 412,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-010-TYROSUS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M4-C010-011-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "I knew this would happen!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]I knew this would happen![/\"Angry\"]",
+      "string_id": 852,
+      "speaker_string_id": 851,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-011-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M4-C010-012-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Lord Tyrosus! These Forsaken are under my protection.",
+      "string_id": 854,
+      "speaker_string_id": 853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-012-LEONID.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M4-C010-013-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lord Tyrosus",
+      "text": "Leonid, thank the Light you've returned! Then these undead...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Leonid, thank the Light you've returned! Then these undead...[/\"Surprised\"]",
+      "string_id": 856,
+      "speaker_string_id": 855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-013-TYROSUS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M4-C010-014-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Are the same as I am. And they are under attack from the Scarlet Crusade.",
+      "string_id": 858,
+      "speaker_string_id": 857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-014-LEONID.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M4-C010-020-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lord Tyrosus",
+      "text": "Those fanatics must be stopped.",
+      "string_id": 505,
+      "speaker_string_id": 506,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-020-TYROSUS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M4-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Do you truly expect us to believe there’s any difference between you?",
+      "string_id": 395,
+      "speaker_string_id": 396,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M4-C010-040-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lord Tyrosus",
+      "text": "We were once all Knights of the Silver Hand. But those who sought vengeance for Lordaeron twisted the order into the Scarlet Crusade.",
+      "string_id": 509,
+      "speaker_string_id": 510,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-040-TYROSUS.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M4-C010-050-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lord Tyrosus",
+      "text": "We who held fast to the true teachings of the Light left and formed the Argent Dawn.",
+      "string_id": 513,
+      "speaker_string_id": 514,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-050-TYROSUS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M4-C010-060-TYROSUS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Lord Tyrosus",
+      "text": "Alas, we are few in number. The Crusade grow strong within their monastery, and we have little hope of defeating them in battle.",
+      "string_id": 515,
+      "speaker_string_id": 516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-060-TYROSUS.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M4-C010-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "This monastery... could you lead us to it?",
+      "string_id": 460,
+      "speaker_string_id": 461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-070-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M4-C010-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "You may not have the forces to lay siege to the Crusade’s stronghold, but the Forsaken do.",
+      "string_id": 469,
+      "speaker_string_id": 470,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-080-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M4-C010-090-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "You would have us fight their war for them?",
+      "string_id": 478,
+      "speaker_string_id": 479,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-090-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M4-C010-091-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "It's our war as well. The Scarlet Crusade is sure to strike the Undercity again.",
+      "string_id": 860,
+      "speaker_string_id": 859,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-091-GAREK.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M4-C010-100-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "I will lead you to them. I doubt Lady Sylvanas would trust anyone else from the Argent Dawn.",
+      "string_id": 487,
+      "speaker_string_id": 488,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-100-LEONID.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M4-C010-110-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "You'll be lucky if she trusts you.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]You'll be lucky if she trusts you.[/\"Squint\"]",
+      "string_id": 496,
+      "speaker_string_id": 497,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M4-C010-120-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Then it’s settled. Light guide our path.",
+      "string_id": 501,
+      "speaker_string_id": 502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-120-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M4-T010-LEONID",
+      "scene": "Transmissions.Entry Transmission",
+      "speaker": "Leonid ",
+      "text": "The Argent Dawn had to garrison in ogre territory. We may have to fight our way up the hill.",
+      "string_id": 154,
+      "speaker_string_id": 155,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T010-LEONID.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M4-T020-ARGENTDAWNCAPTIVE",
+      "scene": "Transmissions.Survivor Soldier Transmission",
+      "speaker": "Footman",
+      "text": "Leonid! The ogres took our patrols prisoner! The fort is under attack!",
+      "string_id": 126,
+      "speaker_string_id": 127,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T020-ARGENTDAWNCAPTIVE.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M4-T030-LEONID",
+      "scene": "Transmissions.Survivor Soldier Transmission",
+      "speaker": "Leonid ",
+      "text": "What?! Then there's no time to spare! We must rescue the others and break the siege!",
+      "string_id": 146,
+      "speaker_string_id": 147,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T030-LEONID.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M4-T060-LEONID",
+      "scene": "Transmissions.Siege Transmission",
+      "speaker": "Leonid ",
+      "text": "By the Light's grace, we're not too late! The fort's gates still hold!",
+      "string_id": 258,
+      "speaker_string_id": 259,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T060-LEONID.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M4-T070-GAREK",
+      "scene": "Transmissions.Siege Transmission",
+      "speaker": "Garek",
+      "text": "They won't for much longer. We have to end this siege now!",
+      "string_id": 260,
+      "speaker_string_id": 261,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T070-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M4-T080-LEONID",
+      "scene": "Transmissions.Boss Defeated Transmission",
+      "speaker": "Leonid ",
+      "text": "The siege is broken, and the rest of the ogres will scatter into the hills. Let's head into the fort.",
+      "string_id": 252,
+      "speaker_string_id": 253,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T080-LEONID.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M4-T090-GAREK",
+      "scene": "Transmissions.Introducing Leonid Transmission",
+      "speaker": "Garek",
+      "text": "It's time to let Lady Sylvanas know what we've learned.",
+      "string_id": 833,
+      "speaker_string_id": 834,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T090-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M4-T100-ANYA",
+      "scene": "Transmissions.Introducing Leonid Transmission",
+      "speaker": "Anya",
+      "text": "Do not expect a warm homecoming, Leonid. Not all Forsaken are as forgiving as I am.",
+      "string_id": 835,
+      "speaker_string_id": 836,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T100-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "FootmanReady1",
+      "scene": "Argent Dawn Resuce.Rescue 1",
+      "speaker": "Footman",
+      "text": "Ready for action!",
+      "string_id": 912,
+      "speaker_string_id": 911,
+      "sound": "Units/Human/Footman/FootmanReady1.ogg"
+    },
+    {
+      "n": 27,
+      "id": "PriestYes1",
+      "scene": "Argent Dawn Resuce.Rescue 2",
+      "speaker": "Priest",
+      "text": "I am your servant.",
+      "string_id": 913,
+      "speaker_string_id": 914,
+      "sound": "Units/Human/Priest/PriestYes1.ogg"
+    },
+    {
+      "n": 28,
+      "id": "FootmanWhat4",
+      "scene": "Argent Dawn Resuce.Rescue 3",
+      "speaker": "Footman",
+      "text": "Say the word.",
+      "string_id": 915,
+      "speaker_string_id": 916,
+      "sound": "Units/Human/Footman/FootmanWhat4.ogg"
+    },
+    {
+      "n": 29,
+      "id": "RiflemanReady1",
+      "scene": "Argent Dawn Resuce.Rescue 4",
+      "speaker": "Rifleman",
+      "text": "Locked and loaded!",
+      "string_id": 917,
+      "speaker_string_id": 918,
+      "sound": "Units/Human/Rifleman/RiflemanReady1.ogg"
+    }
+  ]
+}

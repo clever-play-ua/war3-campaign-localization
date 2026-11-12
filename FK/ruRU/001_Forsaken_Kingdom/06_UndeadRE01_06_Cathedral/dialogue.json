@@ -1,0 +1,118 @@
+{
+  "map": "UndeadRE01_06",
+  "title": "Cathedral",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M6-M010-010-ANYA",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ания",
+      "text": "Напролом мы точно не пойдем. Даже если мы убьем всех стражников, они успеют поднять тревогу.",
+      "string_id": 381,
+      "speaker_string_id": 382,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-M010-010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M6-M010-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Где-то должен быть другой вход. Надо бы осмотреться.",
+      "string_id": 397,
+      "speaker_string_id": 398,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M6-T010-KNIGHT",
+      "scene": "Transmissions.Front Door Transmission 01",
+      "speaker": "Пехотинец",
+      "text": "Здесь чужаки! Закройте двери!",
+      "string_id": 291,
+      "speaker_string_id": 292,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T010-KNIGHT.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M6-T020-ANYA",
+      "scene": "Transmissions.Front Door Transmission 02",
+      "speaker": "Ания",
+      "text": "А я ведь говорила. Будем надеяться, что ты был прав насчет другого входа.",
+      "string_id": 303,
+      "speaker_string_id": 304,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T020-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M6-T030-GAREK",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "Гарек",
+      "text": "И почему паладины так нас ненавидят? Неужели из-за того, что мы нежить?",
+      "string_id": 310,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T030-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M6-T040-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "Ания",
+      "text": "Для них этого достаточно. Но еще они винят нас в падении Лордерона.",
+      "string_id": 313,
+      "speaker_string_id": 314,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T040-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M6-T050-ANYA",
+      "scene": "Transmissions.Side Path Transmission 01",
+      "speaker": "Ания",
+      "text": "Возможно, среди них остались те, кто защищает справедливость, что бы это ни значило. Но большинство одержимы местью.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T050-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M6-T060-ANYA",
+      "scene": "Transmissions.Wall Gap Transmission 01",
+      "speaker": "Ания",
+      "text": "Отлично. Пришло время расправиться с Серебряной Дланью.",
+      "string_id": 322,
+      "speaker_string_id": 323,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T060-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M6-T080-GAREK",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "Гарек",
+      "text": "А-а-а! Как больно!",
+      "string_id": 332,
+      "speaker_string_id": 333,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T080-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M6-T090-ANYA",
+      "scene": "Transmissions.Holy Aura Transmission 01",
+      "speaker": "Ания",
+      "text": "Это все Свет! Надо убить жрецов!",
+      "string_id": 337,
+      "speaker_string_id": 338,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m6/A1M6-T090-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M6-T100-COMMANDER",
+      "scene": "Bossfight.Paladin Transmission 01 Initial Camera Steal",
+      "speaker": "Паладин",
+      "text": "Мерзкие чудовища! Как вы смеете осквернять эту священную землю?!",
+      "string_id": 352,
+      "speaker_string_id": 353,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01M6/A1M6-T100-COMMANDER.ogg"
+    }
+  ]
+}

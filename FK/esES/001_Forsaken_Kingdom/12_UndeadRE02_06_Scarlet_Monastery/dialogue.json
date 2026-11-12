@@ -1,0 +1,692 @@
+{
+  "map": "UndeadRE02_06",
+  "title": "Scarlet Monastery",
+  "locale": "esES",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M5-C010-010-MOGRAINE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "Volvemos a encontrarnos, pero esta vez os despediréis de Lordaeron.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Volvemos a encontrarnos, pero esta vez os despediréis de Lordaeron.[/\"Angry\"]",
+      "string_id": 1194,
+      "speaker_string_id": 1195,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-010-MOGRAINE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M5-C010-020-WHITEMANE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sally",
+      "text": "Adalid, ¡acaba con esos monstruos!",
+      "string_id": 1184,
+      "speaker_string_id": 1185,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-020-WHITEMANE.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M5-C010-030-MOGRAINE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Por la Cruzada Escarlata!",
+      "string_id": 1190,
+      "speaker_string_id": 1191,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-030-MOGRAINE.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M5-C010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Renegados, ¡atacad!",
+      "string_id": 1188,
+      "speaker_string_id": 1189,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M5-C020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "Hemos recuperado los Claros de Tirisfal. Los zelotes se han retirado a su monasterio.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Hemos recuperado los Claros de Tirisfal. Los zelotes se han retirado a su monasterio.[/\"Angry\"]",
+      "string_id": 899,
+      "speaker_string_id": 900,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M5-C020-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Deberíamos atacar su fortaleza y acabar con ellos de una vez por todas.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Deberíamos atacar su fortaleza y acabar con ellos de una vez por todas.[/\"Angry\"]",
+      "string_id": 847,
+      "speaker_string_id": 848,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-020-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M5-C020-030-LANDEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Recuerdos de Landen",
+      "text": "La verdadera victoria es sobrevivir. Y la paz, su recompensa.",
+      "string_id": 950,
+      "speaker_string_id": 951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-030-LANDEN.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M5-C020-040-LANDEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Recuerdos de Landen",
+      "text": "Nunca lo olvides.",
+      "string_id": 836,
+      "speaker_string_id": 837,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-040-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M5-C020-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Lady Sylvanas. Creo que deberíamos volver a Entrañas.",
+      "string_id": 869,
+      "speaker_string_id": 870,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-070-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M5-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Hemos obligado a la Cruzada a retroceder, pero a qué precio. Si atacamos el monasterio ahora...",
+      "string_id": 877,
+      "speaker_string_id": 878,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M5-C020-081-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Los Renegados no podemos reponer nuestras filas. Cada pérdida nos acerca a la extinción. ¿De verdad merece la pena asaltar el monasterio y correr ese riesgo?",
+      "string_id": 1157,
+      "speaker_string_id": 1158,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-081-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M5-C020-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "Unas palabras muy sabias. Nos proclamaremos vencedores y protegeremos nuestro territorio.",
+      "string_id": 889,
+      "speaker_string_id": 890,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M5-C020-100-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Informaré al Alba Argenta del resultado de la batalla. Si la Cruzada vuelve a atacar, los Renegados serán los primeros en enterarse.",
+      "string_id": 897,
+      "speaker_string_id": 898,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-100-LEONID.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M5-C020-110-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Ha sido un honor luchar a vuestro lado. Sabed que siempre os consideraré mis aliados.",
+      "string_id": 908,
+      "speaker_string_id": 909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-110-LEONID.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M5-C020-120-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Habéis sido... de gran ayuda. Procurad mantener a raya a esos paladines.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Habéis sido... de gran ayuda. Procurad mantener a raya a esos paladines.[/\"Squint\"]",
+      "string_id": 917,
+      "speaker_string_id": 918,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-120-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M5-C020-130-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "La Cruzada volverá a revelarse. La Luz los obliga a destruirnos.",
+      "string_id": 926,
+      "speaker_string_id": 927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-130-SYLVANAS.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M5-C020-140-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Puede ser, pero creo que se debe más al odio acumulado que a la Luz.",
+      "string_id": 933,
+      "speaker_string_id": 934,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-140-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M5-C020-150-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Y pienso que hay defensores de la Luz que actuarían de manera diferente. Incluso puede haber quienes defiendan a los Renegados.",
+      "string_id": 1114,
+      "speaker_string_id": 1115,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-150-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M5-C020-160-CULTASSASSIN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Asesino de la Plaga",
+      "text": "Así que las tropas de la Cruzada Escarlata y los Renegados han quedado muy mermadas.",
+      "string_id": 1128,
+      "speaker_string_id": 1129,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-160-CULTASSASSIN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M5-C020-170-CULTASSASSIN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Asesino de la Plaga",
+      "text": "La hora de la Plaga está cada vez más cerca.",
+      "string_id": 1126,
+      "speaker_string_id": 1127,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-170-CULTASSASSIN.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M5-M010-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "Estabas en lo cierto, Leonid. Ahora, a por la batalla.",
+      "string_id": 764,
+      "speaker_string_id": 765,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M5-M010-020-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "El camino al Monasterio Escarlata está muy protegido. Nos superan en número, así que debemos atacar con discreción y precisión.",
+      "string_id": 752,
+      "speaker_string_id": 753,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-020-SYLVANAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M5-M010-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "Infiltraos en las líneas enemigas, romped sus defensas y eliminad a los comandantes.",
+      "string_id": 748,
+      "speaker_string_id": 749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M5-M010-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylvanas",
+      "text": "Tened en cuenta que, si las cosas se tuercen, no dudaré en ordenar la retirada. Actuad con rapidez para no se nos escape la victoria.",
+      "string_id": 743,
+      "speaker_string_id": 744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M5-M010-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Así se hará, Dama Oscura.",
+      "string_id": 739,
+      "speaker_string_id": 740,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2M5-T010-GAREK",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Create Q",
+      "speaker": "Garek",
+      "text": "Las tropas están de camino. Hay que acabar con las defensas de la Cruzada Escarlata o irán directas a una trampa mortal.",
+      "string_id": 111,
+      "speaker_string_id": 112,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T010-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2M5-T020-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 750 Q",
+      "speaker": "Sylvanas",
+      "text": "¡Han caído muchos renegados, pero la victoria está cada vez más cerca!",
+      "string_id": 409,
+      "speaker_string_id": 410,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T020-SYLVANAS.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2M5-T030-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 500 Q",
+      "speaker": "Sylvanas",
+      "text": "La mitad de nuestros hombres ha caído a manos de las defensas de la Cruzada. ¡Hay que poner fin a esta batalla!",
+      "string_id": 125,
+      "speaker_string_id": 126,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T030-SYLVANAS.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2M5-T040-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 200 Q",
+      "speaker": "Sylvanas",
+      "text": "¡No podemos continuar con el asedio por mucho más tiempo! ¡Acabemos ya con esto!",
+      "string_id": 138,
+      "speaker_string_id": 139,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T040-SYLVANAS.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2M5-T050-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 0 Q",
+      "speaker": "Sylvanas",
+      "text": "¡Ya basta! ¡No pienso sacrificar más Renegados por una causa perdida! ¡Retirada! ¡Volvemos a Entrañas!",
+      "string_id": 145,
+      "speaker_string_id": 146,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T050-SYLVANAS.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2M5-T060-ANYA",
+      "scene": "Scarlet Crusade.Archers.Scarlet Crusade Archers Approach Q",
+      "speaker": "Anya",
+      "text": "Esos arqueros nos acribillarán a flechas. Hay que eliminarlos.",
+      "string_id": 152,
+      "speaker_string_id": 153,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T060-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2M5-T070-GAREK",
+      "scene": "Scarlet Crusade.Archers.Scarlet Crusade Archers Defeated Q",
+      "speaker": "Garek",
+      "text": "Hemos conquistado el terreno elevado. ¡Continuemos!",
+      "string_id": 159,
+      "speaker_string_id": 160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T070-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2M5-T080-ANYA",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 01 Q",
+      "speaker": "Anya",
+      "text": "Hay forestales oscuros enfrentándose a los cruzados en el bosque. Mis hermanas nos acompañarán si decidimos ayudarlos.",
+      "string_id": 253,
+      "speaker_string_id": 254,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T080-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2M5-T110-LEONID",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Q",
+      "speaker": "Leonid",
+      "text": "Parece que hay un cuartel cerca, donde la Cruzada ha capturado tropas de los Renegados. Habría que intentar rescatarlos.",
+      "string_id": 274,
+      "speaker_string_id": 275,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T110-LEONID.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2M5-T120-GAREK",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Rescued Q",
+      "speaker": "Garek",
+      "text": "¡Adelante, soldados! ¡Marchamos hacia el Monasterio Escarlata!",
+      "string_id": 281,
+      "speaker_string_id": 282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T120-GAREK.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2M5-T130-GAREK",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Too Late Q",
+      "speaker": "Garek",
+      "text": "Están todos muertos. Ese será nuestro destino si vence la Cruzada.",
+      "string_id": 1150,
+      "speaker_string_id": 1151,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T130-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2M5-T140-GAREK",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Discover Q",
+      "speaker": "Garek",
+      "text": "A nuestras tropas les costará mucho romper ese muro de escudos. Lo mejor será flanquear a los Escarlatas y atacar a su capitán.",
+      "string_id": 172,
+      "speaker_string_id": 173,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T140-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2M5-T150-SCARLETCAPTAIN",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Approach Q",
+      "speaker": "Capitán Tychos",
+      "text": "¡Los no-muertos nos atacan desde arriba! ¡Cerradles el paso!",
+      "string_id": 353,
+      "speaker_string_id": 354,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T150-SCARLETCAPTAIN.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2M5-T160-GAREK",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Defeated Q",
+      "speaker": "Garek",
+      "text": "¡La falange se ha desordenado! ¡Es el momento de atacar!",
+      "string_id": 182,
+      "speaker_string_id": 183,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T160-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2M5-T170-LEONID",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Defeated Q",
+      "speaker": "Leonid",
+      "text": "La Cruzada responderá con la misma contundencia. Hay que llegar al monasterio cuanto antes.",
+      "string_id": 185,
+      "speaker_string_id": 186,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T170-LEONID.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2M5-T180-ANYA",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Discover Q",
+      "speaker": "Anya",
+      "text": "Ese inquisidor usará la Luz para quemar a nuestras tropas. ¡Hay que acabar con él!",
+      "string_id": 500,
+      "speaker_string_id": 501,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T180-ANYA.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2M5-T190-SCARLETINQUISITOR",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Approach Q",
+      "speaker": "Inquisidor Kerran",
+      "text": "¡Criaturas inmundas! ¡Arded en el fuego sagrado!",
+      "string_id": 490,
+      "speaker_string_id": 491,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T190-SCARLETINQUISITOR.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2M5-T200-ANYA",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Defeated Q",
+      "speaker": "Anya",
+      "text": "Hasta nunca. Nuestras tropas ya pueden avanzar.",
+      "string_id": 450,
+      "speaker_string_id": 451,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T200-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2M5-T220-SCARLETCRUSADER",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Approach Q",
+      "speaker": "Cruzado Artonius",
+      "text": "¡No! ¡Este asedio termina aquí!",
+      "string_id": 479,
+      "speaker_string_id": 480,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T220-SCARLETCRUSADER.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2M5-T230-LEONID",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Meat Wagons Bastion Q",
+      "speaker": "Leonid",
+      "text": "A la Cruzada solo le queda una línea de contención. ¡Estamos muy cerca del monasterio!",
+      "string_id": 474,
+      "speaker_string_id": 475,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T230-LEONID.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2M5-T240-GAREK",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Meat Wagons Bastion Q",
+      "speaker": "Garek",
+      "text": "¡Pues pongamos fin a esta batalla!",
+      "string_id": 472,
+      "speaker_string_id": 473,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T240-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2M5-T250-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Start Fight Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Atacaremos todos juntos!",
+      "string_id": 1178,
+      "speaker_string_id": 1179,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T250-WHITEMANE.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2M5-T260-mograine",
+      "scene": "Scarlet Camp.Scarlet Camp Start Fight Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Aquí estoy, mi señora!",
+      "string_id": 1180,
+      "speaker_string_id": 1181,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T260-mograine.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2M5-T270-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 01 Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡A mí, monstruos!",
+      "string_id": 1244,
+      "speaker_string_id": 1245,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T270-MOGRAINE.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2M5-T280-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 02 Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Seréis purificados!",
+      "string_id": 1257,
+      "speaker_string_id": 1258,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T280-MOGRAINE.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2M5-T290-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 03 Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Todos acaban sucumbiendo a la Cruzada Escarlata!",
+      "string_id": 1262,
+      "speaker_string_id": 1263,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T290-MOGRAINE.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2M5-T300-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Rescue Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡¿Os atrevéis a atacar a la alta inquisidora?!",
+      "string_id": 1275,
+      "speaker_string_id": 1276,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T300-MOGRAINE.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2M5-T310-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 04 Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Vuestra miserable existencia termina aquí!",
+      "string_id": 1278,
+      "speaker_string_id": 1279,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T310-MOGRAINE.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2M5-T320-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Revive Taunt Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Lucha, campeón!",
+      "string_id": 1200,
+      "speaker_string_id": 1201,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T320-WHITEMANE.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2M5-T330-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 1 Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Quienes sirven a la Luz gozan de su protección!",
+      "string_id": 1203,
+      "speaker_string_id": 1204,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T330-WHITEMANE.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2M5-T340-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 2 Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡La victoria será nuestra!",
+      "string_id": 1215,
+      "speaker_string_id": 1216,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T340-WHITEMANE.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2M5-T350-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 3 Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Haz que retrocedan esos paganos, Mograine!",
+      "string_id": 1220,
+      "speaker_string_id": 1221,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T350-WHITEMANE.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2M5-T360-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 4 Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "¡Que ardan las llamas de la salvación!",
+      "string_id": 1225,
+      "speaker_string_id": 1226,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T360-WHITEMANE.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2M5-T370-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp End Fight Q",
+      "speaker": "Comandante Escarlata Mograine",
+      "text": "¡Están ganando terreno, mi señora! ¡Deberíamos retirarnos y defender el monasterio!",
+      "string_id": 1230,
+      "speaker_string_id": 1231,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T370-MOGRAINE.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2M5-T380-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp End Fight Q",
+      "speaker": "Alta inquisidora Melenablanca",
+      "text": "De acuerdo. ¡Es cuestión de tiempo que esas abominaciones impías paguen por su traición!",
+      "string_id": 1239,
+      "speaker_string_id": 1240,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T380-WHITEMANE.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2M5-T555-DEATHGUARD",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Discover Q",
+      "speaker": "Guardia de la muerte",
+      "text": "¡Capitán! ¡Nuestras catapultas de despojos pueden derribar la torre, pero antes hay que deshacerse de esos cañones!",
+      "string_id": 466,
+      "speaker_string_id": 467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T555-DEATHGUARD.ogg"
+    },
+    {
+      "n": 62,
+      "id": "ForsakenRanger_Ready1",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 01 Rescued Q",
+      "speaker": "Forestal renegado",
+      "text": "¡Sirvo a la Reina Alma en Pena!",
+      "string_id": 260,
+      "speaker_string_id": 261,
+      "sound": "Units/Undead/ForsakenRanger/ForsakenRanger_Ready1.ogg"
+    },
+    {
+      "n": 63,
+      "id": "ForsakenVillagerF_What1",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 02 Rescued Q",
+      "speaker": "Forestal renegado",
+      "text": "¡Saludos!",
+      "string_id": 267,
+      "speaker_string_id": 268,
+      "sound": "Units/Critters/ForsakenVillagerF/ForsakenVillagerF_What1.ogg"
+    },
+    {
+      "n": 64,
+      "id": "FootmanYesAttack2",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 01 Q",
+      "speaker": "Soldado raso Escarlata",
+      "text": "¡Al ataque!",
+      "string_id": 327,
+      "speaker_string_id": 328,
+      "sound": "Units/Human/Footman/FootmanYesAttack2.flac"
+    },
+    {
+      "n": 65,
+      "id": "ScarletMarksman_Warcry1",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 02 Q",
+      "speaker": "Tirador Escarlata",
+      "text": "¡Usaré tu cabeza como decoración!",
+      "string_id": 320,
+      "speaker_string_id": 321,
+      "sound": "Units/Human/ScarletMarksman/ScarletMarksman_Warcry1.ogg"
+    },
+    {
+      "n": 66,
+      "id": "FootmanYesAttack3",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 03 Q",
+      "speaker": "Soldado raso Escarlata",
+      "text": "¡A las armas!",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 67,
+      "id": "FootmanYesAttack2",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 04 Q",
+      "speaker": "Soldado raso Escarlata",
+      "text": "¡Al ataque!",
+      "string_id": 327,
+      "speaker_string_id": 328,
+      "sound": "Units/Human/Footman/FootmanYesAttack2.flac"
+    },
+    {
+      "n": 68,
+      "id": "KnightWarcry1",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 05 Q",
+      "speaker": "Cruzado",
+      "text": "¡Por el honor! ¡Por la libertad!",
+      "string_id": 707,
+      "speaker_string_id": 708,
+      "sound": "Units/Human/Knight/KnightWarcry1.flac"
+    }
+  ]
+}

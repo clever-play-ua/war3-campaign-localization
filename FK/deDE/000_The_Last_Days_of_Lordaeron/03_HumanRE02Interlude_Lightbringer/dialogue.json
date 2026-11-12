@@ -1,0 +1,100 @@
+{
+  "map": "HumanRE02Interlude",
+  "title": "Lightbringer",
+  "locale": "deDE",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02I-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Lord Uther! Habt Ihr Prinz Arthas gestellt?",
+      "string_id": 61,
+      "speaker_string_id": 62,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02I-M010-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Nein. Bis ich Terenas’ Überreste gesegnet hatte, hatte Arthas die Stadt bereits verlassen.",
+      "string_id": 58,
+      "speaker_string_id": 59,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-020-UTHER.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02I-M010-023-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Euer Hauptmann ist nicht bei Euch. Ist er etwa …",
+      "string_id": 105,
+      "speaker_string_id": 106,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-023-UTHER.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02I-M010-025-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Dieser Verräter Rivendare hat ihn ermordet. Ohne Hauptmann Landen wäre auch ich tot.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.25 easein=0.45 easeout=0.55]Dieser Verräter Rivendare hat ihn ermordet.[/\"Angry\"] [\"Sad\" type=quad v2=0.25 v3=0.5 easein=0.55 easeout=0.45]Ohne Hauptmann Landen wäre auch ich tot.[/\"Sad\"]",
+      "string_id": 107,
+      "speaker_string_id": 108,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-025-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02I-M010-028-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Ich teile Eure Trauer, Leutnant. Wir dürfen nicht zulassen, dass sein Opfer vergebens war.",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ich teile Eure Trauer, Leutnant. Wir dürfen nicht zulassen, dass sein Opfer vergebens war.[/\"Sad\"]",
+      "string_id": 109,
+      "speaker_string_id": 110,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-028-UTHER.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02I-M010-030-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Bedauerlicherweise wird Andorhal inzwischen von Kultisten und Totenbeschwörern belagert. Uns fehlen die Truppen, um die Belagerung zu durchbrechen.",
+      "string_id": 103,
+      "speaker_string_id": 104,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-030-UTHER.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02I-M010-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Ich bringe die Überlebenden nach Herdweiler und trommle Verstärkung zusammen. Ihr haltet hier die Stellung und setzt den Kultisten zu, bis ich zurück bin.",
+      "string_id": 82,
+      "speaker_string_id": 83,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-040-UTHER.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02I-M010-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Jawohl.",
+      "string_id": 84,
+      "speaker_string_id": 85,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02I-M010-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Andorhal darf dem Kult nicht in die Hände fallen. Möge das Licht Euren Weg leiten.",
+      "string_id": 88,
+      "speaker_string_id": 89,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-060-UTHER.ogg"
+    }
+  ]
+}

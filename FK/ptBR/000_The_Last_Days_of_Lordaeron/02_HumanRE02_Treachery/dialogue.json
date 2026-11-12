@@ -1,0 +1,1025 @@
+{
+  "map": "HumanRE02",
+  "title": "Treachery",
+  "locale": "ptBR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02-C010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Droga! Como isso foi acontecer? A cidade está em cinzas...",
+      "string_id": 2189,
+      "speaker_string_id": 2190,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02-C010-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Precisamos manter o foco. Essas pessoas estão contando conosco para levá-las até um local seguro.",
+      "string_id": 2192,
+      "speaker_string_id": 2193,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-020-LANDEN.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02-C010-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Elas confiaram em nós para mantê-las seguras. E nós falhamos.",
+      "string_id": 2195,
+      "speaker_string_id": 2196,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02-C010-040-RIFLEMAN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Carabineiro",
+      "text": "Vejam, sobreviventes!",
+      "string_id": 2198,
+      "speaker_string_id": 2199,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-040-RIFLEMAN.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02-C010-050-FOOTMAN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Soldado",
+      "text": "Senhor, nós nos separamos de nossa tropa e nos perdemos aqui.",
+      "string_id": 2766,
+      "speaker_string_id": 2767,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-050-FOOTMAN.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02-C010-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Estamos procurando um túnel de saída. Nos ajudem a proteger esses civis, e então sairemos todos com vida.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-060-LANDEN.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02-C020-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Aquele é o Barão Rivendare, Senhor de Stratholme!",
+      "string_id": 2238,
+      "speaker_string_id": 2239,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-010-GAREK.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02-C020-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Meu senhor! Estamos com um grupo de civis...",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Meu senhor! Estamos com um grupo de civis...[/\"Scared\"]",
+      "string_id": 2241,
+      "speaker_string_id": 2242,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-020-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02-C020-030-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "Que ótimo. Seus sobreviventes serão adições incríveis ao Flagelo.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Que ótimo. Seus sobreviventes serão adições incríveis ao Flagelo.[/\"Angry\"]",
+      "string_id": 2244,
+      "speaker_string_id": 2245,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-030-RIVENDARE.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE02-C020-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Você é um traidor imundo, assim como o Arthas!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Você é um traidor imundo, assim como o Arthas![/\"Angry\"]",
+      "string_id": 2247,
+      "speaker_string_id": 2248,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-040-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE02-C020-050-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "Nosso querido príncipe é apenas um instrumento de plano maior. Um plano que eu ajudei a preparar.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Nosso querido príncipe é apenas um instrumento de plano maior. Um plano que eu ajudei a preparar.[/\"Happy\"]",
+      "string_id": 2250,
+      "speaker_string_id": 2251,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-050-RIVENDARE.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE02-C020-060-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "Agora este reino fraco e patético sucumbirá, e de seu cadáver se erguerá um exército de malditos.",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-060-RIVENDARE.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE02-C020-070-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "Não preciso me dignar a lidar com esses vermes. Matem-nos e cacem os demais sobreviventes.",
+      "string_id": 2256,
+      "speaker_string_id": 2257,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-070-RIVENDARE.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE02-C030-010-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "",
+      "string_id": 2693,
+      "speaker_string_id": 2694,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-010-RIVENDARE.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE02-C030-020-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "",
+      "string_id": 2710,
+      "speaker_string_id": 2711,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-020-RIVENDARE.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE02-C030-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "",
+      "string_id": 2719,
+      "speaker_string_id": 2720,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-040-LANDEN.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE02-C030-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "",
+      "string_id": 2728,
+      "speaker_string_id": 2729,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE02-C030-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "",
+      "string_id": 2737,
+      "speaker_string_id": 2738,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-060-LANDEN.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE02-C030-070-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "",
+      "string_id": 2746,
+      "speaker_string_id": 2747,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-070-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE02-C030-080-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-080-LANDEN.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE02-C030-090-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Que a Luz esteja contigo, $Gsenhor:senhora;.",
+      "string_id": 2764,
+      "speaker_string_id": 2765,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-090-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE02-C030-100-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "",
+      "string_id": 2775,
+      "speaker_string_id": 2776,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-100-LANDEN.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE02-C030-110-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Barão Rivendare",
+      "text": "",
+      "string_id": 2783,
+      "speaker_string_id": 2784,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-110-RIVENDARE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE02-C030-120-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Por Lordaeron!",
+      "string_id": 2786,
+      "speaker_string_id": 2787,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-120-LANDEN.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE02-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Vejam só isso! Por quanto tempo esses ratos sectários ficaram se escondendo no esgoto?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Vejam só isso! Por quanto tempo esses ratos sectários ficaram se escondendo no esgoto?[/\"Angry\"]",
+      "string_id": 2207,
+      "speaker_string_id": 2208,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE02-M010-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Eles devem ter planejado esse golpe por anos. Nossos amigos e vizinhos...",
+      "string_id": 2210,
+      "speaker_string_id": 2211,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-020-LANDEN.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE02-M010-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "E pensar que essa podridão estava crescendo sob nossos pés esse tempo todo...",
+      "string_id": 2213,
+      "speaker_string_id": 2214,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE02-M010-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Vamos deixar os civis aqui enquanto abrimos um caminho pela frente.",
+      "string_id": 2216,
+      "speaker_string_id": 2217,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-040-LANDEN.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE02-M010-050-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Mantenham os portões trancados até voltarmos. E se não voltarmos...",
+      "string_id": 2219,
+      "speaker_string_id": 2220,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-050-LANDEN.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE02-M010-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Que a Luz os acompanhe.",
+      "string_id": 2222,
+      "speaker_string_id": 2223,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-060-LANDEN.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE02-M015-010-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Soldado",
+      "text": "A guarda da cidade! Eu sabia que encontraria mais sobreviventes!",
+      "string_id": 2225,
+      "speaker_string_id": 2226,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-010-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE02-M015-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Um grupo de civis está nos acompanhando. Você pode abrir o portão?",
+      "string_id": 2228,
+      "speaker_string_id": 2229,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-020-LANDEN.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE02-M015-030-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Soldado",
+      "text": "Não posso, senhor. Esses sectários malditos desmontaram o guincho. Você vai precisar recuperar as engrenagens que estão com eles.",
+      "string_id": 2231,
+      "speaker_string_id": 2232,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-030-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE02-M015-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Isso quer dizer que é hora de caçar alguns sectários.",
+      "string_id": 2235,
+      "speaker_string_id": 2236,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-040-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE02-M020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Todos para a superfície!",
+      "string_id": 2259,
+      "speaker_string_id": 2260,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-010-LANDEN.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE02-M020-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Não, Capitão. Você pode levar os sobreviventes para Andorhal sem mim.",
+      "string_id": 2262,
+      "speaker_string_id": 2263,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-020-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE02-M020-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Não sairei daqui enquanto Rivendare ainda estiver respirando.",
+      "string_id": 2265,
+      "speaker_string_id": 2266,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE02-M020-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Garek, isso é loucura. Não é possível que você...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Garek, isso é loucura. Não é possível que você...[/\"Surprised\"]",
+      "string_id": 2268,
+      "speaker_string_id": 2269,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-040-LANDEN.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE02-M020-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "A justiça não cairá sobre ele a menos que alguém a empunhe. Se não for agora, quando acontecerá?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]A justiça não cairá sobre ele a menos que alguém a empunhe. Se não for agora, quando acontecerá?[/\"Angry\"]",
+      "string_id": 2271,
+      "speaker_string_id": 2272,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE02-M020-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Soldado, deixarei esses civis em sua responsabilidade.",
+      "string_id": 2274,
+      "speaker_string_id": 2275,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-060-LANDEN.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE02-M020-070-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Landen",
+      "text": "Vamos fazer com que isso seja rápido, Tenente.",
+      "string_id": 2277,
+      "speaker_string_id": 2278,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-070-LANDEN.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE02-M030-010-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Soldado",
+      "text": "Tenente Bandarion, você está vivo! Mas... onde está o Capitão Landen?",
+      "string_id": 2280,
+      "speaker_string_id": 2281,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-010-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE02-M030-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Ele... Ele não sobreviveu.",
+      "string_id": 2288,
+      "speaker_string_id": 2289,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE02-M030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Precisamos nos reagrupar com Uther em Andorhal. Vamos andando.",
+      "string_id": 2286,
+      "speaker_string_id": 2287,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-030-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE02-T010-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers Discover Q",
+      "speaker": "Landen",
+      "text": "Civis, para trás. Os demais vão para a frente.",
+      "string_id": 2591,
+      "speaker_string_id": 2592,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T010-LANDEN.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE02-T020-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers FightContinues Q",
+      "speaker": "Garek",
+      "text": "Arthas ainda está atacando a cidade...",
+      "string_id": 2599,
+      "speaker_string_id": 2600,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T020-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE02-T030-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers FightContinues Q",
+      "speaker": "Landen",
+      "text": "Se encontrarmos uma saída, talvez possamos salvar mais sobreviventes.",
+      "string_id": 2601,
+      "speaker_string_id": 2602,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T030-LANDEN.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE02-T040-GAREK",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q",
+      "speaker": "Garek",
+      "text": "Parece que há apenas um caminho adiante.",
+      "string_id": 2621,
+      "speaker_string_id": 2622,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T040-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE02-T050-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q Attack",
+      "speaker": "Tecepraga",
+      "text": "Não haverá nenhum caminho adiante para você!",
+      "string_id": 2546,
+      "speaker_string_id": 2547,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T050-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE02-T060-LANDEN",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q Attack",
+      "speaker": "Landen",
+      "text": "Às armas, todos!",
+      "string_id": 2521,
+      "speaker_string_id": 2522,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T060-LANDEN.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE02-T070-LANDEN",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambusher Dies Q",
+      "speaker": "Landen",
+      "text": "A seita deve ter nos seguido até o esgoto. Precisamos continuar andando!",
+      "string_id": 2304,
+      "speaker_string_id": 2379,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T070-LANDEN.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE02-T110-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach2 Q",
+      "speaker": "Soldado",
+      "text": "A guarda da cidade! Por favor, me ajude!",
+      "string_id": 2797,
+      "speaker_string_id": 2800,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T110-PRISONERM.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE02-T120-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach1 Q",
+      "speaker": "Sacerdote",
+      "text": "Aqui! Tire-me daqui!",
+      "string_id": 2796,
+      "speaker_string_id": 2801,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T120-PRISONERM.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE02-T130-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach3 Q",
+      "speaker": "Carabineiro",
+      "text": "Socorro! Abra a jaula!",
+      "string_id": 2798,
+      "speaker_string_id": 2799,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T130-PRISONERM.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE02-T140-PRISONERFOOTMAN",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued2 Q",
+      "speaker": "Soldado",
+      "text": "Muito obrigado! Vamos sair daqui!",
+      "string_id": 2807,
+      "speaker_string_id": 2808,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T140-PRISONERFOOTMAN.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE02-T190-PRISONERRIFLEMAN",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued3 Q",
+      "speaker": "Carabineiro",
+      "text": "Pensei eu que eu morreria ali! Esses sectários pagarão!",
+      "string_id": 2649,
+      "speaker_string_id": 2650,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T190-PRISONERRIFLEMAN.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE02-T210-PRISONERPRIEST",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued1 Q",
+      "speaker": "Sacerdote",
+      "text": "Estou em dívida com você. Eu lutarei ao seu lado!",
+      "string_id": 2806,
+      "speaker_string_id": 2805,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T210-PRISONERPRIEST.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE02-T230-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers SuppliesDiscovery",
+      "speaker": "Garek",
+      "text": "Espera... Por que tem tantos suprimentos aqui?",
+      "string_id": 2615,
+      "speaker_string_id": 2616,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T230-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE02-T240-MASTERBLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers CultCampFound Q",
+      "speaker": "Mestre Tecepraga",
+      "text": "Intrusos! Matem todos eles!",
+      "string_id": 2617,
+      "speaker_string_id": 2618,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T240-MASTERBLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE02-T250-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers CultCampFound Q",
+      "speaker": "Garek",
+      "text": "O que é esse lugar?!",
+      "string_id": 2613,
+      "speaker_string_id": 2614,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T250-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE02-T260-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot OnLeverKill Q",
+      "speaker": "Landen",
+      "text": "A túnel de saída deve estar próximo. Fiquem alertas.",
+      "string_id": 2310,
+      "speaker_string_id": 2385,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T260-LANDEN.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE02-T270-APOTHECARYVENOMSPITE",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot OnVenomspiteAttack Q",
+      "speaker": "Boticário Perfídia",
+      "text": "Vocês ousam interromper meu trabalho?!",
+      "string_id": 2629,
+      "speaker_string_id": 2630,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T270-APOTHECARYVENOMSPITE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE02-T280-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Lethal Q",
+      "speaker": "Garek",
+      "text": "Essa fumaça deve ser do \"trabalho\" que interrompemos. Precisamos encontrar uma forma de dispersá-la.",
+      "string_id": 2665,
+      "speaker_string_id": 2666,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T280-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE02-T290-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission ValvePuzzle OnPuzzleComplete Q",
+      "speaker": "Garek",
+      "text": "Isso deve bastar. Vamos andando.",
+      "string_id": 2309,
+      "speaker_string_id": 2384,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T290-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE02-T300-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot PlaguemasterMaskUse Q",
+      "speaker": "Garek",
+      "text": "Hmm. Isso deve nos proteger da fumaça.",
+      "string_id": 2315,
+      "speaker_string_id": 2387,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T300-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE02-T310-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot SlimesAttacked Q",
+      "speaker": "Garek",
+      "text": "Argh! O que são essas coisas?",
+      "string_id": 2316,
+      "speaker_string_id": 2388,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T310-GAREK.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE02-T320-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot AmbushItem Q",
+      "speaker": "Garek",
+      "text": "É uma emboscada?",
+      "string_id": 2492,
+      "speaker_string_id": 2493,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T320-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE02-T330-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers RubbleExit Q",
+      "speaker": "Landen",
+      "text": "Muitos destroços. Precisamos encontrar outro caminho.",
+      "string_id": 2663,
+      "speaker_string_id": 2664,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T330-LANDEN.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE02-T340-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Wake Q",
+      "speaker": "Garek",
+      "text": "Cuidado!",
+      "string_id": 2308,
+      "speaker_string_id": 2383,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T340-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "HRE02-T350-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Dead Q",
+      "speaker": "Landen",
+      "text": "Ali está a saída!",
+      "string_id": 2307,
+      "speaker_string_id": 2382,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T350-LANDEN.ogg"
+    },
+    {
+      "n": 71,
+      "id": "HRE02-T360-GAREK",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Found Q",
+      "speaker": "Garek",
+      "text": "Algo gelado e ameaçador espreita pela escuridão.",
+      "string_id": 2572,
+      "speaker_string_id": 2573,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T360-GAREK.ogg"
+    },
+    {
+      "n": 72,
+      "id": "HRE02-T370-ARAJTHESUMMONER",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Attacked Q",
+      "speaker": "Araj, o Evocador",
+      "text": "Mortais imbecis. Vocês selaram seu destino!",
+      "string_id": 2637,
+      "speaker_string_id": 2638,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T370-ARAJTHESUMMONER.ogg"
+    },
+    {
+      "n": 73,
+      "id": "HRE02-T380-ARAJTHESUMMONER",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Killed Q",
+      "speaker": "Araj, o Evocador",
+      "text": "Eu voltarei...",
+      "string_id": 2643,
+      "speaker_string_id": 2644,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T380-ARAJTHESUMMONER.ogg"
+    },
+    {
+      "n": 74,
+      "id": "HRE02-T390-GAREK",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Killed Q",
+      "speaker": "Garek",
+      "text": "Lich imundo...",
+      "string_id": 2507,
+      "speaker_string_id": 2508,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T390-GAREK.ogg"
+    },
+    {
+      "n": 75,
+      "id": "HRE02-T400-LANDEN",
+      "scene": "TRANSMISSIONS.FirePuzzle.Transmission FirePuzzle See Q",
+      "speaker": "Landen",
+      "text": "A fornalha central da cidade. Ainda está enviando calor.",
+      "string_id": 2651,
+      "speaker_string_id": 2652,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T400-LANDEN.ogg"
+    },
+    {
+      "n": 76,
+      "id": "HRE02-T410-GAREK",
+      "scene": "TRANSMISSIONS.FirePuzzle.Transmission FirePuzzle See Q",
+      "speaker": "Garek",
+      "text": "Para as casas que Arthas transformou em ossuários. Precisamos extinguir as chamas.",
+      "string_id": 2653,
+      "speaker_string_id": 2654,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T410-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "HRE02-T420-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission VoicesHeard Q",
+      "speaker": "Garek",
+      "text": "Capitão! Ouvi vozes adiante!",
+      "string_id": 2306,
+      "speaker_string_id": 2381,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T420-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "HRE02-T430-MORDO",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Attacked Q",
+      "speaker": "Mordu",
+      "text": "Rivendare me recompensará por isso!",
+      "string_id": 2633,
+      "speaker_string_id": 2634,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T430-MORDO.ogg"
+    },
+    {
+      "n": 79,
+      "id": "HRE02-T440-GAREK",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Attacked Q",
+      "speaker": "Garek",
+      "text": "Morra, sectário maldito!",
+      "string_id": 2328,
+      "speaker_string_id": 2393,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T440-GAREK.ogg"
+    },
+    {
+      "n": 80,
+      "id": "HRE02-T450-GAREK",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Killed Q",
+      "speaker": "Garek",
+      "text": "Empalarei a cabeça de Rivendare!",
+      "string_id": 2334,
+      "speaker_string_id": 2394,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T450-GAREK.ogg"
+    },
+    {
+      "n": 81,
+      "id": "HRE02-T460-LANDEN",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Killed Q",
+      "speaker": "Landen",
+      "text": "A justiça cuidará dele, Garek. Precisamos focar em levar os sobreviventes até Andorhal.",
+      "string_id": 2331,
+      "speaker_string_id": 2395,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T460-LANDEN.ogg"
+    },
+    {
+      "n": 82,
+      "id": "HRE02-T470-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission CogsFound Q",
+      "speaker": "Landen",
+      "text": "Graças à Luz! Fique aqui, voltarei para buscar os sobreviventes.",
+      "string_id": 2305,
+      "speaker_string_id": 2380,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T470-LANDEN.ogg"
+    },
+    {
+      "n": 83,
+      "id": "HRE02-T470-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot CogsCollected Q",
+      "speaker": "Landen",
+      "text": "Graças à Luz! Fique aqui, voltarei para buscar os sobreviventes.",
+      "string_id": 2305,
+      "speaker_string_id": 2380,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T470-LANDEN.ogg"
+    },
+    {
+      "n": 84,
+      "id": "HRE02-T480-GAREK",
+      "scene": "TRANSMISSIONS.Hunting Rivendare.Transmission HuntingRivendare Q",
+      "speaker": "Garek",
+      "text": "Você não precisa fazer isso, senhor.",
+      "string_id": 2332,
+      "speaker_string_id": 2396,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T480-GAREK.ogg"
+    },
+    {
+      "n": 85,
+      "id": "HRE02-T490-LANDEN",
+      "scene": "TRANSMISSIONS.Hunting Rivendare.Transmission HuntingRivendare Q",
+      "speaker": "Landen",
+      "text": "Preciso. Não deixarei que enfrente Rivendare sozinho.",
+      "string_id": 2333,
+      "speaker_string_id": 2397,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T490-LANDEN.ogg"
+    },
+    {
+      "n": 86,
+      "id": "HRE02-T500-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Discover Q",
+      "speaker": "Garek",
+      "text": "Essas aranhas são enormes...",
+      "string_id": 2346,
+      "speaker_string_id": 2404,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T500-GAREK.ogg"
+    },
+    {
+      "n": 87,
+      "id": "HRE02-T510-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Discover Q",
+      "speaker": "Landen",
+      "text": "Deve ter uma prolemadre por perto.",
+      "string_id": 2348,
+      "speaker_string_id": 2405,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T510-LANDEN.ogg"
+    },
+    {
+      "n": 88,
+      "id": "HRE02-T520-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapG1 Q",
+      "speaker": "Garek",
+      "text": "Capitão! Me tire dessas teias!",
+      "string_id": 2351,
+      "speaker_string_id": 2408,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T520-GAREK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "HRE02-T530-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapG2 Q",
+      "speaker": "Garek",
+      "text": "Ela me prendeu nas teias! Não consigo me mexer!",
+      "string_id": 2352,
+      "speaker_string_id": 2409,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T530-GAREK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "HRE02-T540-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapL1 Q",
+      "speaker": "Landen",
+      "text": "Garek! Corte essas teias para me libertar!",
+      "string_id": 2353,
+      "speaker_string_id": 2410,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T540-LANDEN.ogg"
+    },
+    {
+      "n": 91,
+      "id": "HRE02-T550-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapL2 Q",
+      "speaker": "Landen",
+      "text": "Estou preso! Me libertem, rápido!",
+      "string_id": 2354,
+      "speaker_string_id": 2411,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T550-LANDEN.ogg"
+    },
+    {
+      "n": 92,
+      "id": "HRE02-T560-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Completed Q",
+      "speaker": "Garek",
+      "text": "Criatura miserável!",
+      "string_id": 2349,
+      "speaker_string_id": 2406,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T560-GAREK.ogg"
+    },
+    {
+      "n": 93,
+      "id": "HRE02-T570-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Completed Q",
+      "speaker": "Landen",
+      "text": "Com a morte da prolemadre, o resto da ninhada deve se dispersar.",
+      "string_id": 2350,
+      "speaker_string_id": 2407,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T570-LANDEN.ogg"
+    },
+    {
+      "n": 94,
+      "id": "HRE02-T580-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot FlameZombies Q",
+      "speaker": "Landen",
+      "text": "Que feitiçaria maldita é essa?",
+      "string_id": 2318,
+      "speaker_string_id": 2390,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T580-LANDEN.ogg"
+    },
+    {
+      "n": 95,
+      "id": "HRE02-T590-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot FlameZombies Q",
+      "speaker": "Garek",
+      "text": "Seja o que for, vai acabar agora!",
+      "string_id": 2319,
+      "speaker_string_id": 2391,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T590-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "HRE02-T600-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot RivendareAttacked Q",
+      "speaker": "Garek",
+      "text": "Rivendare! Você pagará pelos crimes que cometeu!",
+      "string_id": 2321,
+      "speaker_string_id": 2392,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T600-GAREK.ogg"
+    },
+    {
+      "n": 97,
+      "id": "HRE02-T610-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot RivendareAttacked Q",
+      "speaker": "Barão Rivendare",
+      "text": "Mais cordeiros para o abate!",
+      "string_id": 2322,
+      "speaker_string_id": 2323,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T610-RIVENDARE.ogg"
+    },
+    {
+      "n": 98,
+      "id": "HRE02-T630-GAREK",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission CaptainFallen Q",
+      "speaker": "Garek",
+      "text": "Capitão... eu lamento...",
+      "string_id": 2335,
+      "speaker_string_id": 2398,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T630-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "HRE02-T640-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape FirstGate Q",
+      "speaker": "Barão Rivendare",
+      "text": "Corra o quanto quiser, rato insignificante! Eu ainda o capturarei!",
+      "string_id": 2336,
+      "speaker_string_id": 2399,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T640-RIVENDARE.ogg"
+    },
+    {
+      "n": 100,
+      "id": "HRE02-T650-GAREK",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape Debris Q",
+      "speaker": "Garek",
+      "text": "Preciso colocar alguns destroços no caminho dele. Quebrar esses pilares deve resolver isso.",
+      "string_id": 2337,
+      "speaker_string_id": 2400,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T650-GAREK.ogg"
+    },
+    {
+      "n": 101,
+      "id": "HRE02-T670-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape RivendareShout Q",
+      "speaker": "Barão Rivendare",
+      "text": "Você não pode fugir de seu destino. Lordaeron inteira sucumbirá ao Flagelo.",
+      "string_id": 2338,
+      "speaker_string_id": 2401,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T670-RIVENDARE.ogg"
+    }
+  ]
+}

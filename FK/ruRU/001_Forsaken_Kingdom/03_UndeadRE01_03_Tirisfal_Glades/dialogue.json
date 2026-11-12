@@ -1,0 +1,844 @@
+{
+  "map": "UndeadRE01_03",
+  "title": "Tirisfal Glades",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M3-M020-010-FARANELL",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Фаранелл",
+      "text": "О, Ания. А мы тебя уж заждались. Гнилесс прислал нам список нужных ему реагентов.",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-010-FARANELL.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M3-M020-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Как предусмотрительно с его стороны. У вас тут все в порядке?",
+      "string_id": 1840,
+      "speaker_string_id": 1841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M3-M020-030-FARANELL",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Фаранелл",
+      "text": "В целом, да. Хотя я скучаю по своей уютной лаборатории.",
+      "string_id": 1826,
+      "speaker_string_id": 1827,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-030-FARANELL.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M3-M020-040-MELISARA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Мелизара",
+      "text": "Кстати, Ания, глупый Толстяк опять куда-то подевался. Приведи его в лагерь, если вдруг увидишь, ладно?",
+      "string_id": 1838,
+      "speaker_string_id": 1839,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-040-MELISARA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M3-M020-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Мы будем смотреть в оба. Да благоволит тебе Темная Госпожа.",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-050-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M3-M020-010-FARANELL",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Фаранелл",
+      "text": "О, Ания. А мы тебя уж заждались. Гнилесс прислал нам список нужных ему реагентов.",
+      "string_id": 2177,
+      "speaker_string_id": 2178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-010-FARANELL.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M3-M020-020-ANYA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Ания",
+      "text": "Как предусмотрительно с его стороны. У вас тут все в порядке?",
+      "string_id": 1840,
+      "speaker_string_id": 1841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M3-M020-030-FARANELL",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Фаранелл",
+      "text": "В целом, да. Хотя я скучаю по своей уютной лаборатории.",
+      "string_id": 1826,
+      "speaker_string_id": 1827,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-030-FARANELL.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M3-M020-040-MELISARA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Мелизара",
+      "text": "Кстати, Ания, глупый Толстяк опять куда-то подевался. Приведи его в лагерь, если вдруг увидишь, ладно?",
+      "string_id": 1838,
+      "speaker_string_id": 1839,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-040-MELISARA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M3-M020-050-ANYA",
+      "scene": "Cinematics.Cinematic 01 Forsaken Camp, Gordo Quest.Cinematic 01 Forsaken Camp",
+      "speaker": "Ания",
+      "text": "Мы будем смотреть в оба. Да благоволит тебе Темная Госпожа.",
+      "string_id": 1842,
+      "speaker_string_id": 1843,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M020-050-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M3-M030-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "Эй! Друзья, нам бы не помешала помощь! Мы, разумеется, щедро заплатим!",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-010-GLIX.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M3-M030-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Хм-м. Продолжай.",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M3-M030-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "На нас напали гноллы, из-за чего нам пришлось бросить весь товар. Если вернете его, мы отдадим вам четверть наших запасов.",
+      "string_id": 1870,
+      "speaker_string_id": 1871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-030-GLIX.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M3-M030-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Давайте половину, или нам не о чем разговаривать.",
+      "string_id": 1880,
+      "speaker_string_id": 1881,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M3-M030-050-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "Половину?! Да это грабеж какой-то!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Половину?! Да это грабеж какой-то![/\"Surprised\"]",
+      "string_id": 1874,
+      "speaker_string_id": 1875,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-050-GLIX.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M3-M030-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "Хотя... нас сегодня уже и так ограбили. Ладно, по рукам.",
+      "string_id": 1878,
+      "speaker_string_id": 1879,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-060-GLIX.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M3-M030-010-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Гликс",
+      "text": "Эй! Друзья, нам бы не помешала помощь! Мы, разумеется, щедро заплатим!",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-010-GLIX.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M3-M030-020-ANYA",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Ания",
+      "text": "Хм-м. Продолжай.",
+      "string_id": 1862,
+      "speaker_string_id": 1863,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M3-M030-030-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Гликс",
+      "text": "На нас напали гноллы, из-за чего нам пришлось бросить весь товар. Если вернете его, мы отдадим вам четверть наших запасов.",
+      "string_id": 1870,
+      "speaker_string_id": 1871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-030-GLIX.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M3-M030-040-ANYA",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Ания",
+      "text": "Давайте половину, или нам не о чем разговаривать.",
+      "string_id": 1880,
+      "speaker_string_id": 1881,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M3-M030-050-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Гликс",
+      "text": "Половину?! Да это грабеж какой-то!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Половину?! Да это грабеж какой-то![/\"Surprised\"]",
+      "string_id": 1874,
+      "speaker_string_id": 1875,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-050-GLIX.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M3-M030-060-GLIX",
+      "scene": "Cinematics.Cinematic 02 Glix Found.Cinematic 02 Glix Found",
+      "speaker": "Гликс",
+      "text": "Хотя... нас сегодня уже и так ограбили. Ладно, по рукам.",
+      "string_id": 1878,
+      "speaker_string_id": 1879,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M030-060-GLIX.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M3-M040-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "О, вы справились! И наши товары не пострадали!",
+      "string_id": 1891,
+      "speaker_string_id": 1892,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-010-GLIX.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M3-M040-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Ага. Так что там по поводу оплаты?",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M3-M040-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "Ой, конечно-конечно! Мы лично доставим вашу половину в этот, как там его... Подгород.",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-030-GLIX.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M3-M040-040-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "Пожалуй, это лучший способ выразить признательность нашим новым покупат... кхе-кхе, гостеприимным хозяевам!",
+      "string_id": 1910,
+      "speaker_string_id": 1911,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-040-GLIX.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M3-M040-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Вот проныра...",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Вот проныра...[/\"Angry\"]",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-050-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M3-M040-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гликс",
+      "text": "Ого! Разумеется, без оплаты мы вас не оставим! Очень признательны!",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ого! Разумеется, без оплаты мы вас не оставим! Очень признательны![/\"Scared\"]",
+      "string_id": 1922,
+      "speaker_string_id": 1923,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-060-GLIX.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M3-M040-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Мы с благодарностью принимаем ваше предложение. Отрекшимся ваши товары пригодятся. Увидимся в городе.",
+      "string_id": 1926,
+      "speaker_string_id": 1927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-070-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M3-M040-010-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Гликс",
+      "text": "О, вы справились! И наши товары не пострадали!",
+      "string_id": 1891,
+      "speaker_string_id": 1892,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-010-GLIX.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M3-M040-020-ANYA",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Ания",
+      "text": "Ага. Так что там по поводу оплаты?",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M3-M040-030-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Гликс",
+      "text": "Ой, конечно-конечно! Мы лично доставим вашу половину в этот, как там его... Подгород.",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-030-GLIX.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M3-M040-040-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Гликс",
+      "text": "Пожалуй, это лучший способ выразить признательность нашим новым покупат... кхе-кхе, гостеприимным хозяевам!",
+      "string_id": 1910,
+      "speaker_string_id": 1911,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-040-GLIX.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M3-M040-050-ANYA",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Ания",
+      "text": "Вот проныра...",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Вот проныра...[/\"Angry\"]",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-050-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M3-M040-060-GLIX",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Гликс",
+      "text": "Ого! Разумеется, без оплаты мы вас не оставим! Очень признательны!",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ого! Разумеется, без оплаты мы вас не оставим! Очень признательны![/\"Scared\"]",
+      "string_id": 1922,
+      "speaker_string_id": 1923,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-060-GLIX.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M3-M040-070-GAREK",
+      "scene": "Cinematics.Cinematic 03 Gnoll Boss Defeated.Cinematic 03 Gnoll Boss Defeated",
+      "speaker": "Гарек",
+      "text": "Мы с благодарностью принимаем ваше предложение. Отрекшимся ваши товары пригодятся. Увидимся в городе.",
+      "string_id": 1926,
+      "speaker_string_id": 1927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-M040-070-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M3-T010-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Load Into Map First Comment",
+      "speaker": "Ания",
+      "text": "Чуть дальше будет лагерь темных следопытов. Надо бы туда заглянуть.",
+      "string_id": 1589,
+      "speaker_string_id": 1590,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M3-T020-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "Гарек",
+      "text": "Ания, а как я вообще попал в руки Гнилесса?",
+      "string_id": 1629,
+      "speaker_string_id": 1630,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T020-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M3-T030-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "Ания",
+      "text": "Ты был в рядах слуг Плети, которые удерживали столицу. Госпожа Сильвана решила дать им бой.",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T030-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M3-T040-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 01",
+      "speaker": "Ания",
+      "text": "После битвы мы собрали поверженную нежить и отправили Гнилессу на... переработку.",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M3-T050-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "Гарек",
+      "text": "Значит, я сражался против Сильваны, когда был в Плети? Но она все равно приняла меня в ряды отрекшихся?",
+      "string_id": 1648,
+      "speaker_string_id": 1649,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M3-T060-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "Ания",
+      "text": "Она не понаслышке знает, каково это – быть во власти Короля-лича.",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T060-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M3-T070-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 02",
+      "speaker": "Ания",
+      "text": "Несмотря на твои прошлые поступки, она не могла отвернуться от тебя.",
+      "string_id": 1657,
+      "speaker_string_id": 1658,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A1M3-T080-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "Гарек",
+      "text": "А что насчет тебя, Ания? Как ты присоединилась к отрекшимся?",
+      "string_id": 1660,
+      "speaker_string_id": 1661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T080-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A1M3-T090-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "Ания",
+      "text": "При жизни я служила Сильване. Мы обе погибли, защищая свое королевство от Плети. И нас обеих воскресили в виде нежити.",
+      "string_id": 1663,
+      "speaker_string_id": 1664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T090-ANYA.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A1M3-T100-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 03",
+      "speaker": "Ания",
+      "text": "Когда я обрела свободу воли, Темная Госпожа предложила мне место, где я могу чувствовать себя своей. И за это я буду вечно ей предана.",
+      "string_id": 1668,
+      "speaker_string_id": 1669,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T100-ANYA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A1M3-T110-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "Гарек",
+      "text": "Ты помнишь, что делала, когда была под контролем Короля-лича?",
+      "string_id": 1673,
+      "speaker_string_id": 1674,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T110-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A1M3-T120-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "Ания",
+      "text": "Да. Но я не буду это обсуждать. Ни с тобой, Гарек, ни с кем бы то ни было еще.",
+      "string_id": 1677,
+      "speaker_string_id": 1678,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T120-ANYA.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A1M3-T130-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 04",
+      "speaker": "Ания",
+      "text": "Прошлого уже не изменить. Лучше сосредоточиться на том, что ждет нас впереди.",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T130-ANYA.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A1M3-T140-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "Гарек",
+      "text": "Похоже, подобные истории не редкость среди отрекшихся. Все пытаются найти хоть что-то светлое в своей печальной судьбе.",
+      "string_id": 1686,
+      "speaker_string_id": 1687,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T140-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A1M3-T150-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "Ания",
+      "text": "Страдания объединяют нас. Остальные считают нас чудовищами, и поэтому мы можем полагаться только друг на друга.",
+      "string_id": 1691,
+      "speaker_string_id": 1692,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T150-ANYA.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A1M3-T160-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Looting Darkhound Blood 05",
+      "speaker": "Гарек",
+      "text": "Тогда я постараюсь быть полезным. Ради госпожи Сильваны и отрекшихся.",
+      "string_id": 1698,
+      "speaker_string_id": 1699,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T160-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A1M3-T170-GLIX",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Glix Comment After Cinematic 02",
+      "speaker": "Гликс",
+      "text": "Лагерь гноллов находится к югу отсюда. Главное, не умрите! Снова.",
+      "string_id": 1729,
+      "speaker_string_id": 1730,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T170-GLIX.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A1M3-T180-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "Ания",
+      "text": "Мы просто позволим им открыть лавку в Подгороде?",
+      "string_id": 1738,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T180-ANYA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A1M3-T190-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "Гарек",
+      "text": "Отрекшимся нужны припасы, а у гоблинов их полно. И если они будут знать, что мы сможем их защитить...",
+      "string_id": 1740,
+      "speaker_string_id": 1741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T190-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A1M3-T200-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Comment On Glix After Cinematic 03",
+      "speaker": "Ания",
+      "text": "Тогда Темная Госпожа сможет договариваться о ценах с позиции силы. А что, неплохо.",
+      "string_id": 1743,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T200-ANYA.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A1M3-T210-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting Broodmother Venom",
+      "speaker": "Ания",
+      "text": "Отрекшихся пауки мало пугают, но все же с ними лучше поосторожнее.",
+      "string_id": 1620,
+      "speaker_string_id": 1621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T210-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A1M3-T220-GORDO",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Found",
+      "speaker": "Толстяк",
+      "text": "Липкая паутина! Толстяку нужна помощь!",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T220-GORDO.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A1M3-T230-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Found",
+      "speaker": "Ания",
+      "text": "Опять ты во что-то вляпался, Толстяк!",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T230-ANYA.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A1M3-T240-GORDO",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Freed",
+      "speaker": "Толстяк",
+      "text": "Толстяк свободен! Надо идти в лагерь!",
+      "string_id": 1716,
+      "speaker_string_id": 1717,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T240-GORDO.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A1M3-T250-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Gordo Freed",
+      "speaker": "Ания",
+      "text": "И не вздумай снова заблудиться.",
+      "string_id": 1719,
+      "speaker_string_id": 1720,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T250-ANYA.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A1M3-T260-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "Гарек",
+      "text": "Этот лес выглядит совсем уж гиблым местом.",
+      "string_id": 1598,
+      "speaker_string_id": 1599,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T260-GAREK.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A1M3-T270-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "Ания",
+      "text": "Скажи спасибо прислужникам Плети. Они хотели поразить скверной весь Лордерон.",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T270-ANYA.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A1M3-T280-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Garek Anya Plagued Bears Defeated",
+      "speaker": "Ания",
+      "text": "Теперь эти земли принадлежат отрекшимся. Мы не позволим ни Плети, ни живым сюда вторгаться.",
+      "string_id": 1613,
+      "speaker_string_id": 1614,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T280-ANYA.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A1M3-T290-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting First Murloc Scale",
+      "speaker": "Ания",
+      "text": "Мурлоки. Мерзкие создания, но их чешуя представляет ценность для алхимиков.",
+      "string_id": 1624,
+      "speaker_string_id": 1625,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T290-ANYA.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A1M3-T300-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Anya Looting All Reagents Collected",
+      "speaker": "Ания",
+      "text": "Вроде все собрали, что нужно было Гнилессу. Пора возвращаться в Подгород.",
+      "string_id": 1703,
+      "speaker_string_id": 1704,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T300-ANYA.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A1M3-T310-MELISARA",
+      "scene": "Map Events.Gameplay Dialogues.First Visit.Melisara Return Quest Completed",
+      "speaker": "Мелизара",
+      "text": "Толстяк нашел парочку вещиц, пока бродил по округе. Взгляните, если будет интересно.",
+      "string_id": 1724,
+      "speaker_string_id": 1725,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T310-MELISARA.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A1M3-T320-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Load Into Map Quarry Location",
+      "speaker": "Ания",
+      "text": "Каменоломня находится на северной окраине леса. Идем.",
+      "string_id": 1750,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T320-ANYA.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A1M3-T330-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Гарек",
+      "text": "Нам повезло, что Бернд не забыл свои навыки каменщика. Теперь он сможет сделать Подгород лучше.",
+      "string_id": 1756,
+      "speaker_string_id": 1757,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T330-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A1M3-T340-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Гарек",
+      "text": "Наше прошлое может принести какую-то пользу и после смерти.",
+      "string_id": 1765,
+      "speaker_string_id": 1766,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T340-GAREK.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A1M3-T350-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Ания",
+      "text": "Хм-м. Говоришь со знанием дела, хотя сам недавно пробудился.",
+      "string_id": 1769,
+      "speaker_string_id": 1770,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T350-ANYA.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A1M3-T360-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Comment On Bernd",
+      "speaker": "Гарек",
+      "text": "Ну, как ты и сказала, я схватываю на лету.",
+      "string_id": 1771,
+      "speaker_string_id": 1772,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T360-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A1M3-T370-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Approach Quarry",
+      "speaker": "Гарек",
+      "text": "Похоже, огры соорудили здесь какие-то укрепления.",
+      "string_id": 1776,
+      "speaker_string_id": 1777,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T370-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A1M3-T380-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Approach Quarry",
+      "speaker": "Ания",
+      "text": "Тогда надо решить, как мы поступим. Ударим в лоб или попробуем найти обходной путь?",
+      "string_id": 1779,
+      "speaker_string_id": 1780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T380-ANYA.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A1M3-T390-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Ogre Lord Dead",
+      "speaker": "Ания",
+      "text": "После гибели вождя остальные огры разбредутся по холмам.",
+      "string_id": 1785,
+      "speaker_string_id": 1786,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T390-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A1M3-T400-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Garek Anya Ogre Lord Dead",
+      "speaker": "Гарек",
+      "text": "Каменоломня наша. Теперь ничто не помешает работе Бернда.",
+      "string_id": 1788,
+      "speaker_string_id": 1789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T400-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A1M3-T410-BANDITLEADER",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Bandit Leader Found",
+      "speaker": "Главарь разбойников",
+      "text": "Нежить! Порубим их на куски и заберем все ценное!",
+      "string_id": 1803,
+      "speaker_string_id": 1804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T410-BANDITLEADER.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A1M3-T420-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Bandit Leader Dead",
+      "speaker": "Гарек",
+      "text": "Похоже, это те части тел, о которых говорил Чанн.",
+      "string_id": 1806,
+      "speaker_string_id": 1807,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T420-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A1M3-T780-ANYA",
+      "scene": "Cinematics.Cinematic 04 Ghoul Found.Cinematic 04 Ghoul Found",
+      "speaker": "Ания",
+      "text": "Вурдалак ловит рыбу? Глазам своим не верю.",
+      "string_id": 1929,
+      "speaker_string_id": 1930,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T780-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A1M3-T790-GAREK",
+      "scene": "Cinematics.Cinematic 04 Ghoul Found.Cinematic 04 Ghoul Found",
+      "speaker": "Гарек",
+      "text": "Скорее, за ними!",
+      "string_id": 1932,
+      "speaker_string_id": 1933,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T790-GAREK.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A1M3-T791-ANYA",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Ghoul Captured",
+      "speaker": "Ания",
+      "text": "Своеобразный, конечно, способ ловить рыбу. Ладно, давай отведем этого вурдалака к Чанну.",
+      "string_id": 1793,
+      "speaker_string_id": 1794,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T791-ANYA.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A1M3-T792-GAREK",
+      "scene": "Map Events.Gameplay Dialogues.Second Visit.Anya Ghoul Faints",
+      "speaker": "Гарек",
+      "text": "Похоже, вурдалак в бою не пострадал. Давай отведем его к Чанну.",
+      "string_id": 1798,
+      "speaker_string_id": 1799,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m3/A1M3-T792-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "OgreYesAttack1",
+      "scene": "Map Events.Main Quest 02 Secure Quarry.Ogre Taunt",
+      "speaker": "Гокрус",
+      "text": "Раздавлю!",
+      "string_id": 2184,
+      "speaker_string_id": 1567,
+      "sound": "Units/Creeps/Ogre/OgreYesAttack1.flac"
+    }
+  ]
+}

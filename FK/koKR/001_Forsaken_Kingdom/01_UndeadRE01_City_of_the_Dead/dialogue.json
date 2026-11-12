@@ -1,0 +1,1777 @@
+{
+  "map": "UndeadRE01",
+  "title": "City of the Dead",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M1-C020-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "우리 포세이큰은 우리 존재 자체를 매도하는 세상에서 이제야 있을 곳을 찾기 시작했다.",
+      "string_id": 3825,
+      "speaker_string_id": 3826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M1-C020-050-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "우리에게 고향은 없으니 스스로 고향을 세워야겠지. 그러려면 모두가 함께 해야 한다.",
+      "string_id": 3834,
+      "speaker_string_id": 3835,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M1-C020-060-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "앞으로 몇 년 동안 네 힘에 의지하겠다, 가렉 반다리온. 언더시티의 모든 시민도 그리할 것이다.",
+      "string_id": 3843,
+      "speaker_string_id": 3844,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-060-SYLVANAS.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M1-C020-070-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "그들을 섬길 준비는 되었느냐? 포세이큰을 섬길 준비가?",
+      "string_id": 3852,
+      "speaker_string_id": 3853,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-070-SYLVANAS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M1-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "저는... 네, 그렇습니다, 실바나스 님.",
+      "string_id": 4234,
+      "speaker_string_id": 4235,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M1-C020-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "그렇다면 네게 맡기지.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]그렇다면 네게 맡기지.[/\"Happy\"]",
+      "string_id": 3870,
+      "speaker_string_id": 3871,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M1-C020-100-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "잘 가르쳐라, 안야. 아직 해야 할 일이 많다.",
+      "string_id": 3879,
+      "speaker_string_id": 3880,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C020-100-SYLVANAS.ogg"
+    },
+    {
+      "n": 8,
+      "id": "AbominationYes3",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "누더기골렘",
+      "text": "찢고 뜯는다!",
+      "string_id": 4570,
+      "speaker_string_id": 4571,
+      "sound": "Units/Undead/Abomination/AbominationYes3.flac"
+    },
+    {
+      "n": 9,
+      "id": "A1M1-C030-010-PUTRESS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "퓨트리스",
+      "text": "아, 돌아왔군. 아까 일에 앙심을 품은 것은 아니겠지?",
+      "string_id": 4310,
+      "speaker_string_id": 4311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-010-PUTRESS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M1-C030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그래, 아마도.",
+      "string_id": 3942,
+      "speaker_string_id": 3943,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-020-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M1-C030-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "원하는 게 뭐지, 퓨트리스?",
+      "string_id": 4476,
+      "speaker_string_id": 4477,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-030-ANYA.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M1-C030-040-PUTRESS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "퓨트리스",
+      "text": "아, 그저 내 연구를 위한 잡동사니 조금이라네. 찾아줄 생각이 있다면 말이지만.",
+      "string_id": 3951,
+      "speaker_string_id": 3952,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-040-PUTRESS.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M1-C030-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "어둠의 여왕께서 당신을 도우라 하셨으니, 그리하겠다. 가자, 가렉.",
+      "string_id": 3960,
+      "speaker_string_id": 3961,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C030-050-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M1-C040-010-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "아, 당신이군요! 스컬지로부터 구해 주셔서 감사합니다.",
+      "string_id": 4091,
+      "speaker_string_id": 4092,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-010-BERND.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M1-C040-020-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "보시다시피 실바나스 님께서 이미 제게 맞는 일을 찾아 주셨습니다. 저는 생전에 석공이었어요. 이제는 우리 도시를 세우는 데 그 기술을 쓸 수 있게 되었습니다.",
+      "string_id": 3986,
+      "speaker_string_id": 3987,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-020-BERND.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M1-C040-030-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "베른트",
+      "text": "하지만 인근 채석장의 석재 없이는 할 수 있는 게 얼마 없어요. 채석장은 오우거에게 점령된 상황입니다.",
+      "string_id": 3997,
+      "speaker_string_id": 3998,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-030-BERND.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M1-C040-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "채석장을 정리해 달라는 말이군. 걱정하지 마라. 오우거를 처리해 필요한 걸 가져다 주지.",
+      "string_id": 4006,
+      "speaker_string_id": 4007,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C040-040-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M1-C060-020-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "바리마트라스",
+      "text": "이놈은 내 거다!",
+      "string_id": 4026,
+      "speaker_string_id": 4027,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-020-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M1-C060-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "너... 넌 누구지?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]너... 넌 누구지?[/\"Surprised\"]",
+      "string_id": 4035,
+      "speaker_string_id": 4036,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-030-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M1-C060-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "이쪽은 공포의 군주 바리마트라스. 스컬지의 전향자로, 이제는 어둠의 여왕님을 섬기지.",
+      "string_id": 4044,
+      "speaker_string_id": 4045,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-040-ANYA.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M1-C060-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "이제야 나타나셨군. 그동안 어디 있었지?",
+      "string_id": 4053,
+      "speaker_string_id": 4054,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-050-ANYA.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M1-C060-060-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "바리마트라스",
+      "text": "침입을 조사하고 있었다. 스컬지가 오래된 지하무덤을 통해 굴을 파고 있더군.",
+      "string_id": 4062,
+      "speaker_string_id": 4063,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-060-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M1-C060-070-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "바리마트라스",
+      "text": "여기서 싸운 것은 정찰대에 불과하다. 명령하노니, 나머지 병력도 몰살해라.",
+      "string_id": 4071,
+      "speaker_string_id": 4072,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-070-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M1-C060-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "우리 둘이서만 처리하기엔 힘겨울지도 몰라.",
+      "string_id": 4080,
+      "speaker_string_id": 4081,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-080-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M1-C060-090-VARIMATHRAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "바리마트라스",
+      "text": "그렇다면 병사를 더 고용해 도시 경비대를 구성해라. 뭘 하든 서두르도록. 나는 실바나스만큼 참을성이 있지 않으니.",
+      "string_id": 4089,
+      "speaker_string_id": 4090,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C060-090-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M1-C070-010-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "놈들의 지도자가 대성당 이야기를 하더군. 도시 폐허 얘기가 틀림없어. 그곳이 작전 기지인 게 분명해.",
+      "string_id": 4100,
+      "speaker_string_id": 4101,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-010-ANYA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M1-C070-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "굴을 따라 대성당에 침투한 다음 마주치는 누구든 죽인다.",
+      "string_id": 4109,
+      "speaker_string_id": 4110,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-020-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M1-C070-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "병사들과 같이 있던 사제... 포세이큰이 스컬지와는 다르다는 걸 알고 있던 것 같은데.",
+      "string_id": 4118,
+      "speaker_string_id": 4119,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-030-GAREK.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M1-C070-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "만약 대성당에서 그를 만나게 된다면 논리적으로 설득할 수 있을까?",
+      "string_id": 4127,
+      "speaker_string_id": 4128,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-040-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M1-C070-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "말이 되는 소리를. 산 자는 절대 믿지 마라, 가렉. 놈들은 적이야.",
+      "string_id": 4136,
+      "speaker_string_id": 4137,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-050-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M1-C070-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "정 원한다면, 안야.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]정 원한다면, 안야.[/\"Squint\"]",
+      "string_id": 4149,
+      "speaker_string_id": 4150,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-C070-060-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M1-M010-010-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "키버",
+      "text": "퓨트리스가 키버에게 새로운 누더기골렘을 기워내라는 임무를 맡겼지. 하지만 그러려면 재료가 더 필요해.",
+      "string_id": 4158,
+      "speaker_string_id": 4159,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-010-KEEVER.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M1-M010-020-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "키버",
+      "text": "키버가 쓰기로 되어 있던 재료가 깨어나 마구 돌아다니기 시작한 모양이야.",
+      "string_id": 4167,
+      "speaker_string_id": 4168,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-020-KEEVER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M1-M010-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "불편하게 돼서 미안하군.",
+      "string_id": 4178,
+      "speaker_string_id": 4179,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M1-M010-040-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "키버",
+      "text": "흠. 키버가 적합한 대체 재료 목록을 만들었네. 모아 줄 수 있겠나?",
+      "string_id": 4187,
+      "speaker_string_id": 4188,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-040-KEEVER.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M1-M010-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그 정도는 할 수 있겠지. 어디, 목록이나 줘 봐.",
+      "string_id": 4196,
+      "speaker_string_id": 4197,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M1-M020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "안야, 가렉. 언더시티에 더 많은 포세이큰을 데려왔구나. 수고했다. 인구가 늘어날수록 살아남을 가능성도 커질 것이다.",
+      "string_id": 4205,
+      "speaker_string_id": 4206,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M1-M020-020-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "안타깝게도 우리를 파멸시키려는 자들이 우릴 노릴 확률도 커졌지. 도시 수로에서 침입자들이 목격되었다.",
+      "string_id": 4214,
+      "speaker_string_id": 4215,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-020-SYLVANAS.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M1-M020-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "실바나스",
+      "text": "상수도에 역병을 풀어 오염시켜라. 그 정도 독은 포세이큰에게는 아무런 해도 없겠지만, 산 자들이 감히 더 침입하려는 것은 막아 줄 것이다.",
+      "string_id": 4223,
+      "speaker_string_id": 4224,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M1-M020-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "그리하겠습니다, 어둠의 여왕이시여.",
+      "string_id": 4232,
+      "speaker_string_id": 4233,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M020-040-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M1-M030-010-EDRIC",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "에드릭",
+      "text": "이보시오? 거기 누구요? 눈이 없어 아무것도 안 보여!",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]이보시오? 거기 누구요? 눈이 없어 아무것도 안 보여![/\"Scared\"]",
+      "string_id": 4243,
+      "speaker_string_id": 4244,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-010-EDRIC.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M1-M030-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "에드릭? 여기서 뭘 하고 있지?",
+      "string_id": 4252,
+      "speaker_string_id": 4253,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-020-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M1-M030-030-EDRIC",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "에드릭",
+      "text": "안야, 자네인가? 성한 눈을 잃어버렸어. 하수구 밖으로 나가는 길을 못 찾겠다고!",
+      "string_id": 4261,
+      "speaker_string_id": 4262,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-030-EDRIC.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A1M1-M030-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "당신이 눈을 찾을 가능성은 극히 희박해. 일단은 여기 있어.",
+      "string_id": 4270,
+      "speaker_string_id": 4271,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M030-040-ANYA.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A1M1-M040-010-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "키버",
+      "text": "흠. 구울이 현재 뇌의 상태로도 지각이 있을 것이라고 생각하는가?",
+      "string_id": 4281,
+      "speaker_string_id": 4282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-010-KEEVER.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A1M1-M040-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "또 이 소린가, 키버? 구울은 생각 없는 짐승일 뿐이야. 오로지 굶주림으로만 움직인다고.",
+      "string_id": 4290,
+      "speaker_string_id": 4291,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-020-ANYA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A1M1-M040-030-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "키버",
+      "text": "흔히들 그리 생각하지. 이 키버가 증명하거나 반박해야 하는 생각이야.",
+      "string_id": 4299,
+      "speaker_string_id": 4300,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-030-KEEVER.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A1M1-M040-040-KEEVER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "키버",
+      "text": "근처에 기묘한 행동을 보이는 구울이 있다고 하네. 키버가 관찰할 수 있도록 데려와.",
+      "string_id": 4308,
+      "speaker_string_id": 4309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M040-040-KEEVER.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A1M1-M050-010-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "렉싱턴",
+      "text": "안야, 가렉. 도와 주신다면 정말 감사하겠습니다.",
+      "string_id": 4315,
+      "speaker_string_id": 4316,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-010-LEXINGTON.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A1M1-M050-020-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "렉싱턴",
+      "text": "최근 수도 폐허에 비전 금고로 통하는 입구가 숨겨져 있다는 걸 알아냈죠.",
+      "string_id": 4331,
+      "speaker_string_id": 4332,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-020-LEXINGTON.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A1M1-M050-030-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "렉싱턴",
+      "text": "한때 메네실의 왕실 마법학자들이 사용했던 강력한 유물이 잠들어 있을 겁니다.",
+      "string_id": 4341,
+      "speaker_string_id": 4342,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-030-LEXINGTON.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A1M1-M050-040-LEXINGTON",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "렉싱턴",
+      "text": "저는 용기가 없어 금고는커녕 폐허도 탐사할 수 없습니다. 하지만 만약 제 청을 들어 주신다면...",
+      "string_id": 4351,
+      "speaker_string_id": 4352,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-040-LEXINGTON.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A1M1-M050-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "안야",
+      "text": "한번 찾아보도록 하지. 이게 아무 수확 없는 헛수고라면, 끔찍한 대가를 치르게 해 주마.",
+      "string_id": 4356,
+      "speaker_string_id": 4574,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M050-050-ANYA.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A1M1-M060-010-LABORER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "노동자",
+      "text": "제발 살려 주십시오! 전 그냥 석공일 뿐입니다! 스컬지와는 아무 관계도 없어요!",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]제발 살려 주십시오! 전 그냥 석공일 뿐입니다! 스컬지와는 아무 관계도 없어요![/\"Scared\"]",
+      "string_id": 4367,
+      "speaker_string_id": 4368,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-010-LABORER.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A1M1-M060-020-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "수사 데미언",
+      "text": "말을... 한다고? 정신도 온전해 보이고...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]말을... 한다고? 정신도 온전해 보이고...[/\"Surprised\"]",
+      "string_id": 4400,
+      "speaker_string_id": 4401,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-020-DAMIEN.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A1M1-M060-030-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "수사 데미언",
+      "text": "프랜시스 경, 이 자를 아벤디스 장군에게 데려가야 합니다. 스컬지에게서 진정으로 해방된 언데드가 있다면...",
+      "string_id": 4387,
+      "speaker_string_id": 4388,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-030-DAMIEN.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A1M1-M060-040-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "프랜시스 경",
+      "text": "아벤디스 장군의 명령은 명확했어. 언데드는 말살한다. 한 놈도 남김없이.",
+      "string_id": 4390,
+      "speaker_string_id": 4391,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-040-FRANCIS.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A1M1-M060-050-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "수사 데미언",
+      "text": "멈춰! 뭐 하는 거야?!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]멈춰! 뭐 하는 거야?![/\"Surprised\"]",
+      "string_id": 4411,
+      "speaker_string_id": 4412,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-050-DAMIEN.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A1M1-M060-060-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "프랜시스 경",
+      "text": "로데론의 복수를 하는 거지, 데미언 수사. 이제 시체를 태워라.",
+      "string_id": 4422,
+      "speaker_string_id": 4423,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-060-FRANCIS.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A1M1-M060-070-DAMIEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "수사 데미언",
+      "text": "빛이시여... 언데드 중 일부라도 구할 수 있다면...",
+      "string_id": 4431,
+      "speaker_string_id": 4432,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-070-DAMIEN.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A1M1-M060-080-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "프랜시스 경",
+      "text": "즉각 죽여야 할 괴물에 불과하다. 이제 놈들의 사악한 소굴로 들어갈 방법도 생겼잖아.",
+      "string_id": 4434,
+      "speaker_string_id": 4435,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-080-FRANCIS.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A1M1-M060-090-FRANCIS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "프랜시스 경",
+      "text": "같이 가자, 데미언. 전면 공격을 준비해야 하니.",
+      "string_id": 4572,
+      "speaker_string_id": 4573,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M060-090-FRANCIS.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A1M1-M070-010-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "글릭스",
+      "text": "가렉! 안야! 잠깐 시간 되나?",
+      "string_id": 4449,
+      "speaker_string_id": 4450,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-010-GLIX.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A1M1-M070-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "딱히...",
+      "string_id": 4460,
+      "speaker_string_id": 4461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-020-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A1M1-M070-030-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "글릭스",
+      "text": "잘됐다! 마침 도움이 필요하거든.",
+      "string_id": 4472,
+      "speaker_string_id": 4473,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-030-GLIX.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A1M1-M070-040-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "글릭스",
+      "text": "아제로스 기계공학 길드에서 자유 참가 경주 대회를 여는데, 내 운전사가 방금 터져 버려서 말이지!",
+      "string_id": 4484,
+      "speaker_string_id": 4485,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-040-GLIX.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A1M1-M070-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "경주 대회?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]경주 대회?[/\"Surprised\"]",
+      "string_id": 4493,
+      "speaker_string_id": 4494,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-050-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A1M1-M070-060-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "글릭스",
+      "text": "가장 빨리 달리는 놈들이 1등을 놓고 경주하는 거지. 너희들이라면 승리하고도 남을 것 같은데! 대가도 줄게!",
+      "string_id": 4503,
+      "speaker_string_id": 4504,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-060-GLIX.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A1M1-M070-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "그래, 글릭스. 빨리 끝나야만 할 거다.",
+      "string_id": 4513,
+      "speaker_string_id": 4514,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-070-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A1M1-M070-080-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "글릭스",
+      "text": "하! 누가 할 소리를! 이제 안전 끈 단단히 매라고.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]하! 누가 할 소리를! 이제 안전 끈 단단히 매라고.[/\"Happy\"]",
+      "string_id": 4577,
+      "speaker_string_id": 4578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-080-GLIX.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A1M1-M070-090-GLIX",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "글릭스",
+      "text": "경주는 은빛소나무 숲에서 열려. 거기까지 가는 편은 내가 알아서 해결하지. 그것도 공짜로!",
+      "string_id": 4667,
+      "speaker_string_id": 4663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-090-GLIX.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A1M1-M070-090-GLIX",
+      "scene": "Transmissions.Transmission OQ AR Portal Q",
+      "speaker": "글릭스",
+      "text": "경주는 은빛소나무 숲에서 열려. 거기까지 가는 편은 내가 알아서 해결하지. 그것도 공짜로!",
+      "string_id": 4667,
+      "speaker_string_id": 4663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-M070-090-GLIX.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A1M1-T010-GAREK",
+      "scene": "Transmissions.Transmission MQ Sec Ch Start Game Q",
+      "speaker": "가렉",
+      "text": "이곳은 대체 뭐지?",
+      "string_id": 3619,
+      "speaker_string_id": 3620,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T010-GAREK.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A1M1-T020-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Start Game Q",
+      "speaker": "안야",
+      "text": "우리는 언더시티라 부르지. 로데론의 몰락한 수도 아래 하수구와 지하무덤을 깎아 세운 곳이다.",
+      "string_id": 3627,
+      "speaker_string_id": 3628,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T020-ANYA.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A1M1-T030-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Start Game Q",
+      "speaker": "안야",
+      "text": "아까 질문에 답하자면, 내 이름은 안야다. 이제 따라와. 배울 게 많으니.",
+      "string_id": 2779,
+      "speaker_string_id": 2780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T030-ANYA.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A1M1-T040-GAREK",
+      "scene": "Transmissions.Transmission MQ Sec Ch Questions Q",
+      "speaker": "가렉",
+      "text": "나한테 무슨 일이 있었던 거지? 설마... 죽은 건가?",
+      "string_id": 2788,
+      "speaker_string_id": 2789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T040-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A1M1-T050-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Questions Q",
+      "speaker": "안야",
+      "text": "언데드지. 우리 포세이큰은 이전에 리치 왕의 노예였으나, 실바나스 윈드러너 님의 손에 새롭게 해방되었다.",
+      "string_id": 2791,
+      "speaker_string_id": 2792,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T050-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A1M1-T060-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Questions Q",
+      "speaker": "안야",
+      "text": "생전에 네가 누구였는지는 몰라도, 이제는 우리 중 하나야.",
+      "string_id": 2815,
+      "speaker_string_id": 2816,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T060-ANYA.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A1M1-T070-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Altar Q",
+      "speaker": "안야",
+      "text": "부활 제단에 익숙해지도록. 전투에서 쓰러지면 필요할 테니.",
+      "string_id": 3810,
+      "speaker_string_id": 3811,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T070-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A1M1-T080-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Training Q",
+      "speaker": "안야",
+      "text": "좋아. 이제 경비병들과 훈련하며 네 전투 기술을 평가해 보자.",
+      "string_id": 2831,
+      "speaker_string_id": 2832,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T080-ANYA.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A1M1-T090-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro01 Q",
+      "speaker": "포세이큰 경비병",
+      "text": "실력 한번 보자고, 신참.",
+      "string_id": 2909,
+      "speaker_string_id": 2910,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T090-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A1M1-T100-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro02 Q",
+      "speaker": "포세이큰 경비병",
+      "text": "너무 빨리 쓰러지지는 마.",
+      "string_id": 2919,
+      "speaker_string_id": 2920,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T100-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A1M1-T110-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro03 Q",
+      "speaker": "포세이큰 경비병",
+      "text": "또 신병인가, 안야? 이번 녀석은 오래 버텨야 할 텐데.",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T110-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A1M1-T120-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro04 Q",
+      "speaker": "포세이큰 경비병",
+      "text": "안 그래도 싸우고 싶어 몸이 근질거렸어!",
+      "string_id": 2927,
+      "speaker_string_id": 2928,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T120-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A1M1-T130-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro05 Q",
+      "speaker": "포세이큰 경비병",
+      "text": "마침내, 구울 말고 다른 상대군!",
+      "string_id": 2929,
+      "speaker_string_id": 2930,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T130-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A1M1-T140-FORSAKENGUARD",
+      "scene": "Transmissions.Transmission MQ Sec Ch Guard Aggro06 Q",
+      "speaker": "포세이큰 경비병",
+      "text": "일어나, 신병!",
+      "string_id": 2943,
+      "speaker_string_id": 2944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T140-FORSAKENGUARD.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A1M1-T150-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Traps 01 Q",
+      "speaker": "안야",
+      "text": "저 불길이 보이나? 우리 대신 싸우게 두는 게 현명할 테지.",
+      "string_id": 2834,
+      "speaker_string_id": 2835,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T150-ANYA.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A1M1-T160-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Package Q",
+      "speaker": "안야",
+      "text": "잘했다. 그래도 이름값 하는 모양이군.",
+      "string_id": 2840,
+      "speaker_string_id": 2841,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T160-ANYA.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A1M1-T170-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Package Q",
+      "speaker": "안야",
+      "text": "와라. 상업 지구에서 해야 할 일이 더 있다.",
+      "string_id": 2848,
+      "speaker_string_id": 2849,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T170-ANYA.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A1M1-T180-GAREK",
+      "scene": "Transmissions.Transmission MQ Sec Ch Elevator Q",
+      "speaker": "가렉",
+      "text": "기억을... 다시 찾을 수 있을까?",
+      "string_id": 2857,
+      "speaker_string_id": 2858,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T180-GAREK.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A1M1-T190-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Elevator Q",
+      "speaker": "안야",
+      "text": "그럴 수도, 아닐 수도. 포세이큰마다 각성은 서로 다르거든.",
+      "string_id": 2866,
+      "speaker_string_id": 2867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T190-ANYA.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A1M1-T200-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Elevator Q",
+      "speaker": "안야",
+      "text": "어느 쪽이든, 네 이전 삶은 이제 없다. 언데드로서 새로운 삶을 쌓아 나가야지.",
+      "string_id": 2875,
+      "speaker_string_id": 2876,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T200-ANYA.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A1M1-T210-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Money Q",
+      "speaker": "안야",
+      "text": "피오나는 자주 귀중한 물자를 비축해 두지. 여기, 동전을 좀 줄 테니 써봐라.",
+      "string_id": 2884,
+      "speaker_string_id": 2885,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T210-ANYA.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A1M1-T220-ANYA",
+      "scene": "Transmissions.Transmission MQ Sec Ch Anya Sylvanas Q",
+      "speaker": "안야",
+      "text": "끝나면 나와 함께 가자. 네가 만나야 할 사람이 있어.",
+      "string_id": 2899,
+      "speaker_string_id": 2900,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T220-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A1M1-T230-SYLVANAS",
+      "scene": "Transmissions.Transmission MQ FW Sylvanas Gives Quest Q",
+      "speaker": "실바나스",
+      "text": "폐허 가운데서 더 많은 언데드가 깨어난다. 새로운 포세이큰을 안전히 언더시티까지 데려오도록.",
+      "string_id": 2958,
+      "speaker_string_id": 2959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T230-SYLVANAS.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A1M1-T230-SYLVANAS",
+      "scene": "Research.Change Color of Portrait",
+      "speaker": "실바나스",
+      "text": "폐허 가운데서 더 많은 언데드가 깨어난다. 새로운 포세이큰을 안전히 언더시티까지 데려오도록.",
+      "string_id": 2958,
+      "speaker_string_id": 2959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T230-SYLVANAS.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A1M1-T240-GAREK",
+      "scene": "Transmissions.Transmission MQ FW Return Q",
+      "speaker": "가렉",
+      "text": "이 아래는 활기차 보이는군. 실바나스가 한 명도 쉬게 두지는 않나 봐.",
+      "string_id": 2961,
+      "speaker_string_id": 2962,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T240-GAREK.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A1M1-T250-ANYA",
+      "scene": "Transmissions.Transmission MQ FW Return Q",
+      "speaker": "안야",
+      "text": "이 도시를 진정 우리 것으로 만들려면 모두 제 몫을 해야 하니까.",
+      "string_id": 2969,
+      "speaker_string_id": 2970,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T250-ANYA.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A1M1-T260-SYLVANAS",
+      "scene": "Transmissions.Transmission MQ FW Sylvanas Reward Q",
+      "speaker": "실바나스",
+      "text": "수고했다. 언더시티가 새로운 포세이큰으로 들끓고 있어.",
+      "string_id": 2981,
+      "speaker_string_id": 2982,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T260-SYLVANAS.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A1M1-T270-SYLVANAS",
+      "scene": "Transmissions.Transmission MQ FW Sylvanas Direct to Putters Q",
+      "speaker": "실바나스",
+      "text": "대연금술사 퓨트리스가 널 찾더군. 실력이 있다는 소문이 빠르게 퍼지고 있는 모양이야.",
+      "string_id": 2984,
+      "speaker_string_id": 2985,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T270-SYLVANAS.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A1M1-T280-GAREK",
+      "scene": "Transmissions.Transmission MQ AS Gossiping About Putress Q",
+      "speaker": "가렉",
+      "text": "퓨트리스가 딱히 마음에 들지 않나 본데.",
+      "string_id": 2993,
+      "speaker_string_id": 2994,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T280-GAREK.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A1M1-T290-ANYA",
+      "scene": "Transmissions.Transmission MQ AS Gossiping About Putress Q",
+      "speaker": "안야",
+      "text": "그의 천재성은 부정할 수 없지. 하지만 평소 태도가 좀 아쉬워.",
+      "string_id": 3002,
+      "speaker_string_id": 3003,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T290-ANYA.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A1M1-T300-ANYA",
+      "scene": "Transmissions.Transmission MQ AS Gossiping About Putress Q",
+      "speaker": "안야",
+      "text": "그래도 어둠의 여왕님의 신뢰를 얻었으니, 나도 어쨌든 참아낼 수밖에.",
+      "string_id": 3011,
+      "speaker_string_id": 3012,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T300-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A1M1-T310-PUTRESS",
+      "scene": "Transmissions.Transmission MQ AS Putress Reward Q",
+      "speaker": "퓨트리스",
+      "text": "아, 내가 부탁한 시약이군. 구하는 데 너무 고생하지는 않았으면 좋겠군.",
+      "string_id": 3014,
+      "speaker_string_id": 3015,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T310-PUTRESS.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A1M1-T320-PUTRESS",
+      "scene": "Transmissions.Transmission MQ AS Putress Direct to Bernd Q",
+      "speaker": "퓨트리스",
+      "text": "참, 아까 자네가 구한 석공이 도움을 요청하더군. 수로 근처에서 찾을 수 있을 걸세.",
+      "string_id": 3020,
+      "speaker_string_id": 3021,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T320-PUTRESS.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A1M1-T330-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "가렉",
+      "text": "도시 상수도를 오염시키는 건 좀 극단적인 방법 같은데.",
+      "string_id": 3029,
+      "speaker_string_id": 3030,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T330-GAREK.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A1M1-T340-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "안야",
+      "text": "언더시티를 고향이라 부르는 건 포세이큰뿐이지. 거주가 어렵게 만든다면 산 자에 대한 완벽한 방어 수단이 될 거야.",
+      "string_id": 3038,
+      "speaker_string_id": 3039,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T340-ANYA.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A1M1-T350-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "가렉",
+      "text": "산 자들이 우리를 그렇게 증오하나? 스컬지라는 공통의 적이 있잖아.",
+      "string_id": 3047,
+      "speaker_string_id": 3048,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T350-GAREK.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A1M1-T360-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Chatting Q",
+      "speaker": "안야",
+      "text": "산 자들이 보기에는 포세이큰이나 스컬지나 다를 것이 없거든.",
+      "string_id": 3056,
+      "speaker_string_id": 3057,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T360-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A1M1-T370-ANYA",
+      "scene": "Transmissions.Transmission OQ BF Eye Aquired Q",
+      "speaker": "안야",
+      "text": "엘드릭의 눈은 강력한 마법 장신구지. 계속 잃어버리곤 해.",
+      "string_id": 3059,
+      "speaker_string_id": 3060,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T370-ANYA.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A1M1-T380-ANYA",
+      "scene": "Transmissions.Transmission OQ BF Eye Aquired Q",
+      "speaker": "안야",
+      "text": "또 잃어버리게 돌려줘도 되고, 아니면 우리가 장착해도 되겠지. 네가 선택해라.",
+      "string_id": 3065,
+      "speaker_string_id": 3066,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T380-ANYA.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A1M1-T390-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Pour Poison Q",
+      "speaker": "안야",
+      "text": "여기 독을 부어. 물이 흐르면서 남은 수로 곳곳으로 퍼져 나갈 거다.",
+      "string_id": 3410,
+      "speaker_string_id": 3411,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T390-ANYA.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A1M1-T400-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Garek Flashback 03 Q",
+      "speaker": "가렉",
+      "text": "이 수로는 어딘가 익숙한데. 전에 와본 적이 있는 것처럼...",
+      "string_id": 3083,
+      "speaker_string_id": 3084,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T400-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A1M1-T410-ANYA",
+      "scene": "Transmissions.Transmission OQ PC Garek Flashback 03 Q",
+      "speaker": "안야",
+      "text": "어쩌면 살아 있을 때 환경 미화원이었을지도 모르지.",
+      "string_id": 3092,
+      "speaker_string_id": 3093,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T410-ANYA.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A1M1-T420-GAREK",
+      "scene": "Transmissions.Transmission OQ PC Garek Flashback 03 Q",
+      "speaker": "가렉",
+      "text": "여기 내려와 있던 이유가 있던 것 같아... 무언가 중요한 이유가...",
+      "string_id": 3097,
+      "speaker_string_id": 3098,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T420-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A1M1-T430-EDRIC",
+      "scene": "Transmissions.Transmission OQ BF Reward Q",
+      "speaker": "에드릭",
+      "text": "내 눈은 찾았나? 어둠의 여왕이시여, 감사합니다! 눈 없이는 여기서 절대 빠져나갈 수 없을 거야!",
+      "string_id": 3124,
+      "speaker_string_id": 3125,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T430-EDRIC.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A1M1-T440-EDRIC",
+      "scene": "Transmissions.Transmission OQ BF No Reward Q",
+      "speaker": "에드릭",
+      "text": "내 눈... 보이지가 않는데 어떻게 여기서 빠져나간다?",
+      "string_id": 3141,
+      "speaker_string_id": 3142,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T440-EDRIC.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A1M1-T450-SYLVANAS",
+      "scene": "Transmissions.Transmission OQ PC Sylvanas Reward Q",
+      "speaker": "실바나스",
+      "text": "훌륭하군. 수로에 역병이 흐르고, 산 자들이 감히 침입하려 들거든 크나큰 위험을 감수해야 할 거다.",
+      "string_id": 3111,
+      "speaker_string_id": 3112,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T450-SYLVANAS.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A1M1-T452-ANYA",
+      "scene": "Transmissions.Transmission OQ SPQ Help Q",
+      "speaker": "안야",
+      "text": "우리에게 맡겨. 사냥감보다는 사냥꾼이 되는 편이 낫지.",
+      "string_id": 3527,
+      "speaker_string_id": 3528,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T452-ANYA.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A1M1-T453-GAREK",
+      "scene": "Transmissions.Transmission OQ SPQ Giant Spider Q",
+      "speaker": "가렉",
+      "text": "확실히 엄청 큰 거미구만.",
+      "string_id": 3536,
+      "speaker_string_id": 3537,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T453-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A1M1-T454-ANYA",
+      "scene": "Transmissions.Transmission OQ SPQ Cut Mushrooms Q",
+      "speaker": "안야",
+      "text": "저기까지 닿을 수가 없어! 버섯을 잘라내!",
+      "string_id": 3539,
+      "speaker_string_id": 3540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T454-ANYA.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A1M1-T455-ANYA",
+      "scene": "Transmissions.Transmission OQ SPQ Reward Q",
+      "speaker": "안야",
+      "text": "잘했다. 이제 일꾼들이 다시 평화롭게 건설할 수 있겠지.",
+      "string_id": 3548,
+      "speaker_string_id": 3549,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T455-ANYA.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A1M1-T460-KEEVER",
+      "scene": "Transmissions.Transmission OQ AB Keever Reward Q",
+      "speaker": "키버",
+      "text": "흠. 이 정도면 충분하겠군. 적어도 손상되지는 않았네. 크게는 말이야.",
+      "string_id": 3150,
+      "speaker_string_id": 3151,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T460-KEEVER.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A1M1-T470-GAREK",
+      "scene": "Transmissions.Transmission OQ AB Keever Reward Q",
+      "speaker": "가렉",
+      "text": "별말씀을, 키버.",
+      "string_id": 3159,
+      "speaker_string_id": 3160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T470-GAREK.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A1M1-T480-BERND",
+      "scene": "Transmissions.Transmission MQ SQ Bernd Reward Q",
+      "speaker": "베른트",
+      "text": "채석장에서 벌써 화물이 들어오고 있습니다! 두 분께는 아무리 감사를 드려도 부족하겠군요. 감사의 뜻입니다. 부디 받아 주십시오.",
+      "string_id": 3168,
+      "speaker_string_id": 3169,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T480-BERND.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A1M1-T490-BERND",
+      "scene": "Transmissions.Transmission MQ SQ Bernd Direct to Excavation Q",
+      "speaker": "베른트",
+      "text": "벌써 또 부탁을 드리자니 죄송스럽지만, 발굴 인부 중 한 명이 아직 돌아오지 않았습니다. 한번 찾아봐 주시겠습니까?",
+      "string_id": 3177,
+      "speaker_string_id": 3178,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T490-BERND.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A1M1-T500-GAREK",
+      "scene": "Transmissions.Transmission MQ SQ Bernd Direct to Excavation Q",
+      "speaker": "가렉",
+      "text": "그래. 지도에 발굴 현장을 표시해 둔다면 한번 살펴보지.",
+      "string_id": 3192,
+      "speaker_string_id": 3193,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T500-GAREK.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A1M1-T510-GAREK",
+      "scene": "Transmissions.Transmission MQ DD Corpses Found Q",
+      "speaker": "가렉",
+      "text": "안야, 저기다! 저게 대체...",
+      "string_id": 3201,
+      "speaker_string_id": 3202,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T510-GAREK.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A1M1-T520-SCOURGEFANATIC",
+      "scene": "Transmissions.Transmission MQ DD Corpses Found Q",
+      "speaker": "스컬지 광신도",
+      "text": "배신자 포세이큰을 처단해라!",
+      "string_id": 3206,
+      "speaker_string_id": 3207,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T520-SCOURGEFANATIC.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A1M1-T530-GAREK",
+      "scene": "Transmissions.Transmission MQ DD Corpses Found Q",
+      "speaker": "안야",
+      "text": "스컬지다!",
+      "string_id": 3212,
+      "speaker_string_id": 3213,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T530-GAREK.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A1M1-T540-GAREK",
+      "scene": "Transmissions.Transmission MQ DD Gareks Flashback 01 Q",
+      "speaker": "가렉",
+      "text": "또... 또 이런 일이...",
+      "string_id": 3229,
+      "speaker_string_id": 3230,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T540-GAREK.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A1M1-T550-ANYA",
+      "scene": "Transmissions.Transmission MQ DD Gareks Flashback 01 Q",
+      "speaker": "안야",
+      "text": "가렉, 그게 무슨 말이야?",
+      "string_id": 3238,
+      "speaker_string_id": 3239,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T550-ANYA.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A1M1-T570-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ SP Varimathras Hint Q",
+      "speaker": "바리마트라스",
+      "text": "용병 캠프에서 필요한 병력을 고용해라. 필요한 걸 전부 갖췄다면 빠르고 강력히 공격하고.",
+      "string_id": 3258,
+      "speaker_string_id": 3259,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T570-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A1M1-T570-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Gareks Flashback 02 Q",
+      "speaker": "가렉",
+      "text": "하수구... 전투... 도시에서... 기억이 날 듯도...",
+      "string_id": 4665,
+      "speaker_string_id": 4661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T570-GAREK.ogg"
+    },
+    {
+      "n": 135,
+      "id": "A1M1-T580-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Gareks Flashback 02 Q",
+      "speaker": "안야",
+      "text": "가렉. 지금은 잃어버린 기억을 곱씹을 때가 아냐. 지금 여기에만 집중해.",
+      "string_id": 3275,
+      "speaker_string_id": 3276,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T580-ANYA.ogg"
+    },
+    {
+      "n": 136,
+      "id": "A1M1-T590-SCOURGEFANATIC",
+      "scene": "Transmissions.Transmission MQ SP Acolyte Flee Q",
+      "speaker": "수행사제",
+      "text": "침입자다! 주인님의 계획을 방해하지 못하게 해라!",
+      "string_id": 4666,
+      "speaker_string_id": 4662,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T590-SCOURGEFANATIC.ogg"
+    },
+    {
+      "n": 137,
+      "id": "A1M1-T600-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Raise Dead Comment 01 Q",
+      "speaker": "안야",
+      "text": "세를 불리기 위해 이곳에 매장된 망자를 되살리고 있는데.",
+      "string_id": 3281,
+      "speaker_string_id": 3282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T600-ANYA.ogg"
+    },
+    {
+      "n": 138,
+      "id": "A1M1-T610-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Raise Dead Comment 01 Q",
+      "speaker": "가렉",
+      "text": "포세이큰도 똑같이 할 수는 없나?",
+      "string_id": 3287,
+      "speaker_string_id": 3288,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T610-GAREK.ogg"
+    },
+    {
+      "n": 139,
+      "id": "A1M1-T620-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Raise Dead Comment 01 Q",
+      "speaker": "안야",
+      "text": "아니. 그렇게 할 수 있는 건 스컬지뿐이다. 놈들의 지배력이 느슨해지기만을 기다렸다가 우리 편으로 끌어들일 수밖에.",
+      "string_id": 3299,
+      "speaker_string_id": 3300,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T620-ANYA.ogg"
+    },
+    {
+      "n": 140,
+      "id": "A1M1-T630-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Catacomb Event Trap Start Q",
+      "speaker": "가렉",
+      "text": "함정이다! 매복이야!",
+      "string_id": 3308,
+      "speaker_string_id": 3309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T630-GAREK.ogg"
+    },
+    {
+      "n": 141,
+      "id": "A1M1-T640-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Catacomb Event Trap Start Q",
+      "speaker": "안야",
+      "text": "무언가가 보호막을 유지하고 있다. 드러날 때까지 살아남아!",
+      "string_id": 3317,
+      "speaker_string_id": 3318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T640-ANYA.ogg"
+    },
+    {
+      "n": 142,
+      "id": "A1M1-T650-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Catacomb Event Trap Complete Q",
+      "speaker": "가렉",
+      "text": "길이 뚫렸다! 전진!",
+      "string_id": 3320,
+      "speaker_string_id": 3321,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T650-GAREK.ogg"
+    },
+    {
+      "n": 143,
+      "id": "A1M1-T660-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Landen Shield Q",
+      "speaker": "가렉",
+      "text": "이 경비병의 방패는 흠 하나 없군. 도시를 지키는 데 대단한 자부심이 있었나 봐.",
+      "string_id": 3326,
+      "speaker_string_id": 3327,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T660-GAREK.ogg"
+    },
+    {
+      "n": 144,
+      "id": "A1M1-T670-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Landen Shield Q",
+      "speaker": "안야",
+      "text": "그렇다면 그의 방패가 녹슬게 내버려둘 수는 없지. 이걸로 포세이큰을 지켜.",
+      "string_id": 3332,
+      "speaker_string_id": 3333,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T670-ANYA.ogg"
+    },
+    {
+      "n": 145,
+      "id": "A1M1-T690-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Boss Finished Q",
+      "speaker": "안야",
+      "text": "다 정리됐겠지. 지하무덤을 확보했다고 바리마트라스에게 알리자.",
+      "string_id": 3343,
+      "speaker_string_id": 3344,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T690-ANYA.ogg"
+    },
+    {
+      "n": 146,
+      "id": "A1M1-T700-GAREK",
+      "scene": "Transmissions.Transmission MQ SP Scrourge Discussion Q",
+      "speaker": "가렉",
+      "text": "이 정도의 대군이 언더시티에 이렇게까지 가깝게 접근하다니...",
+      "string_id": 3346,
+      "speaker_string_id": 3347,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T700-GAREK.ogg"
+    },
+    {
+      "n": 147,
+      "id": "A1M1-T710-ANYA",
+      "scene": "Transmissions.Transmission MQ SP Scrourge Discussion Q",
+      "speaker": "안야",
+      "text": "산 자와 죽은 자 가리지 않고 많은 자들이 포세이큰을 말살하려 들지. 절대 경계를 늦춰서는 안 돼.",
+      "string_id": 3352,
+      "speaker_string_id": 3353,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T710-ANYA.ogg"
+    },
+    {
+      "n": 148,
+      "id": "A1M1-T720-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ SP Varimathras Reward Q",
+      "speaker": "바리마트라스",
+      "text": "스컬지 놈들, 이제는 감히 다시 덤빌 생각은 못 하겠지. 여기 보상이다.",
+      "string_id": 3356,
+      "speaker_string_id": 3357,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T720-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 149,
+      "id": "A1M1-T730-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ MF Varimathras Gives Quest Q",
+      "speaker": "바리마트라스",
+      "text": "그 일꾼들만 사라진 게 아니다. 다른 무리도 아직 환기 통로에서 돌아오지 않았어.",
+      "string_id": 3362,
+      "speaker_string_id": 3363,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T730-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 150,
+      "id": "A1M1-T740-VARIMATHRAS",
+      "scene": "Transmissions.Transmission MQ MF Varimathras Gives Quest Q",
+      "speaker": "바리마트라스",
+      "text": "흔적을 따라가라. 마지막으로 목격된 상업 지구에서 시작하는 게 좋겠군.",
+      "string_id": 3368,
+      "speaker_string_id": 3369,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T740-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 151,
+      "id": "A1M1-T750-GAREK",
+      "scene": "Transmissions.Transmission OQ GH Sewers Ghoul Spotted Q",
+      "speaker": "가렉",
+      "text": "저 구울, 키버가 연구하고 싶다던 구울과 비슷해 보이는데.",
+      "string_id": 3383,
+      "speaker_string_id": 3384,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T750-GAREK.ogg"
+    },
+    {
+      "n": 152,
+      "id": "A1M1-T800-KEEVER",
+      "scene": "Transmissions.Transmission OQ GH Keever Reward Q",
+      "speaker": "키버",
+      "text": "각 구울이 지성의 징후를 보였다고? 흥미롭군. 키버가 활용할 수 있겠어.",
+      "string_id": 3386,
+      "speaker_string_id": 3387,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T800-KEEVER.ogg"
+    },
+    {
+      "n": 153,
+      "id": "A1M1-T810-LEXINGTON",
+      "scene": "Transmissions.Transmission OQ AV Reward Q",
+      "speaker": "렉싱턴",
+      "text": "아, 완벽해! 되찾는 데 그리 고생하지는 않았기를. 진심으로 감사하지.",
+      "string_id": 3408,
+      "speaker_string_id": 3409,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T810-LEXINGTON.ogg"
+    },
+    {
+      "n": 154,
+      "id": "A1M1-T820-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers Rats Q",
+      "speaker": "가렉",
+      "text": "일꾼들의 흔적은 없군... 경비병들의 흔적도. 쥐새끼들뿐이야.",
+      "string_id": 3419,
+      "speaker_string_id": 3420,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T820-GAREK.ogg"
+    },
+    {
+      "n": 155,
+      "id": "A1M1-T830-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Blocked Way Q",
+      "speaker": "안야",
+      "text": "길이 막혔군. 다른 길을 찾아야겠어.",
+      "string_id": 3430,
+      "speaker_string_id": 3431,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T830-ANYA.ogg"
+    },
+    {
+      "n": 156,
+      "id": "A1M1-T840-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Blocked Door Q",
+      "speaker": "안야",
+      "text": "문은 한 쌍의 스위치로 제어된다. 동시에 올리지 않는다면 열리지 않아.",
+      "string_id": 3435,
+      "speaker_string_id": 3436,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T840-ANYA.ogg"
+    },
+    {
+      "n": 157,
+      "id": "A1M1-T850-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers Burned Undead Q",
+      "speaker": "가렉",
+      "text": "일꾼들을 찾긴 찾았군.",
+      "string_id": 3609,
+      "speaker_string_id": 3610,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T850-GAREK.ogg"
+    },
+    {
+      "n": 158,
+      "id": "A1M1-T860-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Burned Undead Q",
+      "speaker": "안야",
+      "text": "시신이 불탔어. 불길한데.",
+      "string_id": 3587,
+      "speaker_string_id": 3588,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T860-ANYA.ogg"
+    },
+    {
+      "n": 159,
+      "id": "A1M1-T870-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Vocies Around Corner Q",
+      "speaker": "안야",
+      "text": "조용. 앞에서 목소리가 들린다.",
+      "string_id": 3581,
+      "speaker_string_id": 3582,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T870-ANYA.ogg"
+    },
+    {
+      "n": 160,
+      "id": "A1M1-T880-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Kill Silverhand Intruders Q",
+      "speaker": "안야",
+      "text": "은빛 성기사단의 기사들이군. 모조리 없애야 해. 당장!",
+      "string_id": 3468,
+      "speaker_string_id": 3469,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T880-ANYA.ogg"
+    },
+    {
+      "n": 161,
+      "id": "A1M1-T890-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers SH Door Need Keys Q",
+      "speaker": "가렉",
+      "text": "열쇠 구멍 두 개가 보이는군. 문을 열려면 열쇠 두 개가 모두 필요할 거야.",
+      "string_id": 3471,
+      "speaker_string_id": 3472,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T890-GAREK.ogg"
+    },
+    {
+      "n": 162,
+      "id": "A1M1-T900-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers Who Are Silverhand Q",
+      "speaker": "가렉",
+      "text": "은빛 성기사단이 뭐지?",
+      "string_id": 3480,
+      "speaker_string_id": 3481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T900-GAREK.ogg"
+    },
+    {
+      "n": 163,
+      "id": "A1M1-T910-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Who Are Silverhand Q",
+      "speaker": "안야",
+      "text": "성스러운 빛을 섬기는 광신도들이지. 우리를 끔찍이도 증오해 이 세계에서 없애 버리려고 들어.",
+      "string_id": 3489,
+      "speaker_string_id": 3490,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T910-ANYA.ogg"
+    },
+    {
+      "n": 164,
+      "id": "A1M1-T920-SILVERHANDKNIGHT",
+      "scene": "Traps.TQ Wall Trap Squeeze.MQ 08 Wall Trap Moment",
+      "speaker": "은빛 성기사단 보병",
+      "text": "언데드에게 발각됐다! 굴을 봉쇄해라!",
+      "string_id": 3551,
+      "speaker_string_id": 3552,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T920-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 165,
+      "id": "A1M1-T930-SILVERHANDKNIGHT",
+      "scene": "Traps.TQ Wall Trap Squeeze.MQ 08 Wall Trap Moment",
+      "speaker": "은빛 성기사단 보병",
+      "text": "잠깐, 나 좀 기다려!",
+      "string_id": 3563,
+      "speaker_string_id": 3564,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T930-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 166,
+      "id": "A1M1-T940-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers Steam Room Trap Q",
+      "speaker": "안야",
+      "text": "물에 빠지면 그대로 끓어 곤죽이 되겠지. 열원을 꺼야겠어.",
+      "string_id": 3492,
+      "speaker_string_id": 3493,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T940-ANYA.ogg"
+    },
+    {
+      "n": 167,
+      "id": "A1M1-T950-FRANCIS",
+      "scene": "Transmissions.Transmission TQ Sewers Captain Taunt Q",
+      "speaker": "프랜시스 경",
+      "text": "언데드에게 발각됐다! 대성당까지 오게 두어서는 안 돼!",
+      "string_id": 3501,
+      "speaker_string_id": 3502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T950-FRANCIS.ogg"
+    },
+    {
+      "n": 168,
+      "id": "A1M1-T960-ANYA",
+      "scene": "Transmissions.Transmission TQ Sewers PONR Q",
+      "speaker": "안야",
+      "text": "나아가기 전 물자를 갖추고 병력을 모집해야 해. 대성당에 들어가면 다시는 돌아올 수 없다.",
+      "string_id": 3510,
+      "speaker_string_id": 3511,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T960-ANYA.ogg"
+    },
+    {
+      "n": 169,
+      "id": "A1M1-T970-GAREK",
+      "scene": "Transmissions.Transmission TQ Sewers PONR Q",
+      "speaker": "가렉",
+      "text": "맞아. 아직 언더시티에 우리 도움이 필요한 시민들이 있을지도 모르니.",
+      "string_id": 3521,
+      "speaker_string_id": 3522,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T970-GAREK.ogg"
+    },
+    {
+      "n": 170,
+      "id": "A1M1-T975-LABORER",
+      "scene": "Transmissions.Transmission OQ SPQ Help Q",
+      "speaker": "포세이큰 시민",
+      "text": "안야, 도와줘! 동굴에 엄청 큰 거미가 숨어 있어!",
+      "string_id": 3524,
+      "speaker_string_id": 3525,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T975-LABORER.ogg"
+    },
+    {
+      "n": 171,
+      "id": "A1M1-T980-GLIX",
+      "scene": "Transmissions.Transmission OQ AR Reward Q",
+      "speaker": "글릭스",
+      "text": "운전 솜씨 좋은데, 가렉. 약속한 보상이야!",
+      "string_id": 4668,
+      "speaker_string_id": 4664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m1/A1M1-T980-GLIX.ogg"
+    },
+    {
+      "n": 172,
+      "id": "AcolytePissed4",
+      "scene": "Transmissions.Transmission MQ DD Deciever Warcry Q",
+      "speaker": "스컬지 광신도",
+      "text": "약한 자들은 피에 빠져 죽으리라!",
+      "string_id": 3215,
+      "speaker_string_id": 3216,
+      "sound": "Units/Undead/Acolyte/AcolytePissed4.flac"
+    },
+    {
+      "n": 173,
+      "id": "NecromancerYesAttack1",
+      "scene": "Transmissions.Transmission MQ DD Necro Warcry Q",
+      "speaker": "강령술사",
+      "text": "죽어라!",
+      "string_id": 3247,
+      "speaker_string_id": 3248,
+      "sound": "Units/Undead/Necromancer/NecromancerYesAttack1.flac"
+    },
+    {
+      "n": 174,
+      "id": "GhoulPissed2",
+      "scene": "Transmissions.Transmission OQ GH Sewers Ghoul Scared Q",
+      "speaker": "손재주 좋은 구울",
+      "text": "나 무섭다!",
+      "string_id": 3390,
+      "speaker_string_id": 3391,
+      "sound": "Units/Undead/Ghoul/GhoulPissed2.flac"
+    },
+    {
+      "n": 175,
+      "id": "GhoulWhat2",
+      "scene": "Transmissions.Transmission OQ GH Sewers Ghoul Happy Q",
+      "speaker": "손재주 좋은 구울",
+      "text": "뭐어야?",
+      "string_id": 3399,
+      "speaker_string_id": 3400,
+      "sound": "Units/Undead/Ghoul/GhoulWhat2.flac"
+    },
+    {
+      "n": 176,
+      "id": "DeathKnightYes5",
+      "scene": "CINEMATICS.Cinematic Moment 03 - Scourge Boss Appears.Cinematic Moment 03 Play Q",
+      "speaker": "죽음의 기사",
+      "text": "리치 왕을 위하여!",
+      "string_id": 3578,
+      "speaker_string_id": 3579,
+      "sound": "Units/Undead/HeroDeathKnight/DeathKnightYes5.flac"
+    }
+  ]
+}

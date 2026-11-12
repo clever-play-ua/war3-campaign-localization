@@ -1,0 +1,48 @@
+{
+  "map": "UndeadRE02_01",
+  "title": "Forgotten Hollow",
+  "locale": "zhCN",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2MU-T590-GAREK",
+      "scene": "Transmissions.Transmission Discover Alter",
+      "speaker": "加瑞克",
+      "text": "这是某种祭坛。而且……我感觉它在向我发出召唤……",
+      "string_id": 304,
+      "speaker_string_id": 305,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2MU-T591-GAREK",
+      "scene": "Transmissions.Transmission Garek Run End",
+      "speaker": "加瑞克",
+      "text": "这个体验……还真是不同寻常。",
+      "string_id": 307,
+      "speaker_string_id": 308,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T591-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2MU-T592-ANYA",
+      "scene": "Transmissions.Transmission Anya Run End",
+      "speaker": "恩雅",
+      "text": "虽然我也没有什么期待……但真没想到是这样。",
+      "string_id": 310,
+      "speaker_string_id": 309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T592-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2MU-T593-LEONID",
+      "scene": "Transmissions.Transmission Leonid Run End",
+      "speaker": "莱尼德",
+      "text": "那是什么邪术？",
+      "string_id": 312,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T593-LEONID.ogg"
+    }
+  ]
+}

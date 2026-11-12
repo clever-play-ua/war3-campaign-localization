@@ -1,0 +1,1388 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2MU-C020-010-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Гарек",
+      "text": "Отлично, стражи смерти. Бейте наверняка и не опускайте щиты.",
+      "string_id": 2656,
+      "speaker_string_id": 2657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2MU-C020-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Ания",
+      "text": "Неплохо, Гарек. Конечно, это не темные следопыты, но, думаю, они смогут защитить Подгород.",
+      "string_id": 2658,
+      "speaker_string_id": 2659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2MU-C020-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Гарек",
+      "text": "Спасибо на добром слове, Ания.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Спасибо на добром слове, Ания.[/\"Squint\"]",
+      "string_id": 2660,
+      "speaker_string_id": 2661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2MU-C020-040-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Бернд",
+      "text": "Капитан Бандарион, можно на пару слов?",
+      "string_id": 2662,
+      "speaker_string_id": 2663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-040-BERND.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2MU-C020-050-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Бернд",
+      "text": "В городе нужно кое-что починить, но я не могу добраться в эти места.",
+      "string_id": 2674,
+      "speaker_string_id": 2675,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-050-BERND.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2MU-C020-060-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Бернд",
+      "text": "Крысы гнездятся в центральной шахте лифта, а слизни лезут из основной канализационной трубы – она протекает. Поможешь мне?",
+      "string_id": 1455,
+      "speaker_string_id": 1456,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-060-BERND.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2MU-C020-070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Ания",
+      "text": "Ты просишь капитана стражи лично разбираться с вредителями?",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ты просишь капитана стражи лично разбираться с вредителями?[/\"Squint\"]",
+      "string_id": 1460,
+      "speaker_string_id": 1461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-070-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2MU-C020-080-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "Гарек",
+      "text": "Честно говоря, мне не помешает размяться. Я помогу, Бернд.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Честно говоря, мне не помешает размяться. Я помогу, Бернд.[/\"Happy\"]",
+      "string_id": 1466,
+      "speaker_string_id": 1467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2MU-C030-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Бернд",
+      "text": "Я ничего не понимаю! Должна же быть причина всех этих протечек...",
+      "string_id": 1470,
+      "speaker_string_id": 1471,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-010-BERND.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2MU-C030-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Бернд",
+      "text": "Я проверю стены. Похоже, что-то повреждает трубы.",
+      "string_id": 1475,
+      "speaker_string_id": 1476,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-020-BERND.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2MU-C030-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Гарек",
+      "text": "Мы пойдем с тобой. Если там будут еще...",
+      "string_id": 1480,
+      "speaker_string_id": 1481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-030-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2MU-C030-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Гарек",
+      "text": "Стойте. Вы это слышали?",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Стойте. Вы это слышали?[/\"Squint\"]",
+      "string_id": 1485,
+      "speaker_string_id": 1486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-040-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2MU-C030-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Гарек",
+      "text": "<Вскрикивает от боли и удивления.>",
+      "string_id": 1490,
+      "speaker_string_id": 1491,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2MU-C030-060-SCARLETCRUSADER",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "Крестоносец Алого ордена",
+      "text": "Нам удалось пробиться в Подгород! Эти твари познают гнев Алого ордена!",
+      "string_id": 1495,
+      "speaker_string_id": 1496,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-060-SCARLETCRUSADER.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2MU-C040-010-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Сильвана",
+      "text": "Ания. Капитан Бандарион. Докладывайте!",
+      "string_id": 1750,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2MU-C040-020-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Гарек",
+      "text": "Нам удалось отстоять Подгород, но повреждения... значительные.",
+      "string_id": 1528,
+      "speaker_string_id": 1529,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-020-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2MU-C040-030-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Сильвана",
+      "text": "Вокруг нас сжимается кольцо тех, кто хочет нашей гибели. Деревни отрекшихся по всему Тирисфалю могут быть в смертельной опасности.",
+      "string_id": 1754,
+      "speaker_string_id": 1755,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2MU-C040-040-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Сильвана",
+      "text": "Алый орден должен быть уничтожен. Ваша помощь здесь будет очень кстати, но не забывайте, что основная задача – истребить фанатиков.",
+      "string_id": 1760,
+      "speaker_string_id": 1761,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2MU-C040-050-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "Ания",
+      "text": "Будет исполнено, Темная Госпожа.",
+      "string_id": 1543,
+      "speaker_string_id": 1544,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-050-ANYA.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2MU-C050-010-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Сильвана",
+      "text": "Леонид Барталомей. Я не ожидала вновь увидеть тебя в этих стенах.",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Леонид Барталомей. Я не ожидала вновь увидеть тебя в этих стенах.[/\"Surprised\"]",
+      "string_id": 1762,
+      "speaker_string_id": 1763,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2MU-C050-020-LEONID",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Леонид",
+      "text": "Простите за вторжение, леди Ветрокрылая. Но этого требуют обстоятельства.",
+      "string_id": 1614,
+      "speaker_string_id": 1615,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-020-LEONID.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2MU-C050-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Гарек",
+      "text": "Нам удалось отбросить армию Алого ордена, но сейчас они собираются с силами в своем монастыре.",
+      "string_id": 1619,
+      "speaker_string_id": 1620,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-030-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2MU-C050-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Гарек",
+      "text": "Леонид отследил все их перемещения и может показать нашим войскам, куда нанести удар.",
+      "string_id": 1624,
+      "speaker_string_id": 1625,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-040-GAREK.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2MU-C050-050-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Сильвана",
+      "text": "Ясно. А ты что скажешь, Ания? Можем мы доверять Леониду в этом деле?",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2MU-C050-060-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Ания",
+      "text": "Я не могу доверять никому из служителей Света. Особенному тому, кто предает своих.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Я не могу доверять никому из служителей Света. Особенному тому, кто предает своих.[/\"Squint\"]",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-060-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2MU-C050-070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Ания",
+      "text": "Но... Леонид доказал, что он надежный союзник. И он подвергал себя опасности, чтобы защитить наши деревни.",
+      "string_id": 1639,
+      "speaker_string_id": 1640,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-070-ANYA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2MU-C050-080-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "Сильвана",
+      "text": "Ну что же. Пусть Алый орден жалеет о том дне, когда они напали на отрекшихся.",
+      "string_id": 1772,
+      "speaker_string_id": 1773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-080-SYLVANAS.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2MU-M010-010-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 03 Mograine Unholy",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Я не собираюсь помирать в этом логове нечестивцев!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Я не собираюсь помирать в этом логове нечестивцев![/\"Angry\"]",
+      "string_id": 1748,
+      "speaker_string_id": 1749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-010-MOGRAINE.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2MU-M010-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 04 Anya Wait",
+      "speaker": "Ания",
+      "text": "Гарек, постой!",
+      "string_id": 1501,
+      "speaker_string_id": 1502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-020-ANYA.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2MU-M010-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 05 Garek Burns",
+      "speaker": "Гарек",
+      "text": "А-а! Жжется!",
+      "string_id": 1505,
+      "speaker_string_id": 1506,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2MU-M010-040-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "Ания",
+      "text": "Этот трус сбежал.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Этот трус сбежал.[/\"Angry\"]",
+      "string_id": 1509,
+      "speaker_string_id": 1510,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-040-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2MU-M010-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "Гарек",
+      "text": "Раз так, надеюсь, мы отбили атаку на Подгород.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Раз так, надеюсь, мы отбили атаку на Подгород.[/\"Angry\"]",
+      "string_id": 1514,
+      "speaker_string_id": 1515,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2MU-M010-060-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "Гарек",
+      "text": "Думаю, пришло время доложить Сильване.",
+      "string_id": 1519,
+      "speaker_string_id": 1520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-060-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2MU-M020-010-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Вариматрас",
+      "text": "Бандарион, Ания. В квартале Магов беда. Одна из банши обезумела.",
+      "string_id": 1591,
+      "speaker_string_id": 1592,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-010-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2MU-M020-020-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Вариматрас",
+      "text": "Маги говорят, что ее свел с ума поврежденный пилон контроля над разумом. Но мне, честно говоря, плевать на причины.",
+      "string_id": 1596,
+      "speaker_string_id": 1597,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-020-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2MU-M020-030-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Вариматрас",
+      "text": "Решите эту проблему как сочтёте нужным. Если придётся уничтожить эту обезумевшую банши, значит, так тому и быть.",
+      "string_id": 1601,
+      "speaker_string_id": 1602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-030-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2MU-M020-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "Гарек",
+      "text": "Будем надеяться, до этого не дойдет. Мы все сделаем, Вариматрас.",
+      "string_id": 1605,
+      "speaker_string_id": 1606,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2MU-M030-010-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Гнилесс",
+      "text": "Ания, Гарек. Эти напыщенные болваны вломились в мою лабораторию и выпустили одно из моих созданий!",
+      "string_id": 1776,
+      "speaker_string_id": 1777,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-010-PUTRESS.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2MU-M030-020-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Гнилесс",
+      "text": "Нельзя, чтобы эта особь бесчинствовала в Подгороде. Срочно найдите и схватите ее!",
+      "string_id": 1780,
+      "speaker_string_id": 1781,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-020-PUTRESS.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2MU-M030-030-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Ания",
+      "text": "Значит, ты натворил дел, а мы теперь должны всё исправлять? Мог бы хоть попросить повежливее.",
+      "string_id": 1577,
+      "speaker_string_id": 1578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-030-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2MU-M030-040-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Гнилесс",
+      "text": "Я буду очень благодарен, если вы поможете мне с этим делом. Будьте так добры.",
+      "string_id": 2500,
+      "speaker_string_id": 2501,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-040-PUTRESS.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2MU-M030-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Гарек",
+      "text": "Мы этим займемся, Гнилесс.",
+      "string_id": 2502,
+      "speaker_string_id": 2503,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-050-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2MU-M040-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Бернд",
+      "text": "Капитан Бандарион, мне вновь нужна ваша помощь.",
+      "string_id": 1547,
+      "speaker_string_id": 1548,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-010-BERND.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2MU-M040-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Бернд",
+      "text": "Алый орден использовал взрывчатку, чтобы пробраться в город. При этом они нашли систему старых шахтерских тоннелей.",
+      "string_id": 1552,
+      "speaker_string_id": 1553,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-020-BERND.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2MU-M040-030-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Бернд",
+      "text": "Думаю, вместо того, чтобы укреплять их, нам стоит завалить эти тоннели, используя свою взрывчатку.",
+      "string_id": 1559,
+      "speaker_string_id": 1560,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-030-BERND.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2MU-M040-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "Гарек",
+      "text": "Отличный план. Нам только нужна взрывчатка, и мы проследим, чтобы в эти тоннели больше никто не прошел.",
+      "string_id": 1563,
+      "speaker_string_id": 1564,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-040-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2MU-M045-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Бернд",
+      "text": "Капитан Бандарион, если вы снова идете на поверхность, у меня будет к вам небольшая просьба.",
+      "string_id": 1648,
+      "speaker_string_id": 1649,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-010-BERND.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2MU-M045-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Бернд",
+      "text": "Темная Госпожа поручила мне восстановить деревни, разрушенные Алым орденом.",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-020-BERND.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2MU-M045-030-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Бернд",
+      "text": "Но прежде, чем я начну этим заниматься, мне нужны подробные отчеты об их состоянии, чтобы все спланировать. Не могли бы вы собрать для меня эти сведения?",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-030-BERND.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2MU-M045-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "Гарек",
+      "text": "Конечно. Я опрошу жителей и вернусь к вам.",
+      "string_id": 1663,
+      "speaker_string_id": 1664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-040-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2MU-M050-010-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Гнилесс",
+      "text": "А, именно этих работников я и надеялся увидеть.",
+      "string_id": 1788,
+      "speaker_string_id": 1789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-010-PUTRESS.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2MU-M050-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Ания",
+      "text": "Что еще, Гнилесс?",
+      "string_id": 1672,
+      "speaker_string_id": 1673,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-020-ANYA.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2MU-M050-030-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Гнилесс",
+      "text": "Наверняка вы заметили, что в последнее время часть фауны в Тирисфале претерпела странные изменения.",
+      "string_id": 1792,
+      "speaker_string_id": 1793,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-030-PUTRESS.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2MU-M050-040-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Гнилесс",
+      "text": "Я бы очень хотел изучить кровь этих особей. Раздобудьте ее для меня, а я в долгу не останусь.",
+      "string_id": 1798,
+      "speaker_string_id": 1799,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-040-PUTRESS.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2MU-M050-050-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "Ания",
+      "text": "Хорошо. И я надеюсь, награда будет щедрой, Гнилесс.",
+      "string_id": 1687,
+      "speaker_string_id": 1688,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-050-ANYA.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2MU-T010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 01 Bernd Cant Thank",
+      "speaker": "Бернд",
+      "text": "Даже не знаю, как вас благодарить. Вот, эти факелы понадобятся вам, чтобы сжечь крысиные гнезда.",
+      "string_id": 1691,
+      "speaker_string_id": 1692,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T010-BERND.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2MU-T020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 02 Anya Too Accommodating",
+      "speaker": "Ания",
+      "text": "Ты какой-то слишком любезный. Тебе никто об этом не говорил?",
+      "string_id": 2263,
+      "speaker_string_id": 2264,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T020-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2MU-T030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 02 Anya Too Accommodating",
+      "speaker": "Гарек",
+      "text": "Моя задача – помогать людям, а не отталкивать их.",
+      "string_id": 2271,
+      "speaker_string_id": 2272,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T030-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2MU-T040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 03 All The Rats",
+      "speaker": "Гарек",
+      "text": "Похоже, с крысами все. Перейдем к слизням.",
+      "string_id": 1700,
+      "speaker_string_id": 1701,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T040-GAREK.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2MU-T050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 04 Head Back War 01",
+      "speaker": "Гарек",
+      "text": "Кажется, мы все сделали. Возвращаемся в квартал Воинов.",
+      "string_id": 1704,
+      "speaker_string_id": 1705,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T050-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2MU-T060-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 05 How Much We Built Undercity",
+      "speaker": "Гарек",
+      "text": "До сих пор сложно поверить, что Подгород так изменился за последний год.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T060-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A2MU-T070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 05 How Much We Built Undercity",
+      "speaker": "Ания",
+      "text": "Как хорошо, что нашим рабочим не нужна ни еда, ни сон.",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T070-ANYA.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A2MU-T080-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 06 I See Lever On Pipe",
+      "speaker": "Гарек",
+      "text": "Я вижу на трубе рычаг. Он остановит подачу воды, а вместе с ней и нашествие слизней.",
+      "string_id": 1717,
+      "speaker_string_id": 1718,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T080-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A2MU-T090-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 07 Head Back War 02",
+      "speaker": "Гарек",
+      "text": "Ну вот и все. Возвращаемся в квартал Воинов.",
+      "string_id": 1721,
+      "speaker_string_id": 1722,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T090-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A2MU-T100-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 08 All The Slimes",
+      "speaker": "Гарек",
+      "text": "Думаю, со слизнями покончено. Теперь займемся крысами.",
+      "string_id": 1725,
+      "speaker_string_id": 1726,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T100-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A2MU-T110-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 09 Bernd Work Resume",
+      "speaker": "Ания",
+      "text": "Бернд будет рад, что теперь сможет работать дальше.",
+      "string_id": 1729,
+      "speaker_string_id": 1730,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T110-ANYA.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A2MU-T120-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 09 Bernd Work Resume",
+      "speaker": "Гарек",
+      "text": "Это точно. Но всё-таки странно... раньше рабочие никогда не сталкивались с подобными препятствиями.",
+      "string_id": 1734,
+      "speaker_string_id": 1735,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T120-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A2MU-T130-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 10 Under Attack Deathguard To Arms",
+      "speaker": "Гарек",
+      "text": "Нас атакуют! Стражи смерти, к оружию!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Нас атакуют! Стражи смерти, к оружию![/\"Angry\"]",
+      "string_id": 1738,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T130-GAREK.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A2MU-T140-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 11 Hold The Line",
+      "speaker": "Гарек",
+      "text": "Держите оборону! Мы с Анией освободим остальные районы Подгорода.",
+      "string_id": 1742,
+      "speaker_string_id": 1743,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T140-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A2MU-T150-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 12 War Quarter Blocked Rubble",
+      "speaker": "Гарек",
+      "text": "Проход в квартал Воинов завален. Нужно зарядить мясные фургоны, чтобы расчистить путь.",
+      "string_id": 1809,
+      "speaker_string_id": 1810,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T150-GAREK.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A2MU-T160-GARITHOS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 13 Garithos Kill Humans",
+      "speaker": "Гаритос",
+      "text": "Гаритос убивать людей! Убивать насмерть!",
+      "string_id": 1817,
+      "speaker_string_id": 1818,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T160-GARITHOS.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A2MU-T170-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 13 Garithos Kill Humans",
+      "speaker": "Гарек",
+      "text": "За нами, Гаритос!",
+      "string_id": 1822,
+      "speaker_string_id": 1823,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T170-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A2MU-T180-DEATHGUARD",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 14 Hold This Room Push Forward",
+      "speaker": "Страж смерти",
+      "text": "Капитан Бандарион! Мы будем обороняться здесь, пока вы пробиваетесь вперед.",
+      "string_id": 1881,
+      "speaker_string_id": 1882,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T180-DEATHGUARD.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A2MU-T190-SCARLETCAPTAIN",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 15 Close Ranks Scarlet Captain",
+      "speaker": "Капитан Алого ордена",
+      "text": "Сомкнуть ряды! Убивайте чудовищ, и да защитит вас Свет!",
+      "string_id": 1887,
+      "speaker_string_id": 1888,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T190-SCARLETCAPTAIN.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A2MU-T200-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 16 War Quarter Secure",
+      "speaker": "Гарек",
+      "text": "Мы освободили квартал Воинов! Стражи смерти, защищайте его!",
+      "string_id": 1895,
+      "speaker_string_id": 1896,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T200-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A2MU-T210-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "Гарек",
+      "text": "Алый орден... Прежде я о них не слышал.",
+      "string_id": 1901,
+      "speaker_string_id": 1902,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T210-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A2MU-T220-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "Ания",
+      "text": "Скорее всего, очередные фанатики, ослепленные Светом. Та же Серебряная Длань, только называется по-другому.",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T220-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A2MU-T230-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "Гарек",
+      "text": "Что бы они ни говорили, сомневаюсь, что их и правда ведет Свет.",
+      "string_id": 1908,
+      "speaker_string_id": 1909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T230-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A2MU-T240-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 18 Putress Imbeciles",
+      "speaker": "Гнилесс",
+      "text": "Ания! Гарек! Спасите меня от этих недоумков!",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T240-PUTRESS.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A2MU-T250-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 19 Putress Took Long Enough",
+      "speaker": "Гнилесс",
+      "text": "А вы не торопились! Защищайте меня, пока я готовлю чуму!",
+      "string_id": 1924,
+      "speaker_string_id": 1925,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T250-PUTRESS.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A2MU-T260-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 20 Mystery Potion 01",
+      "speaker": "Гнилесс",
+      "text": "Вот, думаю, это поможет. Или нет.",
+      "string_id": 1928,
+      "speaker_string_id": 1929,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T260-PUTRESS.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A2MU-T270-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 21 Mystery Potion 02",
+      "speaker": "Гнилесс",
+      "text": "И больше не говорите, что я ничего не делаю!",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T270-PUTRESS.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A2MU-T280-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 22 Mystery Potion 03",
+      "speaker": "Гнилесс",
+      "text": "Я сделал для вас еще одно зелье. Не потеряйте его!",
+      "string_id": 1949,
+      "speaker_string_id": 1950,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T280-PUTRESS.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A2MU-T290-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 23 Mystery Potion 04",
+      "speaker": "Гнилесс",
+      "text": "Вам очень повезло, что я здесь и могу помочь!",
+      "string_id": 1953,
+      "speaker_string_id": 1954,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T290-PUTRESS.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A2MU-T300-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 24 Mystery Potion 05",
+      "speaker": "Гнилесс",
+      "text": "Выпейте это, и пошустрее!",
+      "string_id": 1961,
+      "speaker_string_id": 1962,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T300-PUTRESS.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A2MU-T310-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 25 Mystery Potion 06",
+      "speaker": "Гнилесс",
+      "text": "До чего я докатился – делаю для вас зелья...",
+      "string_id": 1969,
+      "speaker_string_id": 1970,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T310-PUTRESS.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A2MU-T320-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 26 Mystery Potion 07",
+      "speaker": "Гнилесс",
+      "text": "Варить подобные микстуры ниже достоинства верховного аптекаря.",
+      "string_id": 1975,
+      "speaker_string_id": 1976,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T320-PUTRESS.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A2MU-T330-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 27 Plague Ready",
+      "speaker": "Гнилесс",
+      "text": "Ага! Чума готова!",
+      "string_id": 1981,
+      "speaker_string_id": 1982,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T330-PUTRESS.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A2MU-T340-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "Гнилесс",
+      "text": "Смерть всем живым!",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T340-PUTRESS.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A2MU-T350-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "Гнилесс",
+      "text": "Кажется, район Фармацевтов в безопасности. Ну что ж, можете идти.",
+      "string_id": 1996,
+      "speaker_string_id": 1997,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T350-PUTRESS.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A2MU-T360-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "Ания",
+      "text": "Всегда пожалуйста, Гнилесс.",
+      "string_id": 2003,
+      "speaker_string_id": 2004,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T360-ANYA.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A2MU-T370-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 29 Varimathras Die Zealots",
+      "speaker": "Вариматрас",
+      "text": "Умрите, жалкие фанатики!",
+      "string_id": 2009,
+      "speaker_string_id": 2010,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T370-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A2MU-T380-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 30 Varimathras Deal With",
+      "speaker": "Вариматрас",
+      "text": "С оставшимися паразитами я разберусь. А вы идите в квартал Магов!",
+      "string_id": 2015,
+      "speaker_string_id": 2016,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T380-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A2MU-T390-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 31 Months Of Construction",
+      "speaker": "Ания",
+      "text": "Месяцы упорного труда, и все разрушено в мгновение ока. Эти фанатики поплатятся.",
+      "string_id": 2227,
+      "speaker_string_id": 2228,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T390-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A2MU-T400-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 31 Months Of Construction",
+      "speaker": "Гарек",
+      "text": "Подгород всегда можно отстроить заново. Сейчас самое главное – защитить людей.",
+      "string_id": 2241,
+      "speaker_string_id": 2242,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T400-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A2MU-T410-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 32 Pylon Looks Similar",
+      "speaker": "Ания",
+      "text": "Гарек, кажется, как раз такие пилоны контролируют пленников.",
+      "string_id": 2028,
+      "speaker_string_id": 2029,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T410-ANYA.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A2MU-T420-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 32 Pylon Looks Similar",
+      "speaker": "Гарек",
+      "text": "Что, если мы сможем с их помощью управлять разумом наших врагов?",
+      "string_id": 2035,
+      "speaker_string_id": 2036,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T420-GAREK.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A2MU-T430-SCARLETINQUISITOR",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 33 Magic Has No Hold",
+      "speaker": "Инквизитор",
+      "text": "Ваша черная магия на меня не действует! Правосудие Света уничтожит вас!",
+      "string_id": 2043,
+      "speaker_string_id": 2044,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T430-SCARLETINQUISITOR.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A2MU-T440-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 34 Who Needs Magic",
+      "speaker": "Ания",
+      "text": "Пф-ф. Кому нужна магия, если клинок отлично справляется...",
+      "string_id": 2047,
+      "speaker_string_id": 2048,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T440-ANYA.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A2MU-T450-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 34 Who Needs Magic",
+      "speaker": "Гарек",
+      "text": "Мы освободили этот район. Вперед, в квартал Разбойников.",
+      "string_id": 2057,
+      "speaker_string_id": 2058,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T450-GAREK.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A2MU-T460-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 35 Scarled Crusade Will Purge",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Алый орден очистит землю от презренных нелюдей!",
+      "string_id": 2063,
+      "speaker_string_id": 2064,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T460-MOGRAINE.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A2MU-T470-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 36 Infidels Must Be Purified",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Чудовища! Вас всех ждет очищение!",
+      "string_id": 2069,
+      "speaker_string_id": 2070,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T470-MOGRAINE.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A2MU-T480-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 36 Infidels Must Be Purified",
+      "speaker": "Ания",
+      "text": "Гарек! В укрытие!",
+      "string_id": 2073,
+      "speaker_string_id": 2074,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T480-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A2MU-T490-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 37 Lets Head For Center UC",
+      "speaker": "Гарек",
+      "text": "Идем к центру города. Ущерб сможем оценить по дороге.",
+      "string_id": 2077,
+      "speaker_string_id": 2078,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T490-GAREK.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A2MU-T500-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 38 Attack Months Planning",
+      "speaker": "Ания",
+      "text": "Чтобы спланировать атаку такого масштаба, нужны месяцы.",
+      "string_id": 2081,
+      "speaker_string_id": 2082,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T500-ANYA.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A2MU-T510-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 38 Attack Months Planning",
+      "speaker": "Гарек",
+      "text": "И большая армия. Похоже, где-то неподалеку у них цитадель.",
+      "string_id": 2088,
+      "speaker_string_id": 2089,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T510-GAREK.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A2MU-T520-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 39 Sylvanas Heavy Repair",
+      "speaker": "Сильвана",
+      "text": "Торговый квартал нуждается в серьезном ремонте, поэтому пока что идите прямиком на поверхность.",
+      "string_id": 2094,
+      "speaker_string_id": 2095,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T520-SYLVANAS.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A2MU-T530-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 40 Bernd Explosives Warning",
+      "speaker": "Бернд",
+      "text": "Только аккуратно. Смотрите, чтобы вас не зацепило взрывом!",
+      "string_id": 2100,
+      "speaker_string_id": 2101,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T530-BERND.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A2MU-T540-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 41 Tunnels Are Abandoned",
+      "speaker": "Гарек",
+      "text": "Эти тоннели очень старые. И, похоже, давно пустуют.",
+      "string_id": 2106,
+      "speaker_string_id": 2107,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T540-GAREK.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A2MU-T550-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 42 Scarlet Crusader Explosives",
+      "speaker": "Ания",
+      "text": "Алые крестоносцы! Убьем их и установим взрывчатку!",
+      "string_id": 2112,
+      "speaker_string_id": 2113,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T550-ANYA.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A2MU-T560-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 43 One Breach Down",
+      "speaker": "Гарек",
+      "text": "Один проход завален. Займемся остальными.",
+      "string_id": 2118,
+      "speaker_string_id": 2119,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T560-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A2MU-T570-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 44 What Is This Place Ruins",
+      "speaker": "Гарек",
+      "text": "Что это за место?",
+      "string_id": 2122,
+      "speaker_string_id": 2123,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T570-GAREK.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A2MU-T580-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 44 What Is This Place Ruins",
+      "speaker": "Ания",
+      "text": "Не знаю. Но явно очень древнее. Возможно, старше самого Лордерона.",
+      "string_id": 2127,
+      "speaker_string_id": 2128,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T580-ANYA.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A2MU-T590-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 45 Some Kind Of Altar",
+      "speaker": "Гарек",
+      "text": "Похоже, это алтарь. И... я чувствую, что он зовет меня...",
+      "string_id": 2133,
+      "speaker_string_id": 2134,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A2MU-T600-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 46 Bernd Quite The Adventure",
+      "speaker": "Бернд",
+      "text": "Да уж, то еще было приключение. Интересно, сколько других тайн нас окружает.",
+      "string_id": 2139,
+      "speaker_string_id": 2140,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T600-BERND.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A2MU-T610-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 47 Scarlet Crusade More Than Bargain",
+      "speaker": "Ания",
+      "text": "Наверное, такого Алый орден не ожидал.",
+      "string_id": 2143,
+      "speaker_string_id": 2144,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T610-ANYA.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A2MU-T611-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "Гнилесс",
+      "text": "Возьмите эту сыворотку. Она позволит вам какое-то время управлять подопытными – из числа тех, что помельче.",
+      "string_id": 2519,
+      "speaker_string_id": 2520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T611-PUTRESS.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A2MU-T611-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 62 Putress Take This Serum",
+      "speaker": "Гнилесс",
+      "text": "Возьмите эту сыворотку. Она позволит вам какое-то время управлять подопытными – из числа тех, что помельче.",
+      "string_id": 2519,
+      "speaker_string_id": 2520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T611-PUTRESS.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A2MU-T612-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 47 Scarlet Crusade More Than Bargain",
+      "speaker": "Гарек",
+      "text": "Может, более крупные особи смогут загнать эту тварь обратно в камеру.",
+      "string_id": 2853,
+      "speaker_string_id": 2854,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T612-GAREK.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A2MU-T612-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 63 MISSING DIALOGUE",
+      "speaker": "Гарек",
+      "text": "Может, более крупные особи смогут загнать эту тварь обратно в камеру.",
+      "string_id": 2853,
+      "speaker_string_id": 2854,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T612-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A2MU-T613-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 57 Its Weakened Flesh Golem",
+      "speaker": "Гарек",
+      "text": "Он ослаб! Теперь другие особи могут затолкать его обратно!",
+      "string_id": 2539,
+      "speaker_string_id": 2540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T613-GAREK.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A2MU-T614-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 58 No Wonder Scarlet Crus Fell",
+      "speaker": "Гарек",
+      "text": "Неудивительно, что Алый орден пал жертвой этого чудовища.",
+      "string_id": 2545,
+      "speaker_string_id": 2546,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T614-GAREK.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A2MU-T615-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 59 Eliminate Putress Pet",
+      "speaker": "Ания",
+      "text": "Пришлось уничтожить зверушку Гнилесса. Ну что ж...",
+      "string_id": 2535,
+      "speaker_string_id": 2536,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T615-ANYA.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A2MU-T630-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 48 Putress Start New Specimen",
+      "speaker": "Гнилесс",
+      "text": "Мне придется начинать работу с нуля! Месяцы экспериментов, и всё напрасно!",
+      "string_id": 2251,
+      "speaker_string_id": 2252,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T630-PUTRESS.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A2MU-T640-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 49 Putress Study Specimen",
+      "speaker": "Гнилесс",
+      "text": "Эту особь я изучу позже. Уверен, истребление фанатичных глупцов даст немало ценных сведений.",
+      "string_id": 2172,
+      "speaker_string_id": 2173,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T640-PUTRESS.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A2MU-T650-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 50 Lexington Realign Pylon",
+      "speaker": "Лексингтон",
+      "text": "Капитан Бандарион, хвала Темной Госпоже, вы здесь! Нам потребуется время, чтобы выставить руны на пилоне в нужном порядке!",
+      "string_id": 2592,
+      "speaker_string_id": 2593,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T650-LEXINGTON.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A2MU-T660-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 50 Lexington Realign Pylon",
+      "speaker": "Лексингтон",
+      "text": "Не подпускайте к нам банши, и мы сможем решить всё без кровопролития.",
+      "string_id": 2596,
+      "speaker_string_id": 2597,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T660-LEXINGTON.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A2MU-T661-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 60 Neednt Kill Banshee",
+      "speaker": "Лексингтон",
+      "text": "Не надо убивать банши! Достаточно сдерживать ее!",
+      "string_id": 2562,
+      "speaker_string_id": 2563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T661-LEXINGTON.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A2MU-T662-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 61 Making Pylon Repair Progress",
+      "speaker": "Лексингтон",
+      "text": "Мы скоро починим пилон! Так держать!",
+      "string_id": 2573,
+      "speaker_string_id": 2574,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T662-LEXINGTON.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A2MU-T663-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 62 Pylon Nearly Restored",
+      "speaker": "Лексингтон",
+      "text": "Пилон почти восстановлен!",
+      "string_id": 2584,
+      "speaker_string_id": 2585,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T663-LEXINGTON.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A2MU-T670-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 51 Lexington Banshee Dead",
+      "speaker": "Лексингтон",
+      "text": "Нет! Работай мы быстрее, этого можно было бы избежать.",
+      "string_id": 2604,
+      "speaker_string_id": 2605,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T670-LEXINGTON.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A2MU-T680-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 52 Lexington Banshee Success",
+      "speaker": "Лексингтон",
+      "text": "Отлично! В будущем придется укрепить эти пилоны.",
+      "string_id": 2555,
+      "speaker_string_id": 2556,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T680-LEXINGTON.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A2MU-T690-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 53 Varimathras Banshee Turn In",
+      "speaker": "Вариматрас",
+      "text": "Похоже, крики прекратились. Не знаю, как вам это удалось, но вы определенно заслужили награду.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T690-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A2MU-T700-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 53 Varimathras Banshee Turn In",
+      "speaker": "Ания",
+      "text": "Как это щедро с твоей стороны.",
+      "string_id": 2209,
+      "speaker_string_id": 2210,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T700-ANYA.ogg"
+    },
+    {
+      "n": 135,
+      "id": "A2MU-T710-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 54 Sylvanas Preparations",
+      "speaker": "Сильвана",
+      "text": "Готовьтесь. Когда мы начнем осаду Монастыря Алого ордена, пути назад уже не будет.",
+      "string_id": 2803,
+      "speaker_string_id": 2804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T710-SYLVANAS.ogg"
+    },
+    {
+      "n": 136,
+      "id": "A2MU-T720-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 55 Bernd So Much To Rebuild",
+      "speaker": "Бернд",
+      "text": "Чтобы восстановить все, что разрушил Алый орден, уйдут недели. Что ж, примусь за работу.",
+      "string_id": 2217,
+      "speaker_string_id": 2218,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T720-BERND.ogg"
+    },
+    {
+      "n": 137,
+      "id": "A2MU-T730-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 56 Putress All The Blood Could Find",
+      "speaker": "Гнилесс",
+      "text": "Хм-м, и это вся кровь, которую вам удалось найти? Ну ладно. Лучше, чем ничего.",
+      "string_id": 2225,
+      "speaker_string_id": 2226,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T730-PUTRESS.ogg"
+    }
+  ]
+}

@@ -1,0 +1,1388 @@
+{
+  "map": "UndeadRE02",
+  "title": "A Scarlet Flame",
+  "locale": "zhCN",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2MU-C020-010-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "加瑞克",
+      "text": "亡灵卫兵们，干得漂亮。每击必中，不要放下盾牌。",
+      "string_id": 2656,
+      "speaker_string_id": 2657,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2MU-C020-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "恩雅",
+      "text": "不错嘛，加瑞克。虽然他们不是黑暗游侠，但足够胜任保卫幽暗城的使命。",
+      "string_id": 2658,
+      "speaker_string_id": 2659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2MU-C020-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "加瑞克",
+      "text": "他们能得到你的认可，真是太好了，安雅。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]他们能得到你的认可，真是太好了，安雅。[/\"Squint\"]",
+      "string_id": 2660,
+      "speaker_string_id": 2661,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2MU-C020-040-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "伯恩德",
+      "text": "班达隆队长，借一步说话。",
+      "string_id": 2662,
+      "speaker_string_id": 2663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-040-BERND.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2MU-C020-050-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "伯恩德",
+      "text": "若干城区急需维护，但我无法靠近。",
+      "string_id": 2674,
+      "speaker_string_id": 2675,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-050-BERND.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2MU-C020-060-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "伯恩德",
+      "text": "老鼠在中央升降梯井安了家，下水道主管道的一处裂缝也一直在涌出软泥怪。你能帮帮我吗？",
+      "string_id": 1455,
+      "speaker_string_id": 1456,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-060-BERND.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2MU-C020-070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "恩雅",
+      "text": "你居然让卫兵队长去干害虫消杀的活？",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你居然让卫兵队长去干害虫消杀的活？[/\"Squint\"]",
+      "string_id": 1460,
+      "speaker_string_id": 1461,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-070-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2MU-C020-080-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 01 Pest Quest",
+      "speaker": "加瑞克",
+      "text": "说实话，这次倒是个不错的锻炼机会。交给我吧，伯恩德。",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]说实话，这次倒是个不错的锻炼机会。交给我吧，伯恩德。[/\"Happy\"]",
+      "string_id": 1466,
+      "speaker_string_id": 1467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2MU-C030-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "伯恩德",
+      "text": "我简直想不通！主管道居然有这么多裂缝，这背后一定有什么原因……",
+      "string_id": 1470,
+      "speaker_string_id": 1471,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-010-BERND.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2MU-C030-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "伯恩德",
+      "text": "我决定去检查一下城墙。一定有什么原因导致管道受损。",
+      "string_id": 1475,
+      "speaker_string_id": 1476,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-020-BERND.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2MU-C030-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "加瑞克",
+      "text": "我们会跟你去的。如果还有更多——",
+      "string_id": 1480,
+      "speaker_string_id": 1481,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-030-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2MU-C030-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "加瑞克",
+      "text": "等等，你听见了吗？",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]等等，你听见了吗？[/\"Squint\"]",
+      "string_id": 1485,
+      "speaker_string_id": 1486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-040-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2MU-C030-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "加瑞克",
+      "text": "<痛苦和惊讶的叫声。>",
+      "string_id": 1490,
+      "speaker_string_id": 1491,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2MU-C030-060-SCARLETCRUSADER",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 02 Scarlet Attacks",
+      "speaker": "血色十字军",
+      "text": "我们已经攻入幽暗城！那些怪物都会死在血色十字军的剑下！",
+      "string_id": 1495,
+      "speaker_string_id": 1496,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C030-060-SCARLETCRUSADER.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2MU-C040-010-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "希尔瓦娜斯",
+      "text": "恩雅。班达隆队长。请报告情况。",
+      "string_id": 1750,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2MU-C040-020-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "加瑞克",
+      "text": "幽暗城安全了，但这次攻击造成的破坏却……很严重。",
+      "string_id": 1528,
+      "speaker_string_id": 1529,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-020-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2MU-C040-030-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "希尔瓦娜斯",
+      "text": "那些想要毁灭我们的人一直在袭扰我们。整个提瑞斯法地区的被遗忘者村落都陷入了严重的危机之中。",
+      "string_id": 1754,
+      "speaker_string_id": 1755,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2MU-C040-040-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "希尔瓦娜斯",
+      "text": "必须消灭血色十字军。如果你愿意的话，就去处理这里的危机吧，但不要浪费时间去追击那些狂信徒。",
+      "string_id": 1760,
+      "speaker_string_id": 1761,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2MU-C040-050-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 07 Sylvanas Report",
+      "speaker": "恩雅",
+      "text": "如您所愿，黑暗女王。",
+      "string_id": 1543,
+      "speaker_string_id": 1544,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C040-050-ANYA.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2MU-C050-010-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "希尔瓦娜斯",
+      "text": "莱尼德·巴萨罗梅。没想到还能在这里见到你。",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]莱尼德·巴萨罗梅。没想到还能在这里见到你。[/\"Surprised\"]",
+      "string_id": 1762,
+      "speaker_string_id": 1763,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2MU-C050-020-LEONID",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "莱尼德",
+      "text": "恕我冒昧打扰，风行者女王。实在是形势所迫。",
+      "string_id": 1614,
+      "speaker_string_id": 1615,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-020-LEONID.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2MU-C050-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "加瑞克",
+      "text": "我们已经击退了血色十字军，但他们还在他们的修道院中积蓄力量。",
+      "string_id": 1619,
+      "speaker_string_id": 1620,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-030-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2MU-C050-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "加瑞克",
+      "text": "莱尼德一直在监视他们的活动，可以指引我们的部队发起进攻。",
+      "string_id": 1624,
+      "speaker_string_id": 1625,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-040-GAREK.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2MU-C050-050-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "希尔瓦娜斯",
+      "text": "我知道了。恩雅，你怎么看？这件事我们信得过莱尼德吗？",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2MU-C050-060-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "恩雅",
+      "text": "打死我我也不愿意相信侍奉过圣光的人。更不用说这种还背叛了自己同胞的家伙。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]打死我我也不愿意相信侍奉过圣光的人。更不用说这种还背叛了自己同胞的家伙。[/\"Squint\"]",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-060-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2MU-C050-070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "恩雅",
+      "text": "不过……莱尼德已经证明了自己是可靠的。他也曾以身犯险，守卫我们的村落。",
+      "string_id": 1639,
+      "speaker_string_id": 1640,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-070-ANYA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2MU-C050-080-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 11 Sylvanas Leonid",
+      "speaker": "希尔瓦娜斯",
+      "text": "很好。那就让血色十字军后悔与被遗忘者为敌吧。",
+      "string_id": 1772,
+      "speaker_string_id": 1773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-C050-080-SYLVANAS.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2MU-M010-010-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 03 Mograine Unholy",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "我绝不会死在这座不洁的破房子里！",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]我绝不会死在这座不洁的破房子里！[/\"Angry\"]",
+      "string_id": 1748,
+      "speaker_string_id": 1749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-010-MOGRAINE.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2MU-M010-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 04 Anya Wait",
+      "speaker": "恩雅",
+      "text": "加瑞克，等等！",
+      "string_id": 1501,
+      "speaker_string_id": 1502,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-020-ANYA.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2MU-M010-030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 05 Garek Burns",
+      "speaker": "加瑞克",
+      "text": "啊！好烫啊！",
+      "string_id": 1505,
+      "speaker_string_id": 1506,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2MU-M010-040-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "恩雅",
+      "text": "这个懦夫逃跑了。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]这个懦夫逃跑了。[/\"Angry\"]",
+      "string_id": 1509,
+      "speaker_string_id": 1510,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-040-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2MU-M010-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "加瑞克",
+      "text": "运气好的话，对幽暗城的攻击应该已经结束了。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]运气好的话，对幽暗城的攻击应该已经结束了。[/\"Angry\"]",
+      "string_id": 1514,
+      "speaker_string_id": 1515,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2MU-M010-060-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 06 Renault Escapes",
+      "speaker": "加瑞克",
+      "text": "我觉得可以去向希尔瓦娜斯报告了。",
+      "string_id": 1519,
+      "speaker_string_id": 1520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M010-060-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2MU-M020-010-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "瓦里玛萨斯",
+      "text": "班达隆，恩雅。法师区这边有情况。有一只女妖发狂了。",
+      "string_id": 1591,
+      "speaker_string_id": 1592,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-010-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2MU-M020-020-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "瓦里玛萨斯",
+      "text": "法师们说，一座受损的心灵控制晶塔驱使着她发疯了。说实话，我倒不在乎原因。",
+      "string_id": 1596,
+      "speaker_string_id": 1597,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-020-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2MU-M020-030-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "瓦里玛萨斯",
+      "text": "你就按自己的意思去处理这件事吧。如果不得不消灭那只女妖，那也没办法。",
+      "string_id": 1601,
+      "speaker_string_id": 1602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-030-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2MU-M020-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 10 Varimathras Mage Quarter",
+      "speaker": "加瑞克",
+      "text": "希望不会走到那一步。交给我们吧，瓦里玛萨斯。",
+      "string_id": 1605,
+      "speaker_string_id": 1606,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2MU-M030-010-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "普特雷斯",
+      "text": "恩雅，加瑞克。那群血色小丑闯进了我的实验室，放跑了我的一个实验品！",
+      "string_id": 1776,
+      "speaker_string_id": 1777,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-010-PUTRESS.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2MU-M030-020-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "普特雷斯",
+      "text": "千万不能让那个样本在幽暗城四处乱闯。立刻找到并控制它！",
+      "string_id": 1780,
+      "speaker_string_id": 1781,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-020-PUTRESS.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2MU-M030-030-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "恩雅",
+      "text": "原来是需要我们去帮你擦屁股啊。既然是请人帮忙，态度是不是应该再客气点？",
+      "string_id": 1577,
+      "speaker_string_id": 1578,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-030-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2MU-M030-040-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "普特雷斯",
+      "text": "如果你们愿意出手相助，我会非常感激的。",
+      "string_id": 2500,
+      "speaker_string_id": 2501,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-040-PUTRESS.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2MU-M030-050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "加瑞克",
+      "text": "我们会处理的，普特雷斯。",
+      "string_id": 2502,
+      "speaker_string_id": 2503,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M030-050-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2MU-M040-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "伯恩德",
+      "text": "班达隆队长，我再一次需要你的帮助。",
+      "string_id": 1547,
+      "speaker_string_id": 1548,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-010-BERND.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2MU-M040-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "伯恩德",
+      "text": "血色十字军用炸药炸出了缺口，入侵了幽暗城。在此期间，他们发现了一片旧的矿道。",
+      "string_id": 1552,
+      "speaker_string_id": 1553,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-020-BERND.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2MU-M040-030-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "伯恩德",
+      "text": "我觉得更明智的做法并不是加固这些地道，而是用我们自己的炸药将其炸塌。",
+      "string_id": 1559,
+      "speaker_string_id": 1560,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-030-BERND.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2MU-M040-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 08 Bernd Need Help Tunnels",
+      "speaker": "加瑞克",
+      "text": "这个计划不错。你给我们一些炸药，我们会保证再也没人能通过那些地道。",
+      "string_id": 1563,
+      "speaker_string_id": 1564,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M040-040-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2MU-M045-010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "伯恩德",
+      "text": "班达隆队长，如果你又要前往地面，我想请你帮个小忙。",
+      "string_id": 1648,
+      "speaker_string_id": 1649,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-010-BERND.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2MU-M045-020-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "伯恩德",
+      "text": "黑暗女王命令我去修理被血色十字军破坏的村落。",
+      "string_id": 1653,
+      "speaker_string_id": 1654,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-020-BERND.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2MU-M045-030-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "伯恩德",
+      "text": "但在开始工作之前，我需要各处村落的具体受损情况，才好制定相应的计划。你能帮我收集所需的信息吗？",
+      "string_id": 1658,
+      "speaker_string_id": 1659,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-030-BERND.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2MU-M045-040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 12 Bernd Surface Report",
+      "speaker": "加瑞克",
+      "text": "没问题。我会去看看那些村民，然后回来向你报告情况。",
+      "string_id": 1663,
+      "speaker_string_id": 1664,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M045-040-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2MU-M050-010-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "普特雷斯",
+      "text": "啊，正是我在等的劳力。",
+      "string_id": 1788,
+      "speaker_string_id": 1789,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-010-PUTRESS.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2MU-M050-020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "恩雅",
+      "text": "这次又是什么事，普特雷斯？",
+      "string_id": 1672,
+      "speaker_string_id": 1673,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-020-ANYA.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2MU-M050-030-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "普特雷斯",
+      "text": "我猜你们已经发现了，提瑞斯法地区的动物最近发生了一些奇怪的变异。",
+      "string_id": 1792,
+      "speaker_string_id": 1793,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-030-PUTRESS.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2MU-M050-040-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "普特雷斯",
+      "text": "我很想研究一下它们的血液。请帮我收集一些回来，我一定会好好犒劳你的。",
+      "string_id": 1798,
+      "speaker_string_id": 1799,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-040-PUTRESS.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2MU-M050-050-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 13 Putress Tirisfal Fauna",
+      "speaker": "恩雅",
+      "text": "很好，普特雷斯，但你最好别让我白跑一趟。",
+      "string_id": 1687,
+      "speaker_string_id": 1688,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-M050-050-ANYA.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2MU-T010-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 01 Bernd Cant Thank",
+      "speaker": "伯恩德",
+      "text": "真是感激不尽。给你，你需要用这些火把来点燃那些老鼠窝。",
+      "string_id": 1691,
+      "speaker_string_id": 1692,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T010-BERND.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2MU-T020-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 02 Anya Too Accommodating",
+      "speaker": "恩雅",
+      "text": "你人还怪好的咧，你知道吗？",
+      "string_id": 2263,
+      "speaker_string_id": 2264,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T020-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2MU-T030-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 02 Anya Too Accommodating",
+      "speaker": "加瑞克",
+      "text": "助人是我的本分，而不是拒人千里之外。",
+      "string_id": 2271,
+      "speaker_string_id": 2272,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T030-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2MU-T040-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 03 All The Rats",
+      "speaker": "加瑞克",
+      "text": "老鼠都消灭干净了。接下来就搞定那些软泥怪吧。",
+      "string_id": 1700,
+      "speaker_string_id": 1701,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T040-GAREK.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2MU-T050-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 04 Head Back War 01",
+      "speaker": "加瑞克",
+      "text": "任务应该都完成了。我们回军事区吧。",
+      "string_id": 1704,
+      "speaker_string_id": 1705,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T050-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2MU-T060-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 05 How Much We Built Undercity",
+      "speaker": "加瑞克",
+      "text": "真不敢相信，我们在过去的一年里已经将幽暗城建设得如此完备了。",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T060-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "A2MU-T070-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 05 How Much We Built Undercity",
+      "speaker": "恩雅",
+      "text": "我们的工人们不需要食物和睡眠，大大加快了工期啊。",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T070-ANYA.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A2MU-T080-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 06 I See Lever On Pipe",
+      "speaker": "加瑞克",
+      "text": "我看到管道上有个控制杆。拉下它应该就能停止水流，防止出现更多软泥怪。",
+      "string_id": 1717,
+      "speaker_string_id": 1718,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T080-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A2MU-T090-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 07 Head Back War 02",
+      "speaker": "加瑞克",
+      "text": "这样应该就行了。我们回军事区吧。",
+      "string_id": 1721,
+      "speaker_string_id": 1722,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T090-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A2MU-T100-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 08 All The Slimes",
+      "speaker": "加瑞克",
+      "text": "软泥怪应该都解决了。现在去清理那些老鼠吧。",
+      "string_id": 1725,
+      "speaker_string_id": 1726,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T100-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A2MU-T110-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 09 Bernd Work Resume",
+      "speaker": "恩雅",
+      "text": "伯恩德知道自己的工作可以继续，一定会乐出鼻涕泡来。",
+      "string_id": 1729,
+      "speaker_string_id": 1730,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T110-ANYA.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A2MU-T120-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 09 Bernd Work Resume",
+      "speaker": "加瑞克",
+      "text": "确实。不过还是很奇怪……他的施工队之前从未遇到过这种问题。",
+      "string_id": 1734,
+      "speaker_string_id": 1735,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T120-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A2MU-T130-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 10 Under Attack Deathguard To Arms",
+      "speaker": "加瑞克",
+      "text": "我们受到了攻击！亡灵卫兵，准备战斗！",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]我们受到了攻击！亡灵卫兵，准备战斗！[/\"Angry\"]",
+      "string_id": 1738,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T130-GAREK.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A2MU-T140-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 11 Hold The Line",
+      "speaker": "加瑞克",
+      "text": "坚守阵地！恩雅和我会去救援幽暗城的其他地区！",
+      "string_id": 1742,
+      "speaker_string_id": 1743,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T140-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A2MU-T150-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 12 War Quarter Blocked Rubble",
+      "speaker": "加瑞克",
+      "text": "通往军事区的路被碎石堵住了。我们必须要为绞肉车装上弹药，打通道路。",
+      "string_id": 1809,
+      "speaker_string_id": 1810,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T150-GAREK.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A2MU-T160-GARITHOS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 13 Garithos Kill Humans",
+      "speaker": "加里索斯",
+      "text": "加里索斯杀人类！统统杀死！",
+      "string_id": 1817,
+      "speaker_string_id": 1818,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T160-GARITHOS.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A2MU-T170-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 13 Garithos Kill Humans",
+      "speaker": "加瑞克",
+      "text": "加里索斯，跟我们来！",
+      "string_id": 1822,
+      "speaker_string_id": 1823,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T170-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A2MU-T180-DEATHGUARD",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 14 Hold This Room Push Forward",
+      "speaker": "亡灵卫兵",
+      "text": "班达隆队长！我们会守住这个房间，你们继续推进吧。",
+      "string_id": 1881,
+      "speaker_string_id": 1882,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T180-DEATHGUARD.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A2MU-T190-SCARLETCAPTAIN",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 15 Close Ranks Scarlet Captain",
+      "speaker": "血色十字军队长",
+      "text": "收紧队形！圣光会保护你们，助你们杀灭这些魔怪！",
+      "string_id": 1887,
+      "speaker_string_id": 1888,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T190-SCARLETCAPTAIN.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A2MU-T200-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 16 War Quarter Secure",
+      "speaker": "加瑞克",
+      "text": "军事区已经安全了！亡灵卫兵，守住这片区域！",
+      "string_id": 1895,
+      "speaker_string_id": 1896,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T200-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A2MU-T210-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "加瑞克",
+      "text": "血色十字军……之前并没有听说过他们。",
+      "string_id": 1901,
+      "speaker_string_id": 1902,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T210-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A2MU-T220-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "恩雅",
+      "text": "他们似乎也是一群盲目信仰圣光的狂信徒。又一个白银之手，只不过换了个名字。",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T220-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A2MU-T230-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 17 Scarlet Crusade Not Heard Of",
+      "speaker": "加瑞克",
+      "text": "不管她们嘴上说的多漂亮，我才不信他们真的是受到圣光的指引。",
+      "string_id": 1908,
+      "speaker_string_id": 1909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T230-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A2MU-T240-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 18 Putress Imbeciles",
+      "speaker": "普特雷斯",
+      "text": "恩雅！加瑞克！快把这群蠢货给我赶走！",
+      "string_id": 1916,
+      "speaker_string_id": 1917,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T240-PUTRESS.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A2MU-T250-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 19 Putress Took Long Enough",
+      "speaker": "普特雷斯",
+      "text": "你怎么这么磨磨蹭蹭的！现在我要准备瘟疫了，保护我！",
+      "string_id": 1924,
+      "speaker_string_id": 1925,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T250-PUTRESS.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A2MU-T260-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 20 Mystery Potion 01",
+      "speaker": "普特雷斯",
+      "text": "给你，这东西应该能帮上忙！也可能帮不上忙。",
+      "string_id": 1928,
+      "speaker_string_id": 1929,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T260-PUTRESS.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A2MU-T270-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 21 Mystery Potion 02",
+      "speaker": "普特雷斯",
+      "text": "别说我没有帮过你啊！",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T270-PUTRESS.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A2MU-T280-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 22 Mystery Potion 03",
+      "speaker": "普特雷斯",
+      "text": "我给你配了一瓶备用药剂。别浪费了啊！",
+      "string_id": 1949,
+      "speaker_string_id": 1950,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T280-PUTRESS.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A2MU-T290-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 23 Mystery Potion 04",
+      "speaker": "普特雷斯",
+      "text": "有我在这里提供支援，你应该觉得庆幸！",
+      "string_id": 1953,
+      "speaker_string_id": 1954,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T290-PUTRESS.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A2MU-T300-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 24 Mystery Potion 05",
+      "speaker": "普特雷斯",
+      "text": "喝了它，然后速战速决！",
+      "string_id": 1961,
+      "speaker_string_id": 1962,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T300-PUTRESS.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A2MU-T310-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 25 Mystery Potion 06",
+      "speaker": "普特雷斯",
+      "text": "这么一想，我居然沦落到给你制药。",
+      "string_id": 1969,
+      "speaker_string_id": 1970,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T310-PUTRESS.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A2MU-T320-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 26 Mystery Potion 07",
+      "speaker": "普特雷斯",
+      "text": "配制这种药剂，实在配不上我大药剂师的身份。",
+      "string_id": 1975,
+      "speaker_string_id": 1976,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T320-PUTRESS.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A2MU-T330-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 27 Plague Ready",
+      "speaker": "普特雷斯",
+      "text": "啊！瘟疫准备好了！",
+      "string_id": 1981,
+      "speaker_string_id": 1982,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T330-PUTRESS.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A2MU-T340-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "普特雷斯",
+      "text": "让那些活人去死吧！",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T340-PUTRESS.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A2MU-T350-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "普特雷斯",
+      "text": "炼金房应该已经安全了。快去忙别的吧。",
+      "string_id": 1996,
+      "speaker_string_id": 1997,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T350-PUTRESS.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A2MU-T360-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 28 Plague Fog Spread",
+      "speaker": "恩雅",
+      "text": "不客气，普特雷斯。",
+      "string_id": 2003,
+      "speaker_string_id": 2004,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T360-ANYA.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A2MU-T370-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 29 Varimathras Die Zealots",
+      "speaker": "瓦里玛萨斯",
+      "text": "死吧，你们这些可悲的狂信徒！",
+      "string_id": 2009,
+      "speaker_string_id": 2010,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T370-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A2MU-T380-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 30 Varimathras Deal With",
+      "speaker": "瓦里玛萨斯",
+      "text": "我会解决剩下的害虫。你们快去法师区吧！",
+      "string_id": 2015,
+      "speaker_string_id": 2016,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T380-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A2MU-T390-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 31 Months Of Construction",
+      "speaker": "恩雅",
+      "text": "好几个月的施工，顷刻间就毁掉了。这群疯子必须要付出代价。",
+      "string_id": 2227,
+      "speaker_string_id": 2228,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T390-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A2MU-T400-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 31 Months Of Construction",
+      "speaker": "加瑞克",
+      "text": "幽暗城以后可以重建，现在最重要的是保护我们的人民。",
+      "string_id": 2241,
+      "speaker_string_id": 2242,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T400-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A2MU-T410-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 32 Pylon Looks Similar",
+      "speaker": "恩雅",
+      "text": "加瑞克，那座晶塔看上去和控制俘虏的那种很类似。",
+      "string_id": 2028,
+      "speaker_string_id": 2029,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T410-ANYA.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A2MU-T420-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 32 Pylon Looks Similar",
+      "speaker": "加瑞克",
+      "text": "也许我们可以用它来控制敌人的思想。",
+      "string_id": 2035,
+      "speaker_string_id": 2036,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T420-GAREK.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A2MU-T430-SCARLETINQUISITOR",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 33 Magic Has No Hold",
+      "speaker": "检察官",
+      "text": "你的黑暗魔法对我没有作用！接受圣光的审判吧！",
+      "string_id": 2043,
+      "speaker_string_id": 2044,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T430-SCARLETINQUISITOR.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A2MU-T440-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 34 Who Needs Magic",
+      "speaker": "恩雅",
+      "text": "哼。只要能用刀剑解决问题，谁还需要魔法？",
+      "string_id": 2047,
+      "speaker_string_id": 2048,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T440-ANYA.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A2MU-T450-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 34 Who Needs Magic",
+      "speaker": "加瑞克",
+      "text": "这个区域已经清理完毕了。我们前往潜行者区吧。",
+      "string_id": 2057,
+      "speaker_string_id": 2058,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T450-GAREK.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A2MU-T460-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 35 Scarled Crusade Will Purge",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "血色十字军会净化你们这些恶心的怪物！",
+      "string_id": 2063,
+      "speaker_string_id": 2064,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T460-MOGRAINE.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A2MU-T470-MOGRAINE",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 36 Infidels Must Be Purified",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你们这些怪物！必须要加以净化！",
+      "string_id": 2069,
+      "speaker_string_id": 2070,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T470-MOGRAINE.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A2MU-T480-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 36 Infidels Must Be Purified",
+      "speaker": "恩雅",
+      "text": "加瑞克！快找掩护！",
+      "string_id": 2073,
+      "speaker_string_id": 2074,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T480-ANYA.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A2MU-T490-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 37 Lets Head For Center UC",
+      "speaker": "加瑞克",
+      "text": "前往幽暗城的中心吧。我们可以顺路调查破坏程度。",
+      "string_id": 2077,
+      "speaker_string_id": 2078,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T490-GAREK.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A2MU-T500-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 38 Attack Months Planning",
+      "speaker": "恩雅",
+      "text": "这种规模的攻击必定需要花费数个月的谋划。",
+      "string_id": 2081,
+      "speaker_string_id": 2082,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T500-ANYA.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A2MU-T510-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 38 Attack Months Planning",
+      "speaker": "加瑞克",
+      "text": "还需要相当数量的兵力。附近一定有他们的据点。",
+      "string_id": 2088,
+      "speaker_string_id": 2089,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T510-GAREK.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A2MU-T520-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 39 Sylvanas Heavy Repair",
+      "speaker": "希尔瓦娜斯",
+      "text": "贸易区正在进行大范围修理。暂时先避开此区域，直接前往地表。",
+      "string_id": 2094,
+      "speaker_string_id": 2095,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T520-SYLVANAS.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A2MU-T530-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 40 Bernd Explosives Warning",
+      "speaker": "伯恩德",
+      "text": "一定要小心使用。千万别被卷进爆炸范围了！",
+      "string_id": 2100,
+      "speaker_string_id": 2101,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T530-BERND.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A2MU-T540-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 41 Tunnels Are Abandoned",
+      "speaker": "加瑞克",
+      "text": "这些地道年份久远，已经废弃。这些地方应该已经很长时间没有人来过了。",
+      "string_id": 2106,
+      "speaker_string_id": 2107,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T540-GAREK.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A2MU-T550-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 42 Scarlet Crusader Explosives",
+      "speaker": "恩雅",
+      "text": "血色十字军！干掉他们，安装炸药！",
+      "string_id": 2112,
+      "speaker_string_id": 2113,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T550-ANYA.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A2MU-T560-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 43 One Breach Down",
+      "speaker": "加瑞克",
+      "text": "已经堵住了一个缺口。把其他的也封闭起来吧。",
+      "string_id": 2118,
+      "speaker_string_id": 2119,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T560-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A2MU-T570-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 44 What Is This Place Ruins",
+      "speaker": "加瑞克",
+      "text": "这是什么地方？",
+      "string_id": 2122,
+      "speaker_string_id": 2123,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T570-GAREK.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A2MU-T580-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 44 What Is This Place Ruins",
+      "speaker": "恩雅",
+      "text": "我也不知道，不过已经很古老了，说不定比洛丹伦更古老。",
+      "string_id": 2127,
+      "speaker_string_id": 2128,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T580-ANYA.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A2MU-T590-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 45 Some Kind Of Altar",
+      "speaker": "加瑞克",
+      "text": "这是某种祭坛。而且……我感觉它在向我发出召唤……",
+      "string_id": 2133,
+      "speaker_string_id": 2134,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A2MU-T600-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 46 Bernd Quite The Adventure",
+      "speaker": "伯恩德",
+      "text": "听上去真是精彩刺激的冒险啊。不知道我们四周还埋藏着什么秘密。",
+      "string_id": 2139,
+      "speaker_string_id": 2140,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T600-BERND.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A2MU-T610-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 47 Scarlet Crusade More Than Bargain",
+      "speaker": "恩雅",
+      "text": "看来血色十字军这次碰了个硬钉子。",
+      "string_id": 2143,
+      "speaker_string_id": 2144,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T610-ANYA.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A2MU-T611-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Moments.Moments Dialogue 09 Putress Experiment Loose",
+      "speaker": "普特雷斯",
+      "text": "带上这份血清吧。它可以让你短暂控制那些体型较小的实验品。",
+      "string_id": 2519,
+      "speaker_string_id": 2520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T611-PUTRESS.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A2MU-T611-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 62 Putress Take This Serum",
+      "speaker": "普特雷斯",
+      "text": "带上这份血清吧。它可以让你短暂控制那些体型较小的实验品。",
+      "string_id": 2519,
+      "speaker_string_id": 2520,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T611-PUTRESS.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A2MU-T612-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 47 Scarlet Crusade More Than Bargain",
+      "speaker": "加瑞克",
+      "text": "可能很有必要。也许体型较大的样本可以把那家伙逼回它的牢房去。",
+      "string_id": 2853,
+      "speaker_string_id": 2854,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T612-GAREK.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A2MU-T612-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 63 MISSING DIALOGUE",
+      "speaker": "加瑞克",
+      "text": "可能很有必要。也许体型较大的样本可以把那家伙逼回它的牢房去。",
+      "string_id": 2853,
+      "speaker_string_id": 2854,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T612-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A2MU-T613-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 57 Its Weakened Flesh Golem",
+      "speaker": "加瑞克",
+      "text": "它被削弱了！其他样本应该可以将它逼回去了！",
+      "string_id": 2539,
+      "speaker_string_id": 2540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T613-GAREK.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A2MU-T614-GAREK",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 58 No Wonder Scarlet Crus Fell",
+      "speaker": "加瑞克",
+      "text": "难怪血色十字军输给那个怪物了。",
+      "string_id": 2545,
+      "speaker_string_id": 2546,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T614-GAREK.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A2MU-T615-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 59 Eliminate Putress Pet",
+      "speaker": "恩雅",
+      "text": "看来我们得干掉普特雷斯的小宠物了。唉，好吧。",
+      "string_id": 2535,
+      "speaker_string_id": 2536,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T615-ANYA.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A2MU-T630-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 48 Putress Start New Specimen",
+      "speaker": "普特雷斯",
+      "text": "我得从头开始培育新的样本了。几个月的实验成果都冲进了下水道。",
+      "string_id": 2251,
+      "speaker_string_id": 2252,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T630-PUTRESS.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A2MU-T640-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 49 Putress Study Specimen",
+      "speaker": "普特雷斯",
+      "text": "我稍后再研究一下那个样本。毫无疑问，干掉这群血色笨蛋也给我带来了宝贵的数据。",
+      "string_id": 2172,
+      "speaker_string_id": 2173,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T640-PUTRESS.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A2MU-T650-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 50 Lexington Realign Pylon",
+      "speaker": "莱克斯顿",
+      "text": "班达隆队长，感谢黑暗女王把你派来了！我们需要校准这座晶塔上的符文！",
+      "string_id": 2592,
+      "speaker_string_id": 2593,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T650-LEXINGTON.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A2MU-T660-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 50 Lexington Realign Pylon",
+      "speaker": "莱克斯顿",
+      "text": "别让那只女妖攻击我们，这样我们可以兵不血刃就解决此事！",
+      "string_id": 2596,
+      "speaker_string_id": 2597,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T660-LEXINGTON.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A2MU-T661-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 60 Neednt Kill Banshee",
+      "speaker": "莱克斯顿",
+      "text": "你不需要杀死那个女妖，只需要挡住它就好了！",
+      "string_id": 2562,
+      "speaker_string_id": 2563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T661-LEXINGTON.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A2MU-T662-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 61 Making Pylon Repair Progress",
+      "speaker": "莱克斯顿",
+      "text": "我们的修理工作取得了很大进展。再接再厉！",
+      "string_id": 2573,
+      "speaker_string_id": 2574,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T662-LEXINGTON.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A2MU-T663-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 62 Pylon Nearly Restored",
+      "speaker": "莱克斯顿",
+      "text": "晶塔就快要修好了！",
+      "string_id": 2584,
+      "speaker_string_id": 2585,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T663-LEXINGTON.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A2MU-T670-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 51 Lexington Banshee Dead",
+      "speaker": "莱克斯顿",
+      "text": "不！要是我们之前修理得更快些，本可以避免遭此下场。",
+      "string_id": 2604,
+      "speaker_string_id": 2605,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T670-LEXINGTON.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A2MU-T680-LEXINGTON",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 52 Lexington Banshee Success",
+      "speaker": "莱克斯顿",
+      "text": "太棒了！以后我会找时间加固这些晶塔。",
+      "string_id": 2555,
+      "speaker_string_id": 2556,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T680-LEXINGTON.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A2MU-T690-VARIMATHRAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 53 Varimathras Banshee Turn In",
+      "speaker": "瓦里玛萨斯",
+      "text": "我听说女妖的尖叫已经停止了。不论你是用什么手段做到的，这份奖励是你应得的。",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T690-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A2MU-T700-ANYA",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 53 Varimathras Banshee Turn In",
+      "speaker": "恩雅",
+      "text": "你可真是太大方了。",
+      "string_id": 2209,
+      "speaker_string_id": 2210,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T700-ANYA.ogg"
+    },
+    {
+      "n": 135,
+      "id": "A2MU-T710-SYLVANAS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 54 Sylvanas Preparations",
+      "speaker": "希尔瓦娜斯",
+      "text": "你们要做好准备。一旦开始对血色修道院发起攻击，我们就无法回头了。",
+      "string_id": 2803,
+      "speaker_string_id": 2804,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T710-SYLVANAS.ogg"
+    },
+    {
+      "n": 136,
+      "id": "A2MU-T720-BERND",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 55 Bernd So Much To Rebuild",
+      "speaker": "伯恩德",
+      "text": "要修复血色十字军造成的破坏，恐怕需要好几周的时间。",
+      "string_id": 2217,
+      "speaker_string_id": 2218,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T720-BERND.ogg"
+    },
+    {
+      "n": 137,
+      "id": "A2MU-T730-PUTRESS",
+      "scene": "========= Cinematics and Transmissions ==========.Dialogues.Dialogues - Transmissions.Transmissions Dialogue 56 Putress All The Blood Could Find",
+      "speaker": "普特雷斯",
+      "text": "嗯，你只能找到这么点血液吗？不过聊胜于无啊。",
+      "string_id": 2225,
+      "speaker_string_id": 2226,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T730-PUTRESS.ogg"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "map": "UndeadRE01_02",
+  "title": "Capital Ruins",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M2-M020-010-BANSHEE",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "마르야",
+      "text": "내 사랑! 어디 있지? 찾아야 하는데!",
+      "string_id": 2016,
+      "speaker_string_id": 2017,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-010-BANSHEE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M2-M020-020-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "안야",
+      "text": "자신이 죽은 순간을 슬퍼하고 있어. 저 어기적거리는 시체 중 하나는 '사랑했던' 이가 틀림없겠군.",
+      "string_id": 2014,
+      "speaker_string_id": 2015,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M2-M020-030-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "안야",
+      "text": "이 환영을 잠재우면 그녀도 정신을 차릴 수 있을지도.",
+      "string_id": 2012,
+      "speaker_string_id": 2013,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M2-M020-040-GAREK",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "가렉",
+      "text": "알겠다. 편히 쉴 수 있도록 해줘야겠군.",
+      "string_id": 2010,
+      "speaker_string_id": 2011,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M2-T010-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "안야",
+      "text": "조심해, 가렉. 스컬지에서 풀려난 이들이 우리만큼 우호적이지는 않아.",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T010-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M2-T020-GAREK",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "가렉",
+      "text": "자기 몸은 알아서 지켜야 한다는 건가?",
+      "string_id": 1735,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M2-T030-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "안야",
+      "text": "아, 이해가 빠르군.",
+      "string_id": 1746,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M2-T040-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "안야",
+      "text": "거기 너. 실바나스 윈드러너 님이 언더시티에서 피난처를 제공하신다. 하수구로 향해라.",
+      "string_id": 1755,
+      "speaker_string_id": 1756,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T040-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M2-T050-GAREK",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "가렉",
+      "text": "흠. 딱히 어려운 일도 아닌 것 같던데.",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T050-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M2-T060-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "안야",
+      "text": "괜히 운명을 시험할 필요가 있나?",
+      "string_id": 1777,
+      "speaker_string_id": 1778,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T060-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M2-T061-ANYA",
+      "scene": "Encounters.Encounter A Enter Q",
+      "speaker": "안야",
+      "text": "스컬지가 계속해서 이 폐허에 어슬렁거리며 우리를 음모에 빠뜨리려 한다. 한 놈도 살려 보내지 말도록.",
+      "string_id": 1982,
+      "speaker_string_id": 1983,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T061-ANYA.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M2-T070-SURVIVOR",
+      "scene": "Forsaken.Forsaken 02 Enter Q",
+      "speaker": "포세이큰 생존자",
+      "text": "먹어야 해! 당장 먹어야 해!",
+      "string_id": 1786,
+      "speaker_string_id": 1787,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T070-SURVIVOR.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M2-T080-GAREK",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "가렉",
+      "text": "지성 없는 껍질뿐이었군... 안야, 만약 나도 저런 모습으로 깨어났더라면...",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T080-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M2-T090-ANYA",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "안야",
+      "text": "그럼 내가 직접 죽여 퓨트리스가 재료로 쓸 수 있게 가져다 줬겠지. 계속 움직이자.",
+      "string_id": 1804,
+      "speaker_string_id": 1805,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M2-T100-ANYA",
+      "scene": "Forsaken.Forsaken 04 Enter Q",
+      "speaker": "안야",
+      "text": "스컬지 침략자가 더 나타났다! 어서 포세이큰을 구출해라!",
+      "string_id": 1863,
+      "speaker_string_id": 1864,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M2-T110-ANYA",
+      "scene": "Forsaken.Forsaken 04 Scourge Defeated Q",
+      "speaker": "안야",
+      "text": "이제 안전하다. 하수구로 가. 어둠의 여왕께서 지켜보실 거다.",
+      "string_id": 1894,
+      "speaker_string_id": 1895,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M2-T120-BERND",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "베른트",
+      "text": "도와 주세요! 누구 없어요!",
+      "string_id": 1813,
+      "speaker_string_id": 1814,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T120-BERND.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M2-T130-GAREK",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "가렉",
+      "text": "어서 떨어져!",
+      "string_id": 1839,
+      "speaker_string_id": 1840,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T130-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M2-T140-BERND",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "베른트",
+      "text": "감사합니다! 저희를 구하셨군요!",
+      "string_id": 1845,
+      "speaker_string_id": 1846,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T140-BERND.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M2-T150-GAREK",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "가렉",
+      "text": "하수구로 가. 실바나스 여군주님께서는 모든 포세이큰에게 피난처를 제공하신다.",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T150-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M2-T160-BANSHEE",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "마르야",
+      "text": "이제는... 없군요. 이제야 떠올랐어요... 고마워요.",
+      "string_id": 1609,
+      "speaker_string_id": 1610,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T160-BANSHEE.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M2-T170-ANYA",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "안야",
+      "text": "이제 과거로부터 해방이다. 언더시티로 가라. 어둠의 여왕님께서 너를 맞아 주실 거다.",
+      "string_id": 1616,
+      "speaker_string_id": 1617,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T170-ANYA.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M2-T180-BANSHEE",
+      "scene": "Banshee.Banshee B Enter Q",
+      "speaker": "알렉시아",
+      "text": "아이들아, 어서 달아나렴! 교단이 우리 모두를 죽일 거야!",
+      "string_id": 1625,
+      "speaker_string_id": 1626,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T180-BANSHEE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M2-T190-BANSHEE",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "알렉시아",
+      "text": "죽었어... 전부 죽었어.",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T190-BANSHEE.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M2-T200-ANYA",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "안야",
+      "text": "충분히 슬퍼하도록. 준비가 되면 언더시티로 가라. 새로운 고향이 기다린다.",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T200-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M2-T210-KAELYSTIA",
+      "scene": "Banshee.Banshee C Enter Q",
+      "speaker": "캘리스티아",
+      "text": "누가 감히 내 안식을 방해하는가?! 내 마법의 불길로 태워 주마!",
+      "string_id": 1655,
+      "speaker_string_id": 1656,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T210-KAELYSTIA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M2-T220-ANYA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "안야",
+      "text": "그만. 네 분노는 잘못된 곳에 쏠려 있다. 포세이큰에 합류해, 네 진노를 스컬지에 돌려라.",
+      "string_id": 1664,
+      "speaker_string_id": 1665,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T220-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M2-T230-KAELYSTIA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "캘리스티아",
+      "text": "그래... 그래, 맞아. 고맙다. 마침내 눈이 트이는 기분이야.",
+      "string_id": 1676,
+      "speaker_string_id": 1677,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T230-KAELYSTIA.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M2-T240-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "가렉",
+      "text": "음울한 운명도 다 있군. 일단은 언데드로 부활한 다음, 정신을 차려 보면 새로운 존재의 공포를 마주해야 한다니.",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T240-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M2-T250-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "안야",
+      "text": "그렇게 볼 수도 있겠지. 그냥 그 상태로 썩어 가는 걸 원했어? 아니면 두 번째 삶을 살 기회를 받아들이겠어?",
+      "string_id": 1690,
+      "speaker_string_id": 1691,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M2-T260-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "가렉",
+      "text": "모르겠군. 첫 번째 삶에 대한 기억이 없어서.",
+      "string_id": 1699,
+      "speaker_string_id": 1700,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T260-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M2-T270-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "안야",
+      "text": "전화위복일지도 모르지. 우리 중 다수는 어떻게 죽었는지, 자유 의지를 되찾기 전 무엇을 강제로 해야만 했는지 기억하니까.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T270-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M2-T280-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "안야",
+      "text": "우리 모두 텅 빈 백지 상태에서 다시 시작한다는 축복을 받았다면 얼마나 좋았을까.",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T280-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M2-T300-ANYA",
+      "scene": "Abomination.Abomination Human Base Enter Q",
+      "speaker": "안야",
+      "text": "산 자들이 폐허 사이로 흩어지는군. 뿌리를 뽑아 버리자.",
+      "string_id": 1934,
+      "speaker_string_id": 1935,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M2-T301-SILVERHANDKNIGHT",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "루시안 라이트포지드",
+      "text": "타락한 악마 놈들이 더 있다! 빛에 불타 버려라!",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T301-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M2-T302-ANYA",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "안야",
+      "text": "성기사다! 죽여라!",
+      "string_id": 1958,
+      "speaker_string_id": 1959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T302-ANYA.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M2-T310-GAREK",
+      "scene": "Abomination.Abomination Paladin Dies Q",
+      "speaker": "가렉",
+      "text": "키버가 좀 안전한 방법은 아직 못 찾았나 보군, 응?",
+      "string_id": 1967,
+      "speaker_string_id": 1968,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T310-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M2-T320-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "안야",
+      "text": "최고사령관 가리토스. 적도 아군도 모두 증오하는 자야. 실바나스 님께서 죽여 버리셨을 때 아무도 눈물 한 방울 흘리지 않았다.",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M2-T330-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "안야",
+      "text": "키버가 이자의 유해를 원한다니 이상한데. 정의 구현이라고 생각하는지도.",
+      "string_id": 1911,
+      "speaker_string_id": 1912,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T330-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M2-T760-ANYA",
+      "scene": "Ghoul.Ghoul Approached Q",
+      "speaker": "안야",
+      "text": "저 구울... 책을 읽고 있는 건가? 말도 안 돼.",
+      "string_id": 1530,
+      "speaker_string_id": 1531,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T760-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M2-T770-GAREK",
+      "scene": "Ghoul.Ghoul Flee Q",
+      "speaker": "가렉",
+      "text": "흠. 책 몇 권으로 꾀어낼 수 있을지도.",
+      "string_id": 1539,
+      "speaker_string_id": 1540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T770-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M2-T771-GAREK",
+      "scene": "Ghoul.Ghoul Lure Item Dropped Q",
+      "speaker": "가렉",
+      "text": "우리를 무서워하는 걸지도. 뒤로 물러나 공간을 좀 주자고.",
+      "string_id": 1562,
+      "speaker_string_id": 1563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T771-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M2-T772-ANYA",
+      "scene": "Ghoul.Ghoul Lured Captured Q",
+      "speaker": "안야",
+      "text": "키버가 이 녀석과 동질감을 느낄 것 같다. 왠지 예감이 그래.",
+      "string_id": 2156,
+      "speaker_string_id": 2157,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T772-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "BansheeYesAttack2",
+      "scene": "Tome Wraiths.Tome Wraiths GHOUL Activate Q",
+      "speaker": "고서의 망령",
+      "text": "내 고통을 느껴라!",
+      "string_id": 1987,
+      "speaker_string_id": 1988,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack2.flac"
+    },
+    {
+      "n": 45,
+      "id": "BansheeYesAttack3",
+      "scene": "Tome Wraiths.Tome Wraiths INT Activate Q",
+      "speaker": "고서의 망령",
+      "text": "네 영혼은 불타리라!",
+      "string_id": 1992,
+      "speaker_string_id": 1993,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack3.flac"
+    },
+    {
+      "n": 46,
+      "id": "BansheePissed1",
+      "scene": "Tome Wraiths.Tome Wraiths STR Activate Q",
+      "speaker": "고서의 망령",
+      "text": "이 고통을 끝내줘!",
+      "string_id": 1997,
+      "speaker_string_id": 1998,
+      "sound": "Units/Undead/Banshee/BansheePissed1.flac"
+    },
+    {
+      "n": 47,
+      "id": "BansheePissed2",
+      "scene": "Tome Wraiths.Tome Wraiths AGI Activate Q",
+      "speaker": "고서의 망령",
+      "text": "언제까지 고통받아야 하지?",
+      "string_id": 2000,
+      "speaker_string_id": 2001,
+      "sound": "Units/Undead/Banshee/BansheePissed2.flac"
+    },
+    {
+      "n": 48,
+      "id": "NecromancerWarcry1",
+      "scene": "Encounters.Encounter B Enter Q",
+      "speaker": "강령술사",
+      "text": "결국엔 모두 내 것이 되리라!",
+      "string_id": 1491,
+      "speaker_string_id": 1492,
+      "sound": "Units/Undead/Necromancer/NecromancerWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "U01Footman23",
+      "scene": "Abomination.Abomination Human Engaged Q",
+      "speaker": "보병",
+      "text": "모두 죽여라!",
+      "string_id": 1977,
+      "speaker_string_id": 1978,
+      "sound": "Sound/Dialogue/UndeadCampaign/Undead01/U01Footman23.flac"
+    }
+  ]
+}

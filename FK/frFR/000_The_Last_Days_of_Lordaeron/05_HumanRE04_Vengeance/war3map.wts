@@ -1,0 +1,3937 @@
+STRING 1
+{
+HumanRE04
+}
+
+STRING 2
+{
+1
+}
+
+STRING 3
+{
+Chapter Four: Ashes of Stratholme
+}
+
+STRING 4
+{
+Blizzard Entertainment
+}
+
+STRING 5
+{
+Chapitre IV
+}
+
+STRING 6
+{
+Vengeance
+}
+
+STRING 7
+{
+Quelques jours plus tard, Garek, Ilastar et un petit détachement se dirigent jusqu’aux portes de Stratholme, décidés à avoir la tête de Vaillefendre…
+}
+
+STRING 9
+{
+Troupe 1
+}
+
+STRING 10
+{
+Personnage-joueur 2
+}
+
+STRING 11
+{
+Le Fléau
+}
+
+STRING 12
+{
+Troupe 2
+}
+
+STRING 15
+{
+Dans les souterrains
+}
+
+STRING 22
+{
+Fantassin
+}
+
+STRING 23
+{
+Baron Vaillefendre
+}
+
+STRING 25
+{
+Défaite !
+}
+
+STRING 26
+{
+|cffffcc00ÉCHEC DE LA MISSION|r
+Garek a été tué.
+}
+
+STRING 27
+{
+Défaite !
+}
+
+STRING 28
+{
+|cffffcc00ÉCHEC DE LA MISSION|r
+Ilastar été tué.
+}
+
+STRING 29
+{
+Défaite !
+}
+
+STRING 42
+{
+Bon… ces imbéciles errent dans mon abattoir.
+}
+
+STRING 43
+{
+Vous avez trahi votre peuple et avez rejoint le Fléau.
+}
+
+STRING 44
+{
+Choisi pour massacrer des innocents ?
+}
+
+STRING 45
+{
+Ton règne prend fin ce soir, Vaillefendre.
+}
+
+STRING 66
+{
+C’est… C’est terminé…
+}
+
+STRING 129
+{
+Le baron
+}
+
+STRING 130
+{
+La ville de Stratholme est désormais aux mains du Fléau, en dépit de quelques groupes de résistance qui tiennent bon. Frayez-vous un chemin à travers la ville et atteignez l’imposant abattoir vers le centre pour délivrer juste châtiment au traître Vaillefendre.
+}
+
+STRING 131
+{
+Trouver et vaincre le baron Vaillefendre
+}
+
+STRING 132
+{
+Garek et Ilastar doivent survivre
+}
+
+STRING 133
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Le baron
+  - Trouver et vaincre le baron Vaillefendre
+  - Garek et Ilastar doivent survivre
+}
+
+STRING 134
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Le baron
+}
+
+STRING 189
+{
+|cffffcc00SECRET DÉCOUVERT|r
+Le rat invincible.
+}
+
+STRING 191
+// Abilities: A001 (Disease Cloud Effect), Tip (Tooltip - Normal)
+{
+Ancre temporelle
+}
+
+STRING 192
+// Abilities: AHdr (Siphon Mana), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 197
+// Abilities: A001 (Disease Cloud Effect), Researchtip (Tooltip - Learn)
+{
+Apprendre Ancre temporelle de |cffffcc00niveau %d|r
+}
+
+STRING 205
+// Abilities: A000 (Hero Glow), Researchtip (Tooltip - Learn)
+{
+Apprendre Illusion de |cffffcc00niveau %d|r
+}
+
+STRING 206
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+Crée une ancre et téléporte l’unité lanceuse à l’endroit indiqué. Après 15 secondes, l’ancre disparaît et l’unité lanceuse retourne à son emplacement initial.
+}
+
+STRING 207
+// Abilities: A001 (Disease Cloud Effect), Researchubertip (Tooltip - Learn - Extended)
+{
+Crée une ancre à l’emplacement initial de l’unité lanceuse et la téléporte à l’endroit indiqué. Lorsque l’ancre disparaît, l’unité lanceuse retourne à son emplacement initial. |n|n|cffffcc00Niveau 1|r - 15 secondes avant le retour.|n|cffffcc00Niveau 2|r - 25 secondes avant le retour. |n|cffffcc00Niveau 3|r - 35 secondes avant le retour.
+}
+
+STRING 208
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+Crée une ancre et téléporte l’unité lanceuse à l’endroit indiqué. Après 25 secondes, l’ancre disparaît et l’unité lanceuse retourne à son emplacement initial.
+}
+
+STRING 209
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+Crée une ancre et téléporte l’unité lanceuse à l’endroit indiqué. Après 35 secondes, l’ancre disparaît et l’unité lanceuse retourne à son emplacement initial.
+}
+
+STRING 210
+// Abilities: AHdr (Siphon Mana), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 211
+// Doodads: D000 (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 213
+// Destructibles: B00D (Table), EditorSuffix (Editor Suffix)
+{
+(Walkable)
+}
+
+STRING 215
+// Destructibles: B001 (Dungeon Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Big)
+}
+
+STRING 217
+// Abilities: A001 (Disease Cloud Effect), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 218
+// Abilities: A001 (Disease Cloud Effect), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 225
+// Abilities: A003 (Contrôle mental), Name (Name)
+{
+Contrôle mental
+}
+
+STRING 227
+{
+Nous y voilà. Stratholme est juste devant nous. L’heure est venue.
+}
+
+STRING 229
+{
+Votre soif de vengeance pourrait vous faire franchir d’un seul coup les portes de la ville. Je vais chercher un autre passage. Nous attirerons moins l’attention si nous nous séparons.
+}
+
+STRING 230
+{
+Ne soyez pas bête, Ilastar. La ville grouille d’horribles Morts-vivants. Nous allons devoir rester ensemble.
+}
+
+STRING 231
+{
+Il semblerait que ma foi en la Lumière n’ait pas encore déteint sur toi… On se retrouve à l’intérieur.
+}
+
+STRING 232
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 1|r]
+}
+
+STRING 233
+// Abilities: A003 (Mind Control), Researchtip (Tooltip - Learn)
+{
+Learn Mind Control
+}
+
+STRING 234
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 2|r]
+}
+
+STRING 235
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 3|r]
+}
+
+STRING 268
+// Destructibles: B00D (Table), Name (Name)
+{
+Table
+}
+
+STRING 270
+{
+|cffffcc00QUÊTE ANNEXE TERMINÉE|r
+Les champignons de peste
+}
+
+STRING 271
+{
+|cffffcc00QUÊTE ANNEXE|r
+Les champignons de peste
+  - Détruire les champignons de peste géants (0 sur 3 détruits)
+}
+
+STRING 272
+{
+Champignons de peste
+}
+
+STRING 273
+{
+De monstrueux champignons ont poussé à Stratholme et répandent la pestilence de la non-mort avec leurs spores toxiques. Détruisez-les avant qu’ils n’infectent toute la région.
+}
+
+STRING 274
+{
+Détruire les champignons de peste géants (0 sur 3 détruits)
+}
+
+STRING 276
+{
+|cffffcc00QUÊTE ANNEXE TERMINÉE|r
+Récupération portuaire
+}
+
+STRING 282
+// Doodads: D001 (City Building Large (Diagonal 2, Blue) (Flat)), Name (Name)
+{
+City Building Large (Diagonal 2, Blue) (Flat)
+}
+
+STRING 283
+// Destructibles: B00E (Grand mur d’arbres brûlés), Name (Name)
+{
+Grand mur d’arbres brûlés
+}
+
+STRING 284
+// Doodads: YS04 (City Building (Horizontal, Green) (No Pathing)), Name (Name)
+{
+City Building (Horizontal, Green) (No Pathing)
+}
+
+STRING 285
+// Doodads: YS13 (City Building Large (Red) (No Pathing)), Name (Name)
+{
+City Building Large (Red) (No Pathing)
+}
+
+STRING 286
+// Destructibles: B000 (Bâtiment effondré), Name (Name)
+{
+Bâtiment effondré
+}
+
+STRING 287
+// Destructibles: B000 (Toppled Building), EditorSuffix (Editor Suffix)
+{
+(Walkable)
+}
+
+STRING 288
+{
+Impossible de passer par ici.
+}
+
+STRING 289
+{
+Élément de cinématique
+}
+
+STRING 290
+{
+Vestiges de Stratholme
+}
+
+STRING 291
+// Doodads: LOsw (Wall Stone (Red)), Name (Name)
+{
+Wall Stone (Red)
+}
+
+STRING 292
+// Doodads: D002 (Wall Stone (Grey)), Name (Name)
+{
+Wall Stone (Grey)
+}
+
+STRING 293
+// Abilities: S000 (Disparition), Name (Name)
+{
+Disparition
+}
+
+STRING 294
+// Abilities: S000 (Fade), Ubertip (Tooltip - Normal - Extended)
+{
+Empêche l’unité d’attaquer automatiquement des cibles ennemies, ce qui lui permet de disparaître et d’être invisible la nuit.
+}
+
+STRING 295
+// Abilities: S000 (Disparition), Tip (Tooltip - Normal)
+{
+Disparition
+}
+
+STRING 296
+// Abilities: A004 (Rivendare - Raise Dead), EditorSuffix (Editor Suffix)
+{
+(Forever)
+}
+
+STRING 304
+// Units: U000 (Dreadlord), Propernames (Proper Names)
+{
+Lorthiras
+}
+
+STRING 305
+// Units: U000 (Dreadlord), EditorSuffix (Name - Editor Suffix)
+{
+(Lorthiras)
+}
+
+STRING 306
+// Units: u001 ([Lanceur factice]), Name (Name)
+{
+[Lanceur factice]
+}
+
+STRING 307
+// Units: u001 ([Dummy Caster]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 308
+// Units: u001 ([Dummy Caster]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 309
+// Units: u001 ([Dummy Caster]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 310
+// Abilities: A00W (Lorthiras – Rage aveugle), Name (Name)
+{
+Lorthiras – Rage aveugle
+}
+
+STRING 311
+// Abilities: A00X (Rage aveugle (test)), Name (Name)
+{
+Rage aveugle (test)
+}
+
+STRING 314
+// Units: n007 (Survivor Camp), EditorSuffix (Name - Editor Suffix)
+{
+(Stratholme)
+}
+
+STRING 316
+{
+Ilastar
+}
+
+STRING 317
+// Units: n007 (Camp de survivants), Name (Name)
+{
+Camp de survivants
+}
+
+STRING 318
+// Doodads: D003 (Barracks), Name (Name)
+{
+Barracks
+}
+
+STRING 319
+// Doodads: D004 (Altar of Kings), Name (Name)
+{
+Altar of Kings
+}
+
+STRING 321
+// Units: U00Q (Lich), Propernames (Proper Names)
+{
+Ras Murmegivre
+}
+
+STRING 337
+// Units: U00Q (Lich), EditorSuffix (Name - Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 338
+// Abilities: A010 (Bombe de nécrogivre), Name (Name)
+{
+Bombe de nécrogivre
+}
+
+STRING 339
+// Abilities: A011 (Armure de mana givré), Name (Name)
+{
+Armure de mana givré
+}
+
+STRING 340
+// Abilities: A012 (Frost Nova), EditorSuffix (Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 341
+// Abilities: A013 (Mana de Mort glaciale), Name (Name)
+{
+Mana de Mort glaciale
+}
+
+STRING 342
+// Abilities: A014 (Vitesse de Mort glaciale), Name (Name)
+{
+Vitesse de Mort glaciale
+}
+
+STRING 343
+// Buffs/Effects: B008 (Mana de Mort glaciale), EditorName (Name (Editor Only))
+{
+Mana de Mort glaciale
+}
+
+STRING 344
+// Buffs/Effects: B008 (Frozen Death Mana), Bufftip (Tooltip)
+{
+Mort glaciale : mana
+}
+
+STRING 345
+// Buffs/Effects: B008 (Frozen Death Mana), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous l’effet de Mort glaciale, ce qui réduit son regain de mana.
+}
+
+STRING 346
+// Abilities: A00Y (Frost Attack), EditorSuffix (Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 347
+// Buffs/Effects: B009 (Vitesse de Mort glaciale), EditorName (Name (Editor Only))
+{
+Vitesse de Mort glaciale
+}
+
+STRING 348
+// Buffs/Effects: B009 (Frozen Death Speed), Bufftip (Tooltip)
+{
+Mort glaciale : vitesse
+}
+
+STRING 349
+// Buffs/Effects: B009 (Frozen Death Speed), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous l’effet de Mort glaciale, ce qui réduit sa vitesse d’attaque et de déplacement.
+}
+
+STRING 351
+// Units: n002 (Ras Murmegivre), Name (Name)
+{
+Ras Murmegivre
+}
+
+STRING 375
+// Buffs/Effects: B006 (Nécrogive (bonus)), EditorName (Name (Editor Only))
+{
+Nécrogive (bonus)
+}
+
+STRING 376
+// Buffs/Effects: B006 (Nécrogivre (Buff)), Bufftip (Tooltip)
+{
+Nécrogivre
+}
+
+STRING 377
+// Buffs/Effects: B006 (Necrofrost (Buff)), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous l’effet de Nécrogivre, ce qui réduit considérablement ses techniques de combat. Trouvez une maison incendiée à proximité pour supprimer ses effets !
+}
+
+STRING 378
+// Buffs/Effects: B007 (Armure de mana givré), EditorName (Name (Editor Only))
+{
+Armure de mana givré
+}
+
+STRING 379
+// Buffs/Effects: B007 (Armure de mana givré), Bufftip (Tooltip)
+{
+Armure de mana givré
+}
+
+STRING 380
+// Buffs/Effects: B007 (Manafrost Armor), Buffubertip (Tooltip - Extended)
+{
+Cette unité dispose d’une armure de mana givré qui rend du mana et applique Nécrogivre lorsqu’elle est touchée par une unité ennemie. Cet effet est doublé contre les adversaires se trouvant au-delà d’un rayon de 325.
+}
+
+STRING 382
+{
+Lordaeron... was doomed to fall.
+}
+
+STRING 383
+{
+I, Ras Frostwhisper, have joined the Cult of the Damned to serve Ner'zhul, and follow his unholy command. I have only asked for one favor in return... the gift of immortality.
+}
+
+STRING 384
+{
+The skies darken and cry in havoc on this glorious day when I finally reclaim what should've been mine long ago... I have chosen this path, and none shall stand in my way.
+}
+
+STRING 385
+{
+As part of Ner'zhul's challenge, your lives I'll now take. With this sacred ritual, I spill your blood.
+}
+
+STRING 386
+{
+Ner'zhul! Claim this worthless flesh of mine. It is yours to break!
+}
+
+STRING 388
+// Units: n002 (Ras Frostwhisper), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 389
+// Destructibles: B002 (Marches (empruntables)), Name (Name)
+{
+Marches (empruntables)
+}
+
+STRING 390
+// Destructibles: DTc2 (Porte du zoo), Name (Name)
+{
+Porte du zoo
+}
+
+STRING 391
+// Doodads: D005 (Grates), Name (Name)
+{
+Grates
+}
+
+STRING 392
+{
+They found us. Hold the line!
+}
+
+STRING 395
+{
+Chevalier
+}
+
+STRING 396
+{
+Citoyens fantomatiques
+}
+
+STRING 397
+{
+Troupe 3
+}
+
+STRING 398
+// Units: nvlw (Citoyenne), Name (Name)
+{
+Citoyenne
+}
+
+STRING 399
+// Units: nvl2 (Citoyen), Name (Name)
+{
+Citoyen
+}
+
+STRING 400
+// Units: nvil (Citoyen), Name (Name)
+{
+Citoyen
+}
+
+STRING 401
+// Units: h000 (Paysan fantomatique), Name (Name)
+{
+Paysan fantomatique
+}
+
+STRING 402
+// Units: n003 (Citoyenne fantomatique), Name (Name)
+{
+Citoyenne fantomatique
+}
+
+STRING 403
+// Units: n004 (Citoyen fantomatique), Name (Name)
+{
+Citoyen fantomatique
+}
+
+STRING 404
+// Units: n005 (Citoyen fantomatique), Name (Name)
+{
+Citoyen fantomatique
+}
+
+STRING 405
+{
+Citoyens de Stratholme
+}
+
+STRING 406
+// Units: O000 (Titan squelette), Name (Name)
+{
+Titan squelette
+}
+
+STRING 411
+// Abilities: A01L (Forme d’ours), Name (Name)
+{
+Forme d’ours
+}
+
+STRING 412
+// Abilities: A01L (Forme d’ours), Tip (Tooltip - Normal)
+{
+Forme d’ours
+}
+
+STRING 414
+// Abilities: A01P (Souffle de vie), Name (Name)
+{
+Souffle de vie
+}
+
+STRING 415
+// Buffs/Effects: B00C (Enraged), EditorSuffix (Editor Suffix)
+{
+(Shazza)
+}
+
+STRING 416
+// Units: u015 ([Dummy Attacker - Throw Axe]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 419
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 420
+// Abilities: AHav (Avatar), Researchhotkey (Hotkey - Learn)
+{
+R
+}
+
+STRING 421
+// Abilities: AHav (Avatar), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 422
+// Abilities: AHav (Avatar), Unhotkey (Hotkey - Turn Off)
+{
+R
+}
+
+STRING 423
+// Units: u00S ([Dummy Immolation]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 424
+// Units: u00D ([Dummy Caster]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 425
+// Abilities: AHhb (Holy Light), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 426
+// Abilities: AHhb (Holy Light), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 427
+// Abilities: A000 (Scintillement de héros), Name (Name)
+{
+Scintillement de héros
+}
+
+STRING 428
+// Abilities: A001 (Effet de Nuée maléfique), Name (Name)
+{
+Effet de Nuée maléfique
+}
+
+STRING 429
+// Abilities: A002 (Magic Sentry), EditorSuffix (Editor Suffix)
+{
+(Rivendare's Archer Ability)
+}
+
+STRING 430
+// Abilities: A003 (Mind Control), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 431
+// Items: phea (Potion of Healing), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 433
+// Abilities: A004 (Vaillefendre – Réanimation morbide), Name (Name)
+{
+Vaillefendre – Réanimation morbide
+}
+
+STRING 435
+// Units: u00F ([Dummy Caster - CE]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 436
+// Abilities: A005 (Vaillefendre – Commandement d’Archers), Name (Name)
+{
+Vaillefendre – Commandement d’Archers
+}
+
+STRING 437
+// Abilities: A005 (Rivendare - Command Archers), Tip (Tooltip - Normal)
+{
+Commandement d’Archers de |cffffcc00niveau 1|r
+}
+
+STRING 438
+// Abilities: A005 (Rivendare - Command Archers), Ubertip (Tooltip - Normal - Extended)
+{
+Le |cff82cdfcbaron Vaillefendre|r ordonne à ses archers de concentrer leurs tirs sur |cffFFFF00Roderic|r.
+}
+
+STRING 439
+// Abilities: A006 (Vaillefendre – Explosion morbide), Name (Name)
+{
+Vaillefendre – Explosion morbide
+}
+
+STRING 440
+// Abilities: A007 (Vaillefendre – Cercueil gelé), Name (Name)
+{
+Vaillefendre – Cercueil gelé
+}
+
+STRING 441
+// Abilities: A008 (Traits de poison), Name (Name)
+{
+Traits de poison
+}
+
+STRING 442
+// Abilities: A008 (Poison Shots), EditorSuffix (Editor Suffix)
+{
+(Skeleton Archer)
+}
+
+STRING 443
+// Abilities: A009 (Frost Attack), EditorSuffix (Editor Suffix)
+{
+(Skeleton Mage)
+}
+
+STRING 444
+// Abilities: A00A (Vaillefendre – Réanimation morbide), Name (Name)
+{
+Vaillefendre – Réanimation morbide
+}
+
+STRING 445
+// Abilities: A00A (Rivendare - Raise Dead), EditorSuffix (Editor Suffix)
+{
+(Unholy Summoner)
+}
+
+STRING 446
+// Abilities: A00B (Vaillefendre – Explosion morbide), Name (Name)
+{
+Vaillefendre – Explosion morbide
+}
+
+STRING 447
+// Abilities: A00B (Rivendare - Corpse Explosion), EditorSuffix (Editor Suffix)
+{
+(Blood Cultist)
+}
+
+STRING 448
+// Abilities: A00C (Cercueil gelé), Name (Name)
+{
+Cercueil gelé
+}
+
+STRING 449
+// Abilities: A00C (Frozen Coffin), EditorSuffix (Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 450
+// Abilities: A00D (Explosion morbide), Name (Name)
+{
+Explosion morbide
+}
+
+STRING 451
+// Items: pman (Potion of Mana), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 452
+// Abilities: A00D (Corpse Explosion), Hotkey (Hotkey - Normal)
+{
+F
+}
+
+STRING 453
+// Abilities: A00D (Explosion morbide), Tip (Tooltip - Normal)
+{
+Explosion morbide
+}
+
+STRING 454
+// Abilities: A00D (Corpse Explosion), Ubertip (Tooltip - Normal - Extended)
+{
+Kaboum.
+}
+
+STRING 455
+// Abilities: A00E (Vaillefendre – Cercueil gelé), Name (Name)
+{
+Vaillefendre – Cercueil gelé
+}
+
+STRING 456
+// Abilities: A00E (Rivendare - Frozen Coffin), EditorSuffix (Editor Suffix)
+{
+(Lich)
+}
+
+STRING 457
+// Abilities: A00F (Eau bénite), Name (Name)
+{
+Eau bénite
+}
+
+STRING 458
+// Abilities: A00G (Holy Water Stun), Name (Name)
+{
+Holy Water Stun
+}
+
+STRING 459
+// Abilities: A00H (Vaillefendre – Absorption d’âmes), Name (Name)
+{
+Vaillefendre – Absorption d’âmes
+}
+
+STRING 460
+// Abilities: A00I (Absorption d’âmes – Frénésie impie), Name (Name)
+{
+Absorption d’âmes – Frénésie impie
+}
+
+STRING 461
+// Abilities: A00J (Absorption d’âmes – Aura impie), Name (Name)
+{
+Absorption d’âmes – Aura impie
+}
+
+STRING 462
+// Abilities: A00K (Froideur de la bénédiction du givre), Name (Name)
+{
+Froideur de la bénédiction du givre
+}
+
+STRING 463
+// Abilities: A00L (Armure de bénédiction du givre), Name (Name)
+{
+Armure de bénédiction du givre
+}
+
+STRING 464
+// Abilities: A00M (Technique clé de bastion), Name (Name)
+{
+Technique clé de bastion
+}
+
+STRING 465
+// Abilities: A00N (Technique clé alternative), Name (Name)
+{
+Technique clé alternative
+}
+
+STRING 466
+// Abilities: A00O (Technique clé principale), Name (Name)
+{
+Technique clé principale
+}
+
+STRING 467
+// Abilities: A00P (Volatilisation), Name (Name)
+{
+Volatilisation
+}
+
+STRING 468
+// Abilities: A00Q (Volatilisation factice), Name (Name)
+{
+Volatilisation factice
+}
+
+STRING 469
+// Abilities: A00Q (Disappearance Dummy), Ubertip (Tooltip - Normal - Extended)
+{
+Rend une unité invisible. Si elle attaque, utilise une technique ou lance un sort, elle redevient visible. |nDure 12 secondes.
+}
+
+STRING 470
+// Abilities: A00R (Modèle Or), Name (Name)
+{
+Modèle Or
+}
+
+STRING 471
+// Abilities: A00S (Sectateur – Canalisation de sorts), Name (Name)
+{
+Sectateur – Canalisation de sorts
+}
+
+STRING 472
+// Abilities: A00T (Gargouilles enracinées factices), Name (Name)
+{
+Gargouilles enracinées factices
+}
+
+STRING 473
+// Abilities: A00U (Disappearance (Priest)), Name (Name)
+{
+Disappearance (Priest)
+}
+
+STRING 474
+// Abilities: A00U (Disappearance (Priest)), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 475
+// Abilities: A00U (Disappearance (Priest)), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all allies within 350 range of a target point, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+}
+
+STRING 476
+// Abilities: A00V (Major Illusion (Priest - Old)), Name (Name)
+{
+Major Illusion (Priest - Old)
+}
+
+STRING 477
+// Abilities: A00V (Major Illusion (Priest - Old)), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 478
+// Abilities: A00V (Major Illusion (Priest - Old)), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all allies within 350 range of a target point, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+}
+
+STRING 479
+// Abilities: A00V (Major Illusion (Priest - Old)), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 480
+// Abilities: A00Z (Aura de feu des maisons incendiées), Name (Name)
+{
+Aura de feu des maisons incendiées
+}
+
+STRING 481
+// Abilities: A015 (Major Illusion), Name (Name)
+{
+Major Illusion
+}
+
+STRING 482
+// Abilities: A015 (Major Illusion), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 483
+// Abilities: A015 (Major Illusion), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all of your units on the map, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+
+|cffaeaeaeThis spell has a 4 second cast time and a 120 second cooldown. Use it wisely.
+}
+
+STRING 484
+// Abilities: A015 (Major Illusion), EditorSuffix (Editor Suffix)
+{
+(Priest - New)
+}
+
+STRING 486
+// Abilities: A016 (Sectateur – Canalisation de sorts), Name (Name)
+{
+Sectateur – Canalisation de sorts
+}
+
+STRING 487
+// Abilities: A016 (Cultist - Channeling Spell), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 488
+// Abilities: A017 (Cinématique Ras – Canalisation de sorts), Name (Name)
+{
+Cinématique Ras – Canalisation de sorts
+}
+
+STRING 489
+// Abilities: A017 (Cinematic Ras - Channeling Spell), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 490
+// Abilities: A018 (Defend), EditorSuffix (Editor Suffix)
+{
+(Veteran Footman)
+}
+
+STRING 491
+// Abilities: A018 (Defend), Ubertip (Tooltip - Normal - Extended)
+{
+Activate to have a 25% chance to reflect Piercing attacks upon the source, and to take only 50% of the damage from attacks that are not reflected. While Defend is active, move speed is reduced by 20%.
+}
+
+STRING 492
+// Abilities: A019 (#5:Vétéran:Vétérane; de combat), Name (Name)
+{
+#5:Vétéran:Vétérane; de combat
+}
+
+STRING 493
+// Abilities: A019 (Combat Veteran), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfcGives a |cffFFFF0010%|r |cff82cdfcchance to dodge an attack and a |cffFFFF0015% |cff82cdfcchance to deal |cffFFFF002 |cff82cdfctimes total damage.|r
+
+|cffaeaeaeThis unit has acquired combat proficiency via elite training.
+}
+
+STRING 494
+// Abilities: A019 (Combat Veteran), Tip (Tooltip - Normal)
+{
+|cff82cdfcCombat Veteran
+}
+
+STRING 495
+// Abilities: A01A (En pleine tête), Name (Name)
+{
+En pleine tête
+}
+
+STRING 496
+// Abilities: A01A (Headshot), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfcGives a |cffffff0015% |cff82cdfcchance that an attack will do |cffffff0040 |cff82cdfcbonus damage and stun the target for |cffffff002.5 |cff82cdfcseconds.|r
+
+|cffaeaeaeThis unit has acquired combat proficiency via elite training.
+}
+
+STRING 497
+// Abilities: A01A (Headshot), Tip (Tooltip - Normal)
+{
+|cff82cdfcHeadshot
+}
+
+STRING 498
+// Abilities: A01B (Technique clé d’abattoir), Name (Name)
+{
+Technique clé d’abattoir
+}
+
+STRING 499
+// Abilities: A01C (Réanimation ultime), Name (Name)
+{
+Réanimation ultime
+}
+
+STRING 500
+// Abilities: A01C (Raise Ultimate Dead), EditorSuffix (Editor Suffix)
+{
+(Master Necromancer)
+}
+
+STRING 501
+// Abilities: A01D (Tome du savoir), Name (Name)
+{
+Tome du savoir
+}
+
+STRING 502
+// Abilities: A01E (Seau de chair), Name (Name)
+{
+Seau de chair
+}
+
+STRING 503
+// Abilities: A01F (Death Coil), EditorSuffix (Editor Suffix)
+{
+(Cultist)
+}
+
+STRING 504
+// Abilities: A01G (Nuée maléfique factice), Name (Name)
+{
+Nuée maléfique factice
+}
+
+STRING 505
+// Abilities: A01G (Disease Cloud Dummy), EditorSuffix (Editor Suffix)
+{
+(Bucket of Flesh)
+}
+
+STRING 506
+// Abilities: A01H (Shazza), Name (Name)
+{
+Shazza
+}
+
+STRING 507
+// Abilities: A01I (Rage), Name (Name)
+{
+Rage
+}
+
+STRING 508
+// Buffs/Effects: B00B (Enraged), EditorSuffix (Editor Suffix)
+{
+(Kol'ga)
+}
+
+STRING 509
+// Abilities: A01J (Rage), Name (Name)
+{
+Rage
+}
+
+STRING 511
+// Abilities: A01K (Faiblesse), Name (Name)
+{
+Faiblesse
+}
+
+STRING 512
+// Abilities: A01K (Faiblesse), Tip (Tooltip - Normal)
+{
+Faiblesse
+}
+
+STRING 513
+// Buffs/Effects: B00D (Cripple), EditorSuffix (Editor Suffix)
+{
+(Kol'ga)
+}
+
+STRING 514
+// Abilities: A01M (Rugissement terrifiant), Name (Name)
+{
+Rugissement terrifiant
+}
+
+STRING 515
+// Abilities: A01M (Rugissement terrifiant), Tip (Tooltip - Normal)
+{
+Rugissement terrifiant
+}
+
+STRING 516
+// Abilities: A01M (Terrifying Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Réduit l’armure et la vitesse de déplacement des unités ennemies proches.
+}
+
+STRING 518
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 519
+// Abilities: A01N (Rugissement terrifiant), Name (Name)
+{
+Rugissement terrifiant
+}
+
+STRING 520
+// Abilities: A01N (Rugissement terrifiant), Tip (Tooltip - Normal)
+{
+Rugissement terrifiant
+}
+
+STRING 522
+// Abilities: A01O (Choc de flammes), Name (Name)
+{
+Choc de flammes
+}
+
+STRING 524
+// Units: u00H ([Dummy Tanker]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 526
+// Abilities: A01R (Souffle de vie), Name (Name)
+{
+Souffle de vie
+}
+
+STRING 529
+// Buffs/Effects: B000 (), Bufftip (Tooltip)
+{
+Cible repérée !
+}
+
+STRING 530
+// Buffs/Effects: B000 (), Buffubertip (Tooltip - Extended)
+{
+Attention aux flèches !
+}
+
+STRING 531
+// Buffs/Effects: B001 (), Bufftip (Tooltip)
+{
+Effet clé
+}
+
+STRING 532
+// Buffs/Effects: B002 (), Bufftip (Tooltip)
+{
+Balayage
+}
+
+STRING 533
+// Buffs/Effects: B002 (), Buffubertip (Tooltip - Extended)
+{
+Cette unité s’est fait balayer.
+}
+
+STRING 534
+// Buffs/Effects: B003 (Forme de pierre), EditorName (Name (Editor Only))
+{
+Forme de pierre
+}
+
+STRING 535
+// Buffs/Effects: B003 (Forme de pierre), Bufftip (Tooltip)
+{
+Forme de pierre
+}
+
+STRING 536
+// Buffs/Effects: B003 (Stone Form), Buffubertip (Tooltip - Extended)
+{
+Les gargouilles nous observent.
+}
+
+STRING 537
+// Buffs/Effects: B004 (Rage aveugle), EditorName (Name (Editor Only))
+{
+Rage aveugle
+}
+
+STRING 538
+// Buffs/Effects: B004 (Blind Rage), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous l’effet de Rage aveugle. Sa vitesse d’attaque est augmentée, mais sa vitesse de déplacement est réduite.
+}
+
+STRING 539
+// Buffs/Effects: B005 (Aura de feu des maisons incendiées), EditorName (Name (Editor Only))
+{
+Aura de feu des maisons incendiées
+}
+
+STRING 540
+// Buffs/Effects: B005 (Burning Houses Immolation), EditorSuffix (Editor Suffix)
+{
+(Buff)
+}
+
+STRING 541
+// Buffs/Effects: B00A (), Bufftip (Tooltip)
+{
+Seau de chair
+}
+
+STRING 542
+// Buffs/Effects: B00A (), Buffubertip (Tooltip - Extended)
+{
+De la viande fraîche !
+}
+
+STRING 543
+// Buffs/Effects: B00B (Rage), Bufftip (Tooltip)
+{
+Rage
+}
+
+STRING 544
+// Buffs/Effects: B00B (Rage), EditorName (Name (Editor Only))
+{
+Rage
+}
+
+STRING 545
+// Buffs/Effects: B00B (Enraged), Buffubertip (Tooltip - Extended)
+{
+Kol’ga part en quête de sang pour venger la mort de Shazza, ce qui augmente sa vitesse d’attaque de 100 %.
+}
+
+STRING 547
+// Buffs/Effects: B00C (Rage), Bufftip (Tooltip)
+{
+Rage
+}
+
+STRING 548
+// Buffs/Effects: B00C (Rage), EditorName (Name (Editor Only))
+{
+Rage
+}
+
+STRING 549
+// Buffs/Effects: B00C (Enraged), Buffubertip (Tooltip - Extended)
+{
+Shazza demande de l’aide à Jan’ali pour venger la mort de Kol’ga, ce qui réduit son temps de recharge de 50 %.
+}
+
+STRING 552
+// Buffs/Effects: B00D (Faiblesse), Bufftip (Tooltip)
+{
+Faiblesse
+}
+
+STRING 553
+// Buffs/Effects: B00D (Cripple), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous l’effet de Faiblesse, ce qui réduit sa vitesse de déplacement.
+}
+
+STRING 554
+// Buffs/Effects: B00D (Faiblesse), EditorName (Name (Editor Only))
+{
+Faiblesse
+}
+
+STRING 555
+// Buffs/Effects: B00E (), Bufftip (Tooltip)
+{
+Rugissement terrifiant
+}
+
+STRING 556
+// Buffs/Effects: B00E (), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous l’effet de Rugissement terrifiant, ce qui réduit son armure et sa vitesse de déplacement.
+}
+
+STRING 566
+// Units: U013 (Skeletal Warlock), Name (Name)
+{
+Skeletal Warlock
+}
+
+STRING 570
+// Units: u015 ([Attaquant factice – Lancer de hache]), Name (Name)
+{
+[Attaquant factice – Lancer de hache]
+}
+
+STRING 571
+// Units: u015 ([Dummy Attacker - Throw Axe]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 572
+// Units: u015 ([Dummy Attacker - Throw Axe]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 573
+// Units: u00E (Corpse Explosion - Dummy), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 575
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 576
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 577
+// Units: u00I (shutup), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 579
+// Items: I00B (Rune of the Unbound), Ubertip (Tooltip - Extended)
+{
+Augmente la vitesse de déplacement des unités et supprime les effets d’immobilisation.
+}
+
+STRING 580
+// Items: I00B (Rune of the Unbound), Description (Description)
+{
+Augmente la vitesse de déplacement des unités et supprime les effets d’immobilisation.
+}
+
+STRING 581
+// Units: U013 (Skeletal Warlock), Propernames (Proper Names)
+{
+Morvain
+}
+
+STRING 582
+// Units: U013 (Skeletal Warlock), EditorSuffix (Name - Editor Suffix)
+{
+Morvain
+}
+
+STRING 583
+// Units: O000 (Skeletal Titan), Propernames (Proper Names)
+{
+Grimthane
+}
+
+STRING 584
+// Units: U012 (Titan), EditorSuffix (Name - Editor Suffix)
+{
+(Grimthane)
+}
+
+STRING 585
+// Units: u016 ([Lanceur factice – Pluie de feu de Démoniste]), Name (Name)
+{
+[Lanceur factice – Pluie de feu de Démoniste]
+}
+
+STRING 586
+// Abilities: A01L (Bear Form), EditorSuffix (Editor Suffix)
+{
+(Titan Phase 2)
+}
+
+STRING 587
+// Abilities: A01P (Breath of Life), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 588
+// Abilities: A01I (Enrage), EditorSuffix (Editor Suffix)
+{
+(Titan)
+}
+
+STRING 589
+// Abilities: A01J (Enrage), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 590
+// Abilities: A01K (Cripple), EditorSuffix (Editor Suffix)
+{
+(Titan)
+}
+
+STRING 591
+// Abilities: A01M (Terrifying Roar), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 592
+// Abilities: A01N (Terrifying Roar), EditorSuffix (Editor Suffix)
+{
+(Titan Cast)
+}
+
+STRING 593
+// Abilities: A01O (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 594
+// Abilities: A01Q (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 595
+// Abilities: A01R (Breath of Life), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 596
+// Abilities: A01S (Rain of Fire), EditorSuffix (Editor Suffix)
+{
+(Warlock Phase 2 Dummy)
+}
+
+STRING 597
+// Units: u00S ([Aura de feu factice]), Name (Name)
+{
+[Aura de feu factice]
+}
+
+STRING 598
+// Units: u00S ([Dummy Immolation]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 599
+// Units: u00S ([Dummy Immolation]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 600
+// Units: u00S ([Dummy Immolation]), EditorSuffix (Name - Editor Suffix)
+{
+(Burning Houses)
+}
+
+STRING 601
+// Abilities: AHtb (Storm Bolt), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 603
+// Units: n006 (Skeleton Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Flying)
+}
+
+STRING 605
+// Doodads: D007 (Undead Battleship), Name (Name)
+{
+Undead Battleship
+}
+
+STRING 606
+// Destructibles: B003 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 607
+// Destructibles: B004 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 608
+// Destructibles: B005 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 609
+// Destructibles: B006 (Barrel of Explosives), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 614
+{
+Maudite vermine. Vous n’arriverez pas à empêcher les livraisons.
+}
+
+STRING 615
+// Doodads: D008 (Wall Low (No Pathing)), Name (Name)
+{
+Wall Low (No Pathing)
+}
+
+STRING 617
+// Doodads: D009 (Sacrificial Pit), Name (Name)
+{
+Sacrificial Pit
+}
+
+STRING 618
+// Doodads: D00A (Shrine), Name (Name)
+{
+Shrine
+}
+
+STRING 619
+// Doodads: D00B (Chain Post (No Pathing)), Name (Name)
+{
+Chain Post (No Pathing)
+}
+
+STRING 620
+// Items: I000 (Bundle of Lumber), Ubertip (Tooltip - Extended)
+{
+Donne <A01t.AIlu,DataA1> unités de bois au personnage-joueur qui l’utilise.
+}
+
+STRING 621
+// Abilities: A01T (Bundle of Lumber), EditorSuffix (Editor Suffix)
+{
++1
+}
+
+STRING 642
+{
+|cffffcc00QUÊTE ANNEXE MISE À JOUR|r
+}
+
+STRING 643
+{
+Champignons de peste
+}
+
+STRING 662
+{
+- Détruire les champignons de peste géants (
+}
+
+STRING 663
+{
+sur 3 détruits)
+}
+
+STRING 665
+{
+Détruire les champignons de peste géants
+}
+
+STRING 709
+// Doodads: D00C (Blacksmith), Name (Name)
+{
+Blacksmith
+}
+
+STRING 710
+{
+Cette caserne est encore intacte. Nous pouvons l’utiliser.
+}
+
+STRING 713
+// Units: nC06 (Filson le rat), Name (Name)
+{
+Filson le rat
+}
+
+STRING 715
+{
+Trop près.
+}
+
+STRING 716
+// Abilities: A003 (Mind Control), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 717
+// Units: U002 (Duc de Stratholme), Name (Name)
+{
+Duc de Stratholme
+}
+
+STRING 718
+// Units: U002 (Duke of Stratholme), Propernames (Proper Names)
+{
+Baron Vaillefendre
+}
+
+STRING 719
+// Units: u00C (Liche de givre), Name (Name)
+{
+Liche de givre
+}
+
+STRING 720
+// Units: u00C (Frost Lich), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 721
+// Units: u00B (Sectateurs du sang), Name (Name)
+{
+Sectateurs du sang
+}
+
+STRING 722
+// Units: u00B (Blood Cultist), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 723
+// Units: u00A (Invocateur impie), Name (Name)
+{
+Invocateur impie
+}
+
+STRING 724
+// Units: u00A (Unholy Summoner), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 725
+// Units: u004 (Obélisque de sang), Name (Name)
+{
+Obélisque de sang
+}
+
+STRING 726
+// Units: u004 (Obelisk of Blood), Ubertip (Tooltip - Extended)
+{
+Mécanismes de défense de Vaillefendre.
+}
+
+STRING 727
+// Units: u006 (Obélisque de mort), Name (Name)
+{
+Obélisque de mort
+}
+
+STRING 728
+// Units: u006 (Obelisk of Death), Ubertip (Tooltip - Extended)
+{
+Mécanismes de défense de Vaillefendre.
+}
+
+STRING 729
+// Units: u007 (Obélisque de givre), Name (Name)
+{
+Obélisque de givre
+}
+
+STRING 730
+// Units: u007 (Obelisk of Frost), Ubertip (Tooltip - Extended)
+{
+Mécanismes de défense de Vaillefendre.
+}
+
+STRING 731
+// Units: n000 (Archer de Vaillefendre), Name (Name)
+{
+Archer de Vaillefendre
+}
+
+STRING 732
+// Units: n001 (Zombie), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare GY)
+}
+
+STRING 759
+// Units: u00D ([Lanceur factice]), Name (Name)
+{
+[Lanceur factice]
+}
+
+STRING 760
+// Units: u00D ([Dummy Caster]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 761
+// Units: u00D ([Dummy Caster]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 762
+// Units: u00F ([Lanceur factice – CE]), Name (Name)
+{
+[Lanceur factice – CE]
+}
+
+STRING 763
+// Units: u00F ([Dummy Caster - CE]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 764
+// Units: u00F ([Dummy Caster - CE]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 765
+// Abilities: AHtb (Storm Bolt), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 766
+// Abilities: AHfs (Flame Strike), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 791
+{
+I will stay up here and scout ahead.
+}
+
+STRING 793
+{
+Je vous en prie, mon roi. Non !
+}
+
+STRING 794
+{
+You will all serve me!
+}
+
+STRING 795
+// Units: h001 (Bloc de glace), Name (Name)
+{
+Bloc de glace
+}
+
+STRING 796
+// Units: h001 (Ice Block), Ubertip (Tooltip - Extended)
+{
+Détruisez-le pour libérer vos unités de l’emprise de Vaillefendre !
+}
+
+STRING 797
+// Items: I001 (Bénédiction du givre), Name (Name)
+{
+Bénédiction du givre
+}
+
+STRING 798
+// Items: I001 (Blessing of Frost), Ubertip (Tooltip - Extended)
+{
+|cff00ff00Vaillefendre a obtenu Bénédiction du givre, ce qui augmente son armure de 5 et lui confère une attaque de givre. Il peut également lancer plus souvent des sorts.
+}
+
+STRING 799
+// Units: u00G ([Attaquant factice – Absorption d’âmes]), Name (Name)
+{
+[Attaquant factice – Absorption d’âmes]
+}
+
+STRING 800
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 801
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 802
+// Abilities: AHfs (Flame Strike), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 804
+// Units: u00H ([Colosse factice]), Name (Name)
+{
+[Colosse factice]
+}
+
+STRING 805
+// Units: u00H ([Dummy Tanker]), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 806
+// Units: u00H ([Dummy Tanker]), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 807
+// Abilities: A01P (Breath of Life), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 808
+// Units: u005 (Disease Cloud), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare's Archer)
+}
+
+STRING 809
+// Units: u00E (Explosion morbide – Factice), Name (Name)
+{
+Explosion morbide – Factice
+}
+
+STRING 810
+// Units: u00E (Corpse Explosion - Dummy), Ubertip (Tooltip - Extended)
+{
+Vous avez réussi à me trouver !
+}
+
+STRING 811
+// Units: u00E (Corpse Explosion - Dummy), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 812
+// Abilities: A01M (Terrifying Roar), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 813
+// Units: u008 (Skeleton Warrior), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 814
+// Units: u009 (Mage squelette), Name (Name)
+{
+Mage squelette
+}
+
+STRING 815
+// Units: u009 (Skeleton Mage), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 816
+// Units: u002 (Skeleton Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 817
+{
+Les voilà !
+}
+
+STRING 819
+{
+It looks as if we need a key.
+}
+
+STRING 820
+// Items: I002 (Clé de la place des Croisés), Name (Name)
+{
+Clé de la place des Croisés
+}
+
+STRING 821
+// Items: I002 (Crusader Square Key), Ubertip (Tooltip - Extended)
+{
+La clé de la place des Croisés
+}
+
+STRING 822
+// Items: I002 (Crusader Square Key), Description (Description)
+{
+Une clé rouge.
+}
+
+STRING 823
+// Items: I002 (Crusader Square Key), Tip (Tooltip - Basic)
+{
+Acheter la Clé de la place des Croisés
+}
+
+STRING 825
+// Items: I003 (Rune de nourriture), Name (Name)
+{
+Rune de nourriture
+}
+
+STRING 826
+// Items: I003 (Rune of Food), Tip (Tooltip - Basic)
+{
+Acheter une Rune de nourriture
+}
+
+STRING 828
+// Items: I003 (Rune of Food), Description (Description)
+{
+Augmente définitivement la limite de nourriture.
+}
+
+STRING 830
+{
+Impossible de viser des sectateurs de Vaillefendre.
+}
+
+STRING 831
+// Doodads: D00D (Tox Gas Cloud), Name (Name)
+{
+Tox Gas Cloud
+}
+
+STRING 834
+{
+Ils nous ont trouvés !
+}
+
+STRING 835
+{
+Nothing's happening. There must be another lever.
+}
+
+STRING 836
+{
+Nothing's happening. There must be another lever.
+}
+
+STRING 837
+{
+It's too late for me, my lord...
+}
+
+STRING 843
+{
+Your suffering will be… exquisite.
+}
+
+STRING 844
+{
+|cffffcc00QUÊTE ANNEXE|r
+Récupération portuaire
+  - Embarquer à bord d’un navire de transport
+  - Récupérer 100 marchandises flottantes
+}
+
+STRING 845
+{
+The battleships destroyed the vessels and left the cargo to drift, caring nothing for the lives or hope it carried.
+}
+
+STRING 847
+{
+These crates bear the seal of Lordaeron — a relief fleet must have tried to reach the city before the Scourge sank them.
+}
+
+STRING 848
+{
+If any resistance still fights within those walls, food and steel like this could mean survival.
+}
+
+STRING 850
+{
+Then we take a transport and slip between their guns — what little hope remains, we will not leave to drown.
+}
+
+STRING 851
+// Abilities: S001 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Ship) (1)
+}
+
+STRING 852
+// Abilities: A01U (Inventory), EditorSuffix (Editor Suffix)
+{
+(Ship)
+}
+
+STRING 853
+{
+Récupération portuaire
+}
+
+STRING 854
+{
+Marchandises récupérées
+}
+
+STRING 855
+{
+Vous devez sélectionner une unité héroïque.
+}
+
+STRING 856
+{
+Récupération portuaire
+}
+
+STRING 857
+{
+Récupérez les tonneaux de marchandises qui flottent près des épaves des navires humains dans le port de Stratholme. Ces ressources pourront s’avérer précieuses dans la guerre contre le Fléau.
+}
+
+STRING 858
+{
+Récupérer 100 marchandises flottantes
+}
+
+STRING 859
+{
+|cff32cd32CONSEIL :|r limite de nourriture augmentée.
+}
+
+STRING 860
+// Destructibles: B003 (Marchandises flottantes), Name (Name)
+{
+Marchandises flottantes
+}
+
+STRING 861
+// Destructibles: B004 (Marchandises flottantes), Name (Name)
+{
+Marchandises flottantes
+}
+
+STRING 862
+// Destructibles: B005 (Marchandises flottantes), Name (Name)
+{
+Marchandises flottantes
+}
+
+STRING 864
+// Units: O000 (Skeletal Titan), EditorSuffix (Name - Editor Suffix)
+{
+(Kol'ga) (Skeleton Form)
+}
+
+STRING 865
+// Units: U012 (Titan), Propernames (Proper Names)
+{
+Grimthane
+}
+
+STRING 866
+// Units: U012 ([ms]Titan), Name (Name)
+{
+[ms]Titan
+}
+
+STRING 869
+{
+Fusilier
+}
+
+STRING 870
+// Items: I00B (Rune de détachement), Name (Name)
+{
+Rune de détachement
+}
+
+STRING 871
+{
+Embarquer à bord d’un navire de transport
+}
+
+STRING 883
+{
+|cffffcc00QUÊTE ANNEXE MISE À JOUR|r
+Récupération portuaire
+  - |cff808080Embarquer à bord d’un navire de transport (terminé)|r
+  - Récupérer 100 marchandises flottantes
+}
+
+STRING 884
+{
+Take the Crypt down, quickly!
+}
+
+STRING 885
+{
+100 !
+}
+
+STRING 887
+{
+Garek
+}
+
+STRING 888
+{
+The gate is locked. Maybe Ilastar has more luck.
+}
+
+STRING 890
+{
+Nous avons besoin de votre aide !
+}
+
+STRING 892
+{
+Light preserve us… what blasphemy festers here? I can feel the sickness upon the wind…
+}
+
+STRING 896
+{
+This mushroom is no common growths of rot. If left unchecked, its spores will drift beyond these ruined walls and poison the lands anew. The taint must not be allowed to spread.
+}
+
+STRING 898
+{
+It is done… The foul growths are ash, and their spores scatter no more.
+}
+
+STRING 907
+// Units: u003 (Ramstein Grandgosier), Name (Name)
+{
+Ramstein Grandgosier
+}
+
+STRING 908
+// Units: u00P (Sectateur), Name (Name)
+{
+Sectateur
+}
+
+STRING 909
+// Abilities: A01V (Effet de Nuée maléfique), Name (Name)
+{
+Effet de Nuée maléfique
+}
+
+STRING 910
+// Units: n008 (Damian), Name (Name)
+{
+Damian
+}
+
+STRING 911
+// Units: n008 (Damian), EditorSuffix (Name - Editor Suffix)
+{
+(Ghost)
+}
+
+STRING 912
+{
+They were spreading the plague...
+}
+
+STRING 913
+{
+What are all these empty crates for?
+}
+
+STRING 914
+{
+Help at last. We've been holed up here for a while. Undead from all sides.
+}
+
+STRING 916
+{
+Lorthiras
+}
+
+STRING 918
+{
+Ras Murmegivre
+}
+
+STRING 920
+{
+Mortiers
+}
+
+STRING 922
+{
+Citoyen
+}
+
+STRING 924
+{
+Paysan fantomatique
+}
+
+STRING 926
+{
+Grimthane
+}
+
+STRING 928
+{
+Tisse-chancre
+}
+
+STRING 934
+{
+Il fait trop froid ! Je dois me réchauffer !
+}
+
+STRING 936
+// Abilities: A01W (Chest of Gold), EditorSuffix (Editor Suffix)
+{
++1
+}
+
+STRING 937
+{
+You cannot kill what is already dead.
+}
+
+STRING 938
+// Units/Human/Footman/FootmanYesAttack3.flac
+{
+Aux armes !
+}
+
+STRING 939
+// Items: shea (Scroll of Healing), Hotkey (Hotkey)
+{
+X
+}
+
+STRING 940
+// Items: sman (Scroll of Mana), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 941
+// Items: pclr (Clarity Potion), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 942
+// Abilities: A00D (Corpse Explosion), Unhotkey (Hotkey - Turn Off)
+{
+F
+}
+
+STRING 943
+// Abilities: A015 (Major Illusion), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 944
+{
+Ce n’est pas fini !
+}
+
+STRING 945
+{
+Your bones will join our legion.
+}
+
+STRING 946
+// Abilities: A01X (Rune de nourriture), Name (Name)
+{
+Rune de nourriture
+}
+
+STRING 947
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 2.
+}
+
+STRING 948
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 3.
+}
+
+STRING 949
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 4.
+}
+
+STRING 950
+// Abilities: A003 (Mind Control), Researchubertip (Tooltip - Learn - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units.|n|n|cffffcc00Level 1|r - Maximum unit level 2. |n|cffffcc00Level 2|r - Maximum unit level 3. |n|cffffcc00Level 3|r - Maximum unit level 4.
+}
+
+STRING 951
+{
+That should be enough supplies.
+}
+
+STRING 955
+{
+May the Light cleanse what remains of you.
+}
+
+STRING 956
+{
+The streets crawl with zombies. Best not engage.
+}
+
+STRING 957
+{
+Merci, Monseigneur. Nous nous serions fait dévorer !
+}
+
+STRING 958
+{
+Il y a une issue. Vite !
+}
+
+STRING 960
+{
+Qu’est-ce que… Les obélisques ! Détruisez-les avant que Vaillefendre n’absorbe leur magie !
+}
+
+STRING 961
+{
+|cffffcc00SECRET DÉCOUVERT|r
+Arbre exotique.
+}
+
+STRING 962
+{
+Les trahir ? Non… On m’a choisi.
+}
+
+STRING 963
+{
+Les vivants étaient faibles. Les morts sont bien plus… dociles.
+}
+
+STRING 964
+{
+Venez donc… et rejoignez les innombrables âmes qui sont mortes en hurlant à Stratholme.
+}
+
+STRING 965
+{
+Pauvres âmes… Nous ne pouvons rien faire pour elles, si ce n’est leur donner le repos éternel.
+}
+
+STRING 966
+// Units: uzg2 (Tour fantôme), Name (Name)
+{
+Tour fantôme
+}
+
+STRING 967
+// Units: n009 (Laris), Name (Name)
+{
+Laris
+}
+
+STRING 968
+{
+|cff32cd32CONSEIL :|r recherches supplémentaires débloquées à la caserne.
+}
+
+STRING 972
+{
+Garek, wait! There are still people alive in Stratholme.
+}
+
+STRING 973
+{
+Then our soldiers will see them to safety. But we must end this nightmare now.
+}
+
+STRING 974
+{
+Come now. Like lambs to the slaughter...
+}
+
+STRING 975
+// Items: I003 (Rune of Food), Ubertip (Tooltip - Extended)
+{
+Augmente définitivement la limite de nourriture de 2.
+}
+
+STRING 976
+// Doodads: D00E (Fire Pit Trashed (No Pathing)), Name (Name)
+{
+Fire Pit Trashed (No Pathing)
+}
+
+STRING 977
+// Doodads: D00F (Abomination (Flying)), Name (Name)
+{
+Abomination (Flying)
+}
+
+STRING 978
+// Doodads: D00G (Undead Frigate), Name (Name)
+{
+Undead Frigate
+}
+
+STRING 979
+{
+|cffffcc00SECRET DÉCOUVERT|r
+Toutes les caisses !
+}
+
+STRING 980
+{
+75 !
+}
+
+STRING 981
+{
+50 !
+}
+
+STRING 983
+{
+Their bones return to dust where they belong.
+}
+
+STRING 984
+// Units/Undead/Acolyte/AcolytePissed1.flac
+{
+L’heure du Fléau a sonné !
+}
+
+STRING 986
+// Units: h002 (Cadavre aléatoire), Name (Name)
+{
+Cadavre aléatoire
+}
+
+STRING 987
+// Units: h002 (Random Corpse), EditorSuffix (Name - Editor Suffix)
+{
+(Villager)
+}
+
+STRING 988
+// Units: u00I (shutup), Name (Name)
+{
+shutup
+}
+
+STRING 989
+// Units: u00I (shutup), Ubertip (Tooltip - Extended)
+{
+You found me!
+}
+
+STRING 990
+// Units: u00I (shutup), Tip (Tooltip - Basic)
+{
+Oups.
+}
+
+STRING 991
+// Abilities: A01O (Flame Strike), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 992
+// Doodads: D00H (BlackWall), Name (Name)
+{
+BlackWall
+}
+
+STRING 993
+// Destructibles: B007 (Falaises rocheuses (pas de roulement)), Name (Name)
+{
+Falaises rocheuses (pas de roulement)
+}
+
+STRING 994
+// Doodads: D00I (Strahnbrad Tree Leafless), Name (Name)
+{
+Strahnbrad Tree Leafless
+}
+
+STRING 995
+// Doodads: D00J (Water Plane Intense), Name (Name)
+{
+Water Plane Intense
+}
+
+STRING 996
+// Doodads: D00K (BrownWall), Name (Name)
+{
+BrownWall
+}
+
+STRING 997
+// Doodads: D00L (Skull (no pathing)), Name (Name)
+{
+Skull (no pathing)
+}
+
+STRING 999
+// Doodads: D00N (Broken Floor Decals2), Name (Name)
+{
+Broken Floor Decals2
+}
+
+STRING 1000
+// Doodads: D00O (General Decals2), Name (Name)
+{
+General Decals2
+}
+
+STRING 1002
+// Doodads: D00P (Omni Light OnOff), Name (Name)
+{
+Omni Light OnOff
+}
+
+STRING 1003
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T390-SORCERESS.ogg
+{
+The cult has made a dangerous foe!
+}
+
+STRING 1004
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T340-RIFLEMAN.ogg
+{
+Je vous couvre !
+}
+
+STRING 1005
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T330-PRIEST.ogg
+{
+Evil shall not prevail!
+}
+
+STRING 1006
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T370-MORTARTEAM.ogg
+{
+Ready to burn some scourge!
+}
+
+STRING 1010
+{
+Ensorceleuse
+}
+
+STRING 1012
+{
+Prêtre
+}
+
+STRING 1013
+{
+|cff8080ff25/100|r
+}
+
+STRING 1014
+{
+|cff8080ff50/100|r
+}
+
+STRING 1015
+{
+|cff8080ff75/100|r
+}
+
+STRING 1016
+// Items: I004 (Butins du navire), Name (Name)
+{
+Butins du navire
+}
+
+STRING 1017
+{
+TRIGSTR_399 (Male 2)
+}
+
+STRING 1018
+{
+Ensorceleuse
+}
+
+STRING 1019
+{
+Prêtre
+}
+
+STRING 1020
+{
+Fusilier
+}
+
+STRING 1021
+{
+Mortiers
+}
+
+STRING 1022
+// Doodads: D00M (Volumetric Fog-blue), Name (Name)
+{
+Volumetric Fog-blue
+}
+
+STRING 1023
+// Doodads: D00Q (Volumetric Fog-Green), Name (Name)
+{
+Volumetric Fog-Green
+}
+
+STRING 1030
+{
+["Surprised" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Regardez ce qu’Arthas a laissé derrière lui. Combien de villes va-t-il encore brûler ? Combien de vies va-t-il encore faucher ?[/"Surprised"]
+}
+
+STRING 1031
+{
+Ilastar
+}
+
+STRING 1033
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]C’est Vaillefendre qui a tout déclenché. Nous allons en finir avec lui, ici et maintenant.[/"Angry"]
+}
+
+STRING 1034
+{
+Garek
+}
+
+STRING 1036
+{
+En effet. La ville sera bien fortifiée, mais je peux m’y introduire par la poterne afin de lever la herse.
+}
+
+STRING 1037
+{
+Ilastar
+}
+
+STRING 1039
+{
+A sound plan. Stay safe until we can regroup with you.
+}
+
+STRING 1040
+{
+Garek
+}
+
+STRING 1042
+{
+Vous aussi, Garek. Que la Lumière guide votre lame.
+}
+
+STRING 1043
+{
+Ilastar
+}
+
+STRING 1046
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Vaillefendre ! Vous paierez vos crimes de votre vie ![/"Angry"]
+}
+
+STRING 1047
+{
+Garek
+}
+
+STRING 1052
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Vous n’avez aucun droit de salir son nom ! Mourez comme la vermine que vous êtes ! Pour Landen ![/"Angry"]
+}
+
+STRING 1053
+{
+Garek
+}
+
+STRING 1054
+{
+["Happy" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ha ! Que savez-vous de la vie et de la mort ?[/"Happy"]
+}
+
+STRING 1055
+{
+Baron Vaillefendre
+}
+
+STRING 1056
+{
+J’ai été témoin de son véritable pouvoir, et j’en ai même usé ! Le roi-liche m’a élevé au-dessus des pauvres vermisseaux comme vous !
+}
+
+STRING 1057
+{
+Baron Vaillefendre
+}
+
+STRING 1058
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Et je vais à présent vous arracher des cris aussi pathétiques que ceux de votre capitaine ![/"Angry"]
+}
+
+STRING 1059
+{
+Baron Vaillefendre
+}
+
+
+STRING 1104
+{
+Garek
+}
+
+STRING 1129
+{
+Chevalier
+}
+
+STRING 1140
+{
+Fantassin
+}
+
+STRING 1143
+{
+Prêtre
+}
+
+STRING 1145
+{
+Fusilier
+}
+
+STRING 1147
+{
+Mortiers
+}
+
+STRING 1176
+{
+Garek
+}
+
+STRING 1177
+{
+Ilastar
+}
+
+STRING 1178
+{
+Garek
+}
+
+STRING 1181
+{
+Garek
+}
+
+STRING 1182
+{
+Garek
+}
+
+STRING 1183
+{
+Garek
+}
+
+STRING 1184
+{
+Garek
+}
+
+STRING 1185
+{
+Ilastar
+}
+
+STRING 1186
+{
+Garek
+}
+
+STRING 1187
+{
+Garek
+}
+
+STRING 1188
+{
+Ilastar
+}
+
+STRING 1189
+{
+Garek
+}
+
+STRING 1190
+{
+Ilastar
+}
+
+STRING 1191
+{
+Garek
+}
+
+STRING 1208
+{
+Garek
+}
+
+STRING 1209
+{
+Garek
+}
+
+STRING 1211
+{
+Ilastar
+}
+
+STRING 1212
+{
+Ilastar
+}
+
+STRING 1213
+{
+Garek
+}
+
+STRING 1214
+{
+Ilastar
+}
+
+STRING 1215
+{
+Garek
+}
+
+STRING 1217
+{
+Mortiers
+}
+
+STRING 1234
+{
+Garek
+}
+
+STRING 1236
+{
+Garek
+}
+
+STRING 1240
+{
+Fusilier
+}
+
+STRING 1250
+{
+Ilastar
+}
+
+STRING 1252
+{
+Ilastar
+}
+
+STRING 1258
+{
+Fantassin
+}
+
+STRING 1260
+{
+Ensorceleuse
+}
+
+STRING 1266
+{
+Ras Murmegivre
+}
+
+STRING 1270
+{
+Ras Murmegivre
+}
+
+STRING 1296
+{
+Baron Vaillefendre
+}
+
+STRING 1298
+{
+Grimthane
+}
+
+STRING 1304
+{
+Garek
+}
+
+STRING 1306
+{
+Lorthiras
+}
+
+STRING 1308
+{
+Lorthiras
+}
+
+STRING 1330
+{
+Ilastar
+}
+
+STRING 1336
+{
+Garek
+}
+
+STRING 1341
+{
+Ilastar
+}
+
+STRING 1345
+{
+Unité factice
+}
+
+STRING 1346
+{
+Traque
+}
+
+STRING 1347
+{
+Traque
+}
+
+STRING 1349
+{
+Bonus d’armure
+}
+
+STRING 1350
+{
+Bonus à la vitesse d’attaque
+}
+
+STRING 1367
+{
+Nécromancien
+}
+
+STRING 1369
+{
+Titan squelette
+}
+
+STRING 1382
+{
+Ras Murmegivre
+}
+
+STRING 1389
+{
+Ilastar
+}
+
+STRING 1391
+{
+Baron Vaillefendre
+}
+
+STRING 1393
+{
+Baron Vaillefendre
+}
+
+STRING 1395
+{
+Baron Vaillefendre
+}
+
+STRING 1397
+{
+Baron Vaillefendre
+}
+
+STRING 1399
+{
+Garek
+}
+
+STRING 1400
+{
+Silence.
+}
+
+STRING 1408
+{
+Avez-vous à ce point hâte que je vous remplace ?
+}
+
+STRING 1410
+{
+Bien sûr. J’aimerais pouvoir enfin me retirer.
+}
+
+STRING 1418
+{
+Ras Murmegivre
+}
+
+STRING 1431
+{
+Ras Murmegivre
+}
+
+STRING 1449
+{
+Ras Murmegivre
+}
+
+STRING 1142
+{
+Je viens purifier ces terres.
+}
+
+STRING 1144
+{
+Paré à tirer !
+}
+
+STRING 1257
+{
+Aux armes !
+}
+
+STRING 1259
+{
+La victoire nous appartient !
+}
+
+STRING 1295
+{
+Vous me servirez tous !
+}
+
+STRING 1451
+{
+Garek
+}
+
+STRING 1452
+{
+Citoyen
+}
+
+STRING 1453
+{
+Citoyen
+}
+
+STRING 1454
+{
+Citoyen
+}
+
+STRING 1455
+{
+Garek
+}
+
+STRING 1456
+{
+Citoyen
+}
+
+STRING 1457
+{
+Citoyen
+}
+
+STRING 1458
+{
+Garek
+}
+
+STRING 1459
+{
+Fantassin
+}
+
+STRING 1460
+{
+Baron Vaillefendre
+}
+
+STRING 1461
+{
+Garek
+}
+
+STRING 1462
+{
+Ilastar
+}
+
+STRING 1463
+{
+Baron Vaillefendre
+}
+
+STRING 1464
+{
+Garek
+}
+
+STRING 1465
+{
+Ilastar
+}
+
+STRING 1466
+{
+Garek
+}
+
+STRING 1470
+{
+Ilastar
+}
+
+STRING 1478
+{
+Pour Lordaeron !
+}
+
+STRING 1484
+{
+Je ne… peux pas…
+}
+
+STRING 1348
+{
+L’unité est pourchassée. Ses vitesses de déplacement et d’attaque sont temporairement réduites.
+}
+
+STRING 1354
+{
+Marche illusoire de |cffffcc00niveau 1|r]
+}
+
+STRING 1355
+{
+Marche illusoire de |cffffcc00niveau 2|r]
+}
+
+STRING 1356
+{
+Marche illusoire de |cffffcc00niveau 3|r]
+}
+
+STRING 1357
+{
+L’unité héroïque devient invisible et produit une illusion qui désoriente ses adversaires.
+}
+
+STRING 1358
+{
+L’unité héroïque devient invisible et produit une illusion qui désoriente ses adversaires.
+}
+
+STRING 1359
+{
+L’unité héroïque devient invisible et produit une illusion qui désoriente ses adversaires.
+}
+
+STRING 1360
+{
+Pestilence de la non-mort
+}
+
+STRING 1361
+{
+Pestilence de la non-mort
+}
+
+STRING 1362
+{
+Les unités ennemies proches seront frappées par la pestilence.
+}
+
+STRING 1363
+{
+|cffff0000Contamination|r
+}
+
+STRING 1364
+{
+Cette unité est condamnée. Tout espoir est perdu pour elle.
+}
+
+STRING 1365
+{
+Arbre champignon (leurre)
+}
+
+STRING 1366
+{
+|cff32cd32CONSEIL :|r la technique Miséricorde de la Lumière d’Ilastar peut détruire les champignons de peste.
+}
+
+STRING 1390
+{
+Par la Lumière… Que justice… soit faite…
+}
+
+STRING 1392
+{
+Que… croyez-vous… avoir accompli ?
+}
+
+STRING 1394
+{
+La mort n’est pas la fin. Oh, non… elle n’est que le commencement.
+}
+
+STRING 1396
+{
+Ma loyauté sera récompensée. Je reviendrai plus puissant que jamais.
+}
+
+STRING 1398
+{
+Contrairement à vous. Vous ne serez guère que de la chair à canon. Un cadavre ambulant, comme votre cap…
+}
+
+STRING 1401
+{
+Souvenirs d’Uther
+}
+
+STRING 1402
+{
+La Lumière nous appelle à protéger les êtres qui sont encore en vie.
+}
+
+STRING 1405
+{
+Souvenirs d’Ilastar
+}
+
+STRING 1406
+{
+La Lumière exige aussi un châtiment.
+}
+
+STRING 1407
+{
+Souvenirs de Garek
+}
+
+STRING 1409
+{
+Souvenirs de Landen
+}
+
+STRING 1411
+{
+Souvenirs de Garek
+}
+
+STRING 1412
+{
+Je veux sentir l’adrénaline du combat et récolter la gloire de la victoire.
+}
+
+STRING 1413
+{
+Souvenirs de Landen
+}
+
+STRING 1414
+{
+La vraie victoire, c’est la survie. Et la paix n’a pas de prix.
+}
+
+STRING 1415
+{
+Souvenirs de Landen
+}
+
+STRING 1416
+{
+N’oubliez jamais ça.
+}
+
+STRING 1103
+{
+Excellente idée. Soyez prudent le temps que nous vous rejoignions.
+}
+
+STRING 1107
+{
+Concentrez-vous sur la crypte, avant qu’elle ne nous achève tous !
+}
+
+STRING 1109
+{
+Je ne peux pas les affronter seul. Les mortiers de Garek peuvent frapper de loin.
+}
+
+STRING 1113
+{
+La porte est toujours fermée. Il doit y avoir un second levier.
+}
+
+STRING 1117
+{
+Les voilà ! Préparez-vous au combat !
+}
+
+STRING 1119
+{
+La porte est fermée. Il nous faut la clé.
+}
+
+STRING 1121
+{
+La route de la place des Croisés est ouverte. Vaillefendre ne pourra pas se cacher éternellement.
+}
+
+STRING 1122
+{
+Stratholme était l’une des grandes cités de Lordaeron, avant que Vaillefendre ne la sacrifie aux Morts-vivants !
+}
+
+STRING 1124
+{
+Il est loin d’être le seul à avoir vendu son âme au Fléau. Ils brûleront tous dans les flammes sacrées.
+}
+
+STRING 1125
+{
+Nos forces sont divisées. Nous devons trouver le levier qui ouvre la porte.
+}
+
+STRING 1126
+{
+Regroupons-nous et avançons.
+}
+
+STRING 1128
+{
+D’autres survivants ! Tenez vos positions !
+}
+
+STRING 1130
+{
+Voici la tour maudite où Vaillefendre fomente ses plans diaboliques.
+}
+
+STRING 1131
+{
+Je me ferai un plaisir de le jeter dans le vide.
+}
+
+STRING 1132
+{
+Garek, il reste peut-être des survivants en ville.
+}
+
+STRING 1134
+{
+Nos soldats peuvent chercher les civils qui ont besoin d’aide.
+}
+
+STRING 1136
+{
+Retrouvons-nous à Âtreval quand nous aurons terminé. Pour l’instant, faisons payer ses méfaits à Vaillefendre.
+}
+
+STRING 1139
+{
+Ce n’est qu’une égratignure…
+}
+
+STRING 1146
+{
+Que la fête commence !
+}
+
+STRING 1153
+{
+Oubliez-le. Notre véritable cible, c’est Vaillefendre.
+}
+
+STRING 1163
+{
+Par la Lumière ! Les spores de ces champignons propagent la peste. Ne les laissez pas pousser !
+}
+
+STRING 1164
+{
+Ensevelissons ces vils spores sous les cendres de cette cité délabrée.
+}
+
+STRING 1165
+{
+Certains ont tenté de fuir Stratholme par la mer. Le Culte a dû couler leurs navires.
+}
+
+STRING 1166
+{
+Leurs ressources seraient utiles à l’effort de guerre. Nous devrions les récupérer.
+}
+
+STRING 1167
+{
+Nous devrions avoir suffisamment de ressources. Retournons sur la terre ferme.
+}
+
+STRING 1233
+{
+Des caisses de grain contaminé par la peste. Voilà comment Vaillefendre 
+a condamné son peuple.
+}
+
+STRING 1235
+{
+La porte est fermée. Pour l’ouvrir, nous avons besoin d’Ilastar.
+}
+
+STRING 1340
+{
+La voie est ouverte. Je vais rester par ici et partir en éclaireur.
+}
+
+STRING 1216
+{
+Vous êtes… en vie ? La Lumière soit louée ! Voilà des semaines que nous sommes cernés par le Fléau !
+}
+
+STRING 1329
+{
+La chapelle d’Alonsus. Quels sacrilèges le Culte y a-t-il commis ?
+}
+
+STRING 1239
+{
+Des renforts ! Je vous avais bien dit qu’il fallait encore attendre !
+}
+
+STRING 1249
+{
+La porte est toujours fermée. Il doit y avoir un autre levier.
+}
+
+STRING 1335
+{
+Les portes sont ouvertes ! Murmegivre va tâter de notre acier !
+}
+
+STRING 1251
+{
+Les rues sont infestées de Morts-vivants. Mieux vaut les éviter si possible.
+}
+
+STRING 1265
+{
+Vous en voulez encore ? Cette fois, je vais vous écorcher vif !
+}
+
+STRING 1269
+{
+Je ne suis pas si facile à occire, mortels. Nous nous reverrons.
+}
+
+STRING 1305
+{
+Votre souffrance sera… exquise.
+}
+
+STRING 1307
+{
+Ce n’est pas fini, misérables mortels.
+}
+
+STRING 1297
+{
+Vos ossements serviront le Fléau.
+}
+
+STRING 1303
+{
+Vos os peuvent rejoindre les autres.
+}
+
+STRING 1381
+{
+Mon talent et mon ambition ont été rejetés par les mages du Kirin Tor, ces pleutres. Mais le roi-liche saura les récompenser !
+}
+
+STRING 1417
+{
+Je renonce désormais à cette chair et à ce sang maudits, et j’embrasse l’immortalité des Morts-vivants !
+}
+
+STRING 1430
+{
+Contemplez ma nouvelle forme et ma puissance perfectionnées !
+}
+
+STRING 1448
+{
+Leonid ! Dites-à mes disciples de faire comme bon leur semble. Une destinée supérieure m’attend !
+}
+
+STRING 1487
+{
+Vengeance
+}
+
+STRING 1488
+{
+Chapitre IV : Vengeance
+}
+
+STRING 1467
+{
+Ilastar, comment allez-vous ?
+}
+
+STRING 1469
+{
+Je m’en sors. Je vais vous soigner comme je peux depuis ce promontoire.
+}
+
+STRING 1471
+{
+Vous m’avez sauvé la vie ! Je dois partir d’ici !
+}
+
+STRING 1472
+{
+Merci infiniment ! J’ai bien cru que j’allais mourir, ou pire !
+}
+
+STRING 1473
+{
+Est-ce possible ? En est-ce fini de ce cauchemar ? Je vous remercie de tout cœur !
+}
+
+STRING 1474
+{
+C’était un démon ! Des ailes, des cornes et des pieds fourchus !
+}
+
+STRING 1475
+{
+Nous sommes piégés ! Aidez-nous, par pitié !
+}
+
+STRING 1476
+{
+Mort à Lordaeron !
+}
+
+STRING 1477
+{
+Tel est le destin de tous les sectateurs.
+}
+
+STRING 1479
+{
+Les troupes du Fléau sont infinies ! Vous finirez noyés dans votre propre sang !
+}
+
+STRING 1480
+{
+Qu’est… ce que c’est ? C’est dans mes poumons…
+}
+
+STRING 1481
+{
+Des spores de pestilence… Nous… nous sommes infectés…
+}
+
+STRING 1482
+{
+Vermines importunes ! Voyez ce qu’est la véritable puissance !
+}
+
+STRING 1483
+{
+Ilastar, les obélisques ! Détruisez-les !
+}
+
+STRING 1485
+{
+Tenez bon, Ilastar !
+}
+
+STRING 1489
+{
+Détruire les champignons de peste géants (1 sur 3)
+}
+
+STRING 1491
+{
+Détruire les champignons de peste géants (2 sur 3)
+}
+
+STRING 1494
+{
+Lueur héroïque
+}
+
+STRING 1495
+{
+Aide à la visibilité
+}
+
+STRING 1497
+{
+Unité factice
+}
+
+STRING 1500
+{
+Gel
+}
+
+STRING 1499
+{
+Étourdissement et Gel de Ras Murmegivre
+}
+
+STRING 1501
+{
+Étourdissement et Gel de Ras Murmegivre
+}

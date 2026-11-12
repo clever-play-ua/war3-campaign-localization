@@ -1,0 +1,1430 @@
+{
+  "map": "UndeadRE03b",
+  "title": "Naxxramas",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3M2-C010-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "伊拉斯特",
+      "text": "加瑞克，你真令我失望。或許要是我敞開你的記憶…",
+      "string_id": 1495,
+      "speaker_string_id": 1496,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-010-ILASTAR.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3M2-C010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "加瑞克",
+      "text": "不！滾出…我的腦海…",
+      "string_id": 1506,
+      "speaker_string_id": 1507,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-060-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3M2-C010-080-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "伊拉斯特",
+      "text": "這是怎麼回事？你竟然在納克薩瑪斯各處設置了炸彈？",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]這是怎麼回事？你竟然在納克薩瑪斯各處設置了炸彈？[/\"Squint\"]",
+      "string_id": 1515,
+      "speaker_string_id": 1516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-080-ILASTAR.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3M2-C010-090-ANYA",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "安雅",
+      "text": "快住手！你在做什麼？！",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]快住手！你在做什麼？！[/\"Surprised\"]",
+      "string_id": 1524,
+      "speaker_string_id": 1525,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-090-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3M2-C010-100-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "伊拉斯特",
+      "text": "粉碎你們所剩無幾的獲勝希望。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]粉碎你們所剩無幾的獲勝希望。[/\"Angry\"]",
+      "string_id": 1533,
+      "speaker_string_id": 1534,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-100-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A3M2-C010-110-LEONID",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "萊尼德",
+      "text": "不！你這混帳！",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]不！你這混帳！[/\"Angry\"]",
+      "string_id": 1542,
+      "speaker_string_id": 1543,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-110-LEONID.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A3M2-C010-140-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "伊拉斯特",
+      "text": "看來你們三個太頑固了，不願服侍巫妖王。真是不幸。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]看來你們三個太頑固了，不願服侍巫妖王。真是不幸。[/\"Squint\"]",
+      "string_id": 1551,
+      "speaker_string_id": 1552,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-140-ILASTAR.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A3M2-C010-150-ILASTAR",
+      "scene": "Initialization.Dialogue Reference C010",
+      "speaker": "伊拉斯特",
+      "text": "加瑞克，殺了他們，然後自殺吧。",
+      "string_id": 1560,
+      "speaker_string_id": 1561,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C010-150-ILASTAR.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A3M2-C020-010-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "科爾蘇加德",
+      "text": "我們的不速之客終於決定要問候我了。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我們的不速之客終於決定要問候我了。[/\"Squint\"]",
+      "string_id": 1582,
+      "speaker_string_id": 1583,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-010-KELTHUZAD.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A3M2-C020-020-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "科爾蘇加德",
+      "text": "不幸的是，你們來得很不是時候。我目前正忙著…",
+      "string_id": 1585,
+      "speaker_string_id": 1586,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-020-KELTHUZAD.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A3M2-C020-030-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "科爾蘇加德",
+      "text": "殲滅幽暗城。",
+      "string_id": 1625,
+      "speaker_string_id": 1626,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-030-KELTHUZAD.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A3M2-C020-040-LEONID",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "萊尼德",
+      "text": "科爾蘇加德！你必須為你對羅德隆犯下的罪行付出代價！",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]科爾蘇加德！你必須為你對羅德隆犯下的罪行付出代價！[/\"Angry\"]",
+      "string_id": 1633,
+      "speaker_string_id": 1634,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-040-LEONID.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A3M2-C020-050-ANYA",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "安雅",
+      "text": "還有奎爾薩拉斯的殞落！",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]還有奎爾薩拉斯的殞落！[/\"Angry\"]",
+      "string_id": 1621,
+      "speaker_string_id": 1622,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-050-ANYA.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A3M2-C020-060-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "科爾蘇加德",
+      "text": "真奇特。不過像你們這樣的烏合之眾與我無關。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]真奇特。不過像你們這樣的烏合之眾與我無關。[/\"Squint\"]",
+      "string_id": 3000,
+      "speaker_string_id": 2999,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-060-KELTHUZAD.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A3M2-C020-070-KELTHUZAD",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "科爾蘇加德",
+      "text": "瑞文戴爾！別閒著，去把這些害蟲處理掉。",
+      "string_id": 1611,
+      "speaker_string_id": 1612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-070-KELTHUZAD.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A3M2-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "加瑞克",
+      "text": "瑞文戴爾男爵…",
+      "string_id": 1662,
+      "speaker_string_id": 1663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A3M2-C020-090-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "瑞文戴爾男爵",
+      "text": "原來是你啊…那個膽敢在斯坦索姆咬我的小小鼠輩。還真是個驚喜。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]原來是你啊…那個膽敢在斯坦索姆咬我的小小鼠輩。還真是個驚喜。[/\"Angry\"]",
+      "string_id": 1664,
+      "speaker_string_id": 1665,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-090-RIVENDARE.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A3M2-C020-100-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "瑞文戴爾男爵",
+      "text": "這下我能了結自己展開的恩怨了。",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]這下我能了結自己展開的恩怨了。[/\"Happy\"]",
+      "string_id": 1673,
+      "speaker_string_id": 1674,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-100-RIVENDARE.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A3M2-C020-110-GAREK",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "加瑞克",
+      "text": "那場恩怨早就結束了。我這次不是要來報仇的。",
+      "string_id": 1685,
+      "speaker_string_id": 1686,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-110-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A3M2-C020-120-GAREK",
+      "scene": "Initialization.Dialogue Reference C020",
+      "speaker": "加瑞克",
+      "text": "我是來保護被遺忘者的。",
+      "string_id": 1694,
+      "speaker_string_id": 1695,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C020-120-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A3M2-C030-010-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "安雅",
+      "text": "現在該怎麼辦？沒了炸彈，我們要怎麼在水晶再次發射之前摧毀它？",
+      "string_id": 1705,
+      "speaker_string_id": 1706,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-010-ANYA.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A3M2-C030-020-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "我們還有…別的東西…有足夠的力量可以摧毀這裡。",
+      "string_id": 1934,
+      "speaker_string_id": 1935,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-020-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A3M2-C030-025-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "聖光。",
+      "string_id": 1950,
+      "speaker_string_id": 1951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-025-GAREK.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A3M2-C030-030-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "安雅",
+      "text": "不，你不能犧牲自己燃燒神聖火焰。",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]不，你不能犧牲自己燃燒神聖火焰。[/\"Surprised\"]",
+      "string_id": 1932,
+      "speaker_string_id": 1933,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-030-ANYA.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A3M2-C030-040-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "安雅，沒別的辦法了。聖光召喚我們…去保護那些活著的人…即使是被遺忘者也一樣。",
+      "string_id": 1920,
+      "speaker_string_id": 1921,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-040-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A3M2-C030-050-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "我們都…失去過自己人生中曾擁有的事物…在成為不死族後建立起全新的事物。我會不惜任何代價…保護這一切。",
+      "string_id": 1912,
+      "speaker_string_id": 1913,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A3M2-C030-060-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "這並非因為聖光驅使…而是為了…被遺忘者。",
+      "string_id": 1906,
+      "speaker_string_id": 1907,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-060-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A3M2-C030-070-LEONID",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "萊尼德",
+      "text": "我一生中認識了許多聖騎士，但當中的英雄並不多。加瑞克，我永遠都會記得並尊敬你的。",
+      "string_id": 1892,
+      "speaker_string_id": 1893,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-070-LEONID.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A3M2-C030-080-LEONID",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "萊尼德",
+      "text": "朋友，願聖光與你同在。",
+      "string_id": 1886,
+      "speaker_string_id": 1887,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-080-LEONID.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A3M2-C030-090-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "安雅",
+      "text": "我真該叫普崔司把你當零件用的。",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我真該叫普崔司把你當零件用的。[/\"Sad\"]",
+      "string_id": 1876,
+      "speaker_string_id": 1877,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-090-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A3M2-C030-100-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "安雅，看守好幽暗城。我不會是…最後一個…需要引導的甦醒之人。",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]安雅，看守好幽暗城。我不會是…最後一個…需要引導的甦醒之人。[/\"Happy\"]",
+      "string_id": 1866,
+      "speaker_string_id": 1867,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-100-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A3M2-C030-110-ANYA",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "安雅",
+      "text": "不，你不會是最後一個。多虧了你，被遺忘者會活下來的。",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]不，你不會是最後一個。多虧了你，被遺忘者會活下來的。[/\"Sad\"]",
+      "string_id": 1856,
+      "speaker_string_id": 1857,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-110-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A3M2-C030-120-GAREK",
+      "scene": "Initialization.Dialogue Reference C030",
+      "speaker": "加瑞克",
+      "text": "那就是真正的勝利。永遠不要忘記這一點。",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]那就是真正的勝利。永遠不要忘記這一點。[/\"Happy\"]",
+      "string_id": 1844,
+      "speaker_string_id": 1845,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-C030-120-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A3M2-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "加瑞克",
+      "text": "記得照計畫來。我們迅速出擊，設置好炸彈，然後回到天空接駁船上引爆它們。",
+      "string_id": 1358,
+      "speaker_string_id": 1359,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A3M2-M010-020-LEONID",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "萊尼德",
+      "text": "準備好面對頑強抵抗。這些廳堂中充滿天譴軍團的精英部隊。",
+      "string_id": 1367,
+      "speaker_string_id": 1368,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-020-LEONID.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A3M2-M010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "安雅",
+      "text": "那麼被遺忘者派遣精英隊伍來，恰好能完成這任務。",
+      "string_id": 1376,
+      "speaker_string_id": 1377,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-030-ANYA.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A3M2-M010-040-ANYA",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "安雅",
+      "text": "還有…銀色黎明也來了。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]還有…銀色黎明也來了。[/\"Squint\"]",
+      "string_id": 1385,
+      "speaker_string_id": 1386,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-040-ANYA.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A3M2-M010-050-LEONID",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "萊尼德",
+      "text": "我會盡全力證明自己值得與你們並肩作戰。",
+      "string_id": 1394,
+      "speaker_string_id": 1395,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-050-LEONID.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A3M2-M010-060-GAREK",
+      "scene": "Initialization.Dialogue Reference M010",
+      "speaker": "加瑞克",
+      "text": "萊尼德，你已經證明你自己了。我們馬上行動吧。",
+      "string_id": 1403,
+      "speaker_string_id": 1404,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M010-060-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A3M2-M020-010-GAREK",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "加瑞克",
+      "text": "無論這地方是做什麼的，這裡的防備格外森嚴。設置最後一個炸藥吧。",
+      "string_id": 1412,
+      "speaker_string_id": 1413,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-010-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A3M2-M020-020-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "伊拉斯特",
+      "text": "我沒聽錯吧？那是加瑞克‧班達倫嗎？",
+      "string_id": 1421,
+      "speaker_string_id": 1422,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-020-ILASTAR.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A3M2-M020-030-GAREK",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "加瑞克",
+      "text": "你是誰？你怎麼會知道我的名字？",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你是誰？你怎麼會知道我的名字？[/\"Surprised\"]",
+      "string_id": 1430,
+      "speaker_string_id": 1431,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A3M2-M020-040-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "伊拉斯特",
+      "text": "你不記得我了嗎？",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]你不記得我了嗎？[/\"Happy\"]",
+      "string_id": 1439,
+      "speaker_string_id": 1440,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-040-ILASTAR.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A3M2-M020-045-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "伊拉斯特",
+      "text": "我是伊拉斯特‧風歌，而你給予了我最偉大的贈禮：我的殞落。",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]我是伊拉斯特‧風歌，而你給予了我最偉大的贈禮：我的殞落。[/\"Happy\"]",
+      "string_id": 1448,
+      "speaker_string_id": 1449,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-045-ILASTAR.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A3M2-M020-050-GAREK",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "伊拉斯特",
+      "text": "伊拉斯特？你…你到底在說什麼？",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]伊拉斯特？你…你到底在說什麼？[/\"Surprised\"]",
+      "string_id": 1457,
+      "speaker_string_id": 1458,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A3M2-M020-060-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "伊拉斯特",
+      "text": "多虧你，我被重新改造成不死族。我是傳承巫妖王意志的工具！而現在，你們也都將共享同樣的殊榮。",
+      "string_id": 1466,
+      "speaker_string_id": 1467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-060-ILASTAR.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A3M2-M020-070-ANYA",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "安雅",
+      "text": "我會很享受用箭射穿你喉嚨的。",
+      "string_id": 1477,
+      "speaker_string_id": 1478,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-070-ANYA.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A3M2-M020-080-ILASTAR",
+      "scene": "Initialization.Dialogue Reference M020",
+      "speaker": "伊拉斯特",
+      "text": "加瑞克，你現在的夥伴還真糟糕。無所謂。既然你們拒絕服從，那就只能屈服了。",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]加瑞克，你現在的夥伴還真糟糕。無所謂。既然你們拒絕服從，那就只能屈服了。[/\"Happy\"]",
+      "string_id": 1486,
+      "speaker_string_id": 1487,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-M020-080-ILASTAR.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A3M2-T010-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach AlwaysSpiders Q",
+      "speaker": "加瑞克",
+      "text": "每次都是蜘蛛來搗亂欸？",
+      "string_id": 2108,
+      "speaker_string_id": 2928,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T010-GAREK.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A3M2-T020-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach AlwaysSpiders Q",
+      "speaker": "萊尼德",
+      "text": "我們很快就不用擔心這些生物了。",
+      "string_id": 2113,
+      "speaker_string_id": 2114,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T020-LEONID.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A3M2-T030-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach Gate Q NOT USED",
+      "speaker": "安雅",
+      "text": "這些大門當中，似乎有些只能從單側開啟。我們得想辦法繞過去。",
+      "string_id": 2925,
+      "speaker_string_id": 2142,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T030-ANYA.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A3M2-T040-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach KillNerubian Q",
+      "speaker": "加瑞克",
+      "text": "在那奈幽把我們困在網中之前殺死牠！",
+      "string_id": 2927,
+      "speaker_string_id": 2150,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T040-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A3M2-T050-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach FirstExplosive Q",
+      "speaker": "萊尼德",
+      "text": "我們應該把第一個炸藥放在這。清理這個區域！",
+      "string_id": 2945,
+      "speaker_string_id": 2160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T050-LEONID.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A3M2-T060-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CryptLord Start Q",
+      "speaker": "安雅",
+      "text": "有埋伏！大家小心！",
+      "string_id": 2141,
+      "speaker_string_id": 2171,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T060-ANYA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A3M2-T070-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CryptLord End Q",
+      "speaker": "加瑞克",
+      "text": "我們守住這個區域了！把炸藥放好向前推進吧！",
+      "string_id": 2149,
+      "speaker_string_id": 2200,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T070-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A3M2-T080-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons MeatWagonAttack Q",
+      "speaker": "萊尼德",
+      "text": "亡城這一側是他們組裝血肉魔像和其他憎惡怪的地方。",
+      "string_id": 2159,
+      "speaker_string_id": 2224,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T080-LEONID.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A3M2-T090-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons MeatWagonAttack Q",
+      "speaker": "安雅",
+      "text": "那我們該在殺出重圍的同時拆了他們。",
+      "string_id": 2170,
+      "speaker_string_id": 2250,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A3M2-T100-DEATHGUARD",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisonerApproach Q",
+      "speaker": "亡靈守衛",
+      "text": "班達倫隊長，是你嗎？！救命！",
+      "string_id": 2180,
+      "speaker_string_id": 2181,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T100-DEATHGUARD.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A3M2-T110-DEATHGUARD",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "亡靈守衛",
+      "text": "長官，謝謝你！天譴軍團把我們和其他幾個人從底下的戰場抓來這裡囚禁。",
+      "string_id": 2188,
+      "speaker_string_id": 2189,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T110-DEATHGUARD.ogg"
+    },
+    {
+      "n": 60,
+      "id": "ForsakenDeathguard_Attack2",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "亡靈守衛",
+      "text": "我們的敵人注定失敗！",
+      "string_id": 3032,
+      "speaker_string_id": 3031,
+      "sound": "Units/Undead/ForsakenDeathguard/ForsakenDeathguard_Attack2.ogg"
+    },
+    {
+      "n": 61,
+      "id": "ForsakenDeathguard_Ready1",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "亡靈守衛",
+      "text": "戰鬥吧！",
+      "string_id": 3033,
+      "speaker_string_id": 3034,
+      "sound": "Units/Undead/ForsakenDeathguard/ForsakenDeathguard_Ready1.ogg"
+    },
+    {
+      "n": 62,
+      "id": "ForsakenDeathguard_Warcry1",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "亡靈守衛",
+      "text": "為希瓦娜斯拿下勝利！",
+      "string_id": 3035,
+      "speaker_string_id": 3036,
+      "sound": "Units/Undead/ForsakenDeathguard/ForsakenDeathguard_Warcry1.ogg"
+    },
+    {
+      "n": 63,
+      "id": "A3M2-T120-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CagedPrisoner Q",
+      "speaker": "加瑞克",
+      "text": "我們會把他們找出來，釋放他們的。亡靈守衛，跟我們走！",
+      "string_id": 2199,
+      "speaker_string_id": 2325,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T120-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "A3M2-T130-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons GateNotFromHere Q",
+      "speaker": "萊尼德",
+      "text": "我記得這座大門。開啟大門的開關應該就在附近。",
+      "string_id": 2881,
+      "speaker_string_id": 2317,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T130-LEONID.ogg"
+    },
+    {
+      "n": 65,
+      "id": "A3M2-T140-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons MassArmy GateOpen Q",
+      "speaker": "萊尼德",
+      "text": "這樣應該就打開大門了。而且看來我們有伴了。",
+      "string_id": 2223,
+      "speaker_string_id": 2336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T140-LEONID.ogg"
+    },
+    {
+      "n": 66,
+      "id": "A3M2-T150-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "加瑞克",
+      "text": "這座亡城的主人，科爾蘇加德…他是誰？",
+      "string_id": 2466,
+      "speaker_string_id": 2368,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T150-GAREK.ogg"
+    },
+    {
+      "n": 67,
+      "id": "A3M2-T160-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "萊尼德",
+      "text": "他曾是在羅德隆各地散播不死瘟疫的死靈法師。阿薩斯王子殺了他，但之後又讓他復活成為巫妖。",
+      "string_id": 2991,
+      "speaker_string_id": 2436,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T160-LEONID.ogg"
+    },
+    {
+      "n": 68,
+      "id": "A3M2-T170-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "安雅",
+      "text": "為此，他屠殺我的人民並腐化了太陽之井。為了讓科爾蘇加德重生，我們的王國因此滅亡。",
+      "string_id": 2249,
+      "speaker_string_id": 2261,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T170-ANYA.ogg"
+    },
+    {
+      "n": 69,
+      "id": "A3M2-T180-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons WhoIsKelThuzad Q",
+      "speaker": "安雅",
+      "text": "我絕不會讓幽暗城也就此殞落。我生前讓我的人民失望了。我會盡我的一切努力保護被遺忘者。",
+      "string_id": 2260,
+      "speaker_string_id": 2282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T180-ANYA.ogg"
+    },
+    {
+      "n": 70,
+      "id": "A3M2-T190-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CorpseTitan See Q",
+      "speaker": "萊尼德",
+      "text": "這是我們放置下一個炸藥的地方。",
+      "string_id": 2287,
+      "speaker_string_id": 2288,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T190-LEONID.ogg"
+    },
+    {
+      "n": 71,
+      "id": "A3M2-T200-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cons CorpseTitan See Q",
+      "speaker": "安雅",
+      "text": "那就來對付那個怪物並趕緊行動吧。",
+      "string_id": 2281,
+      "speaker_string_id": 2305,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T200-ANYA.ogg"
+    },
+    {
+      "n": 72,
+      "id": "A3M2-T210-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CorpseTitan End Q",
+      "speaker": "加瑞克",
+      "text": "剛才那怪物真大。大家都沒事吧？",
+      "string_id": 2295,
+      "speaker_string_id": 2296,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T210-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "A3M2-T220-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss CorpseTitan End Q",
+      "speaker": "安雅",
+      "text": "我們都沒什麼事。把炸藥裝好繼續移動吧。",
+      "string_id": 2304,
+      "speaker_string_id": 2360,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T220-ANYA.ogg"
+    },
+    {
+      "n": 74,
+      "id": "A3M2-T230-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje UndeadOrcs Q",
+      "speaker": "萊尼德",
+      "text": "天譴軍團也在拉攏獸人加入不死族。他們要是成為死亡騎士肯定非常嚇人。",
+      "string_id": 2316,
+      "speaker_string_id": 2497,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T230-LEONID.ogg"
+    },
+    {
+      "n": 75,
+      "id": "A3M2-T240-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantAttack Q",
+      "speaker": "加瑞克",
+      "text": "那具骷髏…實在太巨大了！",
+      "string_id": 2324,
+      "speaker_string_id": 2395,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T240-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "A3M2-T250-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantAttack Q",
+      "speaker": "萊尼德",
+      "text": "只靠我們可能無法擊倒它。只能智取它了。",
+      "string_id": 2335,
+      "speaker_string_id": 2516,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T250-LEONID.ogg"
+    },
+    {
+      "n": 77,
+      "id": "A3M2-T260-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantGate Open Q",
+      "speaker": "安雅",
+      "text": "這座大門需要鑰匙才能打開。我敢說那個巨大的骷髏身上肯定有鑰匙。",
+      "string_id": 2359,
+      "speaker_string_id": 2378,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T260-ANYA.ogg"
+    },
+    {
+      "n": 78,
+      "id": "A3M2-T280-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje GiantSkeletonHint Q",
+      "speaker": "加瑞克",
+      "text": "這些火焰…如果我們能把骷髏困在這裡，或許就有辦法擊敗它。",
+      "string_id": 2367,
+      "speaker_string_id": 2467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T280-GAREK.ogg"
+    },
+    {
+      "n": 79,
+      "id": "A3M2-T290-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje Giant Key Q",
+      "speaker": "安雅",
+      "text": "殺死守護者了。快去拿鑰匙，我們才能繼續行動。",
+      "string_id": 2377,
+      "speaker_string_id": 2413,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T290-ANYA.ogg"
+    },
+    {
+      "n": 80,
+      "id": "A3M2-T300-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "萊尼德",
+      "text": "天譴軍團的墮落行徑在此展露無遺。要是可以的話，真想用聖光把他們全都消滅。",
+      "string_id": 2993,
+      "speaker_string_id": 2542,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T300-LEONID.ogg"
+    },
+    {
+      "n": 81,
+      "id": "A3M2-T310-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "加瑞克",
+      "text": "聖光有辦法抵達這裡嗎？我們周遭盡是死亡與黑暗。",
+      "string_id": 2394,
+      "speaker_string_id": 2486,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T310-GAREK.ogg"
+    },
+    {
+      "n": 82,
+      "id": "A3M2-T320-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "萊尼德",
+      "text": "沒有地方是聖光無法照耀的。只要懷抱信念就有辦法。",
+      "string_id": 2435,
+      "speaker_string_id": 2561,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T320-LEONID.ogg"
+    },
+    {
+      "n": 83,
+      "id": "A3M2-T330-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje WarriorsVsRejects1 Q",
+      "speaker": "安雅",
+      "text": "你這個一被聖光照到就會燒成灰的人還真敢講。",
+      "string_id": 2412,
+      "speaker_string_id": 2444,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T330-ANYA.ogg"
+    },
+    {
+      "n": 84,
+      "id": "A3M2-T340-ZELIEK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight Start Q",
+      "speaker": "札里克爵士",
+      "text": "入侵者，回頭吧！否則我只能殺死你們！",
+      "string_id": 2422,
+      "speaker_string_id": 2423,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T340-ZELIEK.ogg"
+    },
+    {
+      "n": 85,
+      "id": "A3M2-T350-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight Start Q",
+      "speaker": "萊尼德",
+      "text": "札里克爵士…他曾是白銀之手聖騎士！",
+      "string_id": 2429,
+      "speaker_string_id": 2430,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T350-LEONID.ogg"
+    },
+    {
+      "n": 86,
+      "id": "A3M2-T360-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight Start Q",
+      "speaker": "安雅",
+      "text": "而他現在擋住了我們的去路。",
+      "string_id": 2443,
+      "speaker_string_id": 2524,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T360-ANYA.ogg"
+    },
+    {
+      "n": 87,
+      "id": "A3M2-T370-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight LightAbilities Q",
+      "speaker": "萊尼德",
+      "text": "身為天譴軍團，你竟敢掌控聖光？這是褻瀆！",
+      "string_id": 2652,
+      "speaker_string_id": 2653,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T370-LEONID.ogg"
+    },
+    {
+      "n": 88,
+      "id": "A3M2-T380-ZELIEK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight LightAbilities Q",
+      "speaker": "札里克爵士",
+      "text": "我祈求聖光為此摧毀我。如此我就能從我主人的掌控中解脫了。",
+      "string_id": 2464,
+      "speaker_string_id": 2465,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T380-ZELIEK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "A3M2-T390-ZELIEK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight End Q",
+      "speaker": "札里克爵士",
+      "text": "唯有聖光…能讓我免受…奴役之苦…",
+      "string_id": 2476,
+      "speaker_string_id": 2477,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T390-ZELIEK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "A3M2-T400-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight End Q",
+      "speaker": "加瑞克",
+      "text": "即使成為了不死族，他還是能召喚聖光…",
+      "string_id": 2485,
+      "speaker_string_id": 2505,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T400-GAREK.ogg"
+    },
+    {
+      "n": 91,
+      "id": "A3M2-T410-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss DeathKnight End Q",
+      "speaker": "萊尼德",
+      "text": "天譴軍團會讓他再度復活，然後繼續扭曲他的信念折磨他。札里克爵士不該落得這下場。",
+      "string_id": 2496,
+      "speaker_string_id": 2706,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T410-LEONID.ogg"
+    },
+    {
+      "n": 92,
+      "id": "A3M2-T420-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss PlagueBeast Start Q",
+      "speaker": "加瑞克",
+      "text": "那到底是什麼鬼東西？",
+      "string_id": 2504,
+      "speaker_string_id": 2532,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T420-GAREK.ogg"
+    },
+    {
+      "n": 93,
+      "id": "A3M2-T430-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss PlagueBeast Start Q",
+      "speaker": "萊尼德",
+      "text": "另一場扭曲實驗的成果。殺死它，好讓我們能放置下一個炸藥。",
+      "string_id": 2515,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T430-LEONID.ogg"
+    },
+    {
+      "n": 94,
+      "id": "A3M2-T440-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss PlagueBeast End Q",
+      "speaker": "安雅",
+      "text": "真噁心的生物。把炸藥放好，趕緊脫離這團髒東西。",
+      "string_id": 2523,
+      "speaker_string_id": 2693,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T440-ANYA.ogg"
+    },
+    {
+      "n": 95,
+      "id": "A3M2-T450-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Plag Multigates1 Q",
+      "speaker": "加瑞克",
+      "text": "小心！",
+      "string_id": 2531,
+      "speaker_string_id": 2550,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T450-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "A3M2-T460-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Plag Multigates2 Q",
+      "speaker": "萊尼德",
+      "text": "這些大門由連鎖開關互相連結。我們必須依序觸發每個開關。",
+      "string_id": 2541,
+      "speaker_string_id": 2992,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T460-LEONID.ogg"
+    },
+    {
+      "n": 97,
+      "id": "A3M2-T470-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Arach SkyBarge Q NOT USED",
+      "speaker": "安雅",
+      "text": "等要離開的時候，這座大門會帶我們回到天空接駁船。",
+      "string_id": 2904,
+      "speaker_string_id": 2724,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T470-ANYA.ogg"
+    },
+    {
+      "n": 98,
+      "id": "A3M2-T480-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cath CathedralEnter Q",
+      "speaker": "加瑞克",
+      "text": "這是什麼？看起來像大教堂。",
+      "string_id": 2549,
+      "speaker_string_id": 2642,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T480-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "A3M2-T490-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Cath CathedralEnter Q",
+      "speaker": "萊尼德",
+      "text": "天譴軍團的褻瀆之舉究竟有無下限可言？！",
+      "string_id": 2560,
+      "speaker_string_id": 2994,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T490-LEONID.ogg"
+    },
+    {
+      "n": 100,
+      "id": "A3M2-T500-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Anya Q",
+      "speaker": "伊拉斯特",
+      "text": "黑暗遊俠，像我一樣接納真相吧。奎爾薩拉斯已殞落，太陽之井也毀了。天譴軍團就是我們的未來！",
+      "string_id": 2572,
+      "speaker_string_id": 2573,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T500-ILASTAR.ogg"
+    },
+    {
+      "n": 101,
+      "id": "A3M2-T510-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Anya Q",
+      "speaker": "安雅",
+      "text": "我的未來與被遺忘者同在！你的未來只應歸於塵土！",
+      "string_id": 2580,
+      "speaker_string_id": 2581,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T510-ANYA.ogg"
+    },
+    {
+      "n": 102,
+      "id": "A3M2-T520-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Leonid Q",
+      "speaker": "伊拉斯特",
+      "text": "萊尼德‧巴薩羅梅，你曾以天譴軍團的一員展現了潛能。可惜你選擇擁護活人，白白浪費了那些潛能。",
+      "string_id": 2590,
+      "speaker_string_id": 2591,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T520-ILASTAR.ogg"
+    },
+    {
+      "n": 103,
+      "id": "A3M2-T530-LEONID",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar MindControl Leonid Q",
+      "speaker": "萊尼德",
+      "text": "銀色黎明重新喚起了我對聖光的信念。他們的勇氣會摧毀你的黑暗主人！",
+      "string_id": 2601,
+      "speaker_string_id": 2602,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T530-LEONID.ogg"
+    },
+    {
+      "n": 104,
+      "id": "A3M2-T540-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar ShadowClones Q",
+      "speaker": "伊拉斯特",
+      "text": "你們面對的不是我，而是自身的懷疑和弱小！",
+      "string_id": 2611,
+      "speaker_string_id": 2612,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T540-ILASTAR.ogg"
+    },
+    {
+      "n": 105,
+      "id": "A3M2-T550-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar ShadowClones Q",
+      "speaker": "加瑞克",
+      "text": "他們只不過是幻影！把他們都消滅掉，專注在伊拉斯特身上！",
+      "string_id": 2620,
+      "speaker_string_id": 2621,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T550-GAREK.ogg"
+    },
+    {
+      "n": 106,
+      "id": "A3M2-T560-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar HolyWrath Q",
+      "speaker": "伊拉斯特",
+      "text": "這怎麼可能？你怎麼能駕馭聖光？！",
+      "string_id": 2630,
+      "speaker_string_id": 2631,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T560-ILASTAR.ogg"
+    },
+    {
+      "n": 107,
+      "id": "A3M2-T570-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar HolyWrath Q",
+      "speaker": "加瑞克",
+      "text": "沒有地方…是聖光無法照耀的。這一切…到此為止了！",
+      "string_id": 2633,
+      "speaker_string_id": 2634,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T570-GAREK.ogg"
+    },
+    {
+      "n": 108,
+      "id": "A3M2-T580-GAREK",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar AvatarOfLight Q",
+      "speaker": "加瑞克",
+      "text": "你…無法…指揮我們！",
+      "string_id": 2641,
+      "speaker_string_id": 2676,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T580-GAREK.ogg"
+    },
+    {
+      "n": 109,
+      "id": "A3M2-T590-ANYA",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar AvatarOfLight Q",
+      "speaker": "安雅",
+      "text": "加瑞克！你會把自己燒成灰燼的！",
+      "string_id": 2650,
+      "speaker_string_id": 2651,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T590-ANYA.ogg"
+    },
+    {
+      "n": 110,
+      "id": "A3M2-T600-ILASTAR",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Boss Ilastar Phase4 End Q",
+      "speaker": "伊拉斯特",
+      "text": "不！聖光無法除掉我的！",
+      "string_id": 2662,
+      "speaker_string_id": 2663,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T600-ILASTAR.ogg"
+    },
+    {
+      "n": 111,
+      "id": "A3M2-T610-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen Discover Q",
+      "speaker": "加瑞克",
+      "text": "伊拉斯特…很抱歉我讓你遭受這般命運。",
+      "string_id": 2683,
+      "speaker_string_id": 2684,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T610-GAREK.ogg"
+    },
+    {
+      "n": 112,
+      "id": "A3M2-T620-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen Discover Q",
+      "speaker": "安雅",
+      "text": "我們現在該怎麼辦？我們沒辦法摧毀納克薩瑪斯。",
+      "string_id": 2692,
+      "speaker_string_id": 2905,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T620-ANYA.ogg"
+    },
+    {
+      "n": 113,
+      "id": "A3M2-T630-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen Discover Q",
+      "speaker": "加瑞克",
+      "text": "我們…必須在水晶再度發射之前…除掉水晶。而我知道該怎麼做。",
+      "string_id": 2695,
+      "speaker_string_id": 2696,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T630-GAREK.ogg"
+    },
+    {
+      "n": 114,
+      "id": "A3M2-T640-LEONID",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "萊尼德",
+      "text": "你就像札里克爵士一樣能夠駕馭聖光…這怎麼可能？",
+      "string_id": 2705,
+      "speaker_string_id": 2998,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T640-LEONID.ogg"
+    },
+    {
+      "n": 115,
+      "id": "A3M2-T650-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "加瑞克",
+      "text": "我…每次召喚聖光時…都會感覺自己在燃燒。然而…聖光還是會…前來幫助我…",
+      "string_id": 2714,
+      "speaker_string_id": 2715,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T650-GAREK.ogg"
+    },
+    {
+      "n": 116,
+      "id": "A3M2-T660-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "安雅",
+      "text": "加瑞克，你這樣撐不了多久的。聖光會摧毀你。",
+      "string_id": 2723,
+      "speaker_string_id": 2926,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T660-ANYA.ogg"
+    },
+    {
+      "n": 117,
+      "id": "A3M2-T670-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower1 Q",
+      "speaker": "加瑞克",
+      "text": "我只要…撐得夠久…能夠拯救被遺忘者就好…",
+      "string_id": 2732,
+      "speaker_string_id": 2733,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T670-GAREK.ogg"
+    },
+    {
+      "n": 118,
+      "id": "A3M2-T680-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower2 Q",
+      "speaker": "加瑞克",
+      "text": "我想起了…一切。那些我曾犯下的錯…我沒能學到的教訓…",
+      "string_id": 2740,
+      "speaker_string_id": 2741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T680-GAREK.ogg"
+    },
+    {
+      "n": 119,
+      "id": "A3M2-T690-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower2 Q",
+      "speaker": "安雅",
+      "text": "你得放下那些過往。成為被遺忘者代表你有機會為自己做主。",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T690-ANYA.ogg"
+    },
+    {
+      "n": 120,
+      "id": "A3M2-T700-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower2 Q",
+      "speaker": "加瑞克",
+      "text": "安雅，你說得對…但知道自己曾經是誰…讓我明白自己想成為什麼樣的人…還有必須做什麼事…",
+      "string_id": 3037,
+      "speaker_string_id": 3038,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T700-GAREK.ogg"
+    },
+    {
+      "n": 121,
+      "id": "A3M2-T710-LEONID",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower3 Q",
+      "speaker": "萊尼德",
+      "text": "我們快到納克薩瑪斯的頂端了。我很確定我們很快就會迎戰科爾蘇加德本尊。",
+      "string_id": 2997,
+      "speaker_string_id": 2753,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T710-LEONID.ogg"
+    },
+    {
+      "n": 122,
+      "id": "A3M2-T720-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower3 Q",
+      "speaker": "安雅",
+      "text": "他為人類和精靈帶來了毀滅。現在他打算消滅被遺忘者。我們不能讓那種事發生。",
+      "string_id": 2769,
+      "speaker_string_id": 2770,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T720-ANYA.ogg"
+    },
+    {
+      "n": 123,
+      "id": "A3M2-T730-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Ascen AllThisPower3 Q",
+      "speaker": "加瑞克",
+      "text": "無論如何…被遺忘者都會活下來的。我以…聖光發誓…",
+      "string_id": 2772,
+      "speaker_string_id": 2773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T730-GAREK.ogg"
+    },
+    {
+      "n": 124,
+      "id": "A3M2-T740-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare1 Q",
+      "speaker": "科爾蘇加德",
+      "text": "你們的掙扎是徒勞的。等我強化了水晶，你們寶貴的幽暗城就會變成荒蕪的坑洞了。",
+      "string_id": 2782,
+      "speaker_string_id": 2783,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T740-KELTHUZAD.ogg"
+    },
+    {
+      "n": 125,
+      "id": "A3M2-T750-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare1 Q",
+      "speaker": "加瑞克",
+      "text": "我們不會…讓你得逞的！",
+      "string_id": 2793,
+      "speaker_string_id": 2794,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T750-GAREK.ogg"
+    },
+    {
+      "n": 126,
+      "id": "A3M2-T760-GAREK",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare2 Q",
+      "speaker": "加瑞克",
+      "text": "聖光…燃燒著我…",
+      "string_id": 2801,
+      "speaker_string_id": 2802,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T760-GAREK.ogg"
+    },
+    {
+      "n": 127,
+      "id": "A3M2-T770-RIVENDARE",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare2 Q",
+      "speaker": "瑞文戴爾男爵",
+      "text": "自以為是什麼聖騎士是吧？看來我該靜靜看著你自焚！",
+      "string_id": 2804,
+      "speaker_string_id": 2805,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T770-RIVENDARE.ogg"
+    },
+    {
+      "n": 128,
+      "id": "A3M2-T780-RIVENDARE",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare3 Q",
+      "speaker": "瑞文戴爾男爵",
+      "text": "可悲的害蟲！我可是斯坦索姆的主人！你們毫無勝算！",
+      "string_id": 2812,
+      "speaker_string_id": 2813,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T780-RIVENDARE.ogg"
+    },
+    {
+      "n": 129,
+      "id": "A3M2-T790-LEONID",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Rivendare3 Q",
+      "speaker": "萊尼德",
+      "text": "你很快就會與你背叛並摧毀的城市遭受相同的命運。",
+      "string_id": 2825,
+      "speaker_string_id": 2826,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T790-LEONID.ogg"
+    },
+    {
+      "n": 130,
+      "id": "A3M2-T800-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Phase2 End Q",
+      "speaker": "科爾蘇加德",
+      "text": "完成了！僅需片刻的時間，幽暗城就會化為烏有！",
+      "string_id": 2835,
+      "speaker_string_id": 2836,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T800-KELTHUZAD.ogg"
+    },
+    {
+      "n": 131,
+      "id": "A3M2-T810-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Phase2 End Q",
+      "speaker": "科爾蘇加德",
+      "text": "在那之前，瑞文戴爾，你似乎需要有人支援。讓我幫你一把。",
+      "string_id": 2846,
+      "speaker_string_id": 2847,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T810-KELTHUZAD.ogg"
+    },
+    {
+      "n": 132,
+      "id": "A3M2-T820-ANYA",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale Phase2 End Q",
+      "speaker": "安雅",
+      "text": "現在是我們的大好機會！把他們兩個都殺了！",
+      "string_id": 2857,
+      "speaker_string_id": 2858,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T820-ANYA.ogg"
+    },
+    {
+      "n": 133,
+      "id": "A3M2-T830-RIVENDARE",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale End Rivendare Q",
+      "speaker": "瑞文戴爾男爵",
+      "text": "他們…會在斯坦索姆…再次復活我…",
+      "string_id": 2867,
+      "speaker_string_id": 2868,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T830-RIVENDARE.ogg"
+    },
+    {
+      "n": 134,
+      "id": "A3M2-T840-KELTHUZAD",
+      "scene": "TRANSMISSIONS.Ascension.Transmission Boss Finale End KelThuzad Q",
+      "speaker": "科爾蘇加德",
+      "text": "這對我而言並非終局。但你們肯定到此為止了。",
+      "string_id": 2987,
+      "speaker_string_id": 2961,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m2/A3M2-T840-KELTHUZAD.ogg"
+    },
+    {
+      "n": 135,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "希瓦娜斯",
+      "text": "安雅已經告知我在納克薩瑪斯發生的事。",
+      "string_id": 2016,
+      "speaker_string_id": 2017,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 136,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "希瓦娜斯",
+      "text": "這場戰鬥…還有班達倫隊長的壯舉…讓我思慮甚多。",
+      "string_id": 2009,
+      "speaker_string_id": 2010,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 137,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "希瓦娜斯",
+      "text": "若不是因為加瑞克駕馭了聖光，以及銀色黎明加入我們的防線，被遺忘者恐怕已經滅亡了。",
+      "string_id": 2006,
+      "speaker_string_id": 2007,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 138,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "希瓦娜斯",
+      "text": "我們周遭的確充滿了各種活著和不死的敵人。然而，也可能有許多盟友等著我們去發掘…",
+      "string_id": 2003,
+      "speaker_string_id": 2004,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 139,
+      "id": "O01Cairne27",
+      "scene": "Initialization.Dialogue Reference C040",
+      "speaker": "希瓦娜斯",
+      "text": "…或許這座被遺忘者的王國無須孤軍奮鬥。",
+      "string_id": 2001,
+      "speaker_string_id": 2002,
+      "sound": "Sound/Dialogue/OrcCampaign/Orc01/O01Cairne27.ogg"
+    },
+    {
+      "n": 140,
+      "id": "HeroBladeMasterWarcry1",
+      "scene": "TRANSMISSIONS.The Necropolis.Transmission Reje CagedEnemy Q",
+      "speaker": "大劍師",
+      "text": "為了燃刃氏族！",
+      "string_id": 2349,
+      "speaker_string_id": 2350,
+      "sound": "Units/Orc/HeroBladeMaster/HeroBladeMasterWarcry1.flac"
+    }
+  ]
+}

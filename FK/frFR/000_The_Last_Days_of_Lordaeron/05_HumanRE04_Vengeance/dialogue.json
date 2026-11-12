@@ -1,0 +1,774 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "frFR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE04-M010-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Regardez ce qu’Arthas a laissé derrière lui. Combien de villes va-t-il encore brûler ? Combien de vies va-t-il encore faucher ?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Regardez ce qu’Arthas a laissé derrière lui. Combien de villes va-t-il encore brûler ? Combien de vies va-t-il encore faucher ?[/\"Surprised\"]",
+      "string_id": 1030,
+      "speaker_string_id": 1031,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-010-ILASTAR.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE04-M010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "C’est Vaillefendre qui a tout déclenché. Nous allons en finir avec lui, ici et maintenant.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]C’est Vaillefendre qui a tout déclenché. Nous allons en finir avec lui, ici et maintenant.[/\"Angry\"]",
+      "string_id": 1033,
+      "speaker_string_id": 1034,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE04-M010-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "En effet. La ville sera bien fortifiée, mais je peux m’y introduire par la poterne afin de lever la herse.",
+      "string_id": 1036,
+      "speaker_string_id": 1037,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-030-ILASTAR.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE04-M010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Excellente idée. Soyez prudent le temps que nous vous rejoignions.",
+      "string_id": 1103,
+      "speaker_string_id": 1104,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE04-M010-050-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Vous aussi, Garek. Que la Lumière guide votre lame.",
+      "string_id": 1042,
+      "speaker_string_id": 1043,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-050-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE04-M030-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Vaillefendre ! Vous paierez vos crimes de votre vie !",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Vaillefendre ! Vous paierez vos crimes de votre vie ![/\"Angry\"]",
+      "string_id": 1046,
+      "speaker_string_id": 1047,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-010-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE04-M030-020-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Baron Vaillefendre",
+      "text": "Ha ! Que savez-vous de la vie et de la mort ?",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ha ! Que savez-vous de la vie et de la mort ?[/\"Happy\"]",
+      "string_id": 1054,
+      "speaker_string_id": 1055,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-020-RIVENDARE.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE04-M030-030-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Baron Vaillefendre",
+      "text": "J’ai été témoin de son véritable pouvoir, et j’en ai même usé ! Le roi-liche m’a élevé au-dessus des pauvres vermisseaux comme vous !",
+      "string_id": 1056,
+      "speaker_string_id": 1057,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-030-RIVENDARE.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE04-M030-040-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Baron Vaillefendre",
+      "text": "Et je vais à présent vous arracher des cris aussi pathétiques que ceux de votre capitaine !",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Et je vais à présent vous arracher des cris aussi pathétiques que ceux de votre capitaine ![/\"Angry\"]",
+      "string_id": 1058,
+      "speaker_string_id": 1059,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-040-RIVENDARE.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE04-M030-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Vous n’avez aucun droit de salir son nom ! Mourez comme la vermine que vous êtes ! Pour Landen !",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Vous n’avez aucun droit de salir son nom ! Mourez comme la vermine que vous êtes ! Pour Landen ![/\"Angry\"]",
+      "string_id": 1052,
+      "speaker_string_id": 1053,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-050-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE04-T010-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance GrainShipments Q",
+      "speaker": "Garek",
+      "text": "Des caisses de grain contaminé par la peste. Voilà comment Vaillefendre \na condamné son peuple.",
+      "string_id": 1233,
+      "speaker_string_id": 1234,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T010-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE04-T020-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance InnerGate Q",
+      "speaker": "Garek",
+      "text": "La porte est fermée. Pour l’ouvrir, nous avons besoin d’Ilastar.",
+      "string_id": 1235,
+      "speaker_string_id": 1236,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T020-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE04-T030-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ramparts Alonsus Chapel",
+      "speaker": "Ilastar",
+      "text": "La chapelle d’Alonsus. Quels sacrilèges le Culte y a-t-il commis ?",
+      "string_id": 1329,
+      "speaker_string_id": 1330,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T030-ILASTAR.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE04-T040-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance HouseZombies1 Q",
+      "speaker": "Ilastar",
+      "text": "La voie est ouverte. Je vais rester par ici et partir en éclaireur.",
+      "string_id": 1340,
+      "speaker_string_id": 1341,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T040-ILASTAR.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE04-T050-MORTARTEAM",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance MortarTeam Rescue Q",
+      "speaker": "Mortiers",
+      "text": "Vous êtes… en vie ? La Lumière soit louée ! Voilà des semaines que nous sommes cernés par le Fléau !",
+      "string_id": 1216,
+      "speaker_string_id": 1217,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T050-MORTARTEAM.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE04-T060-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ramparts AttackedBySpiritTower Q",
+      "speaker": "Ilastar",
+      "text": "Je ne peux pas les affronter seul. Les mortiers de Garek peuvent frapper de loin.",
+      "string_id": 1109,
+      "speaker_string_id": 1177,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T060-ILASTAR.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE04-T070-ILASTAR",
+      "scene": "TRANSMISSIONS.Plague Mushrooms.Transmission Mush Discover Q",
+      "speaker": "Ilastar",
+      "text": "Par la Lumière ! Les spores de ces champignons propagent la peste. Ne les laissez pas pousser !",
+      "string_id": 1163,
+      "speaker_string_id": 1211,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T070-ILASTAR.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE04-T080-ILASTAR",
+      "scene": "TRANSMISSIONS.Plague Mushrooms.Transmission Mush Completed Q",
+      "speaker": "Ilastar",
+      "text": "Ensevelissons ces vils spores sous les cendres de cette cité délabrée.",
+      "string_id": 1164,
+      "speaker_string_id": 1212,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T080-ILASTAR.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE04-T090-RIFLEMAN",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ramparts RiflemenBarricades Q",
+      "speaker": "Fusilier",
+      "text": "Des renforts ! Je vous avais bien dit qu’il fallait encore attendre !",
+      "string_id": 1239,
+      "speaker_string_id": 1240,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T090-RIFLEMAN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE04-T100-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance CryptAttacked Q",
+      "speaker": "Garek",
+      "text": "Concentrez-vous sur la crypte, avant qu’elle ne nous achève tous !",
+      "string_id": 1107,
+      "speaker_string_id": 1176,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T100-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE04-T110-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance HeroesAtGate Q",
+      "speaker": "Garek",
+      "text": "Ilastar, comment allez-vous ?",
+      "string_id": 1467,
+      "speaker_string_id": 1451,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T110-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE04-T120-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance HeroesAtGate Q",
+      "speaker": "Ilastar",
+      "text": "Je m’en sors. Je vais vous soigner comme je peux depuis ce promontoire.",
+      "string_id": 1469,
+      "speaker_string_id": 1470,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T120-ILASTAR.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE04-T130-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ras Murmegivre",
+      "text": "Mon talent et mon ambition ont été rejetés par les mages du Kirin Tor, ces pleutres. Mais le roi-liche saura les récompenser !",
+      "string_id": 1381,
+      "speaker_string_id": 1382,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T130-RAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE04-T140-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ras Murmegivre",
+      "text": "Je renonce désormais à cette chair et à ce sang maudits, et j’embrasse l’immortalité des Morts-vivants !",
+      "string_id": 1417,
+      "speaker_string_id": 1418,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T140-RAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE04-T150-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ras Murmegivre",
+      "text": "Contemplez ma nouvelle forme et ma puissance perfectionnées !",
+      "string_id": 1430,
+      "speaker_string_id": 1431,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T150-RAS.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE04-T160-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ras Murmegivre",
+      "text": "Leonid ! Dites-à mes disciples de faire comme bon leur semble. Une destinée supérieure m’attend !",
+      "string_id": 1448,
+      "speaker_string_id": 1449,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T160-RAS.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE04-T170-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Q1",
+      "speaker": "Garek",
+      "text": "La porte est toujours fermée. Il doit y avoir un second levier.",
+      "string_id": 1113,
+      "speaker_string_id": 1178,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T170-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE04-T180-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Q2",
+      "speaker": "Ilastar",
+      "text": "La porte est toujours fermée. Il doit y avoir un autre levier.",
+      "string_id": 1249,
+      "speaker_string_id": 1250,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T180-ILASTAR.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE04-T200-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Real Ilastar Q",
+      "speaker": "Garek",
+      "text": "Les portes sont ouvertes ! Murmegivre va tâter de notre acier !",
+      "string_id": 1335,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T200-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE04-T200-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Real Garek Q",
+      "speaker": "Garek",
+      "text": "Les portes sont ouvertes ! Murmegivre va tâter de notre acier !",
+      "string_id": 1335,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T200-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE04-T210-RAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Ras Attacked Q",
+      "speaker": "Ras Murmegivre",
+      "text": "Vous en voulez encore ? Cette fois, je vais vous écorcher vif !",
+      "string_id": 1265,
+      "speaker_string_id": 1266,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T210-RAS.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE04-T220-RAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Ras Dies Q",
+      "speaker": "Ras Murmegivre",
+      "text": "Je ne suis pas si facile à occire, mortels. Nous nous reverrons.",
+      "string_id": 1269,
+      "speaker_string_id": 1270,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T220-RAS.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE04-T230-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Ras Dies Q",
+      "speaker": "Garek",
+      "text": "Oubliez-le. Notre véritable cible, c’est Vaillefendre.",
+      "string_id": 1153,
+      "speaker_string_id": 1209,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T230-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE04-T240-CIVILIANM",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved1 Q NOT USED",
+      "speaker": "Citoyen",
+      "text": "Vous m’avez sauvé la vie ! Je dois partir d’ici !",
+      "string_id": 1471,
+      "speaker_string_id": 1452,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T240-CIVILIANM.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE04-T270-CIVILIANF",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved2 Q NOT USED",
+      "speaker": "Citoyen",
+      "text": "Merci infiniment ! J’ai bien cru que j’allais mourir, ou pire !",
+      "string_id": 1472,
+      "speaker_string_id": 1453,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T270-CIVILIANF.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE04-T290-CIVILIANF",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved3 Q NOT USED",
+      "speaker": "Citoyen",
+      "text": "Est-ce possible ? En est-ce fini de ce cauchemar ? Je vous remercie de tout cœur !",
+      "string_id": 1473,
+      "speaker_string_id": 1454,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T290-CIVILIANF.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE04-T400-GAREK",
+      "scene": "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Discover Q",
+      "speaker": "Garek",
+      "text": "Certains ont tenté de fuir Stratholme par la mer. Le Culte a dû couler leurs navires.",
+      "string_id": 1165,
+      "speaker_string_id": 1213,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T400-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE04-T410-ILASTAR",
+      "scene": "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Discover Q",
+      "speaker": "Ilastar",
+      "text": "Leurs ressources seraient utiles à l’effort de guerre. Nous devrions les récupérer.",
+      "string_id": 1166,
+      "speaker_string_id": 1214,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T410-ILASTAR.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE04-T420-GAREK",
+      "scene": "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Completed Q",
+      "speaker": "Garek",
+      "text": "Nous devrions avoir suffisamment de ressources. Retournons sur la terre ferme.",
+      "string_id": 1167,
+      "speaker_string_id": 1215,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T420-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE04-T430-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage ZombieHorde Q",
+      "speaker": "Ilastar",
+      "text": "Les rues sont infestées de Morts-vivants. Mieux vaut les éviter si possible.",
+      "string_id": 1251,
+      "speaker_string_id": 1252,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T430-ILASTAR.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE04-T440-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage ZombieHordeAttack Q",
+      "speaker": "Garek",
+      "text": "Les voilà ! Préparez-vous au combat !",
+      "string_id": 1117,
+      "speaker_string_id": 1181,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T440-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE04-T450-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderGate Locked Q",
+      "speaker": "Garek",
+      "text": "La porte est fermée. Il nous faut la clé.",
+      "string_id": 1119,
+      "speaker_string_id": 1182,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T450-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE04-T460-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderGate Enter Q",
+      "speaker": "Garek",
+      "text": "La route de la place des Croisés est ouverte. Vaillefendre ne pourra pas se cacher éternellement.",
+      "string_id": 1121,
+      "speaker_string_id": 1183,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T460-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE04-T470-CIVILIANF",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage ThereWasADemon Q NOT USED",
+      "speaker": "Garek",
+      "text": "C’était un démon ! Des ailes, des cornes et des pieds fourchus !",
+      "string_id": 1474,
+      "speaker_string_id": 1455,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-T470-CIVILIANF.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE04-T480-LORTHIRAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Lorthiras Attacked Q",
+      "speaker": "Lorthiras",
+      "text": "Votre souffrance sera… exquise.",
+      "string_id": 1305,
+      "speaker_string_id": 1306,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T480-LORTHIRAS.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE04-T490-LORTHIRAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Lorthiras Dies Q",
+      "speaker": "Lorthiras",
+      "text": "Ce n’est pas fini, misérables mortels.",
+      "string_id": 1307,
+      "speaker_string_id": 1308,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T490-LORTHIRAS.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE04-T500-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderSquareProper Gate Enter Q",
+      "speaker": "Garek",
+      "text": "Stratholme était l’une des grandes cités de Lordaeron, avant que Vaillefendre ne la sacrifie aux Morts-vivants !",
+      "string_id": 1122,
+      "speaker_string_id": 1184,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T500-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE04-T510-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderSquareProper Gate Enter Q",
+      "speaker": "Ilastar",
+      "text": "Il est loin d’être le seul à avoir vendu son âme au Fléau. Ils brûleront tous dans les flammes sacrées.",
+      "string_id": 1124,
+      "speaker_string_id": 1185,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T510-ILASTAR.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE04-T520-KNIGHT",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper KnightsRescue Q",
+      "speaker": "Chevalier",
+      "text": "D’autres survivants ! Tenez vos positions !",
+      "string_id": 1128,
+      "speaker_string_id": 1129,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T520-KNIGHT.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE04-T530-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage TrapGate Enter Q",
+      "speaker": "Garek",
+      "text": "Nos forces sont divisées. Nous devons trouver le levier qui ouvre la porte.",
+      "string_id": 1125,
+      "speaker_string_id": 1186,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T530-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE04-T540-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage TrapGate LeverKill Q",
+      "speaker": "Garek",
+      "text": "Regroupons-nous et avançons.",
+      "string_id": 1126,
+      "speaker_string_id": 1187,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T540-GAREK.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE04-T550-CIVILIAN",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileMeet Q NOT USED",
+      "speaker": "Citoyen",
+      "text": "Nous sommes piégés ! Aidez-nous, par pitié !",
+      "string_id": 1475,
+      "speaker_string_id": 1456,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T550-CIVILIAN.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE04-T560-CIVILIAN",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileConvert Q NOT USED",
+      "speaker": "Citoyen",
+      "text": "Mort à Lordaeron !",
+      "string_id": 1476,
+      "speaker_string_id": 1457,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T560-CIVILIAN.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE04-T570-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileSlain Q NOT USED",
+      "speaker": "Garek",
+      "text": "Tel est le destin de tous les sectateurs.",
+      "string_id": 1477,
+      "speaker_string_id": 1458,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T570-GAREK.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE04-T580-GRIMTHANE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Skeletons Attacked Q",
+      "speaker": "Grimthane",
+      "text": "Vos ossements serviront le Fléau.",
+      "string_id": 1297,
+      "speaker_string_id": 1298,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T580-GRIMTHANE.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE04-T590-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Skeletons Dead Q",
+      "speaker": "Garek",
+      "text": "Vos os peuvent rejoindre les autres.",
+      "string_id": 1303,
+      "speaker_string_id": 1304,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T590-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE04-T600-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterGate Q",
+      "speaker": "Ilastar",
+      "text": "Voici la tour maudite où Vaillefendre fomente ses plans diaboliques.",
+      "string_id": 1130,
+      "speaker_string_id": 1188,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T600-ILASTAR.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE04-T610-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterGate Q",
+      "speaker": "Garek",
+      "text": "Je me ferai un plaisir de le jeter dans le vide.",
+      "string_id": 1131,
+      "speaker_string_id": 1189,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T610-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE04-T620-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q",
+      "speaker": "Ilastar",
+      "text": "Garek, il reste peut-être des survivants en ville.",
+      "string_id": 1132,
+      "speaker_string_id": 1190,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T620-ILASTAR.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE04-T630-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q",
+      "speaker": "Garek",
+      "text": "Nos soldats peuvent chercher les civils qui ont besoin d’aide.",
+      "string_id": 1134,
+      "speaker_string_id": 1191,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T630-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE04-T640-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q",
+      "speaker": "Garek",
+      "text": "Retrouvons-nous à Âtreval quand nous aurons terminé. Pour l’instant, faisons payer ses méfaits à Vaillefendre.",
+      "string_id": 1136,
+      "speaker_string_id": 1208,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T640-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE04-T650-RIVENDARE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Start Q",
+      "speaker": "Baron Vaillefendre",
+      "text": "Vous me servirez tous !",
+      "string_id": 1295,
+      "speaker_string_id": 1296,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T650-RIVENDARE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE04-T660-RIVENDARE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Endless Q",
+      "speaker": "Baron Vaillefendre",
+      "text": "Les troupes du Fléau sont infinies ! Vous finirez noyés dans votre propre sang !",
+      "string_id": 1479,
+      "speaker_string_id": 1460,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T660-RIVENDARE.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE04-T670-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Gas Q",
+      "speaker": "Garek",
+      "text": "Qu’est… ce que c’est ? C’est dans mes poumons…",
+      "string_id": 1480,
+      "speaker_string_id": 1461,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T670-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE04-T680-ILASTAR",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Gas Q",
+      "speaker": "Ilastar",
+      "text": "Des spores de pestilence… Nous… nous sommes infectés…",
+      "string_id": 1481,
+      "speaker_string_id": 1462,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T680-ILASTAR.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE04-T690-RIVENDARE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Obelisks Q",
+      "speaker": "Baron Vaillefendre",
+      "text": "Vermines importunes ! Voyez ce qu’est la véritable puissance !",
+      "string_id": 1482,
+      "speaker_string_id": 1463,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T690-RIVENDARE.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE04-T700-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Obelisks Q",
+      "speaker": "Garek",
+      "text": "Ilastar, les obélisques ! Détruisez-les !",
+      "string_id": 1483,
+      "speaker_string_id": 1464,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T700-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE04-T710-ILASTAR",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Cant Q NOT USED",
+      "speaker": "Ilastar",
+      "text": "Je ne… peux pas…",
+      "string_id": 1484,
+      "speaker_string_id": 1465,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T710-ILASTAR.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE04-T720-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Cant Q NOT USED",
+      "speaker": "Garek",
+      "text": "Tenez bon, Ilastar !",
+      "string_id": 1485,
+      "speaker_string_id": 1466,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T720-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "FootmanWarcry1",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Captured 01 Rescue Rack Q",
+      "speaker": "Fantassin",
+      "text": "Pour Lordaeron !",
+      "string_id": 1478,
+      "speaker_string_id": 1459,
+      "sound": "Units/Human/Footman/FootmanWarcry1.ogg"
+    },
+    {
+      "n": 71,
+      "id": "FootmanYesAttack3",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Captured 04 Rescue Rack Q",
+      "speaker": "Fantassin",
+      "text": "Aux armes !",
+      "string_id": 1257,
+      "speaker_string_id": 1258,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 72,
+      "id": "SorceressYesAttack2",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedSorceress Q",
+      "speaker": "Ensorceleuse",
+      "text": "La victoire nous appartient !",
+      "string_id": 1259,
+      "speaker_string_id": 1260,
+      "sound": "Units/Human/Sorceress/SorceressYesAttack2.flac"
+    },
+    {
+      "n": 73,
+      "id": "FootmanPissed4",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedFootman Q",
+      "speaker": "Fantassin",
+      "text": "Ce n’est qu’une égratignure…",
+      "string_id": 1139,
+      "speaker_string_id": 1140,
+      "sound": "Units/Human/Footman/FootmanPissed4.flac"
+    },
+    {
+      "n": 74,
+      "id": "PriestReady1",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedPriest Q",
+      "speaker": "Prêtre",
+      "text": "Je viens purifier ces terres.",
+      "string_id": 1142,
+      "speaker_string_id": 1143,
+      "sound": "Units/Human/Priest/PriestReady1.flac"
+    },
+    {
+      "n": 75,
+      "id": "RiflemanReady1",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedRifleman Q",
+      "speaker": "Fusilier",
+      "text": "Paré à tirer !",
+      "string_id": 1144,
+      "speaker_string_id": 1145,
+      "sound": "Units/Human/Rifleman/RiflemanReady1.flac"
+    },
+    {
+      "n": 76,
+      "id": "MortarTeamWhat1",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedMotarTeam Q",
+      "speaker": "Mortiers",
+      "text": "Que la fête commence !",
+      "string_id": 1146,
+      "speaker_string_id": 1147,
+      "sound": "Units/Human/MortarTeam/MortarTeamWhat1.flac"
+    }
+  ]
+}

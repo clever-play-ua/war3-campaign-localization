@@ -1,0 +1,692 @@
+{
+  "map": "UndeadRE02_06",
+  "title": "Scarlet Monastery",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M5-C010-010-MOGRAINE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Снова вы. На этот раз я очищу Лордерон от вашей скверны.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Снова вы. На этот раз я очищу Лордерон от вашей скверны.[/\"Angry\"]",
+      "string_id": 1194,
+      "speaker_string_id": 1195,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-010-MOGRAINE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M5-C010-020-WHITEMANE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Салли",
+      "text": "Мой защитник, уничтожь этих чудовищ!",
+      "string_id": 1184,
+      "speaker_string_id": 1185,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-020-WHITEMANE.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M5-C010-030-MOGRAINE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "За Алый орден!",
+      "string_id": 1190,
+      "speaker_string_id": 1191,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-030-MOGRAINE.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M5-C010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Отрекшиеся, в атаку!",
+      "string_id": 1188,
+      "speaker_string_id": 1189,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M5-C020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Мы вернули себе Тирисфальские леса. Фанатики отступили в свой монастырь.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Мы вернули себе Тирисфальские леса. Фанатики отступили в свой монастырь.[/\"Angry\"]",
+      "string_id": 899,
+      "speaker_string_id": 900,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M5-C020-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Пришло время разгромить эту цитадель и уничтожить их раз и навсегда.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Пришло время разгромить эту цитадель и уничтожить их раз и навсегда.[/\"Angry\"]",
+      "string_id": 847,
+      "speaker_string_id": 848,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-020-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M5-C020-030-LANDEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Воспоминания о Ландене",
+      "text": "Остаться в живых – вот истинная победа, награда за которую – мир.",
+      "string_id": 950,
+      "speaker_string_id": 951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-030-LANDEN.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M5-C020-040-LANDEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Воспоминания о Ландене",
+      "text": "Помни об этом.",
+      "string_id": 836,
+      "speaker_string_id": 837,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-040-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M5-C020-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Леди Сильвана, мне кажется, нам стоит вернуться в Подгород.",
+      "string_id": 869,
+      "speaker_string_id": 870,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-070-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M5-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Мы дали достойный отпор Алому ордену, но потеряли много бойцов. Если мы нападем на монастырь сейчас...",
+      "string_id": 877,
+      "speaker_string_id": 878,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M5-C020-081-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Отрекшиеся не могут пополнять свои ряды. Каждая потеря приближает нас к исчезновению. Неужели штурм монастыря оправдывает такой риск?",
+      "string_id": 1157,
+      "speaker_string_id": 1158,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-081-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M5-C020-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Твои мудрые слова заставили меня задуматься. Что ж, я удовлетворюсь этой победой и тем, что мы отстояли свою территорию.",
+      "string_id": 889,
+      "speaker_string_id": 890,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M5-C020-100-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Леонид",
+      "text": "Я сообщу Серебряному Рассвету о результатах битвы. Если Алый орден снова попытается что-то предпринять, отрекшиеся узнают об этом первыми.",
+      "string_id": 897,
+      "speaker_string_id": 898,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-100-LEONID.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M5-C020-110-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Леонид",
+      "text": "Я рад, что мы с вами на одной стороне. Знайте, что я всегда буду считать вас союзниками.",
+      "string_id": 908,
+      "speaker_string_id": 909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-110-LEONID.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M5-C020-120-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ания",
+      "text": "Ты был... весьма полезным. Постарайся не дать паладинам себя испортить.",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ты был... весьма полезным. Постарайся не дать паладинам себя испортить.[/\"Squint\"]",
+      "string_id": 917,
+      "speaker_string_id": 918,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-120-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M5-C020-130-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Алый орден не остановится. Свет велит им уничтожать нас.",
+      "string_id": 926,
+      "speaker_string_id": 927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-130-SYLVANAS.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M5-C020-140-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Может, и так. Но мне кажется, ими больше движет ненависть, чем Свет.",
+      "string_id": 933,
+      "speaker_string_id": 934,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-140-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M5-C020-150-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "И я верю, что есть те, кто может использовать Свет по-другому. Возможно, даже для защиты отрекшихся.",
+      "string_id": 1114,
+      "speaker_string_id": 1115,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-150-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M5-C020-160-CULTASSASSIN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Убийца из Плети",
+      "text": "Выходит, Алый орден и отрекшиеся понесли большие потери, сражаясь друг с другом.",
+      "string_id": 1128,
+      "speaker_string_id": 1129,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-160-CULTASSASSIN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M5-C020-170-CULTASSASSIN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Убийца из Плети",
+      "text": "А значит, час Плети пробьет уже очень скоро.",
+      "string_id": 1126,
+      "speaker_string_id": 1127,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-170-CULTASSASSIN.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M5-M010-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Твои сведения о враге оказались весьма точными, Леонид. Теперь обсудим саму битву.",
+      "string_id": 764,
+      "speaker_string_id": 765,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M5-M010-020-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Подходы к монастырю Алого ордена сильно укреплены. Наши войска немногочисленны, поэтому мы должны наносить удары осмотрительно.",
+      "string_id": 752,
+      "speaker_string_id": 753,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-020-SYLVANAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M5-M010-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Вам предстоит проникнуть в тыл врага, прорвать его оборону и уничтожить вражеских командиров.",
+      "string_id": 748,
+      "speaker_string_id": 749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M5-M010-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Сильвана",
+      "text": "Но знайте: если обстоятельства сложатся не в нашу пользу, я без колебаний прикажу отступить. Так что действуйте быстро, пока победа от нас не ускользнула.",
+      "string_id": 743,
+      "speaker_string_id": 744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M5-M010-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Гарек",
+      "text": "Будет исполнено, Темная Госпожа.",
+      "string_id": 739,
+      "speaker_string_id": 740,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2M5-T010-GAREK",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Create Q",
+      "speaker": "Гарек",
+      "text": "Наши силы на подходе. Чтобы они не попали в смертельную ловушку, нужно прорвать оборону Алого ордена.",
+      "string_id": 111,
+      "speaker_string_id": 112,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T010-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2M5-T020-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 750 Q",
+      "speaker": "Сильвана",
+      "text": "Мы понесли большие потери, но победа уже близка!",
+      "string_id": 409,
+      "speaker_string_id": 410,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T020-SYLVANAS.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2M5-T030-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 500 Q",
+      "speaker": "Сильвана",
+      "text": "Алый орден уже уничтожил половину нашего войска. Нельзя затягивать эту битву!",
+      "string_id": 125,
+      "speaker_string_id": 126,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T030-SYLVANAS.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2M5-T040-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 200 Q",
+      "speaker": "Сильвана",
+      "text": "Мы не сможем продолжать осаду! Надо поскорее заканчивать!",
+      "string_id": 138,
+      "speaker_string_id": 139,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T040-SYLVANAS.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2M5-T050-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 0 Q",
+      "speaker": "Сильвана",
+      "text": "Довольно! Битва проиграна. Я не стану больше жертвовать отрекшимися! Отступаем в Подгород!",
+      "string_id": 145,
+      "speaker_string_id": 146,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T050-SYLVANAS.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2M5-T060-ANYA",
+      "scene": "Scarlet Crusade.Archers.Scarlet Crusade Archers Approach Q",
+      "speaker": "Ания",
+      "text": "Из-за этих лучников мы понесем огромные потери. Уничтожьте их.",
+      "string_id": 152,
+      "speaker_string_id": 153,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T060-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2M5-T070-GAREK",
+      "scene": "Scarlet Crusade.Archers.Scarlet Crusade Archers Defeated Q",
+      "speaker": "Гарек",
+      "text": "Эта возвышенность теперь наша. Пора двигаться дальше!",
+      "string_id": 159,
+      "speaker_string_id": 160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T070-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2M5-T080-ANYA",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 01 Q",
+      "speaker": "Ания",
+      "text": "Темные следопыты ведут бои с крестоносцами в лесу. Если мы придем моим сестрам на помощь, они к нам присоединятся.",
+      "string_id": 253,
+      "speaker_string_id": 254,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T080-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2M5-T110-LEONID",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Q",
+      "speaker": "Леонид",
+      "text": "Слышал, тут неподалеку есть гарнизон, где Алый орден держит пленников-отрекшихся. Надо бы их вызволить.",
+      "string_id": 274,
+      "speaker_string_id": 275,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T110-LEONID.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2M5-T120-GAREK",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Rescued Q",
+      "speaker": "Гарек",
+      "text": "Следуйте за нами, солдаты! Мы атакуем монастырь Алого ордена!",
+      "string_id": 281,
+      "speaker_string_id": 282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T120-GAREK.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2M5-T130-GAREK",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Too Late Q",
+      "speaker": "Гарек",
+      "text": "Погибли. Все до единого. Вот что нас ждет, если Алый орден победит.",
+      "string_id": 1150,
+      "speaker_string_id": 1151,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T130-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2M5-T140-GAREK",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Discover Q",
+      "speaker": "Гарек",
+      "text": "Прорвать эту глухую оборону будет непросто. Нужно обойти рыцарей с фланга и расправиться с их капитаном.",
+      "string_id": 172,
+      "speaker_string_id": 173,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T140-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2M5-T150-SCARLETCAPTAIN",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Approach Q",
+      "speaker": "Капитан Тайхос",
+      "text": "Нежить атакует нас с возвышенности! Не дайте им пройти!",
+      "string_id": 353,
+      "speaker_string_id": 354,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T150-SCARLETCAPTAIN.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2M5-T160-GAREK",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Defeated Q",
+      "speaker": "Гарек",
+      "text": "Вражеские ряды дрогнули! Наше войско рвется вперед!",
+      "string_id": 182,
+      "speaker_string_id": 183,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T160-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2M5-T170-LEONID",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Defeated Q",
+      "speaker": "Леонид",
+      "text": "Алый орден обязательно нанесет ответный удар. Мы должны как можно скорее добраться до монастыря.",
+      "string_id": 185,
+      "speaker_string_id": 186,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T170-LEONID.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2M5-T180-ANYA",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Discover Q",
+      "speaker": "Ания",
+      "text": "Инквизитор попытается испепелить наши силы с помощью Света. Нужно его убить!",
+      "string_id": 500,
+      "speaker_string_id": 501,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T180-ANYA.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2M5-T190-SCARLETINQUISITOR",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Approach Q",
+      "speaker": "Инквизитор Керран",
+      "text": "Мерзкие чудовища! Да поглотит вас священный огонь!",
+      "string_id": 490,
+      "speaker_string_id": 491,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T190-SCARLETINQUISITOR.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2M5-T200-ANYA",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Defeated Q",
+      "speaker": "Ания",
+      "text": "Наконец-то. Теперь наше войско сможет продвинуться дальше.",
+      "string_id": 450,
+      "speaker_string_id": 451,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T200-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2M5-T220-SCARLETCRUSADER",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Approach Q",
+      "speaker": "Крестоносец Артоний",
+      "text": "Нет! Здесь вашей осаде и придет конец!",
+      "string_id": 479,
+      "speaker_string_id": 480,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T220-SCARLETCRUSADER.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2M5-T230-LEONID",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Meat Wagons Bastion Q",
+      "speaker": "Леонид",
+      "text": "У Алого ордена осталась лишь одна линия обороны. До монастыря рукой подать!",
+      "string_id": 474,
+      "speaker_string_id": 475,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T230-LEONID.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2M5-T240-GAREK",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Meat Wagons Bastion Q",
+      "speaker": "Гарек",
+      "text": "Пришло время положить этой битве конец!",
+      "string_id": 472,
+      "speaker_string_id": 473,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T240-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2M5-T250-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Start Fight Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Атакуем все вместе!",
+      "string_id": 1178,
+      "speaker_string_id": 1179,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T250-WHITEMANE.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2M5-T260-mograine",
+      "scene": "Scarlet Camp.Scarlet Camp Start Fight Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Я буду рядом с вами, миледи!",
+      "string_id": 1180,
+      "speaker_string_id": 1181,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T260-mograine.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2M5-T270-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 01 Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Сразитесь со мной, чудовища!",
+      "string_id": 1244,
+      "speaker_string_id": 1245,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T270-MOGRAINE.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2M5-T280-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 02 Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Вас всех ждет очищение!",
+      "string_id": 1257,
+      "speaker_string_id": 1258,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T280-MOGRAINE.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2M5-T290-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 03 Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Никто не сможет противостоять Алому ордену!",
+      "string_id": 1262,
+      "speaker_string_id": 1263,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T290-MOGRAINE.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2M5-T300-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Rescue Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Как смеете вы нападать на верховного инквизитора?!",
+      "string_id": 1275,
+      "speaker_string_id": 1276,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T300-MOGRAINE.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2M5-T310-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 04 Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Я положу конец вашему жалкому существованию!",
+      "string_id": 1278,
+      "speaker_string_id": 1279,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T310-MOGRAINE.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2M5-T320-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Revive Taunt Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "В бой, мой защитник!",
+      "string_id": 1200,
+      "speaker_string_id": 1201,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T320-WHITEMANE.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2M5-T330-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 1 Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Свет хранит тех, кто ему служит!",
+      "string_id": 1203,
+      "speaker_string_id": 1204,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T330-WHITEMANE.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2M5-T340-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 2 Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Победа будет за нами!",
+      "string_id": 1215,
+      "speaker_string_id": 1216,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T340-WHITEMANE.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2M5-T350-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 3 Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Уничтожь этих язычников, Могрейн!",
+      "string_id": 1220,
+      "speaker_string_id": 1221,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T350-WHITEMANE.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2M5-T360-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 4 Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Да разгорится спасительное пламя!",
+      "string_id": 1225,
+      "speaker_string_id": 1226,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T360-WHITEMANE.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2M5-T370-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp End Fight Q",
+      "speaker": "Командир Алого ордена Могрейн",
+      "text": "Нас теснят, миледи! Мы должны отступить, чтобы защитить монастырь!",
+      "string_id": 1230,
+      "speaker_string_id": 1231,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T370-MOGRAINE.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2M5-T380-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp End Fight Q",
+      "speaker": "Верховный инквизитор Вайтмейн",
+      "text": "Хорошо. Однажды эти гнусные твари заплатят за свое предательство!",
+      "string_id": 1239,
+      "speaker_string_id": 1240,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T380-WHITEMANE.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2M5-T555-DEATHGUARD",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Discover Q",
+      "speaker": "Страж смерти",
+      "text": "Капитан! Мы можем разрушить башню с помощью мясных фургонов, но сначала нужно избавиться от пушек!",
+      "string_id": 466,
+      "speaker_string_id": 467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T555-DEATHGUARD.ogg"
+    },
+    {
+      "n": 62,
+      "id": "ForsakenRanger_Ready1",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 01 Rescued Q",
+      "speaker": "Отрекшийся-следопыт",
+      "text": "Я служу Королеве-банши!",
+      "string_id": 260,
+      "speaker_string_id": 261,
+      "sound": "Units/Undead/ForsakenRanger/ForsakenRanger_Ready1.ogg"
+    },
+    {
+      "n": 63,
+      "id": "ForsakenVillagerF_What1",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 02 Rescued Q",
+      "speaker": "Отрекшийся-следопыт",
+      "text": "Приветствую!",
+      "string_id": 267,
+      "speaker_string_id": 268,
+      "sound": "Units/Critters/ForsakenVillagerF/ForsakenVillagerF_What1.ogg"
+    },
+    {
+      "n": 64,
+      "id": "FootmanYesAttack2",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 01 Q",
+      "speaker": "Пехотинец Алого ордена",
+      "text": "В атаку!",
+      "string_id": 327,
+      "speaker_string_id": 328,
+      "sound": "Units/Human/Footman/FootmanYesAttack2.flac"
+    },
+    {
+      "n": 65,
+      "id": "ScarletMarksman_Warcry1",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 02 Q",
+      "speaker": "Стрелок Алого ордена",
+      "text": "Я твою голову на стену повешу!",
+      "string_id": 320,
+      "speaker_string_id": 321,
+      "sound": "Units/Human/ScarletMarksman/ScarletMarksman_Warcry1.ogg"
+    },
+    {
+      "n": 66,
+      "id": "FootmanYesAttack3",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 03 Q",
+      "speaker": "Пехотинец Алого ордена",
+      "text": "К оружию!",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 67,
+      "id": "FootmanYesAttack2",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 04 Q",
+      "speaker": "Пехотинец Алого ордена",
+      "text": "В атаку!",
+      "string_id": 327,
+      "speaker_string_id": 328,
+      "sound": "Units/Human/Footman/FootmanYesAttack2.flac"
+    },
+    {
+      "n": 68,
+      "id": "KnightWarcry1",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 05 Q",
+      "speaker": "Крестоносец",
+      "text": "За честь и свободу!",
+      "string_id": 707,
+      "speaker_string_id": 708,
+      "sound": "Units/Human/Knight/KnightWarcry1.flac"
+    }
+  ]
+}

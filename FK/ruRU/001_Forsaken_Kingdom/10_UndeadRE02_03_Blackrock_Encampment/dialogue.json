@@ -1,0 +1,98 @@
+{
+  "map": "UndeadRE02_03",
+  "title": "Blackrock Encampment",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M3-T010-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Ания",
+      "text": "Орки. Эти земли уже много лет страдают от их набегов.",
+      "string_id": 39,
+      "speaker_string_id": 40,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M3-T020-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Леонид",
+      "text": "Не все орки такие. Но клан Черной горы печально известен своими набегами.",
+      "string_id": 319,
+      "speaker_string_id": 320,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M3-T030-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Гарек",
+      "text": "Тогда надо объяснить им, что не стоит трогать отрекшихся.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M3-T040-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 02 The Deed Is Done",
+      "speaker": "Ания",
+      "text": "Дело сделано. Быть может, другие орки внемлют этому предупреждению.",
+      "string_id": 53,
+      "speaker_string_id": 54,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M3-T050-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Гарек",
+      "text": "Леонид, ты говорил, что не все орки представляют угрозу. Ты что, встречал другие кланы?",
+      "string_id": 57,
+      "speaker_string_id": 58,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M3-T060-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Леонид",
+      "text": "Да, в Серебряном Рассвете. До меня доходили слухи о молодом вожде, который увел многих орков за море.",
+      "string_id": 335,
+      "speaker_string_id": 336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T060-LEONID.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M3-T061-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Леонид",
+      "text": "Говорят, он создает новую Орду, которая ценит силу и честь.",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T061-LEONID.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M3-T070-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Ания",
+      "text": "Поверю, только если сама таких орков увижу.",
+      "string_id": 71,
+      "speaker_string_id": 72,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HeroBladeMasterYesAttack3",
+      "scene": "Dialogues.Transmissions Dialogue 04 Blademaster Taunt 1",
+      "speaker": "Никоро",
+      "text": "Отведай моего клинка!",
+      "string_id": 341,
+      "speaker_string_id": 342,
+      "sound": "Units/Orc/HeroBladeMaster/HeroBladeMasterYesAttack3.flac"
+    }
+  ]
+}

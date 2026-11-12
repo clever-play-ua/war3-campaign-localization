@@ -1,0 +1,521 @@
+{
+  "map": "UndeadRE03a",
+  "title": "War of the Damned",
+  "locale": "plPL",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3M1-C010-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Anyu! Kapitanie Bandarionie! Tutaj!",
+      "string_id": 1694,
+      "speaker_string_id": 1695,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3M1-C010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Pani Sylwano, co to jest?!",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Pani Sylwano, co to jest?![/\"Surprised\"]",
+      "string_id": 1696,
+      "speaker_string_id": 1697,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3M1-C010-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Naxxramas. Pradawna nekropolia przemieniona w latającą fortecę. Siedziba arcylisza Kel’Thuzada.",
+      "string_id": 1698,
+      "speaker_string_id": 1699,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3M1-C010-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Jej niszczycielska moc jest ogromna, lecz zniszczenie ruin miasta nie było celem Plagi.",
+      "string_id": 1700,
+      "speaker_string_id": 1701,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3M1-C010-050-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Uderzenie wymierzone było w powierzchnię, by otworzyć wejście do Podmiasta. Chcą wedrzeć się do środka i odebrać je Porzuconym.",
+      "string_id": 1702,
+      "speaker_string_id": 1703,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-050-SYLVANAS.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A3M1-C010-060-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Stłumię ataki z powietrza, ale ich siły naziemne już tu zmierzają. Nasza obrona nie wytrzyma długo.",
+      "string_id": 1704,
+      "speaker_string_id": 1705,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-060-SYLVANAS.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A3M1-C010-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Wzmocnimy ją, jak tylko się da.",
+      "string_id": 1706,
+      "speaker_string_id": 1707,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-070-GAREK.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A3M1-C010-080-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Plaga nie dotrze do Podmiasta, Mroczna Pani. Przysięgam.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-080-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A3M1-C010-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Dobrze. Idźcie więc. Los Porzuconych jest w waszych rękach.",
+      "string_id": 1710,
+      "speaker_string_id": 1711,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A3M1-C020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Przybywasz w odpowiedniej chwili, Leonidzie. Choć niespodziewanie.",
+      "string_id": 1712,
+      "speaker_string_id": 1713,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A3M1-C020-020-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Kiedy zobaczyliśmy Naxxramas zmierzające w stronę Podmiasta, odgadliśmy zamiary Plagi. Nie można pozwolić, by twierdza pozostała w locie.",
+      "string_id": 1714,
+      "speaker_string_id": 1715,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-020-LEONID.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A3M1-C020-030-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Leonid",
+      "text": "Plaga wysłała swoje siły na pokładzie podniebnej barki. Gdyby udało nam się przejąć jedną z nich, moglibyśmy dotrzeć do nekropolii.",
+      "string_id": 1716,
+      "speaker_string_id": 1717,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-030-LEONID.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A3M1-C020-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Podniebna barka pomieści tylko kilkoro z nas. Jak zniszczymy Naxxramas, kiedy już się tam dostaniemy?",
+      "string_id": 1718,
+      "speaker_string_id": 1719,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-040-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A3M1-C020-050-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Być może jestem w stanie w tym pomóc.",
+      "string_id": 1720,
+      "speaker_string_id": 1721,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-050-BERND.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A3M1-C020-060-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "To ładunki wybuchowe, których używają moje ekipy rozbiórkowe.",
+      "string_id": 1722,
+      "speaker_string_id": 1723,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-060-BERND.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A3M1-C020-070-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Jeśli zdetonujecie je w kluczowych punktach konstrukcyjnych, cała ta przeklęta budowla się zawali.",
+      "string_id": 1724,
+      "speaker_string_id": 1725,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-070-BERND.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A3M1-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Wszystkich nas ratujesz, przyjacielu.",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]Wszystkich nas ratujesz, przyjacielu.[/\"Happy\"]",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A3M1-C020-090-BERND",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Bernd",
+      "text": "Zwyczajnie się odwdzięczam.",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]Zwyczajnie się odwdzięczam.[/\"Happy\"]",
+      "string_id": 1728,
+      "speaker_string_id": 1729,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-090-BERND.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A3M1-C020-100-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Zatem plan jest jasny. Gareku, powierzam ci misję zniszczenia Naxxramas.",
+      "string_id": 1730,
+      "speaker_string_id": 1731,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-100-SYLVANAS.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A3M1-C020-110-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Sylwana",
+      "text": "Pozostała część naszego nieoczekiwanego sojuszu będzie bronić Podmiasta do waszego powrotu.",
+      "string_id": 1732,
+      "speaker_string_id": 1733,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-110-SYLVANAS.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A3M1-C020-120-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Tak się stanie, Mroczna Pani.",
+      "string_id": 1734,
+      "speaker_string_id": 1735,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-120-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A3M1-T010-SYLVANAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold GameplayStart Q",
+      "speaker": "Sylwana",
+      "text": "Zbierzcie tyle sił, ile się da. Po drugiej stronie pola bitwy także możecie napotkać kogoś, kto potrzebuje pomocy.",
+      "string_id": 1753,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T010-SYLVANAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A3M1-T020-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q",
+      "speaker": "Anya",
+      "text": "Powstrzymanie natarcia lądowego nic nie da, jeśli Naxxramas znów do nas wystrzeli.",
+      "string_id": 1754,
+      "speaker_string_id": 1737,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T020-ANYA.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A3M1-T030-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q",
+      "speaker": "Garek",
+      "text": "Musimy więc znaleźć sposób.",
+      "string_id": 1755,
+      "speaker_string_id": 1738,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T030-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A3M1-T040-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q",
+      "speaker": "Straż Śmierci",
+      "text": "Kapitanie Bandarionie! Zabezpieczyliśmy pozycje na dwóch kolejnych mostach, ale nie utrzymamy ich długo!",
+      "string_id": 1758,
+      "speaker_string_id": 1757,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T040-DEATHGUARD.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A3M1-T050-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q",
+      "speaker": "Garek",
+      "text": "Wyślemy dodatkowe jednostki, jeśli będzie trzeba. Stawiajcie opór, dopóki tylko się da. W ostateczności się wycofajcie!",
+      "string_id": 1756,
+      "speaker_string_id": 1739,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T050-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A3M1-T060-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 01 Rescue Q",
+      "speaker": "Straż Śmierci",
+      "text": "Dobrze, że dołączasz do bitwy, kapitanie Bandarionie.",
+      "string_id": 1785,
+      "speaker_string_id": 1782,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T060-DEATHGUARD.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A3M1-T070-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 02 Rescue Q",
+      "speaker": "Straż Śmierci",
+      "text": "Pijawki Plagi pożałują, że zaatakowały nasz dom!",
+      "string_id": 1786,
+      "speaker_string_id": 1783,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T070-DEATHGUARD.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A3M1-T080-DEATHGUARD",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 04 Rescue Q",
+      "speaker": "Straż Śmierci",
+      "text": "Ha! Potrzeba więcej, żeby pokonać Porzuconych!",
+      "string_id": 1787,
+      "speaker_string_id": 1784,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T080-DEATHGUARD.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A3M1-T090-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold MeatWagons Q NOT USED",
+      "speaker": "Garek",
+      "text": "Wozy z mięsem mają przewagę wysokości. Nasi robotnicy mogą je naprawić. To wzmocni naszą obronę.",
+      "string_id": 1760,
+      "speaker_string_id": 1759,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T090-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A3M1-T100-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost1 Q",
+      "speaker": "Varimathras",
+      "text": "Straciliśmy most! Odwrót! Osłaniam was!",
+      "string_id": 1761,
+      "speaker_string_id": 1740,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T100-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A3M1-T110-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost2 Q",
+      "speaker": "Varimathras",
+      "text": "Nie utrzymamy tej pozycji! Wracajcie do Podmiasta!",
+      "string_id": 1762,
+      "speaker_string_id": 1741,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T110-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A3M1-T120-VARIMATHRAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost3 Q",
+      "speaker": "Varimathras",
+      "text": "Jest ich zbyt wiele! Wycofajcie się, póki możecie!",
+      "string_id": 1763,
+      "speaker_string_id": 1742,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T120-VARIMATHRAS.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A3M1-T130-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q",
+      "speaker": "Garek",
+      "text": "Czy ich jest nieskończenie wielu?",
+      "string_id": 1764,
+      "speaker_string_id": 1743,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T130-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A3M1-T140-SYLVANAS",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q",
+      "speaker": "Sylwana",
+      "text": "Pozostać na pozycjach! Jeśli tu polegniemy, Porzuceni zginą!",
+      "string_id": 1765,
+      "speaker_string_id": 1744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T140-SYLVANAS.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A3M1-T150-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q",
+      "speaker": "Leonid",
+      "text": "Rycerze Srebrzystego Brzasku! Zniszczcie bluźnierców Plagi!",
+      "string_id": 1768,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T150-LEONID.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A3M1-T160-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q",
+      "speaker": "Garek",
+      "text": "To Leonid! Srebrzysty Brzask dołączył do bitwy!",
+      "string_id": 1766,
+      "speaker_string_id": 1745,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T160-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A3M1-T170-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold Completed Q",
+      "speaker": "Garek",
+      "text": "Zabezpieczyliśmy ruiny! Przegrupujmy się przy wejściu do Podmiasta!",
+      "string_id": 1769,
+      "speaker_string_id": 1746,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T170-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A3M1-T180-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Discover Q",
+      "speaker": "Leonid",
+      "text": "Dołączę do was podczas natarcia na Naxxramas. Być może wiem, w których miejscach eksplozje wyrządzą najwięcej szkód.",
+      "string_id": 1770,
+      "speaker_string_id": 1771,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T180-LEONID.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A3M1-T190-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Garek",
+      "text": "Leonidzie, skąd wiesz, gdzie podkładać bomby?",
+      "string_id": 1774,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T190-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A3M1-T200-LEONID",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Leonid",
+      "text": "Byłem już w Naxxramas... jako jeden z pionków Plagi. Nadal pamiętam wszystko, co tam widziałem.",
+      "string_id": 1772,
+      "speaker_string_id": 1773,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T200-LEONID.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A3M1-T210-ANYA",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Anya",
+      "text": "Byłeś więc w Stratholmie. Przeniesiono tam twierdzę, po tym jak wydarto ją z mroźnych pustkowi Północnej Grani.",
+      "string_id": 1775,
+      "speaker_string_id": 1748,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T210-ANYA.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A3M1-T220-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Garek",
+      "text": "Stratholm... dlaczego...",
+      "string_id": 1776,
+      "speaker_string_id": 1749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T220-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A3M1-T230-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q",
+      "speaker": "Garek",
+      "text": "Nie. To teraz nieistotne. Liczy się tylko nasza misja.",
+      "string_id": 1777,
+      "speaker_string_id": 1750,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T230-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A3M1-T240-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky GateEnemies Q",
+      "speaker": "Garek",
+      "text": "Musimy prędko dostać się na podniebną barkę, zanim nas otoczą!",
+      "string_id": 1778,
+      "speaker_string_id": 1751,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T240-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A3M1-T250-NECROMANCERMORKATH",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update1 Q",
+      "speaker": "Nekromanta Morkath",
+      "text": "Intruzi! Wasz zdradziecki lud ukorzy się przed Plagą!",
+      "string_id": 1779,
+      "speaker_string_id": 1780,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T250-NECROMANCERMORKATH.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A3M1-T260-GAREK",
+      "scene": "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update2 Q",
+      "speaker": "Garek",
+      "text": "Szybko, na barkę! Zanim pojawią się posiłki!",
+      "string_id": 1781,
+      "speaker_string_id": 1752,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T260-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "DeathKnightWarcry1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold DeathKnightAttacked Q",
+      "speaker": "Rycerz Śmierci",
+      "text": "Niech zapanuje groza!",
+      "string_id": 1402,
+      "speaker_string_id": 1403,
+      "sound": "Units/Undead/HeroDeathKnight/DeathKnightWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "HeroLichYesAttack1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold LichAttacked Q",
+      "speaker": "Lisz",
+      "text": "Nadszedł twój koniec!",
+      "string_id": 1404,
+      "speaker_string_id": 1405,
+      "sound": "Units/Undead/HeroLich/HeroLichYesAttack1.flac"
+    },
+    {
+      "n": 50,
+      "id": "NerubianCryptLordPissed1",
+      "scene": "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold CryptLordAttacked Q",
+      "speaker": "Władca Krypty",
+      "text": "Plaga pochłonie wszystko!",
+      "string_id": 1621,
+      "speaker_string_id": 1622,
+      "sound": "Units/Undead/HeroCryptLord/NerubianCryptLordPissed1.flac"
+    },
+    {
+      "n": 51,
+      "id": "AbominationWhat1",
+      "scene": "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 03 Rescue Abomination Q",
+      "speaker": "Plugastwo",
+      "text": "Co robimy?",
+      "string_id": 1286,
+      "speaker_string_id": 1287,
+      "sound": "Units/Undead/Abomination/AbominationWhat1.flac"
+    }
+  ]
+}

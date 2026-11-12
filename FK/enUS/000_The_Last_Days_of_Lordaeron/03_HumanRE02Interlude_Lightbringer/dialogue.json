@@ -1,0 +1,101 @@
+{
+  "map": "HumanRE02Interlude",
+  "title": "Lightbringer",
+  "locale": "enUS",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02I-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Lord Uther! Did you face Prince Arthas?",
+      "string_id": 61,
+      "speaker_string_id": 62,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02I-M010-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "No. By the time I had consecrated Terenas's remains, Arthas had left the city.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]No. By the time I had consecrated Terenas's remains, Arthas had left the city.[/\"Angry\"]",
+      "string_id": 58,
+      "speaker_string_id": 59,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-020-UTHER.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02I-M010-023-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Your captain is not with you. Did he...",
+      "string_id": 105,
+      "speaker_string_id": 106,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-023-UTHER.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02I-M010-025-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "He was murdered by that traitor Rivendare. If not for Captain Landen, I'd be dead too.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.25 easein=0.45 easeout=0.55]He was murdered by that traitor Rivendare.[/\"Angry\"] [\"Sad\" type=quad v2=0.25 v3=0.5 easein=0.55 easeout=0.45]If not for Captain Landen, I'd be dead too.[/\"Sad\"]",
+      "string_id": 107,
+      "speaker_string_id": 108,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-025-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02I-M010-028-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "I grieve with you, Lieutenant. We must ensure that his sacrifice was not made in vain.",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]I grieve with you, Lieutenant. We must ensure that his sacrifice was not made in vain.[/\"Sad\"]",
+      "string_id": 109,
+      "speaker_string_id": 110,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-028-UTHER.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02I-M010-030-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Unfortunately, Andorhal is now surrounded by cultists and necromancers. We don’t have the strength to break their siege.",
+      "string_id": 103,
+      "speaker_string_id": 104,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-030-UTHER.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02I-M010-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "I will bring the survivors to Hearthglen and gather reinforcements. You remain here and harry the cultists until I return.",
+      "string_id": 82,
+      "speaker_string_id": 83,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-040-UTHER.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02I-M010-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Understood, sir.",
+      "string_id": 84,
+      "speaker_string_id": 85,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02I-M010-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "The cult must not take Andorhal. Light guide your path.",
+      "string_id": 88,
+      "speaker_string_id": 89,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-060-UTHER.ogg"
+    }
+  ]
+}

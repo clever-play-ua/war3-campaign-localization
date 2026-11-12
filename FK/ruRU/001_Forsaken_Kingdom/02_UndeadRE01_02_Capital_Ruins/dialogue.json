@@ -1,0 +1,498 @@
+{
+  "map": "UndeadRE01_02",
+  "title": "Capital Ruins",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M2-M020-010-BANSHEE",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Марья",
+      "text": "Мой любимый! Где он? Я должна его найти!",
+      "string_id": 2016,
+      "speaker_string_id": 2017,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-010-BANSHEE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M2-M020-020-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Ания",
+      "text": "Она переживает момент своей смерти. Похоже, один из этих неупокоенных мертвецов – ее возлюбленный.",
+      "string_id": 2014,
+      "speaker_string_id": 2015,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M2-M020-030-ANYA",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Ания",
+      "text": "Если мы уничтожим это видение, возможно, она придет в себя.",
+      "string_id": 2012,
+      "speaker_string_id": 2013,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M2-M020-040-GAREK",
+      "scene": "Initialization.DialogeReference",
+      "speaker": "Гарек",
+      "text": "Ясно. Тогда нам нужно как-то ее умиротворить.",
+      "string_id": 2010,
+      "speaker_string_id": 2011,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-M020-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M2-T010-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "Ания",
+      "text": "Будь начеку, Гарек. Не все, кто выходит из-под власти Плети, такие же дружелюбные, как мы.",
+      "string_id": 1726,
+      "speaker_string_id": 1727,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T010-ANYA.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M2-T020-GAREK",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "Гарек",
+      "text": "Хочешь сказать, нам, возможно, придется защищаться?",
+      "string_id": 1735,
+      "speaker_string_id": 1736,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T020-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M2-T030-ANYA",
+      "scene": "Forsaken.Forsaken Leaderboard Create Q",
+      "speaker": "Ания",
+      "text": "Ого, а ты схватываешь на лету.",
+      "string_id": 1746,
+      "speaker_string_id": 1747,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M2-T040-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "Ания",
+      "text": "Эй. Сильвана Ветрокрылая предлагает тебе укрытие в Подгороде. Отправляйся к стокам.",
+      "string_id": 1755,
+      "speaker_string_id": 1756,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T040-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M2-T050-GAREK",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "Гарек",
+      "text": "Хм. Вроде несложно.",
+      "string_id": 1766,
+      "speaker_string_id": 1767,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T050-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M2-T060-ANYA",
+      "scene": "Forsaken.Forsaken 01 Enter Q",
+      "speaker": "Ания",
+      "text": "Но искушать судьбу не стоит.",
+      "string_id": 1777,
+      "speaker_string_id": 1778,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T060-ANYA.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M2-T061-ANYA",
+      "scene": "Encounters.Encounter A Enter Q",
+      "speaker": "Ания",
+      "text": "Прислужники Плети продолжают рыскать по этим руинам и строить против нас козни. Надо их истребить.",
+      "string_id": 1982,
+      "speaker_string_id": 1983,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T061-ANYA.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M2-T070-SURVIVOR",
+      "scene": "Forsaken.Forsaken 02 Enter Q",
+      "speaker": "Уцелевший отрекшийся",
+      "text": "Нужно есть! Еды!",
+      "string_id": 1786,
+      "speaker_string_id": 1787,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T070-SURVIVOR.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A1M2-T080-GAREK",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "Гарек",
+      "text": "Они были лишенными разума оболочками... Ания, если бы я очнулся в таком виде...",
+      "string_id": 1795,
+      "speaker_string_id": 1796,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T080-GAREK.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A1M2-T090-ANYA",
+      "scene": "Forsaken.Forsaken 02 Unit Dies Q",
+      "speaker": "Ания",
+      "text": "Тогда я бы тебя убила и позволила Гнилессу разобрать тебя на части. Ладно, пошли дальше.",
+      "string_id": 1804,
+      "speaker_string_id": 1805,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T090-ANYA.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A1M2-T100-ANYA",
+      "scene": "Forsaken.Forsaken 04 Enter Q",
+      "speaker": "Ания",
+      "text": "Еще захватчики из Плети! Скорее, нужно спасти Отрекшихся!",
+      "string_id": 1863,
+      "speaker_string_id": 1864,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T100-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A1M2-T110-ANYA",
+      "scene": "Forsaken.Forsaken 04 Scourge Defeated Q",
+      "speaker": "Ания",
+      "text": "Теперь вы в безопасности. Спускайтесь в стоки. Темная Госпожа не даст вас в обиду.",
+      "string_id": 1894,
+      "speaker_string_id": 1895,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T110-ANYA.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A1M2-T120-BERND",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "Бернд",
+      "text": "Кто-нибудь! Помогите!",
+      "string_id": 1813,
+      "speaker_string_id": 1814,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T120-BERND.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A1M2-T130-GAREK",
+      "scene": "Forsaken.Forsaken 03 Enter Q",
+      "speaker": "Гарек",
+      "text": "А ну руки прочь!",
+      "string_id": 1839,
+      "speaker_string_id": 1840,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T130-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A1M2-T140-BERND",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "Бернд",
+      "text": "Спасибо! Вы нас спасли!",
+      "string_id": 1845,
+      "speaker_string_id": 1846,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T140-BERND.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A1M2-T150-GAREK",
+      "scene": "Forsaken.Forsaken 03 Scourge Defeated Q",
+      "speaker": "Гарек",
+      "text": "Спускайтесь в стоки. Госпожа Сильвана дает укрытие всем отрекшимся.",
+      "string_id": 1854,
+      "speaker_string_id": 1855,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T150-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A1M2-T160-BANSHEE",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "Марья",
+      "text": "Он... исчез. Теперь я все вспомнила... Спасибо вам.",
+      "string_id": 1609,
+      "speaker_string_id": 1610,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T160-BANSHEE.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A1M2-T170-ANYA",
+      "scene": "Banshee.Banshee A Zombie Lover Q",
+      "speaker": "Ания",
+      "text": "Ты освободилась от своего прошлого. Отправляйся в Подгород. Темная Госпожа будет рада тебя приветствовать.",
+      "string_id": 1616,
+      "speaker_string_id": 1617,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T170-ANYA.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A1M2-T180-BANSHEE",
+      "scene": "Banshee.Banshee B Enter Q",
+      "speaker": "Алексия",
+      "text": "Бегите, дети! Культ никого не пощадит!",
+      "string_id": 1625,
+      "speaker_string_id": 1626,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T180-BANSHEE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A1M2-T190-BANSHEE",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "Алексия",
+      "text": "Мертвы... Все мертвы.",
+      "string_id": 1634,
+      "speaker_string_id": 1635,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T190-BANSHEE.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A1M2-T200-ANYA",
+      "scene": "Banshee.Banshee B Cultist Defeated Q",
+      "speaker": "Ания",
+      "text": "Как закончишь скорбеть, отправляйся в Подгород. Там ты обретешь новый дом.",
+      "string_id": 1643,
+      "speaker_string_id": 1644,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T200-ANYA.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A1M2-T210-KAELYSTIA",
+      "scene": "Banshee.Banshee C Enter Q",
+      "speaker": "Келестия",
+      "text": "Кто посмел нарушить мой покой?! Я сожгу вас своей магией!",
+      "string_id": 1655,
+      "speaker_string_id": 1656,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T210-KAELYSTIA.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A1M2-T220-ANYA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "Ания",
+      "text": "Довольно. Присоединяйся к отрекшимся и направь свой гнев на Плеть.",
+      "string_id": 1664,
+      "speaker_string_id": 1665,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T220-ANYA.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A1M2-T230-KAELYSTIA",
+      "scene": "Banshee.Banshee C Dies Q",
+      "speaker": "Келестия",
+      "text": "Хорошо... Я так и сделаю. Спасибо, что помогли мне снять наваждение.",
+      "string_id": 1676,
+      "speaker_string_id": 1677,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T230-KAELYSTIA.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A1M2-T240-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Гарек",
+      "text": "Какая же мрачная участь – сначала воскреснуть в виде нежити, а затем осознать ужас своего нового существования.",
+      "string_id": 1681,
+      "speaker_string_id": 1682,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T240-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A1M2-T250-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Ания",
+      "text": "Ну это как посмотреть. Что ты предпочтешь: гнить в земле или получить второй шанс?",
+      "string_id": 1690,
+      "speaker_string_id": 1691,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T250-ANYA.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A1M2-T260-GAREK",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Гарек",
+      "text": "Трудно сказать. О своей прошлой жизни я совершенно ничего не помню.",
+      "string_id": 1699,
+      "speaker_string_id": 1700,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T260-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A1M2-T270-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Ания",
+      "text": "Возможно, оно и к лучшему. Многие из нас помнят, как умерли и что нам приходилось делать до того, как мы вновь обрели свободу воли.",
+      "string_id": 1708,
+      "speaker_string_id": 1709,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T270-ANYA.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A1M2-T280-ANYA",
+      "scene": "Forsaken.Forsaken Aftermath Enter Q",
+      "speaker": "Ания",
+      "text": "Не всем повезло начать новую жизнь с чистого листа.",
+      "string_id": 1713,
+      "speaker_string_id": 1714,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T280-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A1M2-T300-ANYA",
+      "scene": "Abomination.Abomination Human Base Enter Q",
+      "speaker": "Ания",
+      "text": "Среди этих руин встречаются живые. Надо перебить их всех до единого.",
+      "string_id": 1934,
+      "speaker_string_id": 1935,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T300-ANYA.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A1M2-T301-SILVERHANDKNIGHT",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "Люциан Озаренный",
+      "text": "Еще больше мерзких выродков! Свет испепелит вас!",
+      "string_id": 1943,
+      "speaker_string_id": 1944,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T301-SILVERHANDKNIGHT.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A1M2-T302-ANYA",
+      "scene": "Abomination.Abomination Paladin Enter Q",
+      "speaker": "Ания",
+      "text": "Паладин! Убьем его!",
+      "string_id": 1958,
+      "speaker_string_id": 1959,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T302-ANYA.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A1M2-T310-GAREK",
+      "scene": "Abomination.Abomination Paladin Dies Q",
+      "speaker": "Гарек",
+      "text": "Ну и задачка, конечно. Чанн не мог чего попроще придумать?",
+      "string_id": 1967,
+      "speaker_string_id": 1968,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T310-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A1M2-T320-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "Ания",
+      "text": "Маршал Гаритос, одинаково ненавидимый как врагами, так и союзниками. Никто и слезинки не проронил, когда Сильвана его убила.",
+      "string_id": 1902,
+      "speaker_string_id": 1903,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T320-ANYA.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A1M2-T330-ANYA",
+      "scene": "Abomination.Abomination Garithos Picked Q",
+      "speaker": "Ания",
+      "text": "Зачем только Чанну потребовались его останки? Может, это такое возмездие?",
+      "string_id": 1911,
+      "speaker_string_id": 1912,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T330-ANYA.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A1M2-T760-ANYA",
+      "scene": "Ghoul.Ghoul Approached Q",
+      "speaker": "Ания",
+      "text": "Погоди, этот вурдалак... читает? Но это невозможно.",
+      "string_id": 1530,
+      "speaker_string_id": 1531,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T760-ANYA.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A1M2-T770-GAREK",
+      "scene": "Ghoul.Ghoul Flee Q",
+      "speaker": "Гарек",
+      "text": "Хм-м. Можно попытаться выманить его парочкой книг.",
+      "string_id": 1539,
+      "speaker_string_id": 1540,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T770-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A1M2-T771-GAREK",
+      "scene": "Ghoul.Ghoul Lure Item Dropped Q",
+      "speaker": "Гарек",
+      "text": "Видимо, он нас боится. Давай отойдем подальше, чтобы ему было спокойнее.",
+      "string_id": 1562,
+      "speaker_string_id": 1563,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T771-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A1M2-T772-ANYA",
+      "scene": "Ghoul.Ghoul Lured Captured Q",
+      "speaker": "Ания",
+      "text": "Сдается мне, Чанн даже найдет в нем родственную душу.",
+      "string_id": 2156,
+      "speaker_string_id": 2157,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m2/A1M2-T772-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "BansheeYesAttack2",
+      "scene": "Tome Wraiths.Tome Wraiths GHOUL Activate Q",
+      "speaker": "Книжный дух",
+      "text": "Разделите мою боль!",
+      "string_id": 1987,
+      "speaker_string_id": 1988,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack2.flac"
+    },
+    {
+      "n": 45,
+      "id": "BansheeYesAttack3",
+      "scene": "Tome Wraiths.Tome Wraiths INT Activate Q",
+      "speaker": "Книжный дух",
+      "text": "Твоя душа сгорит!",
+      "string_id": 1992,
+      "speaker_string_id": 1993,
+      "sound": "Units/Undead/Banshee/BansheeYesAttack3.flac"
+    },
+    {
+      "n": 46,
+      "id": "BansheePissed1",
+      "scene": "Tome Wraiths.Tome Wraiths STR Activate Q",
+      "speaker": "Книжный дух",
+      "text": "Когда же кончится эта мука?!",
+      "string_id": 1997,
+      "speaker_string_id": 1998,
+      "sound": "Units/Undead/Banshee/BansheePissed1.flac"
+    },
+    {
+      "n": 47,
+      "id": "BansheePissed2",
+      "scene": "Tome Wraiths.Tome Wraiths AGI Activate Q",
+      "speaker": "Книжный дух",
+      "text": "Сколько еще мне страдать?!",
+      "string_id": 2000,
+      "speaker_string_id": 2001,
+      "sound": "Units/Undead/Banshee/BansheePissed2.flac"
+    },
+    {
+      "n": 48,
+      "id": "NecromancerWarcry1",
+      "scene": "Encounters.Encounter B Enter Q",
+      "speaker": "Некромант",
+      "text": "Рано или поздно все станут служить мне!",
+      "string_id": 1491,
+      "speaker_string_id": 1492,
+      "sound": "Units/Undead/Necromancer/NecromancerWarcry1.flac"
+    },
+    {
+      "n": 49,
+      "id": "U01Footman23",
+      "scene": "Abomination.Abomination Human Engaged Q",
+      "speaker": "Пехотинец",
+      "text": "Перебьем их!",
+      "string_id": 1977,
+      "speaker_string_id": 1978,
+      "sound": "Sound/Dialogue/UndeadCampaign/Undead01/U01Footman23.flac"
+    }
+  ]
+}

@@ -1,0 +1,3937 @@
+STRING 1
+{
+HumanRE04
+}
+
+STRING 2
+{
+1
+}
+
+STRING 3
+{
+Chapter Four: Ashes of Stratholme
+}
+
+STRING 4
+{
+Blizzard Entertainment
+}
+
+STRING 5
+{
+Capítulo 4
+}
+
+STRING 6
+{
+Venganza
+}
+
+STRING 7
+{
+Unos días más tarde, Garek, Ilastar y un pequeño contingente de soldados se acercan a las puertas de Stratholme con la intención de cortarle la cabeza a Osahendido...
+}
+
+STRING 9
+{
+Fuerza 1
+}
+
+STRING 10
+{
+Jugador 2
+}
+
+STRING 11
+{
+La Plaga
+}
+
+STRING 12
+{
+Fuerza 2
+}
+
+STRING 15
+{
+Hacia las Vías Subterráneas
+}
+
+STRING 22
+{
+Soldado raso
+}
+
+STRING 23
+{
+Barón Osahendido
+}
+
+STRING 25
+{
+¡Derrota!
+}
+
+STRING 26
+{
+|cffffcc00MISIÓN FALLIDA|r
+Garek ha sido asesinado.
+}
+
+STRING 27
+{
+¡Derrota!
+}
+
+STRING 28
+{
+|cffffcc00MISIÓN FALLIDA|r
+Ilastar ha sido asesinado.
+}
+
+STRING 29
+{
+¡Derrota!
+}
+
+STRING 42
+{
+Vaya... Esos necios entran en mi matadero.
+}
+
+STRING 43
+{
+Has traicionado a los tuyos y te has unido a la Plaga.
+}
+
+STRING 44
+{
+¿Elegido para masacrar a los inocentes?
+}
+
+STRING 45
+{
+Esto se acaba esta noche, Osahendido.
+}
+
+STRING 66
+{
+Se... se acabó...
+}
+
+STRING 129
+{
+El barón
+}
+
+STRING 130
+{
+Ahora la ciudad de Stratholme pertenece a la Plaga, aunque algunos grupos dispersos de combatientes de la resistencia siguen plantando cara. Ábrete paso por la ciudad hasta el ominoso matadero del centro y haz justicia con el traidor Osahendido.
+}
+
+STRING 131
+{
+Encontrar y derrotar al barón Osahendido
+}
+
+STRING 132
+{
+Garek e Ilastar deben sobrevivir
+}
+
+STRING 133
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+El barón
+ - Encontrar y derrotar al barón Osahendido
+ - Garek e Ilastar deben sobrevivir
+}
+
+STRING 134
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+El barón
+}
+
+STRING 189
+{
+|cffffcc00SECRETO REVELADO|r
+La rata invencible
+}
+
+STRING 191
+// Abilities: A001 (Disease Cloud Effect), Tip (Tooltip - Normal)
+{
+Ancla temporal
+}
+
+STRING 192
+// Abilities: AHdr (Siphon Mana), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 197
+// Abilities: A001 (Disease Cloud Effect), Researchtip (Tooltip - Learn)
+{
+Aprender Ancla temporal - [|cffffcc00Nivel %d|r]
+}
+
+STRING 205
+// Abilities: A000 (Hero Glow), Researchtip (Tooltip - Learn)
+{
+Aprender Ilusión - [|cffffcc00Nivel %d|r]
+}
+
+STRING 206
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+Crea un ancla y teletransporta al taumaturgo a la ubicación seleccionada. Tras 15 s, el ancla desaparece, y el taumaturgo regresa a su posición original.
+}
+
+STRING 207
+// Abilities: A001 (Disease Cloud Effect), Researchubertip (Tooltip - Learn - Extended)
+{
+Crea un ancla en la ubicación original del taumaturgo y lo teletransporta a la ubicación seleccionada. Cuando desaparezca el ancla, el taumaturgo regresará a su posición original. |n|n|cffffcc00Nivel 1|r - 15 s hasta el regreso. |n|cffffcc00Nivel 2|r - 25 s hasta el regreso. |n|cffffcc00Nivel 3|r - 35 s hasta el regreso.
+}
+
+STRING 208
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+Crea un ancla y teletransporta al taumaturgo a la ubicación seleccionada. Tras 25 s, el ancla desaparece y el taumaturgo regresa a su posición original.
+}
+
+STRING 209
+// Abilities: A001 (Disease Cloud Effect), Ubertip (Tooltip - Normal - Extended)
+{
+Crea un ancla y teletransporta al taumaturgo a la ubicación seleccionada. Tras 35 s, el ancla desaparece y el taumaturgo regresa a su posición original.
+}
+
+STRING 210
+// Abilities: AHdr (Siphon Mana), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 211
+// Doodads: D000 (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 213
+// Destructibles: B00D (Table), EditorSuffix (Editor Suffix)
+{
+(Walkable)
+}
+
+STRING 215
+// Destructibles: B001 (Dungeon Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Big)
+}
+
+STRING 217
+// Abilities: A001 (Disease Cloud Effect), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 218
+// Abilities: A001 (Disease Cloud Effect), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 225
+// Abilities: A003 (Control mental), Name (Name)
+{
+Control mental
+}
+
+STRING 227
+{
+Ya está. Stratholme está justo delante. Ya casi es hora de actuar.
+}
+
+STRING 229
+{
+Tu afán de venganza te empujará hacia las puertas principales de la ciudad. Yo buscaré otra entrada. Llamaremos menos la atención si nos dividimos.
+}
+
+STRING 230
+{
+No seas imprudente, Ilastar. La ciudad está infestada de malvados no-muertos. Debemos permanecer juntos.
+}
+
+STRING 231
+{
+Al parecer, todavía no te he transmitido mi fe en la Luz... Nos vemos al otro lado.
+}
+
+STRING 232
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 1|r]
+}
+
+STRING 233
+// Abilities: A003 (Mind Control), Researchtip (Tooltip - Learn)
+{
+Learn Mind Control
+}
+
+STRING 234
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 2|r]
+}
+
+STRING 235
+// Abilities: A003 (Mind Control), Tip (Tooltip - Normal)
+{
+Mind Control - [|cffffcc00Level 3|r]
+}
+
+STRING 268
+// Destructibles: B00D (Mesa), Name (Name)
+{
+Mesa
+}
+
+STRING 270
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+Champiñones de peste
+}
+
+STRING 271
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Champiñones de peste
+  - Destruir los champiñones de peste gigantes (0 de 3 destruidos)
+}
+
+STRING 272
+{
+Champiñones de peste
+}
+
+STRING 273
+{
+Unos champiñones de peste gigantescos han echado raíces en Stratholme y propagan la peste de la no-muerte con sus esporas tóxicas. Destrúyelos antes de que infecten toda la región.
+}
+
+STRING 274
+{
+Destruir los champiñones de peste gigantes (0 de 3 destruidos)
+}
+
+STRING 276
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+Labores de recuperación en el puerto
+}
+
+STRING 282
+// Doodads: D001 (City Building Large (Diagonal 2, Blue) (Flat)), Name (Name)
+{
+City Building Large (Diagonal 2, Blue) (Flat)
+}
+
+STRING 283
+// Destructibles: B00E (Pared de árboles quemados grande), Name (Name)
+{
+Pared de árboles quemados grande
+}
+
+STRING 284
+// Doodads: YS04 (City Building (Horizontal, Green) (No Pathing)), Name (Name)
+{
+City Building (Horizontal, Green) (No Pathing)
+}
+
+STRING 285
+// Doodads: YS13 (City Building Large (Red) (No Pathing)), Name (Name)
+{
+City Building Large (Red) (No Pathing)
+}
+
+STRING 286
+// Destructibles: B000 (Edificio derrumbado), Name (Name)
+{
+Edificio derrumbado
+}
+
+STRING 287
+// Destructibles: B000 (Toppled Building), EditorSuffix (Editor Suffix)
+{
+(Walkable)
+}
+
+STRING 288
+{
+Por aquí no se puede pasar.
+}
+
+STRING 289
+{
+Cinemática provisional
+}
+
+STRING 290
+{
+Vestigios de Stratholme
+}
+
+STRING 291
+// Doodads: LOsw (Wall Stone (Red)), Name (Name)
+{
+Wall Stone (Red)
+}
+
+STRING 292
+// Doodads: D002 (Wall Stone (Grey)), Name (Name)
+{
+Wall Stone (Grey)
+}
+
+STRING 293
+// Abilities: S000 (Desvanecerse), Name (Name)
+{
+Desvanecerse
+}
+
+STRING 294
+// Abilities: S000 (Fade), Ubertip (Tooltip - Normal - Extended)
+{
+Evita que la unidad se enfrente a los enemigos de forma automática y le permite desvanecerse para permanecer oculta durante la noche.
+}
+
+STRING 295
+// Abilities: S000 (Desvanecerse), Tip (Tooltip - Normal)
+{
+Desvanecerse
+}
+
+STRING 296
+// Abilities: A004 (Rivendare - Raise Dead), EditorSuffix (Editor Suffix)
+{
+(Forever)
+}
+
+STRING 304
+// Units: U000 (Dreadlord), Propernames (Proper Names)
+{
+Lorthiras
+}
+
+STRING 305
+// Units: U000 (Dreadlord), EditorSuffix (Name - Editor Suffix)
+{
+(Lorthiras)
+}
+
+STRING 306
+// Units: u001 ([Muñeco de taumaturgo]), Name (Name)
+{
+[Muñeco de taumaturgo]
+}
+
+STRING 307
+// Units: u001 ([Dummy Caster]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 308
+// Units: u001 ([Dummy Caster]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 309
+// Units: u001 ([Dummy Caster]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 310
+// Abilities: A00W (Lorthiras - Ira ciega), Name (Name)
+{
+Lorthiras - Ira ciega
+}
+
+STRING 311
+// Abilities: A00X (Ira ciega (muñeco)), Name (Name)
+{
+Ira ciega (muñeco)
+}
+
+STRING 314
+// Units: n007 (Survivor Camp), EditorSuffix (Name - Editor Suffix)
+{
+(Stratholme)
+}
+
+STRING 316
+{
+Ilastar
+}
+
+STRING 317
+// Units: n007 (Campamento de supervivientes), Name (Name)
+{
+Campamento de supervivientes
+}
+
+STRING 318
+// Doodads: D003 (Barracks), Name (Name)
+{
+Barracks
+}
+
+STRING 319
+// Doodads: D004 (Altar of Kings), Name (Name)
+{
+Altar of Kings
+}
+
+STRING 321
+// Units: U00Q (Lich), Propernames (Proper Names)
+{
+Ras Murmuhielo
+}
+
+STRING 337
+// Units: U00Q (Lich), EditorSuffix (Name - Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 338
+// Abilities: A010 (Bomba de necroescarcha), Name (Name)
+{
+Bomba de necroescarcha
+}
+
+STRING 339
+// Abilities: A011 (Armadura de maná de escarcha), Name (Name)
+{
+Armadura de maná de escarcha
+}
+
+STRING 340
+// Abilities: A012 (Frost Nova), EditorSuffix (Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 341
+// Abilities: A013 (Maná de Muerte congelada), Name (Name)
+{
+Maná de Muerte congelada
+}
+
+STRING 342
+// Abilities: A014 (Velocidad de Muerte congelada), Name (Name)
+{
+Velocidad de Muerte congelada
+}
+
+STRING 343
+// Buffs/Effects: B008 (Maná de Muerte congelada), EditorName (Name (Editor Only))
+{
+Maná de Muerte congelada
+}
+
+STRING 344
+// Buffs/Effects: B008 (Frozen Death Mana), Bufftip (Tooltip)
+{
+Muerte congelada: maná
+}
+
+STRING 345
+// Buffs/Effects: B008 (Frozen Death Mana), Buffubertip (Tooltip - Extended)
+{
+Esta unidad está bajo los efectos de Muerte congelada, que reduce su regeneración de maná.
+}
+
+STRING 346
+// Abilities: A00Y (Frost Attack), EditorSuffix (Editor Suffix)
+{
+(Ras Frostwhisper)
+}
+
+STRING 347
+// Buffs/Effects: B009 (Velocidad de Muerte congelada), EditorName (Name (Editor Only))
+{
+Velocidad de Muerte congelada
+}
+
+STRING 348
+// Buffs/Effects: B009 (Frozen Death Speed), Bufftip (Tooltip)
+{
+Muerte congelada: velocidad
+}
+
+STRING 349
+// Buffs/Effects: B009 (Frozen Death Speed), Buffubertip (Tooltip - Extended)
+{
+Esta unidad está bajo los efectos de Muerte congelada, que reduce sus velocidades de movimiento y de ataque.
+}
+
+STRING 351
+// Units: n002 (Ras Murmuhielo), Name (Name)
+{
+Ras Murmuhielo
+}
+
+STRING 375
+// Buffs/Effects: B006 (Necroescarcha (beneficio)), EditorName (Name (Editor Only))
+{
+Necroescarcha (beneficio)
+}
+
+STRING 376
+// Buffs/Effects: B006 (Necroescarcha (Buff)), Bufftip (Tooltip)
+{
+Necroescarcha
+}
+
+STRING 377
+// Buffs/Effects: B006 (Necrofrost (Buff)), Buffubertip (Tooltip - Extended)
+{
+Esta unidad está bajo los efectos de Necroescarcha, que reduce en gran medida sus facultades de combate. ¡Busca en la zona una casa que esté ardiendo para eliminar el efecto!
+}
+
+STRING 378
+// Buffs/Effects: B007 (Armadura de maná de escarcha), EditorName (Name (Editor Only))
+{
+Armadura de maná de escarcha
+}
+
+STRING 379
+// Buffs/Effects: B007 (Armadura de maná de escarcha), Bufftip (Tooltip)
+{
+Armadura de maná de escarcha
+}
+
+STRING 380
+// Buffs/Effects: B007 (Manafrost Armor), Buffubertip (Tooltip - Extended)
+{
+La unidad está bajo los efectos de Armadura de maná de escarcha, que restaura maná y aplica Necroescarcha al recibir un golpe de un enemigo. El efecto se duplica contra enemigos a más de 325 de distancia.
+}
+
+STRING 382
+{
+Lordaeron... was doomed to fall.
+}
+
+STRING 383
+{
+I, Ras Frostwhisper, have joined the Cult of the Damned to serve Ner'zhul, and follow his unholy command. I have only asked for one favor in return... the gift of immortality.
+}
+
+STRING 384
+{
+The skies darken and cry in havoc on this glorious day when I finally reclaim what should've been mine long ago... I have chosen this path, and none shall stand in my way.
+}
+
+STRING 385
+{
+As part of Ner'zhul's challenge, your lives I'll now take. With this sacred ritual, I spill your blood.
+}
+
+STRING 386
+{
+Ner'zhul! Claim this worthless flesh of mine. It is yours to break!
+}
+
+STRING 388
+// Units: n002 (Ras Frostwhisper), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 389
+// Destructibles: B002 (Escalera (transitable)), Name (Name)
+{
+Escalera (transitable)
+}
+
+STRING 390
+// Destructibles: DTc2 (Puerta del zoo), Name (Name)
+{
+Puerta del zoo
+}
+
+STRING 391
+// Doodads: D005 (Grates), Name (Name)
+{
+Grates
+}
+
+STRING 392
+{
+They found us. Hold the line!
+}
+
+STRING 395
+{
+Caballero
+}
+
+STRING 396
+{
+Ciudadanos fantasmales
+}
+
+STRING 397
+{
+Fuerza 3
+}
+
+STRING 398
+// Units: nvlw (Ciudadano), Name (Name)
+{
+Ciudadano
+}
+
+STRING 399
+// Units: nvl2 (Ciudadano), Name (Name)
+{
+Ciudadano
+}
+
+STRING 400
+// Units: nvil (Ciudadano), Name (Name)
+{
+Ciudadano
+}
+
+STRING 401
+// Units: h000 (Campesino fantasmal), Name (Name)
+{
+Campesino fantasmal
+}
+
+STRING 402
+// Units: n003 (Ciudadano fantasmal), Name (Name)
+{
+Ciudadano fantasmal
+}
+
+STRING 403
+// Units: n004 (Ciudadano fantasmal), Name (Name)
+{
+Ciudadano fantasmal
+}
+
+STRING 404
+// Units: n005 (Ciudadano fantasmal), Name (Name)
+{
+Ciudadano fantasmal
+}
+
+STRING 405
+{
+Ciudadanos de Stratholme
+}
+
+STRING 406
+// Units: O000 (Titán esquelético), Name (Name)
+{
+Titán esquelético
+}
+
+STRING 411
+// Abilities: A01L (Forma de oso), Name (Name)
+{
+Forma de oso
+}
+
+STRING 412
+// Abilities: A01L (Forma de oso), Tip (Tooltip - Normal)
+{
+Forma de oso
+}
+
+STRING 414
+// Abilities: A01P (Aliento de vida), Name (Name)
+{
+Aliento de vida
+}
+
+STRING 415
+// Buffs/Effects: B00C (Enraged), EditorSuffix (Editor Suffix)
+{
+(Shazza)
+}
+
+STRING 416
+// Units: u015 ([Dummy Attacker - Throw Axe]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 419
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 420
+// Abilities: AHav (Avatar), Researchhotkey (Hotkey - Learn)
+{
+R
+}
+
+STRING 421
+// Abilities: AHav (Avatar), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 422
+// Abilities: AHav (Avatar), Unhotkey (Hotkey - Turn Off)
+{
+R
+}
+
+STRING 423
+// Units: u00S ([Dummy Immolation]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 424
+// Units: u00D ([Dummy Caster]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 425
+// Abilities: AHhb (Holy Light), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 426
+// Abilities: AHhb (Holy Light), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 427
+// Abilities: A000 (Brillo de héroe), Name (Name)
+{
+Brillo de héroe
+}
+
+STRING 428
+// Abilities: A001 (Efecto de Nube enfermiza), Name (Name)
+{
+Efecto de Nube enfermiza
+}
+
+STRING 429
+// Abilities: A002 (Magic Sentry), EditorSuffix (Editor Suffix)
+{
+(Rivendare's Archer Ability)
+}
+
+STRING 430
+// Abilities: A003 (Mind Control), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 431
+// Items: phea (Potion of Healing), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 433
+// Abilities: A004 (Osahendido - Levantar muerto), Name (Name)
+{
+Osahendido - Levantar muerto
+}
+
+STRING 435
+// Units: u00F ([Dummy Caster - CE]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 436
+// Abilities: A005 (Osahendido - Ordenar a arqueros), Name (Name)
+{
+Osahendido - Ordenar a arqueros
+}
+
+STRING 437
+// Abilities: A005 (Rivendare - Command Archers), Tip (Tooltip - Normal)
+{
+Ordenar a arqueros - [|cffffcc00Nivel 1|r]
+}
+
+STRING 438
+// Abilities: A005 (Rivendare - Command Archers), Ubertip (Tooltip - Normal - Extended)
+{
+El |cff82cdfcbarón Osahendido|r ordena a sus arqueros que concentren los disparos en |cffFFFF00Roderic|r.
+}
+
+STRING 439
+// Abilities: A006 (Osahendido - Deflagración de cadáver), Name (Name)
+{
+Osahendido - Deflagración de cadáver
+}
+
+STRING 440
+// Abilities: A007 (Osahendido - Ataúd congelado), Name (Name)
+{
+Osahendido - Ataúd congelado
+}
+
+STRING 441
+// Abilities: A008 (Disparos de veneno), Name (Name)
+{
+Disparos de veneno
+}
+
+STRING 442
+// Abilities: A008 (Poison Shots), EditorSuffix (Editor Suffix)
+{
+(Skeleton Archer)
+}
+
+STRING 443
+// Abilities: A009 (Frost Attack), EditorSuffix (Editor Suffix)
+{
+(Skeleton Mage)
+}
+
+STRING 444
+// Abilities: A00A (Osahendido - Levantar muerto), Name (Name)
+{
+Osahendido - Levantar muerto
+}
+
+STRING 445
+// Abilities: A00A (Rivendare - Raise Dead), EditorSuffix (Editor Suffix)
+{
+(Unholy Summoner)
+}
+
+STRING 446
+// Abilities: A00B (Osahendido - Deflagración de cadáver), Name (Name)
+{
+Osahendido - Deflagración de cadáver
+}
+
+STRING 447
+// Abilities: A00B (Rivendare - Corpse Explosion), EditorSuffix (Editor Suffix)
+{
+(Blood Cultist)
+}
+
+STRING 448
+// Abilities: A00C (Ataúd congelado), Name (Name)
+{
+Ataúd congelado
+}
+
+STRING 449
+// Abilities: A00C (Frozen Coffin), EditorSuffix (Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 450
+// Abilities: A00D (Deflagración de cadáver), Name (Name)
+{
+Deflagración de cadáver
+}
+
+STRING 451
+// Items: pman (Potion of Mana), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 452
+// Abilities: A00D (Corpse Explosion), Hotkey (Hotkey - Normal)
+{
+F
+}
+
+STRING 453
+// Abilities: A00D (Deflagración de cadáver), Tip (Tooltip - Normal)
+{
+Deflagración de cadáver
+}
+
+STRING 454
+// Abilities: A00D (Corpse Explosion), Ubertip (Tooltip - Normal - Extended)
+{
+Bum.
+}
+
+STRING 455
+// Abilities: A00E (Osahendido - Ataúd congelado), Name (Name)
+{
+Osahendido - Ataúd congelado
+}
+
+STRING 456
+// Abilities: A00E (Rivendare - Frozen Coffin), EditorSuffix (Editor Suffix)
+{
+(Lich)
+}
+
+STRING 457
+// Abilities: A00F (Agua bendita), Name (Name)
+{
+Agua bendita
+}
+
+STRING 458
+// Abilities: A00G (Holy Water Stun), Name (Name)
+{
+Holy Water Stun
+}
+
+STRING 459
+// Abilities: A00H (Osahendido - Consumo de alma), Name (Name)
+{
+Osahendido - Consumo de alma
+}
+
+STRING 460
+// Abilities: A00I (Consumo de alma - Frenesí profano), Name (Name)
+{
+Consumo de alma - Frenesí profano
+}
+
+STRING 461
+// Abilities: A00J (Consumo de alma - Aura profana), Name (Name)
+{
+Consumo de alma - Aura profana
+}
+
+STRING 462
+// Abilities: A00K (Bendición de escalofrío de escarcha), Name (Name)
+{
+Bendición de escalofrío de escarcha
+}
+
+STRING 463
+// Abilities: A00L (Bendición de armadura de escarcha), Name (Name)
+{
+Bendición de armadura de escarcha
+}
+
+STRING 464
+// Abilities: A00M (Habilidad clave de fortaleza), Name (Name)
+{
+Habilidad clave de fortaleza
+}
+
+STRING 465
+// Abilities: A00N (Habilidad clave alternativa), Name (Name)
+{
+Habilidad clave alternativa
+}
+
+STRING 466
+// Abilities: A00O (Habilidad clave principal), Name (Name)
+{
+Habilidad clave principal
+}
+
+STRING 467
+// Abilities: A00P (Desaparición), Name (Name)
+{
+Desaparición
+}
+
+STRING 468
+// Abilities: A00Q (Muñeco de desaparición), Name (Name)
+{
+Muñeco de desaparición
+}
+
+STRING 469
+// Abilities: A00Q (Disappearance Dummy), Ubertip (Tooltip - Normal - Extended)
+{
+Vuelve invisible una unidad. Si la unidad ataca, usa una habilidad o un hechizo, se volverá visible. |nDura 12 s.
+}
+
+STRING 470
+// Abilities: A00R (Oro de plantilla), Name (Name)
+{
+Oro de plantilla
+}
+
+STRING 471
+// Abilities: A00S (Cultor - Canalizando hechizo), Name (Name)
+{
+Cultor - Canalizando hechizo
+}
+
+STRING 472
+// Abilities: A00T (Muñeco de gárgolas enraizadas), Name (Name)
+{
+Muñeco de gárgolas enraizadas
+}
+
+STRING 473
+// Abilities: A00U (Disappearance (Priest)), Name (Name)
+{
+Disappearance (Priest)
+}
+
+STRING 474
+// Abilities: A00U (Disappearance (Priest)), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 475
+// Abilities: A00U (Disappearance (Priest)), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all allies within 350 range of a target point, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+}
+
+STRING 476
+// Abilities: A00V (Major Illusion (Priest - Old)), Name (Name)
+{
+Major Illusion (Priest - Old)
+}
+
+STRING 477
+// Abilities: A00V (Major Illusion (Priest - Old)), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 478
+// Abilities: A00V (Major Illusion (Priest - Old)), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all allies within 350 range of a target point, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+}
+
+STRING 479
+// Abilities: A00V (Major Illusion (Priest - Old)), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 480
+// Abilities: A00Z (Inmolación de casas en llamas), Name (Name)
+{
+Inmolación de casas en llamas
+}
+
+STRING 481
+// Abilities: A015 (Major Illusion), Name (Name)
+{
+Major Illusion
+}
+
+STRING 482
+// Abilities: A015 (Major Illusion), Tip (Tooltip - Normal)
+{
+Major Illusion
+}
+
+STRING 483
+// Abilities: A015 (Major Illusion), Ubertip (Tooltip - Normal - Extended)
+{
+Casts an illusionary magic on all of your units on the map, causing them to become temporarily invisible. If no allied units are seen by the enemy shortly after, you will regain your stealth status.
+
+|cffaeaeaeThis spell has a 4 second cast time and a 120 second cooldown. Use it wisely.
+}
+
+STRING 484
+// Abilities: A015 (Major Illusion), EditorSuffix (Editor Suffix)
+{
+(Priest - New)
+}
+
+STRING 486
+// Abilities: A016 (Cultor - Canalizando hechizo), Name (Name)
+{
+Cultor - Canalizando hechizo
+}
+
+STRING 487
+// Abilities: A016 (Cultist - Channeling Spell), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 488
+// Abilities: A017 (Cinemática de Ras - Canalizando hechizo), Name (Name)
+{
+Cinemática de Ras - Canalizando hechizo
+}
+
+STRING 489
+// Abilities: A017 (Cinematic Ras - Channeling Spell), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 490
+// Abilities: A018 (Defend), EditorSuffix (Editor Suffix)
+{
+(Veteran Footman)
+}
+
+STRING 491
+// Abilities: A018 (Defend), Ubertip (Tooltip - Normal - Extended)
+{
+Activate to have a 25% chance to reflect Piercing attacks upon the source, and to take only 50% of the damage from attacks that are not reflected. While Defend is active, move speed is reduced by 20%.
+}
+
+STRING 492
+// Abilities: A019 (Veterano de combate), Name (Name)
+{
+Veterano de combate
+}
+
+STRING 493
+// Abilities: A019 (Combat Veteran), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfcGives a |cffFFFF0010%|r |cff82cdfcchance to dodge an attack and a |cffFFFF0015% |cff82cdfcchance to deal |cffFFFF002 |cff82cdfctimes total damage.|r
+
+|cffaeaeaeThis unit has acquired combat proficiency via elite training.
+}
+
+STRING 494
+// Abilities: A019 (Combat Veteran), Tip (Tooltip - Normal)
+{
+|cff82cdfcCombat Veteran
+}
+
+STRING 495
+// Abilities: A01A (Tiro en la cabeza), Name (Name)
+{
+Tiro en la cabeza
+}
+
+STRING 496
+// Abilities: A01A (Headshot), Ubertip (Tooltip - Normal - Extended)
+{
+|cff82cdfcGives a |cffffff0015% |cff82cdfcchance that an attack will do |cffffff0040 |cff82cdfcbonus damage and stun the target for |cffffff002.5 |cff82cdfcseconds.|r
+
+|cffaeaeaeThis unit has acquired combat proficiency via elite training.
+}
+
+STRING 497
+// Abilities: A01A (Headshot), Tip (Tooltip - Normal)
+{
+|cff82cdfcHeadshot
+}
+
+STRING 498
+// Abilities: A01B (Habilidad clave del matadero), Name (Name)
+{
+Habilidad clave del matadero
+}
+
+STRING 499
+// Abilities: A01C (Levantar al muerto definitivo), Name (Name)
+{
+Levantar al muerto definitivo
+}
+
+STRING 500
+// Abilities: A01C (Raise Ultimate Dead), EditorSuffix (Editor Suffix)
+{
+(Master Necromancer)
+}
+
+STRING 501
+// Abilities: A01D (Tomo de conocimiento), Name (Name)
+{
+Tomo de conocimiento
+}
+
+STRING 502
+// Abilities: A01E (Cubo de carne), Name (Name)
+{
+Cubo de carne
+}
+
+STRING 503
+// Abilities: A01F (Death Coil), EditorSuffix (Editor Suffix)
+{
+(Cultist)
+}
+
+STRING 504
+// Abilities: A01G (Muñeco de Nube enfermiza), Name (Name)
+{
+Muñeco de Nube enfermiza
+}
+
+STRING 505
+// Abilities: A01G (Disease Cloud Dummy), EditorSuffix (Editor Suffix)
+{
+(Bucket of Flesh)
+}
+
+STRING 506
+// Abilities: A01H (Shazza CDR), Name (Name)
+{
+Shazza CDR
+}
+
+STRING 507
+// Abilities: A01I (Enfurecer), Name (Name)
+{
+Enfurecer
+}
+
+STRING 508
+// Buffs/Effects: B00B (Enraged), EditorSuffix (Editor Suffix)
+{
+(Kol'ga)
+}
+
+STRING 509
+// Abilities: A01J (Enfurecer), Name (Name)
+{
+Enfurecer
+}
+
+STRING 511
+// Abilities: A01K (Entorpecer), Name (Name)
+{
+Entorpecer
+}
+
+STRING 512
+// Abilities: A01K (Entorpecer), Tip (Tooltip - Normal)
+{
+Entorpecer
+}
+
+STRING 513
+// Buffs/Effects: B00D (Cripple), EditorSuffix (Editor Suffix)
+{
+(Kol'ga)
+}
+
+STRING 514
+// Abilities: A01M (Rugido aterrorizador), Name (Name)
+{
+Rugido aterrorizador
+}
+
+STRING 515
+// Abilities: A01M (Rugido aterrorizador), Tip (Tooltip - Normal)
+{
+Rugido aterrorizador
+}
+
+STRING 516
+// Abilities: A01M (Terrifying Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Reduce la armadura y la velocidad de movimiento de los enemigos cercanos.
+}
+
+STRING 518
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 519
+// Abilities: A01N (Rugido aterrorizador), Name (Name)
+{
+Rugido aterrorizador
+}
+
+STRING 520
+// Abilities: A01N (Rugido aterrorizador), Tip (Tooltip - Normal)
+{
+Rugido aterrorizador
+}
+
+STRING 522
+// Abilities: A01O (Fogonazo), Name (Name)
+{
+Fogonazo
+}
+
+STRING 524
+// Units: u00H ([Dummy Tanker]), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 526
+// Abilities: A01R (Aliento de vida), Name (Name)
+{
+Aliento de vida
+}
+
+STRING 529
+// Buffs/Effects: B000 (), Bufftip (Tooltip)
+{
+¡Objetivo fijado!
+}
+
+STRING 530
+// Buffs/Effects: B000 (), Buffubertip (Tooltip - Extended)
+{
+¡Cuidado con las flechas!
+}
+
+STRING 531
+// Buffs/Effects: B001 (), Bufftip (Tooltip)
+{
+Efecto clave
+}
+
+STRING 532
+// Buffs/Effects: B002 (), Bufftip (Tooltip)
+{
+Polvo
+}
+
+STRING 533
+// Buffs/Effects: B002 (), Buffubertip (Tooltip - Extended)
+{
+Esta unidad se ha convertido en polvo.
+}
+
+STRING 534
+// Buffs/Effects: B003 (Forma de piedra), EditorName (Name (Editor Only))
+{
+Forma de piedra
+}
+
+STRING 535
+// Buffs/Effects: B003 (Forma de piedra), Bufftip (Tooltip)
+{
+Forma de piedra
+}
+
+STRING 536
+// Buffs/Effects: B003 (Stone Form), Buffubertip (Tooltip - Extended)
+{
+Las gárgolas están observando.
+}
+
+STRING 537
+// Buffs/Effects: B004 (Ira ciega), EditorName (Name (Editor Only))
+{
+Ira ciega
+}
+
+STRING 538
+// Buffs/Effects: B004 (Blind Rage), Buffubertip (Tooltip - Extended)
+{
+Esta unidad está bajo los efectos de Ira ciega, que aumenta la velocidad de ataque, pero reduce la velocidad de movimiento.
+}
+
+STRING 539
+// Buffs/Effects: B005 (Inmolación de casas en llamas), EditorName (Name (Editor Only))
+{
+Inmolación de casas en llamas
+}
+
+STRING 540
+// Buffs/Effects: B005 (Burning Houses Immolation), EditorSuffix (Editor Suffix)
+{
+(Buff)
+}
+
+STRING 541
+// Buffs/Effects: B00A (), Bufftip (Tooltip)
+{
+Cubo de carne
+}
+
+STRING 542
+// Buffs/Effects: B00A (), Buffubertip (Tooltip - Extended)
+{
+¡Carne fresca!
+}
+
+STRING 543
+// Buffs/Effects: B00B (Enfurecido), Bufftip (Tooltip)
+{
+Enfurecido
+}
+
+STRING 544
+// Buffs/Effects: B00B (Enfurecido), EditorName (Name (Editor Only))
+{
+Enfurecido
+}
+
+STRING 545
+// Buffs/Effects: B00B (Enraged), Buffubertip (Tooltip - Extended)
+{
+Kol'ga quiere sangre para vengar la muerte de Shazza, lo que aumenta un 100% su velocidad de ataque.
+}
+
+STRING 547
+// Buffs/Effects: B00C (Enfurecido), Bufftip (Tooltip)
+{
+Enfurecido
+}
+
+STRING 548
+// Buffs/Effects: B00C (Enfurecido), EditorName (Name (Editor Only))
+{
+Enfurecido
+}
+
+STRING 549
+// Buffs/Effects: B00C (Enraged), Buffubertip (Tooltip - Extended)
+{
+Shazza pide ayuda a Jan'ali para vengar la muerte de Kol'ga y obtiene un 50% de reducción del tiempo de reutilización.
+}
+
+STRING 552
+// Buffs/Effects: B00D (Entorpecer), Bufftip (Tooltip)
+{
+Entorpecer
+}
+
+STRING 553
+// Buffs/Effects: B00D (Cripple), Buffubertip (Tooltip - Extended)
+{
+Esta unidad está bajo los efectos de Entorpecer, que reduce su velocidad de movimiento.
+}
+
+STRING 554
+// Buffs/Effects: B00D (Entorpecer), EditorName (Name (Editor Only))
+{
+Entorpecer
+}
+
+STRING 555
+// Buffs/Effects: B00E (), Bufftip (Tooltip)
+{
+Rugido aterrorizador
+}
+
+STRING 556
+// Buffs/Effects: B00E (), Buffubertip (Tooltip - Extended)
+{
+Esta unidad está bajo los efectos de por Rugido aterrorizador, que reduce su armadura y su velocidad de movimiento.
+}
+
+STRING 566
+// Units: U013 (Skeletal Warlock), Name (Name)
+{
+Skeletal Warlock
+}
+
+STRING 570
+// Units: u015 ([Muñeco de atacante - Lanzar hacha]), Name (Name)
+{
+[Muñeco de atacante - Lanzar hacha]
+}
+
+STRING 571
+// Units: u015 ([Dummy Attacker - Throw Axe]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 572
+// Units: u015 ([Dummy Attacker - Throw Axe]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 573
+// Units: u00E (Corpse Explosion - Dummy), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 575
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 576
+// Units: u016 ([Dummy Caster - Warlock Rain of Fire]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 577
+// Units: u00I (shutup), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 579
+// Items: I00B (Rune of the Unbound), Ubertip (Tooltip - Extended)
+{
+Aumenta la velocidad de movimiento de las unidades y elimina los efectos de inmovilización.
+}
+
+STRING 580
+// Items: I00B (Rune of the Unbound), Description (Description)
+{
+Aumenta la velocidad de movimiento de las unidades y elimina los efectos de inmovilización.
+}
+
+STRING 581
+// Units: U013 (Skeletal Warlock), Propernames (Proper Names)
+{
+Morvain
+}
+
+STRING 582
+// Units: U013 (Skeletal Warlock), EditorSuffix (Name - Editor Suffix)
+{
+Morvain
+}
+
+STRING 583
+// Units: O000 (Skeletal Titan), Propernames (Proper Names)
+{
+Nefastofeudo
+}
+
+STRING 584
+// Units: U012 (Titan), EditorSuffix (Name - Editor Suffix)
+{
+(Grimthane)
+}
+
+STRING 585
+// Units: u016 ([Muñeco de taumaturgo - Lluvia de fuego de brujo]), Name (Name)
+{
+[Muñeco de taumaturgo - Lluvia de fuego de brujo]
+}
+
+STRING 586
+// Abilities: A01L (Bear Form), EditorSuffix (Editor Suffix)
+{
+(Titan Phase 2)
+}
+
+STRING 587
+// Abilities: A01P (Breath of Life), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 588
+// Abilities: A01I (Enrage), EditorSuffix (Editor Suffix)
+{
+(Titan)
+}
+
+STRING 589
+// Abilities: A01J (Enrage), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 590
+// Abilities: A01K (Cripple), EditorSuffix (Editor Suffix)
+{
+(Titan)
+}
+
+STRING 591
+// Abilities: A01M (Terrifying Roar), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 592
+// Abilities: A01N (Terrifying Roar), EditorSuffix (Editor Suffix)
+{
+(Titan Cast)
+}
+
+STRING 593
+// Abilities: A01O (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Warlock)
+}
+
+STRING 594
+// Abilities: A01Q (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 595
+// Abilities: A01R (Breath of Life), EditorSuffix (Editor Suffix)
+{
+(Warlock Dummy)
+}
+
+STRING 596
+// Abilities: A01S (Rain of Fire), EditorSuffix (Editor Suffix)
+{
+(Warlock Phase 2 Dummy)
+}
+
+STRING 597
+// Units: u00S ([Inmolación de muñeco]), Name (Name)
+{
+[Inmolación de muñeco]
+}
+
+STRING 598
+// Units: u00S ([Dummy Immolation]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 599
+// Units: u00S ([Dummy Immolation]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 600
+// Units: u00S ([Dummy Immolation]), EditorSuffix (Name - Editor Suffix)
+{
+(Burning Houses)
+}
+
+STRING 601
+// Abilities: AHtb (Storm Bolt), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 603
+// Units: n006 (Skeleton Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Flying)
+}
+
+STRING 605
+// Doodads: D007 (Undead Battleship), Name (Name)
+{
+Undead Battleship
+}
+
+STRING 606
+// Destructibles: B003 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 607
+// Destructibles: B004 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 608
+// Destructibles: B005 (Floating Supplies), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 609
+// Destructibles: B006 (Barrel of Explosives), EditorSuffix (Editor Suffix)
+{
+(Water)
+}
+
+STRING 614
+{
+Insecto molesto. No detendrás los envíos.
+}
+
+STRING 615
+// Doodads: D008 (Wall Low (No Pathing)), Name (Name)
+{
+Wall Low (No Pathing)
+}
+
+STRING 617
+// Doodads: D009 (Sacrificial Pit), Name (Name)
+{
+Sacrificial Pit
+}
+
+STRING 618
+// Doodads: D00A (Shrine), Name (Name)
+{
+Shrine
+}
+
+STRING 619
+// Doodads: D00B (Chain Post (No Pathing)), Name (Name)
+{
+Chain Post (No Pathing)
+}
+
+STRING 620
+// Items: I000 (Bundle of Lumber), Ubertip (Tooltip - Extended)
+{
+Cuando se utiliza, otorga <A01t.AIlu,DataA1> de madera al jugador.
+}
+
+STRING 621
+// Abilities: A01T (Bundle of Lumber), EditorSuffix (Editor Suffix)
+{
++1
+}
+
+STRING 642
+{
+|cffffcc00MISIÓN OPCIONAL ACTUALIZADA|r
+}
+
+STRING 643
+{
+Champiñones de peste
+}
+
+STRING 662
+{
+- Destruir los champiñones de peste gigantes (
+}
+
+STRING 663
+{
+de 3 destruidos)
+}
+
+STRING 665
+{
+Destruir los champiñones de peste gigantes
+}
+
+STRING 709
+// Doodads: D00C (Blacksmith), Name (Name)
+{
+Blacksmith
+}
+
+STRING 710
+{
+Este cuartel está intacto. Podemos usarlo.
+}
+
+STRING 713
+// Units: nC06 (Filson la Rata), Name (Name)
+{
+Filson la Rata
+}
+
+STRING 715
+{
+Demasiado cerca.
+}
+
+STRING 716
+// Abilities: A003 (Mind Control), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 717
+// Units: U002 (Duque de Stratholme), Name (Name)
+{
+Duque de Stratholme
+}
+
+STRING 718
+// Units: U002 (Duke of Stratholme), Propernames (Proper Names)
+{
+Barón Osahendido
+}
+
+STRING 719
+// Units: u00C (Exánime de escarcha), Name (Name)
+{
+Exánime de escarcha
+}
+
+STRING 720
+// Units: u00C (Frost Lich), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 721
+// Units: u00B (Cultor sangriento), Name (Name)
+{
+Cultor sangriento
+}
+
+STRING 722
+// Units: u00B (Blood Cultist), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 723
+// Units: u00A (Invocador profano), Name (Name)
+{
+Invocador profano
+}
+
+STRING 724
+// Units: u00A (Unholy Summoner), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare Spellcaster)
+}
+
+STRING 725
+// Units: u004 (Obelisco de sangre), Name (Name)
+{
+Obelisco de sangre
+}
+
+STRING 726
+// Units: u004 (Obelisk of Blood), Ubertip (Tooltip - Extended)
+{
+Mecanismos de defensa de Osahendido.
+}
+
+STRING 727
+// Units: u006 (Obelisco de muerte), Name (Name)
+{
+Obelisco de muerte
+}
+
+STRING 728
+// Units: u006 (Obelisk of Death), Ubertip (Tooltip - Extended)
+{
+Mecanismos de defensa de Osahendido.
+}
+
+STRING 729
+// Units: u007 (Obelisco de escarcha), Name (Name)
+{
+Obelisco de escarcha
+}
+
+STRING 730
+// Units: u007 (Obelisk of Frost), Ubertip (Tooltip - Extended)
+{
+Mecanismos de defensa de Osahendido.
+}
+
+STRING 731
+// Units: n000 (Arquero de Osahendido), Name (Name)
+{
+Arquero de Osahendido
+}
+
+STRING 732
+// Units: n001 (Zombie), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare GY)
+}
+
+STRING 759
+// Units: u00D ([Muñeco de taumaturgo]), Name (Name)
+{
+[Muñeco de taumaturgo]
+}
+
+STRING 760
+// Units: u00D ([Dummy Caster]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 761
+// Units: u00D ([Dummy Caster]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 762
+// Units: u00F ([Muñeco de taumaturgo - CE]), Name (Name)
+{
+[Muñeco de taumaturgo - CE]
+}
+
+STRING 763
+// Units: u00F ([Dummy Caster - CE]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 764
+// Units: u00F ([Dummy Caster - CE]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 765
+// Abilities: AHtb (Storm Bolt), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 766
+// Abilities: AHfs (Flame Strike), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 791
+{
+I will stay up here and scout ahead.
+}
+
+STRING 793
+{
+Por favor, mi rey. ¡No!
+}
+
+STRING 794
+{
+You will all serve me!
+}
+
+STRING 795
+// Units: h001 (Bloque de hielo), Name (Name)
+{
+Bloque de hielo
+}
+
+STRING 796
+// Units: h001 (Ice Block), Ubertip (Tooltip - Extended)
+{
+¡Destruye esto para liberar a tus unidades del control de Osahendido!
+}
+
+STRING 797
+// Items: I001 (Bendición de escarcha), Name (Name)
+{
+Bendición de escarcha
+}
+
+STRING 798
+// Items: I001 (Blessing of Frost), Ubertip (Tooltip - Extended)
+{
+|cff00ff00Osahendido ha obtenido la Bendición de escarcha, que aumenta 5 p. su armadura y le otorga un ataque de escarcha. Además, puede lanzar sus hechizos con más frecuencia.
+}
+
+STRING 799
+// Units: u00G ([Muñeco de atacante - Consumo de alma]), Name (Name)
+{
+[Muñeco de atacante - Consumo de alma]
+}
+
+STRING 800
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 801
+// Units: u00G ([Dummy Attacker - Soul Consumption]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 802
+// Abilities: AHfs (Flame Strike), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 804
+// Units: u00H ([Muñeco de tanque]), Name (Name)
+{
+[Muñeco de tanque]
+}
+
+STRING 805
+// Units: u00H ([Dummy Tanker]), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 806
+// Units: u00H ([Dummy Tanker]), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 807
+// Abilities: A01P (Breath of Life), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 808
+// Units: u005 (Disease Cloud), EditorSuffix (Name - Editor Suffix)
+{
+(Rivendare's Archer)
+}
+
+STRING 809
+// Units: u00E (Deflagración de cadáver - Muñeco), Name (Name)
+{
+Deflagración de cadáver - Muñeco
+}
+
+STRING 810
+// Units: u00E (Corpse Explosion - Dummy), Ubertip (Tooltip - Extended)
+{
+¡Me has encontrado!
+}
+
+STRING 811
+// Units: u00E (Corpse Explosion - Dummy), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 812
+// Abilities: A01M (Terrifying Roar), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 813
+// Units: u008 (Skeleton Warrior), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 814
+// Units: u009 (Mago esqueleto), Name (Name)
+{
+Mago esqueleto
+}
+
+STRING 815
+// Units: u009 (Skeleton Mage), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 816
+// Units: u002 (Skeleton Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Raise Dead)
+}
+
+STRING 817
+{
+¡Aquí vienen!
+}
+
+STRING 819
+{
+It looks as if we need a key.
+}
+
+STRING 820
+// Items: I002 (Llave de la Plaza del Cruzado), Name (Name)
+{
+Llave de la Plaza del Cruzado
+}
+
+STRING 821
+// Items: I002 (Crusader Square Key), Ubertip (Tooltip - Extended)
+{
+La llave para acceder a la Plaza del Cruzado.
+}
+
+STRING 822
+// Items: I002 (Crusader Square Key), Description (Description)
+{
+Una llave roja.
+}
+
+STRING 823
+// Items: I002 (Crusader Square Key), Tip (Tooltip - Basic)
+{
+Comprar llave de la Plaza del Cruzado
+}
+
+STRING 825
+// Items: I003 (Runa de comida), Name (Name)
+{
+Runa de comida
+}
+
+STRING 826
+// Items: I003 (Rune of Food), Tip (Tooltip - Basic)
+{
+Comprar runa de comida
+}
+
+STRING 828
+// Items: I003 (Rune of Food), Description (Description)
+{
+Aumenta el límite de comida de forma permanente.
+}
+
+STRING 830
+{
+No se puede seleccionar a los cultores de Osahendido.
+}
+
+STRING 831
+// Doodads: D00D (Tox Gas Cloud), Name (Name)
+{
+Tox Gas Cloud
+}
+
+STRING 834
+{
+¡Nos han encontrado!
+}
+
+STRING 835
+{
+Nothing's happening. There must be another lever.
+}
+
+STRING 836
+{
+Nothing's happening. There must be another lever.
+}
+
+STRING 837
+{
+It's too late for me, my lord...
+}
+
+STRING 843
+{
+Your suffering will be… exquisite.
+}
+
+STRING 844
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Labores de recuperación en el puerto
+  - Subir a un transportador
+  - Recuperar 100 suministros flotantes
+}
+
+STRING 845
+{
+The battleships destroyed the vessels and left the cargo to drift, caring nothing for the lives or hope it carried.
+}
+
+STRING 847
+{
+These crates bear the seal of Lordaeron — a relief fleet must have tried to reach the city before the Scourge sank them.
+}
+
+STRING 848
+{
+If any resistance still fights within those walls, food and steel like this could mean survival.
+}
+
+STRING 850
+{
+Then we take a transport and slip between their guns — what little hope remains, we will not leave to drown.
+}
+
+STRING 851
+// Abilities: S001 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Ship) (1)
+}
+
+STRING 852
+// Abilities: A01U (Inventory), EditorSuffix (Editor Suffix)
+{
+(Ship)
+}
+
+STRING 853
+{
+Labores de recuperación en el puerto
+}
+
+STRING 854
+{
+Suministros recuperados
+}
+
+STRING 855
+{
+Tienes que cargar un héroe.
+}
+
+STRING 856
+{
+Labores de recuperación en el puerto
+}
+
+STRING 857
+{
+Recupera los barriles de suministros flotantes de los barcos hundidos en el puerto de Stratholme. Serán de gran valor en la guerra contra la Plaga.
+}
+
+STRING 858
+{
+Recuperar 100 suministros flotantes
+}
+
+STRING 859
+{
+|cff32cd32AYUDA|r - Límite de comida aumentado.
+}
+
+STRING 860
+// Destructibles: B003 (Suministros flotantes), Name (Name)
+{
+Suministros flotantes
+}
+
+STRING 861
+// Destructibles: B004 (Suministros flotantes), Name (Name)
+{
+Suministros flotantes
+}
+
+STRING 862
+// Destructibles: B005 (Suministros flotantes), Name (Name)
+{
+Suministros flotantes
+}
+
+STRING 864
+// Units: O000 (Skeletal Titan), EditorSuffix (Name - Editor Suffix)
+{
+(Kol'ga) (Skeleton Form)
+}
+
+STRING 865
+// Units: U012 (Titan), Propernames (Proper Names)
+{
+Grimthane
+}
+
+STRING 866
+// Units: U012 ([ms]Titán), Name (Name)
+{
+[ms]Titán
+}
+
+STRING 869
+{
+Fusilero
+}
+
+STRING 870
+// Items: I00B (Runa de los desvinculados), Name (Name)
+{
+Runa de los desvinculados
+}
+
+STRING 871
+{
+Subir a un transportador
+}
+
+STRING 883
+{
+|cffffcc00MISIÓN OPCIONAL ACTUALIZADA|r
+Labores de recuperación en el puerto
+  - |cff808080Subir a un transportador (completado)|r
+  - Recuperar 100 suministros flotantes
+}
+
+STRING 884
+{
+Take the Crypt down, quickly!
+}
+
+STRING 885
+{
+¡100!
+}
+
+STRING 887
+{
+Garek
+}
+
+STRING 888
+{
+The gate is locked. Maybe Ilastar has more luck.
+}
+
+STRING 890
+{
+¡Necesitamos tu ayuda!
+}
+
+STRING 892
+{
+Light preserve us… what blasphemy festers here? I can feel the sickness upon the wind…
+}
+
+STRING 896
+{
+This mushroom is no common growths of rot. If left unchecked, its spores will drift beyond these ruined walls and poison the lands anew. The taint must not be allowed to spread.
+}
+
+STRING 898
+{
+It is done… The foul growths are ash, and their spores scatter no more.
+}
+
+STRING 907
+// Units: u003 (Ramstein el Empachador), Name (Name)
+{
+Ramstein el Empachador
+}
+
+STRING 908
+// Units: u00P (Cultor), Name (Name)
+{
+Cultor
+}
+
+STRING 909
+// Abilities: A01V (Efecto de Nube enfermiza), Name (Name)
+{
+Efecto de Nube enfermiza
+}
+
+STRING 910
+// Units: n008 (Damian), Name (Name)
+{
+Damian
+}
+
+STRING 911
+// Units: n008 (Damian), EditorSuffix (Name - Editor Suffix)
+{
+(Ghost)
+}
+
+STRING 912
+{
+They were spreading the plague...
+}
+
+STRING 913
+{
+What are all these empty crates for?
+}
+
+STRING 914
+{
+Help at last. We've been holed up here for a while. Undead from all sides.
+}
+
+STRING 916
+{
+Lorthiras
+}
+
+STRING 918
+{
+Ras Murmuhielo
+}
+
+STRING 920
+{
+Equipo de mortero
+}
+
+STRING 922
+{
+Ciudadano
+}
+
+STRING 924
+{
+Campesino fantasmal
+}
+
+STRING 926
+{
+Nefastofeudo
+}
+
+STRING 928
+{
+Hilaañublo
+}
+
+STRING 934
+{
+¡Tengo demasiado frío! ¡Necesito calor!
+}
+
+STRING 936
+// Abilities: A01W (Chest of Gold), EditorSuffix (Editor Suffix)
+{
++1
+}
+
+STRING 937
+{
+You cannot kill what is already dead.
+}
+
+STRING 938
+// Units/Human/Footman/FootmanYesAttack3.flac
+{
+¡A las armas!
+}
+
+STRING 939
+// Items: shea (Scroll of Healing), Hotkey (Hotkey)
+{
+X
+}
+
+STRING 940
+// Items: sman (Scroll of Mana), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 941
+// Items: pclr (Clarity Potion), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 942
+// Abilities: A00D (Corpse Explosion), Unhotkey (Hotkey - Turn Off)
+{
+F
+}
+
+STRING 943
+// Abilities: A015 (Major Illusion), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 944
+{
+¡Esto no acaba aquí!
+}
+
+STRING 945
+{
+Your bones will join our legion.
+}
+
+STRING 946
+// Abilities: A01X (Runa de comida), Name (Name)
+{
+Runa de comida
+}
+
+STRING 947
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 2.
+}
+
+STRING 948
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 3.
+}
+
+STRING 949
+// Abilities: A003 (Mind Control), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units. Maximum unit level 4.
+}
+
+STRING 950
+// Abilities: A003 (Mind Control), Researchubertip (Tooltip - Learn - Extended)
+{
+Takes control of a target enemy unit. Only one unit can be controlled at a time. Mind Control cannot be used on Heroes or flying units.|n|n|cffffcc00Level 1|r - Maximum unit level 2. |n|cffffcc00Level 2|r - Maximum unit level 3. |n|cffffcc00Level 3|r - Maximum unit level 4.
+}
+
+STRING 951
+{
+That should be enough supplies.
+}
+
+STRING 955
+{
+May the Light cleanse what remains of you.
+}
+
+STRING 956
+{
+The streets crawl with zombies. Best not engage.
+}
+
+STRING 957
+{
+Gracias, mi señor. ¡Creí que nos iba a devorar!
+}
+
+STRING 958
+{
+Hay una salida. Deprisa.
+}
+
+STRING 960
+{
+¿Pero qué...? ¡Los obeliscos! ¡Destruidlos antes de que Osahendido consuma su magia!
+}
+
+STRING 961
+{
+|cffffcc00SECRETO REVELADO|r
+Árbol exótico
+}
+
+STRING 962
+{
+¿Traicionarlos? No... Me eligieron.
+}
+
+STRING 963
+{
+Los vivos eran débiles. Los muertos son mucho más... obedientes.
+}
+
+STRING 964
+{
+Venid... y uníos a las incontables almas que murieron gritando en Stratholme.
+}
+
+STRING 965
+{
+Pobres diablos... No podemos hacer nada por ellos salvo darles descanso.
+}
+
+STRING 966
+// Units: uzg2 (Torre fantasma), Name (Name)
+{
+Torre fantasma
+}
+
+STRING 967
+// Units: n009 (Laris), Name (Name)
+{
+Laris
+}
+
+STRING 968
+{
+|cff32cd32AYUDA|r - Más investigaciones en el cuartel desbloqueadas.
+}
+
+STRING 972
+{
+Garek, wait! There are still people alive in Stratholme.
+}
+
+STRING 973
+{
+Then our soldiers will see them to safety. But we must end this nightmare now.
+}
+
+STRING 974
+{
+Come now. Like lambs to the slaughter...
+}
+
+STRING 975
+// Items: I003 (Rune of Food), Ubertip (Tooltip - Extended)
+{
+Aumenta en 2 el límite de comida de forma permanente.
+}
+
+STRING 976
+// Doodads: D00E (Fire Pit Trashed (No Pathing)), Name (Name)
+{
+Fire Pit Trashed (No Pathing)
+}
+
+STRING 977
+// Doodads: D00F (Abomination (Flying)), Name (Name)
+{
+Abomination (Flying)
+}
+
+STRING 978
+// Doodads: D00G (Undead Frigate), Name (Name)
+{
+Undead Frigate
+}
+
+STRING 979
+{
+|cffffcc00SECRETO REVELADO|r
+¡Todos los cajones!
+}
+
+STRING 980
+{
+¡75!
+}
+
+STRING 981
+{
+¡50!
+}
+
+STRING 983
+{
+Their bones return to dust where they belong.
+}
+
+STRING 984
+// Units/Undead/Acolyte/AcolytePissed1.flac
+{
+¡Es la hora de la Plaga!
+}
+
+STRING 986
+// Units: h002 (Cadáver aleatorio), Name (Name)
+{
+Cadáver aleatorio
+}
+
+STRING 987
+// Units: h002 (Random Corpse), EditorSuffix (Name - Editor Suffix)
+{
+(Villager)
+}
+
+STRING 988
+// Units: u00I (shutup), Name (Name)
+{
+shutup
+}
+
+STRING 989
+// Units: u00I (shutup), Ubertip (Tooltip - Extended)
+{
+You found me!
+}
+
+STRING 990
+// Units: u00I (shutup), Tip (Tooltip - Basic)
+{
+Uy.
+}
+
+STRING 991
+// Abilities: A01O (Flame Strike), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 992
+// Doodads: D00H (BlackWall), Name (Name)
+{
+BlackWall
+}
+
+STRING 993
+// Destructibles: B007 (Acantilados rocosos (sin rodar)), Name (Name)
+{
+Acantilados rocosos (sin rodar)
+}
+
+STRING 994
+// Doodads: D00I (Strahnbrad Tree Leafless), Name (Name)
+{
+Strahnbrad Tree Leafless
+}
+
+STRING 995
+// Doodads: D00J (Water Plane Intense), Name (Name)
+{
+Water Plane Intense
+}
+
+STRING 996
+// Doodads: D00K (BrownWall), Name (Name)
+{
+BrownWall
+}
+
+STRING 997
+// Doodads: D00L (Skull (no pathing)), Name (Name)
+{
+Skull (no pathing)
+}
+
+STRING 999
+// Doodads: D00N (Broken Floor Decals2), Name (Name)
+{
+Broken Floor Decals2
+}
+
+STRING 1000
+// Doodads: D00O (General Decals2), Name (Name)
+{
+General Decals2
+}
+
+STRING 1002
+// Doodads: D00P (Omni Light OnOff), Name (Name)
+{
+Omni Light OnOff
+}
+
+STRING 1003
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T390-SORCERESS.ogg
+{
+The cult has made a dangerous foe!
+}
+
+STRING 1004
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T340-RIFLEMAN.ogg
+{
+¡Yo te cubro!
+}
+
+STRING 1005
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T330-PRIEST.ogg
+{
+Evil shall not prevail!
+}
+
+STRING 1006
+// Sound/Dialogue/HumanRECamp/human04re/HRE04-T370-MORTARTEAM.ogg
+{
+Ready to burn some scourge!
+}
+
+STRING 1010
+{
+Hechicera
+}
+
+STRING 1012
+{
+Sacerdote
+}
+
+STRING 1013
+{
+|cff8080ff25/100|r
+}
+
+STRING 1014
+{
+|cff8080ff50/100|r
+}
+
+STRING 1015
+{
+|cff8080ff75/100|r
+}
+
+STRING 1016
+// Items: I004 (Botín de barco), Name (Name)
+{
+Botín de barco
+}
+
+STRING 1017
+{
+TRIGSTR_399 (Male 2)
+}
+
+STRING 1018
+{
+Hechicera
+}
+
+STRING 1019
+{
+Sacerdote
+}
+
+STRING 1020
+{
+Fusilero
+}
+
+STRING 1021
+{
+Equipo de mortero
+}
+
+STRING 1022
+// Doodads: D00M (Volumetric Fog-blue), Name (Name)
+{
+Volumetric Fog-blue
+}
+
+STRING 1023
+// Doodads: D00Q (Volumetric Fog-Green), Name (Name)
+{
+Volumetric Fog-Green
+}
+
+STRING 1030
+{
+["Surprised" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Mira lo que ha dejado Arthas a su paso. ¿Cuántas ciudades más va a quemar? ¿Cuántas vidas se llevará?[/"Surprised"]
+}
+
+STRING 1031
+{
+Ilastar
+}
+
+STRING 1033
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Es Osahendido quien puso todo esto en marcha. Vamos a acabar con él aquí y ahora.[/"Angry"]
+}
+
+STRING 1034
+{
+Garek
+}
+
+STRING 1036
+{
+En efecto. La ciudad estará bien fortificada, pero puedo entrar por la puerta lateral e izar los rastrillos.
+}
+
+STRING 1037
+{
+Ilastar
+}
+
+STRING 1039
+{
+A sound plan. Stay safe until we can regroup with you.
+}
+
+STRING 1040
+{
+Garek
+}
+
+STRING 1042
+{
+Tú también, Garek. Que la Luz guíe tu espada.
+}
+
+STRING 1043
+{
+Ilastar
+}
+
+STRING 1046
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Osahendido! ¡Pagarás por tus crímenes con la muerte![/"Angry"]
+}
+
+STRING 1047
+{
+Garek
+}
+
+STRING 1052
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡No eres digno de pronunciar su nombre! ¡Muere como la alimaña que eres! ¡Por Landen![/"Angry"]
+}
+
+STRING 1053
+{
+Garek
+}
+
+STRING 1054
+{
+["Happy" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¿La muerte? ¿Qué sabes tú de la muerte?[/"Happy"]
+}
+
+STRING 1055
+{
+Barón Osahendido
+}
+
+STRING 1056
+{
+¡Yo he visto y ejercido su verdadero poder! ¡El Rey Exánime me ha elevado por encima de necios peleles como tú!
+}
+
+STRING 1057
+{
+Barón Osahendido
+}
+
+STRING 1058
+{
+["Angry" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]¡Ahora te arrancaré gritos como hice con tu patético capitán![/"Angry"]
+}
+
+STRING 1059
+{
+Barón Osahendido
+}
+
+
+STRING 1104
+{
+Garek
+}
+
+STRING 1129
+{
+Caballero
+}
+
+STRING 1140
+{
+Soldado raso
+}
+
+STRING 1143
+{
+Sacerdote
+}
+
+STRING 1145
+{
+Fusilero
+}
+
+STRING 1147
+{
+Equipo de mortero
+}
+
+STRING 1176
+{
+Garek
+}
+
+STRING 1177
+{
+Ilastar
+}
+
+STRING 1178
+{
+Garek
+}
+
+STRING 1181
+{
+Garek
+}
+
+STRING 1182
+{
+Garek
+}
+
+STRING 1183
+{
+Garek
+}
+
+STRING 1184
+{
+Garek
+}
+
+STRING 1185
+{
+Ilastar
+}
+
+STRING 1186
+{
+Garek
+}
+
+STRING 1187
+{
+Garek
+}
+
+STRING 1188
+{
+Ilastar
+}
+
+STRING 1189
+{
+Garek
+}
+
+STRING 1190
+{
+Ilastar
+}
+
+STRING 1191
+{
+Garek
+}
+
+STRING 1208
+{
+Garek
+}
+
+STRING 1209
+{
+Garek
+}
+
+STRING 1211
+{
+Ilastar
+}
+
+STRING 1212
+{
+Ilastar
+}
+
+STRING 1213
+{
+Garek
+}
+
+STRING 1214
+{
+Ilastar
+}
+
+STRING 1215
+{
+Garek
+}
+
+STRING 1217
+{
+Equipo de mortero
+}
+
+STRING 1234
+{
+Garek
+}
+
+STRING 1236
+{
+Garek
+}
+
+STRING 1240
+{
+Fusilero
+}
+
+STRING 1250
+{
+Ilastar
+}
+
+STRING 1252
+{
+Ilastar
+}
+
+STRING 1258
+{
+Soldado raso
+}
+
+STRING 1260
+{
+Hechicera
+}
+
+STRING 1266
+{
+Ras Murmuhielo
+}
+
+STRING 1270
+{
+Ras Murmuhielo
+}
+
+STRING 1296
+{
+Barón Osahendido
+}
+
+STRING 1298
+{
+Nefastofeudo
+}
+
+STRING 1304
+{
+Garek
+}
+
+STRING 1306
+{
+Lorthiras
+}
+
+STRING 1308
+{
+Lorthiras
+}
+
+STRING 1330
+{
+Ilastar
+}
+
+STRING 1336
+{
+Garek
+}
+
+STRING 1341
+{
+Ilastar
+}
+
+STRING 1345
+{
+Muñeco de unidad
+}
+
+STRING 1346
+{
+Perseguido
+}
+
+STRING 1347
+{
+Perseguido
+}
+
+STRING 1349
+{
+Bonus de armadura
+}
+
+STRING 1350
+{
+Bonus de velocidad de ataque
+}
+
+STRING 1367
+{
+Nigromante
+}
+
+STRING 1369
+{
+Titán esquelético
+}
+
+STRING 1382
+{
+Ras Murmuhielo
+}
+
+STRING 1389
+{
+Ilastar
+}
+
+STRING 1391
+{
+Barón Osahendido
+}
+
+STRING 1393
+{
+Barón Osahendido
+}
+
+STRING 1395
+{
+Barón Osahendido
+}
+
+STRING 1397
+{
+Barón Osahendido
+}
+
+STRING 1399
+{
+Garek
+}
+
+STRING 1400
+{
+Cierra el pico.
+}
+
+STRING 1408
+{
+¿Tantas ganas tienes de que te quite el puesto?
+}
+
+STRING 1410
+{
+Pues claro. Me muero por jubilarme.
+}
+
+STRING 1418
+{
+Ras Murmuhielo
+}
+
+STRING 1431
+{
+Ras Murmuhielo
+}
+
+STRING 1449
+{
+Ras Murmuhielo
+}
+
+STRING 1142
+{
+He venido a limpiar esta tierra.
+}
+
+STRING 1144
+{
+¡Cargado y listo!
+}
+
+STRING 1257
+{
+¡A las armas!
+}
+
+STRING 1259
+{
+¡La victoria será nuestra!
+}
+
+STRING 1295
+{
+¡Todos me serviréis!
+}
+
+STRING 1451
+{
+Garek
+}
+
+STRING 1452
+{
+Ciudadano
+}
+
+STRING 1453
+{
+Ciudadano
+}
+
+STRING 1454
+{
+Ciudadano
+}
+
+STRING 1455
+{
+Garek
+}
+
+STRING 1456
+{
+Ciudadano
+}
+
+STRING 1457
+{
+Ciudadano
+}
+
+STRING 1458
+{
+Garek
+}
+
+STRING 1459
+{
+Soldado raso
+}
+
+STRING 1460
+{
+Barón Osahendido
+}
+
+STRING 1461
+{
+Garek
+}
+
+STRING 1462
+{
+Ilastar
+}
+
+STRING 1463
+{
+Barón Osahendido
+}
+
+STRING 1464
+{
+Garek
+}
+
+STRING 1465
+{
+Ilastar
+}
+
+STRING 1466
+{
+Garek
+}
+
+STRING 1470
+{
+Ilastar
+}
+
+STRING 1478
+{
+¡Por Lordaeron!
+}
+
+STRING 1484
+{
+No... puedo...
+}
+
+STRING 1348
+{
+Esta unidad está siendo perseguida: se han reducido temporalmente su velocidad de movimiento y su velocidad de ataque.
+}
+
+STRING 1354
+{
+Senda ilusoria [|cffffcc00Fase 1|r]
+}
+
+STRING 1355
+{
+Senda ilusoria [|cffffcc00Fase 2|r]
+}
+
+STRING 1356
+{
+Senda ilusoria [|cffffcc00Fase 3|r]
+}
+
+STRING 1357
+{
+El héroe se vuelve invisible y deja atrás una ilusión para confundir al enemigo.
+}
+
+STRING 1358
+{
+El héroe se vuelve invisible y deja atrás una ilusión para confundir al enemigo.
+}
+
+STRING 1359
+{
+El héroe se vuelve invisible y deja atrás una ilusión para confundir al enemigo.
+}
+
+STRING 1360
+{
+Peste de la no-muerte
+}
+
+STRING 1361
+{
+Peste de la no-muerte
+}
+
+STRING 1362
+{
+Las unidades enemigas cercanas se verán afectadas por la peste.
+}
+
+STRING 1363
+{
+|cffff0000Infectado|r
+}
+
+STRING 1364
+{
+Esta unidad está condenada: no hay esperanza para ella.
+}
+
+STRING 1365
+{
+Muñeco de árbol champiñón
+}
+
+STRING 1366
+{
+|cff32cd32AYUDA|r - La habilidad Piedad de la Luz de Ilastar puede destruir champiñones de peste.
+}
+
+STRING 1390
+{
+Que la Luz... reparta... justicia...
+}
+
+STRING 1392
+{
+¿Qué crees... haber... logrado?
+}
+
+STRING 1394
+{
+La muerte no es el fin. Oh, no... Es solo el principio.
+}
+
+STRING 1396
+{
+Mi lealtad se verá recompensada. Regresaré con más poder que nunca.
+}
+
+STRING 1398
+{
+A diferencia de ti. Tú serás carne de cañón. Un cadáver pútrido, como tu capi...
+}
+
+STRING 1401
+{
+Recuerdos de Uther
+}
+
+STRING 1402
+{
+La Luz nos llama a proteger a quienes aún viven.
+}
+
+STRING 1405
+{
+Recuerdos de Ilastar
+}
+
+STRING 1406
+{
+La Luz también exige un castigo divino.
+}
+
+STRING 1407
+{
+Recuerdos de Garek
+}
+
+STRING 1409
+{
+Recuerdos de Landen
+}
+
+STRING 1411
+{
+Recuerdos de Garek
+}
+
+STRING 1412
+{
+Ansío la emoción de la batalla y la gloria de la victoria.
+}
+
+STRING 1413
+{
+Recuerdos de Landen
+}
+
+STRING 1414
+{
+La verdadera victoria es sobrevivir. Y la paz, su recompensa.
+}
+
+STRING 1415
+{
+Recuerdos de Landen
+}
+
+STRING 1416
+{
+Nunca lo olvides.
+}
+
+STRING 1103
+{
+Buen plan. Cuídate hasta que podamos reagruparnos contigo.
+}
+
+STRING 1107
+{
+¡Centraos en la cripta antes de que nos hagan pedazos!
+}
+
+STRING 1109
+{
+No puedo enfrentarme a ellos yo solo. Las dotaciones de mortero de Garek pueden ayudar de lejos.
+}
+
+STRING 1113
+{
+La puerta sigue cerrada. Debe de haber una segunda palanca.
+}
+
+STRING 1117
+{
+¡Aquí vienen! ¡Preparaos para la batalla!
+}
+
+STRING 1119
+{
+La puerta está cerrada. No podremos abrirla sin una llave.
+}
+
+STRING 1121
+{
+El camino que lleva a la Plaza del Cruzado está despejado. Osahendido no podrá esconderse eternamente.
+}
+
+STRING 1122
+{
+Stratholme era una de las ciudades más majestuosas de Lordaeron. ¡Y Osahendido decidió sacrificarla a los no-muertos!
+}
+
+STRING 1124
+{
+Es uno de tantos que ha vendido su alma a la Plaga. Todos arderán en el fuego divino.
+}
+
+STRING 1125
+{
+Maldición, nuestras fuerzas han quedado divididas. Hay que encontrar la palanca con la que se abre la puerta.
+}
+
+STRING 1126
+{
+Reagrupémonos y sigamos avanzando.
+}
+
+STRING 1128
+{
+¡Más supervivientes! ¡Mantened la posición!
+}
+
+STRING 1130
+{
+Esa es la profana torre desde la que Osahendido gobierna.
+}
+
+STRING 1131
+{
+Lo abriré en canal y después lo lanzaré desde lo alto de la torre.
+}
+
+STRING 1132
+{
+Garek, puede que todavía queden supervivientes en la ciudad.
+}
+
+STRING 1134
+{
+Nuestros soldados pueden seguir buscando civiles que necesiten ayuda.
+}
+
+STRING 1136
+{
+Nos reagruparemos en Vega del Amparo cuando hayamos terminado. Es hora de hacer justicia con Osahendido.
+}
+
+STRING 1139
+{
+No es más que un rasguño...
+}
+
+STRING 1146
+{
+¡A la batalla!
+}
+
+STRING 1153
+{
+Olvídate de él. Nuestro objetivo es Osahendido.
+}
+
+STRING 1163
+{
+¡Por la Luz! Las esporas de esos champiñones están propagando la peste. ¡Hay que arrancarlos de raíz!
+}
+
+STRING 1164
+{
+Que esas viles esporas se asfixien entre las cenizas de esta ciudad en ruinas.
+}
+
+STRING 1165
+{
+Algunos intentaron huir de Stratholme por mar. Parece que el culto hundió su barco.
+}
+
+STRING 1166
+{
+Deberíamos recuperar sus suministros. Nos vendrán bien en nuestra guerra.
+}
+
+STRING 1167
+{
+Estos suministros serán suficientes. Es hora de volver a tierra firme.
+}
+
+STRING 1233
+{
+Cajas de cereales infectadas por la peste. Así condenó Osahendido 
+a su gente.
+}
+
+STRING 1235
+{
+La puerta está cerrada. Habrá que esperar a que Ilastar la abra.
+}
+
+STRING 1340
+{
+El camino está despejado. Seguiré aquí y me adelantaré a explorar.
+}
+
+STRING 1216
+{
+¿Estáis... vivos? ¡Gracias a la Luz! ¡La Plaga nos tenía rodeados desde hace semanas!
+}
+
+STRING 1329
+{
+La Capilla de Alonsus... ¿Qué sacrilegios habrá perpetrado el culto aquí?
+}
+
+STRING 1239
+{
+¡Refuerzos! ¡Te dije que teníamos que resistir un poco más!
+}
+
+STRING 1249
+{
+La puerta sigue cerrada. Debe de haber otra palanca.
+}
+
+STRING 1335
+{
+¡La puerta se ha abierto! ¡Ras Murmuhielo probará nuestro acero!
+}
+
+STRING 1251
+{
+Las calles están infestadas de no-muertos. Será mejor que los evitemos, si es posible.
+}
+
+STRING 1265
+{
+Ah, conque vuelves a por más. Esta vez, ¡te despellejaré vivo!
+}
+
+STRING 1269
+{
+No se me puede matar tan fácilmente, mortales. Volveremos a vernos.
+}
+
+STRING 1305
+{
+Vuestro sufrimiento será exquisito.
+}
+
+STRING 1307
+{
+Esto no ha terminado, mortales.
+}
+
+STRING 1297
+{
+Vuestros huesos servirán a la Plaga.
+}
+
+STRING 1303
+{
+Vuestros huesos ya pueden unirse al resto.
+}
+
+STRING 1381
+{
+Los cobardes magos del Kirin Tor desdeñaron mi talento y mi ambición. ¡Pero el Rey Exánime sabrá recompensarlos!
+}
+
+STRING 1417
+{
+Reniego de esta carne y esta sangre miserables, ¡y abrazo la inmortalidad de la no-muerte!
+}
+
+STRING 1430
+{
+¡Contempladme! Me alzo de nuevo, ¡perfeccionado en forma y poder!
+}
+
+STRING 1448
+{
+¡Leonid! Di a mis pupilos que hagan lo que quieran. ¡Ahora me aguarda un destino mayor!
+}
+
+STRING 1487
+{
+Venganza
+}
+
+STRING 1488
+{
+Capítulo 4: Venganza
+}
+
+STRING 1467
+{
+Ilastar, ¿cómo te va todo?
+}
+
+STRING 1469
+{
+Bastante bien. Te sanaré lo mejor que pueda desde aquí.
+}
+
+STRING 1471
+{
+¡Me has salvado la vida! ¡Tengo que salir de aquí!
+}
+
+STRING 1472
+{
+¡Gracias, amable señor! ¡Creí que iba a morir aquí o algo peor!
+}
+
+STRING 1473
+{
+¿Será posible? ¿Se ha terminado la pesadilla? ¡No sé cómo darte las gracias!
+}
+
+STRING 1474
+{
+¡Era un demonio! ¡Tenía alas, cuernos y pezuñas!
+}
+
+STRING 1475
+{
+¡Estamos atrapados! ¡Socorro, por favor!
+}
+
+STRING 1476
+{
+¡Muerte a Lordaeron!
+}
+
+STRING 1477
+{
+Tal es el destino de los cultores.
+}
+
+STRING 1479
+{
+¡Las tropas de la Plaga son incontables! ¡Os ahogaréis en vuestra propia sangre!
+}
+
+STRING 1480
+{
+¿Qué... es esto? Lo noto en los pulmones...
+}
+
+STRING 1481
+{
+Esporas de peste... Estamos... estamos infectados...
+}
+
+STRING 1482
+{
+¡Alimañas molestas! ¡Contemplad lo que es el auténtico poder!
+}
+
+STRING 1483
+{
+Ilastar, ¡los obeliscos! ¡Destrúyelos!
+}
+
+STRING 1485
+{
+¡Aguanta, Ilastar!
+}
+
+STRING 1489
+{
+Destruir los champiñones de peste gigantes (1 de 3 destruidos)
+}
+
+STRING 1491
+{
+Destruir los champiñones de peste gigantes (2 de 3 destruidos)
+}
+
+STRING 1494
+{
+Brillo de héroe
+}
+
+STRING 1495
+{
+Ayudante de visibilidad
+}
+
+STRING 1497
+{
+Muñeco de unidad
+}
+
+STRING 1500
+{
+Congelado
+}
+
+STRING 1499
+{
+Congelación aturdidora de Ras Murmuhielo
+}
+
+STRING 1501
+{
+Congelación aturdidora de Ras Murmuhielo
+}

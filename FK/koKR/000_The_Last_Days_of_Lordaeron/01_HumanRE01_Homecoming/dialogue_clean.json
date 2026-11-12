@@ -1,0 +1,863 @@
+{
+  "map": "HumanRE01",
+  "title": "Homecoming",
+  "locale": "koKR",
+  "note": "Story order taken from the map script. Encounter lines (fights, side events) are placed where they usually happen; their exact order depends on the player's route.",
+  "lines": [
+    {
+      "speaker": "랜든",
+      "text": "부대, 차렷. 아서스 왕자께서 노스렌드에서 돌아오셨다! 행운이 따른다면, 역병의 치료제도 가져오셨을 것이다.",
+      "metadata": {
+        "string_id": 2839,
+        "speaker_string_id": 2840,
+        "dialogue_id": "HRE01-C010-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "그렇다면 한가한 항해 놀이가 완전히 헛되지는 않았다는 말이군요. 왜 매번 왕자의 행동 하나하나에 알랑거려야 하는지.",
+      "metadata": {
+        "string_id": 2835,
+        "speaker_string_id": 2836,
+        "dialogue_id": "HRE01-C010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "반다리온 부관, 우리는 메네실 왕가를 섬기겠다고 서약했지. 이제 집으로 돌아오시는 왕자님을 맞이할 준비를 하자고.",
+      "metadata": {
+        "string_id": 3412,
+        "speaker_string_id": 3413,
+        "dialogue_id": "HRE01-C010-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "지당하십니다, 랜든 대장. 왕자님을 실망시켜서야 쓰겠습니까.",
+      "metadata": {
+        "string_id": 2845,
+        "speaker_string_id": 2846,
+        "dialogue_id": "HRE01-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "가렉, 자네는 겉으로 보이는 것보다 훨씬 우수한 경비병이야. 조금만 진지하게 임한다면 경비대장 자리에도 충분히 오를 텐데.",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2981,
+        "dialogue_id": "HRE01-T010-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "제가 대장님 자리를 그리도 꿰찼으면 좋겠습니까?",
+      "metadata": {
+        "string_id": 2969,
+        "speaker_string_id": 2970,
+        "dialogue_id": "HRE01-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "물론이지. 하루빨리 은퇴할 날만 기다리는데.",
+      "metadata": {
+        "string_id": 2974,
+        "speaker_string_id": 2975,
+        "dialogue_id": "HRE01-T030-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "왕자님께 꽃을 쏟아붓는 건 아무래도 좀 과한 것 같은데.",
+      "metadata": {
+        "string_id": 2985,
+        "speaker_string_id": 2986,
+        "dialogue_id": "HRE01-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "축하할 일이 아니겠나, 가렉. 사람들도 즐길 자격이 있지.",
+      "metadata": {
+        "string_id": 3199,
+        "speaker_string_id": 3200,
+        "dialogue_id": "HRE01-T050-LANDEN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "정말인가? 아서스 왕자님이 마침내 돌아오셨다고? 드디어 오셨군!",
+      "metadata": {
+        "string_id": 3181,
+        "speaker_string_id": 3182,
+        "dialogue_id": "HRE01-T060-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "왕자가 애초에 노스렌드로 왜 항해해 가셨는지 아는 사람 있나? 거기에서 대체 뭘 찾으려는 거지?",
+      "metadata": {
+        "string_id": 3219,
+        "speaker_string_id": 3220,
+        "dialogue_id": "HRE01-T070-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "떠나기 전에 아서스 왕자가 성기사 연맹을 해산했다고 들었는데. 대체 왜 그런 짓을?",
+      "metadata": {
+        "string_id": 3372,
+        "speaker_string_id": 3373,
+        "dialogue_id": "HRE01-T080-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "수레를 옮겨주셔야겠습니다, 부인. 궁전 문을 막고 있군요.",
+      "metadata": {
+        "string_id": 2760,
+        "speaker_string_id": 2761,
+        "dialogue_id": "HRE01-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "알리시아",
+      "text": "하지만 바퀴는 수리도 할 수 없는 지경인데요!",
+      "metadata": {
+        "string_id": 2802,
+        "speaker_string_id": 2803,
+        "dialogue_id": "HRE01-T110-ALICIA"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "걱정 마십시오. 새로 구해다 드리겠습니다.",
+      "metadata": {
+        "string_id": 2816,
+        "speaker_string_id": 2817,
+        "dialogue_id": "HRE01-T120-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "돈을 참 잘도 썼군. 왕자님 길을 막지 않도록 수레를 그냥 밀어 버릴 수도 있었을 텐데.",
+      "metadata": {
+        "string_id": 2998,
+        "speaker_string_id": 2999,
+        "dialogue_id": "HRE01-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "그렇다면 계속 부서진 채로 남겠지. 우리 일은 사람들을 돕는 것이지, 귀찮다고 옆으로 치워 버리는 게 아니야.",
+      "metadata": {
+        "string_id": 3000,
+        "speaker_string_id": 3001,
+        "dialogue_id": "HRE01-T140-LANDEN"
+      }
+    },
+    {
+      "speaker": "알리시아",
+      "text": "아, 고마워요! 감사의 뜻이에요, 받아 주세요.",
+      "metadata": {
+        "string_id": 3205,
+        "speaker_string_id": 3206,
+        "dialogue_id": "HRE01-T150-ALICIA"
+      }
+    },
+    {
+      "speaker": "유진",
+      "text": "멈춰! 도둑이야!",
+      "metadata": {
+        "string_id": 3215,
+        "speaker_string_id": 3216,
+        "dialogue_id": "HRE01-T160-MERCHANT"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "쫓아가자!",
+      "metadata": {
+        "string_id": 3217,
+        "speaker_string_id": 3218,
+        "dialogue_id": "HRE01-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "범죄가 만연한 도시에 아서스 왕자님을 맞이할 수는 없지.",
+      "metadata": {
+        "string_id": 3035,
+        "speaker_string_id": 3036,
+        "dialogue_id": "HRE01-T180-LANDEN"
+      }
+    },
+    {
+      "speaker": "루카",
+      "text": "내가 다 봤어! 아서스 왕자가 스트라솔름을 쓸어 버렸다고! 싹 다 죽였대도!",
+      "metadata": {
+        "string_id": 3191,
+        "speaker_string_id": 3192,
+        "dialogue_id": "HRE01-T190-LUCA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "확인해 보는 게 좋겠군.",
+      "metadata": {
+        "string_id": 3195,
+        "speaker_string_id": 3196,
+        "dialogue_id": "HRE01-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "비키시오!",
+      "metadata": {
+        "string_id": 3016,
+        "speaker_string_id": 3017,
+        "dialogue_id": "HRE01-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "집에 가서 술 깨든, 감옥 가서 술 깨든, 알아서 선택하시오.",
+      "metadata": {
+        "string_id": 3021,
+        "speaker_string_id": 3022,
+        "dialogue_id": "HRE01-T220-LANDEN"
+      }
+    },
+    {
+      "speaker": "루카",
+      "text": "똑똑히 봤어!",
+      "metadata": {
+        "string_id": 3207,
+        "speaker_string_id": 3208,
+        "dialogue_id": "HRE01-T230-LUCA"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "저놈 말을 믿으십니까?",
+      "metadata": {
+        "string_id": 3008,
+        "speaker_string_id": 3009,
+        "dialogue_id": "HRE01-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "근거 없는 소문이야. 스트라솔름에서 무슨 일이 있었는지 제대로 아는 사람은 아무도 없지만, 분명 아서스 왕자님께서는 백성을 위해 최선을 다하셨을 걸세.",
+      "metadata": {
+        "string_id": 3010,
+        "speaker_string_id": 3011,
+        "dialogue_id": "HRE01-T250-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "오늘도 고된 하루가 끝이 났군. 우리 왕자님도 흡족해하시겠어.",
+      "metadata": {
+        "string_id": 2989,
+        "speaker_string_id": 2990,
+        "dialogue_id": "HRE01-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "아서스 왕자님께서 도착하신 것 같군. 초소에 보고하자고.",
+      "metadata": {
+        "string_id": 2976,
+        "speaker_string_id": 2977,
+        "dialogue_id": "HRE01-T270-LANDEN"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "...가렉.",
+      "metadata": {
+        "string_id": 3443,
+        "speaker_string_id": 3442,
+        "dialogue_id": "HRE01-C020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "가렉!",
+      "metadata": {
+        "string_id": 3410,
+        "speaker_string_id": 3411,
+        "dialogue_id": "HRE01-C020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "외람된 말씀입니다만, 대장님, 왕가를 위해 도로 청소나 하자고 도시 경비대에 입대한 건 아닙니다만.",
+      "metadata": {
+        "string_id": 2878,
+        "speaker_string_id": 2879,
+        "dialogue_id": "HRE01-M015-010-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "저는 로데론을 지키기 위해 싸우고 싶습니다. 전투의 스릴과 승리의 영광을 누리고 싶단 말입니다.",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2882,
+        "dialogue_id": "HRE01-M015-020-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "가렉, 나는 여러 번 참전해 영광은 한낱 신화에 불과하다는 걸 깨달았네.",
+      "metadata": {
+        "string_id": 2884,
+        "speaker_string_id": 2885,
+        "dialogue_id": "HRE01-M015-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "생존이야말로 진정한 승리요, 평화야말로 그 보상일세. 이걸 절대 잊지 말게나.",
+      "metadata": {
+        "string_id": 2887,
+        "speaker_string_id": 2888,
+        "dialogue_id": "HRE01-M015-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "잠시만요... 들으셨습니까?",
+      "metadata": {
+        "string_id": 2890,
+        "speaker_string_id": 2891,
+        "dialogue_id": "HRE01-M015-050-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "저게 대체 뭐였습니까?",
+      "metadata": {
+        "string_id": 3044,
+        "speaker_string_id": 3045,
+        "dialogue_id": "HRE01-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "나도 잘... 가렉! 조심하게!",
+      "metadata": {
+        "string_id": 3048,
+        "speaker_string_id": 3049,
+        "dialogue_id": "HRE01-T290-LANDEN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "로데론을 위하여!",
+      "metadata": {
+        "string_id": 3314,
+        "speaker_string_id": 3315,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "사제",
+      "text": "물렀거라, 악의 종복이여!",
+      "metadata": {
+        "string_id": 3312,
+        "speaker_string_id": 3313,
+        "dialogue_id": "PriestYesAttack1"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "전투 태세로!",
+      "metadata": {
+        "string_id": 3310,
+        "speaker_string_id": 3311,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "암살자",
+      "text": "잡아라!",
+      "metadata": {
+        "string_id": 3336,
+        "speaker_string_id": 3337,
+        "dialogue_id": "BanditYesAttack3"
+      }
+    },
+    {
+      "speaker": "역병직조자",
+      "text": "우리 계획이 이루어졌다! 죽음이 너희 모두를 삼키리라!",
+      "metadata": {
+        "string_id": 3340,
+        "speaker_string_id": 3341,
+        "dialogue_id": "HRE01-T470-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "강령술사",
+      "text": "스컬지의 힘 앞에 전율하라!",
+      "metadata": {
+        "string_id": 3346,
+        "speaker_string_id": 3347,
+        "dialogue_id": "NecromancerYesAttack2"
+      }
+    },
+    {
+      "speaker": "역병직조자",
+      "text": "이날만을 기다려왔다!",
+      "metadata": {
+        "string_id": 3344,
+        "speaker_string_id": 3345,
+        "dialogue_id": "HRE01-T480-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "문이 잠겼습니다!",
+      "metadata": {
+        "string_id": 3051,
+        "speaker_string_id": 3052,
+        "dialogue_id": "HRE01-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "다른 길로 들어가야겠군. 서두르게!",
+      "metadata": {
+        "string_id": 3056,
+        "speaker_string_id": 3057,
+        "dialogue_id": "HRE01-T310-LANDEN"
+      }
+    },
+    {
+      "speaker": "아서스",
+      "text": "왕국은 무너지고, 잿더미에서 새로운 질서가 태어나 이 세계의 근간을 뒤흔들 것이다!",
+      "metadata": {
+        "string_id": 3223,
+        "speaker_string_id": 3224,
+        "dialogue_id": "HRE01-T320-ARTHAS"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "소문이 사실이었군... 아서스 왕자가 제정신이 아니야!",
+      "metadata": {
+        "string_id": 3239,
+        "speaker_string_id": 3240,
+        "dialogue_id": "HRE01-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "테레나스 폐하! 안 돼!",
+      "metadata": {
+        "string_id": 2893,
+        "speaker_string_id": 2894,
+        "dialogue_id": "HRE01-M020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "언데드다! 대장님, 저희도 전투에 합류해야 합니다!",
+      "metadata": {
+        "string_id": 3068,
+        "speaker_string_id": 3069,
+        "dialogue_id": "HRE01-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "여기서 대체 무슨 일이 있었지?!",
+      "metadata": {
+        "string_id": 3070,
+        "speaker_string_id": 3071,
+        "dialogue_id": "HRE01-T350-LANDEN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "아... 아서스 왕자였습니다! 폐하를 시해했습니다! 친아버지를요!",
+      "metadata": {
+        "string_id": 3078,
+        "speaker_string_id": 3149,
+        "dialogue_id": "HRE01-T360-THRONEROOMGUARD"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "왕자가 저 괴물들과 한패라고요?!",
+      "metadata": {
+        "string_id": 3073,
+        "speaker_string_id": 3074,
+        "dialogue_id": "HRE01-T370-GAREK"
+      }
+    },
+    {
+      "speaker": "군주 바일리어",
+      "text": "오랜 기다림 끝에, 저주받은 자들의 교단이 로데론을 파멸시킬 것이다!",
+      "metadata": {
+        "string_id": 3348,
+        "speaker_string_id": 3349,
+        "dialogue_id": "HRE01-T380-LORDVILEOR"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "끝도 없는 건가? 빠져나갈 방법이 필요합니다!",
+      "metadata": {
+        "string_id": 3079,
+        "speaker_string_id": 3080,
+        "dialogue_id": "HRE01-T390-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "빛의 수호자 우서!",
+      "metadata": {
+        "string_id": 3426,
+        "speaker_string_id": 3427,
+        "dialogue_id": "HRE01-C030-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "제군! 다쳤나?",
+      "metadata": {
+        "string_id": 3430,
+        "speaker_string_id": 3431,
+        "dialogue_id": "HRE01-C030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "아닙니다, 대장님...",
+      "metadata": {
+        "string_id": 3434,
+        "speaker_string_id": 3435,
+        "dialogue_id": "HRE01-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "하지만 테레나스 폐하께서...",
+      "metadata": {
+        "string_id": 3440,
+        "speaker_string_id": 3441,
+        "dialogue_id": "HRE01-C030-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "폐하...",
+      "metadata": {
+        "string_id": 3422,
+        "speaker_string_id": 3423,
+        "dialogue_id": "HRE01-C030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "우서 경, 대체 무슨 일이 벌어지고 있는 겁니까?",
+      "metadata": {
+        "string_id": 2902,
+        "speaker_string_id": 2903,
+        "dialogue_id": "HRE01-M030-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "수도가 교단원과 언데드에게 점령되었소. 아서스가 우리 모두를 배신했소!",
+      "metadata": {
+        "string_id": 2905,
+        "speaker_string_id": 2906,
+        "dialogue_id": "HRE01-M030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "예?!",
+      "metadata": {
+        "string_id": 2908,
+        "speaker_string_id": 2909,
+        "dialogue_id": "HRE01-M030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "테레나스를 구하기에는 너무 늦었지만, 배신자 아들놈은 반드시 심판대에 세울 것이오.",
+      "metadata": {
+        "string_id": 2911,
+        "speaker_string_id": 2912,
+        "dialogue_id": "HRE01-M030-040-UTHER"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "귀관 둘은 도시 경비대를 모아 최대한 많은 주민들을 구출하도록 하시오.",
+      "metadata": {
+        "string_id": 2914,
+        "speaker_string_id": 2915,
+        "dialogue_id": "HRE01-M030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "우서",
+      "text": "안돌할에서 재집결하도록 하겠소. 빛의 인도가 있기를.",
+      "metadata": {
+        "string_id": 2917,
+        "speaker_string_id": 2918,
+        "dialogue_id": "HRE01-M030-060-UTHER"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "대장님... 이제 어떡합니까?",
+      "metadata": {
+        "string_id": 3088,
+        "speaker_string_id": 3089,
+        "dialogue_id": "HRE01-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "하수구를 따라 오래된 대피로가 있네. 아직 멀쩡하길 바라자고.",
+      "metadata": {
+        "string_id": 3086,
+        "speaker_string_id": 3087,
+        "dialogue_id": "HRE01-T410-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "아서스! 배신자 놈!",
+      "metadata": {
+        "string_id": 3175,
+        "speaker_string_id": 3176,
+        "dialogue_id": "HRE01-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "우서 경에게 맡기게! 계속 움직여야 해!",
+      "metadata": {
+        "string_id": 3041,
+        "speaker_string_id": 3042,
+        "dialogue_id": "HRE01-T430-LANDEN"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "빛이시여...",
+      "metadata": {
+        "string_id": 2920,
+        "speaker_string_id": 2921,
+        "dialogue_id": "HRE01-M040-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "이런 말도 안 되는... 아서스가 자신의 왕국을 파멸시키다니요?!",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "HRE01-M040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "반격해야 합니다! 저 괴물 놈들을 몰아내고 고향을 되찾아야 한다고요!",
+      "metadata": {
+        "string_id": 2926,
+        "speaker_string_id": 2927,
+        "dialogue_id": "HRE01-M040-030-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "가렉, 내 말 잘 듣게. 도시는 잃었어도 다시 세울 수 있어. 중요한 건 도시의 사람들을 지키는 것일세.",
+      "metadata": {
+        "string_id": 2930,
+        "speaker_string_id": 2931,
+        "dialogue_id": "HRE01-M040-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "알... 알겠습니다. 하수구로 가시죠.",
+      "metadata": {
+        "string_id": 2933,
+        "speaker_string_id": 2934,
+        "dialogue_id": "HRE01-M040-050-GAREK"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "랜든 대장님! 반다리온 부관님!",
+      "metadata": {
+        "string_id": 3279,
+        "speaker_string_id": 3280,
+        "dialogue_id": "HRE01-T500-GUARD1"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "경비병, 이쪽이다!",
+      "metadata": {
+        "string_id": 3281,
+        "speaker_string_id": 3282,
+        "dialogue_id": "HRE01-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "마을 주민",
+      "text": "빛께 감사를! 궁정 다른 편에 생존자가 더 갇혀 있습니다!",
+      "metadata": {
+        "string_id": 3293,
+        "speaker_string_id": 3294,
+        "dialogue_id": "HRE01-T520-SURVIVOR"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "최선을 다해 구하겠습니다. 저희가 길을 뚫을 테니, 여기 계십시오!",
+      "metadata": {
+        "string_id": 3297,
+        "speaker_string_id": 3298,
+        "dialogue_id": "HRE01-T530-LANDEN"
+      }
+    },
+    {
+      "speaker": "소총병",
+      "text": "경비병! 우리가 지원하지!",
+      "metadata": {
+        "string_id": 3277,
+        "speaker_string_id": 3278,
+        "dialogue_id": "HRE01-T540-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "강령술사",
+      "text": "누구도 살아남지 못하리라!",
+      "metadata": {
+        "string_id": 3144,
+        "speaker_string_id": 3145,
+        "dialogue_id": "NecromancerYesAttack3"
+      }
+    },
+    {
+      "speaker": "구울",
+      "text": "먹어야 해!",
+      "metadata": {
+        "string_id": 3275,
+        "speaker_string_id": 3276,
+        "dialogue_id": "GhoulWhat4"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "이쪽입니다! 도와주십시오!",
+      "metadata": {
+        "string_id": 3283,
+        "speaker_string_id": 3284,
+        "dialogue_id": "HRE01-T560-GUARD3"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "당장은 지역을 확보했군. 위치를 사수하고 우리 신호를 기다려라!",
+      "metadata": {
+        "string_id": 3285,
+        "speaker_string_id": 3286,
+        "dialogue_id": "HRE01-T570-LANDEN"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "거의 다 왔다! 대피로가 코앞이다!",
+      "metadata": {
+        "string_id": 2866,
+        "speaker_string_id": 2867,
+        "dialogue_id": "HRE01-C040-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "퍼지",
+      "text": "찢고 뜯는다!",
+      "metadata": {
+        "string_id": 2875,
+        "speaker_string_id": 2876,
+        "dialogue_id": "AbominationYes3"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "하수구로 가는 길을 누더기골렘이 가로막고 있군.",
+      "metadata": {
+        "string_id": 2869,
+        "speaker_string_id": 2870,
+        "dialogue_id": "HRE01-C040-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "가렉",
+      "text": "순식간에 처리할 수 있습니다.",
+      "metadata": {
+        "string_id": 2872,
+        "speaker_string_id": 2873,
+        "dialogue_id": "HRE01-C040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "길이 뚫렸다! 생존자들을 모아라!",
+      "metadata": {
+        "string_id": 3383,
+        "speaker_string_id": 3384,
+        "dialogue_id": "HRE01-T590-LANDEN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "랜든 대장님! 출구 터널을 확보했습니다!",
+      "metadata": {
+        "string_id": 2936,
+        "speaker_string_id": 2937,
+        "dialogue_id": "HRE01-M050-010-GUARD2"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "수고했네, 제군! 전원 하수구로!",
+      "metadata": {
+        "string_id": 2939,
+        "speaker_string_id": 2940,
+        "dialogue_id": "HRE01-M050-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "도시 경비병",
+      "text": "생존자와 함께 가십시오! 저희가 시간을 벌겠습니다!",
+      "metadata": {
+        "string_id": 2942,
+        "speaker_string_id": 2943,
+        "dialogue_id": "HRE01-M050-030-GUARD2"
+      }
+    },
+    {
+      "speaker": "랜든",
+      "text": "로데론을 위하여.",
+      "metadata": {
+        "string_id": 2945,
+        "speaker_string_id": 2946,
+        "dialogue_id": "HRE01-M050-040-LANDEN"
+      }
+    }
+  ]
+}

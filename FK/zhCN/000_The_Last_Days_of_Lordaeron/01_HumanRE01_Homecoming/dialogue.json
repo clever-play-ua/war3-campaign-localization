@@ -1,0 +1,966 @@
+{
+  "map": "HumanRE01",
+  "title": "Homecoming",
+  "locale": "zhCN",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE01-C010-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "立正！卫兵们，阿尔萨斯王子已经从诺森德凯旋归来！若我等有幸，他也会带回来瘟疫的解药。",
+      "string_id": 2839,
+      "speaker_string_id": 2840,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-010-LANDEN.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE01-C010-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "那至少他这趟出海兜风就没白跑。我真不知道为什么大家要这么宠他，不论他做什么都是众星捧月，交口称赞。",
+      "raw": "[\"Squint\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]那至少他这趟出海兜风就没白跑。我真不知道为什么大家要这么宠他，不论他做什么都是众星捧月，交口称赞。[/\"Squint\"]",
+      "string_id": 2835,
+      "speaker_string_id": 2836,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE01-C010-030-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "班达隆副官，我们曾宣誓为米奈希尔家族效力。 现在，我们去为都城做好准备，迎接王子的归来吧。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]班达隆副官，我们曾宣誓为米奈希尔家族效力。[/\"Angry\"] [\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.55 easeout=0.45]现在，我们去为都城做好准备，迎接王子的归来吧。[/\"Happy\"]",
+      "string_id": 3412,
+      "speaker_string_id": 3413,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-030-LANDEN.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE01-C010-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "当然，兰登队长。我也不想让王子殿下失望。",
+      "string_id": 2845,
+      "speaker_string_id": 2846,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "AbominationYes3",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "法吉",
+      "text": "撕碎血肉！",
+      "string_id": 2875,
+      "speaker_string_id": 2876,
+      "sound": "Units/Undead/Abomination/AbominationYes3.flac"
+    },
+    {
+      "n": 6,
+      "id": "HRE01-C020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "……加瑞克。",
+      "string_id": 3443,
+      "speaker_string_id": 3442,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C020-010-LANDEN.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE01-C020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "加瑞克！",
+      "string_id": 3410,
+      "speaker_string_id": 3411,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C020-010-LANDEN.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE01-C030-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "光明使者乌瑟尔！",
+      "string_id": 3426,
+      "speaker_string_id": 3427,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-010-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE01-C030-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "卫兵！你们没事吧？",
+      "string_id": 3430,
+      "speaker_string_id": 3431,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-020-UTHER.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE01-C030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "没事，大人……",
+      "string_id": 3434,
+      "speaker_string_id": 3435,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-030-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE01-C030-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "可泰瑞纳斯国王他……",
+      "string_id": 3440,
+      "speaker_string_id": 3441,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-040-LANDEN.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE01-C030-050-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "国王陛下……",
+      "string_id": 3422,
+      "speaker_string_id": 3423,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-050-UTHER.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE01-C040-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "就快要成功了！撤离路线就在前面！",
+      "string_id": 2866,
+      "speaker_string_id": 2867,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-010-LANDEN.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE01-C040-030-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "那只憎恶挡在我们前往下水道的路上。",
+      "string_id": 2869,
+      "speaker_string_id": 2870,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-030-LANDEN.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE01-C040-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "那就速战速决吧。",
+      "string_id": 2872,
+      "speaker_string_id": 2873,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-040-GAREK.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE01-M015-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "恕我冒昧，队长。我加入城市卫兵队不是来给王室扫大街的。",
+      "string_id": 2878,
+      "speaker_string_id": 2879,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-010-GAREK.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE01-M015-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "我想要的是为了守护洛丹伦而战斗。我想要的是冲锋陷阵，建功立业。",
+      "string_id": 2881,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-020-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE01-M015-030-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "加瑞克，我已经经历了太多的战斗，相信我，功业不过是过眼云烟。",
+      "string_id": 2884,
+      "speaker_string_id": 2885,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-030-LANDEN.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE01-M015-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "活下去才是真正的胜利，和平才是真正的功业。千万不要本末倒置了。",
+      "raw": "[\"Happy\" type=quad v2=3 v3=3.0 easein=0.25 easeout=0.25]活下去才是真正的胜利，和平才是真正的功业。千万不要本末倒置了。[/\"Happy\"]",
+      "string_id": 2887,
+      "speaker_string_id": 2888,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-040-LANDEN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE01-M015-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "等等……你听到了吗？",
+      "string_id": 2890,
+      "speaker_string_id": 2891,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-050-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE01-M020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "泰瑞纳斯国王！不好！",
+      "string_id": 2893,
+      "speaker_string_id": 2894,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M020-010-LANDEN.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE01-M030-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "乌瑟尔大人，外面出什么事了？",
+      "string_id": 2902,
+      "speaker_string_id": 2903,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-010-LANDEN.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE01-M030-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "城里满是邪教徒和亡灵。阿尔萨斯背叛了整个王国！",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]城里满是邪教徒和亡灵。阿尔萨斯背叛了整个王国！[/\"Sad\"]",
+      "string_id": 2905,
+      "speaker_string_id": 2906,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-020-UTHER.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE01-M030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "什么？！",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]什么？！[/\"Surprised\"]",
+      "string_id": 2908,
+      "speaker_string_id": 2909,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-030-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE01-M030-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "我没能及时救下泰瑞纳斯，不过我一定会把那个叛徒王子绳之以法。",
+      "string_id": 2911,
+      "speaker_string_id": 2912,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-040-UTHER.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE01-M030-050-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "你们俩去召集城市卫兵，尽量拯救市民。",
+      "string_id": 2914,
+      "speaker_string_id": 2915,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-050-UTHER.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE01-M030-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "乌瑟尔",
+      "text": "我们在安多哈尔会合。愿圣光指引你们的前路。",
+      "string_id": 2917,
+      "speaker_string_id": 2918,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-060-UTHER.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE01-M040-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "圣光在上……",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]圣光在上……[/\"Surprised\"]",
+      "string_id": 2920,
+      "speaker_string_id": 2921,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-010-LANDEN.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE01-M040-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "怎么会出这种事……阿尔萨斯怎么能如此摧残自己的王国？！",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]怎么会出这种事……阿尔萨斯怎么能如此摧残自己的王国？！[/\"Surprised\"]",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-020-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE01-M040-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "我们必须要反击！我们必须要把那些怪物赶出去，夺回我们的家园！",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]我们必须要反击！我们必须要把那些怪物赶出去，夺回我们的家园！[/\"Angry\"]",
+      "string_id": 2926,
+      "speaker_string_id": 2927,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-030-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE01-M040-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "加瑞克，听我说。都城已经沦陷了，不过有朝一日还能重建。最重要的是保护我们的人民。",
+      "string_id": 2930,
+      "speaker_string_id": 2931,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-040-LANDEN.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE01-M040-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "我……我明白了。我们去下水道吧。",
+      "string_id": 2933,
+      "speaker_string_id": 2934,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-050-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE01-M050-010-GUARD2",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "城市卫兵",
+      "text": "兰登队长！我们已经确保了出城地道的畅通！",
+      "string_id": 2936,
+      "speaker_string_id": 2937,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-010-GUARD2.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE01-M050-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "干得好，卫兵们！大家都快进到下水道里去！",
+      "string_id": 2939,
+      "speaker_string_id": 2940,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-020-LANDEN.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE01-M050-030-GUARD2",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "城市卫兵",
+      "text": "你们先带幸存者离开！我们会帮你们争取时间！",
+      "string_id": 2942,
+      "speaker_string_id": 2943,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-030-GUARD2.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE01-M050-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "兰登",
+      "text": "为了洛丹伦。",
+      "string_id": 2945,
+      "speaker_string_id": 2946,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-040-LANDEN.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE01-T010-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace Start Q",
+      "speaker": "兰登",
+      "text": "加瑞克，或许你没有意识到，其实你是名非常优秀的卫兵。只要能认真对待自己的工作，有朝一日你也一定能成为队长。",
+      "string_id": 2980,
+      "speaker_string_id": 2981,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T010-LANDEN.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE01-T020-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace Start Q",
+      "speaker": "加瑞克",
+      "text": "你就这么盼着让我接你的班吗？",
+      "string_id": 2969,
+      "speaker_string_id": 2970,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T020-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE01-T030-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace Start Q",
+      "speaker": "兰登",
+      "text": "当然。我早就想退休了。",
+      "string_id": 2974,
+      "speaker_string_id": 2975,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T030-LANDEN.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE01-T040-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Roses.Roses Acquire Q",
+      "speaker": "加瑞克",
+      "text": "给王子献上铺天盖地的花朵，我感觉有些超规格了吧。",
+      "string_id": 2985,
+      "speaker_string_id": 2986,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T040-GAREK.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE01-T050-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Roses.Roses Acquire Q",
+      "speaker": "兰登",
+      "text": "加瑞克，这是值得庆贺的盛事。人民有权利欢庆。",
+      "string_id": 3199,
+      "speaker_string_id": 3200,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T050-LANDEN.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE01-T060-GUARDSMAN",
+      "scene": "TRANSMISSIONS.Stage 1.Guards.Guards Oliver Q",
+      "speaker": "城市卫兵",
+      "text": "是真的吗？阿尔萨斯王子真的要回来了？真是太好了！",
+      "string_id": 3181,
+      "speaker_string_id": 3182,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T060-GUARDSMAN.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE01-T070-GUARDSMAN",
+      "scene": "TRANSMISSIONS.Stage 1.Guards.Guards David Q",
+      "speaker": "城市卫兵",
+      "text": "有人知道王子殿下为什么要去诺森德吗？他到那里去是想要找到什么呢？",
+      "string_id": 3219,
+      "speaker_string_id": 3220,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T070-GUARDSMAN.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE01-T080-GUARDSMAN",
+      "scene": "TRANSMISSIONS.Stage 1.Guards.Guards Sam Brad Q",
+      "speaker": "城市卫兵",
+      "text": "我听说阿尔萨斯王子在出发之前解散了圣骑士团。他为什么要这么做呢？",
+      "string_id": 3372,
+      "speaker_string_id": 3373,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T080-GUARDSMAN.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE01-T100-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q",
+      "speaker": "加瑞克",
+      "text": "女士，请把你的推车推走，挡住王宫大门了。",
+      "string_id": 2760,
+      "speaker_string_id": 2761,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T100-GAREK.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE01-T110-ALICIA",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q",
+      "speaker": "艾丽西娅",
+      "text": "可是轮子彻底坏掉了，已经修不好了！",
+      "string_id": 2802,
+      "speaker_string_id": 2803,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T110-ALICIA.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE01-T120-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q",
+      "speaker": "兰登",
+      "text": "别担心，我们给你找个新的。",
+      "string_id": 2816,
+      "speaker_string_id": 2817,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T120-LANDEN.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE01-T130-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Wheel Q",
+      "speaker": "加瑞克",
+      "text": "钱真是花对了。我们可以把推车推开，不会再挡王子的路。",
+      "string_id": 2998,
+      "speaker_string_id": 2999,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T130-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE01-T140-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Wheel Q",
+      "speaker": "兰登",
+      "text": "那它依然会是坏的。我们的任务是帮助人民，而不是将他们赶走。",
+      "string_id": 3000,
+      "speaker_string_id": 3001,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T140-LANDEN.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE01-T150-ALICIA",
+      "scene": "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Return Q",
+      "speaker": "艾丽西娅",
+      "text": "啊，谢谢你！请收下这份谢礼。",
+      "string_id": 3205,
+      "speaker_string_id": 3206,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T150-ALICIA.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE01-T160-MERCHANT",
+      "scene": "TRANSMISSIONS.Stage 1.Thief.Thief Q",
+      "speaker": "尤金",
+      "text": "别跑！你这小偷！",
+      "string_id": 3215,
+      "speaker_string_id": 3216,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T160-MERCHANT.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE01-T170-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Thief.Thief Q",
+      "speaker": "加瑞克",
+      "text": "追上他！",
+      "string_id": 3217,
+      "speaker_string_id": 3218,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T170-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE01-T180-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Thief.Thief Capture Captain Q",
+      "speaker": "兰登",
+      "text": "我可不能让阿尔萨斯王子回来之后看到城里全是罪犯。",
+      "string_id": 3035,
+      "speaker_string_id": 3036,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T180-LANDEN.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE01-T190-LUCA",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Discover Q Q",
+      "speaker": "卢卡",
+      "text": "我看到了！阿尔萨斯王子扫荡了斯坦索姆！他杀掉了所有人！",
+      "string_id": 3191,
+      "speaker_string_id": 3192,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T190-LUCA.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE01-T200-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Discover Q Q",
+      "speaker": "加瑞克",
+      "text": "我们最好去查看一下。",
+      "string_id": 3195,
+      "speaker_string_id": 3196,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T200-GAREK.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE01-T210-GAREK",
+      "scene": "Drunkard Crowd.Drunkard Crowd Disperse",
+      "speaker": "加瑞克",
+      "text": "快走开！",
+      "string_id": 3016,
+      "speaker_string_id": 3017,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T210-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE01-T220-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Disperse Q",
+      "speaker": "兰登",
+      "text": "你可以躺在家里，或是蹲在牢房里醒酒。你自己选吧。",
+      "string_id": 3021,
+      "speaker_string_id": 3022,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T220-LANDEN.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE01-T230-LUCA",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Disperse Q",
+      "speaker": "卢卡",
+      "text": "我真的看见了，我发誓！",
+      "string_id": 3207,
+      "speaker_string_id": 3208,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T230-LUCA.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE01-T240-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Done Q",
+      "speaker": "加瑞克",
+      "text": "你说我们能相信他说的话吗？",
+      "string_id": 3008,
+      "speaker_string_id": 3009,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T240-GAREK.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE01-T250-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Done Q",
+      "speaker": "兰登",
+      "text": "毫无根据的传言。没有人能证明斯坦索姆发生的事情，而且我相信阿尔萨斯王子所做的一切都是为了他的子民。",
+      "string_id": 3010,
+      "speaker_string_id": 3011,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T250-LANDEN.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE01-T260-GAREK",
+      "scene": "TRANSMISSIONS.Stage 1.Roses.Roses Drop Q",
+      "speaker": "加瑞克",
+      "text": "呼，今天还真是忙碌啊。我们亲爱的王子殿下一定会很高兴的。",
+      "string_id": 2989,
+      "speaker_string_id": 2990,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T260-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE01-T270-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 1.Palace.Palace End Q",
+      "speaker": "兰登",
+      "text": "阿尔萨斯王子好像已经到了。我们快返回岗位。",
+      "string_id": 2976,
+      "speaker_string_id": 2977,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T270-LANDEN.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE01-T280-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Side Q",
+      "speaker": "加瑞克",
+      "text": "那是什么鬼东西？",
+      "string_id": 3044,
+      "speaker_string_id": 3045,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T280-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE01-T290-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Side Q",
+      "speaker": "兰登",
+      "text": "我不……加瑞克！小心！",
+      "string_id": 3048,
+      "speaker_string_id": 3049,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T290-LANDEN.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE01-T300-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Door Q",
+      "speaker": "加瑞克",
+      "text": "这道门锁上了！",
+      "string_id": 3051,
+      "speaker_string_id": 3052,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T300-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE01-T310-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Door Q",
+      "speaker": "兰登",
+      "text": "我们需要另外找路进去。快！",
+      "string_id": 3056,
+      "speaker_string_id": 3057,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T310-LANDEN.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE01-T320-ARTHAS",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Passage Q",
+      "speaker": "阿尔萨斯",
+      "text": "这个王国必将灭亡，新的秩序将从灰烬中崛起，动摇整个世界的根基！",
+      "string_id": 3223,
+      "speaker_string_id": 3224,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T320-ARTHAS.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE01-T330-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Passage Q",
+      "speaker": "加瑞克",
+      "text": "看来传言是真的……阿尔萨斯王子疯了！",
+      "string_id": 3239,
+      "speaker_string_id": 3240,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T330-GAREK.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE01-T340-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Start Q",
+      "speaker": "加瑞克",
+      "text": "是亡灵！队长，我们必须要加入战斗！",
+      "string_id": 3068,
+      "speaker_string_id": 3069,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T340-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "HRE01-T350-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q",
+      "speaker": "兰登",
+      "text": "这里发生了什么事？！",
+      "string_id": 3070,
+      "speaker_string_id": 3071,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T350-LANDEN.ogg"
+    },
+    {
+      "n": 71,
+      "id": "HRE01-T360-THRONEROOMGUARD",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q",
+      "speaker": "城市卫兵",
+      "text": "那、那是阿尔萨斯王子，长官！他杀死了国王！他的亲生父亲！",
+      "string_id": 3078,
+      "speaker_string_id": 3149,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T360-THRONEROOMGUARD.ogg"
+    },
+    {
+      "n": 72,
+      "id": "HRE01-T370-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q",
+      "speaker": "加瑞克",
+      "text": "他和那些怪物串通一气了？！",
+      "string_id": 3073,
+      "speaker_string_id": 3074,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T370-GAREK.ogg"
+    },
+    {
+      "n": 73,
+      "id": "HRE01-T380-LORDVILEOR",
+      "scene": "TRANSMISSIONS.Stage 2.Acolyte.Acolyte Start Q",
+      "speaker": "维里奥尔领主",
+      "text": "终于到了这一天，诅咒教派将会摧毁洛丹伦！",
+      "string_id": 3348,
+      "speaker_string_id": 3349,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T380-LORDVILEOR.ogg"
+    },
+    {
+      "n": 74,
+      "id": "HRE01-T390-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue End  Q",
+      "speaker": "加瑞克",
+      "text": "到底还有完没完？我们得想办法离开这里！",
+      "string_id": 3079,
+      "speaker_string_id": 3080,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T390-GAREK.ogg"
+    },
+    {
+      "n": 75,
+      "id": "HRE01-T400-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Exit Q",
+      "speaker": "加瑞克",
+      "text": "队长……我们要怎么做？",
+      "string_id": 3088,
+      "speaker_string_id": 3089,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T400-GAREK.ogg"
+    },
+    {
+      "n": 76,
+      "id": "HRE01-T410-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Exit Q",
+      "speaker": "兰登",
+      "text": "以前有一条通过下水道撤离的路线。希望那里还能走通。",
+      "string_id": 3086,
+      "speaker_string_id": 3087,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T410-LANDEN.ogg"
+    },
+    {
+      "n": 77,
+      "id": "HRE01-T420-GAREK",
+      "scene": "TRANSMISSIONS.Stage 2.Background.Background Palace Dialogue Q",
+      "speaker": "加瑞克",
+      "text": "阿尔萨斯！叛徒！",
+      "string_id": 3175,
+      "speaker_string_id": 3176,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T420-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "HRE01-T430-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 2.Background.Background Palace Dialogue Q",
+      "speaker": "兰登",
+      "text": "让乌瑟尔去对付他吧！我们得继续前进！",
+      "string_id": 3041,
+      "speaker_string_id": 3042,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T430-LANDEN.ogg"
+    },
+    {
+      "n": 79,
+      "id": "HRE01-T470-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 02 Q",
+      "speaker": "灾厄散播者",
+      "text": "我们的计划一定会成功！死亡将笼罩所有人！",
+      "string_id": 3340,
+      "speaker_string_id": 3341,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T470-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 80,
+      "id": "HRE01-T480-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 04 Q",
+      "speaker": "灾厄散播者",
+      "text": "这一天我已经等待了太久！",
+      "string_id": 3344,
+      "speaker_string_id": 3345,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T480-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 81,
+      "id": "HRE01-T500-GUARD1",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 01 Q",
+      "speaker": "城市卫兵",
+      "text": "兰登队长！班达隆副官！",
+      "string_id": 3279,
+      "speaker_string_id": 3280,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T500-GUARD1.ogg"
+    },
+    {
+      "n": 82,
+      "id": "HRE01-T510-GAREK",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 01 Q",
+      "speaker": "加瑞克",
+      "text": "卫兵们，跟我们走！",
+      "string_id": 3281,
+      "speaker_string_id": 3282,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T510-GAREK.ogg"
+    },
+    {
+      "n": 83,
+      "id": "HRE01-T520-SURVIVOR",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Start Q",
+      "speaker": "村民",
+      "text": "感谢圣光！还有更多幸存者被困在王宫的另一侧！",
+      "string_id": 3293,
+      "speaker_string_id": 3294,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T520-SURVIVOR.ogg"
+    },
+    {
+      "n": 84,
+      "id": "HRE01-T530-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Start Q",
+      "speaker": "兰登",
+      "text": "我们会尽全力施救。留在这里，等我们打通道路！",
+      "string_id": 3297,
+      "speaker_string_id": 3298,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T530-LANDEN.ogg"
+    },
+    {
+      "n": 85,
+      "id": "HRE01-T540-RIFLEMAN",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 02 Q",
+      "speaker": "火枪手",
+      "text": "卫兵！我们来支援你！",
+      "string_id": 3277,
+      "speaker_string_id": 3278,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T540-RIFLEMAN.ogg"
+    },
+    {
+      "n": 86,
+      "id": "HRE01-T560-GUARD3",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Guard Rescue Enter Q",
+      "speaker": "城市卫兵",
+      "text": "在这里！我们需要帮助！",
+      "string_id": 3283,
+      "speaker_string_id": 3284,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T560-GUARD3.ogg"
+    },
+    {
+      "n": 87,
+      "id": "HRE01-T570-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Skeletons Acolyte Defeated Q",
+      "speaker": "兰登",
+      "text": "这片区域已经安全了。坚守这处阵地，等待我们的信号！",
+      "string_id": 3285,
+      "speaker_string_id": 3286,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T570-LANDEN.ogg"
+    },
+    {
+      "n": 88,
+      "id": "HRE01-T590-LANDEN",
+      "scene": "TRANSMISSIONS.Stage 3.Abomination.Abomination End Q",
+      "speaker": "兰登",
+      "text": "道路打通了！快召集幸存者！",
+      "string_id": 3383,
+      "speaker_string_id": 3384,
+      "sound": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T590-LANDEN.ogg"
+    },
+    {
+      "n": 89,
+      "id": "FootmanWarcry1",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 01 Q",
+      "speaker": "城市卫兵",
+      "text": "为了洛丹伦！",
+      "string_id": 3314,
+      "speaker_string_id": 3315,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 90,
+      "id": "PriestYesAttack1",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 02 Q",
+      "speaker": "牧师",
+      "text": "黑暗的孽物，退散！",
+      "string_id": 3312,
+      "speaker_string_id": 3313,
+      "sound": "Units/Human/Priest/PriestYesAttack1.flac"
+    },
+    {
+      "n": 91,
+      "id": "FootmanYesAttack3",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 03 Q",
+      "speaker": "城市卫兵",
+      "text": "拿起武器！",
+      "string_id": 3310,
+      "speaker_string_id": 3311,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 92,
+      "id": "BanditYesAttack3",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 01 Q",
+      "speaker": "刺客",
+      "text": "干掉他们！",
+      "string_id": 3336,
+      "speaker_string_id": 3337,
+      "sound": "Units/Creeps/Bandit/BanditYesAttack3.flac"
+    },
+    {
+      "n": 93,
+      "id": "NecromancerYesAttack2",
+      "scene": "TRANSMISSIONS.Stage 2.Encounters.Encounter Palace Skeletons Q",
+      "speaker": "通灵师",
+      "text": "在天灾军团面前颤抖吧！",
+      "string_id": 3346,
+      "speaker_string_id": 3347,
+      "sound": "Units/Undead/Necromancer/NecromancerYesAttack2.flac"
+    },
+    {
+      "n": 94,
+      "id": "NecromancerYesAttack3",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounter Gardens Skeletons Q",
+      "speaker": "通灵师",
+      "text": "都得死！",
+      "string_id": 3144,
+      "speaker_string_id": 3145,
+      "sound": "Units/Undead/Necromancer/NecromancerYesAttack3.flac"
+    },
+    {
+      "n": 95,
+      "id": "GhoulWhat4",
+      "scene": "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Cultists 04 Q",
+      "speaker": "食尸鬼",
+      "text": "需要食物！",
+      "string_id": 3275,
+      "speaker_string_id": 3276,
+      "sound": "Units/Undead/Ghoul/GhoulWhat4.flac"
+    }
+  ]
+}

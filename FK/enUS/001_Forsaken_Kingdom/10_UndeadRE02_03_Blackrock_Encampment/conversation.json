@@ -1,0 +1,121 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 40,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T010-ANYA.ogg",
+                "dialogueId": 39,
+                "animationLabel": "A2M3-T010-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 320,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T020-LEONID.ogg",
+                "dialogueId": 319,
+                "animationLabel": "A2M3-T020-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 318,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T030-GAREK.ogg",
+                "dialogueId": 317,
+                "animationLabel": "A2M3-T030-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Dialogues.Transmissions Dialogue 02 The Deed Is Done": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 54,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T040-ANYA.ogg",
+                "dialogueId": 53,
+                "animationLabel": "A2M3-T040-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Dialogues.Transmissions Dialogue 03 Not All Orcs": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 58,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T050-GAREK.ogg",
+                "dialogueId": 57,
+                "animationLabel": "A2M3-T050-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 336,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T060-LEONID.ogg",
+                "dialogueId": 335,
+                "animationLabel": "A2M3-T060-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 326,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T061-LEONID.ogg",
+                "dialogueId": 325,
+                "animationLabel": "A2M3-T061-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 72,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T070-ANYA.ogg",
+                "dialogueId": 71,
+                "animationLabel": "A2M3-T070-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Dialogues.Transmissions Dialogue 04 Blademaster Taunt 1": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\orc\\HeroBladeMaster\\HeroBladeMaster.mdl",
+                "speakerNameId": 342,
+                "speakerUnitID": "Obla",
+                "soundFile": "Units/Orc/HeroBladeMaster/HeroBladeMasterYesAttack3.flac",
+                "dialogueId": 341,
+                "animationLabel": "HeroBladeMasterYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_03/FacialAnimation/HeroBladeMaster.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

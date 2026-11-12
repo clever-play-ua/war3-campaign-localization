@@ -1,0 +1,128 @@
+{
+  "map": "UndeadRE01_05",
+  "title": "Arcane Sanctuary",
+  "locale": "ptBR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A1M5-C010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Que lugar é esse?",
+      "string_id": 1143,
+      "speaker_string_id": 1144,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A1M5-C010-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Uma dimensão de bolso, criada por um mago para guardar toda a sua tralha.",
+      "string_id": 1152,
+      "speaker_string_id": 1153,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A1M5-C010-030-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Como esperado, está repleta de Constructos Guardiões e provavelmente também deve estar cheia de armadilhas.",
+      "string_id": 1161,
+      "speaker_string_id": 1162,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-030-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A1M5-C010-040-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Teremos que usar os portais para percorrer seus salões. Tomara que haja algo que valha a trabalheira nos esperando no final.",
+      "string_id": 1169,
+      "speaker_string_id": 1170,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-C010-040-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A1M5-T010-GAREK",
+      "scene": "Transmissions.Inert Portal TMS Portal",
+      "speaker": "Garek",
+      "text": "Este portal parece inerte. Talvez precise de uma fonte de energia.",
+      "string_id": 848,
+      "speaker_string_id": 849,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T010-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A1M5-T020-GAREK",
+      "scene": "Transmissions.Inert Portal TMS Orb",
+      "speaker": "Garek",
+      "text": "Parece que isso caberia na estrutura do portal. Aposto que é a fonte de energia de que precisamos.",
+      "string_id": 873,
+      "speaker_string_id": 874,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T020-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A1M5-T030-ANYA",
+      "scene": "Transmissions.Grid Puzzle TMS",
+      "speaker": "Anya",
+      "text": "Esses magos malditos e seus truquezinhos. Vamos ter que refazer nossos passos.",
+      "string_id": 908,
+      "speaker_string_id": 909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T030-ANYA.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A1M5-T040-GAREK",
+      "scene": "Transmissions.Beam Puzzle TMS",
+      "speaker": "Garek",
+      "text": "Este feixe provavelmente pode ativar o próximo portal, se conseguirmos remover os obstáculos no caminho.",
+      "string_id": 950,
+      "speaker_string_id": 951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T040-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A1M5-T050-ANYA",
+      "scene": "Transmissions.Artifact Transmission Fake",
+      "speaker": "Anya",
+      "text": "Era uma ilusão! O verdadeiro artefato deve estar em outro lugar do cofre.",
+      "string_id": 992,
+      "speaker_string_id": 993,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T050-ANYA.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A1M5-T060-GAREK",
+      "scene": "Transmissions.Artifact Transmission Fake",
+      "speaker": "Garek",
+      "text": "Nossa busca continua.",
+      "string_id": 994,
+      "speaker_string_id": 995,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T060-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A1M5-T070-GAREK",
+      "scene": "Transmissions.Artifact Transmission Real",
+      "speaker": "Garek",
+      "text": "Parece que este é o artefato verdadeiro.",
+      "string_id": 998,
+      "speaker_string_id": 999,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T070-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A1M5-T080-ANYA",
+      "scene": "Transmissions.Artifact Transmission Real",
+      "speaker": "Anya",
+      "text": "Finalmente. Vamos levar essa coisa maldita de volta para Licurgo.",
+      "string_id": 1006,
+      "speaker_string_id": 1007,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre01m5/A1M5-T080-ANYA.ogg"
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "map": "HumanRE03",
+  "title": "Siege",
+  "locale": "itIT",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE03-M010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Dobbiamo far guadagnare tempo ad Andorhal finché Uther non tornerà con i rinforzi. Muoviamoci.",
+      "string_id": 2773,
+      "speaker_string_id": 2774,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE03-M020-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Grazie, straniero. Vieni dalla capitale, giusto? È vero che Arthas l'ha data alle fiamme?",
+      "string_id": 2782,
+      "speaker_string_id": 2783,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-010-ILASTAR.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE03-M020-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "È vero. Ser Uther ci ha ordinato di riorganizzarci ad Andorhal. Sta radunando le truppe per spezzare l'assedio.",
+      "string_id": 2785,
+      "speaker_string_id": 2786,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-020-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE03-M020-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Potrebbe essere già troppo tardi. Il culto si sta preparando a lanciare un assalto massiccio alla città.",
+      "string_id": 2794,
+      "speaker_string_id": 2795,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-030-ILASTAR.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE03-M020-040-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Avevo pianificato di radunare delle truppe per un attacco preventivo, ma prima dobbiamo stabilire una base.",
+      "string_id": 2803,
+      "speaker_string_id": 2804,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-040-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE03-M020-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Possiamo aiutarvi. Tenendo impegnato il culto, possiamo ritardare il loro attacco fino all'arrivo di Uther.",
+      "string_id": 2812,
+      "speaker_string_id": 2813,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE03-M020-060-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Molto bene. Ilastar Suondivento, al tuo servizio.",
+      "string_id": 2821,
+      "speaker_string_id": 2822,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-060-ILASTAR.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE03-M020-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Garek Bandarion, al tuo. Andiamo a eliminare un po' di cultisti.",
+      "string_id": 2830,
+      "speaker_string_id": 2831,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-070-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE03-M030-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Ser Uther! Questi sono tutti i rinforzi?",
+      "string_id": 2894,
+      "speaker_string_id": 2895,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-010-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE03-M030-020-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Uther",
+      "text": "Temo di sì. Ora che la Mano d'Argento è stata sciolta, noi Paladini siamo sparsi per tutta Lordaeron.",
+      "string_id": 2844,
+      "speaker_string_id": 2845,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-020-UTHER.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE03-M030-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "No... Il suono di questa campana indica che il culto ha sfondato le porte!",
+      "string_id": 2914,
+      "speaker_string_id": 2915,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-030-ILASTAR.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE03-M030-040-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Uther",
+      "text": "Allora la vera battaglia è iniziata.",
+      "string_id": 2863,
+      "speaker_string_id": 2864,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-040-UTHER.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE03-M030-050-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Uther",
+      "text": "Guidate le vostre forze in città, mentre io e i miei Paladini aggiriamo i cultisti fuori dalle mura.",
+      "string_id": 2872,
+      "speaker_string_id": 2873,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-050-UTHER.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE03-M030-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Sì, signore! Non permetteremo che Andorhal cada vittima del Flagello!",
+      "string_id": 2881,
+      "speaker_string_id": 2882,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-060-GAREK.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE03-M040-010-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ras Soffiogelo",
+      "text": "No! Non mi priverai della mia ricompensa!",
+      "string_id": 2983,
+      "speaker_string_id": 2984,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-010-RAS.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE03-M040-020-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ras Soffiogelo",
+      "text": "All'interno di Stratholme mi verrà concesso un potere eterno! Quando ci incontreremo di nuovo, morirete tutti!",
+      "string_id": 2986,
+      "speaker_string_id": 2985,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-020-RAS.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE03-M040-030-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Uther",
+      "text": "Andorhal è sicura, ora, anche se ci vorrà del tempo per ricostruirla.",
+      "string_id": 2892,
+      "speaker_string_id": 2893,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-030-UTHER.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE03-M040-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Stratholme era la sede del potere di Fieramorte. Se è lì che il culto si sta radunando, è lì che andrò.",
+      "string_id": 2903,
+      "speaker_string_id": 2904,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-040-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE03-M040-050-UTHER",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Uther",
+      "text": "So che ha ucciso il tuo capitano, ma la Luce ci chiama a proteggere coloro che ancora sono vivi. Fidati del suo giudizio, tenente Bandarion.",
+      "string_id": 2912,
+      "speaker_string_id": 2913,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-050-UTHER.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE03-M040-060-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Non posso restarmene seduto dietro queste mura mentre Fieramorte rimane impunito.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Non posso restarmene seduto dietro queste mura mentre Fieramorte rimane impunito.[/\"Angry\"]",
+      "string_id": 2923,
+      "speaker_string_id": 2924,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-060-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE03-M040-070-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Ilastar",
+      "text": "Nemmeno io. Anche la Luce esige anche una punizione e noi faremo in modo che il culto la ottenga.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Nemmeno io. Anche la Luce esige anche una punizione e noi faremo in modo che il culto la ottenga.[/\"Angry\"]",
+      "string_id": 2932,
+      "speaker_string_id": 2933,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-070-ILASTAR.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE03-M040-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Allora facciamolo. Cavalchiamo verso Stratholme prima che Ser Uther possa ordinarci il contrario.",
+      "string_id": 2963,
+      "speaker_string_id": 2964,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-080-GAREK.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE03-T010-ILASTAR",
+      "scene": "User Base Start.User Base Start Fight Q",
+      "speaker": "Ilastar",
+      "text": "Questi miserabili cultisti non avranno la meglio, oggi!",
+      "string_id": 2515,
+      "speaker_string_id": 2516,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T010-ILASTAR.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE03-T020-GAREK",
+      "scene": "User Base Start.User Base Start Fight Q",
+      "speaker": "Garek",
+      "text": "Sono sotto attacco! Avanziamo!",
+      "string_id": 2511,
+      "speaker_string_id": 2512,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T020-GAREK.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE03-T030-ILASTAR",
+      "scene": "User Base Start.User Base Start Paesant Rescue Q",
+      "speaker": "Ilastar",
+      "text": "Dobbiamo riparare la Segheria perché questa diventi una base adatta.",
+      "string_id": 2522,
+      "speaker_string_id": 2523,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T030-ILASTAR.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE03-T040-GAREK",
+      "scene": "Point of Interest.Point of Interest Start Q",
+      "speaker": "Garek",
+      "text": "Siamo partiti bene, ma avremo bisogno di altre risorse per creare un esercito.",
+      "string_id": 2685,
+      "speaker_string_id": 2686,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T040-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE03-T050-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Start Q",
+      "speaker": "Ilastar",
+      "text": "Ci sono altri insediamenti nelle vicinanze. Dovremmo conquistare anche quelli.",
+      "string_id": 2693,
+      "speaker_string_id": 2694,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T050-ILASTAR.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE03-T060-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Approach Q",
+      "speaker": "Ilastar",
+      "text": "Ecco uno degli insediamenti esterni. Un tempo, delle brave persone lo chiamavano casa.",
+      "string_id": 2526,
+      "speaker_string_id": 2527,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T060-ILASTAR.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE03-T070-GAREK",
+      "scene": "Point of Interest.Point of Interest Approach Q",
+      "speaker": "Garek",
+      "text": "Dovremo far arrivare dei lavoratori dalla nostra base per iniziare le riparazioni.",
+      "string_id": 2530,
+      "speaker_string_id": 2531,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T070-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE03-T080-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Blacksmith Retrieved Q",
+      "speaker": "Ilastar",
+      "text": "Almeno il culto non ha massacrato i cavalli.",
+      "string_id": 2534,
+      "speaker_string_id": 2535,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T080-ILASTAR.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE03-T090-GAREK",
+      "scene": "Point of Interest.Point of Interest Blacksmith Retrieved Q",
+      "speaker": "Garek",
+      "text": "I nostri Cavalieri li cavalcheranno in battaglia e vendicheranno i caduti.",
+      "string_id": 2539,
+      "speaker_string_id": 2540,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T090-GAREK.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE03-T100-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Sanctuary Retrieved Q",
+      "speaker": "Ilastar",
+      "text": "Questa era una casa di preghiera! Non c'è nulla di sacro per questi miscredenti?!?",
+      "string_id": 2553,
+      "speaker_string_id": 2554,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T100-ILASTAR.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE03-T110-GAREK",
+      "scene": "Point of Interest.Point of Interest Sanctuary Retrieved Q",
+      "speaker": "Garek",
+      "text": "I tuoi confratelli sacerdoti li puniranno in risposta.",
+      "string_id": 2559,
+      "speaker_string_id": 2560,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T110-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE03-T120-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Fair Retrieved Q",
+      "speaker": "Ilastar",
+      "text": "La famiglia che viveva qui desiderava una vita tranquilla lontano dalla città.",
+      "string_id": 2545,
+      "speaker_string_id": 2546,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T120-ILASTAR.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE03-T130-GAREK",
+      "scene": "Point of Interest.Point of Interest Fair Retrieved Q",
+      "speaker": "Garek",
+      "text": "Faremo buon uso delle loro provviste e assicureremo alla giustizia i loro assassini.",
+      "string_id": 2549,
+      "speaker_string_id": 2550,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T130-GAREK.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE03-T140-ILASTAR",
+      "scene": "Point of Interest.Point of Interest Gunshop Retrieved Q",
+      "speaker": "Ilastar",
+      "text": "Conoscevo i proprietari di questo Laboratorio. Erano orgogliosi del loro mestiere.",
+      "string_id": 2561,
+      "speaker_string_id": 2562,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T140-ILASTAR.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE03-T150-GAREK",
+      "scene": "Point of Interest.Point of Interest Gunshop Retrieved Q",
+      "speaker": "Garek",
+      "text": "Le loro merci permetteranno ai nostri Archibugieri di equipaggiarsi, così da riempire di piombo i cultisti.",
+      "string_id": 2568,
+      "speaker_string_id": 2569,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T150-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE03-T160-GAREK",
+      "scene": "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q",
+      "speaker": "Garek",
+      "text": "I servitori Non Morti del culto sembrano non avere fine.",
+      "string_id": 2574,
+      "speaker_string_id": 2575,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T160-GAREK.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE03-T170-ILASTAR",
+      "scene": "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q",
+      "speaker": "Ilastar",
+      "text": "I loro fetidi Ghoul continueranno ad assalirci finché non distruggeremo i loro Calderoni della Piaga.",
+      "string_id": 2580,
+      "speaker_string_id": 2581,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T170-ILASTAR.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE03-T180-ILASTAR",
+      "scene": "Plague Cauldrons.Plague Cauldrons Countryiside Defeated Q",
+      "speaker": "Ilastar",
+      "text": "Così dovremmo avere un po' di respiro.",
+      "string_id": 2586,
+      "speaker_string_id": 2587,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T180-ILASTAR.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE03-T190-RAS",
+      "scene": "Ras.Ras Countryside Spawn Dialogue Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "A quanto pare abbiamo una compagnia indesiderata. Sterminateli.",
+      "string_id": 2592,
+      "speaker_string_id": 2593,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T190-RAS.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE03-T200-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 01 Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Il mio padrone esige che questa città venga annientata! Farò in modo che venga fatto!",
+      "string_id": 2635,
+      "speaker_string_id": 2636,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T200-RAS.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE03-T210-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 02 Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Solo un pazzo oserebbe opporsi al Culto dei Dannati.",
+      "string_id": 2641,
+      "speaker_string_id": 2642,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T210-RAS.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE03-T220-RAS",
+      "scene": "Ras Taunts.Ras Countryside Taunt 03 Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Andorhal brucerà come il resto di Lordaeron. Non potete fermarci!",
+      "string_id": 2647,
+      "speaker_string_id": 2648,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T220-RAS.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE03-T230-RAS",
+      "scene": "Ras Bossfight.Ras Bossfight Half Life Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Perché lottare invano? Il Flagello regna supremo.",
+      "string_id": 2670,
+      "speaker_string_id": 2671,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T230-RAS.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE03-T240-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Imbecilli ostinati! Tornerò con forze ancora più numerose!",
+      "string_id": 2705,
+      "speaker_string_id": 2706,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T240-RAS.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE03-T250-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Pagherete cara la vostra insolenza! Non è finita!",
+      "string_id": 2627,
+      "speaker_string_id": 2628,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T250-RAS.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE03-T260-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Ho avuto a che fare con furfanti ben peggiori di voi! La vittoria sarà mia!",
+      "string_id": 2620,
+      "speaker_string_id": 2621,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T260-RAS.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE03-T270-RAS",
+      "scene": "Ras.Ras Countryside Ras Dies Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "È solo una distrazione! Ci sono questioni più urgenti che richiedono la mia attenzione!",
+      "string_id": 2695,
+      "speaker_string_id": 2696,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T270-RAS.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE03-T280-GAREK",
+      "scene": "Point of Interest.Point of Interest Enter Andorhal Start Q",
+      "speaker": "Garek",
+      "text": "La foresta è libera. Ora dobbiamo spezzare l'assedio vero e proprio.",
+      "string_id": 2713,
+      "speaker_string_id": 2737,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T280-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE03-T290-ILASTAR",
+      "scene": "Regional Defenders.Regional Defenders Start Q",
+      "speaker": "Ilastar",
+      "text": "Se riusciamo a riconquistare le torri di guardia, poi possiamo scacciare questi vili cultisti da Andorhal!",
+      "string_id": 3025,
+      "speaker_string_id": 3026,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T290-ILASTAR.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE03-T300-GAREK",
+      "scene": "Regional Defenders.Regional Defenders Start Q",
+      "speaker": "Garek",
+      "text": "La milizia sta combattendo per le strade! Uniamoci a loro!",
+      "string_id": 3028,
+      "speaker_string_id": 3027,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T300-GAREK.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE03-T310-ILASTAR",
+      "scene": "Villagers.Villagers Discover Q",
+      "speaker": "Ilastar",
+      "text": "Queste persone hanno bisogno del nostro aiuto!",
+      "string_id": 3029,
+      "speaker_string_id": 3030,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T310-ILASTAR.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE03-T320-GAREK",
+      "scene": "Villagers.Villagers Discover Q",
+      "speaker": "Garek",
+      "text": "Salva tutti quelli che riesci!",
+      "string_id": 3031,
+      "speaker_string_id": 3032,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T320-GAREK.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE03-T330-ILASTAR",
+      "scene": "Optional Quest - Destroy The Plague Cauldrons.Optional Quest PCauldrons Discover Event Q",
+      "speaker": "Ilastar",
+      "text": "Altri Calderoni della Piaga. Dovremmo distruggerli prima che la città venga sopraffatta!",
+      "string_id": 2674,
+      "speaker_string_id": 2681,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T330-ILASTAR.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE03-T340-GAREK",
+      "scene": "Optional Quest - Reinforcements.Optional Quest Reinforce Discover Event Q",
+      "speaker": "Garek",
+      "text": "Se liberiamo la strada per i Paladini di Uther, potranno unirsi a noi nelle strade della città.",
+      "string_id": 2658,
+      "speaker_string_id": 2659,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T340-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE03-T350-RAS",
+      "scene": "Cinematic 04 - Ras Frostwhisper.Cinematic 04 Play Q",
+      "speaker": "Ras Soffiogelo",
+      "text": "Ora basta con le vostre interferenze. Vi eliminerò una volta per tutte!",
+      "string_id": 2664,
+      "speaker_string_id": 2665,
+      "sound": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T350-RAS.ogg"
+    },
+    {
+      "n": 58,
+      "id": "FootmanWhat3",
+      "scene": "Cages.Cages Footman Rescue 01 Q",
+      "speaker": "Fante",
+      "text": "Sì, mio signore?",
+      "string_id": 2761,
+      "speaker_string_id": 2762,
+      "sound": "Units/Human/Footman/FootmanWhat3.flac"
+    },
+    {
+      "n": 59,
+      "id": "RiflemanWhat3",
+      "scene": "Cages.Cages Rifleman Rescue 01 Q",
+      "speaker": "Archibugiere",
+      "text": "Sono il cecchino che fa per te!",
+      "string_id": 2751,
+      "speaker_string_id": 2752,
+      "sound": "Units/Human/Rifleman/RiflemanWhat3.flac"
+    },
+    {
+      "n": 60,
+      "id": "RiflemanWhat1",
+      "scene": "Cages.Cages Rifleman Rescue 02 Q",
+      "speaker": "Archibugiere",
+      "text": "Sì, signore!",
+      "string_id": 2753,
+      "speaker_string_id": 2754,
+      "sound": "Units/Human/Rifleman/RiflemanWhat1.flac"
+    },
+    {
+      "n": 61,
+      "id": "FootmanWarcry1",
+      "scene": "Cages.Cages Footman Rescue 02 Q",
+      "speaker": "Fante",
+      "text": "Per Lordaeron!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 62,
+      "id": "FootmanYesAttack3",
+      "scene": "Cages.Cages Footman Rescue 03 Q",
+      "speaker": "Fante",
+      "text": "Alle armi!",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 63,
+      "id": "PriestWhat3",
+      "scene": "Cages.Cages Priest Rescue 01 Q",
+      "speaker": "Sacerdote",
+      "text": "C'è bisogno del mio aiuto?",
+      "string_id": 2765,
+      "speaker_string_id": 2766,
+      "sound": "Units/Human/Priest/PriestWhat3.flac"
+    },
+    {
+      "n": 64,
+      "id": "PriestYes1",
+      "scene": "Cages.Cages Priest Rescue 02 Q",
+      "speaker": "Sacerdote",
+      "text": "Sono al tuo servizio.",
+      "string_id": 2759,
+      "speaker_string_id": 2760,
+      "sound": "Units/Human/Priest/PriestYes1.flac"
+    },
+    {
+      "n": 65,
+      "id": "PeasantWhat3",
+      "scene": "Cages.Cages Peasant Rescue Q",
+      "speaker": "Bracciante",
+      "text": "Altro lavoro?",
+      "string_id": 2767,
+      "speaker_string_id": 2768,
+      "sound": "Units/Human/Peasant/PeasantWhat3.flac"
+    },
+    {
+      "n": 66,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Gunshop Approach Q",
+      "speaker": "Bracciante",
+      "text": "Aiuto! Aiuto!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 67,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Fair Approach Q",
+      "speaker": "Bracciante",
+      "text": "Aiuto! Aiuto!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 68,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Blacksmith Approach Q",
+      "speaker": "Bracciante",
+      "text": "Aiuto! Aiuto!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 69,
+      "id": "PeasantHelp",
+      "scene": "Cages.Cages PoI Sanctuary Approach Q",
+      "speaker": "Bracciante",
+      "text": "Aiuto! Aiuto!",
+      "string_id": 2749,
+      "speaker_string_id": 2750,
+      "sound": "war3mapImported/PeasantHelp.ogg"
+    },
+    {
+      "n": 70,
+      "id": "BanditWarcry1",
+      "scene": "Encounters.Encounters Assassins Q",
+      "speaker": "Assassino",
+      "text": "Imboscata!",
+      "string_id": 2982,
+      "speaker_string_id": 2981,
+      "sound": "Units/Creeps/Bandit/BanditWarcry1.flac"
+    },
+    {
+      "n": 71,
+      "id": "FootmanWarcry1",
+      "scene": "Regional Defenders.Regional Defenders Group 01 Defeated Cult Q",
+      "speaker": "Fante",
+      "text": "Per Lordaeron!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 72,
+      "id": "PeasantYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 02 Defeated Cult Q",
+      "speaker": "Miliziano",
+      "text": "Non può farlo qualcun altro?",
+      "string_id": 2980,
+      "speaker_string_id": 2979,
+      "sound": "Units/Human/Peasant/PeasantYesAttack3.flac"
+    },
+    {
+      "n": 73,
+      "id": "FootmanYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 03 Defeated Cult Q",
+      "speaker": "Fante",
+      "text": "Alle armi!",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 74,
+      "id": "PeasantYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 04 Defeated Cult Q",
+      "speaker": "Miliziano",
+      "text": "Non può farlo qualcun altro?",
+      "string_id": 2980,
+      "speaker_string_id": 2979,
+      "sound": "Units/Human/Peasant/PeasantYesAttack3.flac"
+    },
+    {
+      "n": 75,
+      "id": "FootmanWarcry1",
+      "scene": "Regional Defenders.Regional Defenders Group 05 Defeated Cult Q",
+      "speaker": "Fante",
+      "text": "Per Lordaeron!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Units/Human/Footman/FootmanWarcry1.flac"
+    },
+    {
+      "n": 76,
+      "id": "FootmanYesAttack3",
+      "scene": "Regional Defenders.Regional Defenders Group 06 Defeated Cult Q",
+      "speaker": "Fante",
+      "text": "Alle armi!",
+      "string_id": 2757,
+      "speaker_string_id": 2758,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    }
+  ]
+}

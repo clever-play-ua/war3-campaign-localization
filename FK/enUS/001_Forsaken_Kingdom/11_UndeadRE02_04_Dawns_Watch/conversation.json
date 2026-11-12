@@ -1,0 +1,373 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Argent Dawn Resuce.Rescue 1": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 911,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanReady1.ogg",
+                "dialogueId": 912,
+                "animationLabel": "FootmanReady1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Argent Dawn Resuce.Rescue 2": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Priest\\Priest_V1.mdl",
+                "speakerNameId": 914,
+                "speakerUnitID": "hmpr",
+                "soundFile": "Units/Human/Priest/PriestYes1.ogg",
+                "dialogueId": 913,
+                "animationLabel": "PriestYes1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/Priest_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Argent Dawn Resuce.Rescue 3": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 916,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanWhat4.ogg",
+                "dialogueId": 915,
+                "animationLabel": "FootmanWhat4",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Argent Dawn Resuce.Rescue 4": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Rifleman\\Rifleman.mdl",
+                "speakerNameId": 918,
+                "speakerUnitID": "hrif",
+                "soundFile": "Units/Human/Rifleman/RiflemanReady1.ogg",
+                "dialogueId": 917,
+                "animationLabel": "RiflemanReady1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/Rifleman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Initialization.Dialogue Reference": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Human/HeroLordMaxwell/HeroLordMaxwell.mdl",
+                "speakerNameId": 412,
+                "speakerUnitID": "Htmx",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-010-TYROSUS.ogg",
+                "dialogueId": 411,
+                "animationLabel": "A2M4-C010-010-TYROSUS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLordMaxwell.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 851,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-011-ANYA.ogg",
+                "dialogueId": 852,
+                "animationLabel": "A2M4-C010-011-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 853,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-012-LEONID.ogg",
+                "dialogueId": 854,
+                "animationLabel": "A2M4-C010-012-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units/Human/HeroLordMaxwell/HeroLordMaxwell.mdl",
+                "speakerNameId": 855,
+                "speakerUnitID": "Htmx",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-013-TYROSUS.ogg",
+                "dialogueId": 856,
+                "animationLabel": "A2M4-C010-013-TYROSUS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLordMaxwell.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 857,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-014-LEONID.ogg",
+                "dialogueId": 858,
+                "animationLabel": "A2M4-C010-014-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units/Human/HeroLordMaxwell/HeroLordMaxwell.mdl",
+                "speakerNameId": 506,
+                "speakerUnitID": "Htmx",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-020-TYROSUS.ogg",
+                "dialogueId": 505,
+                "animationLabel": "A2M4-C010-020-TYROSUS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLordMaxwell.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 396,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-030-ANYA.ogg",
+                "dialogueId": 395,
+                "animationLabel": "A2M4-C010-030-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units/Human/HeroLordMaxwell/HeroLordMaxwell.mdl",
+                "speakerNameId": 510,
+                "speakerUnitID": "Htmx",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-040-TYROSUS.ogg",
+                "dialogueId": 509,
+                "animationLabel": "A2M4-C010-040-TYROSUS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLordMaxwell.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units/Human/HeroLordMaxwell/HeroLordMaxwell.mdl",
+                "speakerNameId": 514,
+                "speakerUnitID": "Htmx",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-050-TYROSUS.ogg",
+                "dialogueId": 513,
+                "animationLabel": "A2M4-C010-050-TYROSUS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLordMaxwell.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units/Human/HeroLordMaxwell/HeroLordMaxwell.mdl",
+                "speakerNameId": 516,
+                "speakerUnitID": "Htmx",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-060-TYROSUS.ogg",
+                "dialogueId": 515,
+                "animationLabel": "A2M4-C010-060-TYROSUS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLordMaxwell.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 461,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-070-GAREK.ogg",
+                "dialogueId": 460,
+                "animationLabel": "A2M4-C010-070-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 470,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-080-GAREK.ogg",
+                "dialogueId": 469,
+                "animationLabel": "A2M4-C010-080-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 479,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-090-ANYA.ogg",
+                "dialogueId": 478,
+                "animationLabel": "A2M4-C010-090-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 859,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-091-GAREK.ogg",
+                "dialogueId": 860,
+                "animationLabel": "A2M4-C010-091-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 14,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 488,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-100-LEONID.ogg",
+                "dialogueId": 487,
+                "animationLabel": "A2M4-C010-100-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 15,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 497,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-110-ANYA.ogg",
+                "dialogueId": 496,
+                "animationLabel": "A2M4-C010-110-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 16,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 502,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-C010-120-GAREK.ogg",
+                "dialogueId": 501,
+                "animationLabel": "A2M4-C010-120-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Entry Transmission": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 155,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T010-LEONID.ogg",
+                "dialogueId": 154,
+                "animationLabel": "A2M4-T010-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Survivor Soldier Transmission": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 127,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T020-ARGENTDAWNCAPTIVE.ogg",
+                "dialogueId": 126,
+                "animationLabel": "A2M4-T020-ARGENTDAWNCAPTIVE",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 147,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T030-LEONID.ogg",
+                "dialogueId": 146,
+                "animationLabel": "A2M4-T030-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Siege Transmission": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 259,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T060-LEONID.ogg",
+                "dialogueId": 258,
+                "animationLabel": "A2M4-T060-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 261,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T070-GAREK.ogg",
+                "dialogueId": 260,
+                "animationLabel": "A2M4-T070-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Boss Defeated Transmission": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 253,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T080-LEONID.ogg",
+                "dialogueId": 252,
+                "animationLabel": "A2M4-T080-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Introducing Leonid Transmission": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 834,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T090-GAREK.ogg",
+                "dialogueId": 833,
+                "animationLabel": "A2M4-T090-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 836,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m4/A2M4-T100-ANYA.ogg",
+                "dialogueId": 835,
+                "animationLabel": "A2M4-T100-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_04/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

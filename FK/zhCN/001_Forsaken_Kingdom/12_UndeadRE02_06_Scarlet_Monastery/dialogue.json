@@ -1,0 +1,691 @@
+{
+  "map": "UndeadRE02_06",
+  "title": "Scarlet Monastery",
+  "locale": "zhCN",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M5-C010-010-MOGRAINE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "又是你。这一次我要把你从洛丹伦清洗出去。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]又是你。这一次我要把你从洛丹伦清洗出去。[/\"Angry\"]",
+      "string_id": 1194,
+      "speaker_string_id": 1195,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-010-MOGRAINE.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M5-C010-020-WHITEMANE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "莎莉",
+      "text": "我的勇士，去摧毁那些怪物！",
+      "string_id": 1184,
+      "speaker_string_id": 1185,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-020-WHITEMANE.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M5-C010-030-MOGRAINE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "为血色十字军而战！",
+      "string_id": 1190,
+      "speaker_string_id": 1191,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-030-MOGRAINE.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M5-C010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "被遗忘者，进攻！",
+      "string_id": 1188,
+      "speaker_string_id": 1189,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M5-C020-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "我们夺回了提瑞斯法林地。那些狂信徒已经退回了他们的修道院。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]我们夺回了提瑞斯法林地。那些狂信徒已经退回了他们的修道院。[/\"Angry\"]",
+      "string_id": 899,
+      "speaker_string_id": 900,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M5-C020-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "我们应该突击他们的据点，彻底剿灭他们。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.55]我们应该突击他们的据点，彻底剿灭他们。[/\"Angry\"]",
+      "string_id": 847,
+      "speaker_string_id": 848,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-020-ANYA.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M5-C020-030-LANDEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "兰登的回忆",
+      "text": "活下去才是真正的胜利，和平才是真正的功业。",
+      "string_id": 950,
+      "speaker_string_id": 951,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-030-LANDEN.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M5-C020-040-LANDEN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "兰登的回忆",
+      "text": "千万不要本末倒置了。",
+      "string_id": 836,
+      "speaker_string_id": 837,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-040-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "A2M5-C020-070-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "希尔瓦娜斯女士，我觉得我们应该返回幽暗城。",
+      "string_id": 869,
+      "speaker_string_id": 870,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-070-GAREK.ogg"
+    },
+    {
+      "n": 10,
+      "id": "A2M5-C020-080-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "我们已经击退了血色十字军，但也付出了惨痛的代价。如果我们现在继续进攻修道院……",
+      "string_id": 877,
+      "speaker_string_id": 878,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-080-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "A2M5-C020-081-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "我们被遗忘者是无法补充兵力的。每一位战士的损失都会让我们更接近于灭绝。攻下修道院真的值得我们冒这么大的险吗？",
+      "string_id": 1157,
+      "speaker_string_id": 1158,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-081-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "A2M5-C020-090-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "你的意见不无道理，不过我们必须要取得这场战斗的胜利，这样才能确保我们领地的安全。",
+      "string_id": 889,
+      "speaker_string_id": 890,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-090-SYLVANAS.ogg"
+    },
+    {
+      "n": 13,
+      "id": "A2M5-C020-100-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "莱尼德",
+      "text": "我会将战果通知给银色黎明。如果血色十字军再次兴风作浪，一定会第一时间通知被遗忘者。",
+      "string_id": 897,
+      "speaker_string_id": 898,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-100-LEONID.ogg"
+    },
+    {
+      "n": 14,
+      "id": "A2M5-C020-110-LEONID",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "莱尼德",
+      "text": "能够和你们俩并肩作战是我的荣幸。我想告诉你们，我会永远是你们的盟友。",
+      "string_id": 908,
+      "speaker_string_id": 909,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-110-LEONID.ogg"
+    },
+    {
+      "n": 15,
+      "id": "A2M5-C020-120-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "恩雅",
+      "text": "你……是帮了不少忙。千万不要让那些圣骑士把你改变了。",
+      "string_id": 917,
+      "speaker_string_id": 918,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-120-ANYA.ogg"
+    },
+    {
+      "n": 16,
+      "id": "A2M5-C020-130-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "血色十字军一定会卷土重来。圣光会驱使他们来毁灭我们。",
+      "string_id": 926,
+      "speaker_string_id": 927,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-130-SYLVANAS.ogg"
+    },
+    {
+      "n": 17,
+      "id": "A2M5-C020-140-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "也许吧。不过我觉得不论有没有圣光，仇恨也会驱使他们。",
+      "string_id": 933,
+      "speaker_string_id": 934,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-140-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "A2M5-C020-150-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "而且我相信也有很多人会以别的方式运用圣光之力。甚至可能会用来保护被遗忘者。",
+      "string_id": 1114,
+      "speaker_string_id": 1115,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-150-GAREK.ogg"
+    },
+    {
+      "n": 19,
+      "id": "A2M5-C020-160-CULTASSASSIN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "天灾刺客",
+      "text": "看来血色十字军和被遗忘者已经两败俱伤了。",
+      "string_id": 1128,
+      "speaker_string_id": 1129,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-160-CULTASSASSIN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "A2M5-C020-170-CULTASSASSIN",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "天灾刺客",
+      "text": "换而言之，天灾军团的机会很快就会来了。",
+      "string_id": 1126,
+      "speaker_string_id": 1127,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-C020-170-CULTASSASSIN.ogg"
+    },
+    {
+      "n": 21,
+      "id": "A2M5-M010-010-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "莱尼德，你的情报是准确的。现在可以开战了。",
+      "string_id": 764,
+      "speaker_string_id": 765,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-010-SYLVANAS.ogg"
+    },
+    {
+      "n": 22,
+      "id": "A2M5-M010-020-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "通向血色修道院的路防守特别严密。我们的兵力有限，所以我们必须精心计划、步步为营。",
+      "string_id": 752,
+      "speaker_string_id": 753,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-020-SYLVANAS.ogg"
+    },
+    {
+      "n": 23,
+      "id": "A2M5-M010-030-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "你需要潜入敌后，突破他们的防线，然后擒贼先擒王。",
+      "string_id": 748,
+      "speaker_string_id": 749,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-030-SYLVANAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "A2M5-M010-040-SYLVANAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "希尔瓦娜斯",
+      "text": "但我要警告你：如果战局对我们不利，我会毫不犹豫地鸣金收兵。迅速行动，不要让胜利从我们手边溜走。",
+      "string_id": 743,
+      "speaker_string_id": 744,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-040-SYLVANAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "A2M5-M010-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "加瑞克",
+      "text": "如您所愿，黑暗女王。",
+      "string_id": 739,
+      "speaker_string_id": 740,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "A2M5-T010-GAREK",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Create Q",
+      "speaker": "加瑞克",
+      "text": "我们的部队已经开始行动了。我们需要先消灭血色十字军的守军，否则士兵们无异于走入死亡陷阱。",
+      "string_id": 111,
+      "speaker_string_id": 112,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T010-GAREK.ogg"
+    },
+    {
+      "n": 27,
+      "id": "A2M5-T020-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 750 Q",
+      "speaker": "希尔瓦娜斯",
+      "text": "许多被遗忘者都倒下了，但胜利依然触手可及！",
+      "string_id": 409,
+      "speaker_string_id": 410,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T020-SYLVANAS.ogg"
+    },
+    {
+      "n": 28,
+      "id": "A2M5-T030-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 500 Q",
+      "speaker": "希尔瓦娜斯",
+      "text": "我们已经有一半的兵力折在血色十字军的防线上了。千万不要让这场战斗再拖下去了。",
+      "string_id": 125,
+      "speaker_string_id": 126,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T030-SYLVANAS.ogg"
+    },
+    {
+      "n": 29,
+      "id": "A2M5-T040-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 200 Q",
+      "speaker": "希尔瓦娜斯",
+      "text": "我们的攻势快要坚持不下去了！速战速决，快！",
+      "string_id": 138,
+      "speaker_string_id": 139,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T040-SYLVANAS.ogg"
+    },
+    {
+      "n": 30,
+      "id": "A2M5-T050-SYLVANAS",
+      "scene": "Forsaken.Forsaken Horde Leaderboard Update 0 Q",
+      "speaker": "希尔瓦娜斯",
+      "text": "够了！我决不能再让更多的被遗忘者为这种注定的败局牺牲。立刻撤回幽暗城！",
+      "string_id": 145,
+      "speaker_string_id": 146,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T050-SYLVANAS.ogg"
+    },
+    {
+      "n": 31,
+      "id": "A2M5-T060-ANYA",
+      "scene": "Scarlet Crusade.Archers.Scarlet Crusade Archers Approach Q",
+      "speaker": "恩雅",
+      "text": "这些弓箭手很快就会全歼我们的军队。消灭他们。",
+      "string_id": 152,
+      "speaker_string_id": 153,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T060-ANYA.ogg"
+    },
+    {
+      "n": 32,
+      "id": "A2M5-T070-GAREK",
+      "scene": "Scarlet Crusade.Archers.Scarlet Crusade Archers Defeated Q",
+      "speaker": "加瑞克",
+      "text": "高地落到我们的手上了。继续推进吧！",
+      "string_id": 159,
+      "speaker_string_id": 160,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T070-GAREK.ogg"
+    },
+    {
+      "n": 33,
+      "id": "A2M5-T080-ANYA",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 01 Q",
+      "speaker": "恩雅",
+      "text": "黑暗游侠正在森林各处与血色十字军展开遭遇战。如果我们去支援她们，我的姐妹们就能加入我们的麾下。",
+      "string_id": 253,
+      "speaker_string_id": 254,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T080-ANYA.ogg"
+    },
+    {
+      "n": 34,
+      "id": "A2M5-T110-LEONID",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Q",
+      "speaker": "莱尼德",
+      "text": "我听说血色十字军把俘虏的被遗忘者部队囚禁在附近的一座军营中。如果可以的话，我们应该去营救他们。",
+      "string_id": 274,
+      "speaker_string_id": 275,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T110-LEONID.ogg"
+    },
+    {
+      "n": 35,
+      "id": "A2M5-T120-GAREK",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Rescued Q",
+      "speaker": "加瑞克",
+      "text": "士兵们，跟我上！向血色修道院进发！",
+      "string_id": 281,
+      "speaker_string_id": 282,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T120-GAREK.ogg"
+    },
+    {
+      "n": 36,
+      "id": "A2M5-T130-GAREK",
+      "scene": "Forsaken.Prisoners.Forsaken Prisoners Too Late Q",
+      "speaker": "加瑞克",
+      "text": "简直是一场大屠杀。如果让血色十字军赢了，这就是我们的下场。",
+      "string_id": 1150,
+      "speaker_string_id": 1151,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T130-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "A2M5-T140-GAREK",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Discover Q",
+      "speaker": "加瑞克",
+      "text": "要突破那道盾墙简直难如登天。迂回到血色十字军的后方，伏击他们的队长。",
+      "string_id": 172,
+      "speaker_string_id": 173,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T140-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "A2M5-T150-SCARLETCAPTAIN",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Approach Q",
+      "speaker": "泰科斯队长",
+      "text": "亡灵正在从高地发起攻击！不要让他们过去！",
+      "string_id": 353,
+      "speaker_string_id": 354,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T150-SCARLETCAPTAIN.ogg"
+    },
+    {
+      "n": 39,
+      "id": "A2M5-T160-GAREK",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Defeated Q",
+      "speaker": "加瑞克",
+      "text": "密集方阵已经被打破了！我们的军队正在继续推进！",
+      "string_id": 182,
+      "speaker_string_id": 183,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T160-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "A2M5-T170-LEONID",
+      "scene": "Scarlet Crusade.Captain.Scarlet Crusade Captain Defeated Q",
+      "speaker": "莱尼德",
+      "text": "血色十字军一定也会以牙还牙。我们必须尽快抵达修道院。",
+      "string_id": 185,
+      "speaker_string_id": 186,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T170-LEONID.ogg"
+    },
+    {
+      "n": 41,
+      "id": "A2M5-T180-ANYA",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Discover Q",
+      "speaker": "恩雅",
+      "text": "那个检察官会用圣光焚烧我们的部队。必须要干掉他！",
+      "string_id": 500,
+      "speaker_string_id": 501,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T180-ANYA.ogg"
+    },
+    {
+      "n": 42,
+      "id": "A2M5-T190-SCARLETINQUISITOR",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Approach Q",
+      "speaker": "检察官凯兰",
+      "text": "恶心的怪物！让神圣之火烧死你们！",
+      "string_id": 490,
+      "speaker_string_id": 491,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T190-SCARLETINQUISITOR.ogg"
+    },
+    {
+      "n": 43,
+      "id": "A2M5-T200-ANYA",
+      "scene": "Scarlet Crusade.Inquisitors.Scarlet Crusade Inquisitors Defeated Q",
+      "speaker": "恩雅",
+      "text": "总算清净了。现在我们的军队可以推进了。",
+      "string_id": 450,
+      "speaker_string_id": 451,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T200-ANYA.ogg"
+    },
+    {
+      "n": 44,
+      "id": "A2M5-T220-SCARLETCRUSADER",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Approach Q",
+      "speaker": "十字军阿托尼乌斯",
+      "text": "休想！你们的攻势到此为止了！",
+      "string_id": 479,
+      "speaker_string_id": 480,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T220-SCARLETCRUSADER.ogg"
+    },
+    {
+      "n": 45,
+      "id": "A2M5-T230-LEONID",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Meat Wagons Bastion Q",
+      "speaker": "莱尼德",
+      "text": "血色十字军的防线只剩最后一道了。修道院就在前方！",
+      "string_id": 474,
+      "speaker_string_id": 475,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T230-LEONID.ogg"
+    },
+    {
+      "n": 46,
+      "id": "A2M5-T240-GAREK",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Meat Wagons Bastion Q",
+      "speaker": "加瑞克",
+      "text": "那么现在就去结束这场战斗吧！",
+      "string_id": 472,
+      "speaker_string_id": 473,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T240-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "A2M5-T250-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Start Fight Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "我们并肩作战！",
+      "string_id": 1178,
+      "speaker_string_id": 1179,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T250-WHITEMANE.ogg"
+    },
+    {
+      "n": 48,
+      "id": "A2M5-T260-mograine",
+      "scene": "Scarlet Camp.Scarlet Camp Start Fight Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "为你而战，我的女士！",
+      "string_id": 1180,
+      "speaker_string_id": 1181,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T260-mograine.ogg"
+    },
+    {
+      "n": 49,
+      "id": "A2M5-T270-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 01 Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "面对我，怪物！",
+      "string_id": 1244,
+      "speaker_string_id": 1245,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T270-MOGRAINE.ogg"
+    },
+    {
+      "n": 50,
+      "id": "A2M5-T280-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 02 Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你们都会被净化！",
+      "string_id": 1257,
+      "speaker_string_id": 1258,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T280-MOGRAINE.ogg"
+    },
+    {
+      "n": 51,
+      "id": "A2M5-T290-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 03 Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "没人可以反抗血色十字军！",
+      "string_id": 1262,
+      "speaker_string_id": 1263,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T290-MOGRAINE.ogg"
+    },
+    {
+      "n": 52,
+      "id": "A2M5-T300-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Rescue Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你居然敢攻击大检察官？！",
+      "string_id": 1275,
+      "speaker_string_id": 1276,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T300-MOGRAINE.ogg"
+    },
+    {
+      "n": 53,
+      "id": "A2M5-T310-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp Renault Taunt 04 Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "你们卑劣的存在今天就到此为止了！",
+      "string_id": 1278,
+      "speaker_string_id": 1279,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T310-MOGRAINE.ogg"
+    },
+    {
+      "n": 54,
+      "id": "A2M5-T320-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Revive Taunt Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "继续战斗吧，我的勇士！",
+      "string_id": 1200,
+      "speaker_string_id": 1201,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T320-WHITEMANE.ogg"
+    },
+    {
+      "n": 55,
+      "id": "A2M5-T330-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 1 Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "圣光会保护所有坚守信仰的人！",
+      "string_id": 1203,
+      "speaker_string_id": 1204,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T330-WHITEMANE.ogg"
+    },
+    {
+      "n": 56,
+      "id": "A2M5-T340-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 2 Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "我们必将得胜！",
+      "string_id": 1215,
+      "speaker_string_id": 1216,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T340-WHITEMANE.ogg"
+    },
+    {
+      "n": 57,
+      "id": "A2M5-T350-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 3 Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "莫格莱尼，驱逐这群异教徒！",
+      "string_id": 1220,
+      "speaker_string_id": 1221,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T350-WHITEMANE.ogg"
+    },
+    {
+      "n": 58,
+      "id": "A2M5-T360-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp Sally Taunt 4 Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "让救赎的火焰熊熊燃烧吧！",
+      "string_id": 1225,
+      "speaker_string_id": 1226,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T360-WHITEMANE.ogg"
+    },
+    {
+      "n": 59,
+      "id": "A2M5-T370-MOGRAINE",
+      "scene": "Scarlet Camp.Scarlet Camp End Fight Q",
+      "speaker": "血色十字军指挥官莫格莱尼",
+      "text": "女士，他们正在蚕食我们的阵地！我们必须后撤，守住修道院！",
+      "string_id": 1230,
+      "speaker_string_id": 1231,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T370-MOGRAINE.ogg"
+    },
+    {
+      "n": 60,
+      "id": "A2M5-T380-WHITEMANE",
+      "scene": "Scarlet Camp.Scarlet Camp End Fight Q",
+      "speaker": "大检察官怀特迈恩",
+      "text": "好吧。总有一天，我们要让这些罪恶的怪物为他们的背叛付出代价！",
+      "string_id": 1239,
+      "speaker_string_id": 1240,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T380-WHITEMANE.ogg"
+    },
+    {
+      "n": 61,
+      "id": "A2M5-T555-DEATHGUARD",
+      "scene": "Scarlet Crusade.Cannons.Scarlet Crusade Cannons Discover Q",
+      "speaker": "亡灵卫兵",
+      "text": "队长！我们的清道夫可以击毁那座防御塔，不过我们需要先打掉那些火炮！",
+      "string_id": 466,
+      "speaker_string_id": 467,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m5/A2M5-T555-DEATHGUARD.ogg"
+    },
+    {
+      "n": 62,
+      "id": "ForsakenRanger_Ready1",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 01 Rescued Q",
+      "speaker": "被遗忘者游侠",
+      "text": "我效忠于女妖之王！",
+      "string_id": 260,
+      "speaker_string_id": 261,
+      "sound": "Units/Undead/ForsakenRanger/ForsakenRanger_Ready1.ogg"
+    },
+    {
+      "n": 63,
+      "id": "ForsakenVillagerF_What1",
+      "scene": "Forsaken.Rangers.Forsaken Rangers 02 Rescued Q",
+      "speaker": "被遗忘者游侠",
+      "text": "你好！",
+      "string_id": 267,
+      "speaker_string_id": 268,
+      "sound": "Units/Critters/ForsakenVillagerF/ForsakenVillagerF_What1.ogg"
+    },
+    {
+      "n": 64,
+      "id": "FootmanYesAttack2",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 01 Q",
+      "speaker": "血色步兵",
+      "text": "进攻！",
+      "string_id": 327,
+      "speaker_string_id": 328,
+      "sound": "Units/Human/Footman/FootmanYesAttack2.flac"
+    },
+    {
+      "n": 65,
+      "id": "ScarletMarksman_Warcry1",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 02 Q",
+      "speaker": "血色神射手",
+      "text": "我要把你的头挂到墙上！",
+      "string_id": 320,
+      "speaker_string_id": 321,
+      "sound": "Units/Human/ScarletMarksman/ScarletMarksman_Warcry1.ogg"
+    },
+    {
+      "n": 66,
+      "id": "FootmanYesAttack3",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 03 Q",
+      "speaker": "血色步兵",
+      "text": "上啊！",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 67,
+      "id": "FootmanYesAttack2",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 04 Q",
+      "speaker": "血色步兵",
+      "text": "进攻！",
+      "string_id": 327,
+      "speaker_string_id": 328,
+      "sound": "Units/Human/Footman/FootmanYesAttack2.flac"
+    },
+    {
+      "n": 68,
+      "id": "KnightWarcry1",
+      "scene": "Scarlet Crusade.Encounters.Scarlet Crusade Encounter 05 Q",
+      "speaker": "十字军",
+      "text": "为了荣誉！为了自由！",
+      "string_id": 707,
+      "speaker_string_id": 708,
+      "sound": "Units/Human/Knight/KnightWarcry1.flac"
+    }
+  ]
+}

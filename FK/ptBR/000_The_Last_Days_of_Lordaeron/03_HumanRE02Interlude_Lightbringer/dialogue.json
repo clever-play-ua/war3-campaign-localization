@@ -1,0 +1,100 @@
+{
+  "map": "HumanRE02Interlude",
+  "title": "Lightbringer",
+  "locale": "ptBR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02I-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Lorde Uther! Você confrontou o Príncipe Arthas?",
+      "string_id": 61,
+      "speaker_string_id": 62,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02I-M010-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Não. Quando eu terminei de consagrar os restos mortais de Terenas, Arthas já tinha abandonado a cidade.",
+      "string_id": 58,
+      "speaker_string_id": 59,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-020-UTHER.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02I-M010-023-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Você não está acompanhado do seu Capitão. Por acaso ele...",
+      "string_id": 105,
+      "speaker_string_id": 106,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-023-UTHER.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02I-M010-025-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Ele foi assassinado por aquele traidor do Rivendare! Se não fosse pelo Capitão Landen, eu também estaria morto.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.25 easein=0.45 easeout=0.55]Ele foi assassinado por aquele traidor do Rivendare![/\"Angry\"] [\"Sad\" type=quad v2=0.25 v3=0.5 easein=0.55 easeout=0.45]Se não fosse pelo Capitão Landen, eu também estaria morto.[/\"Sad\"]",
+      "string_id": 107,
+      "speaker_string_id": 108,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-025-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02I-M010-028-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Eu lamento, Tenente. Precisamos fazer com que o sacrifício dele não seja em vão.",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Eu lamento, Tenente. Precisamos fazer com que o sacrifício dele não seja em vão.[/\"Sad\"]",
+      "string_id": 109,
+      "speaker_string_id": 110,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-028-UTHER.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02I-M010-030-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Infelizmente, Andorhal está cercada por sectários e necromantes. Não temos forças para romper este cerco.",
+      "string_id": 103,
+      "speaker_string_id": 104,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-030-UTHER.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02I-M010-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "Levarei os sobreviventes até Amparo e reunirei reforços. Você ficará aqui e lidará com os sectários até eu voltar.",
+      "string_id": 82,
+      "speaker_string_id": 83,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-040-UTHER.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02I-M010-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Garek",
+      "text": "Entendido, senhor.",
+      "string_id": 84,
+      "speaker_string_id": 85,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02I-M010-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Uther",
+      "text": "A seita não pode conquistar Andorhal. Que a Luz guie seu caminho.",
+      "string_id": 88,
+      "speaker_string_id": 89,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-060-UTHER.ogg"
+    }
+  ]
+}

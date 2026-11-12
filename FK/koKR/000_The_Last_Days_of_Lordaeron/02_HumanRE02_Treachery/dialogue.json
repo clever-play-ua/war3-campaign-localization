@@ -1,0 +1,1025 @@
+{
+  "map": "HumanRE02",
+  "title": "Treachery",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02-C010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "제기랄! 어떻게 이런 일이? 도시가 잿더미가 됐잖아...",
+      "string_id": 2189,
+      "speaker_string_id": 2190,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02-C010-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "집중해야 하네. 사람들은 우리가 안전한 곳으로 이끌어 주기만을 믿고 있잖나.",
+      "string_id": 2192,
+      "speaker_string_id": 2193,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-020-LANDEN.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02-C010-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "우리가 안전하게 지켜 줄 거라 믿었잖습니까. 보기 좋게 실패했고요.",
+      "string_id": 2195,
+      "speaker_string_id": 2196,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02-C010-040-RIFLEMAN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "소총병",
+      "text": "생존자 여러분, 주목하십쇼!",
+      "string_id": 2198,
+      "speaker_string_id": 2199,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-040-RIFLEMAN.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02-C010-050-FOOTMAN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "보병",
+      "text": "대장님, 부대와 떨어져 여기 낙오됐습니다.",
+      "string_id": 2766,
+      "speaker_string_id": 2767,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-050-FOOTMAN.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02-C010-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "출구로 향하고 있는 중일세. 주민을 보호하는 걸 도와주게나. 그러면 모두 무사히 살아 나갈 수 있을 테니.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-060-LANDEN.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02-C020-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "스트라솔름의 영주, 리븐데어 남작이다!",
+      "string_id": 2238,
+      "speaker_string_id": 2239,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-010-GAREK.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02-C020-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "남작님! 주민들을 데리고 왔...",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]남작님! 주민들을 데리고 왔...[/\"Scared\"]",
+      "string_id": 2241,
+      "speaker_string_id": 2242,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-020-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02-C020-030-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "운수가 좋군. 네가 데려온 생존자들은 스컬지의 훌륭한 일원이 되겠어.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]운수가 좋군. 네가 데려온 생존자들은 스컬지의 훌륭한 일원이 되겠어.[/\"Angry\"]",
+      "string_id": 2244,
+      "speaker_string_id": 2245,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-030-RIVENDARE.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE02-C020-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "아서스처럼 더러운 배신자 놈이었군!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]아서스처럼 더러운 배신자 놈이었군![/\"Angry\"]",
+      "string_id": 2247,
+      "speaker_string_id": 2248,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-040-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE02-C020-050-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "우리 귀하신 왕자님께서는 훨씬 더 위대한 계획의 도구일 뿐이다. 나 또한 그 계획을 고안하는 것을 도왔지.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]우리 귀하신 왕자님께서는 훨씬 더 위대한 계획의 도구일 뿐이다. 나 또한 그 계획을 고안하는 것을 도왔지.[/\"Happy\"]",
+      "string_id": 2250,
+      "speaker_string_id": 2251,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-050-RIVENDARE.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE02-C020-060-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "이제 이 나약하고 한심한 왕국은 스러지고, 그 시체에서 저주받은 자들의 군대가 일어나리라.",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-060-RIVENDARE.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE02-C020-070-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "저 벌레 놈들은 내 발밑에 있다. 모조리 학살하고 남은 생존자들을 사냥해라.",
+      "string_id": 2256,
+      "speaker_string_id": 2257,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-070-RIVENDARE.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE02-C030-010-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "죽고 싶어 안달이 났구나. 주저 않고 영웅 행세를 하다니.",
+      "string_id": 2693,
+      "speaker_string_id": 2694,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-010-RIVENDARE.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE02-C030-020-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "네놈은 아무것도 아니다! 시체가 되어 봉사해라...",
+      "string_id": 2710,
+      "speaker_string_id": 2711,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-020-RIVENDARE.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE02-C030-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "보호막이 사라졌군! 어서 가게나!",
+      "string_id": 2719,
+      "speaker_string_id": 2720,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-040-LANDEN.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE02-C030-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "예?! 안 됩니다! 대장님을 버릴 수는 없어요!",
+      "string_id": 2728,
+      "speaker_string_id": 2729,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE02-C030-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "난 됐으니 가게! 주민들을 안돌할로 호위해야 하잖나!",
+      "string_id": 2737,
+      "speaker_string_id": 2738,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-060-LANDEN.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE02-C030-070-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "대장님, 저는...",
+      "string_id": 2746,
+      "speaker_string_id": 2747,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-070-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE02-C030-080-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "젠장할, 이건 명령일세!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-080-LANDEN.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE02-C030-090-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "빛이 함께하기를 빕니다, 대장님.",
+      "string_id": 2764,
+      "speaker_string_id": 2765,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-090-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE02-C030-100-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "가게나, 가렉. 자네의 참된 모습을 따르게나.",
+      "string_id": 2775,
+      "speaker_string_id": 2776,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-100-LANDEN.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE02-C030-110-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "남작 리븐데어",
+      "text": "달아날 수 있다고 생각하느냐?! 이 하수구가 네놈들 무덤이 될 것이다!",
+      "string_id": 2783,
+      "speaker_string_id": 2784,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-110-RIVENDARE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE02-C030-120-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "로데론을 위하여!",
+      "string_id": 2786,
+      "speaker_string_id": 2787,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-120-LANDEN.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE02-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "이것 좀 보십쇼! 저 교단 쥐새끼들이 하수구에 대체 얼마나 오래 숨어 있었던 걸까요?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]이것 좀 보십쇼! 저 교단 쥐새끼들이 하수구에 대체 얼마나 오래 숨어 있었던 걸까요?[/\"Angry\"]",
+      "string_id": 2207,
+      "speaker_string_id": 2208,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE02-M010-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "이 반란을 몇 년 동안은 모의해 온 모양이야. 친구와 이웃들이...",
+      "string_id": 2210,
+      "speaker_string_id": 2211,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-020-LANDEN.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE02-M010-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "지금껏 계속 발밑에서 부패가 들끓고 있었다고 생각하니...",
+      "string_id": 2213,
+      "speaker_string_id": 2214,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE02-M010-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "나아갈 길을 확보하기 전까지 주민들은 여기 남겨 두세나.",
+      "string_id": 2216,
+      "speaker_string_id": 2217,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-040-LANDEN.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE02-M010-050-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "우리가 돌아올 때까지 문을 잠가 두십시오. 돌아오지 않는다면...",
+      "string_id": 2219,
+      "speaker_string_id": 2220,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-050-LANDEN.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE02-M010-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "...빛의 가호를 바랄 수밖에요.",
+      "string_id": 2222,
+      "speaker_string_id": 2223,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-060-LANDEN.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE02-M015-010-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "보병",
+      "text": "도시 경비병이다! 생존자가 더 있을 줄 알았지!",
+      "string_id": 2225,
+      "speaker_string_id": 2226,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-010-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE02-M015-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "주민들과 함께 왔다. 문을 열 수 있겠나?",
+      "string_id": 2228,
+      "speaker_string_id": 2229,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-020-LANDEN.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE02-M015-030-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "보병",
+      "text": "없습니다. 저주받을 교단 놈들이 손잡이를 가져갔어요. 톱니바퀴를 되찾아 오셔야 합니다.",
+      "string_id": 2231,
+      "speaker_string_id": 2232,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-030-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE02-M015-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "교단원 사냥을 떠날 시간이로군.",
+      "string_id": 2235,
+      "speaker_string_id": 2236,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-040-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE02-M020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "모두 지상으로!",
+      "string_id": 2259,
+      "speaker_string_id": 2260,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-010-LANDEN.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE02-M020-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "아뇨, 대장님. 절 두고 생존자들을 데리고 안돌할로 가십시오.",
+      "string_id": 2262,
+      "speaker_string_id": 2263,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-020-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE02-M020-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "리븐데어가 살아 있는 동안 전 여길 떠날 생각 없습니다.",
+      "string_id": 2265,
+      "speaker_string_id": 2266,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE02-M020-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "가렉, 미친 소리 말게. 설마 자네...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]가렉, 미친 소리 말게. 설마 자네...[/\"Surprised\"]",
+      "string_id": 2268,
+      "speaker_string_id": 2269,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-040-LANDEN.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE02-M020-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "가만히 있는다고 정의가 놈에게 심판을 내려 주진 않을 겁니다. 지금이 아니라면 언제 심판하겠습니까?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]가만히 있는다고 정의가 놈에게 심판을 내려 주진 않을 겁니다. 지금이 아니라면 언제 심판하겠습니까?[/\"Angry\"]",
+      "string_id": 2271,
+      "speaker_string_id": 2272,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE02-M020-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "병사, 자네에게 주민 호위를 맡기겠네.",
+      "string_id": 2274,
+      "speaker_string_id": 2275,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-060-LANDEN.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE02-M020-070-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "랜든",
+      "text": "어서 끝내도록 하지, 부관.",
+      "string_id": 2277,
+      "speaker_string_id": 2278,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-070-LANDEN.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE02-M030-010-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "보병",
+      "text": "반다리온 부관님, 살아 계셨군요! 그런데... 랜든 대장님은 어디 계십니까?",
+      "string_id": 2280,
+      "speaker_string_id": 2281,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-010-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE02-M030-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "경비대장께서는... 살아남지 못하셨다.",
+      "string_id": 2288,
+      "speaker_string_id": 2289,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE02-M030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "가렉",
+      "text": "안돌할에서 우서 경과 재집결해야 한다. 움직이자.",
+      "string_id": 2286,
+      "speaker_string_id": 2287,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-030-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE02-T010-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers Discover Q",
+      "speaker": "랜든",
+      "text": "주민 여러분은 뒤로 물러나십시오. 저희가 앞장서겠습니다.",
+      "string_id": 2591,
+      "speaker_string_id": 2592,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T010-LANDEN.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE02-T020-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers FightContinues Q",
+      "speaker": "가렉",
+      "text": "아서스가 아직도 도시를 초토화하고 있습니다...",
+      "string_id": 2599,
+      "speaker_string_id": 2600,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T020-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE02-T030-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers FightContinues Q",
+      "speaker": "랜든",
+      "text": "나갈 길을 확보한다면, 생존자를 더 구할 수 있을지도 모르겠군.",
+      "string_id": 2601,
+      "speaker_string_id": 2602,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T030-LANDEN.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE02-T040-GAREK",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q",
+      "speaker": "가렉",
+      "text": "나아갈 길은 하나뿐인 것 같군.",
+      "string_id": 2621,
+      "speaker_string_id": 2622,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T040-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE02-T050-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q Attack",
+      "speaker": "역병직조자",
+      "text": "네놈에게 '나아갈 길' 따위는 없다!",
+      "string_id": 2546,
+      "speaker_string_id": 2547,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T050-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE02-T060-LANDEN",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q Attack",
+      "speaker": "랜든",
+      "text": "전원, 전투 태세로!",
+      "string_id": 2521,
+      "speaker_string_id": 2522,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T060-LANDEN.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE02-T070-LANDEN",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambusher Dies Q",
+      "speaker": "랜든",
+      "text": "교단이 하수구까지 따라온 모양이군. 계속 움직여라!",
+      "string_id": 2304,
+      "speaker_string_id": 2379,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T070-LANDEN.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE02-T110-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach2 Q",
+      "speaker": "보병",
+      "text": "도시 경비대다! 제발, 도와주세요!",
+      "string_id": 2797,
+      "speaker_string_id": 2800,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T110-PRISONERM.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE02-T120-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach1 Q",
+      "speaker": "사제",
+      "text": "여기입니다! 꺼내 주세요!",
+      "string_id": 2796,
+      "speaker_string_id": 2801,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T120-PRISONERM.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE02-T130-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach3 Q",
+      "speaker": "소총병",
+      "text": "도와주세요! 우리를 부숴서 꺼내주세요!",
+      "string_id": 2798,
+      "speaker_string_id": 2799,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T130-PRISONERM.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE02-T140-PRISONERFOOTMAN",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued2 Q",
+      "speaker": "보병",
+      "text": "감사합니다! 어서 여기서 나갑시다!",
+      "string_id": 2807,
+      "speaker_string_id": 2808,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T140-PRISONERFOOTMAN.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE02-T190-PRISONERRIFLEMAN",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued3 Q",
+      "speaker": "소총병",
+      "text": "여기서 죽는 줄 알았어! 저 교단 놈들, 대가를 치르게 해주지!",
+      "string_id": 2649,
+      "speaker_string_id": 2650,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T190-PRISONERRIFLEMAN.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE02-T210-PRISONERPRIEST",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued1 Q",
+      "speaker": "사제",
+      "text": "목숨을 빚졌군요. 저도 함께 싸우겠습니다!",
+      "string_id": 2806,
+      "speaker_string_id": 2805,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T210-PRISONERPRIEST.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE02-T230-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers SuppliesDiscovery",
+      "speaker": "가렉",
+      "text": "잠깐... 여기 물자가 왜 이렇게 많은 거지?",
+      "string_id": 2615,
+      "speaker_string_id": 2616,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T230-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE02-T240-MASTERBLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers CultCampFound Q",
+      "speaker": "달인 역병직조자",
+      "text": "침입자다! 모두 죽여라!",
+      "string_id": 2617,
+      "speaker_string_id": 2618,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T240-MASTERBLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE02-T250-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers CultCampFound Q",
+      "speaker": "가렉",
+      "text": "여긴 대체 뭐지?!",
+      "string_id": 2613,
+      "speaker_string_id": 2614,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T250-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE02-T260-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot OnLeverKill Q",
+      "speaker": "랜든",
+      "text": "출구가 가까이 있을 것이다. 정신 바짝 차리도록.",
+      "string_id": 2310,
+      "speaker_string_id": 2385,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T260-LANDEN.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE02-T270-APOTHECARYVENOMSPITE",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot OnVenomspiteAttack Q",
+      "speaker": "연금술사 베놈스파이트",
+      "text": "감히 내 작업을 방해해?!",
+      "string_id": 2629,
+      "speaker_string_id": 2630,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T270-APOTHECARYVENOMSPITE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE02-T280-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Lethal Q",
+      "speaker": "가렉",
+      "text": "이 증기는 우리가 방해한 '작업' 때문인 것 같군. 걷어낼 방법을 찾아야겠어.",
+      "string_id": 2665,
+      "speaker_string_id": 2666,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T280-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE02-T290-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission ValvePuzzle OnPuzzleComplete Q",
+      "speaker": "가렉",
+      "text": "이거면 되겠지. 움직이자.",
+      "string_id": 2309,
+      "speaker_string_id": 2384,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T290-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE02-T300-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot PlaguemasterMaskUse Q",
+      "speaker": "가렉",
+      "text": "흠. 이거면 증기를 막아낼 수 있겠지.",
+      "string_id": 2315,
+      "speaker_string_id": 2387,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T300-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE02-T310-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot SlimesAttacked Q",
+      "speaker": "가렉",
+      "text": "윽! 이게 대체 뭐지?!",
+      "string_id": 2316,
+      "speaker_string_id": 2388,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T310-GAREK.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE02-T320-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot AmbushItem Q",
+      "speaker": "가렉",
+      "text": "기습이다!",
+      "string_id": 2492,
+      "speaker_string_id": 2493,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T320-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE02-T330-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers RubbleExit Q",
+      "speaker": "랜든",
+      "text": "잔해가 너무 많군. 다른 길을 찾아야겠어.",
+      "string_id": 2663,
+      "speaker_string_id": 2664,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T330-LANDEN.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE02-T340-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Wake Q",
+      "speaker": "가렉",
+      "text": "조심해라!",
+      "string_id": 2308,
+      "speaker_string_id": 2383,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T340-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "HRE02-T350-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Dead Q",
+      "speaker": "랜든",
+      "text": "저기 출구다!",
+      "string_id": 2307,
+      "speaker_string_id": 2382,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T350-LANDEN.ogg"
+    },
+    {
+      "n": 71,
+      "id": "HRE02-T360-GAREK",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Found Q",
+      "speaker": "가렉",
+      "text": "이 어둠 속에는 차갑고 무시무시한 것이 도사리고 있어.",
+      "string_id": 2572,
+      "speaker_string_id": 2573,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T360-GAREK.ogg"
+    },
+    {
+      "n": 72,
+      "id": "HRE02-T370-ARAJTHESUMMONER",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Attacked Q",
+      "speaker": "소환사 아라즈",
+      "text": "어리석은 필멸자 같으니. 이게 네놈들의 최후다!",
+      "string_id": 2637,
+      "speaker_string_id": 2638,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T370-ARAJTHESUMMONER.ogg"
+    },
+    {
+      "n": 73,
+      "id": "HRE02-T380-ARAJTHESUMMONER",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Killed Q",
+      "speaker": "소환사 아라즈",
+      "text": "나는 돌아올 것이다...",
+      "string_id": 2643,
+      "speaker_string_id": 2644,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T380-ARAJTHESUMMONER.ogg"
+    },
+    {
+      "n": 74,
+      "id": "HRE02-T390-GAREK",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Killed Q",
+      "speaker": "가렉",
+      "text": "사악한 리치 놈...",
+      "string_id": 2507,
+      "speaker_string_id": 2508,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T390-GAREK.ogg"
+    },
+    {
+      "n": 75,
+      "id": "HRE02-T400-LANDEN",
+      "scene": "TRANSMISSIONS.FirePuzzle.Transmission FirePuzzle See Q",
+      "speaker": "랜든",
+      "text": "도시 중앙 용광로군. 아직도 열기를 내뿜고 있어.",
+      "string_id": 2651,
+      "speaker_string_id": 2652,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T400-LANDEN.ogg"
+    },
+    {
+      "n": 76,
+      "id": "HRE02-T410-GAREK",
+      "scene": "TRANSMISSIONS.FirePuzzle.Transmission FirePuzzle See Q",
+      "speaker": "가렉",
+      "text": "아서스가 시체 안치소로 바꿔 놓은 집으로 가시죠. 불길을 꺼야 합니다.",
+      "string_id": 2653,
+      "speaker_string_id": 2654,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T410-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "HRE02-T420-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission VoicesHeard Q",
+      "speaker": "가렉",
+      "text": "대장님! 위에서 목소리가 들립니다!",
+      "string_id": 2306,
+      "speaker_string_id": 2381,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T420-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "HRE02-T430-MORDO",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Attacked Q",
+      "speaker": "모르도",
+      "text": "리븐데어가 포상을 내리겠지!",
+      "string_id": 2633,
+      "speaker_string_id": 2634,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T430-MORDO.ogg"
+    },
+    {
+      "n": 79,
+      "id": "HRE02-T440-GAREK",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Attacked Q",
+      "speaker": "가렉",
+      "text": "죽어라, 교단 쓰레기 놈아!",
+      "string_id": 2328,
+      "speaker_string_id": 2393,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T440-GAREK.ogg"
+    },
+    {
+      "n": 80,
+      "id": "HRE02-T450-GAREK",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Killed Q",
+      "speaker": "가렉",
+      "text": "창끝에 리븐데어의 머리를 꽂아 주마!",
+      "string_id": 2334,
+      "speaker_string_id": 2394,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T450-GAREK.ogg"
+    },
+    {
+      "n": 81,
+      "id": "HRE02-T460-LANDEN",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Killed Q",
+      "speaker": "랜든",
+      "text": "정의가 심판할 것이네, 가렉. 생존자를 안돌할로 데려가는 데만 집중해야 해.",
+      "string_id": 2331,
+      "speaker_string_id": 2395,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T460-LANDEN.ogg"
+    },
+    {
+      "n": 82,
+      "id": "HRE02-T470-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission CogsFound Q",
+      "speaker": "랜든",
+      "text": "빛께 감사를! 여기 있게. 나는 가서 생존자를 모아 올 테니.",
+      "string_id": 2305,
+      "speaker_string_id": 2380,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T470-LANDEN.ogg"
+    },
+    {
+      "n": 83,
+      "id": "HRE02-T470-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot CogsCollected Q",
+      "speaker": "랜든",
+      "text": "빛께 감사를! 여기 있게. 나는 가서 생존자를 모아 올 테니.",
+      "string_id": 2305,
+      "speaker_string_id": 2380,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T470-LANDEN.ogg"
+    },
+    {
+      "n": 84,
+      "id": "HRE02-T480-GAREK",
+      "scene": "TRANSMISSIONS.Hunting Rivendare.Transmission HuntingRivendare Q",
+      "speaker": "가렉",
+      "text": "이러실 필요 없습니다, 대장.",
+      "string_id": 2332,
+      "speaker_string_id": 2396,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T480-GAREK.ogg"
+    },
+    {
+      "n": 85,
+      "id": "HRE02-T490-LANDEN",
+      "scene": "TRANSMISSIONS.Hunting Rivendare.Transmission HuntingRivendare Q",
+      "speaker": "랜든",
+      "text": "필요가 있지. 자네 혼자 리븐데어를 상대하게 둘 수는 없어.",
+      "string_id": 2333,
+      "speaker_string_id": 2397,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T490-LANDEN.ogg"
+    },
+    {
+      "n": 86,
+      "id": "HRE02-T500-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Discover Q",
+      "speaker": "가렉",
+      "text": "거미 한번 엄청 크군...",
+      "string_id": 2346,
+      "speaker_string_id": 2404,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T500-GAREK.ogg"
+    },
+    {
+      "n": 87,
+      "id": "HRE02-T510-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Discover Q",
+      "speaker": "랜든",
+      "text": "근처에 무리어미가 있을 걸세.",
+      "string_id": 2348,
+      "speaker_string_id": 2405,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T510-LANDEN.ogg"
+    },
+    {
+      "n": 88,
+      "id": "HRE02-T520-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapG1 Q",
+      "speaker": "가렉",
+      "text": "대장님! 거미줄에서 좀 꺼내 주십시오!",
+      "string_id": 2351,
+      "speaker_string_id": 2408,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T520-GAREK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "HRE02-T530-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapG2 Q",
+      "speaker": "가렉",
+      "text": "갇혔습니다! 움직일 수가 없어요!",
+      "string_id": 2352,
+      "speaker_string_id": 2409,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T530-GAREK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "HRE02-T540-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapL1 Q",
+      "speaker": "랜든",
+      "text": "가렉! 거미줄을 잘라 날 꺼내 주게!",
+      "string_id": 2353,
+      "speaker_string_id": 2410,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T540-LANDEN.ogg"
+    },
+    {
+      "n": 91,
+      "id": "HRE02-T550-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapL2 Q",
+      "speaker": "랜든",
+      "text": "갇혔다! 어서 꺼내 주게!",
+      "string_id": 2354,
+      "speaker_string_id": 2411,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T550-LANDEN.ogg"
+    },
+    {
+      "n": 92,
+      "id": "HRE02-T560-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Completed Q",
+      "speaker": "가렉",
+      "text": "사악한 짐승 같으니!",
+      "string_id": 2349,
+      "speaker_string_id": 2406,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T560-GAREK.ogg"
+    },
+    {
+      "n": 93,
+      "id": "HRE02-T570-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Completed Q",
+      "speaker": "랜든",
+      "text": "무리어미를 죽였으니, 무리도 흩어지겠지.",
+      "string_id": 2350,
+      "speaker_string_id": 2407,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T570-LANDEN.ogg"
+    },
+    {
+      "n": 94,
+      "id": "HRE02-T580-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot FlameZombies Q",
+      "speaker": "랜든",
+      "text": "이 무슨 사악한 요술이지?",
+      "string_id": 2318,
+      "speaker_string_id": 2390,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T580-LANDEN.ogg"
+    },
+    {
+      "n": 95,
+      "id": "HRE02-T590-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot FlameZombies Q",
+      "speaker": "가렉",
+      "text": "뭔지는 몰라도 이젠 끝이다!",
+      "string_id": 2319,
+      "speaker_string_id": 2391,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T590-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "HRE02-T600-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot RivendareAttacked Q",
+      "speaker": "가렉",
+      "text": "리븐데어! 죗값을 치러라!",
+      "string_id": 2321,
+      "speaker_string_id": 2392,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T600-GAREK.ogg"
+    },
+    {
+      "n": 97,
+      "id": "HRE02-T610-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot RivendareAttacked Q",
+      "speaker": "남작 리븐데어",
+      "text": "희생양이 제 발로 찾아왔구나!",
+      "string_id": 2322,
+      "speaker_string_id": 2323,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T610-RIVENDARE.ogg"
+    },
+    {
+      "n": 98,
+      "id": "HRE02-T630-GAREK",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission CaptainFallen Q",
+      "speaker": "가렉",
+      "text": "대장님... 죄송합니다...",
+      "string_id": 2335,
+      "speaker_string_id": 2398,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T630-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "HRE02-T640-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape FirstGate Q",
+      "speaker": "남작 리븐데어",
+      "text": "열심히 달아나 봐라, 쥐새끼야! 순식간에 잡아 주마!",
+      "string_id": 2336,
+      "speaker_string_id": 2399,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T640-RIVENDARE.ogg"
+    },
+    {
+      "n": 100,
+      "id": "HRE02-T650-GAREK",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape Debris Q",
+      "speaker": "가렉",
+      "text": "잔해로 놈의 길을 막아야겠어. 지지대를 쓰러뜨리면 되겠지.",
+      "string_id": 2337,
+      "speaker_string_id": 2400,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T650-GAREK.ogg"
+    },
+    {
+      "n": 101,
+      "id": "HRE02-T670-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape RivendareShout Q",
+      "speaker": "남작 리븐데어",
+      "text": "운명을 따돌릴 수는 없다. 온 로데론이 스컬지의 손에 떨어질 것이다!",
+      "string_id": 2338,
+      "speaker_string_id": 2401,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T670-RIVENDARE.ogg"
+    }
+  ]
+}

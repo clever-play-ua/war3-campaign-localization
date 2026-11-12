@@ -1,0 +1,48 @@
+{
+  "map": "UndeadRE02_01",
+  "title": "Forgotten Hollow",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2MU-T590-GAREK",
+      "scene": "Transmissions.Transmission Discover Alter",
+      "speaker": "가렉",
+      "text": "일종의 제단 같은데. 뭔가... 나를 부르는 것 같은...",
+      "string_id": 304,
+      "speaker_string_id": 305,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2MU-T591-GAREK",
+      "scene": "Transmissions.Transmission Garek Run End",
+      "speaker": "가렉",
+      "text": "꽤나... 특이한 경험이었군.",
+      "string_id": 307,
+      "speaker_string_id": 308,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T591-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2MU-T592-ANYA",
+      "scene": "Transmissions.Transmission Anya Run End",
+      "speaker": "안야",
+      "text": "뭘 기대했는지는 모르겠지만... 확실히 기대와는 달라.",
+      "string_id": 310,
+      "speaker_string_id": 309,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T592-ANYA.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2MU-T593-LEONID",
+      "scene": "Transmissions.Transmission Leonid Run End",
+      "speaker": "리어니드",
+      "text": "무슨 사악한 요술이었지?",
+      "string_id": 312,
+      "speaker_string_id": 311,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T593-LEONID.ogg"
+    }
+  ]
+}

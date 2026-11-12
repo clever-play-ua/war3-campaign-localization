@@ -1,0 +1,1001 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Initialization.Dialogue Reference": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2774,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M010-010-GAREK.ogg",
+                "dialogueId": 2773,
+                "animationLabel": "HRE03-M010-010-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2783,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-010-ILASTAR.ogg",
+                "dialogueId": 2782,
+                "animationLabel": "HRE03-M020-010-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2786,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-020-GAREK.ogg",
+                "dialogueId": 2785,
+                "animationLabel": "HRE03-M020-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2795,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-030-ILASTAR.ogg",
+                "dialogueId": 2794,
+                "animationLabel": "HRE03-M020-030-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2804,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-040-ILASTAR.ogg",
+                "dialogueId": 2803,
+                "animationLabel": "HRE03-M020-040-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2813,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-050-GAREK.ogg",
+                "dialogueId": 2812,
+                "animationLabel": "HRE03-M020-050-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2822,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-060-ILASTAR.ogg",
+                "dialogueId": 2821,
+                "animationLabel": "HRE03-M020-060-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2831,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M020-070-GAREK.ogg",
+                "dialogueId": 2830,
+                "animationLabel": "HRE03-M020-070-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2895,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-010-GAREK.ogg",
+                "dialogueId": 2894,
+                "animationLabel": "HRE03-M030-010-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2845,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-020-UTHER.ogg",
+                "dialogueId": 2844,
+                "animationLabel": "HRE03-M030-020-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2915,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-030-ILASTAR.ogg",
+                "dialogueId": 2914,
+                "animationLabel": "HRE03-M030-030-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2864,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-040-UTHER.ogg",
+                "dialogueId": 2863,
+                "animationLabel": "HRE03-M030-040-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2873,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-050-UTHER.ogg",
+                "dialogueId": 2872,
+                "animationLabel": "HRE03-M030-050-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2882,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M030-060-GAREK.ogg",
+                "dialogueId": 2881,
+                "animationLabel": "HRE03-M030-060-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 14,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2984,
+                "speakerUnitID": "Urfb",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-010-RAS.ogg",
+                "dialogueId": 2983,
+                "animationLabel": "HRE03-M040-010-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 15,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2985,
+                "speakerUnitID": "Urfb",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-020-RAS.ogg",
+                "dialogueId": 2986,
+                "animationLabel": "HRE03-M040-020-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 16,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2893,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-030-UTHER.ogg",
+                "dialogueId": 2892,
+                "animationLabel": "HRE03-M040-030-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 17,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2904,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-040-GAREK.ogg",
+                "dialogueId": 2903,
+                "animationLabel": "HRE03-M040-040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 18,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2913,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-050-UTHER.ogg",
+                "dialogueId": 2912,
+                "animationLabel": "HRE03-M040-050-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 19,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2924,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-060-GAREK.ogg",
+                "dialogueId": 2923,
+                "animationLabel": "HRE03-M040-060-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 20,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2933,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-070-ILASTAR.ogg",
+                "dialogueId": 2932,
+                "animationLabel": "HRE03-M040-070-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 21,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2964,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-M040-080-GAREK.ogg",
+                "dialogueId": 2963,
+                "animationLabel": "HRE03-M040-080-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cinematic 04 - Ras Frostwhisper.Cinematic 04 Play Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2665,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T350-RAS.ogg",
+                "dialogueId": 2664,
+                "animationLabel": "HRE03-T350-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Optional Quest - Cleanse The Countryside.Optional Quest Cleanse Discover Event Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2575,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T160-GAREK.ogg",
+                "dialogueId": 2574,
+                "animationLabel": "HRE03-T160-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2581,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T170-ILASTAR.ogg",
+                "dialogueId": 2580,
+                "animationLabel": "HRE03-T170-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Optional Quest - Reinforcements.Optional Quest Reinforce Discover Event Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2659,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T340-GAREK.ogg",
+                "dialogueId": 2658,
+                "animationLabel": "HRE03-T340-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Optional Quest - Destroy The Plague Cauldrons.Optional Quest PCauldrons Discover Event Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2681,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T330-ILASTAR.ogg",
+                "dialogueId": 2674,
+                "animationLabel": "HRE03-T330-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Footman Rescue 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2762,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanWhat3.flac",
+                "dialogueId": 2761,
+                "animationLabel": "FootmanWhat3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Rifleman Rescue 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Rifleman\\Rifleman.mdl",
+                "speakerNameId": 2752,
+                "speakerUnitID": "hrif",
+                "soundFile": "Units/Human/Rifleman/RiflemanWhat3.flac",
+                "dialogueId": 2751,
+                "animationLabel": "RiflemanWhat3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Rifleman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Rifleman Rescue 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Rifleman\\Rifleman.mdl",
+                "speakerNameId": 2754,
+                "speakerUnitID": "hrif",
+                "soundFile": "Units/Human/Rifleman/RiflemanWhat1.flac",
+                "dialogueId": 2753,
+                "animationLabel": "RiflemanWhat1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Rifleman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Footman Rescue 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2756,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanWarcry1.flac",
+                "dialogueId": 2755,
+                "animationLabel": "FootmanWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Footman Rescue 03 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2758,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanYesAttack3.flac",
+                "dialogueId": 2757,
+                "animationLabel": "FootmanYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Priest Rescue 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Priest\\Priest_V1.mdl",
+                "speakerNameId": 2766,
+                "speakerUnitID": "hmpr",
+                "soundFile": "Units/Human/Priest/PriestWhat3.flac",
+                "dialogueId": 2765,
+                "animationLabel": "PriestWhat3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Priest_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Priest Rescue 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Priest\\Priest_V1.mdl",
+                "speakerNameId": 2760,
+                "speakerUnitID": "hmpr",
+                "soundFile": "Units/Human/Priest/PriestYes1.flac",
+                "dialogueId": 2759,
+                "animationLabel": "PriestYes1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Priest_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages Peasant Rescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Peasant\\Peasant.mdl",
+                "speakerNameId": 2768,
+                "speakerUnitID": "hpea",
+                "soundFile": "Units/Human/Peasant/PeasantWhat3.flac",
+                "dialogueId": 2767,
+                "animationLabel": "PeasantWhat3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Peasant.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages PoI Gunshop Approach Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Peasant\\Peasant.mdl",
+                "speakerNameId": 2750,
+                "speakerUnitID": "hpea",
+                "soundFile": "war3mapImported/PeasantHelp.ogg",
+                "dialogueId": 2749,
+                "animationLabel": "PeasantHelp",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Peasant.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages PoI Fair Approach Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Peasant\\Peasant.mdl",
+                "speakerNameId": 2750,
+                "speakerUnitID": "hpea",
+                "soundFile": "war3mapImported/PeasantHelp.ogg",
+                "dialogueId": 2749,
+                "animationLabel": "PeasantHelp",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Peasant.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages PoI Blacksmith Approach Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Peasant\\Peasant.mdl",
+                "speakerNameId": 2750,
+                "speakerUnitID": "hpea",
+                "soundFile": "war3mapImported/PeasantHelp.ogg",
+                "dialogueId": 2749,
+                "animationLabel": "PeasantHelp",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Peasant.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Cages.Cages PoI Sanctuary Approach Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Peasant\\Peasant.mdl",
+                "speakerNameId": 2750,
+                "speakerUnitID": "hpea",
+                "soundFile": "war3mapImported/PeasantHelp.ogg",
+                "dialogueId": 2749,
+                "animationLabel": "PeasantHelp",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Peasant.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "User Base Start.User Base Start Fight Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2512,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T020-GAREK.ogg",
+                "dialogueId": 2511,
+                "animationLabel": "HRE03-T020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2516,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T010-ILASTAR.ogg",
+                "dialogueId": 2515,
+                "animationLabel": "HRE03-T010-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "User Base Start.User Base Start Paesant Rescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2523,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T030-ILASTAR.ogg",
+                "dialogueId": 2522,
+                "animationLabel": "HRE03-T030-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Plague Cauldrons.Plague Cauldrons Countryiside Defeated Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2587,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T180-ILASTAR.ogg",
+                "dialogueId": 2586,
+                "animationLabel": "HRE03-T180-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Encounters.Encounters Assassins Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\CultAssassin\\Cult_Assassin.mdl",
+                "speakerNameId": 2981,
+                "speakerUnitID": "uass",
+                "soundFile": "Units/Creeps/Bandit/BanditWarcry1.flac",
+                "dialogueId": 2982,
+                "animationLabel": "BanditWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Cult_Assassin.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Enter Andorhal Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2737,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T280-GAREK.ogg",
+                "dialogueId": 2713,
+                "animationLabel": "HRE03-T280-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2686,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T040-GAREK.ogg",
+                "dialogueId": 2685,
+                "animationLabel": "HRE03-T040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2694,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T050-ILASTAR.ogg",
+                "dialogueId": 2693,
+                "animationLabel": "HRE03-T050-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Approach Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2527,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T060-ILASTAR.ogg",
+                "dialogueId": 2526,
+                "animationLabel": "HRE03-T060-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2531,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T070-GAREK.ogg",
+                "dialogueId": 2530,
+                "animationLabel": "HRE03-T070-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Blacksmith Retrieved Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2535,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T080-ILASTAR.ogg",
+                "dialogueId": 2534,
+                "animationLabel": "HRE03-T080-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2540,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T090-GAREK.ogg",
+                "dialogueId": 2539,
+                "animationLabel": "HRE03-T090-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Fair Retrieved Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2546,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T120-ILASTAR.ogg",
+                "dialogueId": 2545,
+                "animationLabel": "HRE03-T120-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2550,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T130-GAREK.ogg",
+                "dialogueId": 2549,
+                "animationLabel": "HRE03-T130-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Sanctuary Retrieved Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2554,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T100-ILASTAR.ogg",
+                "dialogueId": 2553,
+                "animationLabel": "HRE03-T100-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2560,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T110-GAREK.ogg",
+                "dialogueId": 2559,
+                "animationLabel": "HRE03-T110-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Point of Interest.Point of Interest Gunshop Retrieved Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 2562,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T140-ILASTAR.ogg",
+                "dialogueId": 2561,
+                "animationLabel": "HRE03-T140-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2569,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T150-GAREK.ogg",
+                "dialogueId": 2568,
+                "animationLabel": "HRE03-T150-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ras.Ras Countryside Spawn Dialogue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2593,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T190-RAS.ogg",
+                "dialogueId": 2592,
+                "animationLabel": "HRE03-T190-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ras.Ras Countryside Ras Dies Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2696,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T270-RAS.ogg",
+                "dialogueId": 2695,
+                "animationLabel": "HRE03-T270-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2621,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T260-RAS.ogg",
+                "dialogueId": 2620,
+                "animationLabel": "HRE03-T260-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2628,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T250-RAS.ogg",
+                "dialogueId": 2627,
+                "animationLabel": "HRE03-T250-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2706,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T240-RAS.ogg",
+                "dialogueId": 2705,
+                "animationLabel": "HRE03-T240-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ras Taunts.Ras Countryside Taunt 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2636,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T200-RAS.ogg",
+                "dialogueId": 2635,
+                "animationLabel": "HRE03-T200-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ras Taunts.Ras Countryside Taunt 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2642,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T210-RAS.ogg",
+                "dialogueId": 2641,
+                "animationLabel": "HRE03-T210-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ras Taunts.Ras Countryside Taunt 03 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2648,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T220-RAS.ogg",
+                "dialogueId": 2647,
+                "animationLabel": "HRE03-T220-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ras Bossfight.Ras Bossfight Half Life Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\RasHumanMounted\\RasHumanMounted.mdl",
+                "speakerNameId": 2671,
+                "speakerUnitID": "Urfw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T230-RAS.ogg",
+                "dialogueId": 2670,
+                "animationLabel": "HRE03-T230-RAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/RasHumanMounted.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 3026,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T290-ILASTAR.ogg",
+                "dialogueId": 3025,
+                "animationLabel": "HRE03-T290-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3027,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T300-GAREK.ogg",
+                "dialogueId": 3028,
+                "animationLabel": "HRE03-T300-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Group 01 Defeated Cult Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2756,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanWarcry1.flac",
+                "dialogueId": 2755,
+                "animationLabel": "FootmanWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Group 02 Defeated Cult Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Militia\\Militia.mdl",
+                "speakerNameId": 2979,
+                "speakerUnitID": "hmil",
+                "soundFile": "Units/Human/Peasant/PeasantYesAttack3.flac",
+                "dialogueId": 2980,
+                "animationLabel": "PeasantYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Militia.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Group 03 Defeated Cult Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2758,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanYesAttack3.flac",
+                "dialogueId": 2757,
+                "animationLabel": "FootmanYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Group 04 Defeated Cult Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Militia\\Militia.mdl",
+                "speakerNameId": 2979,
+                "speakerUnitID": "hmil",
+                "soundFile": "Units/Human/Peasant/PeasantYesAttack3.flac",
+                "dialogueId": 2980,
+                "animationLabel": "PeasantYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Militia.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Group 05 Defeated Cult Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2756,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanWarcry1.flac",
+                "dialogueId": 2755,
+                "animationLabel": "FootmanWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Regional Defenders.Regional Defenders Group 06 Defeated Cult Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 2758,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Units/Human/Footman/FootmanYesAttack3.flac",
+                "dialogueId": 2757,
+                "animationLabel": "FootmanYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Villagers.Villagers Discover Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Ilastar\\Ilastar.mdl",
+                "speakerNameId": 3030,
+                "speakerUnitID": "Hjsm",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T310-ILASTAR.ogg",
+                "dialogueId": 3029,
+                "animationLabel": "HRE03-T310-ILASTAR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Ilastar.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3032,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human03re/HRE03-T320-GAREK.ogg",
+                "dialogueId": 3031,
+                "animationLabel": "HRE03-T320-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE03/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

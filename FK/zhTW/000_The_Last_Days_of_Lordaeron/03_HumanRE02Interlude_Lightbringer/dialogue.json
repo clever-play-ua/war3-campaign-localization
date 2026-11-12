@@ -1,0 +1,100 @@
+{
+  "map": "HumanRE02Interlude",
+  "title": "Lightbringer",
+  "locale": "zhTW",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02I-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "烏瑟大人！你對抗阿薩斯王子了嗎？",
+      "string_id": 61,
+      "speaker_string_id": 62,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02I-M010-020-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "烏瑟",
+      "text": "沒有。我為泰瑞納斯的遺體祝禱的時候，阿薩斯已經出城了。",
+      "string_id": 58,
+      "speaker_string_id": 59,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-020-UTHER.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02I-M010-023-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "烏瑟",
+      "text": "你的隊長沒有和你同行。難道他…",
+      "string_id": 105,
+      "speaker_string_id": 106,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-023-UTHER.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02I-M010-025-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "他被叛徒瑞文戴爾殺死了！ 要不是因為蘭登隊長，我也難逃一死。",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.25 easein=0.45 easeout=0.55]他被叛徒瑞文戴爾殺死了！[/\"Angry\"] [\"Sad\" type=quad v2=0.25 v3=0.5 easein=0.55 easeout=0.45]要不是因為蘭登隊長，我也難逃一死。[/\"Sad\"]",
+      "string_id": 107,
+      "speaker_string_id": 108,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-025-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02I-M010-028-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "烏瑟",
+      "text": "副官，我深感哀慟。我們絕不能讓他的犧牲白費。",
+      "raw": "[\"Sad\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]副官，我深感哀慟。我們絕不能讓他的犧牲白費。[/\"Sad\"]",
+      "string_id": 109,
+      "speaker_string_id": 110,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-028-UTHER.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02I-M010-030-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "烏瑟",
+      "text": "可惜的是安多哈爾遭到邪教徒和死靈法師圍攻，我們沒有足夠的兵力突圍。",
+      "string_id": 103,
+      "speaker_string_id": 104,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-030-UTHER.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02I-M010-040-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "烏瑟",
+      "text": "我要帶領倖存者前往壁爐谷並召集援軍。你留在這裡抵擋邪教徒，等我回來。",
+      "string_id": 82,
+      "speaker_string_id": 83,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-040-UTHER.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02I-M010-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "加瑞克",
+      "text": "遵命，長官。",
+      "string_id": 84,
+      "speaker_string_id": 85,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-050-GAREK.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02I-M010-060-UTHER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "烏瑟",
+      "text": "絕不能讓邪教徒佔領安多哈爾。願聖光指引你明路。",
+      "string_id": 88,
+      "speaker_string_id": 89,
+      "sound": "Sound/Dialogue/HumanRECamp/human02reInterlude/HRE02I-M010-060-UTHER.ogg"
+    }
+  ]
+}

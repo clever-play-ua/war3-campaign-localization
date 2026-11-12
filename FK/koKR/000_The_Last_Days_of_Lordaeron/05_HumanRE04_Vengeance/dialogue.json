@@ -1,0 +1,774 @@
+{
+  "map": "HumanRE04",
+  "title": "Vengeance",
+  "locale": "koKR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE04-M010-010-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "아서스가 지나간 흔적을 보십시오. 얼마나 많은 도시를 더 불태우려는 걸까요? 얼마나 많은 목숨을 더 빼앗을까요?",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]아서스가 지나간 흔적을 보십시오. 얼마나 많은 도시를 더 불태우려는 걸까요? 얼마나 많은 목숨을 더 빼앗을까요?[/\"Surprised\"]",
+      "string_id": 1030,
+      "speaker_string_id": 1031,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-010-ILASTAR.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE04-M010-020-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "모두 리븐데어의 계략이다. 지금 이곳에서 놈을 끝장내야 해.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]모두 리븐데어의 계략이다. 지금 이곳에서 놈을 끝장내야 해.[/\"Angry\"]",
+      "string_id": 1033,
+      "speaker_string_id": 1034,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-020-GAREK.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE04-M010-030-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "물론입니다. 도시는 잘 요새화되어 있겠지만, 제가 옆문으로 들어가 창살문을 올릴 수 있습니다.",
+      "string_id": 1036,
+      "speaker_string_id": 1037,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-030-ILASTAR.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE04-M010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "좋은 계획이군. 우리가 다시 합류할 때까지 몸조심하도록.",
+      "string_id": 1103,
+      "speaker_string_id": 1104,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE04-M010-050-ILASTAR",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "일라스타",
+      "text": "당신도 마찬가지입니다, 가렉. 빛의 그대의 검을 인도하기를.",
+      "string_id": 1042,
+      "speaker_string_id": 1043,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M010-050-ILASTAR.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE04-M030-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "리븐데어! 죽음으로 죗값을 치를 것이다!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]리븐데어! 죽음으로 죗값을 치를 것이다![/\"Angry\"]",
+      "string_id": 1046,
+      "speaker_string_id": 1047,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-010-GAREK.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE04-M030-020-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "남작 리븐데어",
+      "text": "죽음이라? 죽음을 알기나 하나?",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]죽음이라? 죽음을 알기나 하나?[/\"Happy\"]",
+      "string_id": 1054,
+      "speaker_string_id": 1055,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-020-RIVENDARE.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE04-M030-030-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "남작 리븐데어",
+      "text": "나는 죽음의 진정한 힘을 보았고 사용했다! 리치 왕께서 나를 너처럼 어리석고 나약한 자보다 드높이셨으니!",
+      "string_id": 1056,
+      "speaker_string_id": 1057,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-030-RIVENDARE.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE04-M030-040-RIVENDARE",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "남작 리븐데어",
+      "text": "이제 목이 터져라 비명을 지르게 해주마! 네놈 상관이 그랬듯 말이다!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]이제 목이 터져라 비명을 지르게 해주마! 네놈 상관이 그랬듯 말이다![/\"Angry\"]",
+      "string_id": 1058,
+      "speaker_string_id": 1059,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-040-RIVENDARE.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE04-M030-050-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "가렉",
+      "text": "감히 그 이름을 입에 올리지 마라! 더러운 벌레 자식, 죽여 주마! 랜든을 위하여!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]감히 그 이름을 입에 올리지 마라! 더러운 벌레 자식, 죽여 주마! 랜든을 위하여![/\"Angry\"]",
+      "string_id": 1052,
+      "speaker_string_id": 1053,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-M030-050-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE04-T010-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance GrainShipments Q",
+      "speaker": "가렉",
+      "text": "역병에 오염된 곡물 상자다. 리븐데어가 \n백성들을 이렇게 파멸에 빠뜨렸군.",
+      "string_id": 1233,
+      "speaker_string_id": 1234,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T010-GAREK.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE04-T020-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance InnerGate Q",
+      "speaker": "가렉",
+      "text": "문이 잠겼다. 일라스타가 열어줄 때까지 기다려야 해.",
+      "string_id": 1235,
+      "speaker_string_id": 1236,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T020-GAREK.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE04-T030-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ramparts Alonsus Chapel",
+      "speaker": "일라스타",
+      "text": "알론서스 교회입니다. 교단 놈들이 대체 어떤 신성모독을 저지른 걸까요?",
+      "string_id": 1329,
+      "speaker_string_id": 1330,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T030-ILASTAR.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE04-T040-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance HouseZombies1 Q",
+      "speaker": "일라스타",
+      "text": "길이 열렸군. 나는 여기 남아 정찰하겠다.",
+      "string_id": 1340,
+      "speaker_string_id": 1341,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T040-ILASTAR.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE04-T050-MORTARTEAM",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance MortarTeam Rescue Q",
+      "speaker": "박격포 부대",
+      "text": "살아... 있잖아? 빛이시여, 감사합니다! 몇 주 동안이나 스컬지에게 포위되어 있었다니까요!",
+      "string_id": 1216,
+      "speaker_string_id": 1217,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T050-MORTARTEAM.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE04-T060-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ramparts AttackedBySpiritTower Q",
+      "speaker": "일라스타",
+      "text": "혼자서는 맞설 수 없어. 가렉의 박격포 부대가 원거리에서 지원할 수 있겠지.",
+      "string_id": 1109,
+      "speaker_string_id": 1177,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T060-ILASTAR.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE04-T070-ILASTAR",
+      "scene": "TRANSMISSIONS.Plague Mushrooms.Transmission Mush Discover Q",
+      "speaker": "일라스타",
+      "text": "빛이시여! 저 버섯에서 뿜어져 나오는 포자가 역병을 퍼뜨리고 있습니다. 자라게 둬서는 안 됩니다!",
+      "string_id": 1163,
+      "speaker_string_id": 1211,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T070-ILASTAR.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE04-T080-ILASTAR",
+      "scene": "TRANSMISSIONS.Plague Mushrooms.Transmission Mush Completed Q",
+      "speaker": "일라스타",
+      "text": "역겨운 포자가 멸망한 도시의 잿더미에 질식하도록 둡시다.",
+      "string_id": 1164,
+      "speaker_string_id": 1212,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T080-ILASTAR.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE04-T090-RIFLEMAN",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ramparts RiflemenBarricades Q",
+      "speaker": "소총병",
+      "text": "증원이다! 조금만 더 버티면 된다고 했지!",
+      "string_id": 1239,
+      "speaker_string_id": 1240,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T090-RIFLEMAN.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE04-T100-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance CryptAttacked Q",
+      "speaker": "가렉",
+      "text": "순식간에 끝장나기 전에 납골당을 집중 공격해라!",
+      "string_id": 1107,
+      "speaker_string_id": 1176,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T100-GAREK.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE04-T110-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance HeroesAtGate Q",
+      "speaker": "가렉",
+      "text": "일라스타, 좀 어떻지?",
+      "string_id": 1467,
+      "speaker_string_id": 1451,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T110-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE04-T120-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Entrance HeroesAtGate Q",
+      "speaker": "일라스타",
+      "text": "괜찮습니다. 이 위에서 최대한 치유해 드리겠습니다.",
+      "string_id": 1469,
+      "speaker_string_id": 1470,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T120-ILASTAR.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE04-T130-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "키린 토의 겁 많은 마법학자들은 내 재능과 야망을 일축했지. 허나 리치 왕께서는 보상을 내리실 것이다!",
+      "string_id": 1381,
+      "speaker_string_id": 1382,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T130-RAS.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE04-T140-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "이제 이 끔찍한 살과 피를 버리니, 불사의 불멸성을 받아들이노라!",
+      "string_id": 1417,
+      "speaker_string_id": 1418,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T140-RAS.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE04-T150-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "보라! 완벽한 형상과 힘으로 다시 태어났노라!",
+      "string_id": 1430,
+      "speaker_string_id": 1431,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T150-RAS.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE04-T160-RAS",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "리어니드! 내 학생들에게는 원하는 대로 하라 전해라. 이제 더욱 위대한 운명이 나를 기다린다!",
+      "string_id": 1448,
+      "speaker_string_id": 1449,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T160-RAS.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE04-T170-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Q1",
+      "speaker": "가렉",
+      "text": "문이 여전히 닫혀 있군. 근처에 두 번째 지렛대가 있을 텐데.",
+      "string_id": 1113,
+      "speaker_string_id": 1178,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T170-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE04-T180-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Q2",
+      "speaker": "일라스타",
+      "text": "문은 여전히 닫혀 있군요. 다른 지렛대가 있을 텐데요.",
+      "string_id": 1249,
+      "speaker_string_id": 1250,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T180-ILASTAR.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE04-T200-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Real Ilastar Q",
+      "speaker": "가렉",
+      "text": "문이 열렸다! 프로스트위스퍼에서 정의의 칼날 맛을 보여 주자!",
+      "string_id": 1335,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T200-GAREK.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE04-T200-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Ras Gate Open Real Garek Q",
+      "speaker": "가렉",
+      "text": "문이 열렸다! 프로스트위스퍼에서 정의의 칼날 맛을 보여 주자!",
+      "string_id": 1335,
+      "speaker_string_id": 1336,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T200-GAREK.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE04-T210-RAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Ras Attacked Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "아, 아직 매질이 모자란가? 이번에는 산 채로 껍질을 벗겨 주마!",
+      "string_id": 1265,
+      "speaker_string_id": 1266,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T210-RAS.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE04-T220-RAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Ras Dies Q",
+      "speaker": "라스 프로스트위스퍼",
+      "text": "날 그리 쉽게 처치할 수는 없다, 필멸자들이여. 우린 다시 만나게 될 거다.",
+      "string_id": 1269,
+      "speaker_string_id": 1270,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T220-RAS.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE04-T230-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Ras Dies Q",
+      "speaker": "가렉",
+      "text": "그놈 따위 잊어버려라. 우리의 진정한 목표는 리븐데어야.",
+      "string_id": 1153,
+      "speaker_string_id": 1209,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T230-GAREK.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE04-T240-CIVILIANM",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved1 Q NOT USED",
+      "speaker": "시민",
+      "text": "절 구해주셨군요! 여기서 빠져나가야겠어요!",
+      "string_id": 1471,
+      "speaker_string_id": 1452,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T240-CIVILIANM.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE04-T270-CIVILIANF",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved2 Q NOT USED",
+      "speaker": "시민",
+      "text": "감사합니다, 나으리! 저기서 죽는 줄 알았어요! 더 심한 꼴을 당하든가!",
+      "string_id": 1472,
+      "speaker_string_id": 1453,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T270-CIVILIANF.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE04-T290-CIVILIANF",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CivilianSaved3 Q NOT USED",
+      "speaker": "시민",
+      "text": "설마! 악몽이 끝난 건가요? 어떻게 감사를 표해야 할지!",
+      "string_id": 1473,
+      "speaker_string_id": 1454,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T290-CIVILIANF.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE04-T400-GAREK",
+      "scene": "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Discover Q",
+      "speaker": "가렉",
+      "text": "일부는 바다를 통해 스트라솔름에서 달아나려 한 것 같군요. 교단이 배를 가라앉혔고요.",
+      "string_id": 1165,
+      "speaker_string_id": 1213,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T400-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE04-T410-ILASTAR",
+      "scene": "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Discover Q",
+      "speaker": "일라스타",
+      "text": "보급품을 회수해야 한다. 전투에 도움이 될 거야.",
+      "string_id": 1166,
+      "speaker_string_id": 1214,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T410-ILASTAR.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE04-T420-GAREK",
+      "scene": "TRANSMISSIONS.Harbor Salvage.Transmission Harbor Completed Q",
+      "speaker": "가렉",
+      "text": "이 정도면 보급품은 충분하겠지. 육지로 돌아가자.",
+      "string_id": 1167,
+      "speaker_string_id": 1215,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T420-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE04-T430-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage ZombieHorde Q",
+      "speaker": "일라스타",
+      "text": "거리에 언데드가 우글거립니다. 최대한 피하는 게 좋겠군요.",
+      "string_id": 1251,
+      "speaker_string_id": 1252,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T430-ILASTAR.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE04-T440-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage ZombieHordeAttack Q",
+      "speaker": "가렉",
+      "text": "온다! 전투 준비!",
+      "string_id": 1117,
+      "speaker_string_id": 1181,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T440-GAREK.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE04-T450-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderGate Locked Q",
+      "speaker": "가렉",
+      "text": "문이 잠겼다. 열쇠 없이는 지날 수 없어.",
+      "string_id": 1119,
+      "speaker_string_id": 1182,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T450-GAREK.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE04-T460-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderGate Enter Q",
+      "speaker": "가렉",
+      "text": "성전사 광장으로 가는 길이 열렸다. 리븐데어도 영원히 숨어 있을 수는 없겠지.",
+      "string_id": 1121,
+      "speaker_string_id": 1183,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T460-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE04-T470-CIVILIANF",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage ThereWasADemon Q NOT USED",
+      "speaker": "가렉",
+      "text": "악마였어요! 날개에, 뿔에, 갈라진 발굽까지!",
+      "string_id": 1474,
+      "speaker_string_id": 1455,
+      "sound": "Sound/Dialogue/HumanRECamp/Human04re/HRE04-T470-CIVILIANF.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE04-T480-LORTHIRAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Lorthiras Attacked Q",
+      "speaker": "로시라스",
+      "text": "네 고통은 아주 각별할 것이다.",
+      "string_id": 1305,
+      "speaker_string_id": 1306,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T480-LORTHIRAS.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE04-T490-LORTHIRAS",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Lorthiras Dies Q",
+      "speaker": "로시라스",
+      "text": "아직 끝이 아니다, 하찮은 필멸자들이여.",
+      "string_id": 1307,
+      "speaker_string_id": 1308,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T490-LORTHIRAS.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE04-T500-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderSquareProper Gate Enter Q",
+      "speaker": "가렉",
+      "text": "스트라솔름은 로데론에서도 가장 큰 도시였다. 리븐데어가 이런 도시를 언데드에게 넘겨 버리다니!",
+      "string_id": 1122,
+      "speaker_string_id": 1184,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T500-GAREK.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE04-T510-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage CrusaderSquareProper Gate Enter Q",
+      "speaker": "일라스타",
+      "text": "스컬지에게 영혼을 팔아넘긴 수많은 자들 중 하나일 뿐입니다. 모조리 성스러운 불에 타버릴 테지요.",
+      "string_id": 1124,
+      "speaker_string_id": 1185,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T510-ILASTAR.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE04-T520-KNIGHT",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper KnightsRescue Q",
+      "speaker": "기사",
+      "text": "생존자가 더 있다! 전선을 사수해라!",
+      "string_id": 1128,
+      "speaker_string_id": 1129,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T520-KNIGHT.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE04-T530-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage TrapGate Enter Q",
+      "speaker": "가렉",
+      "text": "제기랄, 병력이 흩어졌다. 문을 여는 지렛대를 찾아야 해.",
+      "string_id": 1125,
+      "speaker_string_id": 1186,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T530-GAREK.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE04-T540-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Passage TrapGate LeverKill Q",
+      "speaker": "가렉",
+      "text": "재집결해 전진하자.",
+      "string_id": 1126,
+      "speaker_string_id": 1187,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T540-GAREK.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE04-T550-CIVILIAN",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileMeet Q NOT USED",
+      "speaker": "시민",
+      "text": "갇혔어요! 제발 도와주세요!",
+      "string_id": 1475,
+      "speaker_string_id": 1456,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T550-CIVILIAN.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE04-T560-CIVILIAN",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileConvert Q NOT USED",
+      "speaker": "시민",
+      "text": "로데론에 죽음을!",
+      "string_id": 1476,
+      "speaker_string_id": 1457,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T560-CIVILIAN.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE04-T570-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Upper CiviliansHostileSlain Q NOT USED",
+      "speaker": "가렉",
+      "text": "이것이 모든 교단원의 운명이지.",
+      "string_id": 1477,
+      "speaker_string_id": 1458,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T570-GAREK.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE04-T580-GRIMTHANE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Skeletons Attacked Q",
+      "speaker": "그림세인",
+      "text": "네놈들의 뼈는 스컬지의 양식이 되리라.",
+      "string_id": 1297,
+      "speaker_string_id": 1298,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T580-GRIMTHANE.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE04-T590-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Skeletons Dead Q",
+      "speaker": "가렉",
+      "text": "이제 뼈가 되어 합류해라.",
+      "string_id": 1303,
+      "speaker_string_id": 1304,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T590-GAREK.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE04-T600-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterGate Q",
+      "speaker": "일라스타",
+      "text": "리븐데어가 군림하는 불경한 탑입니다.",
+      "string_id": 1130,
+      "speaker_string_id": 1188,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T600-ILASTAR.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE04-T610-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterGate Q",
+      "speaker": "가렉",
+      "text": "베어넘긴 다음 난간에서 던져 버릴 테다.",
+      "string_id": 1131,
+      "speaker_string_id": 1189,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T610-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE04-T620-ILASTAR",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q",
+      "speaker": "일라스타",
+      "text": "가렉, 도시 곳곳에 아직 생존자가 있을지도 모릅니다.",
+      "string_id": 1132,
+      "speaker_string_id": 1190,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T620-ILASTAR.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE04-T630-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q",
+      "speaker": "가렉",
+      "text": "병사들이 계속해서 구조가 필요한 주민들을 수색할 수 있다.",
+      "string_id": 1134,
+      "speaker_string_id": 1191,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T630-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE04-T640-GAREK",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Baron Slaughterhouse EnterSlaughterhouse Q",
+      "speaker": "가렉",
+      "text": "일을 마치면 하스글렌에서 재집결하도록 하지. 지금은 리븐데어에게 정의의 심판을 내려야 한다.",
+      "string_id": 1136,
+      "speaker_string_id": 1208,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T640-GAREK.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE04-T650-RIVENDARE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Start Q",
+      "speaker": "남작 리븐데어",
+      "text": "모두 나를 섬기리라!",
+      "string_id": 1295,
+      "speaker_string_id": 1296,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T650-RIVENDARE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE04-T660-RIVENDARE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Endless Q",
+      "speaker": "남작 리븐데어",
+      "text": "스컬지의 수는 무량하다! 네놈들 피에 빠져 죽을 것이야!",
+      "string_id": 1479,
+      "speaker_string_id": 1460,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T660-RIVENDARE.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE04-T670-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Gas Q",
+      "speaker": "가렉",
+      "text": "이게... 뭐지? 폐에 들어찼어...",
+      "string_id": 1480,
+      "speaker_string_id": 1461,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T670-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE04-T680-ILASTAR",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Gas Q",
+      "speaker": "일라스타",
+      "text": "역병 포자입니다... 감... 염된 겁니다...",
+      "string_id": 1481,
+      "speaker_string_id": 1462,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T680-ILASTAR.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE04-T690-RIVENDARE",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Obelisks Q",
+      "speaker": "남작 리븐데어",
+      "text": "귀찮은 벌레 놈들! 진정한 힘을 보아라!",
+      "string_id": 1482,
+      "speaker_string_id": 1463,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T690-RIVENDARE.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE04-T700-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Obelisks Q",
+      "speaker": "가렉",
+      "text": "일라스타, 첨탑을! 첨탑을 파괴해라!",
+      "string_id": 1483,
+      "speaker_string_id": 1464,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T700-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE04-T710-ILASTAR",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Cant Q NOT USED",
+      "speaker": "일라스타",
+      "text": "못... 하겠습니다...",
+      "string_id": 1484,
+      "speaker_string_id": 1465,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T710-ILASTAR.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE04-T720-GAREK",
+      "scene": "TRANSMISSIONS.Boss.Transmission Boss Rivendare Cant Q NOT USED",
+      "speaker": "가렉",
+      "text": "버텨라, 일라스타!",
+      "string_id": 1485,
+      "speaker_string_id": 1466,
+      "sound": "Sound/Dialogue/HumanRECamp/human04re/HRE04-T720-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "FootmanWarcry1",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Captured 01 Rescue Rack Q",
+      "speaker": "보병",
+      "text": "로데론을 위하여!",
+      "string_id": 1478,
+      "speaker_string_id": 1459,
+      "sound": "Units/Human/Footman/FootmanWarcry1.ogg"
+    },
+    {
+      "n": 71,
+      "id": "FootmanYesAttack3",
+      "scene": "TRANSMISSIONS.The Baron.Transmission Captured 04 Rescue Rack Q",
+      "speaker": "보병",
+      "text": "전투 태세로!",
+      "string_id": 1257,
+      "speaker_string_id": 1258,
+      "sound": "Units/Human/Footman/FootmanYesAttack3.flac"
+    },
+    {
+      "n": 72,
+      "id": "SorceressYesAttack2",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedSorceress Q",
+      "speaker": "여마술사",
+      "text": "이제 승리는 우리 차지예요!",
+      "string_id": 1259,
+      "speaker_string_id": 1260,
+      "sound": "Units/Human/Sorceress/SorceressYesAttack2.flac"
+    },
+    {
+      "n": 73,
+      "id": "FootmanPissed4",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedFootman Q",
+      "speaker": "보병",
+      "text": "살짝 긁혔을 뿐입니다...",
+      "string_id": 1139,
+      "speaker_string_id": 1140,
+      "sound": "Units/Human/Footman/FootmanPissed4.flac"
+    },
+    {
+      "n": 74,
+      "id": "PriestReady1",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedPriest Q",
+      "speaker": "사제",
+      "text": "이 땅을 정화하러 왔노라.",
+      "string_id": 1142,
+      "speaker_string_id": 1143,
+      "sound": "Units/Human/Priest/PriestReady1.flac"
+    },
+    {
+      "n": 75,
+      "id": "RiflemanReady1",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedRifleman Q",
+      "speaker": "소총병",
+      "text": "장전 완료!",
+      "string_id": 1144,
+      "speaker_string_id": 1145,
+      "sound": "Units/Human/Rifleman/RiflemanReady1.flac"
+    },
+    {
+      "n": 76,
+      "id": "MortarTeamWhat1",
+      "scene": "TRANSMISSIONS.Rescued Units.Transmission Baron Ramparts CagedMotarTeam Q",
+      "speaker": "박격포 부대",
+      "text": "당장 싸우러 가시죠!",
+      "string_id": 1146,
+      "speaker_string_id": 1147,
+      "sound": "Units/Human/MortarTeam/MortarTeamWhat1.flac"
+    }
+  ]
+}

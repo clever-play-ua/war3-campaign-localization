@@ -1,0 +1,663 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Initialization.Dialogue Reference": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1695,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-010-SYLVANAS.ogg",
+                "dialogueId": 1694,
+                "animationLabel": "A3M1-C010-010-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1697,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-020-GAREK.ogg",
+                "dialogueId": 1696,
+                "animationLabel": "A3M1-C010-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1699,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-030-SYLVANAS.ogg",
+                "dialogueId": 1698,
+                "animationLabel": "A3M1-C010-030-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1701,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-040-SYLVANAS.ogg",
+                "dialogueId": 1700,
+                "animationLabel": "A3M1-C010-040-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1703,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-050-SYLVANAS.ogg",
+                "dialogueId": 1702,
+                "animationLabel": "A3M1-C010-050-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1705,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-060-SYLVANAS.ogg",
+                "dialogueId": 1704,
+                "animationLabel": "A3M1-C010-060-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1707,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-070-GAREK.ogg",
+                "dialogueId": 1706,
+                "animationLabel": "A3M1-C010-070-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 1709,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-080-ANYA.ogg",
+                "dialogueId": 1708,
+                "animationLabel": "A3M1-C010-080-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1711,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C010-090-SYLVANAS.ogg",
+                "dialogueId": 1710,
+                "animationLabel": "A3M1-C010-090-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1713,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-010-SYLVANAS.ogg",
+                "dialogueId": 1712,
+                "animationLabel": "A3M1-C020-010-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 1715,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-020-LEONID.ogg",
+                "dialogueId": 1714,
+                "animationLabel": "A3M1-C020-020-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 1717,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-030-LEONID.ogg",
+                "dialogueId": 1716,
+                "animationLabel": "A3M1-C020-030-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1719,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-040-GAREK.ogg",
+                "dialogueId": 1718,
+                "animationLabel": "A3M1-C020-040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "units\\forsaken\\laborer\\laborer.mdl",
+                "speakerNameId": 1721,
+                "speakerUnitID": "fber",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-050-BERND.ogg",
+                "dialogueId": 1720,
+                "animationLabel": "A3M1-C020-050-BERND",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/laborer.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 14,
+                "speakerModel": "units\\forsaken\\laborer\\laborer.mdl",
+                "speakerNameId": 1723,
+                "speakerUnitID": "fber",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-060-BERND.ogg",
+                "dialogueId": 1722,
+                "animationLabel": "A3M1-C020-060-BERND",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/laborer.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 15,
+                "speakerModel": "units\\forsaken\\laborer\\laborer.mdl",
+                "speakerNameId": 1725,
+                "speakerUnitID": "fber",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-070-BERND.ogg",
+                "dialogueId": 1724,
+                "animationLabel": "A3M1-C020-070-BERND",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/laborer.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 16,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1727,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-080-GAREK.ogg",
+                "dialogueId": 1726,
+                "animationLabel": "A3M1-C020-080-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 17,
+                "speakerModel": "units\\forsaken\\laborer\\laborer.mdl",
+                "speakerNameId": 1729,
+                "speakerUnitID": "fber",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-090-BERND.ogg",
+                "dialogueId": 1728,
+                "animationLabel": "A3M1-C020-090-BERND",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/laborer.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 18,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1731,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-100-SYLVANAS.ogg",
+                "dialogueId": 1730,
+                "animationLabel": "A3M1-C020-100-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 19,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1733,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-110-SYLVANAS.ogg",
+                "dialogueId": 1732,
+                "animationLabel": "A3M1-C020-110-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 20,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1735,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-C020-120-GAREK.ogg",
+                "dialogueId": 1734,
+                "animationLabel": "A3M1-C020-120-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold GameplayStart Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1736,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T010-SYLVANAS.ogg",
+                "dialogueId": 1753,
+                "animationLabel": "A3M1-T010-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold WayToBulwarks Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 1737,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T020-ANYA.ogg",
+                "dialogueId": 1754,
+                "animationLabel": "A3M1-T020-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1738,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T030-GAREK.ogg",
+                "dialogueId": 1755,
+                "animationLabel": "A3M1-T030-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ReachingBulwarks Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\deathguard\\deathguard.mdl",
+                "speakerNameId": 1757,
+                "speakerUnitID": "fdtg",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T040-DEATHGUARD.ogg",
+                "dialogueId": 1758,
+                "animationLabel": "A3M1-T040-DEATHGUARD",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/deathguard.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1739,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T050-GAREK.ogg",
+                "dialogueId": 1756,
+                "animationLabel": "A3M1-T050-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold MeatWagons Q NOT USED": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1759,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T090-GAREK.ogg",
+                "dialogueId": 1760,
+                "animationLabel": "A3M1-T090-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold DeathKnightAttacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\HeroDeathknight\\HeroDeathknight.mdl",
+                "speakerNameId": 1403,
+                "speakerUnitID": "Udea",
+                "soundFile": "Units/Undead/HeroDeathKnight/DeathKnightWarcry1.flac",
+                "dialogueId": 1402,
+                "animationLabel": "DeathKnightWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroDeathknight.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold LichAttacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\HeroLich\\HeroLich_V1.mdl",
+                "speakerNameId": 1405,
+                "speakerUnitID": "Ulic",
+                "soundFile": "Units/Undead/HeroLich/HeroLichYesAttack1.flac",
+                "dialogueId": 1404,
+                "animationLabel": "HeroLichYesAttack1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroLich_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold CryptLordAttacked Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\HeroCryptLord\\HeroCryptLord.mdl",
+                "speakerNameId": 1622,
+                "speakerUnitID": "Ucrl",
+                "soundFile": "Units/Undead/HeroCryptLord/NerubianCryptLordPissed1.flac",
+                "dialogueId": 1621,
+                "animationLabel": "NerubianCryptLordPissed1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroCryptLord.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost1 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\Varimathras\\Varimathras.mdl",
+                "speakerNameId": 1740,
+                "speakerUnitID": "Uvar",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T100-VARIMATHRAS.ogg",
+                "dialogueId": 1761,
+                "animationLabel": "A3M1-T100-VARIMATHRAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/Varimathras.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost2 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\Varimathras\\Varimathras.mdl",
+                "speakerNameId": 1741,
+                "speakerUnitID": "Uvar",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T110-VARIMATHRAS.ogg",
+                "dialogueId": 1762,
+                "animationLabel": "A3M1-T110-VARIMATHRAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/Varimathras.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold BridgeLost3 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\Varimathras\\Varimathras.mdl",
+                "speakerNameId": 1742,
+                "speakerUnitID": "Uvar",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T120-VARIMATHRAS.ogg",
+                "dialogueId": 1763,
+                "animationLabel": "A3M1-T120-VARIMATHRAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/Varimathras.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold NoEndToThem Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1743,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T130-GAREK.ogg",
+                "dialogueId": 1764,
+                "animationLabel": "A3M1-T130-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Undead\\EvilSylvanas\\EvilSylvanas.mdl",
+                "speakerNameId": 1744,
+                "speakerUnitID": "Usyl",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T140-SYLVANAS.ogg",
+                "dialogueId": 1765,
+                "animationLabel": "A3M1-T140-SYLVANAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/EvilSylvanas.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold ArgentDawnArrives Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 1767,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T150-LEONID.ogg",
+                "dialogueId": 1768,
+                "animationLabel": "A3M1-T150-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1745,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T160-GAREK.ogg",
+                "dialogueId": 1766,
+                "animationLabel": "A3M1-T160-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Hold the Line.Transmission Hold Completed Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1746,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T170-GAREK.ogg",
+                "dialogueId": 1769,
+                "animationLabel": "A3M1-T170-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Discover Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 1771,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T180-LEONID.ogg",
+                "dialogueId": 1770,
+                "animationLabel": "A3M1-T180-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky WayToScourgeBase Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1747,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T190-GAREK.ogg",
+                "dialogueId": 1774,
+                "animationLabel": "A3M1-T190-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 1773,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T200-LEONID.ogg",
+                "dialogueId": 1772,
+                "animationLabel": "A3M1-T200-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 1748,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T210-ANYA.ogg",
+                "dialogueId": 1775,
+                "animationLabel": "A3M1-T210-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1749,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T220-GAREK.ogg",
+                "dialogueId": 1776,
+                "animationLabel": "A3M1-T220-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1750,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T230-GAREK.ogg",
+                "dialogueId": 1777,
+                "animationLabel": "A3M1-T230-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky GateEnemies Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1751,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T240-GAREK.ogg",
+                "dialogueId": 1778,
+                "animationLabel": "A3M1-T240-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update1 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Necromancer\\Necromancer.mdl",
+                "speakerNameId": 1780,
+                "speakerUnitID": "U00C",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T250-NECROMANCERMORKATH.ogg",
+                "dialogueId": 1779,
+                "animationLabel": "A3M1-T250-NECROMANCERMORKATH",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/Necromancer.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Main Quest - Skyjack.Transmission Sky Update2 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroForsakenGarekUpgrade\\HeroForsakenGarekUpgrade.mdl",
+                "speakerNameId": 1752,
+                "speakerUnitID": "Ugr2",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T260-GAREK.ogg",
+                "dialogueId": 1781,
+                "animationLabel": "A3M1-T260-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/HeroForsakenGarekUpgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 01 Rescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\deathguard\\deathguard.mdl",
+                "speakerNameId": 1782,
+                "speakerUnitID": "fdtg",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T060-DEATHGUARD.ogg",
+                "dialogueId": 1785,
+                "animationLabel": "A3M1-T060-DEATHGUARD",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/deathguard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 02 Rescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\deathguard\\deathguard.mdl",
+                "speakerNameId": 1783,
+                "speakerUnitID": "fdtg",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T070-DEATHGUARD.ogg",
+                "dialogueId": 1786,
+                "animationLabel": "A3M1-T070-DEATHGUARD",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/deathguard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 03 Rescue Abomination Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Abomination\\Abomination.mdl",
+                "speakerNameId": 1287,
+                "speakerUnitID": "uabo",
+                "soundFile": "Units/Undead/Abomination/AbominationWhat1.flac",
+                "dialogueId": 1286,
+                "animationLabel": "AbominationWhat1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/Abomination.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Optional Quest - Stranded.Transmission Stranded 04 Rescue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\deathguard\\deathguard.mdl",
+                "speakerNameId": 1784,
+                "speakerUnitID": "fdtg",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre03m1/A3M1-T080-DEATHGUARD.ogg",
+                "dialogueId": 1787,
+                "animationLabel": "A3M1-T080-DEATHGUARD",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE03a/FacialAnimation/deathguard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

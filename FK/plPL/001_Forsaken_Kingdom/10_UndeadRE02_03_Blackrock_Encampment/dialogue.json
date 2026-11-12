@@ -1,0 +1,98 @@
+{
+  "map": "UndeadRE02_03",
+  "title": "Blackrock Encampment",
+  "locale": "plPL",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M3-T010-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Anya",
+      "text": "Orkowie. Od lat stanowią skazę na tych ziemiach.",
+      "string_id": 39,
+      "speaker_string_id": 40,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M3-T020-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Leonid",
+      "text": "Nie wszystkich. Ale Klan Czarnej Skały słynie z brutalnych najeźdźców.",
+      "string_id": 319,
+      "speaker_string_id": 320,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M3-T030-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Garek",
+      "text": "W takim razie musimy ich zniechęcić do atakowania Porzuconych.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M3-T040-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 02 The Deed Is Done",
+      "speaker": "Anya",
+      "text": "Dokonało się. Może inni orkowie posłuchają ostrzeżenia.",
+      "string_id": 53,
+      "speaker_string_id": 54,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M3-T050-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Garek",
+      "text": "Leonidzie, mówiłeś, że nie wszyscy orkowie stanowią zagrożenie dla tych ziem. Czy znasz innych?",
+      "string_id": 57,
+      "speaker_string_id": 58,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M3-T060-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Leonid",
+      "text": "Tak, w Srebrzystym Brzasku. Słyszałem plotki o młodym wodzu, który powiódł wielu orków przez morze.",
+      "string_id": 335,
+      "speaker_string_id": 336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T060-LEONID.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M3-T061-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Leonid",
+      "text": "Podobno tworzy „nową Hordę” opartą na sile i honorze.",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T061-LEONID.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M3-T070-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Anya",
+      "text": "Uwierzę, jak zobaczę.",
+      "string_id": 71,
+      "speaker_string_id": 72,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HeroBladeMasterYesAttack3",
+      "scene": "Dialogues.Transmissions Dialogue 04 Blademaster Taunt 1",
+      "speaker": "Nikoro",
+      "text": "Posmakuj mego ostrza!",
+      "string_id": 341,
+      "speaker_string_id": 342,
+      "sound": "Units/Orc/HeroBladeMaster/HeroBladeMasterYesAttack3.flac"
+    }
+  ]
+}

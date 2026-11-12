@@ -1,0 +1,1025 @@
+{
+  "map": "HumanRE02",
+  "title": "Treachery",
+  "locale": "ruRU",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "HRE02-C010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Проклятье! Как же так вышло? Город лежит в руинах...",
+      "string_id": 2189,
+      "speaker_string_id": 2190,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "HRE02-C010-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Сейчас нужно сосредоточиться на том, чтобы вывести людей. Они надеются на нас.",
+      "string_id": 2192,
+      "speaker_string_id": 2193,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-020-LANDEN.ogg"
+    },
+    {
+      "n": 3,
+      "id": "HRE02-C010-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Они рассчитывали на нашу защиту. Но мы их подвели.",
+      "string_id": 2195,
+      "speaker_string_id": 2196,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "HRE02-C010-040-RIFLEMAN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Стрелок",
+      "text": "Смотри-ка, кто-то выжил!",
+      "string_id": 2198,
+      "speaker_string_id": 2199,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-040-RIFLEMAN.ogg"
+    },
+    {
+      "n": 5,
+      "id": "HRE02-C010-050-FOOTMAN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Пехотинец",
+      "text": "Сэр, мы отбились от своего отряда и оказались здесь.",
+      "string_id": 2766,
+      "speaker_string_id": 2767,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-050-FOOTMAN.ogg"
+    },
+    {
+      "n": 6,
+      "id": "HRE02-C010-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Мы собираемся покинуть город по подземному тоннелю. Помогите защитить уцелевших, и мы все выберемся отсюда живыми.",
+      "string_id": 2204,
+      "speaker_string_id": 2205,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C010-060-LANDEN.ogg"
+    },
+    {
+      "n": 7,
+      "id": "HRE02-C020-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Это же барон Ривендер, правитель Стратхольма!",
+      "string_id": 2238,
+      "speaker_string_id": 2239,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-010-GAREK.ogg"
+    },
+    {
+      "n": 8,
+      "id": "HRE02-C020-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Милорд! Мы ведем с собой группу выживших...",
+      "raw": "[\"Scared\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Милорд! Мы ведем с собой группу выживших...[/\"Scared\"]",
+      "string_id": 2241,
+      "speaker_string_id": 2242,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-020-LANDEN.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HRE02-C020-030-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Вот так удача. Самое время пополнить ими ряды Плети.",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Вот так удача. Самое время пополнить ими ряды Плети.[/\"Angry\"]",
+      "string_id": 2244,
+      "speaker_string_id": 2245,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-030-RIVENDARE.ogg"
+    },
+    {
+      "n": 10,
+      "id": "HRE02-C020-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Ты такой же грязный предатель, как и Артас!",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Ты такой же грязный предатель, как и Артас![/\"Angry\"]",
+      "string_id": 2247,
+      "speaker_string_id": 2248,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-040-GAREK.ogg"
+    },
+    {
+      "n": 11,
+      "id": "HRE02-C020-050-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Наш дорогой принц – лишь часть грандиозного плана, в сотворении которого я принимал участие.",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Наш дорогой принц – лишь часть грандиозного плана, в сотворении которого я принимал участие.[/\"Happy\"]",
+      "string_id": 2250,
+      "speaker_string_id": 2251,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-050-RIVENDARE.ogg"
+    },
+    {
+      "n": 12,
+      "id": "HRE02-C020-060-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Скоро это слабое и жалкое королевство падет, и из его трупа восстанет войско проклятых.",
+      "string_id": 2253,
+      "speaker_string_id": 2254,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-060-RIVENDARE.ogg"
+    },
+    {
+      "n": 13,
+      "id": "HRE02-C020-070-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Не пристало мне марать руки о таких ничтожеств. Расправьтесь с ними и убейте остальных.",
+      "string_id": 2256,
+      "speaker_string_id": 2257,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C020-070-RIVENDARE.ogg"
+    },
+    {
+      "n": 14,
+      "id": "HRE02-C030-010-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Как рьяно ты ищешь смерти. Возомнил себя героем?",
+      "string_id": 2693,
+      "speaker_string_id": 2694,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-010-RIVENDARE.ogg"
+    },
+    {
+      "n": 15,
+      "id": "HRE02-C030-020-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Ты вовсе не герой! Лишь очередной труп, который будет мне служить...",
+      "string_id": 2710,
+      "speaker_string_id": 2711,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-020-RIVENDARE.ogg"
+    },
+    {
+      "n": 16,
+      "id": "HRE02-C030-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Барьер исчез! Беги!",
+      "string_id": 2719,
+      "speaker_string_id": 2720,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-040-LANDEN.ogg"
+    },
+    {
+      "n": 17,
+      "id": "HRE02-C030-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Что?! Нет! Я вас не брошу!",
+      "string_id": 2728,
+      "speaker_string_id": 2729,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-050-GAREK.ogg"
+    },
+    {
+      "n": 18,
+      "id": "HRE02-C030-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Не думай обо мне! Тебе нужно отвести горожан в Андорал!",
+      "string_id": 2737,
+      "speaker_string_id": 2738,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-060-LANDEN.ogg"
+    },
+    {
+      "n": 19,
+      "id": "HRE02-C030-070-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Капитан, я...",
+      "string_id": 2746,
+      "speaker_string_id": 2747,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-070-GAREK.ogg"
+    },
+    {
+      "n": 20,
+      "id": "HRE02-C030-080-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Это приказ, лейтенант!",
+      "string_id": 2755,
+      "speaker_string_id": 2756,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-080-LANDEN.ogg"
+    },
+    {
+      "n": 21,
+      "id": "HRE02-C030-090-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Да пребудет с вами Свет, сэр.",
+      "string_id": 2764,
+      "speaker_string_id": 2765,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-090-GAREK.ogg"
+    },
+    {
+      "n": 22,
+      "id": "HRE02-C030-100-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Ступай, Гарек. Исполни свое предназначение.",
+      "string_id": 2775,
+      "speaker_string_id": 2776,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-100-LANDEN.ogg"
+    },
+    {
+      "n": 23,
+      "id": "HRE02-C030-110-RIVENDARE",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Барон Ривендер",
+      "text": "Думаешь, сможешь уйти?! Эти стоки станут твоей могилой!",
+      "string_id": 2783,
+      "speaker_string_id": 2784,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-110-RIVENDARE.ogg"
+    },
+    {
+      "n": 24,
+      "id": "HRE02-C030-120-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "За Лордерон!",
+      "string_id": 2786,
+      "speaker_string_id": 2787,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-C030-120-LANDEN.ogg"
+    },
+    {
+      "n": 25,
+      "id": "HRE02-M010-010-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Только взгляните на все это! И как долго эти сектанты прятались здесь, словно крысы?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Только взгляните на все это! И как долго эти сектанты прятались здесь, словно крысы?[/\"Angry\"]",
+      "string_id": 2207,
+      "speaker_string_id": 2208,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-010-GAREK.ogg"
+    },
+    {
+      "n": 26,
+      "id": "HRE02-M010-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Должно быть, они планировали нападение многие годы. Наши друзья и соседи...",
+      "string_id": 2210,
+      "speaker_string_id": 2211,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-020-LANDEN.ogg"
+    },
+    {
+      "n": 27,
+      "id": "HRE02-M010-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Поверить не могу, что все это время скверна расцветала прямо у нас под ногами...",
+      "string_id": 2213,
+      "speaker_string_id": 2214,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-030-GAREK.ogg"
+    },
+    {
+      "n": 28,
+      "id": "HRE02-M010-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Оставим пока мирных жителей здесь, а сами проверим путь.",
+      "string_id": 2216,
+      "speaker_string_id": 2217,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-040-LANDEN.ogg"
+    },
+    {
+      "n": 29,
+      "id": "HRE02-M010-050-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Заприте ворота. И никому не отворяйте. Если же мы не вернемся...",
+      "string_id": 2219,
+      "speaker_string_id": 2220,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-050-LANDEN.ogg"
+    },
+    {
+      "n": 30,
+      "id": "HRE02-M010-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "...да пребудет с вами Свет.",
+      "string_id": 2222,
+      "speaker_string_id": 2223,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M010-060-LANDEN.ogg"
+    },
+    {
+      "n": 31,
+      "id": "HRE02-M015-010-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Пехотинец",
+      "text": "Городские стражники! Так и знал, что кто-то еще уцелел!",
+      "string_id": 2225,
+      "speaker_string_id": 2226,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-010-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 32,
+      "id": "HRE02-M015-020-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Мы ведем с собой группу выживших. Можешь открыть ворота?",
+      "string_id": 2228,
+      "speaker_string_id": 2229,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-020-LANDEN.ogg"
+    },
+    {
+      "n": 33,
+      "id": "HRE02-M015-030-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Пехотинец",
+      "text": "Нет, сэр. Треклятые сектанты лебедку разворотили. Сперва надобно у них шестеренки отобрать.",
+      "string_id": 2231,
+      "speaker_string_id": 2232,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-030-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 34,
+      "id": "HRE02-M015-040-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Ничего, мы этих негодяев быстро поймаем.",
+      "string_id": 2235,
+      "speaker_string_id": 2236,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M015-040-GAREK.ogg"
+    },
+    {
+      "n": 35,
+      "id": "HRE02-M020-010-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Идемте наружу!",
+      "string_id": 2259,
+      "speaker_string_id": 2260,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-010-LANDEN.ogg"
+    },
+    {
+      "n": 36,
+      "id": "HRE02-M020-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Простите, капитан. Ведите выживших в Андорал без меня.",
+      "string_id": 2262,
+      "speaker_string_id": 2263,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-020-GAREK.ogg"
+    },
+    {
+      "n": 37,
+      "id": "HRE02-M020-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "А я не уйду отсюда, пока не покончу с Ривендером.",
+      "string_id": 2265,
+      "speaker_string_id": 2266,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-030-GAREK.ogg"
+    },
+    {
+      "n": 38,
+      "id": "HRE02-M020-040-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Гарек, это безумие. Ты не можешь...",
+      "raw": "[\"Surprised\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Гарек, это безумие. Ты не можешь...[/\"Surprised\"]",
+      "string_id": 2268,
+      "speaker_string_id": 2269,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-040-LANDEN.ogg"
+    },
+    {
+      "n": 39,
+      "id": "HRE02-M020-050-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Кто-то должен свершить возмездие. Если не сейчас, то когда?",
+      "raw": "[\"Angry\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Кто-то должен свершить возмездие. Если не сейчас, то когда?[/\"Angry\"]",
+      "string_id": 2271,
+      "speaker_string_id": 2272,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-050-GAREK.ogg"
+    },
+    {
+      "n": 40,
+      "id": "HRE02-M020-060-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Солдат, оставляю выживших под твою ответственность.",
+      "string_id": 2274,
+      "speaker_string_id": 2275,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-060-LANDEN.ogg"
+    },
+    {
+      "n": 41,
+      "id": "HRE02-M020-070-LANDEN",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Ланден",
+      "text": "Давай поскорее с этим разберемся, лейтенант.",
+      "string_id": 2277,
+      "speaker_string_id": 2278,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M020-070-LANDEN.ogg"
+    },
+    {
+      "n": 42,
+      "id": "HRE02-M030-010-LORDEARONSOLDIER",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Пехотинец",
+      "text": "Лейтенант Бандарион, вы живы! Но... где капитан Ланден?",
+      "string_id": 2280,
+      "speaker_string_id": 2281,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-010-LORDEARONSOLDIER.ogg"
+    },
+    {
+      "n": 43,
+      "id": "HRE02-M030-020-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Он... погиб.",
+      "string_id": 2288,
+      "speaker_string_id": 2289,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-020-GAREK.ogg"
+    },
+    {
+      "n": 44,
+      "id": "HRE02-M030-030-GAREK",
+      "scene": "Initialization.DialogueReference",
+      "speaker": "Гарек",
+      "text": "Нам нужно встретиться с Утером в Андорале. Выдвигаемся.",
+      "string_id": 2286,
+      "speaker_string_id": 2287,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-M030-030-GAREK.ogg"
+    },
+    {
+      "n": 45,
+      "id": "HRE02-T010-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers Discover Q",
+      "speaker": "Ланден",
+      "text": "Мирные жители пусть держатся позади. Все остальные за мной.",
+      "string_id": 2591,
+      "speaker_string_id": 2592,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T010-LANDEN.ogg"
+    },
+    {
+      "n": 46,
+      "id": "HRE02-T020-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers FightContinues Q",
+      "speaker": "Гарек",
+      "text": "Артас до сих пор бесчинствует в городе...",
+      "string_id": 2599,
+      "speaker_string_id": 2600,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T020-GAREK.ogg"
+    },
+    {
+      "n": 47,
+      "id": "HRE02-T030-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers FightContinues Q",
+      "speaker": "Ланден",
+      "text": "Если мы обезопасим проход наружу, возможно, еще кому-то удастся спастись.",
+      "string_id": 2601,
+      "speaker_string_id": 2602,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T030-LANDEN.ogg"
+    },
+    {
+      "n": 48,
+      "id": "HRE02-T040-GAREK",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q",
+      "speaker": "Гарек",
+      "text": "Похоже, есть только один путь дальше.",
+      "string_id": 2621,
+      "speaker_string_id": 2622,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T040-GAREK.ogg"
+    },
+    {
+      "n": 49,
+      "id": "HRE02-T050-BLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q Attack",
+      "speaker": "Чумотворец",
+      "text": "Никакого пути у вас нет!",
+      "string_id": 2546,
+      "speaker_string_id": 2547,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T050-BLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 50,
+      "id": "HRE02-T060-LANDEN",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambush Q Attack",
+      "speaker": "Ланден",
+      "text": "К оружию!",
+      "string_id": 2521,
+      "speaker_string_id": 2522,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T060-LANDEN.ogg"
+    },
+    {
+      "n": 51,
+      "id": "HRE02-T070-LANDEN",
+      "scene": "TRANSMISSIONS.Ambush.Transmission Sewers Ambusher Dies Q",
+      "speaker": "Ланден",
+      "text": "Похоже, нас преследуют служители культа. Нужно идти дальше!",
+      "string_id": 2304,
+      "speaker_string_id": 2379,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T070-LANDEN.ogg"
+    },
+    {
+      "n": 52,
+      "id": "HRE02-T110-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach2 Q",
+      "speaker": "Пехотинец",
+      "text": "Городской стражник! Прошу, помогите!",
+      "string_id": 2797,
+      "speaker_string_id": 2800,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T110-PRISONERM.ogg"
+    },
+    {
+      "n": 53,
+      "id": "HRE02-T120-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach1 Q",
+      "speaker": "Жрец",
+      "text": "Эй, сюда! Выпустите меня!",
+      "string_id": 2796,
+      "speaker_string_id": 2801,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T120-PRISONERM.ogg"
+    },
+    {
+      "n": 54,
+      "id": "HRE02-T130-PRISONERM",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Approach3 Q",
+      "speaker": "Стрелок",
+      "text": "Помогите! Откройте клетку!",
+      "string_id": 2798,
+      "speaker_string_id": 2799,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T130-PRISONERM.ogg"
+    },
+    {
+      "n": 55,
+      "id": "HRE02-T140-PRISONERFOOTMAN",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued2 Q",
+      "speaker": "Пехотинец",
+      "text": "Спасибо! А теперь пора отсюда выбираться!",
+      "string_id": 2807,
+      "speaker_string_id": 2808,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T140-PRISONERFOOTMAN.ogg"
+    },
+    {
+      "n": 56,
+      "id": "HRE02-T190-PRISONERRIFLEMAN",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued3 Q",
+      "speaker": "Стрелок",
+      "text": "Я уж думал, что здесь и помру! Эти служители культа за все ответят!",
+      "string_id": 2649,
+      "speaker_string_id": 2650,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T190-PRISONERRIFLEMAN.ogg"
+    },
+    {
+      "n": 57,
+      "id": "HRE02-T210-PRISONERPRIEST",
+      "scene": "TRANSMISSIONS.Allies.Transmission Ally Rescued1 Q",
+      "speaker": "Жрец",
+      "text": "Я ваш должник. И буду сражаться на вашей стороне!",
+      "string_id": 2806,
+      "speaker_string_id": 2805,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T210-PRISONERPRIEST.ogg"
+    },
+    {
+      "n": 58,
+      "id": "HRE02-T230-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers SuppliesDiscovery",
+      "speaker": "Гарек",
+      "text": "Это еще что?.. Почему здесь так много припасов?",
+      "string_id": 2615,
+      "speaker_string_id": 2616,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T230-GAREK.ogg"
+    },
+    {
+      "n": 59,
+      "id": "HRE02-T240-MASTERBLIGHTWEAVER",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers CultCampFound Q",
+      "speaker": "Мастер-чумотворец",
+      "text": "Чужаки! Убейте их всех!",
+      "string_id": 2617,
+      "speaker_string_id": 2618,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T240-MASTERBLIGHTWEAVER.ogg"
+    },
+    {
+      "n": 60,
+      "id": "HRE02-T250-GAREK",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers CultCampFound Q",
+      "speaker": "Гарек",
+      "text": "Что здесь творится?",
+      "string_id": 2613,
+      "speaker_string_id": 2614,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T250-GAREK.ogg"
+    },
+    {
+      "n": 61,
+      "id": "HRE02-T260-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot OnLeverKill Q",
+      "speaker": "Ланден",
+      "text": "Тоннель, ведущий наружу, где-то неподалеку. Не пропустить бы.",
+      "string_id": 2310,
+      "speaker_string_id": 2385,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T260-LANDEN.ogg"
+    },
+    {
+      "n": 62,
+      "id": "HRE02-T270-APOTHECARYVENOMSPITE",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot OnVenomspiteAttack Q",
+      "speaker": "Аптекарь Ядозлоб",
+      "text": "Как смеете вы прерывать мою работу?!",
+      "string_id": 2629,
+      "speaker_string_id": 2630,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T270-APOTHECARYVENOMSPITE.ogg"
+    },
+    {
+      "n": 63,
+      "id": "HRE02-T280-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Lethal Q",
+      "speaker": "Гарек",
+      "text": "Эти испарения – видимо, результат той «работы», которую мы прервали. Надо от них избавиться.",
+      "string_id": 2665,
+      "speaker_string_id": 2666,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T280-GAREK.ogg"
+    },
+    {
+      "n": 64,
+      "id": "HRE02-T290-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission ValvePuzzle OnPuzzleComplete Q",
+      "speaker": "Гарек",
+      "text": "Готово. Теперь можно идти дальше.",
+      "string_id": 2309,
+      "speaker_string_id": 2384,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T290-GAREK.ogg"
+    },
+    {
+      "n": 65,
+      "id": "HRE02-T300-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot PlaguemasterMaskUse Q",
+      "speaker": "Гарек",
+      "text": "Хм-м. Это должно защитить нас от испарений.",
+      "string_id": 2315,
+      "speaker_string_id": 2387,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T300-GAREK.ogg"
+    },
+    {
+      "n": 66,
+      "id": "HRE02-T310-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot SlimesAttacked Q",
+      "speaker": "Гарек",
+      "text": "А-а! Что это за твари?!",
+      "string_id": 2316,
+      "speaker_string_id": 2388,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T310-GAREK.ogg"
+    },
+    {
+      "n": 67,
+      "id": "HRE02-T320-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot AmbushItem Q",
+      "speaker": "Гарек",
+      "text": "Засада!",
+      "string_id": 2492,
+      "speaker_string_id": 2493,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T320-GAREK.ogg"
+    },
+    {
+      "n": 68,
+      "id": "HRE02-T330-LANDEN",
+      "scene": "TRANSMISSIONS.The Sewers.Transmission Sewers RubbleExit Q",
+      "speaker": "Ланден",
+      "text": "Проход завален. Придется искать другой путь.",
+      "string_id": 2663,
+      "speaker_string_id": 2664,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T330-LANDEN.ogg"
+    },
+    {
+      "n": 69,
+      "id": "HRE02-T340-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Wake Q",
+      "speaker": "Гарек",
+      "text": "Осторожно!",
+      "string_id": 2308,
+      "speaker_string_id": 2383,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T340-GAREK.ogg"
+    },
+    {
+      "n": 70,
+      "id": "HRE02-T350-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot GasZombies Dead Q",
+      "speaker": "Ланден",
+      "text": "Это выход!",
+      "string_id": 2307,
+      "speaker_string_id": 2382,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T350-LANDEN.ogg"
+    },
+    {
+      "n": 71,
+      "id": "HRE02-T360-GAREK",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Found Q",
+      "speaker": "Гарек",
+      "text": "В этой тьме таится что-то холодное и опасное.",
+      "string_id": 2572,
+      "speaker_string_id": 2573,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T360-GAREK.ogg"
+    },
+    {
+      "n": 72,
+      "id": "HRE02-T370-ARAJTHESUMMONER",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Attacked Q",
+      "speaker": "Араж Призыватель",
+      "text": "Глупые смертные. Ваша судьба предрешена!",
+      "string_id": 2637,
+      "speaker_string_id": 2638,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T370-ARAJTHESUMMONER.ogg"
+    },
+    {
+      "n": 73,
+      "id": "HRE02-T380-ARAJTHESUMMONER",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Killed Q",
+      "speaker": "Араж Призыватель",
+      "text": "Я еще вернусь...",
+      "string_id": 2643,
+      "speaker_string_id": 2644,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T380-ARAJTHESUMMONER.ogg"
+    },
+    {
+      "n": 74,
+      "id": "HRE02-T390-GAREK",
+      "scene": "TRANSMISSIONS.The Lich.Transmission Lich Killed Q",
+      "speaker": "Гарек",
+      "text": "Гнусный лич...",
+      "string_id": 2507,
+      "speaker_string_id": 2508,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T390-GAREK.ogg"
+    },
+    {
+      "n": 75,
+      "id": "HRE02-T400-LANDEN",
+      "scene": "TRANSMISSIONS.FirePuzzle.Transmission FirePuzzle See Q",
+      "speaker": "Ланден",
+      "text": "Главная кузница города. В ней еще остался жар.",
+      "string_id": 2651,
+      "speaker_string_id": 2652,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T400-LANDEN.ogg"
+    },
+    {
+      "n": 76,
+      "id": "HRE02-T410-GAREK",
+      "scene": "TRANSMISSIONS.FirePuzzle.Transmission FirePuzzle See Q",
+      "speaker": "Гарек",
+      "text": "К домам, которые Артас превратил в склепы. Нужно погасить пламя.",
+      "string_id": 2653,
+      "speaker_string_id": 2654,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T410-GAREK.ogg"
+    },
+    {
+      "n": 77,
+      "id": "HRE02-T420-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission VoicesHeard Q",
+      "speaker": "Гарек",
+      "text": "Капитан! Я слышу впереди какие-то голоса!",
+      "string_id": 2306,
+      "speaker_string_id": 2381,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T420-GAREK.ogg"
+    },
+    {
+      "n": 78,
+      "id": "HRE02-T430-MORDO",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Attacked Q",
+      "speaker": "Мордо",
+      "text": "Ривендер вознаградит меня за это!",
+      "string_id": 2633,
+      "speaker_string_id": 2634,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T430-MORDO.ogg"
+    },
+    {
+      "n": 79,
+      "id": "HRE02-T440-GAREK",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Attacked Q",
+      "speaker": "Гарек",
+      "text": "Сдохни, тварь!",
+      "string_id": 2328,
+      "speaker_string_id": 2393,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T440-GAREK.ogg"
+    },
+    {
+      "n": 80,
+      "id": "HRE02-T450-GAREK",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Killed Q",
+      "speaker": "Гарек",
+      "text": "Я насажу голову Ривендера на пику!",
+      "string_id": 2334,
+      "speaker_string_id": 2394,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T450-GAREK.ogg"
+    },
+    {
+      "n": 81,
+      "id": "HRE02-T460-LANDEN",
+      "scene": "TRANSMISSIONS.Mordo.Transmission Mordo Killed Q",
+      "speaker": "Ланден",
+      "text": "Кара его настигнет, Гарек. Нам же нужно сосредоточиться на том, чтобы довести выживших до Андорала.",
+      "string_id": 2331,
+      "speaker_string_id": 2395,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T460-LANDEN.ogg"
+    },
+    {
+      "n": 82,
+      "id": "HRE02-T470-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission CogsFound Q",
+      "speaker": "Ланден",
+      "text": "Хвала Свету! Оставайся здесь, а я вернусь и приведу выживших.",
+      "string_id": 2305,
+      "speaker_string_id": 2380,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T470-LANDEN.ogg"
+    },
+    {
+      "n": 83,
+      "id": "HRE02-T470-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot CogsCollected Q",
+      "speaker": "Ланден",
+      "text": "Хвала Свету! Оставайся здесь, а я вернусь и приведу выживших.",
+      "string_id": 2305,
+      "speaker_string_id": 2380,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T470-LANDEN.ogg"
+    },
+    {
+      "n": 84,
+      "id": "HRE02-T480-GAREK",
+      "scene": "TRANSMISSIONS.Hunting Rivendare.Transmission HuntingRivendare Q",
+      "speaker": "Гарек",
+      "text": "Вы не обязаны этого делать, сэр.",
+      "string_id": 2332,
+      "speaker_string_id": 2396,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T480-GAREK.ogg"
+    },
+    {
+      "n": 85,
+      "id": "HRE02-T490-LANDEN",
+      "scene": "TRANSMISSIONS.Hunting Rivendare.Transmission HuntingRivendare Q",
+      "speaker": "Ланден",
+      "text": "Нет, обязан. Я не позволю тебе идти против Ривендера в одиночку.",
+      "string_id": 2333,
+      "speaker_string_id": 2397,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T490-LANDEN.ogg"
+    },
+    {
+      "n": 86,
+      "id": "HRE02-T500-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Discover Q",
+      "speaker": "Гарек",
+      "text": "Никогда не видел таких огромных пауков...",
+      "string_id": 2346,
+      "speaker_string_id": 2404,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T500-GAREK.ogg"
+    },
+    {
+      "n": 87,
+      "id": "HRE02-T510-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Discover Q",
+      "speaker": "Ланден",
+      "text": "Мать выводка должна быть где-то рядом.",
+      "string_id": 2348,
+      "speaker_string_id": 2405,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T510-LANDEN.ogg"
+    },
+    {
+      "n": 88,
+      "id": "HRE02-T520-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapG1 Q",
+      "speaker": "Гарек",
+      "text": "Капитан! Вытащите меня из этой паутины!",
+      "string_id": 2351,
+      "speaker_string_id": 2408,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T520-GAREK.ogg"
+    },
+    {
+      "n": 89,
+      "id": "HRE02-T530-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapG2 Q",
+      "speaker": "Гарек",
+      "text": "Она меня опутала! Я не могу пошевелиться!",
+      "string_id": 2352,
+      "speaker_string_id": 2409,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T530-GAREK.ogg"
+    },
+    {
+      "n": 90,
+      "id": "HRE02-T540-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapL1 Q",
+      "speaker": "Ланден",
+      "text": "Гарек! Разруби паутину и освободи меня!",
+      "string_id": 2353,
+      "speaker_string_id": 2410,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T540-LANDEN.ogg"
+    },
+    {
+      "n": 91,
+      "id": "HRE02-T550-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood WebTrapL2 Q",
+      "speaker": "Ланден",
+      "text": "Я попал в сети! Освободи меня, скорее!",
+      "string_id": 2354,
+      "speaker_string_id": 2411,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T550-LANDEN.ogg"
+    },
+    {
+      "n": 92,
+      "id": "HRE02-T560-GAREK",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Completed Q",
+      "speaker": "Гарек",
+      "text": "Проклятая тварь!",
+      "string_id": 2349,
+      "speaker_string_id": 2406,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T560-GAREK.ogg"
+    },
+    {
+      "n": 93,
+      "id": "HRE02-T570-LANDEN",
+      "scene": "TRANSMISSIONS.The Broodmother.Transmission Brood Completed Q",
+      "speaker": "Ланден",
+      "text": "Со смертью матери остальные пауки разбегутся.",
+      "string_id": 2350,
+      "speaker_string_id": 2407,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T570-LANDEN.ogg"
+    },
+    {
+      "n": 94,
+      "id": "HRE02-T580-LANDEN",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot FlameZombies Q",
+      "speaker": "Ланден",
+      "text": "Что это еще за мерзкое колдовство?",
+      "string_id": 2318,
+      "speaker_string_id": 2390,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T580-LANDEN.ogg"
+    },
+    {
+      "n": 95,
+      "id": "HRE02-T590-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot FlameZombies Q",
+      "speaker": "Гарек",
+      "text": "Что бы это ни было, пора с этим кончать!",
+      "string_id": 2319,
+      "speaker_string_id": 2391,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T590-GAREK.ogg"
+    },
+    {
+      "n": 96,
+      "id": "HRE02-T600-GAREK",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot RivendareAttacked Q",
+      "speaker": "Гарек",
+      "text": "Ривендер! Ты заплатишь за свои злодеяния!",
+      "string_id": 2321,
+      "speaker_string_id": 2392,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T600-GAREK.ogg"
+    },
+    {
+      "n": 97,
+      "id": "HRE02-T610-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Rot Within.Transmission Rot RivendareAttacked Q",
+      "speaker": "Барон Ривендер",
+      "text": "О, еще кому-то не терпится умереть!",
+      "string_id": 2322,
+      "speaker_string_id": 2323,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T610-RIVENDARE.ogg"
+    },
+    {
+      "n": 98,
+      "id": "HRE02-T630-GAREK",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission CaptainFallen Q",
+      "speaker": "Гарек",
+      "text": "Капитан... Мне жаль...",
+      "string_id": 2335,
+      "speaker_string_id": 2398,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T630-GAREK.ogg"
+    },
+    {
+      "n": 99,
+      "id": "HRE02-T640-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape FirstGate Q",
+      "speaker": "Барон Ривендер",
+      "text": "Беги-беги, крысеныш! Я все равно тебя поймаю!",
+      "string_id": 2336,
+      "speaker_string_id": 2399,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T640-RIVENDARE.ogg"
+    },
+    {
+      "n": 100,
+      "id": "HRE02-T650-GAREK",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape Debris Q",
+      "speaker": "Гарек",
+      "text": "Нужно как-то преградить ему путь. Можно попробовать разбить эти столбы.",
+      "string_id": 2337,
+      "speaker_string_id": 2400,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T650-GAREK.ogg"
+    },
+    {
+      "n": 101,
+      "id": "HRE02-T670-RIVENDARE",
+      "scene": "TRANSMISSIONS.The Final Order.Transmission Escape RivendareShout Q",
+      "speaker": "Барон Ривендер",
+      "text": "От судьбы не уйдешь. Весь Лордерон падет под натиском Плети!",
+      "string_id": 2338,
+      "speaker_string_id": 2401,
+      "sound": "Sound/Dialogue/HumanRECamp/Human02re/HRE02-T670-RIVENDARE.ogg"
+    }
+  ]
+}

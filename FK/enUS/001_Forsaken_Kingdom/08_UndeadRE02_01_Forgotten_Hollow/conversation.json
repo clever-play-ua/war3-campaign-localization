@@ -1,0 +1,61 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Transmissions.Transmission Discover Alter": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 305,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T590-GAREK.ogg",
+                "dialogueId": 304,
+                "animationLabel": "A2MU-T590-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_01/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Transmission Anya Run End": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Forsaken\\HeroAnya\\HeroAnya.mdl",
+                "speakerNameId": 309,
+                "speakerUnitID": "Uany",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T592-ANYA.ogg",
+                "dialogueId": 310,
+                "animationLabel": "A2MU-T592-ANYA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_01/FacialAnimation/HeroAnya.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Transmission Garek Run End": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\heroforsakengarekupgrade\\heroforsakengarekupgrade.mdl",
+                "speakerNameId": 308,
+                "speakerUnitID": "Ugrk",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T591-GAREK.ogg",
+                "dialogueId": 307,
+                "animationLabel": "A2MU-T591-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_01/FacialAnimation/heroforsakengarekupgrade.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Transmissions.Transmission Leonid Run End": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\forsaken\\HeroLeonid\\HeroLeonid.mdl",
+                "speakerNameId": 311,
+                "speakerUnitID": "Hleo",
+                "soundFile": "Sound/Dialogue/UndeadRECamp/Undeadre02m1/A2MU-T593-LEONID.ogg",
+                "dialogueId": 312,
+                "animationLabel": "A2MU-T593-LEONID",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/UndeadRE02_01/FacialAnimation/HeroLeonid.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

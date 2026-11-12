@@ -1,0 +1,1227 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Initialization.DialogueReference": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2840,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-010-LANDEN.ogg",
+                "dialogueId": 2839,
+                "animationLabel": "HRE01-C010-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2836,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-020-GAREK.ogg",
+                "dialogueId": 2835,
+                "animationLabel": "HRE01-C010-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3413,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-030-LANDEN.ogg",
+                "dialogueId": 3412,
+                "animationLabel": "HRE01-C010-030-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2846,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C010-040-GAREK.ogg",
+                "dialogueId": 2845,
+                "animationLabel": "HRE01-C010-040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3442,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C020-010-LANDEN.ogg",
+                "dialogueId": 3443,
+                "animationLabel": "HRE01-C020-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3411,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C020-010-LANDEN.ogg",
+                "dialogueId": 3410,
+                "animationLabel": "HRE01-C020-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3427,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-010-LANDEN.ogg",
+                "dialogueId": 3426,
+                "animationLabel": "HRE01-C030-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 3431,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-020-UTHER.ogg",
+                "dialogueId": 3430,
+                "animationLabel": "HRE01-C030-020-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3435,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-030-GAREK.ogg",
+                "dialogueId": 3434,
+                "animationLabel": "HRE01-C030-030-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3441,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-040-LANDEN.ogg",
+                "dialogueId": 3440,
+                "animationLabel": "HRE01-C030-040-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 3423,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C030-050-UTHER.ogg",
+                "dialogueId": 3422,
+                "animationLabel": "HRE01-C030-050-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2867,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-010-LANDEN.ogg",
+                "dialogueId": 2866,
+                "animationLabel": "HRE01-C040-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "units\\undead\\Abomination\\Abomination.mdl",
+                "speakerNameId": 2876,
+                "speakerUnitID": "Uabo",
+                "soundFile": "Units/Undead/Abomination/AbominationYes3.flac",
+                "dialogueId": 2875,
+                "animationLabel": "AbominationYes3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Abomination.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2870,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-030-LANDEN.ogg",
+                "dialogueId": 2869,
+                "animationLabel": "HRE01-C040-030-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 14,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2873,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-C040-040-GAREK.ogg",
+                "dialogueId": 2872,
+                "animationLabel": "HRE01-C040-040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 15,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2879,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-010-GAREK.ogg",
+                "dialogueId": 2878,
+                "animationLabel": "HRE01-M015-010-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 16,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2882,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-020-GAREK.ogg",
+                "dialogueId": 2881,
+                "animationLabel": "HRE01-M015-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 17,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2885,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-030-LANDEN.ogg",
+                "dialogueId": 2884,
+                "animationLabel": "HRE01-M015-030-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 18,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2888,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-040-LANDEN.ogg",
+                "dialogueId": 2887,
+                "animationLabel": "HRE01-M015-040-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 19,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2891,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M015-050-GAREK.ogg",
+                "dialogueId": 2890,
+                "animationLabel": "HRE01-M015-050-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 20,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2894,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M020-010-LANDEN.ogg",
+                "dialogueId": 2893,
+                "animationLabel": "HRE01-M020-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 21,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2903,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-010-LANDEN.ogg",
+                "dialogueId": 2902,
+                "animationLabel": "HRE01-M030-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 22,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2906,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-020-UTHER.ogg",
+                "dialogueId": 2905,
+                "animationLabel": "HRE01-M030-020-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 23,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2909,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-030-GAREK.ogg",
+                "dialogueId": 2908,
+                "animationLabel": "HRE01-M030-030-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 24,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2912,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-040-UTHER.ogg",
+                "dialogueId": 2911,
+                "animationLabel": "HRE01-M030-040-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 25,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2915,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-050-UTHER.ogg",
+                "dialogueId": 2914,
+                "animationLabel": "HRE01-M030-050-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 26,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 2918,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M030-060-UTHER.ogg",
+                "dialogueId": 2917,
+                "animationLabel": "HRE01-M030-060-UTHER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 27,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2921,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-010-LANDEN.ogg",
+                "dialogueId": 2920,
+                "animationLabel": "HRE01-M040-010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 28,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2924,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-020-GAREK.ogg",
+                "dialogueId": 2923,
+                "animationLabel": "HRE01-M040-020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 29,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2927,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-030-GAREK.ogg",
+                "dialogueId": 2926,
+                "animationLabel": "HRE01-M040-030-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 30,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2931,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-040-LANDEN.ogg",
+                "dialogueId": 2930,
+                "animationLabel": "HRE01-M040-040-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 31,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2934,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M040-050-GAREK.ogg",
+                "dialogueId": 2933,
+                "animationLabel": "HRE01-M040-050-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 32,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 2937,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-010-GUARD2.ogg",
+                "dialogueId": 2936,
+                "animationLabel": "HRE01-M050-010-GUARD2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 33,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2940,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-020-LANDEN.ogg",
+                "dialogueId": 2939,
+                "animationLabel": "HRE01-M050-020-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 34,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 2943,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-030-GUARD2.ogg",
+                "dialogueId": 2942,
+                "animationLabel": "HRE01-M050-030-GUARD2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 35,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2946,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-M050-040-LANDEN.ogg",
+                "dialogueId": 2945,
+                "animationLabel": "HRE01-M050-040-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Drunkard Crowd.Drunkard Crowd Disperse": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3017,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T210-GAREK.ogg",
+                "dialogueId": 3016,
+                "animationLabel": "HRE01-T210-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Palace.Palace Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2981,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T010-LANDEN.ogg",
+                "dialogueId": 2980,
+                "animationLabel": "HRE01-T010-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2970,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T020-GAREK.ogg",
+                "dialogueId": 2969,
+                "animationLabel": "HRE01-T020-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2975,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T030-LANDEN.ogg",
+                "dialogueId": 2974,
+                "animationLabel": "HRE01-T030-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Palace.Palace End Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2977,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T270-LANDEN.ogg",
+                "dialogueId": 2976,
+                "animationLabel": "HRE01-T270-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Roses.Roses Acquire Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2986,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T040-GAREK.ogg",
+                "dialogueId": 2985,
+                "animationLabel": "HRE01-T040-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3200,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T050-LANDEN.ogg",
+                "dialogueId": 3199,
+                "animationLabel": "HRE01-T050-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Roses.Roses Drop Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2990,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T260-GAREK.ogg",
+                "dialogueId": 2989,
+                "animationLabel": "HRE01-T260-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2761,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T100-GAREK.ogg",
+                "dialogueId": 2760,
+                "animationLabel": "HRE01-T100-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 2803,
+                "speakerUnitID": "nvfa",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T110-ALICIA.ogg",
+                "dialogueId": 2802,
+                "animationLabel": "HRE01-T110-ALICIA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 2817,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T120-LANDEN.ogg",
+                "dialogueId": 2816,
+                "animationLabel": "HRE01-T120-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Wheel Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 2999,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T130-GAREK.ogg",
+                "dialogueId": 2998,
+                "animationLabel": "HRE01-T130-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3001,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T140-LANDEN.ogg",
+                "dialogueId": 3000,
+                "animationLabel": "HRE01-T140-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Broken Cart.Broken Cart Return Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 3206,
+                "speakerUnitID": "nvfa",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T150-ALICIA.ogg",
+                "dialogueId": 3205,
+                "animationLabel": "HRE01-T150-ALICIA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Done Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3009,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T240-GAREK.ogg",
+                "dialogueId": 3008,
+                "animationLabel": "HRE01-T240-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3011,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T250-LANDEN.ogg",
+                "dialogueId": 3010,
+                "animationLabel": "HRE01-T250-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Discover Q Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 3192,
+                "speakerUnitID": "nvll",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T190-LUCA.ogg",
+                "dialogueId": 3191,
+                "animationLabel": "HRE01-T190-LUCA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3196,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T200-GAREK.ogg",
+                "dialogueId": 3195,
+                "animationLabel": "HRE01-T200-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Drunkard Prophet.Drunkard Crowd Disperse Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3022,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T220-LANDEN.ogg",
+                "dialogueId": 3021,
+                "animationLabel": "HRE01-T220-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 3208,
+                "speakerUnitID": "nvll",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T230-LUCA.ogg",
+                "dialogueId": 3207,
+                "animationLabel": "HRE01-T230-LUCA",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Thief.Thief Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan1\\VillagerMan1.mdl",
+                "speakerNameId": 3216,
+                "speakerUnitID": "nv2e",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T160-MERCHANT.ogg",
+                "dialogueId": 3215,
+                "animationLabel": "HRE01-T160-MERCHANT",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/VillagerMan1.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3218,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T170-GAREK.ogg",
+                "dialogueId": 3217,
+                "animationLabel": "HRE01-T170-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Thief.Thief Capture Captain Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3036,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T180-LANDEN.ogg",
+                "dialogueId": 3035,
+                "animationLabel": "HRE01-T180-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Guards.Guards Oliver Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3182,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T060-GUARDSMAN.ogg",
+                "dialogueId": 3181,
+                "animationLabel": "HRE01-T060-GUARDSMAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Guards.Guards David Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3220,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T070-GUARDSMAN.ogg",
+                "dialogueId": 3219,
+                "animationLabel": "HRE01-T070-GUARDSMAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 1.Guards.Guards Sam Brad Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3373,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T080-GUARDSMAN.ogg",
+                "dialogueId": 3372,
+                "animationLabel": "HRE01-T080-GUARDSMAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Background.Background Palace Dialogue Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3176,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T420-GAREK.ogg",
+                "dialogueId": 3175,
+                "animationLabel": "HRE01-T420-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3042,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T430-LANDEN.ogg",
+                "dialogueId": 3041,
+                "animationLabel": "HRE01-T430-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Passage Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\HoodedArthas\\HoodedArthas.mdl",
+                "speakerNameId": 3224,
+                "speakerUnitID": "Uarf",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T320-ARTHAS.ogg",
+                "dialogueId": 3223,
+                "animationLabel": "HRE01-T320-ARTHAS",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/HoodedArthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3240,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T330-GAREK.ogg",
+                "dialogueId": 3239,
+                "animationLabel": "HRE01-T330-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Door Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3052,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T300-GAREK.ogg",
+                "dialogueId": 3051,
+                "animationLabel": "HRE01-T300-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3057,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T310-LANDEN.ogg",
+                "dialogueId": 3056,
+                "animationLabel": "HRE01-T310-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Palace.Palace Throne Room Side Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3045,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T280-GAREK.ogg",
+                "dialogueId": 3044,
+                "animationLabel": "HRE01-T280-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3049,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T290-LANDEN.ogg",
+                "dialogueId": 3048,
+                "animationLabel": "HRE01-T290-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3069,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T340-GAREK.ogg",
+                "dialogueId": 3068,
+                "animationLabel": "HRE01-T340-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Middle  Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3071,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T350-LANDEN.ogg",
+                "dialogueId": 3070,
+                "animationLabel": "HRE01-T350-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3149,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T360-THRONEROOMGUARD.ogg",
+                "dialogueId": 3078,
+                "animationLabel": "HRE01-T360-THRONEROOMGUARD",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3074,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T370-GAREK.ogg",
+                "dialogueId": 3073,
+                "animationLabel": "HRE01-T370-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue End  Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3080,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T390-GAREK.ogg",
+                "dialogueId": 3079,
+                "animationLabel": "HRE01-T390-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Throneroom.Throne Room Dialogue Exit Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3089,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T400-GAREK.ogg",
+                "dialogueId": 3088,
+                "animationLabel": "HRE01-T400-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3087,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T410-LANDEN.ogg",
+                "dialogueId": 3086,
+                "animationLabel": "HRE01-T410-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3315,
+                "speakerUnitID": "hctg",
+                "soundFile": "Units/Human/Footman/FootmanWarcry1.flac",
+                "dialogueId": 3314,
+                "animationLabel": "FootmanWarcry1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Priest\\Priest_V1.mdl",
+                "speakerNameId": 3313,
+                "speakerUnitID": "hmpr",
+                "soundFile": "Units/Human/Priest/PriestYesAttack1.flac",
+                "dialogueId": 3312,
+                "animationLabel": "PriestYesAttack1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Priest_V1.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Guards 03 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3311,
+                "speakerUnitID": "hctg",
+                "soundFile": "Units/Human/Footman/FootmanYesAttack3.flac",
+                "dialogueId": 3310,
+                "animationLabel": "FootmanYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\CultAssassin\\Cult_Assassin.mdl",
+                "speakerNameId": 3337,
+                "speakerUnitID": "uass",
+                "soundFile": "Units/Creeps/Bandit/BanditYesAttack3.flac",
+                "dialogueId": 3336,
+                "animationLabel": "BanditYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Cult_Assassin.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\CultBlightweaver\\Cult_Blightweaver.mdl",
+                "speakerNameId": 3341,
+                "speakerUnitID": "ublw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T470-BLIGHTWEAVER.ogg",
+                "dialogueId": 3340,
+                "animationLabel": "HRE01-T470-BLIGHTWEAVER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Cult_Blightweaver.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounters Palace Cultists 04 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Undead\\CultBlightweaver\\Cult_Blightweaver.mdl",
+                "speakerNameId": 3345,
+                "speakerUnitID": "ublw",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T480-BLIGHTWEAVER.ogg",
+                "dialogueId": 3344,
+                "animationLabel": "HRE01-T480-BLIGHTWEAVER",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Cult_Blightweaver.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Encounters.Encounter Palace Skeletons Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Necromancer\\Necromancer.mdl",
+                "speakerNameId": 3347,
+                "speakerUnitID": "unec",
+                "soundFile": "Units/Undead/Necromancer/NecromancerYesAttack2.flac",
+                "dialogueId": 3346,
+                "animationLabel": "NecromancerYesAttack2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Necromancer.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 2.Acolyte.Acolyte Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Acolyte\\Acolyte.mdl",
+                "speakerNameId": 3349,
+                "speakerUnitID": "Uaco",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T380-LORDVILEOR.ogg",
+                "dialogueId": 3348,
+                "animationLabel": "HRE01-T380-LORDVILEOR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Acolyte.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Abomination.Abomination End Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3384,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T590-LANDEN.ogg",
+                "dialogueId": 3383,
+                "animationLabel": "HRE01-T590-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Encounters.Encounter Gardens Skeletons Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Necromancer\\Necromancer.mdl",
+                "speakerNameId": 3145,
+                "speakerUnitID": "unec",
+                "soundFile": "Units/Undead/Necromancer/NecromancerYesAttack3.flac",
+                "dialogueId": 3144,
+                "animationLabel": "NecromancerYesAttack3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Necromancer.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Cultists 04 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\undead\\Ghoul\\Ghoul.mdl",
+                "speakerNameId": 3276,
+                "speakerUnitID": "ugho",
+                "soundFile": "Units/Undead/Ghoul/GhoulWhat4.flac",
+                "dialogueId": 3275,
+                "animationLabel": "GhoulWhat4",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Ghoul.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 02 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Rifleman\\Rifleman.mdl",
+                "speakerNameId": 3278,
+                "speakerUnitID": "hrif",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T540-RIFLEMAN.ogg",
+                "dialogueId": 3277,
+                "animationLabel": "HRE01-T540-RIFLEMAN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Rifleman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Encounters.Encounters Gardens Guards 01 Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3280,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T500-GUARD1.ogg",
+                "dialogueId": 3279,
+                "animationLabel": "HRE01-T500-GUARD1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Roderick\\Roderick.mdl",
+                "speakerNameId": 3282,
+                "speakerUnitID": "Hctr",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T510-GAREK.ogg",
+                "dialogueId": 3281,
+                "animationLabel": "HRE01-T510-GAREK",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/Roderick.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Guard Rescue Enter Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\CityGuard\\CityGuard.mdl",
+                "speakerNameId": 3284,
+                "speakerUnitID": "hctg",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T560-GUARD3.ogg",
+                "dialogueId": 3283,
+                "animationLabel": "HRE01-T560-GUARD3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuard.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Skeletons Acolyte Defeated Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3286,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T570-LANDEN.ogg",
+                "dialogueId": 3285,
+                "animationLabel": "HRE01-T570-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "TRANSMISSIONS.Stage 3.Villagers.Villagers Gardens Start Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 3294,
+                "speakerUnitID": "nvil",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T520-SURVIVOR.ogg",
+                "dialogueId": 3293,
+                "animationLabel": "HRE01-T520-SURVIVOR",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\CityGuardCaptain\\CityGuardCaptain.mdl",
+                "speakerNameId": 3298,
+                "speakerUnitID": "Hctl",
+                "soundFile": "Sound/Dialogue/HumanRECamp/Human01re/HRE01-T530-LANDEN.ogg",
+                "dialogueId": 3297,
+                "animationLabel": "HRE01-T530-LANDEN",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/HumanRE01/FacialAnimation/CityGuardCaptain.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}

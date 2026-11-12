@@ -1,0 +1,863 @@
+{
+  "map": "HumanRE01",
+  "title": "Homecoming",
+  "locale": "frFR",
+  "note": "Story order taken from the map script. Encounter lines (fights, side events) are placed where they usually happen; their exact order depends on the player's route.",
+  "lines": [
+    {
+      "speaker": "Landen",
+      "text": "Votre attention, soldats de la garde. Le prince Arthas est de retour après son périple au Norfendre ! Avec un peu de chance, il a ramené un remède contre la pestilence.",
+      "metadata": {
+        "string_id": 2839,
+        "speaker_string_id": 2840,
+        "dialogue_id": "HRE01-C010-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Si c’est le cas, sa petite sortie en mer aura au moins servi à quelque chose. Pourquoi devons-nous nous extasier devant le moindre de ses actes ?",
+      "metadata": {
+        "string_id": 2835,
+        "speaker_string_id": 2836,
+        "dialogue_id": "HRE01-C010-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Lieutenant Bandarion, nous avons fait le serment de servir la maison Menethil. Il est temps pour nous de préparer la ville pour accueillir notre prince.",
+      "metadata": {
+        "string_id": 3412,
+        "speaker_string_id": 3413,
+        "dialogue_id": "HRE01-C010-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Bien entendu, Capitaine Landen. Je ne voudrais pas décevoir le prince.",
+      "metadata": {
+        "string_id": 2845,
+        "speaker_string_id": 2846,
+        "dialogue_id": "HRE01-C010-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Tu es un meilleur garde que tu ne le laisses paraître, Garek. Tu pourrais devenir capitaine si tu prenais les choses au sérieux.",
+      "metadata": {
+        "string_id": 2980,
+        "speaker_string_id": 2981,
+        "dialogue_id": "HRE01-T010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Tu as hâte à ce point-là que je te remplace ?",
+      "metadata": {
+        "string_id": 2969,
+        "speaker_string_id": 2970,
+        "dialogue_id": "HRE01-T020-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Bien sûr. J’adorerais pouvoir enfin prendre ma retraite.",
+      "metadata": {
+        "string_id": 2974,
+        "speaker_string_id": 2975,
+        "dialogue_id": "HRE01-T030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Couvrir le prince de fleurs me semble un peu exagéré.",
+      "metadata": {
+        "string_id": 2985,
+        "speaker_string_id": 2986,
+        "dialogue_id": "HRE01-T040-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "C’est un évènement digne d’être célébré, Garek. Le peuple mérite de se réjouir.",
+      "metadata": {
+        "string_id": 3199,
+        "speaker_string_id": 3200,
+        "dialogue_id": "HRE01-T050-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "C’est vrai ? Le prince Arthas est enfin de retour ? Il était temps !",
+      "metadata": {
+        "string_id": 3181,
+        "speaker_string_id": 3182,
+        "dialogue_id": "HRE01-T060-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Est-ce que quelqu’un sait pourquoi le prince est allé jusqu’au Norfendre ? Qu’est-ce qu’il pouvait bien avoir à faire là-bas ?",
+      "metadata": {
+        "string_id": 3219,
+        "speaker_string_id": 3220,
+        "dialogue_id": "HRE01-T070-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Apparemment, le prince Arthas a dissolu l’ordre des paladins avant de partir. Pourquoi aurait-il fait ça ?",
+      "metadata": {
+        "string_id": 3372,
+        "speaker_string_id": 3373,
+        "dialogue_id": "HRE01-T080-GUARDSMAN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Madame, vous devez déplacer votre chariot. Il bloque les portes du palais.",
+      "metadata": {
+        "string_id": 2760,
+        "speaker_string_id": 2761,
+        "dialogue_id": "HRE01-T100-GAREK"
+      }
+    },
+    {
+      "speaker": "Alicia",
+      "text": "Mais la roue est irréparable !",
+      "metadata": {
+        "string_id": 2802,
+        "speaker_string_id": 2803,
+        "dialogue_id": "HRE01-T110-ALICIA"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Pas d’inquiétude. Nous la remplacerons.",
+      "metadata": {
+        "string_id": 2816,
+        "speaker_string_id": 2817,
+        "dialogue_id": "HRE01-T120-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "De l’argent bien dépensé. On va pouvoir écarter le chariot du chemin du prince.",
+      "metadata": {
+        "string_id": 2998,
+        "speaker_string_id": 2999,
+        "dialogue_id": "HRE01-T130-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Mais elle serait quand même cassée. Notre rôle est d’aider les gens, pas de les mettre de côté.",
+      "metadata": {
+        "string_id": 3000,
+        "speaker_string_id": 3001,
+        "dialogue_id": "HRE01-T140-LANDEN"
+      }
+    },
+    {
+      "speaker": "Alicia",
+      "text": "Oh, merci ! Veuillez accepter ceci en signe de reconnaissance.",
+      "metadata": {
+        "string_id": 3205,
+        "speaker_string_id": 3206,
+        "dialogue_id": "HRE01-T150-ALICIA"
+      }
+    },
+    {
+      "speaker": "Eugène",
+      "text": "Halte ! Au voleur !",
+      "metadata": {
+        "string_id": 3215,
+        "speaker_string_id": 3216,
+        "dialogue_id": "HRE01-T160-MERCHANT"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Suivez-le !",
+      "metadata": {
+        "string_id": 3217,
+        "speaker_string_id": 3218,
+        "dialogue_id": "HRE01-T170-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Je ne laisserai pas le prince Arthas retourner dans une ville rongée par la criminalité.",
+      "metadata": {
+        "string_id": 3035,
+        "speaker_string_id": 3036,
+        "dialogue_id": "HRE01-T180-LANDEN"
+      }
+    },
+    {
+      "speaker": "Luca",
+      "text": "Je l’ai vu ! Le prince Arthas a purgé Stratholme ! Il les a tous tués !",
+      "metadata": {
+        "string_id": 3191,
+        "speaker_string_id": 3192,
+        "dialogue_id": "HRE01-T190-LUCA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous devrions jeter un coup d’œil.",
+      "metadata": {
+        "string_id": 3195,
+        "speaker_string_id": 3196,
+        "dialogue_id": "HRE01-T200-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "On bouge !",
+      "metadata": {
+        "string_id": 3016,
+        "speaker_string_id": 3017,
+        "dialogue_id": "HRE01-T210-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Tu peux dessoûler chez toi ou en cellule. C’est toi qui vois.",
+      "metadata": {
+        "string_id": 3021,
+        "speaker_string_id": 3022,
+        "dialogue_id": "HRE01-T220-LANDEN"
+      }
+    },
+    {
+      "speaker": "Luca",
+      "text": "Je sais ce que j’ai vu !",
+      "metadata": {
+        "string_id": 3207,
+        "speaker_string_id": 3208,
+        "dialogue_id": "HRE01-T230-LUCA"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Tu crois ce qu’il disait ?",
+      "metadata": {
+        "string_id": 3008,
+        "speaker_string_id": 3009,
+        "dialogue_id": "HRE01-T240-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Ce sont des rumeurs infondées. Personne ne sait vraiment ce qui s’est passé à Stratholme, mais je suis persuadé que le prince Arthas a fait tout ce qu’il pouvait pour ses sujets.",
+      "metadata": {
+        "string_id": 3010,
+        "speaker_string_id": 3011,
+        "dialogue_id": "HRE01-T250-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Eh bien, ça a été une dure journée. Je suis sûr que notre cher prince saura l’apprécier.",
+      "metadata": {
+        "string_id": 2989,
+        "speaker_string_id": 2990,
+        "dialogue_id": "HRE01-T260-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "On dirait que le prince Arthas est arrivé. Retournons à notre poste.",
+      "metadata": {
+        "string_id": 2976,
+        "speaker_string_id": 2977,
+        "dialogue_id": "HRE01-T270-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Garek…",
+      "metadata": {
+        "string_id": 3443,
+        "speaker_string_id": 3442,
+        "dialogue_id": "HRE01-C020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Garek !",
+      "metadata": {
+        "string_id": 3410,
+        "speaker_string_id": 3411,
+        "dialogue_id": "HRE01-C020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Sauf votre respect, Capitaine, je n’ai pas rejoint la garde de la ville pour balayer les rues avant chaque passage de la famille royale.",
+      "metadata": {
+        "string_id": 2878,
+        "speaker_string_id": 2879,
+        "dialogue_id": "HRE01-M015-010-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Je suis ici pour me battre au nom de Lordaeron. Je veux sentir l’adrénaline du combat et récolter la gloire de la victoire.",
+      "metadata": {
+        "string_id": 2881,
+        "speaker_string_id": 2882,
+        "dialogue_id": "HRE01-M015-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Garek, j’ai pris part à suffisamment de conflits pour savoir que la gloire est un mythe.",
+      "metadata": {
+        "string_id": 2884,
+        "speaker_string_id": 2885,
+        "dialogue_id": "HRE01-M015-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "La vraie victoire, c’est la survie. Et la paix n’a pas de prix. N’oubliez jamais ça.",
+      "metadata": {
+        "string_id": 2887,
+        "speaker_string_id": 2888,
+        "dialogue_id": "HRE01-M015-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Attendez… vous avez entendu ça ?",
+      "metadata": {
+        "string_id": 2890,
+        "speaker_string_id": 2891,
+        "dialogue_id": "HRE01-M015-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Qu’est-ce que c’était que ça ?",
+      "metadata": {
+        "string_id": 3044,
+        "speaker_string_id": 3045,
+        "dialogue_id": "HRE01-T280-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Je ne… Garek ! Attention !",
+      "metadata": {
+        "string_id": 3048,
+        "speaker_string_id": 3049,
+        "dialogue_id": "HRE01-T290-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Pour Lordaeron !",
+      "metadata": {
+        "string_id": 3314,
+        "speaker_string_id": 3315,
+        "dialogue_id": "FootmanWarcry1"
+      }
+    },
+    {
+      "speaker": "Prêtre",
+      "text": "Disparaissez, rebuts des ténèbres !",
+      "metadata": {
+        "string_id": 3312,
+        "speaker_string_id": 3313,
+        "dialogue_id": "PriestYesAttack1"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Aux armes !",
+      "metadata": {
+        "string_id": 3310,
+        "speaker_string_id": 3311,
+        "dialogue_id": "FootmanYesAttack3"
+      }
+    },
+    {
+      "speaker": "Assassin",
+      "text": "Attrapez-les !",
+      "metadata": {
+        "string_id": 3336,
+        "speaker_string_id": 3337,
+        "dialogue_id": "BanditYesAttack3"
+      }
+    },
+    {
+      "speaker": "Tisse-chancre",
+      "text": "Nos projets se concrétisent ! La mort vous emportera tous !",
+      "metadata": {
+        "string_id": 3340,
+        "speaker_string_id": 3341,
+        "dialogue_id": "HRE01-T470-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "Nécromancien",
+      "text": "Tremblez devant le Fléau !",
+      "metadata": {
+        "string_id": 3346,
+        "speaker_string_id": 3347,
+        "dialogue_id": "NecromancerYesAttack2"
+      }
+    },
+    {
+      "speaker": "Tisse-chancre",
+      "text": "J’ai attendu ce jour pendant si longtemps !",
+      "metadata": {
+        "string_id": 3344,
+        "speaker_string_id": 3345,
+        "dialogue_id": "HRE01-T480-BLIGHTWEAVER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "La porte est fermée !",
+      "metadata": {
+        "string_id": 3051,
+        "speaker_string_id": 3052,
+        "dialogue_id": "HRE01-T300-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Nous devons trouver un autre moyen d’entrer. Vite !",
+      "metadata": {
+        "string_id": 3056,
+        "speaker_string_id": 3057,
+        "dialogue_id": "HRE01-T310-LANDEN"
+      }
+    },
+    {
+      "speaker": "Arthas",
+      "text": "Ce royaume va s’effondrer, et de ses cendres naîtra un nouvel ordre qui ébranlera les fondements mêmes du monde !",
+      "metadata": {
+        "string_id": 3223,
+        "speaker_string_id": 3224,
+        "dialogue_id": "HRE01-T320-ARTHAS"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Les rumeurs disaient donc vrai… Le prince Arthas a perdu la raison !",
+      "metadata": {
+        "string_id": 3239,
+        "speaker_string_id": 3240,
+        "dialogue_id": "HRE01-T330-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Roi Terenas ! Non !",
+      "metadata": {
+        "string_id": 2893,
+        "speaker_string_id": 2894,
+        "dialogue_id": "HRE01-M020-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Les morts-vivants ! Capitaine, nous devons prendre part au combat !",
+      "metadata": {
+        "string_id": 3068,
+        "speaker_string_id": 3069,
+        "dialogue_id": "HRE01-T340-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Que s’est-il passé ici ?!",
+      "metadata": {
+        "string_id": 3070,
+        "speaker_string_id": 3071,
+        "dialogue_id": "HRE01-T350-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "C’était… C’était le prince Arthas, Sire. ! Il a tué le roi ! Son propre père !",
+      "metadata": {
+        "string_id": 3078,
+        "speaker_string_id": 3149,
+        "dialogue_id": "HRE01-T360-THRONEROOMGUARD"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Il est de mèche avec ces monstres ?!",
+      "metadata": {
+        "string_id": 3073,
+        "speaker_string_id": 3074,
+        "dialogue_id": "HRE01-T370-GAREK"
+      }
+    },
+    {
+      "speaker": "Seigneur Vileor",
+      "text": "Enfin, le Culte des damnés va réduire Lordaeron en cendres !",
+      "metadata": {
+        "string_id": 3348,
+        "speaker_string_id": 3349,
+        "dialogue_id": "HRE01-T380-LORDVILEOR"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Ça ne s’arrêtera donc jamais ? Nous devons trouver un moyen de sortir d’ici !",
+      "metadata": {
+        "string_id": 3079,
+        "speaker_string_id": 3080,
+        "dialogue_id": "HRE01-T390-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Uther le Porteur de Lumière !",
+      "metadata": {
+        "string_id": 3426,
+        "speaker_string_id": 3427,
+        "dialogue_id": "HRE01-C030-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Gardes ! Êtes-vous blessés ?",
+      "metadata": {
+        "string_id": 3430,
+        "speaker_string_id": 3431,
+        "dialogue_id": "HRE01-C030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Non, Monseigneur…",
+      "metadata": {
+        "string_id": 3434,
+        "speaker_string_id": 3435,
+        "dialogue_id": "HRE01-C030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Mais le roi Terenas…",
+      "metadata": {
+        "string_id": 3440,
+        "speaker_string_id": 3441,
+        "dialogue_id": "HRE01-C030-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Mon Roi…",
+      "metadata": {
+        "string_id": 3422,
+        "speaker_string_id": 3423,
+        "dialogue_id": "HRE01-C030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Seigneur Uther, que se passe-t-il ?",
+      "metadata": {
+        "string_id": 2902,
+        "speaker_string_id": 2903,
+        "dialogue_id": "HRE01-M030-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "La cité est tombée aux mains des sectateurs et des Morts-vivants. Arthas nous a trahis !",
+      "metadata": {
+        "string_id": 2905,
+        "speaker_string_id": 2906,
+        "dialogue_id": "HRE01-M030-020-UTHER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Comment ?!",
+      "metadata": {
+        "string_id": 2908,
+        "speaker_string_id": 2909,
+        "dialogue_id": "HRE01-M030-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Je n’ai pas pu sauver le roi Terenas, mais son traître de fils paiera pour ses actes.",
+      "metadata": {
+        "string_id": 2911,
+        "speaker_string_id": 2912,
+        "dialogue_id": "HRE01-M030-040-UTHER"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Vous deux, rassemblez la garde de la ville et sauvez le plus de civils possible.",
+      "metadata": {
+        "string_id": 2914,
+        "speaker_string_id": 2915,
+        "dialogue_id": "HRE01-M030-050-UTHER"
+      }
+    },
+    {
+      "speaker": "Uther",
+      "text": "Retrouvons-nous à Andorhal. Que la Lumière vous guide.",
+      "metadata": {
+        "string_id": 2917,
+        "speaker_string_id": 2918,
+        "dialogue_id": "HRE01-M030-060-UTHER"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Capitaine… que faisons-nous ?",
+      "metadata": {
+        "string_id": 3088,
+        "speaker_string_id": 3089,
+        "dialogue_id": "HRE01-T400-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Un ancien itinéraire d’évacuation passe par les égouts. Espérons qu’il soit encore utilisable.",
+      "metadata": {
+        "string_id": 3086,
+        "speaker_string_id": 3087,
+        "dialogue_id": "HRE01-T410-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Arthas ! Ce sale traître !",
+      "metadata": {
+        "string_id": 3175,
+        "speaker_string_id": 3176,
+        "dialogue_id": "HRE01-T420-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Uther s’occupera de lui ! Nous devons continuer d’avancer !",
+      "metadata": {
+        "string_id": 3041,
+        "speaker_string_id": 3042,
+        "dialogue_id": "HRE01-T430-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Par la Lumière…",
+      "metadata": {
+        "string_id": 2920,
+        "speaker_string_id": 2921,
+        "dialogue_id": "HRE01-M040-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "C’est un cauchemar… Comment Arthas a-t-il pu damner son propre royaume ?!",
+      "metadata": {
+        "string_id": 2923,
+        "speaker_string_id": 2924,
+        "dialogue_id": "HRE01-M040-020-GAREK"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Nous devons nous battre ! Allons chasser ces monstres et leur reprendre notre ville par la force !",
+      "metadata": {
+        "string_id": 2926,
+        "speaker_string_id": 2927,
+        "dialogue_id": "HRE01-M040-030-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Garek, écoutez-moi. La ville est tombée, mais elle pourra être reconstruite. Le plus important, c’est de protéger notre peuple.",
+      "metadata": {
+        "string_id": 2930,
+        "speaker_string_id": 2931,
+        "dialogue_id": "HRE01-M040-040-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Oui… vous avez raison. Rejoignons les égouts.",
+      "metadata": {
+        "string_id": 2933,
+        "speaker_string_id": 2934,
+        "dialogue_id": "HRE01-M040-050-GAREK"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Capitaine Landen ! Lieutenant Bandarion !",
+      "metadata": {
+        "string_id": 3279,
+        "speaker_string_id": 3280,
+        "dialogue_id": "HRE01-T500-GUARD1"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Avec nous, gardes !",
+      "metadata": {
+        "string_id": 3281,
+        "speaker_string_id": 3282,
+        "dialogue_id": "HRE01-T510-GAREK"
+      }
+    },
+    {
+      "speaker": "Villageois",
+      "text": "Gloire à la Lumière ! D’autres survivants sont piégés de l’autre côté du palais !",
+      "metadata": {
+        "string_id": 3293,
+        "speaker_string_id": 3294,
+        "dialogue_id": "HRE01-T520-SURVIVOR"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Nous ferons tout notre possible pour les sauver. Restez ici pendant que nous dégageons le passage !",
+      "metadata": {
+        "string_id": 3297,
+        "speaker_string_id": 3298,
+        "dialogue_id": "HRE01-T530-LANDEN"
+      }
+    },
+    {
+      "speaker": "Fusilier",
+      "text": "Gardes ! Nous allons vous aider !",
+      "metadata": {
+        "string_id": 3277,
+        "speaker_string_id": 3278,
+        "dialogue_id": "HRE01-T540-RIFLEMAN"
+      }
+    },
+    {
+      "speaker": "Nécromancien",
+      "text": "Nul ne survivra !",
+      "metadata": {
+        "string_id": 3144,
+        "speaker_string_id": 3145,
+        "dialogue_id": "NecromancerYesAttack3"
+      }
+    },
+    {
+      "speaker": "Goule",
+      "text": "Vous servirez d’engrais !",
+      "metadata": {
+        "string_id": 3275,
+        "speaker_string_id": 3276,
+        "dialogue_id": "GhoulWhat4"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Par ici ! Nous avons besoin d’aide !",
+      "metadata": {
+        "string_id": 3283,
+        "speaker_string_id": 3284,
+        "dialogue_id": "HRE01-T560-GUARD3"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "La zone est sécurisée pour l’instant. Gardez la position et attendez notre signal !",
+      "metadata": {
+        "string_id": 3285,
+        "speaker_string_id": 3286,
+        "dialogue_id": "HRE01-T570-LANDEN"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Nous y sommes presque ! La sortie est juste devant nous !",
+      "metadata": {
+        "string_id": 2866,
+        "speaker_string_id": 2867,
+        "dialogue_id": "HRE01-C040-010-LANDEN"
+      }
+    },
+    {
+      "speaker": "Fudge",
+      "text": "Trancher et déchirer !",
+      "metadata": {
+        "string_id": 2875,
+        "speaker_string_id": 2876,
+        "dialogue_id": "AbominationYes3"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "L’abomination nous empêche d’accéder aux égouts.",
+      "metadata": {
+        "string_id": 2869,
+        "speaker_string_id": 2870,
+        "dialogue_id": "HRE01-C040-030-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garek",
+      "text": "Plus pour longtemps.",
+      "metadata": {
+        "string_id": 2872,
+        "speaker_string_id": 2873,
+        "dialogue_id": "HRE01-C040-040-GAREK"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "La voie est libre ! Rassemblez les survivants !",
+      "metadata": {
+        "string_id": 3383,
+        "speaker_string_id": 3384,
+        "dialogue_id": "HRE01-T590-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Capitaine Landen ! Nous avons sécurisé les tunnels de sortie.",
+      "metadata": {
+        "string_id": 2936,
+        "speaker_string_id": 2937,
+        "dialogue_id": "HRE01-M050-010-GUARD2"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Beau travail, soldats ! Que tout le monde se dirige vers les égouts !",
+      "metadata": {
+        "string_id": 2939,
+        "speaker_string_id": 2940,
+        "dialogue_id": "HRE01-M050-020-LANDEN"
+      }
+    },
+    {
+      "speaker": "Garde de la ville",
+      "text": "Partez devant avec les survivants ! Nous allons les retenir !",
+      "metadata": {
+        "string_id": 2942,
+        "speaker_string_id": 2943,
+        "dialogue_id": "HRE01-M050-030-GUARD2"
+      }
+    },
+    {
+      "speaker": "Landen",
+      "text": "Pour Lordaeron.",
+      "metadata": {
+        "string_id": 2945,
+        "speaker_string_id": 2946,
+        "dialogue_id": "HRE01-M050-040-LANDEN"
+      }
+    }
+  ]
+}

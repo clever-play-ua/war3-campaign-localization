@@ -1,0 +1,59 @@
+{
+  "map": "UndeadRE03Interlude",
+  "title": "A Looming Shadow",
+  "locale": "deDE",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A3I-C010-010-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Bernd braucht Todeswachen als Schutz für seine Holzfäller. Offenbar plant er, im Silberwald Holz zu schlagen.",
+      "string_id": 25,
+      "speaker_string_id": 20,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-010-GAREK.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A3I-C010-020-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Hat er sich wieder über die Qualität der Bäume in Tirisfal beschwert?",
+      "raw": "[\"Happy\" type=quad v2=0.5 v3=0.5 easein=0.45 easeout=0.45]Hat er sich wieder über die Qualität der Bäume in Tirisfal beschwert?[/\"Happy\"]",
+      "string_id": 26,
+      "speaker_string_id": 21,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-020-ANYA.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A3I-C010-030-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "Natürlich. Ich habe versucht, ihn vor den Gefahren im Silberwald zu warnen. In der Nähe der Unterstadt wäre er besser aufgehoben, dort ist es …",
+      "string_id": 27,
+      "speaker_string_id": 22,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A3I-C010-040-GAREK",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Garek",
+      "text": "… sicher",
+      "string_id": 28,
+      "speaker_string_id": 23,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-040-GAREK.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A3I-C010-050-ANYA",
+      "scene": "Initialization.Dialogue Reference",
+      "speaker": "Anya",
+      "text": "Nein …",
+      "string_id": 29,
+      "speaker_string_id": 24,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre03i/A3I-C010-050-ANYA.ogg"
+    }
+  ]
+}

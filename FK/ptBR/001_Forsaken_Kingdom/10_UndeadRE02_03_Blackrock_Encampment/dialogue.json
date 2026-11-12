@@ -1,0 +1,98 @@
+{
+  "map": "UndeadRE02_03",
+  "title": "Blackrock Encampment",
+  "locale": "ptBR",
+  "order_note": "Sorted by recording id: C (cinematics), M (in-engine cutscenes), T (gameplay transmissions); unit barks follow their trigger group. Interleaving of C/M/T is not confirmed.",
+  "lines": [
+    {
+      "n": 1,
+      "id": "A2M3-T010-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Anya",
+      "text": "Orcs. Eles mancham essas terras há anos.",
+      "string_id": 39,
+      "speaker_string_id": 40,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T010-ANYA.ogg"
+    },
+    {
+      "n": 2,
+      "id": "A2M3-T020-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Leonid",
+      "text": "Nem todos eles. Mas o clã Rocha Negra é conhecido por seus saques brutais.",
+      "string_id": 319,
+      "speaker_string_id": 320,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T020-LEONID.ogg"
+    },
+    {
+      "n": 3,
+      "id": "A2M3-T030-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 01 Orcs Stain On These Lands",
+      "speaker": "Garek",
+      "text": "Então precisamos fazê-los repensar antes de saquear os Renegados.",
+      "string_id": 317,
+      "speaker_string_id": 318,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T030-GAREK.ogg"
+    },
+    {
+      "n": 4,
+      "id": "A2M3-T040-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 02 The Deed Is Done",
+      "speaker": "Anya",
+      "text": "Está feito. Talvez os outros orcs sigam este aviso.",
+      "string_id": 53,
+      "speaker_string_id": 54,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T040-ANYA.ogg"
+    },
+    {
+      "n": 5,
+      "id": "A2M3-T050-GAREK",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Garek",
+      "text": "Leonid, você disse que nem todos os orcs ameaçam essa região. Você já conheceu outros deles?",
+      "string_id": 57,
+      "speaker_string_id": 58,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T050-GAREK.ogg"
+    },
+    {
+      "n": 6,
+      "id": "A2M3-T060-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Leonid",
+      "text": "Sim, na Aurora Argêntea. Ouvi rumores de um jovem chefe guerreiro que guiou vários orcs pelo mar.",
+      "string_id": 335,
+      "speaker_string_id": 336,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T060-LEONID.ogg"
+    },
+    {
+      "n": 7,
+      "id": "A2M3-T061-LEONID",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Leonid",
+      "text": "Dizem que eles estão formando uma \"nova Horda\" que valoriza força e honra.",
+      "string_id": 325,
+      "speaker_string_id": 326,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T061-LEONID.ogg"
+    },
+    {
+      "n": 8,
+      "id": "A2M3-T070-ANYA",
+      "scene": "Dialogues.Transmissions Dialogue 03 Not All Orcs",
+      "speaker": "Anya",
+      "text": "Só acredito nisso vendo com meus próprios olhos.",
+      "string_id": 71,
+      "speaker_string_id": 72,
+      "sound": "Sound/Dialogue/UndeadRECamp/Undeadre02m3/A2M3-T070-ANYA.ogg"
+    },
+    {
+      "n": 9,
+      "id": "HeroBladeMasterYesAttack3",
+      "scene": "Dialogues.Transmissions Dialogue 04 Blademaster Taunt 1",
+      "speaker": "Nikoro",
+      "text": "Sinta o gostinho da minha lâmina!",
+      "string_id": 341,
+      "speaker_string_id": 342,
+      "sound": "Units/Orc/HeroBladeMaster/HeroBladeMasterYesAttack3.flac"
+    }
+  ]
+}
