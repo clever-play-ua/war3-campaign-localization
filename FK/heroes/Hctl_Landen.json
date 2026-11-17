@@ -1,0 +1,1433 @@
+{
+ "unit": "Hctl",
+ "name": "Landen",
+ "title": "Guard Captain",
+ "sections": [
+  {
+   "id": "Hctl",
+   "kind": "unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Guard Captain",
+      "deDE": "Wachhauptmann",
+      "esES": "Capitán de la guardia",
+      "esMX": "Capitán de la guardia",
+      "frFR": "Capitaine de la garde",
+      "koKR": "경비대장",
+      "plPL": "Kapitan straży",
+      "ptBR": "Capitão da Guarda",
+      "ruRU": "Капитан стражи"
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "G",
+      "deDE": "G",
+      "esES": "G",
+      "esMX": "G",
+      "frFR": "G",
+      "koKR": "G",
+      "plPL": "G",
+      "ptBR": "G",
+      "ruRU": "G"
+     }
+    },
+    {
+     "key": "Propernames",
+     "per_level": false,
+     "values": {
+      "enUS": "Landen",
+      "deDE": "Landen",
+      "esES": "Landen",
+      "esMX": "Landen",
+      "frFR": "Landen",
+      "koKR": "랜든",
+      "plPL": "Landen",
+      "ptBR": "Landen",
+      "ruRU": "Ланден"
+     }
+    },
+    {
+     "key": "Revivetip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Guard Captain",
+      "deDE": "Wachhauptmann wiederbeleben",
+      "esES": "Revivir al capitán de la guardia",
+      "esMX": "Revivir Capitán de la guardia",
+      "frFR": "Ressusciter le Capitaine de la garde",
+      "koKR": "경비대장 부활",
+      "plPL": "Ożywienie Kapitana Straży",
+      "ptBR": "Reviver Capitão da Guarda",
+      "ruRU": "Воскресить капитана стражи"
+     }
+    },
+    {
+     "key": "Awakentip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Guard Captain",
+      "deDE": "Wachhauptmann wiederbeleben",
+      "esES": "Revivir al capitán de la guardia",
+      "esMX": "Revivir Capitán de la guardia",
+      "frFR": "Ressusciter le Capitaine de la garde",
+      "koKR": "경비대장 부활",
+      "plPL": "Ożywienie Kapitana Straży",
+      "ptBR": "Reviver Capitão da Guarda",
+      "ruRU": "Воскресить капитана стражи"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNLanden.blp",
+   "data": {}
+  },
+  {
+   "id": "AHhs",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Heroic Slash",
+      "deDE": "Heroisches Schlitzen",
+      "esES": "Tajo heroico",
+      "esMX": "Tajo heroico",
+      "frFR": "Entaille héroïque",
+      "koKR": "영웅의 베기",
+      "plPL": "Heroiczne Cięcie",
+      "ptBR": "Talho Heroico",
+      "ruRU": "Героический удар сплеча"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Heroic Slash - [|cffffcc00Level 1|r]",
+       "Heroic Slash - [|cffffcc00Level 2|r]",
+       "Heroic Slash - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Heroisches Schlitzen [|cffffcc00Stufe 1|r]",
+       "Heroisches Schlitzen [|cffffcc00Stufe 2|r]",
+       "Heroisches Schlitzen [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Tajo heroico - [|cffffcc00Nivel 1|r]",
+       "Tajo heroico - [|cffffcc00Nivel 2|r]",
+       "Tajo heroico - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Tajo heroico - [|cffffcc00Nivel 1|r]",
+       "Tajo heroico - [|cffffcc00Nivel 2|r]",
+       "Tajo heroico - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Entaille héroïque de |cffffcc00niveau 1|r",
+       "Entaille héroïque de |cffffcc00niveau 2|r",
+       "Entaille héroïque de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "영웅의 베기 - [|cffffcc001레벨|r]",
+       "영웅의 베기 - [|cffffcc002레벨|r]",
+       "영웅의 베기 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Heroiczne Cięcie – [|cffffcc00poziom 1|r]",
+       "Heroiczne Cięcie – [|cffffcc00poziom 2|r]",
+       "Heroiczne Cięcie – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Talho Heroico - [|cffffcc00Nível 1|r]",
+       "Talho Heroico - [|cffffcc00Nível 2|r]",
+       "Talho Heroico - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Героический удар сплеча [|cffffcc001-й уровень|r]",
+       "Героический удар сплеча [|cffffcc002-й уровень|r]",
+       "Героический удар сплеча [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Attack a target, dealing <AHhs,DataA1> damage. Deals <AHhs,DataB1,%>% extra damage to debuffed enemies.",
+       "Attack a target, dealing <AHhs,DataA2> damage. Deals <AHhs,DataB2,%>% extra damage to debuffed enemies.",
+       "Attack a target, dealing <AHhs,DataA3> damage. Deals <AHhs,DataB3,%>% extra damage to debuffed enemies."
+      ],
+      "deDE": [
+       "Greift ein Ziel an und fügt ihm <AHhs,DataA1> Schaden zu. Fügt Gegnern, die von Schwächungszaubern betroffen sind, <AHhs,DataB1,%> % Bonusschaden zu.",
+       "Greift ein Ziel an und fügt ihm <AHhs,DataA2> Schaden zu. Fügt Gegnern, die von Schwächungszaubern betroffen sind, <AHhs,DataB2,%> % Bonusschaden zu.",
+       "Greift ein Ziel an und fügt ihm <AHhs,DataA3> Schaden zu. Fügt Gegnern, die von Schwächungszaubern betroffen sind, <AHhs,DataB3,%> % Bonusschaden zu."
+      ],
+      "esES": [
+       "Ataca a un objetivo, que recibe <AHhs,DataA1> p. de daño. Inflige un <AHhs,DataB1,%>% de daño adicional a los enemigos con perjuicio.",
+       "Ataca a un objetivo, que recibe <AHhs,DataA2> p. de daño. Inflige un <AHhs,DataB2,%>% de daño adicional a los enemigos con perjuicio.",
+       "Ataca a un objetivo, que recibe <AHhs,DataA3> p. de daño. Inflige un <AHhs,DataB3,%>% de daño adicional a los enemigos con perjuicio."
+      ],
+      "esMX": [
+       "Ataca a un objetivo, lo que inflige <AHhs,DataA1> de daño. Inflige un <AHhs,DataB1,%>% más de daño a los enemigos despotenciados.",
+       "Ataca a un objetivo, lo que inflige <AHhs,DataA2> de daño. Inflige un <AHhs,DataB2,%>% más de daño a los enemigos despotenciados.",
+       "Ataca a un objetivo, lo que inflige <AHhs,DataA3> de daño. Inflige un <AHhs,DataB3,%>% más de daño a los enemigos despotenciados."
+      ],
+      "frFR": [
+       "Attaque une cible, lui infligeant <AHhs,DataA1> points de dégâts. Inflige <AHhs,DataB1,%> % de dégâts supplémentaires aux adversaires affaiblis.",
+       "Attaque une cible, lui infligeant <AHhs,DataA2> points de dégâts. Inflige <AHhs,DataB2,%> % de dégâts supplémentaires aux adversaires affaiblis.",
+       "Attaque une cible, lui infligeant <AHhs,DataA3> points de dégâts. Inflige <AHhs,DataB3,%> % de dégâts supplémentaires aux adversaires affaiblis."
+      ],
+      "koKR": [
+       "대상을 공격해 <AHhs,DataA1> 피해를 줍니다. 약화된 적에게는 <AHhs,DataB1,%>%의 추가 피해를 줍니다.",
+       "대상을 공격해 <AHhs,DataA2> 피해를 줍니다. 약화된 적에게는 <AHhs,DataB2,%>%의 추가 피해를 줍니다.",
+       "대상을 공격해 <AHhs,DataA3> 피해를 줍니다. 약화된 적에게는 <AHhs,DataB3,%>%의 추가 피해를 줍니다."
+      ],
+      "plPL": [
+       "Atakuje cel i zadaje <AHhs,DataA1> pkt. obrażeń. Zadaje dodatkowo <AHhs,DataB1,%>% obrażeń osłabionym wrogom.",
+       "Atakuje cel i zadaje <AHhs,DataA2> pkt. obrażeń. Zadaje dodatkowo <AHhs,DataB2,%>% obrażeń osłabionym wrogom.",
+       "Atakuje cel i zadaje <AHhs,DataA3> pkt. obrażeń. Zadaje dodatkowo <AHhs,DataB3,%>% obrażeń osłabionym wrogom."
+      ],
+      "ptBR": [
+       "Ataca um alvo, causando <AHhs,DataA1> de dano. Causa <AHhs,DataB1,%>% de dano extra a inimigos com penalidades.",
+       "Ataca um alvo, causando <AHhs,DataA2> de dano. Causa <AHhs,DataB2,%>% de dano extra a inimigos com penalidades.",
+       "Ataca um alvo, causando <AHhs,DataA3> de dano. Causa <AHhs,DataB3,%>% de dano extra a inimigos com penalidades."
+      ],
+      "ruRU": [
+       "Атакует врага, нанося <AHhs,DataA1> урона. Враги под действием отрицательных эффектов получают на <AHhs,DataB1,%>% больше урона.",
+       "Атакует врага, нанося <AHhs,DataA2> урона. Враги под действием отрицательных эффектов получают на <AHhs,DataB2,%>% больше урона.",
+       "Атакует врага, нанося <AHhs,DataA3> урона. Враги под действием отрицательных эффектов получают на <AHhs,DataB3,%>% больше урона."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Heroic Slash - [|cffffcc00Level %d|r]",
+      "deDE": "Heroisches Schlitzen [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Tajo heroico - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Tajo heroico - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Entaille héroïque de |cffffcc00niveau %d|r",
+      "koKR": "영웅의 베기 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Heroicznego Cięcia – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Talho Heroico - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Героический удар сплеча» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Attack a target, dealing bonus damage to them if they are debuffed. |n|n|cffffcc00Level 1|r - <AHhs,DataA1> damage, <AHhs,DataB1,%>% bonus damage. |n|cffffcc00Level 2|r - <AHhs,DataA2> damage, <AHhs,DataB2,%>% bonus damage. |n|cffffcc00Level 3|r - <AHhs,DataA3> damage, <AHhs,DataB3,%>% bonus damage.",
+      "deDE": "Greift ein Ziel an und fügt ihm Bonusschaden zu, wenn es von einem Schwächungszauber betroffen ist. |n|n|cffffcc00Stufe 1|r - <AHhs,DataA1> Schaden, <AHhs,DataB1,%> % Bonusschaden. |n|cffffcc00Stufe 2|r - <AHhs,DataA2> Schaden, <AHhs,DataB2,%> % Bonusschaden. |n|cffffcc00Stufe 3|r - <AHhs,DataA3> Schaden, <AHhs,DataB3,%> % Bonusschaden.",
+      "esES": "Ataca a un objetivo, que recibe daño adicional si tiene un perjuicio. |n|n|cffffcc00Nivel 1|r - <AHhs,DataA1> p. de daño, <AHhs,DataB1,%>% de daño adicional. |n|cffffcc00Nivel 2|r - <AHhs,DataA2> p. de daño, <AHhs,DataB2,%>% de daño adicional. |n|cffffcc00Nivel 3|r - <AHhs,DataA3> p. de daño, <AHhs,DataB3,%>% de daño adicional.",
+      "esMX": "Ataca a un objetivo, lo que le inflige daño adicional si está despotenciado. |n|n|cffffcc00Nivel 1|r - <AHhs,DataA1> de daño, <AHhs,DataB1,%>% más de daño. |n|cffffcc00Nivel 2|r - <AHhs,DataA2> de daño, <AHhs,DataB2,%>% más de daño. |n|cffffcc00Nivel 3|r - <AHhs,DataA3> de daño, <AHhs,DataB3,%>% más de daño.",
+      "frFR": "Attaque une cible, lui infligeant des dégâts supplémentaires si elle est affaiblie. |n|n|cffffcc00Niveau 1 :|r <AHhs,DataA1> points de dégâts, <AHhs,DataB1,%> % de dégâts supplémentaires. |n|cffffcc00Niveau 2 :|r <AHhs,DataA2> points de dégâts, <AHhs,DataB2,%> % de dégâts supplémentaires. |n|cffffcc00Niveau 3 :|r <AHhs,DataA3> points de dégâts, <AHhs,DataB3,%> % de dégâts supplémentaires.",
+      "koKR": "대상을 공격합니다. 대상에게 약화 효과가 걸려 있는 경우 추가 피해를 줍니다. |n|n|cffffcc001레벨|r - <AHhs,DataA1> 피해를 주고, <AHhs,DataB1,%>% 추가 피해를 줍니다. |n|cffffcc002레벨|r - <AHhs,DataA2> 피해를 주고, <AHhs,DataB2,%>% 추가 피해를 줍니다. |n|cffffcc003레벨|r - <AHhs,DataA3> 피해를 주고, <AHhs,DataB3,%>% 추가 피해를 줍니다.",
+      "plPL": "Atakuje cel, zadaje dodatkowe obrażenia osłabionym celom.|n|n|cffffcc00Poziom 1|r – <AHhs,DataA1> pkt. obrażeń, <AHhs,DataB1,%> dodatkowych obrażeń.|n|cffffcc00Poziom 2|r – <AHhs,DataA2> pkt. obrażeń, <AHhs,DataB2,%> dodatkowych obrażeń.|n|cffffcc00Poziom 3|r – <AHhs,DataA3> pkt. obrażeń, <AHhs,DataB3,%> dodatkowych obrażeń.",
+      "ptBR": "Ataca um alvo, causando bônus de dano se ele estiver sob efeito de penalidades. |n|n|cffffcc00Nível 1|r - <AHhs,DataA1> de dano, <AHhs,DataB1,%>% de bônus de dano. |n|cffffcc00Nível 2|r - <AHhs,DataA2> de dano, <AHhs,DataB2,%>% de bônus de dano. |n|cffffcc00Nível 3|r - <AHhs,DataA3> de dano, <AHhs,DataB3,%>% de bônus de dano.",
+      "ruRU": "Атакует врага, нанося больше урона, если на него действуют отрицательные эффекты. |n|n|cffffcc001-й уровень:|r <AHhs,DataA1> урона, <AHhs,DataB1,%>% дополнительного урона. |n|cffffcc002-й уровень:|r <AHhs,DataA2> урона, <AHhs,DataB2,%>% дополнительного урона. |n|cffffcc003-й уровень|r: <AHhs,DataA3> урона, <AHhs,DataB3,%>% дополнительного урона."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNHeroicSlash.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "10",
+    "Cost1": "75",
+    "Area1": "0",
+    "Rng1": "100",
+    "DataA1": "100",
+    "DataB1": "0.25",
+    "DataC1": "0",
+    "DataD1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "10",
+    "Cost2": "75",
+    "Area2": "0",
+    "Rng2": "100",
+    "DataA2": "200",
+    "DataB2": "0.35",
+    "DataC2": "0",
+    "DataD2": "0",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "10",
+    "Cost3": "75",
+    "Area3": "0",
+    "Rng3": "100",
+    "DataA3": "300",
+    "DataB3": "0.45",
+    "DataC3": "0",
+    "DataD3": "0"
+   }
+  },
+  {
+   "id": "AHen",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Apprehend",
+      "deDE": "Ergreifen",
+      "esES": "Apresar",
+      "esMX": "Capturar",
+      "frFR": "Capture",
+      "koKR": "체포",
+      "plPL": "Pojmanie",
+      "ptBR": "Apreender",
+      "ruRU": "Задержание"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Apprehend - [|cffffcc00Level 1|r]",
+       "Apprehend - [|cffffcc00Level 2|r]",
+       "Apprehend - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Ergreifen [|cffffcc00Stufe 1|r]",
+       "Ergreifen [|cffffcc00Stufe 2|r]",
+       "Ergreifen [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Apresar - [|cffffcc00Nivel 1|r]",
+       "Apresar - [|cffffcc00Nivel 2|r]",
+       "Apresar - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Capturar - [|cffffcc00Nivel 1|r]",
+       "Capturar - [|cffffcc00Nivel 2|r]",
+       "Capturar - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Capture de |cffffcc00niveau 1|r",
+       "Capture de |cffffcc00niveau 2|r",
+       "Capture de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "체포 - [|cffffcc001레벨|r]",
+       "체포 - [|cffffcc002레벨|r]",
+       "체포 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Pojmanie – [|cffffcc00poziom 1|r]",
+       "Pojmanie – [|cffffcc00poziom 2|r]",
+       "Pojmanie – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Apreender - [|cffffcc00Nível 1|r]",
+       "Apreender - [|cffffcc00Nível 2|r]",
+       "Apreender - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Задержание [|cffffcc001-й уровень|r]",
+       "Задержание [|cffffcc002-й уровень|r]",
+       "Задержание [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Throw a net at an enemy, ensnaring them. Ensnared units have their attack rate reduced by <AHen,DataE1,%>% and cannot move.|nLasts <AHen,Dur1> seconds.",
+       "Throw a net at an enemy, ensnaring them. Ensnared units have their attack rate reduced by <AHen,DataE2,%>% and cannot move.|nLasts <AHen,Dur2> seconds.",
+       "Throw a net at an enemy, ensnaring them. Ensnared units have their attack rate reduced by <AHen,DataE3,%>% and cannot move.|nLasts <AHen,Dur3> seconds."
+      ],
+      "deDE": [
+       "Werft ein Netz auf einen Gegner und schnürt ihn ein. Die Angriffsgeschwindigkeit von eingeschnürten Einheiten ist um <AHen,DataE1,%> % verringert und sie sind bewegungsunfähig.|nHält <AHen,Dur1> Sek. lang an.",
+       "Werft ein Netz auf einen Gegner und schnürt ihn ein. Die Angriffsgeschwindigkeit von eingeschnürten Einheiten ist um <AHen,DataE2,%> % verringert und sie sind bewegungsunfähig.|nHält <AHen,Dur2> Sek. lang an.",
+       "Werft ein Netz auf einen Gegner und schnürt ihn ein. Die Angriffsgeschwindigkeit von eingeschnürten Einheiten ist um <AHen,DataE3,%> % verringert und sie sind bewegungsunfähig.|nHält <AHen,Dur3> Sek. lang an."
+      ],
+      "esES": [
+       "Lanza una red a un enemigo, que queda atrapado. Las unidades atrapadas tienen un <AHen,DataE1,%>% menos de velocidad de ataque y no pueden moverse.|nDura <AHen,Dur1> s.",
+       "Lanza una red a un enemigo, que queda atrapado. Las unidades atrapadas tienen un <AHen,DataE2,%>% menos de velocidad de ataque y no pueden moverse.|nDura <AHen,Dur2> s.",
+       "Lanza una red a un enemigo, que queda atrapado. Las unidades atrapadas tienen un <AHen,DataE3,%>% menos de velocidad de ataque y no pueden moverse.|nDura <AHen,Dur3> s."
+      ],
+      "esMX": [
+       "Lanza una red a un enemigo y lo atrapa. A las unidades atrapadas se les reduce la velocidad de ataque un <AHen,DataE1,%>% y no pueden moverse.|nDura <AHen,Dur1> segundos.",
+       "Lanza una red a un enemigo y lo atrapa. A las unidades atrapadas se les reduce la velocidad de ataque un <AHen,DataE2,%>% y no pueden moverse.|nDura <AHen,Dur2> segundos.",
+       "Lanza una red a un enemigo y lo atrapa. A las unidades atrapadas se les reduce la velocidad de ataque un <AHen,DataE3,%>% y no pueden moverse.|nDura <AHen,Dur3> segundos."
+      ],
+      "frFR": [
+       "Lance un filet sur une unité ennemie, ce qui l’immobilise. La vitesse d’attaque des unités immobilisées est réduite de <AHen,DataE1,%> %, et elles ne peuvent plus bouger.|nDure <AHen,Dur1> secondes.",
+       "Lance un filet sur une unité ennemie, ce qui l’immobilise. La vitesse d’attaque des unités immobilisées est réduite de <AHen,DataE2,%> %, et elles ne peuvent plus bouger.|nDure <AHen,Dur2> secondes.",
+       "Lance un filet sur une unité ennemie, ce qui l’immobilise. La vitesse d’attaque des unités immobilisées est réduite de <AHen,DataE3,%> %, et elles ne peuvent plus bouger.|nDure <AHen,Dur3> secondes."
+      ],
+      "koKR": [
+       "적에게 그물을 던져 구속합니다. 구속된 유닛은 공격 속도가 <AHen,DataE1,%>% 감소하고, 이동할 수 없게 됩니다.|n<AHen,Dur1>초 동안 지속됩니다.",
+       "적에게 그물을 던져 구속합니다. 구속된 유닛은 공격 속도가 <AHen,DataE2,%>% 감소하고, 이동할 수 없게 됩니다.|n<AHen,Dur2>초 동안 지속됩니다.",
+       "적에게 그물을 던져 구속합니다. 구속된 유닛은 공격 속도가 <AHen,DataE3,%>% 감소하고, 이동할 수 없게 됩니다.|n<AHen,Dur3>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Rzuca sieć na wroga i pęta go. Spętane jednostki atakują wolniej o <AHen,DataE1,%>% i nie mogą się poruszać.|nCzas działania: <AHen,Dur1> sek.",
+       "Rzuca sieć na wroga i pęta go. Spętane jednostki atakują wolniej o <AHen,DataE2,%>% i nie mogą się poruszać.|nCzas działania: <AHen,Dur2> sek.",
+       "Rzuca sieć na wroga i pęta go. Spętane jednostki atakują wolniej o <AHen,DataE3,%>% i nie mogą się poruszać.|nCzas działania: <AHen,Dur3> sek."
+      ],
+      "ptBR": [
+       "Joga uma rede em um inimigo, enredando-o. Unidades enredadas têm sua taxa de ataque reduzida em <AHen,DataE1,%>% e não conseguem se mover.|nDura <AHen,Dur1> segundos.",
+       "Joga uma rede em um inimigo, enredando-o. Unidades enredadas têm sua taxa de ataque reduzida em <AHen,DataE2,%>% e não conseguem se mover.|nDura <AHen,Dur2> segundos.",
+       "Joga uma rede em um inimigo, enredando-o. Unidades enredadas têm sua taxa de ataque reduzida em <AHen,DataE3,%>% e não conseguem se mover.|nDura <AHen,Dur3> segundos."
+      ],
+      "ruRU": [
+       "Бросает во врага опутывающую сеть. Попавшие в нее враги не могут передвигаться, а их скорость атаки снижается на <AHen,DataE1,%>%.|nВремя действия: <AHen,Dur1> сек.",
+       "Бросает во врага опутывающую сеть. Попавшие в нее враги не могут передвигаться, а их скорость атаки снижается на <AHen,DataE2,%>%.|nВремя действия: <AHen,Dur2> сек.",
+       "Бросает во врага опутывающую сеть. Попавшие в нее враги не могут передвигаться, а их скорость атаки снижается на <AHen,DataE3,%>%.|nВремя действия: <AHen,Dur3> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Apprehend - [|cffffcc00Level %d|r]",
+      "deDE": "Ergreifen [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Apresar - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Capturar - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Capture de |cffffcc00niveau %d|r",
+      "koKR": "체포 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Pojmania – [|cffffcc00poziom %d|r]",
+      "ruRU": "Изучить «Задержание» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Throw a net at an enemy, ensnaring them and reducing their attack rate. |n|n|cffffcc00Level 1|r - <AHen,DataE1,%>% attack rate, <AHen,Dur1> seconds. |n|cffffcc00Level 2|r - <AHen,DataE2,%>% attack rate, <AHen,Dur2> seconds.|n|cffffcc00Level 3|r - <AHen,DataE3,%>% attack rate, <AHen,Dur3> seconds.",
+      "deDE": "Werft ein Netz auf einen Gegner, wodurch er eingeschnürt und seine Angriffsgeschwindigkeit verringert wird. |n|n|cffffcc00Stufe 1|r - <AHen,DataE1,%> % Angriffsgeschwindigkeit, <AHen,Dur1> Sek. |n|cffffcc00Stufe 2|r - <AHen,DataE2,%> % Angriffsgeschwindigkeit, <AHen,Dur2> Sek.|n|cffffcc00Stufe 3|r - <AHen,DataE3,%> % Angriffsgeschwindigkeit, <AHen,Dur3> Sek.",
+      "esES": "Lanza una red a un enemigo, que queda atrapado y pierde velocidad de ataque. |n|n|cffffcc00Nivel 1|r - <AHen,DataE1,%>% de velocidad de ataque durante <AHen,Dur1> s. |n|cffffcc00Nivel 2|r - <AHen,DataE2,%>% de velocidad de ataque durante <AHen,Dur2> s.|n|cffffcc00Nivel 3|r - <AHen,DataE3,%>% de velocidad de ataque durante <AHen,Dur3> s.",
+      "esMX": "Lanza una red a un enemigo, lo que lo atrapa y reduce su velocidad de ataque. |n|n|cffffcc00Nivel 1|r - <AHen,DataE1,%>% de velocidad de ataque, <AHen,Dur1> segundos. |n|cffffcc00Nivel 2|r - <AHen,DataE2,%>% de velocidad de ataque, <AHen,Dur2> segundos.|n|cffffcc00Nivel 3|r - <AHen,DataE3,%>% de velocidad de ataque, <AHen,Dur3> segundos.",
+      "frFR": "Lance un filet sur une unité ennemie, ce qui l’immobilise et réduit sa vitesse d’attaque. |n|n|cffffcc00Niveau 1 :|r <AHen,DataE1,%> % de vitesse d’attaque, <AHen,Dur1> secondes. |n|cffffcc00Niveau 2 :|r <AHen,DataE2,%> % de vitesse d’attaque, <AHen,Dur2> secondes. |n|cffffcc00Niveau 3 :|r <AHen,DataE3,%> % de vitesse d’attaque, <AHen,Dur3> secondes.",
+      "koKR": "적에게 그물을 던져 구속해 공격 속도를 감소시킵니다. |n|n|cffffcc001레벨|r - 공격 속도를 <AHen,DataE1,%>% 감소시킵니다. <AHen,Dur1>초 동안 지속됩니다. |n|cffffcc002레벨|r - 공격 속도를 <AHen,DataE2,%>% 감소시킵니다. <AHen,Dur2>초 동안 지속됩니다.|n|cffffcc003레벨|r - 공격 속도를 <AHen,DataE3,%>% 감소시킵니다. <AHen,Dur3>초 동안 지속됩니다.",
+      "plPL": "Rzuca sieć na wroga i pęta go, co zmniejsza jego szybkość ataku. |n|n|cffffcc00Poziom 1|r – szybkość ataku zmniejszona o <AHen,DataE1,%>% na <AHen,Dur1> sek. |n|cffffcc00Poziom 2|r – szybkość ataku zmniejszona o <AHen,DataE2,%>% na <AHen,Dur2> sek. |n|cffffcc00Poziom 3|r – szybkość ataku zmniejszona o <AHen,DataE3,%>% na <AHen,Dur3> sek.",
+      "ptBR": "Joga uma rede em um inimigo, enredando-o e reduzindo sua taxa de ataque. |n|n|cffffcc00Nível 1|r - <AHen,DataE1,%>% de taxa de ataque, <AHen,Dur1> segundos. |n|cffffcc00Nível 2|r - <AHen,DataE2,%>% de taxa de ataque, <AHen,Dur2> segundos.|n|cffffcc00Nível 3|r - <AHen,DataE3,%>% de taxa de ataque, <AHen,Dur3> segundos.",
+      "ruRU": "Бросает во врага сеть, которая опутывает его и снижает его скорость атаки. |n|n|cffffcc001-й уровень:|r <AHen,DataE1,%>% скорости атаки, действует <AHen,Dur1> сек.|n|cffffcc002-й уровень:|r <AHen,DataE2,%>% скорости атаки, действует <AHen,Dur2> сек.|n|cffffcc003-й уровень:|r <AHen,DataE3,%>% скорости атаки, действует <AHen,Dur3> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNApprehend.blp",
+   "data": {
+    "Dur1": "8",
+    "HeroDur1": "1.5",
+    "Cool1": "20",
+    "Cost1": "65",
+    "Rng1": "500",
+    "DataA1": "0.6",
+    "DataB1": "200",
+    "DataC1": "128",
+    "DataD1": "0.1",
+    "DataE1": "0.3",
+    "Dur2": "10",
+    "HeroDur2": "3",
+    "Cool2": "15",
+    "Cost2": "65",
+    "Rng2": "500",
+    "DataA2": "0.6",
+    "DataB2": "200",
+    "DataC2": "128",
+    "DataD2": "0.1",
+    "DataE2": "0.45",
+    "Dur3": "15",
+    "HeroDur3": "5",
+    "Cool3": "10",
+    "Cost3": "65",
+    "Rng3": "500",
+    "DataA3": "0.6",
+    "DataB3": "200",
+    "DataC3": "128",
+    "DataD3": "0.1",
+    "DataE3": "0.6"
+   }
+  },
+  {
+   "id": "BHaa",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHen",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Apprehend"
+      ],
+      "deDE": [
+       "Ergreifen"
+      ],
+      "esES": [
+       "Apresar"
+      ],
+      "esMX": [
+       "Capturar"
+      ],
+      "frFR": [
+       "Capture"
+      ],
+      "koKR": [
+       "체포"
+      ],
+      "plPL": [
+       "Pojmanie"
+      ],
+      "ptBR": [
+       "Apreender"
+      ],
+      "ruRU": [
+       "Задержание"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit is ensnared; it has reduced attack rate and it cannot move or fly."
+      ],
+      "deDE": [
+       "Diese Einheit ist eingeschnürt. Sie hat eine verringerte Angriffsgeschwindigkeit und kann sich nicht bewegen oder fliegen."
+      ],
+      "esES": [
+       "Esta unidad está atrapada: su velocidad de ataque se reduce, y no puede moverse ni volar."
+      ],
+      "esMX": [
+       "Esta unidad está atrapada; se redujo su velocidad de ataque y no puede moverse ni volar."
+      ],
+      "frFR": [
+       "Cette unité est prise dans un filet. Sa vitesse d’attaque est réduite, et elle ne peut ni se déplacer ni voler."
+      ],
+      "koKR": [
+       "구속되었습니다. 공격 속도가 감소하고 움직이거나 비행할 수 없습니다."
+      ],
+      "plPL": [
+       "Ta jednostka została spętana: ma zmniejszoną szybkość ataku, nie może się poruszać ani latać."
+      ],
+      "ruRU": [
+       "Цель обездвижена и не может взлететь. Скорость атаки снижена."
+      ]
+     }
+    },
+    {
+     "key": "EditorSuffix",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       " (Air)"
+      ],
+      "deDE": [
+       "(Luft)"
+      ],
+      "esES": [
+       "(Aire)"
+      ],
+      "esMX": [
+       "(Aire)"
+      ],
+      "frFR": [
+       "(aérien)"
+      ],
+      "koKR": [
+       "(Air)"
+      ],
+      "plPL": [
+       "(Latająca)"
+      ],
+      "ptBR": [
+       "(Aéreo)"
+      ],
+      "ruRU": [
+       "(Air)"
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "BHag",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHen",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Apprehend"
+      ],
+      "deDE": [
+       "Ergreifen"
+      ],
+      "esES": [
+       "Apresar"
+      ],
+      "esMX": [
+       "Capturar"
+      ],
+      "frFR": [
+       "Capture"
+      ],
+      "koKR": [
+       "체포"
+      ],
+      "plPL": [
+       "Pojmanie"
+      ],
+      "ptBR": [
+       "Apreender"
+      ],
+      "ruRU": [
+       "Задержание"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit is ensnared; it has reduced attack rate and it cannot move or fly."
+      ],
+      "deDE": [
+       "Diese Einheit ist eingeschnürt. Sie hat eine verringerte Angriffsgeschwindigkeit und kann sich nicht bewegen oder fliegen."
+      ],
+      "esES": [
+       "Esta unidad está atrapada: su velocidad de ataque se reduce, y no puede moverse ni volar."
+      ],
+      "esMX": [
+       "Esta unidad está atrapada; se redujo su velocidad de ataque y no puede moverse ni volar."
+      ],
+      "frFR": [
+       "Cette unité est prise dans un filet. Sa vitesse d’attaque est réduite, et elle ne peut ni se déplacer ni voler."
+      ],
+      "koKR": [
+       "구속되었습니다. 공격 속도가 감소하고 움직이거나 비행할 수 없습니다."
+      ],
+      "plPL": [
+       "Ta jednostka została spętana: ma zmniejszoną szybkość ataku, nie może się poruszać ani latać."
+      ],
+      "ptBR": [
+       "Esta unidade está enredada. Sua taxa de ataque foi reduzida e não pode se mover nem voar."
+      ],
+      "ruRU": [
+       "Цель обездвижена и не может взлететь. Скорость атаки снижена."
+      ]
+     }
+    },
+    {
+     "key": "EditorSuffix",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       " (Ground)"
+      ],
+      "deDE": [
+       "(Boden)"
+      ],
+      "esES": [
+       "(Tierra)"
+      ],
+      "esMX": [
+       "(Tierra)"
+      ],
+      "frFR": [
+       "(terrestre)"
+      ],
+      "koKR": [
+       "(Ground)"
+      ],
+      "plPL": [
+       "(Naziemna)"
+      ],
+      "ptBR": [
+       "(Terrestre)"
+      ],
+      "ruRU": [
+       "(Ground)"
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AHic",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Inspire Courage",
+      "deDE": "Kampfmoral stärken",
+      "esES": "Inspirar coraje",
+      "esMX": "Inspirar valentía",
+      "frFR": "Élan de courage",
+      "koKR": "용기 북돋기",
+      "plPL": "Wzbudzenie Odwagi",
+      "ptBR": "Inspirar Coragem",
+      "ruRU": "Вдохновляющий призыв"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Inspire Courage - [|cffffcc00Level 1|r]",
+       "Inspire Courage - [|cffffcc00Level 2|r]",
+       "Inspire Courage - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Kampfmoral stärken [|cffffcc00Stufe 1|r]",
+       "Kampfmoral stärken [|cffffcc00Stufe 2|r]",
+       "Kampfmoral stärken [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Inspirar coraje - [|cffffcc00Nivel 1|r]",
+       "Inspirar coraje - [|cffffcc00Nivel 2|r]",
+       "Inspirar coraje - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Inspirar valentía - [|cffffcc00Nivel 1|r]",
+       "Inspirar valentía - [|cffffcc00Nivel 2|r]",
+       "Inspirar valentía - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Élan de courage de |cffffcc00niveau 1|r",
+       "Élan de courage de |cffffcc00niveau 2|r",
+       "Élan de courage de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "용기 북돋기 - [|cffffcc001레벨|r]",
+       "용기 북돋기 - [|cffffcc002레벨|r]",
+       "용기 북돋기 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Wzbudzenie Odwagi – [|cffffcc00poziom 1|r]",
+       "Wzbudzenie Odwagi – [|cffffcc00poziom 2|r]",
+       "Wzbudzenie Odwagi – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Inspirar Coragem - [|cffffcc00Nível 1|r]",
+       "Inspirar Coragem - [|cffffcc00Nível 2|r]",
+       "Inspirar Coragem - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Вдохновляющий призыв [|cffffcc001-й уровень|r]",
+       "Вдохновляющий призыв [|cffffcc002-й уровень|r]",
+       "Вдохновляющий призыв [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Landen inspires his allies, increasing their armor by <AHic,DataA1> and Magic Resistance by <AHic,DataB1,%>%.|nLasts <AHic,Dur1> seconds.",
+       "Landen inspires his allies, increasing their armor by <AHic,DataA2> and Magic Resistance by <AHic,DataB2,%>%.|nLasts <AHic,Dur2> seconds.",
+       "Landen inspires his allies, increasing their armor by <AHic,DataA3> and Magic Resistance by <AHic,DataB3,%>%.|nLasts <AHic,Dur3> seconds."
+      ],
+      "deDE": [
+       "Landen inspiriert seine Verbündeten, wodurch er ihre Rüstung um <AHic,DataA1> und ihren Magiewiderstand um <AHic,DataB1,%> % erhöht.|nHält <AHic,Dur1> Sek. lang an.",
+       "Landen inspiriert seine Verbündeten, wodurch er ihre Rüstung um <AHic,DataA2> und ihren Magiewiderstand um <AHic,DataB2,%> % erhöht.|nHält <AHic,Dur2> Sek. lang an.",
+       "Landen inspiriert seine Verbündeten, wodurch er ihre Rüstung um <AHic,DataA3> und ihren Magiewiderstand um <AHic,DataB3,%> % erhöht.|nHält <AHic,Dur3> Sek. lang an."
+      ],
+      "esES": [
+       "Landen inspira a sus aliados, lo que aumenta <AHic,DataA1> p. su armadura y un <AHic,DataB1,%>% su resistencia a la magia.|nDura <AHic,Dur1> s.",
+       "Landen inspira a sus aliados, lo que aumenta <AHic,DataA2> p. su armadura y un <AHic,DataB2,%>% su resistencia a la magia.|nDura <AHic,Dur2> s.",
+       "Landen inspira a sus aliados, lo que aumenta <AHic,DataA3> p. su armadura y un <AHic,DataB3,%>% su resistencia a la magia.|nDura <AHic,Dur3> s."
+      ],
+      "esMX": [
+       "Landen inspira a sus aliados, lo que aumenta su armadura en <AHic,DataA1> y la resistencia a la magia un <AHic,DataB1,%>%.|nDura <AHic,Dur1> segundos.",
+       "Landen inspira a sus aliados, lo que aumenta su armadura en <AHic,DataA2> y la resistencia a la magia un <AHic,DataB2,%>%.|nDura <AHic,Dur2> segundos.",
+       "Landen inspira a sus aliados, lo que aumenta su armadura en <AHic,DataA3> y la resistencia a la magia un <AHic,DataB3,%>%.|nDura <AHic,Dur3> segundos."
+      ],
+      "frFR": [
+       "Landen inspire ses unités alliées, ce qui augmente leur armure de <AHic,DataA1> points et leur résistance magique de <AHic,DataB1,%> %.|nDure <AHic,Dur1> secondes.",
+       "Landen inspire ses unités alliées, ce qui augmente leur armure de <AHic,DataA2> points et leur résistance magique de <AHic,DataB2,%> %.|nDure <AHic,Dur2> secondes.",
+       "Landen inspire ses unités alliées, ce qui augmente leur armure de <AHic,DataA3> points et leur résistance magique de <AHic,DataB3,%> %.|nDure <AHic,Dur3> secondes."
+      ],
+      "koKR": [
+       "랜든이 아군을 격려해 방어도를 <AHic,DataA1>, 마법 저항력을 <AHic,DataB1,%>% 증가시킵니다.|n<AHic,Dur1>초 동안 지속됩니다.",
+       "랜든이 아군을 격려해 방어도를 <AHic,DataA2>, 마법 저항력을 <AHic,DataB2,%>% 증가시킵니다.|n<AHic,Dur2>초 동안 지속됩니다.",
+       "랜든이 아군을 격려해 방어도를 <AHic,DataA3>, 마법 저항력을 <AHic,DataB3,%>% 증가시킵니다.|n<AHic,Dur3>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Landen inspiruje sojuszników i zwiększa wartość ich pancerza o <AHic,DataA1> pkt., a odporność na magię o <AHic,DataB1,%>%.|nCzas działania: <AHic,Dur1> sek.",
+       "Landen inspiruje sojuszników i zwiększa wartość ich pancerza o <AHic,DataA2> pkt., a odporność na magię o <AHic,DataB2,%>%.|nCzas działania: <AHic,Dur2> sek.",
+       "Landen inspiruje sojuszników i zwiększa wartość ich pancerza o <AHic,DataA3> pkt., a odporność na magię o <AHic,DataB3,%>%.|nCzas działania: <AHic,Dur3> sek."
+      ],
+      "ptBR": [
+       "Landen inspira seus aliados, aumentando sua armadura em <AHic,DataA1> e a Resistência à Magia em <AHic,DataB1,%>%.|nDura <AHic,Dur1> segundos.",
+       "Landen inspira seus aliados, aumentando sua armadura em <AHic,DataA2> e a Resistência à Magia em <AHic,DataB2,%>%.|nDura <AHic,Dur2> segundos.",
+       "Landen inspira seus aliados, aumentando sua armadura em <AHic,DataA3> e a Resistência à Magia em <AHic,DataB3,%>%.|nDura <AHic,Dur3> segundos."
+      ],
+      "ruRU": [
+       "Ланден воодушевляет союзников, увеличивая их броню на <AHic,DataA1> и сопротивление магии на <AHic,DataB1,%>%.|nВремя действия: <AHic,Dur1> сек.",
+       "Ланден воодушевляет союзников, увеличивая их броню на <AHic,DataA2> и сопротивление магии на <AHic,DataB2,%>%.|nВремя действия: <AHic,Dur2> сек.",
+       "Ланден воодушевляет союзников, увеличивая их броню на <AHic,DataA3> и сопротивление магии на <AHic,DataB3,%>%.|nВремя действия: <AHic,Dur3> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Inspire Courage - [|cffffcc00Level %d|r]",
+      "deDE": "Kampfmoral stärken [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Inspirar coraje - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Inspirar valentía - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Élan de courage de |cffffcc00niveau %d|r",
+      "koKR": "용기 북돋기 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Wzbudzenia Odwagi – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Inspirar Coragem - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Вдохновляющий призыв» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Nearby friendly units gain increased armor and Magic Resistance for a duration.|n|n|cffffcc00Level 1|r - <AHic,DataA1> armor, <AHic,DataB1,%>% Magic Resistance for <AHic,Dur1> seconds. |n|cffffcc00Level 2|r - <AHic,DataA2> armor, <AHic,DataB2,%>% Magic Resistance for <AHic,Dur2> seconds. |n|cffffcc00Level 3|r - <AHic,DataA3> armor, <AHic,DataB3,%>% Magic Resistance for <AHic,Dur3> seconds.",
+      "deDE": "Verbündete Einheiten in der Nähe erhalten vorübergehend Rüstung und Magiewiderstand.|n|n|cffffcc00Stufe 1|r - <AHic,Dur1> Sek. lang <AHic,DataA1> Rüstung und <AHic,DataB1,%> % Magiewiderstand. |n|cffffcc00Stufe 2|r - <AHic,Dur2> Sek. lang <AHic,DataA2> Rüstung und <AHic,DataB2,%> % Magiewiderstand. |n|cffffcc00Stufe 3|r - <AHic,Dur3> Sek. lang <AHic,DataA3> Rüstung und <AHic,DataB3,%> % Magiewiderstand.",
+      "esES": "Las unidades amistosas cercanas obtienen más armadura y resistencia a la magia durante un rato.|n|n|cffffcc00Nivel 1|r - <AHic,DataA1> p. de armadura, <AHic,DataB1,%>% de resistencia a la magia durante <AHic,Dur1> s. |n|cffffcc00Nivel 2|r - <AHic,DataA2> p. de armadura, <AHic,DataB2,%>% de resistencia a la magia durante <AHic,Dur2> s. |n|cffffcc00Nivel 3|r - <AHic,DataA3> p. de armadura, <AHic,DataB3,%>% de resistencia a la magia durante <AHic,Dur3> s.",
+      "esMX": "Las unidades aliadas cercanas obtienen más armadura y resistencia a la magia durante un tiempo.|n|n|cffffcc00Nivel 1|r - <AHic,DataA1> de armadura, <AHic,DataB1,%>% de resistencia a la magia durante <AHic,Dur1> segundos. |n|cffffcc00Nivel 2|r - <AHic,DataA2> de armadura, <AHic,DataB2,%>% de resistencia a la magia durante <AHic,Dur2> segundos. |n|cffffcc00Nivel 3|r - <AHic,DataA3> de armadura, <AHic,DataB3,%>% de resistencia a la magia durante <AHic,Dur3> segundos.",
+      "frFR": "L’armure et la résistance magique des unités alliées proches sont temporairement augmentées.|n|n|cffffcc00Niveau 1 :|r <AHic,DataA1> points d’armure, <AHic,DataB1,%> % de résistance magique pendant <AHic,Dur1> secondes. |n|cffffcc00Niveau 2 :|r <AHic,DataA2> points d’armure, <AHic,DataB2,%> % de résistance magique pendant <AHic,Dur2> secondes. |n|cffffcc00Niveau 3 :|r <AHic,DataA3> points d’armure, <AHic,DataB3,%> % de résistance magique pendant <AHic,Dur3> secondes.",
+      "koKR": "특정 기간 동안 주위 아군 유닛의 방어도와 마법 저항력이 증가합니다.|n|n|cffffcc001레벨|r - <AHic,Dur1>초 동안 방어도를 <AHic,DataA1>, 마법 저항력을 <AHic,DataB1,%>% 얻습니다. |n|cffffcc002레벨|r - <AHic,Dur2>초 동안 방어도를 <AHic,DataA2>, 마법 저항력을 <AHic,DataB2,%>% 얻습니다. |n|cffffcc003레벨|r - <AHic,Dur3>초 동안 방어도를 <AHic,DataA3>, 마법 저항력을 <AHic,DataB3,%>% 얻습니다.",
+      "plPL": "Pobliskie sojusznicze jednostki otrzymują na pewien czas premię do pancerza i odporności na magię.|n|n|cffffcc00Poziom 1|r – <AHic,DataA1> pkt. pancerza, <AHic,DataB1,%>% odporności na magię na <AHic,Dur1> sek. |n|cffffcc00Poziom 2|r – <AHic,DataA2> pkt. pancerza, <AHic,DataB2,%>% odporności na magię na <AHic,Dur2> sek. |n|cffffcc00Poziom 3|r – <AHic,DataA3> pkt. pancerza, <AHic,DataB3,%>% odporności na magię na <AHic,Dur3> sek.",
+      "ptBR": "Unidades aliadas próximas recebem armadura e Resistência à Magia aumentadas por um período.|n|n|cffffcc00Nível 1|r - <AHic,DataA1> de armadura, <AHic,DataB1,%>% de Resistência à Magia por <AHic,Dur1> segundos. |n|cffffcc00Nível 2|r - <AHic,DataA2> de armadura, <AHic,DataB2,%>% de Resistência à Magia por <AHic,Dur2> segundos. |n|cffffcc00Nível 3|r - <AHic,DataA3> de armadura, <AHic,DataB3,%>% de Resistência à Magia por <AHic,Dur3> segundos.",
+      "ruRU": "У находящихся рядом союзников усиливается броня и повышается сопротивление магии.|n|n|cffffcc001-й уровень:|r <AHic,DataA1> брони, <AHic,DataB1,%>% сопротивления магии на <AHic,Dur1> сек. |n|cffffcc002-й уровень:|r <AHic,DataA2> брони, <AHic,DataB2,%>% сопротивления магии на <AHic,Dur2> сек.|n|cffffcc003-й уровень:|r <AHic,DataA3> брони, <AHic,DataB3,%>% сопротивления магии на <AHic,Dur3> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNInspireCourage.blp",
+   "data": {
+    "Dur1": "15",
+    "HeroDur1": "15",
+    "Cool1": "30",
+    "Cost1": "75",
+    "Area1": "500",
+    "Rng1": "0",
+    "DataA1": "3",
+    "DataB1": "0.15",
+    "DataC1": "0",
+    "DataD1": "0",
+    "Dur2": "15",
+    "HeroDur2": "15",
+    "Cool2": "30",
+    "Cost2": "75",
+    "Area2": "500",
+    "Rng2": "0",
+    "DataA2": "7",
+    "DataB2": "0.25",
+    "DataC2": "0",
+    "DataD2": "0",
+    "Dur3": "15",
+    "HeroDur3": "15",
+    "Cool3": "30",
+    "Cost3": "75",
+    "Area3": "500",
+    "Rng3": "0",
+    "DataA3": "10",
+    "DataB3": "0.35",
+    "DataC3": "0",
+    "DataD3": "0"
+   }
+  },
+  {
+   "id": "BHic",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHic",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Inspire Courage"
+      ],
+      "deDE": [
+       "Kampfmoral stärken"
+      ],
+      "esES": [
+       "Inspirar coraje"
+      ],
+      "esMX": [
+       "Inspirar valentía"
+      ],
+      "frFR": [
+       "Élan de courage"
+      ],
+      "koKR": [
+       "용기 북돋기"
+      ],
+      "plPL": [
+       "Wzbudzenie Odwagi"
+      ],
+      "ptBR": [
+       "Inspirar Coragem"
+      ],
+      "ruRU": [
+       "Вдохновляющий призыв"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has increased armor and Magic Resistance."
+      ],
+      "deDE": [
+       "Diese Einheit hat erhöhte Rüstung und erhöhten Magiewiderstand."
+      ],
+      "esES": [
+       "Esta unidad tiene más armadura y resistencia a la magia."
+      ],
+      "esMX": [
+       "Esta unidad tiene más armadura y resistencia a la magia."
+      ],
+      "frFR": [
+       "L’armure et la résistance magique de cette unité sont augmentées."
+      ],
+      "koKR": [
+       "방어도와 마법 저항력이 증가합니다."
+      ],
+      "plPL": [
+       "Ta jednostka ma zwiększony pancerz i odporność na magię."
+      ],
+      "ptBR": [
+       "Esta unidade tem armadura e Resistência à Magia aumentadas."
+      ],
+      "ruRU": [
+       "Броня усилена. Сопротивление магии повышено."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AHct",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Raise the Banner",
+      "deDE": "Banner hissen",
+      "esES": "Alzar el estandarte",
+      "esMX": "Alza el estandarte",
+      "frFR": "Lever de bannière",
+      "koKR": "깃발 들기",
+      "plPL": "Uniesienie Sztandaru",
+      "ruRU": "Поднятое знамя"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Raise the Banner"
+      ],
+      "deDE": [
+       "Banner hissen"
+      ],
+      "esES": [
+       "Alzar el estandarte"
+      ],
+      "esMX": [
+       "Alza el estandarte"
+      ],
+      "frFR": [
+       "Lever de bannière"
+      ],
+      "koKR": [
+       "깃발 들기"
+      ],
+      "plPL": [
+       "Uniesienie Sztandaru"
+      ],
+      "ruRU": [
+       "Поднятое знамя"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Place a banner at a target location, increasing nearby allied unit's Critical Strike chance by <Aaxr,DataA1>% and Spell Critical chance by <Aasc,DataA1>%.|nLasts <AHct,Dur1> seconds."
+      ],
+      "deDE": [
+       "Platziert am Zielort ein Banner, das die kritische Trefferchance von verbündeten Einheiten in der Nähe um <Aaxr,DataA1> % und ihre Chance auf kritische Magietreffer um <Aasc,DataA1> % erhöht.|nHält <AHct,Dur1> Sek. lang an."
+      ],
+      "esES": [
+       "Coloca un estandarte en la ubicación seleccionada que aumenta un <Aaxr,DataA1>% la probabilidad de golpe crítico y un <Aasc,DataA1>% la probabilidad de golpe crítico con hechizos de las unidades aliadas cercanas.|nDura <AHct,Dur1> s."
+      ],
+      "esMX": [
+       "Coloca un estandarte en una ubicación objetivo, lo que aumenta la probabilidad de golpe crítico de las unidades aliadas cercanas un <Aaxr,DataA1>% y la probabilidad de golpe de hechizo un <Aasc,DataA1>%.|nDura <AHct,Dur1> segundos."
+      ],
+      "frFR": [
+       "Place une bannière à l’endroit ciblé, ce qui augmente la chance de coup critique de l’unité alliée proche de <Aaxr,DataA1> % et sa chance de sort critique de <Aasc,DataA1> %.|nDure <AHct,Dur1> secondes."
+      ],
+      "koKR": [
+       "대상 위치에 깃발을 꽂아, 주위 아군 유닛의 치명타 확률을 <Aaxr,DataA1>%, 주문 치명타 확률을 <Aasc,DataA1>% 증가시킵니다.|n<AHct,Dur1>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Umieszcza sztandar w wybranym miejscu. Sztandar zwiększa szansę na trafienie krytyczne pobliskich sojuszniczych jednostek o <Aaxr,DataA1>%, a ich szanse na trafienie krytyczne zaklęciem o <Aasc,DataA1>%.|nCzas działania: <AHct,Dur1> sek."
+      ],
+      "ptBR": [
+       "Posiciona um estandarte em um ponto selecionado, aumentando a chance de acerto crítico de unidades aliadas próximas em <Aaxr,DataA1>% e chance de acerto crítico com feitiços em <Aasc,DataA1>%.|nDura <AHct,Dur1> s."
+      ],
+      "ruRU": [
+       "В указанной точке размещается знамя, повышающее вероятность критического удара ближайших союзников на <Aaxr,DataA1>%, а их вероятность критического удара для заклинаний – на <Aasc,DataA1>%.|nВремя действия: <AHct,Dur1> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Raise the Banner",
+      "deDE": "Banner hissen erlernen",
+      "esES": "Aprender Alzar el estandarte",
+      "esMX": "Aprender Alza el estandarte",
+      "frFR": "Apprendre Lever de bannière",
+      "koKR": "깃발 들기 배우기",
+      "plPL": "Nauka Uniesienia Sztandaru",
+      "ptBR": "Aprender Erguer o Estandarte",
+      "ruRU": "Изучить «Поднятое знамя»"
+     }
+    },
+    {
+     "key": "ResearchUberTip",
+     "per_level": false,
+     "values": {
+      "enUS": "Place a banner at a target location, increasing nearby allied unit's Critical Strike chance by <Aaxr,DataA1>% and Spell Critical chance by <Aasc,DataA1>%.|nLasts <AHct,Dur1> seconds.",
+      "deDE": "Platziert am Zielort ein Banner, das die kritische Trefferchance von verbündeten Einheiten in der Nähe um <Aaxr,DataA1> % und ihre Chance auf kritische Magietreffer um <Aasc,DataA1> % erhöht.|nHält <AHct,Dur1> Sek. lang an.",
+      "esES": "Coloca un estandarte en la ubicación seleccionada que aumenta un <Aaxr,DataA1>% la probabilidad de golpe crítico y un <Aasc,DataA1>% la probabilidad de golpe crítico con hechizos de las unidades aliadas cercanas.|nDura <AHct,Dur1> s.",
+      "esMX": "Coloca un estandarte en una ubicación objetivo, lo que aumenta la probabilidad de golpe crítico de las unidades aliadas cercanas un <Aaxr,DataA1>% y la probabilidad de golpe de hechizo un <Aasc,DataA1>%.|nDura <AHct,Dur1> segundos.",
+      "frFR": "Place une bannière à l’endroit ciblé, ce qui augmente la chance de coup critique de l’unité alliée proche de <Aaxr,DataA1> % et sa chance de sort critique de <Aasc,DataA1> %.|nDure <AHct,Dur1> secondes.",
+      "koKR": "대상 위치에 깃발을 꽂아, 주위 아군 유닛의 치명타 확률을 <Aaxr,DataA1>%, 주문 치명타 확률을 <Aasc,DataA1>% 증가시킵니다.|n<AHct,Dur1>초 동안 지속됩니다.",
+      "plPL": "Umieszcza sztandar w wybranym miejscu. Sztandar zwiększa szansę na trafienie krytyczne pobliskich sojuszniczych jednostek o <Aaxr,DataA1>%, a ich szanse na trafienie krytyczne zaklęciem o <Aasc,DataA1>%.|nCzas działania: <AHct,Dur1> sek.",
+      "ptBR": "Posiciona um estandarte em um ponto selecionado, aumentando a chance de acerto crítico de unidades aliadas próximas em <Aaxr,DataA1>% e chance de acerto crítico com feitiços em <Aasc,DataA1>%.|nDura <AHct,Dur1> s.",
+      "ruRU": "В указанной точке размещается знамя, повышающее вероятность критического удара ближайших союзников на <Aaxr,DataA1>%, а их вероятность критического удара для заклинаний – на <Aasc,DataA1>%.|nВремя действия: <AHct,Dur1> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNRaisethebanner.blp",
+   "data": {
+    "Dur1": "20",
+    "HeroDur1": "20",
+    "Cool1": "60",
+    "Cost1": "100",
+    "Rng1": "400",
+    "DataA1": "1"
+   }
+  },
+  {
+   "id": "hcta",
+   "kind": "summoned unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": "of AHct",
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Lordaeron Banner",
+      "deDE": "Banner von Lordaeron",
+      "esES": "Estandarte de Lordaeron",
+      "esMX": "Estandarte de Lordaeron",
+      "frFR": "Bannière de Lordaeron",
+      "koKR": "로데론 깃발",
+      "plPL": "Sztandar Lordaeronu",
+      "ptBR": "Estandarte de Lordaeron",
+      "ruRU": "Лордеронское знамя"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNHumanCaptureFlag.blp",
+   "data": {}
+  },
+  {
+   "id": "Baca",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHct",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Raise the Banner"
+      ],
+      "deDE": [
+       "Banner hissen"
+      ],
+      "esES": [
+       "Alzar el estandarte"
+      ],
+      "esMX": [
+       "Alza el estandarte"
+      ],
+      "frFR": [
+       "Lever de bannière"
+      ],
+      "koKR": [
+       "깃발 들기"
+      ],
+      "plPL": [
+       "Uniesienie Sztandaru"
+      ],
+      "ruRU": [
+       "Поднятое знамя"
+      ]
+     }
+    },
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Raise the Banner",
+      "deDE": "Banner hissen",
+      "esES": "Alzar el estandarte",
+      "esMX": "Alza el estandarte",
+      "frFR": "Lever de bannière",
+      "koKR": "깃발 들기",
+      "plPL": "Uniesienie Sztandaru",
+      "ruRU": "Поднятое знамя"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Raise the Banner"
+      ],
+      "deDE": [
+       "Banner hissen"
+      ],
+      "esES": [
+       "Alzar el estandarte"
+      ],
+      "esMX": [
+       "Alza el estandarte"
+      ],
+      "frFR": [
+       "Lever de bannière"
+      ],
+      "koKR": [
+       "깃발 들기"
+      ],
+      "plPL": [
+       "Uniesienie Sztandaru"
+      ],
+      "ruRU": [
+       "Поднятое знамя"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit is near a banner; it has increased Attack Damage and Critical Strike chance."
+      ],
+      "deDE": [
+       "Diese Einheit befindet sich in der Nähe eines Banners. Ihr Angriffsschaden und ihre Chance auf kritische Treffer sind erhöht."
+      ],
+      "esES": [
+       "Esta unidad está cerca de un estandarte: aumenta su daño de ataque y su probabilidad de golpe crítico."
+      ],
+      "esMX": [
+       "Esta unidad está cerca de un estandarte; tiene más daño de ataque y probabilidad de golpe crítico."
+      ],
+      "frFR": [
+       "Cette unité se trouve près d’une bannière. Ses dégâts d’attaque et ses chances de coup critique sont augmentés."
+      ],
+      "koKR": [
+       "깃발 근처에 있습니다. 공격 피해와 치명타 확률이 증가합니다."
+      ],
+      "plPL": [
+       "Ta jednostka przebywa w pobliżu sztandaru: zadawane przez nią obrażenia i jej szansa na trafienie krytyczne są zwiększone."
+      ],
+      "ptBR": [
+       "Esta unidade está próxima de um estandarte. Ela recebeu um aumento de dano de ataque e chance de acerto crítico."
+      ],
+      "ruRU": [
+       "Цель находится рядом со знаменем. Урон и шанс критического удара увеличены."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "Aaxr",
+   "kind": "ability used in the tooltip",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHct",
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Raise the Banner Crit",
+      "deDE": "Banner hissen (krit.)",
+      "esES": "Crítico de Alzar el estandarte",
+      "esMX": "Golpe crítico de Alza el estandarte",
+      "frFR": "Coup critique de Lever de bannière",
+      "koKR": "깃발 들기 치명타",
+      "plPL": "Uniesienie Sztandaru – trafienie krytyczne",
+      "ptBR": "Erguer o Estandarte Crít.",
+      "ruRU": "Поднятое знамя – крит. урон"
+     }
+    }
+   ],
+   "icon": null,
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": "0",
+    "Area1": "0",
+    "DataA1": "50",
+    "DataB1": "0",
+    "DataC1": "0",
+    "DataD1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0",
+    "Cost2": "0",
+    "Area2": "0",
+    "DataA2": "100",
+    "DataB2": "6",
+    "DataC2": "0",
+    "DataD2": "0",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "0",
+    "Cost3": "0",
+    "Area3": "0",
+    "DataA3": "100",
+    "DataB3": "6",
+    "DataC3": "0",
+    "DataD3": "0"
+   }
+  },
+  {
+   "id": "Aasc",
+   "kind": "ability used in the tooltip",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHct",
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Raise the Banner Spell Crit",
+      "deDE": "Banner hissen (krit. Zauber)",
+      "esES": "Crítico con hechizos de Alzar el estandarte",
+      "esMX": "Golpe crítico de hechizo de Alza el estandarte",
+      "frFR": "Sort critique de Lever de bannière",
+      "koKR": "깃발 들기 주문 치명타",
+      "plPL": "Uniesienie Sztandaru – trafienie krytyczne zaklęcia",
+      "ptBR": "Feitiço Erguer o Estandarte Crít.",
+      "ruRU": "Поднятое знамя – крит. урон заклинаний"
+     }
+    }
+   ],
+   "icon": null,
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": "0",
+    "Area1": "0",
+    "DataA1": "50",
+    "DataB1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0",
+    "Cost2": "0",
+    "Area2": "0",
+    "DataA2": "100",
+    "DataB2": "0",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "0",
+    "Cost3": "0",
+    "Area3": "0",
+    "DataA3": "100",
+    "DataB3": "0"
+   }
+  }
+ ],
+ "install": "Loose files replace whole string files: put the translated CampaignAbilityStrings.txt and CampaignUnitStrings.txt (all original sections + these) into _retail_\\_Units (installed Ukrainian base-game localization uses this folder; its files have no Forsaken Kingdom sections yet)."
+}

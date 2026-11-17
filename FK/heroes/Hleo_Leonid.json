@@ -1,0 +1,1449 @@
+{
+ "unit": "Hleo",
+ "name": "Leonid",
+ "title": "Warrior",
+ "sections": [
+  {
+   "id": "Hleo",
+   "kind": "unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Warrior",
+      "deDE": "Krieger",
+      "esES": "Guerrero",
+      "esMX": "Guerrero",
+      "frFR": "Guerrier",
+      "koKR": "전사",
+      "plPL": "Wojownik",
+      "ptBR": "Guerreiro",
+      "ruRU": "Воин"
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "e",
+      "deDE": "e",
+      "esES": "e",
+      "esMX": "e",
+      "frFR": "e",
+      "koKR": "e",
+      "plPL": "e",
+      "ptBR": "e",
+      "ruRU": "e"
+     }
+    },
+    {
+     "key": "Propernames",
+     "per_level": false,
+     "values": {
+      "enUS": "Leonid",
+      "deDE": "Leonid",
+      "esES": "Leonid",
+      "esMX": "Leonid",
+      "frFR": "Leonid",
+      "koKR": "리어니드",
+      "plPL": "Leonid",
+      "ptBR": "Leônidas",
+      "ruRU": "Леонид"
+     }
+    },
+    {
+     "key": "Revivetip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Leonid",
+      "deDE": "Leonid wiederbeleben",
+      "esES": "Revivir a Leonid",
+      "esMX": "Revivir a Leonid",
+      "frFR": "Ressusciter Leonid",
+      "koKR": "리어니드 부활",
+      "plPL": "Ożywienie Leonida",
+      "ptBR": "Reviver Leonid",
+      "ruRU": "Воскресить Леонида"
+     }
+    },
+    {
+     "key": "Awakentip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Leonid",
+      "deDE": "Leonid wiederbeleben",
+      "esES": "Revivir a Leonid",
+      "esMX": "Revivir a Leonid",
+      "frFR": "Ressusciter Leonid",
+      "koKR": "리어니드 부활",
+      "plPL": "Ożywienie Leonida",
+      "ptBR": "Reviver Leonid",
+      "ruRU": "Воскресить Леонида"
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AHhr",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Headsplitter",
+      "deDE": "Kopfspalter",
+      "esES": "Partecabezas",
+      "esMX": "Partecabezas",
+      "frFR": "Fendeur de crâne",
+      "koKR": "머리 쪼개기",
+      "plPL": "Czaszkołamacz",
+      "ptBR": "Rachacrânios",
+      "ruRU": "Пролом черепа"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Headsplitter - [|cffffcc00Level 1|r]",
+       "Headsplitter - [|cffffcc00Level 2|r]",
+       "Headsplitter - [|cffffcc00Level 3|r]",
+       "Headsplitter - [|cffffcc00Level 4|r]",
+       "Headsplitter - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Kopfspalter [|cffffcc00Stufe 1|r]",
+       "Kopfspalter [|cffffcc00Stufe 2|r]",
+       "Kopfspalter [|cffffcc00Stufe 3|r]",
+       "Kopfspalter [|cffffcc00Stufe 4|r]",
+       "Kopfspalter [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Partecabezas - [|cffffcc00Nivel 1|r]",
+       "Partecabezas - [|cffffcc00Nivel 2|r]",
+       "Partecabezas - [|cffffcc00Nivel 3|r]",
+       "Partecabezas - [|cffffcc00Nivel 4|r]",
+       "Partecabezas - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Partecabezas - [|cffffcc00Nivel 1|r]",
+       "Partecabezas - [|cffffcc00Nivel 2|r]",
+       "Partecabezas - [|cffffcc00Nivel 3|r]",
+       "Partecabezas - [|cffffcc00Nivel 4|r]",
+       "Partecabezas - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Fendeur de crâne de |cffffcc00niveau 1|r",
+       "Fendeur de crâne de |cffffcc00niveau 2|r",
+       "Fendeur de crâne de |cffffcc00niveau 3|r",
+       "Fendeur de crâne de |cffffcc00niveau 4|r",
+       "Fendeur de crâne de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "머리 쪼개기 - [|cffffcc001레벨|r]",
+       "머리 쪼개기 - [|cffffcc002레벨|r]",
+       "머리 쪼개기 - [|cffffcc003레벨|r]",
+       "머리 쪼개기 - [|cffffcc004레벨|r]",
+       "머리 쪼개기 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Czaszkołamacz – [|cffffcc00poziom 1|r]",
+       "Czaszkołamacz – [|cffffcc00poziom 2|r]",
+       "Czaszkołamacz – [|cffffcc00poziom 3|r]",
+       "Czaszkołamacz – [|cffffcc00poziom 4|r]",
+       "Czaszkołamacz – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Rachacrânios - [|cffffcc00Nível 1|r]",
+       "Rachacrânios - [|cffffcc00Nível 2|r]",
+       "Rachacrânios - [|cffffcc00Nível 3|r]",
+       "Rachacrânios - [|cffffcc00Nível 4|r]",
+       "Rachacrânios - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Пролом черепа – [|cffffcc001-й уровень|r]",
+       "Пролом черепа – [|cffffcc002-й уровень|r]",
+       "Пролом черепа – [|cffffcc003-й уровень|r]",
+       "Пролом черепа [|cffffcc004-й уровень|r]",
+       "Пролом черепа [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Empower the next attack, dealing <AHhr,DataA1> bonus damage and stunning the target for <AHhr,DataB1> seconds.",
+       "Empower the next attack, dealing <AHhr,DataA2> bonus damage and stunning the target for <AHhr,DataB2> seconds.",
+       "Empower the next attack, dealing <AHhr,DataA3> bonus damage and stunning the target for <AHhr,DataB3> seconds.",
+       "Empower the next attack, dealing <AHhr,DataA4> bonus damage and stunning the target for <AHhr,DataB4> seconds.",
+       "Empower the next attack, dealing <AHhr,DataA5> bonus damage and stunning the target for <AHhr,DataB5> seconds."
+      ],
+      "deDE": [
+       "Ermächtigt den nächsten Angriff, wodurch er <AHhr,DataA1> Bonusschaden verursacht und das Ziel <AHhr,DataB1> Sek. lang betäubt.",
+       "Ermächtigt den nächsten Angriff, wodurch er <AHhr,DataA2> Bonusschaden verursacht und das Ziel <AHhr,DataB2> Sek. lang betäubt.",
+       "Ermächtigt den nächsten Angriff, wodurch er <AHhr,DataA3> Bonusschaden verursacht und das Ziel <AHhr,DataB3> Sek. lang betäubt.",
+       "Ermächtigt den nächsten Angriff, wodurch er <AHhr,DataA4> Bonusschaden verursacht und das Ziel <AHhr,DataB4> Sek. lang betäubt.",
+       "Ermächtigt den nächsten Angriff, wodurch er <AHhr,DataA5> Bonusschaden verursacht und das Ziel <AHhr,DataB5> Sek. lang betäubt."
+      ],
+      "esES": [
+       "Potencia el siguiente ataque, que inflige <AHhr,DataA1> p. de daño adicional y aturde al objetivo durante <AHhr,DataB1> s.",
+       "Potencia el siguiente ataque, que inflige <AHhr,DataA2> p. de daño adicional y aturde al objetivo durante <AHhr,DataB2> s.",
+       "Potencia el siguiente ataque, que inflige <AHhr,DataA3> p. de daño adicional y aturde al objetivo durante <AHhr,DataB3> s.",
+       "Potencia el siguiente ataque, que inflige <AHhr,DataA4> p. de daño adicional y aturde al objetivo durante <AHhr,DataB4> s.",
+       "Potencia el siguiente ataque, que inflige <AHhr,DataA5> p. de daño adicional y aturde al objetivo durante <AHhr,DataB5> s."
+      ],
+      "esMX": [
+       "Potencia el siguiente ataque, lo que inflige <AHhr,DataA1> más de daño y aturde al objetivo durante <AHhr,DataB1> segundos.",
+       "Potencia el siguiente ataque, lo que inflige <AHhr,DataA2> más de daño y aturde al objetivo durante <AHhr,DataB2> segundos.",
+       "Potencia el siguiente ataque, lo que inflige <AHhr,DataA3> más de daño y aturde al objetivo durante <AHhr,DataB3> segundos.",
+       "Potencia el siguiente ataque, lo que inflige <AHhr,DataA4> más de daño y aturde al objetivo durante <AHhr,DataB4> segundos.",
+       "Potencia el siguiente ataque, lo que inflige <AHhr,DataA5> más de daño y aturde al objetivo durante <AHhr,DataB5> segundos."
+      ],
+      "frFR": [
+       "Renforce la prochaine attaque, ce qui inflige <AHhr,DataA1> points de dégâts supplémentaires et étourdit la cible pendant <AHhr,DataB1> secondes.",
+       "Renforce la prochaine attaque, ce qui inflige <AHhr,DataA2> points de dégâts supplémentaires et étourdit la cible pendant <AHhr,DataB2> secondes.",
+       "Renforce la prochaine attaque, ce qui inflige <AHhr,DataA3> points de dégâts supplémentaires et étourdit la cible pendant <AHhr,DataB3> secondes.",
+       "Renforce la prochaine attaque, ce qui inflige <AHhr,DataA4> points de dégâts supplémentaires et étourdit la cible pendant <AHhr,DataB4> secondes.",
+       "Renforce la prochaine attaque, ce qui inflige <AHhr,DataA5> points de dégâts supplémentaires et étourdit la cible pendant <AHhr,DataB5> secondes."
+      ],
+      "koKR": [
+       "다음 공격을 강화해 <AHhr,DataA1>의 추가 피해를 주고 대상을 <AHhr,DataB1>초 동안 기절시킵니다.",
+       "다음 공격을 강화해 <AHhr,DataA2>의 추가 피해를 주고 대상을 <AHhr,DataB2>초 동안 기절시킵니다.",
+       "다음 공격을 강화해 <AHhr,DataA3>의 추가 피해를 주고 대상을 <AHhr,DataB3>초 동안 기절시킵니다.",
+       "다음 공격을 강화해 <AHhr,DataA4>의 추가 피해를 주고 대상을 <AHhr,DataB4>초 동안 기절시킵니다.",
+       "다음 공격을 강화해 <AHhr,DataA5>의 추가 피해를 주고 대상을 <AHhr,DataB5>초 동안 기절시킵니다."
+      ],
+      "plPL": [
+       "Wzmacnia kolejny atak, przez co zadaje on dodatkowo <AHhr,DataA1> pkt. obrażeń i ogłusza cel na <AHhr,DataB1> sek.",
+       "Wzmacnia kolejny atak, przez co zadaje on dodatkowo <AHhr,DataA2> pkt. obrażeń i ogłusza cel na <AHhr,DataB2> sek.",
+       "Wzmacnia kolejny atak, przez co zadaje on dodatkowo <AHhr,DataA3> pkt. obrażeń i ogłusza cel na <AHhr,DataB3> sek.",
+       "Wzmacnia kolejny atak, przez co zadaje on dodatkowo <AHhr,DataA4> pkt. obrażeń i ogłusza cel na <AHhr,DataB4> sek.",
+       "Wzmacnia kolejny atak, przez co zadaje on dodatkowo <AHhr,DataA5> pkt. obrażeń i ogłusza cel na <AHhr,DataB5> sek."
+      ],
+      "ptBR": [
+       "Potencializa o próximo ataque, causando <AHhr,DataA1> de bônus de dano e atordoando o alvo por <AHhr,DataB1> segundos.",
+       "Potencializa o próximo ataque, causando <AHhr,DataA2> de bônus de dano e atordoando o alvo por <AHhr,DataB2> segundos.",
+       "Potencializa o próximo ataque, causando <AHhr,DataA3> de bônus de dano e atordoando o alvo por <AHhr,DataB3> segundos.",
+       "Potencializa o próximo ataque, causando <AHhr,DataA4> de bônus de dano e atordoando o alvo por <AHhr,DataB4> segundos.",
+       "Potencializa o próximo ataque, causando <AHhr,DataA5> de bônus de dano e atordoando o alvo por <AHhr,DataB5> segundos."
+      ],
+      "ruRU": [
+       "Следующая атака наносит на <AHhr,DataA1> больше урона и оглушает цель на <AHhr,DataB1> сек.",
+       "Следующая атака наносит на <AHhr,DataA2> больше урона и оглушает цель на <AHhr,DataB2> сек.",
+       "Следующая атака наносит на <AHhr,DataA3> больше урона и оглушает цель на <AHhr,DataB3> сек.",
+       "Следующая атака наносит на <AHhr,DataA4> больше урона и оглушает цель на <AHhr,DataB4> сек.",
+       "Следующая атака наносит на <AHhr,DataA5> больше урона и оглушает цель на <AHhr,DataB5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Headsplitter - [|cffffcc00Level %d|r]",
+      "deDE": "Kopfspalter [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Partecabezas - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Partecabezas - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Fendeur de crâne de |cffffcc00niveau %d|r",
+      "koKR": "머리 쪼개기 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Czaszkołamacza – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Rachacrânios - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Пролом черепа» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Empower the next attack, dealing bonus damage and stunning the target.|n|n|cffffcc00Level 1|r - <AHhr,DataA1> bonus damage, <AHhr,DataB1> second stun duration.|n|cffffcc00Level 2|r - <AHhr,DataA2> bonus damage, <AHhr,DataB2> second stun duration. |n|cffffcc00Level 3|r - <AHhr,DataA3> bonus damage, <AHhr,DataB3> second stun duration.|n|cffffcc00Level 4|r - <AHhr,DataA4> bonus damage, <AHhr,DataB4> second stun duration. |n|cffffcc00Level 5|r - <AHhr,DataA5> bonus damage, <AHhr,DataB5> second stun duration.",
+      "deDE": "Ermächtigt den nächsten Angriff, wodurch er Bonusschaden verursacht und das Ziel betäubt.|n|n|cffffcc00Stufe 1|r - <AHhr,DataA1> Bonusschaden, <AHhr,DataB1> Sek. lang betäubt.|n|cffffcc00Stufe 2|r - <AHhr,DataA2> Bonusschaden, <AHhr,DataB2> Sek. lang betäubt. |n|cffffcc00Stufe 3|r - <AHhr,DataA3> Bonusschaden, <AHhr,DataB3> Sek. lang betäubt. |n|cffffcc00Stufe 4|r - <AHhr,DataA4> Bonusschaden, <AHhr,DataB4> Sek. lang betäubt. |n|cffffcc00Stufe 5|r - <AHhr,DataA5> Bonusschaden, <AHhr,DataB5> Sek. lang betäubt.",
+      "esES": "Potencia el siguiente ataque, que inflige daño adicional y aturde al objetivo.|n|n|cffffcc00Nivel 1|r - <AHhr,DataA1> p. de daño adicional, <AHhr,DataB1> s de aturdimiento.|n|cffffcc00Nivel 2|r - <AHhr,DataA2> p. de daño adicional, <AHhr,DataB2> s de aturdimiento. |n|cffffcc00Nivel 3|r - <AHhr,DataA3> p. de daño adicional, <AHhr,DataB3> s de aturdimiento.|n|cffffcc00Nivel 4|r - <AHhr,DataA4> p. de daño adicional, <AHhr,DataB4> s de aturdimiento. |n|cffffcc00Nivel 5|r - <AHhr,DataA5> p. de daño adicional, <AHhr,DataB5> s de aturdimiento.",
+      "esMX": "Potencia el siguiente ataque, lo que inflige daño adicional y aturde al objetivo.|n|n|cffffcc00Nivel 1|r - <AHhr,DataA1> más de daño, <AHhr,DataB1> segundos de aturdimiento.|n|cffffcc00Nivel 2|r - <AHhr,DataA2> más de daño, <AHhr,DataB2> segundos de aturdimiento. |n|cffffcc00Nivel 3|r - <AHhr,DataA3> más de daño, <AHhr,DataB3> segundos de aturdimiento.|n|cffffcc00Nivel 4|r - <AHhr,DataA4> más de daño, <AHhr,DataB4> segundos de aturdimiento. |n|cffffcc00Nivel 5|r - <AHhr,DataA5> más de daño, <AHhr,DataB5> segundos de aturdimiento.",
+      "frFR": "Renforce la prochaine attaque, ce qui inflige des dégâts supplémentaires et étourdit la cible. |n|n|cffffcc00Niveau 1 :|r <AHhr,DataA1> points de dégâts supplémentaires, <AHhr,DataB1> secondes d’étourdissement. |n|cffffcc00Niveau 2 :|r <AHhr,DataA2> points de dégâts supplémentaires, <AHhr,DataB2> secondes d’étourdissement. |n|cffffcc00Niveau 3 :|r <AHhr,DataA3> points de dégâts supplémentaires, <AHhr,DataB3> secondes d’étourdissement. |n|cffffcc00Niveau 4 :|r <AHhr,DataA4> points de dégâts supplémentaires, <AHhr,DataB4> secondes d’étourdissement. |n|cffffcc00Niveau 5 :|r <AHhr,DataA5> points de dégâts supplémentaires, <AHhr,DataB5> secondes d’étourdissement.",
+      "koKR": "다음 공격을 강화해 추가 피해를 주고 대상을 기절시킵니다.|n|n|cffffcc001레벨|r - <AHhr,DataA1> 추가 피해를 주고, <AHhr,DataB1>초 동안 기절시킵니다.|n|cffffcc002레벨|r - <AHhr,DataA2> 추가 피해를 주고, <AHhr,DataB2>초 동안 기절시킵니다. |n|cffffcc003레벨|r - <AHhr,DataA3> 추가 피해를 주고, <AHhr,DataB3>초 동안 기절시킵니다.|n|cffffcc004레벨|r - <AHhr,DataA4> 추가 피해를 주고, <AHhr,DataB4>초 동안 기절시킵니다. |n|cffffcc005레벨|r - <AHhr,DataA5> 추가 피해를 주고, <AHhr,DataB5>초 동안 기절시킵니다.",
+      "plPL": "Wzmacnia następny atak, dzięki czemu zada on dodatkowe obrażenia i ogłuszy cel.|n|n|cffffcc00Poziom 1|r – <AHhr,DataA1> pkt. dodatkowych obrażeń, <AHhr,DataB1> sek. ogłuszenia.|n|cffffcc00Poziom 2|r – <AHhr,DataA2> pkt. dodatkowych obrażeń, <AHhr,DataB2> sek. ogłuszenia.|n|cffffcc00Poziom 3|r – <AHhr,DataA3> pkt. dodatkowych obrażeń, <AHhr,DataB3> sek. ogłuszenia.|n|cffffcc00Poziom 4|r – <AHhr,DataA4> pkt. dodatkowych obrażeń, <AHhr,DataB4> sek. ogłuszenia.|n|cffffcc00Poziom 5|r – <AHhr,DataA5> pkt. dodatkowych obrażeń, <AHhr,DataB5> sek. ogłuszenia.",
+      "ptBR": "Potencializa o próximo ataque, causando bônus de dano e atordoando o alvo.|n|n|cffffcc00Nível 1|r - <AHhr,DataA1> de bônus de dano, <AHhr,DataB1> segundos de atordoamento.|n|cffffcc00Nível 2|r - <AHhr,DataA2> de bônus de dano, <AHhr,DataB2> segundos de atordoamento. |n|cffffcc00Nível 3|r - <AHhr,DataA3> de bônus de dano, <AHhr,DataB3> segundos de atordoamento.|n|cffffcc00Nível 4|r - <AHhr,DataA4> de bônus de dano, <AHhr,DataB4> segundos de atordoamento. |n|cffffcc00Nível 5|r - <AHhr,DataA5> de bônus de dano, <AHhr,DataB5> segundos de atordoamento.",
+      "ruRU": "Следующая атака наносит больше урона и оглушает цель.|n|n|cffffcc001-й уровень:|r +<AHhr,DataA1> к урону, оглушение на <AHhr,DataB1> сек.|n|cffffcc002-й уровень:|r +<AHhr,DataA2> к урону, оглушение на <AHhr,DataB2> сек.|n|cffffcc003-й уровень:|r +<AHhr,DataA3> к урону, оглушение <AHhr,DataB3> сек.|n|cffffcc004-й уровень:|r +<AHhr,DataA4> к урону, оглушение на <AHhr,DataB4> сек. |n|cffffcc005-й уровень:|r +<AHhr,DataA5> к урону, оглушение на <AHhr,DataB5> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNHeadsplitter.blp",
+   "data": {
+    "Dur1": "7",
+    "HeroDur1": "7",
+    "Cool1": "10",
+    "Cost1": "75",
+    "Area1": "0",
+    "DataA1": "100",
+    "DataB1": "2",
+    "DataC1": "1",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "0",
+    "DataG1": "0",
+    "Dur2": "7",
+    "HeroDur2": "7",
+    "Cool2": "10",
+    "Cost2": "75",
+    "Area2": "0",
+    "DataA2": "150",
+    "DataB2": "2.25",
+    "DataC2": "1.25",
+    "DataD2": "0",
+    "DataE2": "0",
+    "DataF2": "0",
+    "DataG2": "0",
+    "Dur3": "7",
+    "HeroDur3": "7",
+    "Cool3": "10",
+    "Cost3": "75",
+    "Area3": "0",
+    "DataA3": "200",
+    "DataB3": "2.5",
+    "DataC3": "1.5",
+    "DataD3": "0",
+    "DataE3": "0",
+    "DataF3": "0",
+    "DataG3": "0",
+    "Dur4": "7",
+    "HeroDur4": "7",
+    "Cool4": "10",
+    "Cost4": "75",
+    "Area4": "0",
+    "DataA4": "250",
+    "DataB4": "3",
+    "DataC4": "1.75",
+    "DataD4": "0",
+    "DataE4": "0",
+    "DataF4": "0",
+    "DataG4": "0",
+    "Dur5": "7",
+    "HeroDur5": "7",
+    "Cool5": "10",
+    "Cost5": "75",
+    "Area5": "0",
+    "DataA5": "300",
+    "DataB5": "3.5",
+    "DataC5": "2",
+    "DataD5": "0",
+    "DataE5": "0",
+    "DataF5": "0",
+    "DataG5": "0"
+   }
+  },
+  {
+   "id": "AHhc",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Provoke",
+      "deDE": "Provozieren",
+      "esES": "Burla",
+      "esMX": "Burla",
+      "frFR": "Persiflage",
+      "koKR": "조롱",
+      "plPL": "Prowokacja",
+      "ptBR": "Provocar",
+      "ruRU": "Вызов"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Provoke - [|cffffcc00Level 1|r]",
+       "Provoke - [|cffffcc00Level 2|r]",
+       "Provoke - [|cffffcc00Level 3|r]",
+       "Provoke - [|cffffcc00Level 4|r]",
+       "Provoke - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Provozieren [|cffffcc00Stufe 1|r]",
+       "Provozieren [|cffffcc00Stufe 2|r]",
+       "Provozieren [|cffffcc00Stufe 3|r]",
+       "Provozieren [|cffffcc00Stufe 4|r]",
+       "Provozieren [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Burla - [|cffffcc00Nivel 1|r]",
+       "Burla - [|cffffcc00Nivel 2|r]",
+       "Burla - [|cffffcc00Nivel 3|r]",
+       "Burla - [|cffffcc00Nivel 4|r]",
+       "Burla - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Burla - [|cffffcc00Nivel 1|r]",
+       "Burla - [|cffffcc00Nivel 2|r]",
+       "Burla - [|cffffcc00Nivel 3|r]",
+       "Burla - [|cffffcc00Nivel 4|r]",
+       "Burla - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Persiflage de |cffffcc00niveau 1|r",
+       "Persiflage de |cffffcc00niveau 2|r",
+       "Persiflage de |cffffcc00niveau 3|r",
+       "Persiflage de |cffffcc00niveau 4|r",
+       "Persiflage de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "조롱 - [|cffffcc001레벨|r]",
+       "조롱 - [|cffffcc002레벨|r]",
+       "조롱 - [|cffffcc003레벨|r]",
+       "조롱 - [|cffffcc004레벨|r]",
+       "조롱 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Prowokacja – [|cffffcc00poziom 1|r]",
+       "Prowokacja – [|cffffcc00poziom 2|r]",
+       "Prowokacja – [|cffffcc00poziom 3|r]",
+       "Prowokacja – [|cffffcc00poziom 4|r]",
+       "Prowokacja – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Provocar - [|cffffcc00Nível 1|r]",
+       "Provocar - [|cffffcc00Nível 2|r]",
+       "Provocar - [|cffffcc00Nível 3|r]",
+       "Provocar - [|cffffcc00Nível 4|r]",
+       "Provocar - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Вызов [|cffffcc001-й уровень|r]",
+       "Вызов [|cffffcc002-й уровень|r]",
+       "Вызов [|cffffcc003-й уровень|r]",
+       "Вызов [|cffffcc004-й уровень|r]",
+       "Вызов [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Gain a shield that can absorb <AHhc,DataF1> damage, and taunt all nearby enemies within <AHhc,Area1> range for <AHhc,Dur1> seconds.",
+       "Gain a shield that can absorb <AHhc,DataF2> damage, and taunt all nearby enemies within <AHhc,Area2> range for <AHhc,Dur2> seconds.",
+       "Gain a shield that can absorb <AHhc,DataF3> damage, and taunt all nearby enemies within <AHhc,Area3> range for <AHhc,Dur3> seconds.",
+       "Gain a shield that can absorb <AHhc,DataF4> damage, and taunt all nearby enemies within <AHhc,Area4> range for <AHhc,Dur4> seconds.",
+       "Gain a shield that can absorb <AHhc,DataF5> damage, and taunt all nearby enemies within <AHhc,Area5> range for <AHhc,Dur5> seconds."
+      ],
+      "deDE": [
+       "Gewährt einen Schild, der <AHhc,DataF1> Schaden absorbieren kann, und verspottet <AHhc,Dur1> Sek. lang alle Gegner innerhalb einer Reichweite von <AHhc,Area1>.",
+       "Gewährt einen Schild, der <AHhc,DataF2> Schaden absorbieren kann, und verspottet <AHhc,Dur2> Sek. lang alle Gegner innerhalb einer Reichweite von <AHhc,Area2>.",
+       "Gewährt einen Schild, der <AHhc,DataF3> Schaden absorbieren kann, und verspottet <AHhc,Dur3> Sek. lang alle Gegner innerhalb einer Reichweite von <AHhc,Area3>.",
+       "Gewährt einen Schild, der <AHhc,DataF4> Schaden absorbieren kann, und verspottet <AHhc,Dur4> Sek. lang alle Gegner innerhalb einer Reichweite von <AHhc,Area4>.",
+       "Gewährt einen Schild, der <AHhc,DataF5> Schaden absorbieren kann, und verspottet <AHhc,Dur5> Sek. lang alle Gegner innerhalb einer Reichweite von <AHhc,Area5>."
+      ],
+      "esES": [
+       "Obtiene un escudo que puede absorber <AHhc,DataF1> p. de daño y provoca a todos los enemigos en un radio de <AHhc,Area1> durante <AHhc,Dur1>.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF2> p. de daño y provoca a todos los enemigos en un radio de <AHhc,Area2> durante <AHhc,Dur2>.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF3> p. de daño y provoca a todos los enemigos en un radio de <AHhc,Area3> durante <AHhc,Dur3>.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF4> p. de daño y provoca a todos los enemigos en un radio de <AHhc,Area4> durante <AHhc,Dur4>.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF5> p. de daño y provoca a todos los enemigos en un radio de <AHhc,Area5> durante <AHhc,Dur5>."
+      ],
+      "esMX": [
+       "Obtiene un escudo que puede absorber <AHhc,DataF1> de daño y provoca a todos los enemigos cercanos dentro de un alcance de <AHhc,Area1> durante <AHhc,Dur1> segundos.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF2> de daño y provoca a todos los enemigos cercanos dentro de un alcance de <AHhc,Area2> durante <AHhc,Dur2> segundos.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF3> de daño y provoca a todos los enemigos cercanos dentro de un alcance de <AHhc,Area3> durante <AHhc,Dur3> segundos.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF4> de daño y provoca a todos los enemigos cercanos dentro de un alcance de <AHhc,Area4> durante <AHhc,Dur4> segundos.",
+       "Obtiene un escudo que puede absorber <AHhc,DataF5> de daño y provoca a todos los enemigos cercanos dentro de un alcance de <AHhc,Area5> durante <AHhc,Dur5> segundos."
+      ],
+      "frFR": [
+       "Génère un bouclier pouvant absorber <AHhc,DataF1> points de dégâts, et provoque toutes les unités ennemies proches dans un rayon de <AHhc,Area1> pendant <AHhc,Dur1> secondes.",
+       "Génère un bouclier pouvant absorber <AHhc,DataF2> points de dégâts, et provoque toutes les unités ennemies proches dans un rayon de <AHhc,Area2> pendant <AHhc,Dur2> secondes.",
+       "Génère un bouclier pouvant absorber <AHhc,DataF3> points de dégâts, et provoque toutes les unités ennemies proches dans un rayon de <AHhc,Area3> pendant <AHhc,Dur3> secondes.",
+       "Génère un bouclier pouvant absorber <AHhc,DataF4> points de dégâts, et provoque toutes les unités ennemies proches dans un rayon de <AHhc,Area4> pendant <AHhc,Dur4> secondes.",
+       "Génère un bouclier pouvant absorber <AHhc,DataF5> points de dégâts, et provoque toutes les unités ennemies proches dans un rayon de <AHhc,Area5> pendant <AHhc,Dur5> secondes."
+      ],
+      "koKR": [
+       "<AHhc,DataF1> 피해를 흡수하고 <AHhc,Area1> 범위 내 모든 주위 적을 <AHhc,Dur1>초 동안 도발하는 보호막을 얻습니다.",
+       "<AHhc,DataF2> 피해를 흡수하고 <AHhc,Area2> 범위 내 모든 주위 적을 <AHhc,Dur2>초 동안 도발하는 보호막을 얻습니다.",
+       "<AHhc,DataF3> 피해를 흡수하고 <AHhc,Area3> 범위 내 모든 주위 적을 <AHhc,Dur3>초 동안 도발하는 보호막을 얻습니다.",
+       "<AHhc,DataF4> 피해를 흡수하고 <AHhc,Area4> 범위 내 모든 주위 적을 <AHhc,Dur4>초 동안 도발하는 보호막을 얻습니다.",
+       "<AHhc,DataF5> 피해를 흡수하고 <AHhc,Area5> 범위 내 모든 주위 적을 <AHhc,Dur5>초 동안 도발하는 보호막을 얻습니다."
+      ],
+      "plPL": [
+       "Zyskujesz tarczę pochłaniającą <AHhc,DataF1> pkt. obrażeń oraz prowokujesz wszystkich pobliskich wrogów w zasięgu <AHhc,Area1> na <AHhc,Dur1> sek.",
+       "Zyskujesz tarczę pochłaniającą <AHhc,DataF2> pkt. obrażeń oraz prowokujesz wszystkich pobliskich wrogów w zasięgu <AHhc,Area2> na <AHhc,Dur2> sek.",
+       "Zyskujesz tarczę pochłaniającą <AHhc,DataF3> pkt. obrażeń oraz prowokujesz wszystkich pobliskich wrogów w zasięgu <AHhc,Area3> na <AHhc,Dur3> sek.",
+       "Zyskujesz tarczę pochłaniającą <AHhc,DataF4> pkt. obrażeń oraz prowokujesz wszystkich pobliskich wrogów w zasięgu <AHhc,Area4> na <AHhc,Dur4> sek.",
+       "Zyskujesz tarczę pochłaniającą <AHhc,DataF5> pkt. obrażeń oraz prowokujesz wszystkich pobliskich wrogów w zasięgu <AHhc,Area5> na <AHhc,Dur5> sek."
+      ],
+      "ptBR": [
+       "Recebe um escudo que pode absorver <AHhc,DataF1> de dano, e provoca todos os inimigos próximos dentro de <AHhc,Area1> de alcance por <AHhc,Dur1> segundos.",
+       "Recebe um escudo que pode absorver <AHhc,DataF2> de dano, e provoca todos os inimigos próximos dentro de <AHhc,Area2> de alcance por <AHhc,Dur2> segundos.",
+       "Recebe um escudo que pode absorver <AHhc,DataF3> de dano, e provoca todos os inimigos próximos dentro de <AHhc,Area3> de alcance por <AHhc,Dur3> segundos.",
+       "Recebe um escudo que pode absorver <AHhc,DataF4> de dano, e provoca todos os inimigos próximos dentro de <AHhc,Area4> de alcance por <AHhc,Dur4> segundos.",
+       "Recebe um escudo que pode absorver <AHhc,DataF5> de dano, e provoca todos os inimigos próximos dentro de <AHhc,Area5> de alcance por <AHhc,Dur5> segundos."
+      ],
+      "ruRU": [
+       "Дает щит, поглощающий <AHhc,DataF1> урона, и провоцирует всех врагов в радиусе <AHhc,Area1> в течение <AHhc,Dur1> сек.",
+       "Дает щит, поглощающий <AHhc,DataF2> урона, и провоцирует всех врагов в радиусе <AHhc,Area2> в течение <AHhc,Dur2> сек.",
+       "Дает щит, поглощающий <AHhc,DataF3> урона, и провоцирует всех врагов в радиусе <AHhc,Area3> в течение <AHhc,Dur3> сек.",
+       "Дает щит, поглощающий <AHhc,DataF4> урона, и провоцирует всех врагов в радиусе <AHhc,Area4> в течение <AHhc,Dur4> сек.",
+       "Дает щит, поглощающий <AHhc,DataF5> урона, и провоцирует всех врагов в радиусе <AHhc,Area5> в течение <AHhc,Dur5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Provoke - [|cffffcc00Level %d|r]",
+      "deDE": "Provozieren [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Burla - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Burla - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Persiflage de |cffffcc00niveau %d|r",
+      "koKR": "조롱 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Prowokacji – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Provocar - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Вызов» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Gain a shield and taunt nearby enemies.|n|n|cffffcc00Level 1|r - <AHhc,DataF1> damage shield, <AHhc,Area1> range taunt for <AHhc,Dur1> seconds.|n|cffffcc00Level 2|r - <AHhc,DataF2> damage shield, <AHhc,Area2> range taunt for <AHhc,Dur2> seconds. |n|cffffcc00Level 3|r - <AHhc,DataF3> damage shield, <AHhc,Area3> range taunt for <AHhc,Dur3> seconds.|n|cffffcc00Level 4|r - <AHhc,DataF4> damage shield, <AHhc,Area4> range taunt for <AHhc,Dur4> seconds. |n|cffffcc00Level 5|r - <AHhc,DataF5> damage shield, <AHhc,Area5> range taunt for <AHhc,Dur5> seconds.\"",
+      "deDE": "Gewährt einen Schild und verspottet Gegner in der Nähe.|n|n|cffffcc00Stufe 1|r - <AHhc,DataF1> Schadensschildstärke, <AHhc,Area1> Reichweite von Spott, <AHhc,Dur1> Sek. Dauer.|n|cffffcc00Stufe 2|r - <AHhc,DataF2> Schadensschildstärke, <AHhc,Area2> Reichweite von Spott, <AHhc,Dur2> Sek. Dauer.|n|cffffcc00Stufe 3|r - <AHhc,DataF3> Schadensschildstärke, <AHhc,Area3> Reichweite von Spott, <AHhc,Dur3> Sek. Dauer.|n|cffffcc00Stufe 4|r - <AHhc,DataF4> Schadensschildstärke, <AHhc,Area4> Reichweite von Spott, <AHhc,Dur4> Sek. Dauer.|n|cffffcc00Stufe 5|r - <AHhc,DataF5> Schadensschildstärke, <AHhc,Area5> Reichweite von Spott, <AHhc,Dur5> Sek. Dauer.",
+      "esES": "Obtiene un escudo y provoca a los enemigos cercanos.|n|n|cffffcc00Nivel 1|r - <AHhc,DataF1> p. de escudo de daño, <AHhc,Area1> de alcance de provocación durante <AHhc,Dur1> s.|n|cffffcc00Nivel 2|r - <AHhc,DataF2> p. de escudo de daño, <AHhc,Area2> de alcance de provocación durante <AHhc,Dur2> s. |n|cffffcc00Nivel 3|r - <AHhc,DataF3> p. de escudo de daño, <AHhc,Area3> de alcance de provocación durante <AHhc,Dur3> s.|n|cffffcc00Nivel 4|r - <AHhc,DataF4> p. de escudo de daño, <AHhc,Area4> de alcance de provocación durante<AHhc,Dur4> s. |n|cffffcc00Nivel 5|r - <AHhc,DataF5> p. de escudo de daño, <AHhc,Area5> de alcance de provocación durante <AHhc,Dur5> s.",
+      "esMX": "Obtiene un escudo y provoca a los enemigos cercanos.|n|n|cffffcc00Nivel 1|r - <AHhc,DataF1> de escudo de daño, <AHhc,Area1> de alcance de provocación durante <AHhc,Dur1> segundos.|n|cffffcc00Nivel 2|r - <AHhc,DataF2> de escudo de daño, <AHhc,Area2> de alcance de provocación durante <AHhc,Dur2> segundos. |n|cffffcc00Nivel 3|r - <AHhc,DataF3> de escudo de daño, <AHhc,Area3> de alcance de provocación durante <AHhc,Dur3> segundos.|n|cffffcc00Nivel 4|r - <AHhc,DataF4> de escudo de daño, <AHhc,Area4> de alcance de provocación durante <AHhc,Dur4> segundos. |n|cffffcc00Nivel 5|r - <AHhc,DataF5> de escudo de daño, <AHhc,Area5> de alcance de provocación durante <AHhc,Dur5> segundos.",
+      "frFR": "Génère un bouclier et provoque les unités ennemies proches.|n|n|cffffcc00Niveau 1 :|r bouclier de <AHhc,DataF1> points de dégâts, provocation d’une portée de <AHhc,Area1> pendant <AHhc,Dur1> secondes.|n|cffffcc00Niveau 2 :|r bouclier de <AHhc,DataF2> points de dégâts, provocation d’une portée de <AHhc,Area2> pendant <AHhc,Dur2> secondes.|n|cffffcc00Niveau 3 :|r bouclier de <AHhc,DataF3> points de dégâts, provocation d’une portée de <AHhc,Area3> pendant <AHhc,Dur3> secondes.|n|cffffcc00Niveau 4 :|r bouclier de <AHhc,DataF4> points de dégâts, provocation d’une portée de <AHhc,Area4> pendant <AHhc,Dur4> secondes.|n|cffffcc00Niveau 5 :|r bouclier de <AHhc,DataF5> points de dégâts, provocation d’une portée de <AHhc,Area5> pendant <AHhc,Dur5> secondes.",
+      "koKR": "주위 적을 도발하는 보호막을 얻습니다.|n|n|cffffcc001레벨|r - 피해를 흡수하는 보호막을 <AHhc,DataF1> 얻고, <AHhc,Area1> 거리만큼 <AHhc,Dur1>초 동안 도발합니다.|n|cffffcc002레벨|r - 피해를 흡수하는 보호막을 <AHhc,DataF2> 얻고, <AHhc,Area2> 거리만큼 <AHhc,Dur2>초 동안 도발합니다. |n|cffffcc003레벨|r - 피해를 흡수하는 보호막을 <AHhc,DataF3> 얻고, <AHhc,Area3> 거리만큼 <AHhc,Dur3>초 동안 도발합니다.|n|cffffcc004레벨|r - 피해를 흡수하는 보호막을 <AHhc,DataF4> 얻고, <AHhc,Area4> 거리만큼 <AHhc,Dur4>초 동안 도발합니다. |n|cffffcc005레벨|r - 피해를 흡수하는 보호막을 <AHhc,DataF5> 얻고, <AHhc,Area5> 거리만큼 <AHhc,Dur5>초 동안 도발합니다.",
+      "plPL": "Zyskujesz tarczę i prowokujesz pobliskich wrogów.|n|n|cffffcc00Poziom 1|r – tarcza o wartości <AHhc,DataF1> pkt. obrażeń, prowokacja w zasięgu <AHhc,Area1> na <AHhc,Dur1> sek.|n|cffffcc00Poziom 2|r – tarcza o wartości <AHhc,DataF2> pkt. obrażeń, prowokacja w zasięgu <AHhc,Area2> na <AHhc,Dur2> sek.|n|cffffcc00Poziom 3|r – tarcza o wartości <AHhc,DataF3> pkt. obrażeń, prowokacja w zasięgu <AHhc,Area3> na <AHhc,Dur3> sek.|n|cffffcc00Poziom 4|r – tarcza o wartości <AHhc,DataF4> pkt. obrażeń, prowokacja w zasięgu <AHhc,Area4> na <AHhc,Dur4> sek.|n|cffffcc00Poziom 5|r – tarcza o wartości <AHhc,DataF5> pkt. obrażeń, prowokacja w zasięgu <AHhc,Area5> na <AHhc,Dur5> sek.",
+      "ptBR": "Recebe um escudo e provoca inimigos próximos.|n|n|cffffcc00Nível 1|r - escudo de dano de <AHhc,DataF1>, <AHhc,Area1> de alcance de Provocar por <AHhc,Dur1> segundos.|n|cffffcc00Nível 2|r - escudo de dano de <AHhc,DataF2>, <AHhc,Area2> de alcance de Provocar por <AHhc,Dur2> segundos. |n|cffffcc00Nível 3|r - escudo de dano de <AHhc,DataF3>, <AHhc,Area3> de alcance de Provocar por <AHhc,Dur3> segundos.|n|cffffcc00Nível 4|r - escudo de dano de <AHhc,DataF4>, <AHhc,Area4> de alcance de Provocar por <AHhc,Dur4> segundos. |n|cffffcc00Nível 5|r - escudo de dano de <AHhc,DataF5>, <AHhc,Area5> de alcance de Provocar por <AHhc,Dur5> segundos.",
+      "ruRU": "Дает щит и провоцирует ближайших врагов.|n|n|cffffcc001-й уровень:|r <AHhc,DataF1> прочности щита, провокация в радиусе <AHhc,Area1> в течение <AHhc,Dur1> сек.|n|cffffcc002-й уровень:|r <AHhc,DataF2> прочности щита, провокация в радиусе <AHhc,Area2> в течение <AHhc,Dur2> сек. |n|cffffcc003-й уровень:|r <AHhc,DataF3> прочности щита, провокация в радиусе <AHhc,Area3> в течение <AHhc,Dur3> сек.|n|cffffcc004-й уровень:|r <AHhc,DataF4> прочности щита, провокация в радиусе <AHhc,Area4> в течение <AHhc,Dur4> сек. |n|cffffcc005-й уровень:|r <AHhc,DataF5> прочности щита, провокация в радиусе <AHhc,Area5> в течение <AHhc,Dur5> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNHeroicChallenge.blp",
+   "data": {
+    "Dur1": "5",
+    "HeroDur1": "5",
+    "Cool1": "25",
+    "Cost1": "50",
+    "Area1": "450",
+    "DataA1": "0",
+    "DataB1": "0",
+    "DataC1": "0",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "200",
+    "DataG1": "0",
+    "DataH1": "5",
+    "DataI1": "0",
+    "Dur2": "5",
+    "HeroDur2": "5",
+    "Cool2": "25",
+    "Cost2": "50",
+    "Area2": "500",
+    "DataA2": "0",
+    "DataB2": "0",
+    "DataC2": "0",
+    "DataD2": "0",
+    "DataE2": "0",
+    "DataF2": "275",
+    "DataG2": "0",
+    "DataH2": "5",
+    "DataI2": "0",
+    "Dur3": "5",
+    "HeroDur3": "5",
+    "Cool3": "25",
+    "Cost3": "50",
+    "Area3": "550",
+    "DataA3": "0",
+    "DataB3": "0",
+    "DataC3": "0",
+    "DataD3": "0",
+    "DataE3": "0",
+    "DataF3": "350",
+    "DataG3": "0",
+    "DataH3": "5",
+    "DataI3": "0",
+    "Dur4": "5",
+    "HeroDur4": "5",
+    "Cool4": "25",
+    "Cost4": "50",
+    "Area4": "600",
+    "DataA4": "0",
+    "DataB4": "0",
+    "DataC4": "0",
+    "DataD4": "0",
+    "DataE4": "0",
+    "DataF4": "425",
+    "DataG4": "0",
+    "DataH4": "5",
+    "DataI4": "0",
+    "Dur5": "5",
+    "HeroDur5": "5",
+    "Cool5": "25",
+    "Cost5": "50",
+    "Area5": "650",
+    "DataA5": "0",
+    "DataB5": "0",
+    "DataC5": "0",
+    "DataD5": "0",
+    "DataE5": "0",
+    "DataF5": "500",
+    "DataG5": "0",
+    "DataH5": "5",
+    "DataI5": "0"
+   }
+  },
+  {
+   "id": "AHgr",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Grit",
+      "deDE": "Standhaftigkeit",
+      "esES": "Agallas",
+      "esMX": "Agallas",
+      "frFR": "Cran",
+      "koKR": "투지",
+      "plPL": "Hardość",
+      "ruRU": "Твердость духа"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Grit - [|cffffcc00Level 1|r]",
+       "Grit - [|cffffcc00Level 2|r]",
+       "Grit - [|cffffcc00Level 3|r]",
+       "Grit - [|cffffcc00Level 4|r]",
+       "Grit - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Standhaftigkeit [|cffffcc00Stufe 1|r]",
+       "Standhaftigkeit [|cffffcc00Stufe 2|r]",
+       "Standhaftigkeit [|cffffcc00Stufe 3|r]",
+       "Standhaftigkeit [|cffffcc00Stufe 4|r]",
+       "Standhaftigkeit [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Agallas - [|cffffcc00Nivel 1|r]",
+       "Agallas - [|cffffcc00Nivel 2|r]",
+       "Agallas - [|cffffcc00Nivel 3|r]",
+       "Agallas - [|cffffcc00Nivel 4|r]",
+       "Agallas - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Agallas - [|cffffcc00Nivel 1|r]",
+       "Agallas - [|cffffcc00Nivel 2|r]",
+       "Agallas - [|cffffcc00Nivel 3|r]",
+       "Agallas - [|cffffcc00Nivel 4|r]",
+       "Agallas - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Cran de |cffffcc00niveau 1|r",
+       "Cran de |cffffcc00niveau 2|r",
+       "Cran de |cffffcc00niveau 3|r",
+       "Cran de |cffffcc00niveau 4|r",
+       "Cran de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "투지 - [|cffffcc001레벨|r]",
+       "투지 - [|cffffcc002레벨|r]",
+       "투지 - [|cffffcc003레벨|r]",
+       "투지 - [|cffffcc004레벨|r]",
+       "투지 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Hardość – [|cffffcc00poziom 1|r]",
+       "Hardość – [|cffffcc00poziom 2|r]",
+       "Hardość – [|cffffcc00poziom 3|r]",
+       "Hardość – [|cffffcc00poziom 4|r]",
+       "Hardość – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Fibra - [|cffffcc00Nível 1|r]",
+       "Fibra - [|cffffcc00Nível 2|r]",
+       "Fibra - [|cffffcc00Nível 3|r]",
+       "Fibra - [|cffffcc00Nível 4|r]",
+       "Fibra - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "«Твердость духа» [|cffffcc001-й уровень|r]",
+       "«Твердость духа» [|cffffcc002-й уровень|r]",
+       "«Твердость духа» [|cffffcc003-й уровень|r]",
+       "«Твердость духа» [|cffffcc004-й уровень|r]",
+       "«Твердость духа» [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Every attack against Leonid increases his armor by <AHgr,DataA1,.>, to a maximum of <AHgr,DataB1>. Resets after <AHgr,Dur1> seconds of not being attacked.",
+       "Every attack against Leonid increases his armor by <AHgr,DataA2,.>, to a maximum of <AHgr,DataB2>. Resets after <AHgr,Dur2> seconds of not being attacked.",
+       "Every attack against Leonid increases his armor by <AHgr,DataA3,.>, to a maximum of <AHgr,DataB3>. Resets after <AHgr,Dur3> seconds of not being attacked.",
+       "Every attack against Leonid increases his armor by <AHgr,DataA4,.>, to a maximum of <AHgr,DataB4>. Resets after <AHgr,Dur4> seconds of not being attacked.",
+       "Every attack against Leonid increases his armor by <AHgr,DataA5,.>, to a maximum of <AHgr,DataB5>. Resets after <AHgr,Dur5> seconds of not being attacked."
+      ],
+      "deDE": [
+       "Jeder Angriff gegen Leonid erhöht seine Rüstung um <AHgr,DataA1,.>, bis max. <AHgr,DataB1>. Wird zurückgesetzt, wenn er <AHgr,Dur1> Sek. lang nicht angegriffen wurde.",
+       "Jeder Angriff gegen Leonid erhöht seine Rüstung um <AHgr,DataA2,.>, bis max. <AHgr,DataB2>. Wird zurückgesetzt, wenn er <AHgr,Dur2> Sek. lang nicht angegriffen wurde.",
+       "Jeder Angriff gegen Leonid erhöht seine Rüstung um <AHgr,DataA3,.>, bis max. <AHgr,DataB3>. Wird zurückgesetzt, wenn er <AHgr,Dur3> Sek. lang nicht angegriffen wurde.",
+       "Jeder Angriff gegen Leonid erhöht seine Rüstung um <AHgr,DataA4,.>, bis max. <AHgr,DataB4>. Wird zurückgesetzt, wenn er <AHgr,Dur4> Sek. lang nicht angegriffen wurde.",
+       "Jeder Angriff gegen Leonid erhöht seine Rüstung um <AHgr,DataA5,.>, bis max. <AHgr,DataB5>. Wird zurückgesetzt, wenn er <AHgr,Dur5> Sek. lang nicht angegriffen wurde."
+      ],
+      "esES": [
+       "Cada ataque contra Leonid aumenta <AHgr,DataA1,.> p. su armadura, hasta un máximo de <AHgr,DataB1> p. Se restablece después de <AHgr,Dur1> s sin recibir ningún ataque.",
+       "Cada ataque contra Leonid aumenta <AHgr,DataA2,.> p. su armadura, hasta un máximo de <AHgr,DataB2> p. Se restablece después de <AHgr,Dur2> s sin recibir ningún ataque.",
+       "Cada ataque contra Leonid aumenta <AHgr,DataA3,.> p. su armadura, hasta un máximo de <AHgr,DataB3> p. Se restablece después de <AHgr,Dur3> s sin recibir ningún ataque.",
+       "Cada ataque contra Leonid aumenta <AHgr,DataA4,.> p. su armadura, hasta un máximo de <AHgr,DataB4> p. Se restablece después de <AHgr,Dur4> s sin recibir ningún ataque.",
+       "Cada ataque contra Leonid aumenta <AHgr,DataA5,.> p. su armadura, hasta un máximo de <AHgr,DataB5> p. Se restablece después de <AHgr,Dur5> s sin recibir ningún ataque."
+      ],
+      "esMX": [
+       "Cada ataque contra Leonid aumenta su armadura en <AHgr,DataA1,.>, hasta un máximo de <AHgr,DataB1>. Se restablece después de <AHgr,Dur1> segundos de no recibir un ataque.",
+       "Cada ataque contra Leonid aumenta su armadura en <AHgr,DataA2,.>, hasta un máximo de <AHgr,DataB2>. Se restablece después de <AHgr,Dur2> segundos de no recibir un ataque.",
+       "Cada ataque contra Leonid aumenta su armadura en <AHgr,DataA3,.>, hasta un máximo de <AHgr,DataB3>. Se restablece después de <AHgr,Dur3> segundos de no recibir un ataque.",
+       "Cada ataque contra Leonid aumenta su armadura en <AHgr,DataA4,.>, hasta un máximo de <AHgr,DataB4>. Se restablece después de <AHgr,Dur4> segundos de no recibir un ataque.",
+       "Cada ataque contra Leonid aumenta su armadura en <AHgr,DataA5,.>, hasta un máximo de <AHgr,DataB5>. Se restablece después de <AHgr,Dur5> segundos de no recibir un ataque."
+      ],
+      "frFR": [
+       "Chaque attaque contre Leonid augmente son armure de <AHgr,DataA1,.> points, jusqu’à un maximum de <AHgr,DataB1> points. Se réinitialise après <AHgr,Dur1> secondes si aucune attaque n’est subie.",
+       "Chaque attaque contre Leonid augmente son armure de <AHgr,DataA2,.> points, jusqu’à un maximum de <AHgr,DataB2> points. Se réinitialise après <AHgr,Dur2> secondes si aucune attaque n’est subie.",
+       "Chaque attaque contre Leonid augmente son armure de <AHgr,DataA3,.> points, jusqu’à un maximum de <AHgr,DataB3> points. Se réinitialise après <AHgr,Dur3> secondes si aucune attaque n’est subie.",
+       "Chaque attaque contre Leonid augmente son armure de <AHgr,DataA4,.> points, jusqu’à un maximum de <AHgr,DataB4> points. Se réinitialise après <AHgr,Dur4> secondes si aucune attaque n’est subie.",
+       "Chaque attaque contre Leonid augmente son armure de <AHgr,DataA5,.> points, jusqu’à un maximum de <AHgr,DataB5> points. Se réinitialise après <AHgr,Dur5> secondes si aucune attaque n’est subie."
+      ],
+      "koKR": [
+       "리어니드가 공격을 받을 때마다 방어도가 <AHgr,DataA1,.>씩 증가합니다(최대 <AHgr,DataB1>). 공격받지 않으면 <AHgr,Dur1>초 후 초기화됩니다.",
+       "리어니드가 공격을 받을 때마다 방어도가 <AHgr,DataA2,.>씩 증가합니다(최대 <AHgr,DataB2>). 공격받지 않으면 <AHgr,Dur2>초 후 초기화됩니다.",
+       "리어니드가 공격을 받을 때마다 방어도가 <AHgr,DataA3,.>씩 증가합니다(최대 <AHgr,DataB3>). 공격받지 않으면 <AHgr,Dur3>초 후 초기화됩니다.",
+       "리어니드가 공격을 받을 때마다 방어도가 <AHgr,DataA4,.>씩 증가합니다(최대 <AHgr,DataB4>). 공격받지 않으면 <AHgr,Dur4>초 후 초기화됩니다.",
+       "리어니드가 공격을 받을 때마다 방어도가 <AHgr,DataA5,.>씩 증가합니다(최대 <AHgr,DataB5>). 공격받지 않으면 <AHgr,Dur5>초 후 초기화됩니다."
+      ],
+      "plPL": [
+       "Każdy atak wymierzony w Leonida zwiększa wartość jego pancerza o <AHgr,DataA1,.> pkt., maksymalnie do <AHgr,DataB1> pkt. Premia resetuje się, jeśli w ciągu <AHgr,Dur1> sek. Leonid nie został zaatakowany.",
+       "Każdy atak wymierzony w Leonida zwiększa wartość jego pancerza o <AHgr,DataA2,.> pkt., maksymalnie do <AHgr,DataB2> pkt. Premia resetuje się, jeśli w ciągu <AHgr,Dur2> sek. Leonid nie został zaatakowany.",
+       "Każdy atak wymierzony w Leonida zwiększa wartość jego pancerza o <AHgr,DataA3,.> pkt., maksymalnie do <AHgr,DataB3> pkt. Premia resetuje się, jeśli w ciągu <AHgr,Dur3> sek. Leonid nie został zaatakowany.",
+       "Każdy atak wymierzony w Leonida zwiększa wartość jego pancerza o <AHgr,DataA4,.> pkt., maksymalnie do <AHgr,DataB4> pkt. Premia resetuje się, jeśli w ciągu <AHgr,Dur4> sek. Leonid nie został zaatakowany.",
+       "Każdy atak wymierzony w Leonida zwiększa wartość jego pancerza o <AHgr,DataA5,.> pkt., maksymalnie do <AHgr,DataB5> pkt. Premia resetuje się, jeśli w ciągu <AHgr,Dur5> sek. Leonid nie został zaatakowany."
+      ],
+      "ptBR": [
+       "Todo ataque contra Leonid aumenta sua armadura em <AHgr,DataA1,.>, até um máximo de <AHgr,DataB1>. Redefine após <AHgr,Dur1> segundos se não for atacado.",
+       "Todo ataque contra Leonid aumenta sua armadura em <AHgr,DataA2,.>, até um máximo de <AHgr,DataB2>. Redefine após <AHgr,Dur2> segundos se não for atacado.",
+       "Todo ataque contra Leonid aumenta sua armadura em <AHgr,DataA3,.>, até um máximo de <AHgr,DataB3>. Redefine após <AHgr,Dur3> segundos se não for atacado.",
+       "Todo ataque contra Leonid aumenta sua armadura em <AHgr,DataA4,.>, até um máximo de <AHgr,DataB4>. Redefine após <AHgr,Dur4> segundos se não for atacado.",
+       "Todo ataque contra Leonid aumenta sua armadura em <AHgr,DataA5,.>, até um máximo de <AHgr,DataB5>. Redefine após <AHgr,Dur5> segundos se não for atacado."
+      ],
+      "ruRU": [
+       "Каждый полученный удар усиливает броню Леонида на <AHgr,DataA1,.>, вплоть до <AHgr,DataB1>. При отсутствии атак эффект рассеивается через <AHgr,Dur1> сек.",
+       "Каждый полученный удар усиливает броню Леонида на <AHgr,DataA2,.>, вплоть до <AHgr,DataB2>. При отсутствии атак эффект рассеивается через <AHgr,Dur2> сек.",
+       "Каждый полученный удар усиливает броню Леонида на <AHgr,DataA3,.>, вплоть до <AHgr,DataB3>. При отсутствии атак эффект рассеивается через <AHgr,Dur3> сек.",
+       "Каждый полученный удар усиливает броню Леонида на <AHgr,DataA4,.>, вплоть до <AHgr,DataB4>. При отсутствии атак эффект рассеивается через <AHgr,Dur4> сек.",
+       "Каждый полученный удар усиливает броню Леонида на <AHgr,DataA5,.>, вплоть до <AHgr,DataB5>. При отсутствии атак эффект рассеивается через <AHgr,Dur5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Grit - [|cffffcc00Level %d|r]",
+      "deDE": "Standhaftigkeit [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Agallas - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Agallas - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Cran de |cffffcc00niveau %d|r",
+      "koKR": "투지 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Hardości – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Fibra - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Твердость духа» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Every attack against Leonid increases his armor for a short duration.|n|n|cffffcc00Level 1|r - <AHgr,DataA1,.> bonus armor per stack, maximum of <AHgr,DataB1> armor. Resets after <AHgr,Dur1> seconds.|n|cffffcc00Level 2|r - <AHgr,DataA2,.> bonus armor per stack, maximum of <AHgr,DataB2> armor. Resets after <AHgr,Dur2> seconds. |n|cffffcc00Level 3|r - <AHgr,DataA3,.> bonus armor per stack, maximum of <AHgr,DataB3> armor. Resets after <AHgr,Dur3> seconds.|n|cffffcc00Level 4|r - <AHgr,DataA4,.> bonus armor per stack, maximum of <AHgr,DataB4> armor. Resets after <AHgr,Dur4> seconds. |n|cffffcc00Level 5|r - <AHgr,DataA5,.> bonus armor per stack, maximum of <AHgr,DataB5> armor. Resets after <AHgr,Dur5> seconds.",
+      "deDE": "Jeder Angriff gegen Leonid erhöht kurzzeitig seine Rüstung.|n|n|cffffcc00Stufe 1|r - <AHgr,DataA1,.> Bonusrüstung pro Stapel, max. <AHgr,DataB1> Rüstung. Wird nach <AHgr,Dur1> Sek. zurückgesetzt.|n|cffffcc00Stufe 2|r - <AHgr,DataA2,.> Bonusrüstung pro Stapel, max. <AHgr,DataB2> Rüstung. Wird nach <AHgr,Dur2> Sek. zurückgesetzt. |n|cffffcc00Stufe 3|r - <AHgr,DataA3,.> Bonusrüstung pro Stapel, max. <AHgr,DataB3> Rüstung. Wird nach <AHgr,Dur3> Sek. zurückgesetzt.|n|cffffcc00Stufe 4|r - <AHgr,DataA4,.> Bonusrüstung pro Stapel, max. <AHgr,DataB4> Rüstung. Wird nach <AHgr,Dur4> Sek. zurückgesetzt. |n|cffffcc00Stufe 5|r - <AHgr,DataA5,.> Bonusrüstung pro Stapel, max. <AHgr,DataB5> Rüstung. Wird nach <AHgr,Dur5> Sek. zurückgesetzt.",
+      "esES": "Cada ataque contra Leonid aumenta su armadura durante un tiempo breve.|n|n|cffffcc00Nivel 1|r - <AHgr,DataA1,.> p. de armadura adicional por acumulación, hasta un máximo de <AHgr,DataB1> p. de armadura. Se restablece después de <AHgr,Dur1> s.|n|cffffcc00Nivel 2|r - <AHgr,DataA2,.> p. de armadura adicional por acumulación, hasta un máximo de <AHgr,DataB2> p. de armadura. Se restablece después de <AHgr,Dur2> s. |n|cffffcc00Nivel 3|r - <AHgr,DataA3,.> p. de armadura adicional por acumulación, hasta un máximo de <AHgr,DataB3> p. de armadura. Se restablece después de <AHgr,Dur3> s.|n|cffffcc00Nivel 4|r - <AHgr,DataA4,.> p. de armadura adicional por acumulación, hasta un máximo de <AHgr,DataB4> p. de armadura. Se restablece después de <AHgr,Dur4> s. |n|cffffcc00Nivel 5|r - <AHgr,DataA5,.> p. de armadura adicional por acumulación, hasta un máximo de <AHgr,DataB5> p. de armadura. Se restablece después de <AHgr,Dur5> s.",
+      "esMX": "Cada ataque contra Leonid aumenta su armadura durante un lapso corto.|n|n|cffffcc00Nivel 1|r - <AHgr,DataA1,.> más de armadura por acumulación, máximo de <AHgr,DataB1> de armadura. Se restablece después de <AHgr,Dur1> segundos.|n|cffffcc00Nivel 2|r - <AHgr,DataA2,.> más de armadura por acumulación, máximo de <AHgr,DataB2> de armadura. Se restablece después de <AHgr,Dur2> segundos. |n|cffffcc00Nivel 3|r - <AHgr,DataA3,.> más de armadura por acumulación, máximo de <AHgr,DataB3> de armadura. Se restablece después de <AHgr,Dur3> segundos.|n|cffffcc00Nivel 4|r - <AHgr,DataA4,.> más de armadura por acumulación, máximo de <AHgr,DataB4> de armadura. Se restablece después de <AHgr,Dur4> segundos. |n|cffffcc00Nivel 5|r - <AHgr,DataA5,.> más de armadura por acumulación, máximo de <AHgr,DataB5> de armadura. Se restablece después de <AHgr,Dur5> segundos.",
+      "frFR": "Chaque attaque contre Leonid augmente son armure pendant une courte durée.|n|n|cffffcc00Niveau 1 :|r bonus d’armure de <AHgr,DataA1,.> par cumul, <AHgr,DataB1> points d’armure maximum. Se réinitialise après <AHgr,Dur1> secondes. |n|cffffcc00Niveau 2 :|r bonus d’armure de <AHgr,DataA2,.> par cumul, <AHgr,DataB2> points d’armure maximum. Se réinitialise après <AHgr,Dur2> secondes. |n|cffffcc00Niveau 3 :|r bonus d’armure de <AHgr,DataA3,.> par cumul, <AHgr,DataB3> points d’armure maximum. Se réinitialise après <AHgr,Dur3> secondes. |n|cffffcc00Niveau 4 :|r bonus d’armure de <AHgr,DataA4,.> par cumul, <AHgr,DataB4> points d’armure maximum. Se réinitialise après <AHgr,Dur4> secondes. |n|cffffcc00Niveau 5 :|r bonus d’armure de <AHgr,DataA5,.> par cumul, <AHgr,DataB5> points d’armure maximum. Se réinitialise après <AHgr,Dur5> secondes.",
+      "koKR": "리어니드가 공격을 받을 때마다 짧은 시간 동안 방어도가 증가합니다.|n|n|cffffcc001레벨|r - 중첩당 <AHgr,DataA1,.>의 추가 방어도를 얻습니다(최대 <AHgr,DataB1>). <AHgr,Dur1>초 후 초기화됩니다.|n|cffffcc002레벨|r - 중첩당 <AHgr,DataA2,.>의 추가 방어도를 얻습니다(최대 <AHgr,DataB2>). <AHgr,Dur2>초 후 초기화됩니다. |n|cffffcc003레벨|r - 중첩당 <AHgr,DataA3,.>의 추가 방어도를 얻습니다(최대 <AHgr,DataB3>). <AHgr,Dur3>초 후 초기화됩니다.|n|cffffcc004레벨|r - 중첩당 <AHgr,DataA4,.>의 추가 방어도를 얻습니다(최대 <AHgr,DataB4>). <AHgr,Dur4>초 후 초기화됩니다. |n|cffffcc005레벨|r - 중첩당 <AHgr,DataA5,.>의 추가 방어도를 얻습니다(최대 <AHgr,DataB5>). <AHgr,Dur5>초 후 초기화됩니다.",
+      "plPL": "Każdy atak wymierzony w Leonida zwiększa na chwilę wartość jego pancerza.|n|n|cffffcc00Poziom 1|r – <AHgr,DataA1,.> pkt. pancerza na kumulację, maksymalnie <AHgr,DataB1> pkt. Resetuje się po <AHgr,Dur1> sek.|n|cffffcc00Poziom 2|r – <AHgr,DataA2,.> pkt. pancerza na kumulację, maksymalnie <AHgr,DataB2> pkt. Resetuje się po <AHgr,Dur2> sek.|n|cffffcc00Poziom 3|r – <AHgr,DataA3,.> pkt. pancerza na kumulację, maksymalnie <AHgr,DataB3> pkt. Resetuje się po <AHgr,Dur3> sek.|n|cffffcc00Poziom 4|r – <AHgr,DataA4,.> pkt. pancerza na kumulację, maksymalnie <AHgr,DataB4> pkt. Resetuje się po <AHgr,Dur4> sek.|n|cffffcc00Poziom 5|r – <AHgr,DataA5,.> pkt. pancerza na kumulację, maksymalnie <AHgr,DataB5> pkt. Resetuje się po <AHgr,Dur5> sek.",
+      "ptBR": "Todo ataque contra Leonid aumenta sua armadura por um curto período.|n|n|cffffcc00Nível 1|r - <AHgr,DataA1,.> de bônus de armadura por acúmulo, máximo de <AHgr,DataB1> de armadura. Redefine após <AHgr,Dur1> segundos.|n|cffffcc00Nível 2|r - <AHgr,DataA2,.> de bônus de armadura por acúmulo, máximo de <AHgr,DataB2> de armadura. Redefine após <AHgr,Dur2> segundos.|n|cffffcc00Nível 3|r - <AHgr,DataA3,.> de bônus de armadura por acúmulo, máximo de <AHgr,DataB3> de armadura. Redefine após <AHgr,Dur3> segundos.|n|cffffcc00Nível 4|r - <AHgr,DataA4,.> de bônus de armadura por acúmulo, máximo de <AHgr,DataB4> de armadura. Redefine após<AHgr,Dur4> segundos. |n|cffffcc00Nível 5|r - <AHgr,DataA5,.> de bônus de armadura por acúmulo, máximo de <AHgr,DataB5> de armadura. Redefine após <AHgr,Dur5> segundos.",
+      "ruRU": "Каждый полученный удар ненадолго усиливает броню Леонида.|n|n|cffffcc001-й уровень:|r <AHgr,DataA1,.> брони за заряд, вплоть до <AHgr,DataB1>. Эффект рассеивается через <AHgr,Dur1> сек.|n|cffffcc002-й уровень:|r <AHgr,DataA2,.> брони за заряд, вплоть до <AHgr,DataB2>. Эффект рассеивается через <AHgr,Dur2> сек. |n|cffffcc003-й уровень:|r <AHgr,DataA3,.> брони за заряд, вплоть до <AHgr,DataB3>. Эффект рассеивается через <AHgr,Dur3> сек.|n|cffffcc004-й уровень:|r <AHgr,DataA4,.> брони за заряд, вплоть до <AHgr,DataB4>. Эффект рассеивается через <AHgr,Dur4> сек. |n|cffffcc005-й уровень|r <AHgr,DataA5,.> брони за заряд, вплоть до <AHgr,DataB5>. Эффект рассеивается через <AHgr,Dur5> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\PassiveButtons\\PASBTNGrit.blp",
+   "data": {
+    "Dur1": "5",
+    "HeroDur1": "5",
+    "Cool1": "0",
+    "Cost1": "0",
+    "Area1": "0",
+    "Rng1": "0",
+    "DataA1": "0.25",
+    "DataB1": "15",
+    "DataC1": "0",
+    "DataD1": "0",
+    "Dur2": "5",
+    "HeroDur2": "5",
+    "Cool2": "0",
+    "Cost2": "0",
+    "Area2": "0",
+    "Rng2": "0",
+    "DataA2": "0.5",
+    "DataB2": "15",
+    "DataC2": "0",
+    "DataD2": "0",
+    "Dur3": "5",
+    "HeroDur3": "5",
+    "Cool3": "0",
+    "Cost3": "0",
+    "Area3": "0",
+    "Rng3": "0",
+    "DataA3": "0.75",
+    "DataB3": "15",
+    "DataC3": "0",
+    "DataD3": "0",
+    "Dur4": "5",
+    "HeroDur4": "5",
+    "Cool4": "0",
+    "Cost4": "0",
+    "Area4": "0",
+    "Rng4": "0",
+    "DataA4": "1",
+    "DataB4": "15",
+    "DataC4": "0",
+    "DataD4": "0",
+    "Dur5": "5",
+    "HeroDur5": "5",
+    "Cool5": "0",
+    "Cost5": "0",
+    "Area5": "0",
+    "Rng5": "0",
+    "DataA5": "1.25",
+    "DataB5": "15",
+    "DataC5": "0",
+    "DataD5": "0"
+   }
+  },
+  {
+   "id": "AHgh",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Guiding Hand",
+      "deDE": "Führende Hand",
+      "esES": "Mano inspiradora",
+      "esMX": "Mano guía",
+      "frFR": "Main directrice",
+      "koKR": "인도하는 손",
+      "plPL": "Przewodnia Dłoń",
+      "ptBR": "Mão Guia",
+      "ruRU": "Наставничество"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Activate Guiding Hand - [|cffffcc00Level 1|r]",
+       "Activate Guiding Hand - [|cffffcc00Level 2|r]",
+       "Activate Guiding Hand - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Führende Hand [|cffffcc00Stufe 1|r] aktivieren",
+       "Führende Hand [|cffffcc00Stufe 2|r] aktivieren",
+       "Führende Hand [|cffffcc00Stufe 3|r] aktivieren"
+      ],
+      "esES": [
+       "Activar Mano inspiradora - [|cffffcc00Nivel 1|r]",
+       "Activar Mano inspiradora - [|cffffcc00Nivel 2|r]",
+       "Activar Mano inspiradora - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Activar Mano guía - [|cffffcc00Nivel 1|r]",
+       "Activar Mano guía - [|cffffcc00Nivel 2|r]",
+       "Activar Mano guía - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Activer Main directrice de |cffffcc00niveau 1|r",
+       "Activer Main directrice de |cffffcc00niveau 2|r",
+       "Activer Main directrice de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "인도하는 손 활성화 - [|cffffcc001레벨|r]",
+       "인도하는 손 활성화 - [|cffffcc002레벨|r]",
+       "인도하는 손 활성화 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Aktywacja Przewodniej Dłoni – [|cffffcc00poziom 1|r]",
+       "Aktywacja Przewodniej Dłoni – [|cffffcc00poziom 2|r]",
+       "Aktywacja Przewodniej Dłoni – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Ativar Mão Guia - [|cffffcc00Nível 1|r]",
+       "Ativar Mão Guia - [|cffffcc00Nível 2|r]",
+       "Ativar Mão Guia - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Использовать «Наставничество» [|cffffcc001-й уровень|r]",
+       "Использовать «Наставничество» [|cffffcc002-й уровень|r]",
+       "Использовать «Наставничество» [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Leonid inspires friendly units within <AHgh,Area1> range. Affected units gain <AHgh,DataA1>% attack rate, <AHgh,DataG1>% Ability Speed, and <AHgh,DataB1>% movement speed.|nDrains <AHgh,DataF1> mana per second until deactivated.",
+       "Leonid inspires friendly units within <AHgh,Area2> range. Affected units gain <AHgh,DataA2>% attack rate, <AHgh,DataG2>% Ability Speed, and <AHgh,DataB2>% movement speed.|nDrains <AHgh,DataF2> mana per second until deactivated.",
+       "Leonid inspires friendly units within <AHgh,Area3> range. Affected units gain <AHgh,DataA3>% attack rate, <AHgh,DataG3>% Ability Speed, and <AHgh,DataB3>% movement speed.|nDrains <AHgh,DataF1> mana per second until deactivated."
+      ],
+      "deDE": [
+       "Leonid inspiriert verbündete Einheiten innerhalb einer Reichweite von <AHgh,Area1>. Betroffene Einheiten erhalten <AHgh,DataA1> % Angriffsgeschwindigkeit, <AHgh,DataG1> % Fähigkeitsgeschwindigkeit und <AHgh,DataB1> % Bewegungsgeschwindigkeit.|nVerbraucht <AHgh,DataF1> Mana pro Sekunde bis Abbruch.",
+       "Leonid inspiriert verbündete Einheiten innerhalb einer Reichweite von <AHgh,Area2>. Betroffene Einheiten erhalten <AHgh,DataA2> % Angriffsgeschwindigkeit, <AHgh,DataG2> % Fähigkeitsgeschwindigkeit und <AHgh,DataB2> % Bewegungsgeschwindigkeit.|nVerbraucht <AHgh,DataF2> Mana pro Sekunde bis Abbruch.",
+       "Leonid inspiriert verbündete Einheiten innerhalb einer Reichweite von <AHgh,Area3>. Betroffene Einheiten erhalten <AHgh,DataA3> % Angriffsgeschwindigkeit, <AHgh,DataG3> % Fähigkeitsgeschwindigkeit und <AHgh,DataB3> % Bewegungsgeschwindigkeit.|nVerbraucht <AHgh,DataF1> Mana pro Sekunde bis Abbruch."
+      ],
+      "esES": [
+       "Leonid inspira a las unidades amistosas en un radio de <AHgh,Area1>. Las unidades afectadas obtienen un <AHgh,DataA1>% de velocidad de ataque, un <AHgh,DataG1>% de velocidad con habilidades y un <AHgh,DataB1>% de velocidad de movimiento.|nConsume <AHgh,DataF1> p. de maná por segundo hasta que se desactiva.",
+       "Leonid inspira a las unidades amistosas en un radio de <AHgh,Area2>. Las unidades afectadas obtienen un <AHgh,DataA2>% de velocidad de ataque, un <AHgh,DataG2>% de velocidad con habilidades y un <AHgh,DataB2>% de velocidad de movimiento.|nConsume <AHgh,DataF2> p. de maná por segundo hasta que se desactiva.",
+       "Leonid inspira a las unidades amistosas en un radio de <AHgh,Area3>. Las unidades afectadas obtienen un <AHgh,DataA3>% de velocidad de ataque, un <AHgh,DataG3>% de velocidad con habilidades y un <AHgh,DataB3>% de velocidad de movimiento.|nConsume <AHgh,DataF1> p. de maná por segundo hasta que se desactiva."
+      ],
+      "esMX": [
+       "Leonid inspira a las unidades aliadas dentro de un alcance de <AHgh,Area1>. Las unidades afectadas obtienen un <AHgh,DataA1>% de velocidad de ataque, un <AHgh,DataG1>% de velocidad de habilidad y un <AHgh,DataB1>% de velocidad de movimiento.|nDrena <AHgh,DataF1> de maná por segundo hasta que se desactiva.",
+       "Leonid inspira a las unidades aliadas dentro de un alcance de <AHgh,Area2>. Las unidades afectadas obtienen un <AHgh,DataA2>% de velocidad de ataque, un <AHgh,DataG2>% de velocidad de habilidad y un <AHgh,DataB2>% de velocidad de movimiento.|nDrena <AHgh,DataF2> de maná por segundo hasta que se desactiva.",
+       "Leonid inspira a las unidades aliadas dentro de un alcance de <AHgh,Area3>. Las unidades afectadas obtienen un <AHgh,DataA3>% de velocidad de ataque, un <AHgh,DataG3>% de velocidad de habilidad y un <AHgh,DataB3>% de velocidad de movimiento.|nDrena <AHgh,DataF1> de maná por segundo hasta que se desactiva."
+      ],
+      "frFR": [
+       "Leonid inspire les unités alliées dans un rayon de <AHgh,Area1>. Les unités affectées obtiennent <AHgh,DataA1> % de vitesse d’attaque, <AHgh,DataG1> % de vitesse de technique et <AHgh,DataB1> % de vitesse de déplacement.|n Draine <AHgh,DataF1> points de mana par seconde jusqu’à désactivation.",
+       "Leonid inspire les unités alliées dans un rayon de <AHgh,Area2>. Les unités affectées obtiennent <AHgh,DataA2> % de vitesse d’attaque, <AHgh,DataG2> % de vitesse de technique et <AHgh,DataB2> % de vitesse de déplacement.|n Draine <AHgh,DataF2> points de mana par seconde jusqu’à désactivation.",
+       "Leonid inspire les unités alliées dans un rayon de <AHgh,Area3>. Les unités affectées obtiennent <AHgh,DataA3> % de vitesse d’attaque, <AHgh,DataG3> % de vitesse de technique et <AHgh,DataB3> % de vitesse de déplacement.|n Draine <AHgh,DataF1> points de mana par seconde jusqu’à désactivation."
+      ],
+      "koKR": [
+       "리어니드가 <AHgh,Area1> 범위 내 아군 유닛을 격려합니다. 영향을 받은 유닛의 공격 속도가 <AHgh,DataA1>%, 능력 속도가 <AHgh,DataG1>%, 이동 속도가 <AHgh,DataB1>% 증가합니다.|n비활성화할 때까지 초당 마나를 <AHgh,DataF1> 소모합니다.",
+       "리어니드가 <AHgh,Area2> 범위 내 아군 유닛을 격려합니다. 영향을 받은 유닛의 공격 속도가 <AHgh,DataA2>%, 능력 속도가 <AHgh,DataG2>%, 이동 속도가 <AHgh,DataB2>% 증가합니다.|n비활성화할 때까지 초당 마나를 <AHgh,DataF2> 소모합니다.",
+       "리어니드가 <AHgh,Area3> 범위 내 아군 유닛을 격려합니다. 영향을 받은 유닛의 공격 속도가 <AHgh,DataA3>%, 능력 속도가 <AHgh,DataG3>%, 이동 속도가 <AHgh,DataB3>% 증가합니다.|n비활성화할 때까지 초당 마나를 <AHgh,DataF1> 소모합니다."
+      ],
+      "plPL": [
+       "Leonid inspiruje sojusznicze jednostki w zasięgu <AHgh,Area1>. Objęte działaniem jednostki zyskują <AHgh,DataA1>% szybkości ataku, <AHgh,DataG1>% przyspieszenia zdolności oraz <AHgh,DataB1>% szybkości ruchu.|nZużywa <AHgh,DataF1> pkt. many na sekundę do czasu dezaktywacji.",
+       "Leonid inspiruje sojusznicze jednostki w zasięgu <AHgh,Area2>. Objęte działaniem jednostki zyskują <AHgh,DataA2>% szybkości ataku, <AHgh,DataG2>% przyspieszenia zdolności oraz <AHgh,DataB2>% szybkości ruchu.|nZużywa <AHgh,DataF2> pkt. many na sekundę do czasu dezaktywacji.",
+       "Leonid inspiruje sojusznicze jednostki w zasięgu <AHgh,Area3>. Objęte działaniem jednostki zyskują <AHgh,DataA3>% szybkości ataku, <AHgh,DataG3>% przyspieszenia zdolności oraz <AHgh,DataB3>% szybkości ruchu.|nZużywa <AHgh,DataF1> pkt. many na sekundę do czasu dezaktywacji."
+      ],
+      "ptBR": [
+       "Leonid inspira unidades aliadas dentro de <AHgh,Area1> de alcance. Unidades afetadas recebem <AHgh,DataA1>% de taxa de ataque, <AHgh,DataG1>% de velocidade de habilidade e <AHgh,DataB1>% de velocidade de movimento.|nDrena <AHgh,DataF1> de mana por segundo até a desativação.",
+       "Leonid inspira unidades aliadas dentro de <AHgh,Area2> de alcance. Unidades afetadas recebem <AHgh,DataA2>% de taxa de ataque, <AHgh,DataG2>% de velocidade de habilidade e <AHgh,DataB2>% de velocidade de movimento.|nDrena <AHgh,DataF2> de mana por segundo até a desativação.",
+       "Leonid inspira unidades aliadas dentro de <AHgh,Area3> de alcance. Unidades afetadas recebem <AHgh,DataA3>% de taxa de ataque, <AHgh,DataG3>% de velocidade de habilidade e <AHgh,DataB3>% de velocidade de movimento.|nDrena <AHgh,DataF1> de mana por segundo até a desativação."
+      ],
+      "ruRU": [
+       "Леонид воодушевляет союзников в радиусе <AHgh,Area1>, повышая их скорость атаки на <AHgh,DataA1>%, скорость применения способностей на <AHgh,DataG1>% и скорость передвижения на <AHgh,DataB1>%.|nРасходует <AHgh,DataF1> маны/сек. до отмены.",
+       "Леонид воодушевляет союзников в радиусе <AHgh,Area2>, повышая их скорость атаки на <AHgh,DataA2>%, скорость применения способностей на <AHgh,DataG2>% и скорость передвижения на <AHgh,DataB2>%.|nРасходует <AHgh,DataF2> маны/сек. до отмены.",
+       "Леонид воодушевляет союзников в радиусе <AHgh,Area3>, повышая их скорость атаки на <AHgh,DataA3>%, скорость применения способностей на <AHgh,DataG3>% и скорость передвижения на <AHgh,DataB3>%.|nРасходует <AHgh,DataF1> маны/сек. до отмены."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    },
+    {
+     "key": "Untip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Deactivate Guiding Hand - [|cffffcc00Level 1|r]",
+       "Deactivate Guiding Hand - [|cffffcc00Level 2|r]",
+       "Deactivate Guiding Hand - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Führende Hand [|cffffcc00Stufe 1|r] deaktivieren",
+       "Führende Hand [|cffffcc00Stufe 2|r] deaktivieren",
+       "Führende Hand [|cffffcc00Stufe 3|r] deaktivieren"
+      ],
+      "esES": [
+       "Desactivar Mano inspiradora - [|cffffcc00Nivel 1|r]",
+       "Desactivar Mano inspiradora - [|cffffcc00Nivel 2|r]",
+       "Desactivar Mano inspiradora - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Desactivar Mano guía - [|cffffcc00Nivel 1|r]",
+       "Desactivar Mano guía - [|cffffcc00Nivel 2|r]",
+       "Desactivar Mano guía - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Désactiver Main directrice de |cffffcc00niveau 1|r",
+       "Désactiver Main directrice de |cffffcc00niveau 2|r",
+       "Désactiver Main directrice de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "인도하는 손 비활성화 - [|cffffcc001레벨|r]",
+       "인도하는 손 비활성화 - [|cffffcc002레벨|r]",
+       "인도하는 손 비활성화 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Dezaktywacja Przewodniej Dłoni – [|cffffcc00poziom 1|r]",
+       "Dezaktywacja Przewodniej Dłoni – [|cffffcc00poziom 2|r]",
+       "Dezaktywacja Przewodniej Dłoni – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Desativar Mão Guia - [|cffffcc00Nível 1|r]",
+       "Desativar Mão Guia - [|cffffcc00Nível 2|r]",
+       "Desativar Mão Guia - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Отменить «Наставничество» [|cffffcc001-й уровень|r]",
+       "Отменить «Наставничество» [|cffffcc002-й уровень|r]",
+       "Отменить «Наставничество» [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UnUberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Deactivate Guiding Hand to stop draining mana."
+      ],
+      "deDE": [
+       "Deaktivieren, um kein Mana mehr zu verbrauchen."
+      ],
+      "esES": [
+       "Desactiva Mano inspiradora para detener el consumo de maná."
+      ],
+      "esMX": [
+       "Desactiva Mano guía para detener el drenaje de maná."
+      ],
+      "frFR": [
+       "Désactivez Main directrice pour cesser de consommer du mana."
+      ],
+      "koKR": [
+       "인도하는 손을 비활성화하여 마나가 소모되는 것을 중단합니다."
+      ],
+      "plPL": [
+       "Dezaktywacja Przewodniej Dłoni zapobiega utracie many."
+      ],
+      "ptBR": [
+       "Desative Mão Guia para parar de drenar mana."
+      ],
+      "ruRU": [
+       "Закончите действие «Наставничества», чтобы остановить расход маны."
+      ]
+     }
+    },
+    {
+     "key": "Unhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Guiding Hand - [|cffffcc00Level %d|r]",
+      "deDE": "Führende Hand [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Mano inspiradora - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Mano guía - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Main directrice de |cffffcc00niveau %d|r",
+      "koKR": "인도하는 손 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Przewodniej Dłoni – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Mão Guia - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Наставничество» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Leonid inspires nearby friendly units, granting several bonuses.|nDrains mana until deactivated. |n|n|cffffcc00Level 1|r - <AHgh,DataA1>% attack rate, <AHgh,DataG1>% Ability Speed, <AHgh,DataB1>% movement speed. |n|cffffcc00Level 2|r - <AHgh,DataA2>% attack rate, <AHgh,DataG2>% Ability Speed, <AHgh,DataB2>% movement speed. |n|cffffcc00Level 3|r - <AHgh,DataA3>% attack rate, <AHgh,DataG3>% Ability Speed, <AHgh,DataB3>% movement speed.",
+      "deDE": "Leonid inspiriert verbündete Einheiten in der Nähe und verleiht ihnen mehrere Boni.|nVerbraucht Mana, bis Führende Hand deaktiviert wird. |n|n|cffffcc00Stufe 1|r - <AHgh,DataA1> % Angriffsgeschwindigkeit, <AHgh,DataG1> % Fähigkeitsgeschwindigkeit, <AHgh,DataB1> % Bewegungsgeschwindigkeit. |n|cffffcc00Stufe 2|r - <AHgh,DataA2> % Angriffsgeschwindigkeit, <AHgh,DataG2> % Fähigkeitsgeschwindigkeit, <AHgh,DataB2> % Bewegungsgeschwindigkeit. |n|cffffcc00Stufe 3|r - <AHgh,DataA3> % Angriffsgeschwindigkeit, <AHgh,DataG3> % Fähigkeitsgeschwindigkeit, <AHgh,DataB3> % Bewegungsgeschwindigkeit.",
+      "esES": "Leonid inspira a las unidades amistosas cercanas, que reciben varios bonus.|nConsume maná hasta que se desactiva. |n|n|cffffcc00Nivel 1|r - <AHgh,DataA1>% de velocidad de ataque, <AHgh,DataG1>% de velocidad con habilidades, <AHgh,DataB1>% de velocidad de movimiento. |n|cffffcc00Nivel 2|r - <AHgh,DataA2>% de velocidad de ataque, <AHgh,DataG2>% de velocidad con habilidades, <AHgh,DataB2>% de velocidad de movimiento. |n|cffffcc00Nivel 3|r - <AHgh,DataA3>% de velocidad de ataque, <AHgh,DataG3>% de velocidad con habilidades, <AHgh,DataB3>% de velocidad de movimiento.",
+      "esMX": "Leonid inspira a las unidades aliadas cercanas, lo que les otorga varias bonificaciones.|nDrena maná hasta que se desactiva. |n|n|cffffcc00Nivel 1|r - Un <AHgh,DataA1>% de velocidad de ataque, un <AHgh,DataG1>% de velocidad de habilidad, un <AHgh,DataB1>% de velocidad de movimiento. |n|cffffcc00Nivel 2|r - Un <AHgh,DataA2>% de velocidad de ataque, un <AHgh,DataG2>% de velocidad de habilidad, un <AHgh,DataB2>% de velocidad de movimiento. |n|cffffcc00Nivel 3|r - Un <AHgh,DataA3>% de velocidad de ataque, un <AHgh,DataG3>% de velocidad de habilidad, un <AHgh,DataB3>% de velocidad de movimiento.",
+      "frFR": "Leonid inspire les unités alliées proches et leur confère plusieurs bonus.|nDraine du mana jusqu’à désactivation. |n|n|cffffcc00Niveau 1 :|r <AHgh,DataA1> % de vitesse d’attaque, <AHgh,DataG1> % de vitesse des techniques, <AHgh,DataB1> % de vitesse de déplacement.|n|cffffcc00Niveau 2 :|r <AHgh,DataA2> % de vitesse d’attaque, <AHgh,DataG2> % de vitesse des techniques, <AHgh,DataB2> % de vitesse de déplacement.|n|cffffcc00Niveau 3 :|r <AHgh,DataA3> % de vitesse d’attaque, <AHgh,DataG3> % de vitesse des techniques, <AHgh,DataB3> % de vitesse de déplacement.",
+      "koKR": "리어니드가 주위 아군 유닛을 격려하여 보너스 효과를 부여합니다.|n비활성화할 때까지 마나를 소모합니다. |n|n|cffffcc001레벨|r - 공격 속도 <AHgh,DataA1>%, 능력 속도 <AHgh,DataG1>%, 이동 속도 <AHgh,DataB1>%를 부여합니다. |n|cffffcc002레벨|r - 공격 속도 <AHgh,DataA2>%, 능력 속도 <AHgh,DataG2>%, 이동 속도 <AHgh,DataB2>%를 부여합니다. |n|cffffcc003레벨|r - 공격 속도 <AHgh,DataA3>%, 능력 속도 <AHgh,DataG3>%, 이동 속도 <AHgh,DataB3>%를 부여합니다.",
+      "plPL": "Leonid inspiruje pobliskie sojusznicze jednostki, zapewniając im kilka premii.|nZużywa manę do czasu dezaktywacji.|n|n|cffffcc00Poziom 1|r – <AHgh,DataA1>% szybkości ataku, <AHgh,DataG1>% przyspieszenia zdolności, <AHgh,DataB1>% szybkości ruchu.|n|cffffcc00Poziom 2|r – <AHgh,DataA2>% szybkości ataku, <AHgh,DataG2>% przyspieszenia zdolności, <AHgh,DataB2>% szybkości ruchu.|n|cffffcc00Poziom 3|r – <AHgh,DataA3>% szybkości ataku, <AHgh,DataG3>% przyspieszenia zdolności, <AHgh,DataB3>% szybkości ruchu.",
+      "ptBR": "Leônidas inspira unidades aliadas próximas, concedendo diversos bônus.|nDrena mana até a desativação. |n|n|cffffcc00Nível 1|r - <AHgh,DataA1>% de taxa de ataque, <AHgh,DataG1>% de velocidade de habilidade, <AHgh,DataB1>% de velocidade de movimento. |n|cffffcc00Nível 2|r - <AHgh,DataA2>% de taxa de ataque, <AHgh,DataG2>% de velocidade de habilidade, <AHgh,DataB2>% de velocidade de movimento. |n|cffffcc00Nível 3|r - <AHgh,DataA3>% de taxa de ataque, <AHgh,DataG3>% de velocidade de habilidade, <AHgh,DataB3>% de velocidade de movimento.",
+      "ruRU": "Леонид воодушевляет союзников вокруг, применяя к ним несколько положительных эффектов.|nРасходует ману до отмены. |n|n|cffffcc001-й уровень:|r +<AHgh,DataA1>% к скорости атаки, +<AHgh,DataG1>% к скорости применения способностей, +<AHgh,DataB1>% к скорости передвижения. |n|cffffcc002-й уровень:|r +<AHgh,DataA2>% к скорости атаки, +<AHgh,DataG2>% к скорости применения способностей, +<AHgh,DataB2>% к скорости передвижения. |n|cffffcc003-й уровень:|r +<AHgh,DataA3>% к скорости атаки, +<AHgh,DataG3>% к скорости применения способностей, +<AHgh,DataB3>% к скорости передвижения."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNGuidingHand.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": "50",
+    "Area1": "900",
+    "Rng1": "0",
+    "DataA1": "20",
+    "DataB1": "10",
+    "DataC1": "0",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "15",
+    "DataG1": "10",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0",
+    "Cost2": "50",
+    "Area2": "900",
+    "Rng2": "0",
+    "DataA2": "30",
+    "DataB2": "15",
+    "DataC2": "0",
+    "DataD2": "0",
+    "DataE2": "0",
+    "DataF2": "15",
+    "DataG2": "25",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "0",
+    "Cost3": "50",
+    "Area3": "900",
+    "Rng3": "0",
+    "DataA3": "40",
+    "DataB3": "20",
+    "DataC3": "0",
+    "DataD3": "0",
+    "DataE3": "0",
+    "DataF3": "15",
+    "DataG3": "40"
+   }
+  },
+  {
+   "id": "Aaml",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Attribute Bonus",
+      "deDE": "Erhöhte Attribute",
+      "esES": "Bonificación de atributo",
+      "esMX": "Bonificación de atributo",
+      "frFR": "Bonus aux caractéristiques",
+      "koKR": "능력치 보너스",
+      "plPL": "Premia do Współczynnika",
+      "ptBR": "Bônus de atributo",
+      "ruRU": "Повышение характеристик"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Attribute Bonus - [|cffffcc00Level 1|r]",
+       "Attribute Bonus - [|cffffcc00Level 2|r]"
+      ],
+      "deDE": [
+       "Erhöhte Attribute [|cffffcc00Stufe 1|r]",
+       "Erhöhte Attribute [|cffffcc00Stufe 2|r]"
+      ],
+      "esES": [
+       "Bonificación de atributo - [|cffffcc00Nivel 1|r]",
+       "Bonificación de atributo - [|cffffcc00Nivel 2|r]"
+      ],
+      "esMX": [
+       "Bonificación de atributo - [|cffffcc00Nivel 1|r]",
+       "Bonificación de atributo - [|cffffcc00Nivel 2|r]"
+      ],
+      "frFR": [
+       "Bonus aux caractéristiques de |cffffcc00niveau 1|r",
+       "Bonus aux caractéristiques de |cffffcc00niveau 2|r"
+      ],
+      "koKR": [
+       "능력치 보너스 - [|cffffcc001레벨|r]",
+       "능력치 보너스 - [|cffffcc002레벨|r]"
+      ],
+      "plPL": [
+       "Premia do Współczynnika – [|cffffcc00Poziom 1|r]",
+       "Premia do Współczynnika – [|cffffcc00Poziom 2|r]"
+      ],
+      "ptBR": [
+       "Bônus de Atributo - [|cffffcc00Nível 1|r]",
+       "Bônus de Atributo - [|cffffcc00Nível 2|r]"
+      ],
+      "ruRU": [
+       "Повышение характеристик [|cffffcc001-й уровень|r]",
+       "Повышение характеристик [|cffffcc002-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Gives a total of <Aaml,DataA1> points to Agility, Intelligence, and Strength",
+       "Gives a total of <Aaml,DataA2> points to Agility, Intelligence, and Strength"
+      ],
+      "deDE": [
+       "Erhöht die Beweglichkeit, Stärke und Intelligenz um insgesamt <Aaml,DataA1>.",
+       "Erhöht die Beweglichkeit, Stärke und Intelligenz um insgesamt <Aaml,DataA2>."
+      ],
+      "esES": [
+       "Otorga un total de <Aaml,DataA1> p. de agilidad, inteligencia y fuerza.",
+       "Otorga un total de <Aaml,DataA2> p. de agilidad, inteligencia y fuerza."
+      ],
+      "esMX": [
+       "Otorga un total de <Aaml,DataA1> puntos de agilidad, intelecto y fuerza",
+       "Otorga un total de <Aaml,DataA2> puntos de agilidad, intelecto y fuerza"
+      ],
+      "frFR": [
+       "Confère un total de <Aaml,DataA1> points à l’Agilité, l’Intelligence et la Force.",
+       "Confère un total de <Aaml,DataA2> points à l’Agilité, l’Intelligence et la Force."
+      ],
+      "koKR": [
+       "민첩성, 지능, 힘이 각각 <Aaml,DataA1> 증가합니다.",
+       "민첩성, 지능, 힘이 각각 <Aaml,DataA2> 증가합니다."
+      ],
+      "plPL": [
+       "Dodaje po <Aaml,DataA1> pkt. do zwinności, inteligencji i siły.",
+       "Dodaje po <Aaml,DataA2> pkt. do zwinności, inteligencji i siły."
+      ],
+      "ptBR": [
+       "Adiciona um total de <Aaml,DataA1> pontos aos atributos Agilidade, Inteligência e Força",
+       "Adiciona um total de <Aaml,DataA2> pontos aos atributos Agilidade, Inteligência e Força"
+      ],
+      "ruRU": [
+       "+<Aaml,DataA1> к силе, ловкости и интеллекту.",
+       "+<Aaml,DataA2> к силе, ловкости и интеллекту."
+      ]
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Attribute Bonus - [|cffffcc00Level %d|r].",
+      "deDE": "Erhöhte Attribute [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Bonificación de atributo - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Bonificación de atributo - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre un bonus aux caractéristiques de |cffffcc00niveau %d|r.",
+      "koKR": "능력치 보너스 배우기 - [|cffffcc00%d레벨|r].",
+      "plPL": "Nauka Premii do Współczynnika – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Bônus de Atributo - [|cffffcc00Nível %d|r].",
+      "ruRU": "Изучить повышение характеристик [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "\"Gives a permanent bonus to Agility, Intelligence, and Strength. |n|n|cffffcc00Level 1|r - Grants <Aaml,DataA1> points to all stats.|n|cffffcc00Level 2|r - Grants an additional <Aaml,DataA1> points to all stats.",
+      "deDE": "Erhöht die Beweglichkeit, Stärke und Intelligenz dauerhaft.|n|n|cffffcc00Stufe 1|r - Erhöht alle Werte um <Aaml,DataA1>.|n|cffffcc00Stufe 2|r - Erhöht alle Werte zusätzlich um <Aaml,DataA1>.",
+      "esES": "Otorga una bonificación permanente de agilidad, inteligencia y fuerza. |n|n|cffffcc00Nivel 1|r: otorga <Aaml,DataA1> p. a todas las estadísticas.|n|cffffcc00Nivel 2|r: otorga <Aaml,DataA1> p. adicionales.",
+      "esMX": "Otorga una bonificación permanente de agilidad, intelecto y fuerza. |n|n|cffffcc00Nivel 1|r: otorga <Aaml,DataA1> puntos a todos los atributos.|n|cffffcc00Nivel 2|r: otorga <Aaml,DataA1> puntos adicionales a todos los atributos.",
+      "frFR": "Augmente de manière permanente l’Agilité, l’Intelligence et la Force. |n|n|cffffcc00Niveau 1 :|r augmente toutes les caractéristiques de <Aaml,DataA1> points.|n|cffffcc00Niveau 2 :|r confère <Aaml,DataA1> points supplémentaires à toutes les caractéristiques.",
+      "koKR": "민첩성, 지능, 힘이 영구적으로 증가합니다. |n|n|cffffcc001레벨|r - 모든 능력치가 <Aaml,DataA1>씩 증가합니다.|n|cffffcc002레벨|r - 모든 능력치가 <Aaml,DataA1>씩 더 증가합니다.",
+      "plPL": "Przyznaje trwałą premię do zwinności, inteligencji i siły.|n|n|cffffcc00Poziom 1|r – <Aaml,DataA1> pkt. premii do wszystkich współczynników.|n|cffffcc00Poziom 2|r – kolejne <Aaml,DataA1> pkt. premii do wszystkich współczynników.",
+      "ptBR": "Concede um bônus permanente de Agilidade, Inteligência e Força. |n|n|cffffcc00Nível 1|r - Concede <Aaml,DataA1> pontos a todos os atributos.|n|cffffcc00Nível 2|r - Concede mais <Aaml,DataA1> pontos a todos os atributos.",
+      "ruRU": "Повышает ловкость, интеллект и силу. |n|n|cffffcc001-й уровень:|r +<Aaml,DataA1> к каждой характеристике.|n|cffffcc002-й уровень:|r еще +<Aaml,DataA1> к каждой характеристике."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "F",
+      "deDE": "F",
+      "esES": "F",
+      "esMX": "F",
+      "frFR": "F",
+      "koKR": "F",
+      "plPL": "F",
+      "ptBR": "F",
+      "ruRU": "F"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\PassiveButtons\\PASBTNStatUp.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": "0",
+    "DataA1": "5",
+    "DataB1": "5",
+    "DataC1": "5",
+    "DataD1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0",
+    "Cost2": "0",
+    "DataA2": "10",
+    "DataB2": "10",
+    "DataC2": "10",
+    "DataD2": "0",
+    "Dur4": "0",
+    "HeroDur4": "0",
+    "Cool4": "0",
+    "Cost4": "0",
+    "DataA4": "12",
+    "DataB4": "12",
+    "DataC4": "12",
+    "DataD4": "0"
+   }
+  }
+ ],
+ "install": "Loose files replace whole string files: put the translated CampaignAbilityStrings.txt and CampaignUnitStrings.txt (all original sections + these) into _retail_\\_Units (installed Ukrainian base-game localization uses this folder; its files have no Forsaken Kingdom sections yet)."
+}

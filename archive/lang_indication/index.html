@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Language Badges</title>
+<style>
+:root{--bg:#16171d;--panel:#23252e;--line:#2e313b;--ink:#f1f2f4;--muted:#9a9ea9;--accent:#148eff;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.5 "Open Sans","Noto Sans","Segoe UI",sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:32px 16px 48px}
+h1{font-size:26px;margin:0 0 4px}
+h2{font-size:18px;margin:36px 0 12px}
+p.lead{color:var(--muted);margin:0 0 24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px}
+.card img{display:block;width:200px;max-width:100%;height:auto}
+.name{font-weight:600;margin:10px 0 6px}
+.variant{color:var(--muted);font-size:13px;margin:-4px 0 6px}
+.orig{color:var(--muted);font-size:12px;font-weight:400;margin-left:6px}
+.stops{display:flex;height:14px;border-radius:3px;overflow:hidden;margin-bottom:6px}
+.stops span{flex:1}
+code{font:12px/1.4 ui-monospace,Consolas,monospace;color:var(--muted);overflow-wrap:anywhere}
+.dl{display:flex;gap:8px;margin-top:10px}
+.dl a{flex:1;text-align:center;padding:6px 8px;border:1px solid var(--line);border-radius:4px;background:#1b1d24;
+color:var(--ink);text-decoration:none;font-size:13px;font-weight:600}
+.dl a:hover{border-color:var(--accent)}
+.dl a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Language badges</h1>
+<p class="lead">200 × 101 badges on black, made by <code>make_badges.py</code>. Colours and rules: README.md.</p>
+<div class="grid" id="langs"></div>
+<h2>Spare palettes</h2>
+<p class="lead">Gradients no language uses yet, ready for the next one.</p>
+<div class="grid" id="spare"></div>
+</div>
+<script src="palette.js"></script>
+<script>
+function card(b) {
+  var label = b[0].toUpperCase() + " · " + b[1];
+  return "<div class='card'><img src='" + b[6] + "' alt='" + label + "'>" +
+    "<div class='name'>" + label + "</div>" +
+    (b[5] ? "<div class='variant'>" + b[5] + "</div>" : "") +
+    "<div class='stops'>" + b[2].map(function (c) { return "<span style='background:" + c + "'></span>"; }).join("") + "</div>" +
+    "<code>" + b[2].join(" ") + "</code>" +
+    "<div class='dl'><a href='" + b[6] + "' download title='Download PNG'>&darr; PNG</a>" +
+    "<a href='" + b[4] + "' download title='Download SVG'>&darr; SVG</a></div></div>";
+}
+function part(id, sec) {
+  document.getElementById(id).innerHTML = BADGES.filter(function (b) { return b[7] === sec; }).map(card).join("");
+}
+part("langs", "lang"); part("spare", "spare");
+</script>
+</body>
+</html>

@@ -26,7 +26,27 @@ To add another campaign: copy a `campaign.json`, list `tasks` (task id <-> map f
 Campaign files: ToD 2.01 EN `C:\Users\UserM\Desktop\CSW_Tides_Of_Darkness_2_01.w3n` (22 maps + test map), RoA 1.03 EN
 `F:\ЗАГРУЗКИ\CSW_Rise_of_the_Alliance_1_03.w3n` (5 maps), ToD 2.0 EN `D:\Games\WarCraft\CSW_Tides_Of_Darkness.w3n`
 (the English the Russian 2.0 translation was made from), translated releases: PL/RU ToD on the Desktop, RoA FR/KR/CZ old
-builds in `F:\ЗАГРУЗКИ`.
+builds in `F:\ЗАГРУЗКИ`. (2026-11-12: the ToD 2.01 file is no longer on the Desktop; 2.0 has the same dialogue text as the
+2.01 wts in `CSW-ToD/source/2.01` for Act I and Chapter One.)
+
+Dialogue pages (`tools/tod_html.py --maps WC2OrcAct1.w3x WC2Orc01.w3x` -> `CSW-ToD/dialogue/*.html`, shared renderer
+`tools/dialogue_page.py`): ToD plays lines with `PlayDialogueFromSpeakerEx`/`PlayDialogueFromSpeakerTypeEx`; the subtitle of
+each `gg_snd_*` comes from a "localization item" (`CreateItemLoc('IAL0')` -> `SetDialogueTextKey(snd,
+BlzGetItemDescription(..))`), i.e. item `ides` = line, `utip` = speaker, both TRIGSTR in the map wts. conversation.json in
+these maps has only sound files (no text/speaker ids). Story order = trigger queue walk with constant `if` flags: Act I sets
+`udg_Bool_DebugRendMaimScene=true`, so the long Rend/Maim scene (Blackhands1/2, RendOut triggers, 16 voiced lines) is never
+played; a short version plays at the end of the throne room. Custom hero icons (`BTNOrgrim`, `BTNRendBlackhand`, ...) are
+not in the .w3n: they are loose files in `F:\Games\Warcraft III\_retail_\ReplaceableTextures\CommandButtons\` from the CSW
+V2 asset pack (`_retail_\CSW\` holds its models; AllowLocalFiles). Varok has no icon of his own: he is a plain `Nbbc` (Chaos
+Blademaster icon) with the Varok model in every map; the pack has `BTNSaurfang.dds`, which no unit references, so
+`tod_html.py` maps him to it (`ICON_FIX`).
+Quests tab (`--quests Wolves`, default all): quests come from `CreateQuestBJ(type, title, description, icon)` +
+`set udg_X=GetLastCreatedQuestBJ()` and `CreateQuestItemBJ`; the triggers of a quest are its World Editor category,
+read from `war3map.wtg` (subversion 7) without parsing ECAs: a trigger record is classifier u32 (8 GUI / 32 text), name,
+description, then 6 u32 and the parent category id; a category record is 4, id, name. The category chosen is the one whose
+triggers mention the quest variable or its requirement variables most (Chapter One: Main Quest - Landing / Fuel the Fire /
+First Blood, Optional Quest - Wolves). Texts collected per trigger: dialogue, QuestMessageBJ (by type), leaderboard rows,
+requirement/description changes, timers, quest log status.
 
 ## 2. File formats
 
@@ -224,6 +244,25 @@ Scripts (not in this repo): `casc_common.py`, `blte.py`, `encoding_file.py`, `ca
 * **What does not work:** loose files next to the map (`_retail_\Campaign\...\HumanRE01.w3x\war3map.wts` or
   `_retail_\war3.w3mod\Campaign\...\HumanRE01.w3x\...`) are ignored for map strings. Loose files DO work for global assets
   (French fan dub puts audio in `_retail_\war3.w3mod\_locales\frfr.w3mod\sound\dialogue\`).
+* **Hero and ability texts (names, titles, ability tooltips per level, buffs) are NOT in the maps.** They are game
+  string files in CASC: `War3.w3mod:_Locales/<loc>.w3mod:Units/CampaignUnitStrings.txt` (`[Hctl]` Landen: `Name=Guard
+  Captain` = title, `Propernames=Landen`, `Revivetip`, `Awakentip`, `Hotkey`) and `.../CampaignAbilityStrings.txt`
+  (`[AHhs]`: `Name`, `Tip` and `UberTip` = one quoted value per level separated by commas, `Researchtip` with `%d`,
+  `Researchubertip`, `Hotkey`; buffs `[BHic]`: `Bufftip`, `Buffubertip`). Which abilities a hero has:
+  `Units/UnitAbilities.slk` `heroAbilList` (Hctl: AHhs Heroic Slash, AHen Apprehend, AHic Inspire Courage, AHct Raise the
+  Banner; Hctr Garek: AHsw, AHbd, AHch, AHwc). Numbers for `<AHhs,DataA1>` / `<AHhs,DataB1,%>` (x100) / `<AHen,Dur1>`:
+  `Units/AbilityData.slk`; its rows keep leftover BuffID/UnitID columns of the base ability beyond `levels` (AHct level 4:
+  BOwd, osp3): ignore them. AHct's tooltip borrows numbers from Aaxr and Aasc and summons `hcta` "Lordaeron Banner".
+  Prequel heroes the player controls: Landen `Hctl` (missions 1-2, then restored to a neutral player in Siege), Garek
+  `Hctr` (all missions; Siege adds the shop ability Asud "Sell Units" via uabi), Ilastar `Hjsm` "Cleric" (joins in Siege,
+  stored with Garek to the game cache for Vengeance; AHas, AHsf, AHmc, AHsl). Found from `CreateUnitsForPlayerN` /
+  `Create_TheHero|TheCaptain|TheCleric` triggers / `StoreUnitBJ` in the Lua; maps do not override their hero abilities.
+  Only installed languages have data in CASC (this copy: no itIT, zhCN, zhTW).
+* **How these get translated in game (the working route, confirmed by the user 2026-11-12):** a loose file replaces the
+  whole string file. The installed Ukrainian base-game localization (04.12.2025) uses
+  `F:\Games\Warcraft III\_retail_\_Units\campaignabilitystrings.txt` and `campaignunitstrings.txt` (plus the other
+  `*strings.txt` there, `_UI\` for UI). These files predate Forsaken Kingdom and have no `[Hctl]`/`[AHhs]`... sections, so
+  a FK build must ADD the translated FK sections to these files (keep every existing section), not ship separate files.
 * **Mission chaining (why "after victory the original English map starts").** `CampaignInfo*.txt` only drives the menu. The
   next mission is hard-coded in each map script: `SetNextLevelBJ("Campaign\\ForsakenKingdom\\HumanRE02.w3xd")` (17 calls in
   the 20 scripts, path case varies: `forsakenkingdom`, `undeadre03interlude`). Hubs build paths at run time:
@@ -244,6 +283,63 @@ Scripts (not in this repo): `casc_common.py`, `blte.py`, `encoding_file.py`, `ca
   in enUS), `tools/fk_clean.py` (`dialogue_clean.json` = speaker/text/metadata for proofreading, all missions and languages;
   Blizzard's conversation.json order, which the user accepted; HumanRE01 has a story order worked out from its script:
   cinematics are queued by `Cinematic_NN_Play_CS_Q` triggers from gameplay events, T numbers are story order),
+  `tools/fk_html.py` (one-file `dialogue.html` per mission for the website: same order, speaker icon + name + line;
+  icon = conversation.json `speakerUnitID` -> map `uico` or `Units/UnitSkin.txt` `Art:hd`/`Art` -> `.dds` from CASC, embedded as
+  WebP; `--icons de` (default) = `_DE` first, `--icons hd` = `_HD` first. `_DE` = classic-style icons redrawn at 256px
+  (same picture as the 64px base), `_HD` = Reforged art; every FK speaker has a `_DE` icon; Landen/Garek/City Guard/
+  cultists have no `_HD` at all (base 64px + `_DE` 256px of one picture); Uther and Arthas `_HD` == `_DE`; map-only units like `nvfa` need `--map-files` to find their base in war3map.w3u;
+  Blizzard data bug: HumanRE01 `M030-010-LANDEN` has Uther's speakerNameId, so the game shows "Uther", the page shows Landen),
+  `tools/fk_site.py` (one-page campaign site `FK/site/<campaign>_<locale>.html`: mission list, per mission Dialogue +
+  Quests tabs, hash routes `#humanre01`, `#humanre01-quests`; plus `FK/site/<campaign>_<locale>.json` with every id for a
+  future translation editor. Needs the decrypted maps (war3map.wtg/w3u) and decompiled Lua from the scratchpad. Story order
+  for HumanRE02-04: transmissions by recording number (T010.. are in story order), cinematics anchored where the script
+  queues them (`ANCHORS`: e.g. HRE02 C020 right after T420, M030 after T670; HRE03 M020 before T030, M030 after T280;
+  HRE04 M030 after T640; HRE04 M020 = Ras cutscene that plays T130-T160 itself). Cinematics are defined in Lua as
+  `CinematicStudio.CreateCinematic("C010", ...)` blocks that execute `gg_trg_Cinematic_<Name>_Setup_CS`, which maps names
+  to codes. HRE04 has 9 lines in triggers named "... Q NOT USED" (appendix). Quests in the Lua: `CreateQuestBJ` +
+  `udg_X = GetLastCreatedQuestBJ()`; categories "Main Quest - Homecoming" etc. via `dialogue_page.scan_wtg` (record-shape
+  scan, no names needed). Quests are created again by checkpoint triggers (HRE02 "The Sewers" twice) and requirements are
+  re-created after `QuestItemSetDescriptionBJ` reuses an item for a new goal: both are de-duplicated by text. The shared
+  renderer and quest logic are in `tools/dialogue_page.py` (also used by `tod_html.py`). Main campaign
+  (`--campaign 001_Forsaken_Kingdom`, CONFIG in fk_site): cinematics are anchored automatically (`auto_anchors`: the
+  trigger queueing Cinematic_<X>_Q also queues transmissions; checked against the prequel's hand-made ANCHORS), the rest
+  are estimated by number and marked ≈. Three quest systems: prequel = CreateQuestBJ with "TRIGSTR_n"; chapter 1 =
+  CreateQuestBJ with string variables (`udg_MQSecondChanceTitle = StringIdentity("TRIGSTR_3693")`, descriptions built
+  with `..`; `LuaMap.eval_var` replays the assignments); chapter 2 = Lua table `QI_QuestDataByMap` (entry N = N-th map of
+  the chapter, texts `udg_QM_ExternalizedStrings[i]` filled through a counter that continues across the QM_Data_*
+  functions); its progress runs inside the journal code, so chapter 2 quest cards show the quest log only. Every map of a
+  chapter re-creates the chapter's quests; each quest is shown once (first map with texts). Playable heroes: Garek Ugrk
+  (Ugr2 from chapter 2, same texts), Anya Uany, Leonid Hleo (no UnitSkin section; icon BTNLeonid by name).),
+  Public site (2026-11-12): https://war3-localizations.pages.dev (Cloudflare Pages project `war3-localizations`, same
+  account as aor-uk-localization). Folder: `index.html` + `prequel/index.html` + `main/index.html` (the two
+  `FK/site/*_enUS.html`). Deploy: `npx wrangler pages deploy <folder> --project-name war3-localizations --branch main`,
+  run from a folder WITHOUT wrangler.jsonc (new wrangler otherwise turns it into a Worker; the first try created a Worker
+  `war3-localizations` on workers.dev).
+  RoA section (2026-11-16): `/roa/` = `tools/csw_site.py` (from `F:\ЗАГРУЗКИ\CSW_Rise_of_the_Alliance.w3n`, 5 maps:
+  Act I cinematic + Chapters One-Four; map wts comments are in Russian in this build) -> `CSW-RoA/site/index.html` +
+  `index.json` (every string id of every wts with its place). Every string is claimed once: object data fields (campaign
+  and map w3u/w3t/w3a/w3h/w3q/w3b/w3d incl. Skin, with levels) -> Heroes/Units/Structures (UnitBalance.slk isbldg)/
+  Artifacts/Objects (ItemData.slk class PowerUp/Miscellaneous, destructables, doodads folded as editor-only) / Other
+  (upgrades, buffs, abilities on no unit, w3f, unreferenced); script -> Fragments (dialogue via text items, captions),
+  Quests (Text/Dialogues/Hints per quest + other messages + other script texts), Factions (SetPlayerName, // Force:),
+  Buttons (dialogs, leaderboards, timers, multiboards); text item names (unam, e.g. WC2Human01Terenas01) are editor-only.
+  Unused objects (2026-11-16): reachability from the maps (ids in war3map.j/.lua, every 4-byte window of
+  war3mapUnits.doo / war3map.doo / war3map.w3i) closed over object fields + standard defaults (UnitAbilities.slk, ItemData
+  abilList, AbilityData BuffID/EfctID/UnitID, *UnitFunc.txt Trains/Builds/Researches/Upgrade/Sellitems/Sellunits/Makeitems);
+  map w3u/w3t copies are not usage. RoA: 1785 of 3207 campaign objects reachable (future-chapter heroes like Alleria,
+  Deathwing, Gul'dan, Dark Portal are not); the rest is folded per tab as "Not used in any mission", strings place "unused".
+  Enemy heroes' inventory items count (player can select the hero and read the tooltip), e.g. Doomsaw on Dal'Rend (WC2Human03).
+  Heroes: one page per proper name (`#heroes/<slug>`, short link `/roa/heroes/<slug>/` stub), shared texts once.
+  Level texts: per field, levels whose text is the same once the level number is replaced by `{L}` (in `<Id,DataX1>`,
+  `<Id,Dur1>`, unit ids like `<hPH1,realHP>`, and "Level 1"; edge whitespace ignored) are shown as one row; JSON marks
+  every member with `same_as` (first string id) and `template`. RoA: 465 level strings -> 160 texts. A translation of the
+  template expands per level by replacing `{L}` (keep each string's own trailing whitespace).
+  RoA only (`--enemy-races orc`, the default): the player is the Alliance, Horde units are only ever clicked to read the
+  name, so a Horde unit (race from `urac` or UnitData.slk) shows as a name-only card; its tooltips and abilities are
+  folded into "Not used" (strings place `unused`). Heroes and structures are not affected.
+  Structures show their researches (`ures`, else *UnitFunc.txt Researches) with every upgrade level.
+  `tools/fk_heroes.py` (hero texts, see "Hero and ability texts" below; `FK/heroes/<unit>_<name>.json`, also shown in the
+  site's Heroes section),
   `tools/fk_build.py` (decrypted maps + decompiled Lua -> `CampaignUA/ForsakenKingdom/<Map>_ukUA.w3x` + `UI/CampaignInfoDLC01.txt`,
   `--tag "UA TEST"` marks story strings in all 12 locales, `--cache-prefix UA_TEST_`, `--install <_retail_>`).
 * Decompiled scripts: 20 files, 0.4-5.2 MB each; unluac output has no error markers, a few `goto` (UndeadRE01: 29). A full

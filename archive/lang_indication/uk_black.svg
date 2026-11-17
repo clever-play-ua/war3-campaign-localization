@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="101" viewBox="0 0 200 101">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.1" stop-color="#76cbd4"/>
+      <stop offset="0.3" stop-color="#99d1bb"/>
+      <stop offset="0.5" stop-color="#afd4a9"/>
+      <stop offset="0.7" stop-color="#cad997"/>
+      <stop offset="0.9" stop-color="#e5de84"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="101" fill="#000"/>
+  <text x="100" y="54" text-anchor="middle" fill="url(#g)"
+        font-family="'Open Sans', 'Noto Sans', 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="64"
+        letter-spacing="-1">UK</text>
+  <text x="100" y="84" text-anchor="middle" fill="url(#g)"
+        font-family="'Open Sans', 'Noto Sans', 'Malgun Gothic', 'Yu Gothic', 'Meiryo', 'Nirmala UI', 'Microsoft YaHei', 'Leelawadee UI', 'Segoe UI', Tahoma, Arial, sans-serif"
+        font-weight="400" font-size="25">УКРАЇНСЬКА</text>
+</svg>

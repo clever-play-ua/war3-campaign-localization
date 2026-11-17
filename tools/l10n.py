@@ -469,10 +469,10 @@ def build_wts(camp, lang):
         print(f"  {task_id:<12} {done:>5}/{len(blocks(text))} blocks")
 
 
-def build_campaign(camp, lang, out_dir):
+def build_campaign(camp, lang, out_dir, w3n=None):
     cfg = load_json(camp.lang_dir(lang) / "lang.json")
     lang_dir = camp.lang_dir(lang)
-    src = Path(camp.cfg["source_w3n"])
+    src = Path(w3n or camp.cfg["source_w3n"])
     out = Path(out_dir or cfg.get("output_dir") or camp.cfg.get("output_dir")) / cfg["output"]
     replacements = {camp.cfg["campaign_wts"]: camp.wts_file(lang, camp.cfg["campaign_task"]).read_bytes()}
     for internal, rel in cfg.get("campaign_files", {}).items():
@@ -501,7 +501,7 @@ def build_campaign(camp, lang, out_dir):
 def cmd_build(camp, args):
     build_wts(camp, args.lang)
     if not args.wts_only:
-        build_campaign(camp, args.lang, args.out_dir)
+        build_campaign(camp, args.lang, args.out_dir, args.w3n)
 
 
 # ---------------------------------------------------------------- check
@@ -562,6 +562,7 @@ def main():
             p.add_argument("lang")
             p.add_argument("--wts-only", action="store_true")
             p.add_argument("--out-dir")
+            p.add_argument("--w3n", help="English source campaign (default: source_w3n of campaign.json); used by CI")
         if name == "check":
             p.add_argument("lang", nargs="?")
     args = ap.parse_args()

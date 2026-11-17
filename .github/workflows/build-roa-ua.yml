@@ -1,0 +1,84 @@
+# Rebuild the Ukrainian Rise of the Alliance campaign and put it into the RoA_UA_LATEST release of CSW-RoA-UA.
+#
+# Test mode: the base is the Ukrainian .w3n already in the release (no English upload needed). The build replaces every
+# war3map.wts, war3campaign.wts and the loading screens as whole files, so the result is the same as building from the
+# English campaign. To switch to the English source later, download it in "Get the base campaign" instead.
+#
+# Needs once: secret RELEASE_TOKEN in this repository, a fine-grained token with "Contents: Read and write"
+# on clever-play-ua/CSW-RoA-UA (the default GITHUB_TOKEN cannot write to another repository).
+#
+# Runs by hand (Actions -> Build RoA UA -> Run workflow) and on every push that changes the UA translation.
+name: Build RoA UA
+
+on:
+  workflow_dispatch:
+    inputs:
+      lang:
+        description: "Language folder in CSW-RoA (UK, PL, DE, ...)"
+        default: UK
+      tag:
+        description: "Release tag in the target repository"
+        default: RoA_UA_LATEST
+  push:
+    branches: [main]
+    paths:
+      - "CSW-RoA/UK/**"
+      - "CSW-RoA/strings/**"
+      - "tools/l10n.py"
+      - "tools/w3mpq.py"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-roa-ua
+  cancel-in-progress: true
+
+env:
+  LANG_CODE: ${{ inputs.lang || 'UK' }}
+  TAG: ${{ inputs.tag || 'RoA_UA_LATEST' }}
+  TARGET_REPO: clever-play-ua/CSW-RoA-UA
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Get the base campaign (the current UA build from the release)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p source
+          gh release download "$TAG" --repo "$TARGET_REPO" --pattern "*.w3n" --dir source
+          f=$(ls source/*.w3n | head -n 1)
+          mv "$f" source/base.w3n
+          ls -l source
+
+      - name: Check the translation
+        run: python tools/l10n.py check CSW-RoA "$LANG_CODE"
+
+      - name: Build the campaign
+        run: |
+          python tools/l10n.py build CSW-RoA "$LANG_CODE" --out-dir out --w3n source/base.w3n
+          ls -l out
+
+      - name: Replace the file in the release
+        env:
+          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+        run: |
+          new=$(ls out/*.w3n)
+          name=$(basename "$new")
+          # drop older builds with another file name (version bump), then upload or overwrite this one
+          gh release view "$TAG" --repo "$TARGET_REPO" --json assets --jq '.assets[].name' |
+            grep '\.w3n$' | grep -vxF "$name" | while read -r old; do
+              echo "deleting old asset $old"
+              gh release delete-asset "$TAG" "$old" --repo "$TARGET_REPO" --yes
+            done
+          gh release upload "$TAG" "$new" --repo "$TARGET_REPO" --clobber
+          echo "### Uploaded \`$name\` to $TARGET_REPO@$TAG" >> "$GITHUB_STEP_SUMMARY"

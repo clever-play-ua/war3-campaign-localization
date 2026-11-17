@@ -48,7 +48,8 @@ def blizzard_lines(conv_path, wts_path):
             out.append({"group": group, "label": label,
                         "speaker": S.get(e.get("speakerNameId")),
                         "text": FACE.sub("", S.get(e.get("dialogueId"), "")).strip(),
-                        "string_id": e.get("dialogueId"), "speaker_string_id": e.get("speakerNameId")})
+                        "string_id": e.get("dialogueId"), "speaker_string_id": e.get("speakerNameId"),
+                        "unit": e.get("speakerUnitID")})
     return out
 
 
@@ -66,9 +67,9 @@ def story_position(line, spec):
     return spec["groups"][group]
 
 
-def build(mission_dir, conv_path, loc):
+def ordered_lines(mission_dir, conv_path):
+    """(map name, lines, note): lines with group/label/speaker/text/ids/unit, story order where ORDER has the map."""
     mapname = os.path.basename(mission_dir).split("_")[1]
-    title = json.load(open(os.path.join(mission_dir, "dialogue.json"), encoding="utf-8"))["title"]
     lines = blizzard_lines(conv_path, os.path.join(mission_dir, "war3map.wts"))
     if mapname in ORDER:
         spec = ORDER[mapname]
@@ -77,6 +78,12 @@ def build(mission_dir, conv_path, loc):
                "usually happen; their exact order depends on the player's route."
     else:
         note = "Blizzard's order from conversation.json (trigger groups as listed, lines by conversationOrder)."
+    return mapname, lines, note
+
+
+def build(mission_dir, conv_path, loc):
+    mapname, lines, note = ordered_lines(mission_dir, conv_path)
+    title = json.load(open(os.path.join(mission_dir, "dialogue.json"), encoding="utf-8"))["title"]
     return {"map": mapname, "title": title, "locale": loc, "note": note,
             "lines": [{"speaker": x["speaker"], "text": x["text"],
                        "metadata": {"string_id": x["string_id"], "speaker_string_id": x["speaker_string_id"],

@@ -1,0 +1,1254 @@
+{
+ "unit": "Hjsm",
+ "name": "Ilastar",
+ "title": "Cleric",
+ "sections": [
+  {
+   "id": "Hjsm",
+   "kind": "unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Cleric",
+      "deDE": "Kleriker",
+      "esES": "Clérigo",
+      "esMX": "Clérigo",
+      "frFR": "Clerc",
+      "koKR": "성직자",
+      "plPL": "Kleryk",
+      "ptBR": "Clérigo",
+      "ruRU": "Жрец"
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "C",
+      "deDE": "C",
+      "esES": "C",
+      "esMX": "C",
+      "frFR": "C",
+      "koKR": "C",
+      "plPL": "C",
+      "ptBR": "C",
+      "ruRU": "C"
+     }
+    },
+    {
+     "key": "Propernames",
+     "per_level": false,
+     "values": {
+      "enUS": "Ilastar",
+      "deDE": "Ilastar",
+      "esES": "Ilastar",
+      "esMX": "Ilastar",
+      "frFR": "Ilastar",
+      "koKR": "일라스타",
+      "plPL": "Ilastar",
+      "ptBR": "Ilastar",
+      "ruRU": "Иластар"
+     }
+    },
+    {
+     "key": "Revivetip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Cleric",
+      "deDE": "Kleriker wiederbeleben",
+      "esES": "Revivir al clérigo",
+      "esMX": "Revivir Clérigo",
+      "frFR": "Ressusciter le Clerc",
+      "koKR": "성직자 부활",
+      "plPL": "Ożywienie Kleryka",
+      "ptBR": "Reviver Clérigo",
+      "ruRU": "Воскресить жреца"
+     }
+    },
+    {
+     "key": "Awakentip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Cleric",
+      "deDE": "Kleriker wiederbeleben",
+      "esES": "Revivir al clérigo",
+      "esMX": "Revivir Clérigo",
+      "frFR": "Ressusciter le Clerc",
+      "koKR": "성직자 부활",
+      "plPL": "Ożywienie Kleryka",
+      "ptBR": "Reviver Clérigo",
+      "ruRU": "Воскресить жреца"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNIlastar.blp",
+   "data": {}
+  },
+  {
+   "id": "AHas",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Sacred Aura",
+      "deDE": "Geweihte Aura",
+      "esES": "Aura sagrada",
+      "esMX": "Aura sagrada",
+      "frFR": "Aura consacrée",
+      "koKR": "신성한 오라",
+      "plPL": "Święta Aura",
+      "ptBR": "Aura Sagrada",
+      "ruRU": "Благодатная аура"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Sacred Aura - [|cffffcc00Level 1|r]",
+       "Sacred Aura - [|cffffcc00Level 2|r]",
+       "Sacred Aura - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Geweihte Aura [|cffffcc00Stufe 1|r]",
+       "Geweihte Aura [|cffffcc00Stufe 2|r]",
+       "Geweihte Aura [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Aura sagrada - [|cffffcc00Nivel 1|r]",
+       "Aura sagrada - [|cffffcc00Nivel 2|r]",
+       "Aura sagrada - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Aura sagrada - [|cffffcc00Nivel 1|r]",
+       "Aura sagrada - [|cffffcc00Nivel 2|r]",
+       "Aura sagrada - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Aura consacrée de |cffffcc00niveau 1|r",
+       "Aura consacrée de |cffffcc00niveau 2|r",
+       "Aura consacrée de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "신성한 오라 - [|cffffcc001레벨|r]",
+       "신성한 오라 - [|cffffcc002레벨|r]",
+       "신성한 오라 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Święta Aura – [|cffffcc00poziom 1|r]",
+       "Święta Aura – [|cffffcc00poziom 2|r]",
+       "Święta Aura – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Aura Sagrada - [|cffffcc00Nível 1|r]",
+       "Aura Sagrada - [|cffffcc00Nível 2|r]",
+       "Aura Sagrada - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Благодатная аура [|cffffcc001-й уровень|r]",
+       "Благодатная аура [|cffffcc002-й уровень|r]",
+       "Благодатная аура [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Gives <AHas,DataA1,%>% Magic Resistance and <AHas,DataB1>% increased healing received to nearby friendly units.",
+       "Gives <AHas,DataA2,%>% Magic Resistance and <AHas,DataB2>% increased healing received to nearby friendly units.",
+       "Gives <AHas,DataA3,%>% Magic Resistance and <AHas,DataB3>% increased healing recieved to nearby friendly units."
+      ],
+      "deDE": [
+       "Erhöht den Magiewiderstand von verbündeten Einheiten in der Nähe um <AHas,DataA1,%> % und ihre erhaltene Heilung um <AHas,DataB1> %.",
+       "Erhöht den Magiewiderstand von verbündeten Einheiten in der Nähe um <AHas,DataA2,%> % und ihre erhaltene Heilung um <AHas,DataB2> %.",
+       "Erhöht den Magiewiderstand von verbündeten Einheiten in der Nähe um <AHas,DataA3,%> % und ihre erhaltene Heilung um <AHas,DataB3> %."
+      ],
+      "esES": [
+       "Otorga un <AHas,DataA1,%>% de resistencia a la magia y un <AHas,DataB1>% más de sanación recibida a las unidades amistosas cercanas.",
+       "Otorga un <AHas,DataA2,%>% de resistencia a la magia y un <AHas,DataB2>% más de sanación recibida a las unidades amistosas cercanas.",
+       "Otorga un <AHas,DataA3,%>% de resistencia a la magia y un <AHas,DataB3>% más de sanación recibida a las unidades amistosas cercanas."
+      ],
+      "esMX": [
+       "Otorga un <AHas,DataA1,%>% de resistencia a la magia y un <AHas,DataB1>% más de sanación recibida a las unidades aliadas cercanas.",
+       "Otorga un <AHas,DataA2,%>% de resistencia a la magia y un <AHas,DataB2>% más de sanación recibida a las unidades aliadas cercanas.",
+       "Otorga un <AHas,DataA3,%>% de resistencia a la magia y un <AHas,DataB3>% más de sanación recibida a las unidades aliadas cercanas."
+      ],
+      "frFR": [
+       "Confère aux unités alliées proches <AHas,DataA1,%> % de résistance magique et une augmentation de <AHas,DataB1> % des soins reçus.",
+       "Confère aux unités alliées proches <AHas,DataA2,%> % de résistance magique et une augmentation de <AHas,DataB2> % des soins reçus.",
+       "Confère aux unités alliées proches <AHas,DataA3,%> % de résistance magique et une augmentation de <AHas,DataB3> % des soins reçus."
+      ],
+      "koKR": [
+       "주위 아군 유닛의 마법 저항력을 <AHas,DataA1,%>%, 받는 치유량을 <AHas,DataB1>% 증가시킵니다.",
+       "주위 아군 유닛의 마법 저항력을 <AHas,DataA2,%>%, 받는 치유량을 <AHas,DataB2>% 증가시킵니다.",
+       "주위 아군 유닛의 마법 저항력을 <AHas,DataA3,%>%, 받는 치유량을 <AHas,DataB3>% 증가시킵니다."
+      ],
+      "plPL": [
+       "Zapewnia pobliskim jednostkom sojuszniczym <AHas,DataA1,%>% odporności na magię oraz <AHas,DataB1>% premii do otrzymywanego leczenia.",
+       "Zapewnia pobliskim jednostkom sojuszniczym <AHas,DataA2,%>% odporności na magię oraz <AHas,DataB2>% premii do otrzymywanego leczenia.",
+       "Zapewnia pobliskim jednostkom sojuszniczym <AHas,DataA3,%>% odporności na magię oraz <AHas,DataB3>% premii do otrzymywanego leczenia."
+      ],
+      "ptBR": [
+       "Concede <AHas,DataA1,%>% de Resistência à Magia e <AHas,DataB1>% de aumento na cura recebida às unidades aliadas próximas.",
+       "Concede <AHas,DataA2,%>% de Resistência à Magia e <AHas,DataB2>% de aumento na cura recebida às unidades aliadas próximas.",
+       "Concede <AHas,DataA3,%>% de Resistência à Magia e <AHas,DataB3>% de aumento na cura recebida às unidades aliadas próximas."
+      ],
+      "ruRU": [
+       "Повышает сопротивление магии у находящихся рядом союзников на <AHas,DataA1,%>% и увеличивает для них исцеление на <AHas,DataB1>%.",
+       "Повышает сопротивление магии у находящихся рядом союзников на <AHas,DataA2,%>% и увеличивает для них исцеление на <AHas,DataB2>%.",
+       "Повышает сопротивление магии у находящихся рядом союзников на <AHas,DataA3,%>% и увеличивает для них исцеление на <AHas,DataB3>%."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Sacred Aura - [|cffffcc00Level %d|r]",
+      "deDE": "Geweihte Aura [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Aura sagrada - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Aura sagrada - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Aura consacrée de |cffffcc00niveau %d|r",
+      "koKR": "신성한 오라 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Świętej Aury – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Aura Sagrada - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Благодатную ауру» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Gives additional Magic Resistance and increased healing received to nearby friendly units. |n|n|cffffcc00Level 1|r - <AHas,DataA1,%>% Magic Resistance, <AHas,DataB1>% increased healing received. |n|cffffcc00Level 2|r - <AHas,DataA2,%>% Magic Resistance, <AHas,DataB2>% increased healing received. |n|cffffcc00Level 3|r - <AHas,DataA3,%>% Magic Resistance, <AHas,DataB3>% increased healing received.",
+      "deDE": "Verleiht verbündeten Einheiten in der Nähe zusätzlichen Magiewiderstand und erhöhte erhaltene Heilung. |n|n|cffffcc00Stufe 1|r - <AHas,DataA1,%> % Magiewiderstand, <AHas,DataB1> % erhöhte erhaltene Heilung. |n|cffffcc00Stufe 2|r - <AHas,DataA2,%> % Magiewiderstand, <AHas,DataB2> % erhöhte erhaltene Heilung. |n|cffffcc00Stufe 3|r - <AHas,DataA3,%> % Magiewiderstand, <AHas,DataB3> % erhöhte erhaltene Heilung.",
+      "esES": "Otorga más resistencia a la magia y aumenta la sanación recibida por las unidades amistosas cercanas. |n|n|cffffcc00Nivel 1|r - <AHas,DataA1,%>% de resistencia a la magia, <AHas,DataB1>% más de sanación recibida. |n|cffffcc00Nivel 2|r - <AHas,DataA2,%>% de resistencia a la magia, <AHas,DataB2>% más de sanación recibida. |n|cffffcc00Nivel 3|r - <AHas,DataA3,%>% de resistencia a la magia, <AHas,DataB3>% más de sanación recibida.",
+      "esMX": "Otorga más resistencia a la magia y más sanación recibida de las unidades aliadas cercanas. |n|n|cffffcc00Nivel 1|r - <AHas,DataA1,%>% de resistencia a la magia, <AHas,DataB1>% más de sanación recibida. |n|cffffcc00Nivel 2|r - <AHas,DataA2,%>% de resistencia a la magia, <AHas,DataB2>% más de sanación recibida. |n|cffffcc00Nivel 3|r - <AHas,DataA3,%>% de resistencia a la magia, <AHas,DataB3>% más de sanación recibida.",
+      "frFR": "Confère aux unités alliées proches de la résistance magique supplémentaire ainsi qu’une augmentation des soins reçus. |n|n|cffffcc00Niveau 1 :|r <AHas,DataA1,%> % de résistance magique, augmentation de <AHas,DataB1> % des soins reçus. |n|cffffcc00Niveau 2 :|r <AHas,DataA2,%> % de résistance magique, augmentation de <AHas,DataB2> % des soins reçus.|n|cffffcc00Niveau 3 :|r <AHas,DataA3,%> % de résistance magique, augmentation de <AHas,DataB3> % des soins reçus.",
+      "koKR": "주위 아군 유닛의 마법 저항력과 받는 치유량이 증가합니다. |n|n|cffffcc001레벨|r - 아군 마법 저항력이 <AHas,DataA1,%>%, 받는 치유량이 <AHas,DataB1>% 증가합니다. |n|cffffcc002레벨|r - 아군 마법 저항력이 <AHas,DataA2,%>%, 받는 치유량이 <AHas,DataB2>% 증가합니다. |n|cffffcc003레벨|r - 아군 마법 저항력이 <AHas,DataA3,%>%, 받는 치유량이 <AHas,DataB3>% 증가합니다.",
+      "plPL": "Zapewnia pobliskim jednostkom sojuszniczym dodatkową odporność na magię oraz zwiększa skuteczność otrzymywanego przez nie leczenia.|n|n|cffffcc00Poziom 1|r – <AHas,DataA1,%>% odporności na magię, <AHas,DataB1>% premii do otrzymywanego leczenia.|n|cffffcc00Poziom 2|r – <AHas,DataA2,%>% odporności na magię, <AHas,DataB2>% premii do otrzymywanego leczenia.|n|cffffcc00Poziom 3|r – <AHas,DataA3,%>% odporności na magię, <AHas,DataB3>% premii do otrzymywanego leczenia.",
+      "ptBR": "Concede Resistência à Magia adicional e aumenta a cura recebida por unidades aliadas próximas. |n|n|cffffcc00Nível 1|r - <AHas,DataA1,%>% de Resistência à Magia, <AHas,DataB1>% de cura aumentada recebida. |n|cffffcc00Nível 2|r - <AHas,DataA2,%>% de Resistência à Magia, <AHas,DataB2>% de cura aumentada recebida. |n|cffffcc00Nível 3|r - <AHas,DataA3,%>% de Resistência à Magia, <AHas,DataB3>% de cura aumentada recebida.",
+      "ruRU": "Повышает сопротивление магии у находящихся рядом союзников и увеличивает для них исцеление. |n|n|cffffcc001-й уровень:|r <AHas,DataA1,%>% сопротивления магии, <AHas,DataB1>% получаемого исцеления. |n|cffffcc002-й уровень:|r <AHas,DataA2,%>% сопротивления магии, <AHas,DataB2>% получаемого исцеления. |n|cffffcc003-й уровень:|r <AHas,DataA3,%>% сопротивления магии, <AHas,DataB3>% получаемого исцеления."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\PassiveButtons\\PASBTNSacredAura.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": " - ",
+    "Area1": "900",
+    "Rng1": " - ",
+    "DataA1": "0.15",
+    "DataB1": "15",
+    "DataC1": "0",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "0",
+    "DataG1": "0",
+    "Dur2": " - ",
+    "HeroDur2": " - ",
+    "Cool2": " - ",
+    "Cost2": " - ",
+    "Area2": "900",
+    "Rng2": " - ",
+    "DataA2": "0.25",
+    "DataB2": "20",
+    "DataC2": "0",
+    "DataD2": "0",
+    "DataE2": "0",
+    "DataF2": "0",
+    "DataG2": "0",
+    "Dur3": " - ",
+    "HeroDur3": " - ",
+    "Cool3": " - ",
+    "Cost3": " - ",
+    "Area3": "900",
+    "Rng3": " - ",
+    "DataA3": "0.35",
+    "DataB3": "25",
+    "DataC3": "0",
+    "DataD3": "0",
+    "DataE3": "0",
+    "DataF3": "0",
+    "DataG3": "0",
+    "Dur4": " - ",
+    "HeroDur4": " - ",
+    "Cool4": " - ",
+    "Cost4": " - ",
+    "Area4": "900",
+    "Rng4": " - ",
+    "DataA4": "5",
+    "DataB4": "5",
+    "DataC4": "1",
+    "DataD4": "3",
+    "DataE4": "0",
+    "DataF4": "0",
+    "DataG4": "5"
+   }
+  },
+  {
+   "id": "BHas",
+   "kind": "buff",
+   "file": "NeutralAbilityStrings.txt",
+   "note": "of AHas",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Sacred Aura"
+      ],
+      "deDE": [
+       "Geweihte Aura"
+      ],
+      "esES": [
+       "Aura sagrada"
+      ],
+      "esMX": [
+       "Aura sagrada"
+      ],
+      "frFR": [
+       "Aura consacrée"
+      ],
+      "koKR": [
+       "신성한 오라"
+      ],
+      "plPL": [
+       "Święta Aura"
+      ],
+      "ptBR": [
+       "Aura Sagrada"
+      ],
+      "ruRU": [
+       "Благодатная аура"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has increased Magic Resistance and receives greater healing."
+      ],
+      "deDE": [
+       "Diese Einheit hat mehr Magiewiderstand und erhält mehr Heilung."
+      ],
+      "esES": [
+       "Esta unidad tiene más resistencia a la magia y recibe más sanación."
+      ],
+      "esMX": [
+       "Esta unidad está bajo los efectos de la resistencia a la magia y recibe más sanación."
+      ],
+      "frFR": [
+       "Cette unité bénéficie d’une augmentation de la résistance magique et reçoit davantage de soins."
+      ],
+      "koKR": [
+       "마법 저항력이 증가하고 받는 치유량이 증가합니다."
+      ],
+      "plPL": [
+       "Ta jednostka ma zwiększoną odporność na magię i otrzymuje zwiększone leczenie."
+      ],
+      "ptBR": [
+       "A resistência à magia desta unidade aumentou e ela recebe cura superior."
+      ],
+      "ruRU": [
+       "Сопротивление магии и эффективность исцеления цели повышены."
+      ]
+     }
+    },
+    {
+     "key": "EditorSuffix",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       " (Friendly)"
+      ],
+      "deDE": [
+       "(Verbündet)"
+      ],
+      "esES": [
+       "(Amistoso)"
+      ],
+      "esMX": [
+       "(Aliada)"
+      ],
+      "frFR": [
+       "(Unité alliée)"
+      ],
+      "koKR": [
+       "(Friendly)"
+      ],
+      "plPL": [
+       "(Sojusznicza)"
+      ],
+      "ptBR": [
+       "(Amigável)"
+      ],
+      "ruRU": [
+       "(Союзник)"
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AHsf",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Light's Mercy",
+      "deDE": "Gnade des Lichts",
+      "esES": "Piedad de la Luz",
+      "esMX": "Piedad de la Luz",
+      "frFR": "Miséricorde de la Lumière",
+      "koKR": "빛의 자비",
+      "plPL": "Łaska Światłości",
+      "ptBR": "Misericórdia da Luz",
+      "ruRU": "Милость небес"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Light's Mercy - [|cffffcc00Level 1|r]",
+       "Light's Mercy - [|cffffcc00Level 2|r]",
+       "Light's Mercy - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Gnade des Lichts [|cffffcc00Stufe 1|r]",
+       "Gnade des Lichts [|cffffcc00Stufe 2|r]",
+       "Gnade des Lichts [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Piedad de la Luz - [|cffffcc00Nivel 1|r]",
+       "Piedad de la Luz - [|cffffcc00Nivel 2|r]",
+       "Piedad de la Luz - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Piedad de la Luz - [|cffffcc00Nivel 1|r]",
+       "Piedad de la Luz - [|cffffcc00Nivel 2|r]",
+       "Piedad de la Luz - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Miséricorde de la Lumière de |cffffcc00niveau 1|r",
+       "Miséricorde de la Lumière de |cffffcc00niveau 2|r",
+       "Miséricorde de la Lumière de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "빛의 자비 - [|cffffcc001레벨|r]",
+       "빛의 자비 - [|cffffcc002레벨|r]",
+       "빛의 자비 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Łaska Światłości – [|cffffcc00poziom 1|r]",
+       "Łaska Światłości – [|cffffcc00poziom 2|r]",
+       "Łaska Światłości – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Misericórdia da Luz - [|cffffcc00Nível 1|r]",
+       "Misericórdia da Luz - [|cffffcc00Nível 2|r]",
+       "Misericórdia da Luz - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Милость небес [|cffffcc001-й уровень|r]",
+       "Милость небес [|cffffcc002-й уровень|r]",
+       "Милость небес [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Conjures holy fire onto a target area. Friendly living units are healed for <AHsf,DataD1> hit points, while enemy Undead units take <AHsf,DataA1> damage per second over <AHsf,Dur1> seconds.",
+       "Conjures holy fire onto a target area. Friendly living units are healed for <AHsf,DataD2> hit points, while enemy Undead units take <AHsf,DataA2> damage per second over <AHsf,Dur2> seconds.",
+       "Conjures holy fire onto a target area. Friendly living units are healed for <AHsf,DataD3> hit points, while enemy Undead units take <AHsf,DataA3> damage per second over <AHsf,Dur3> seconds."
+      ],
+      "deDE": [
+       "Beschwört geweihtes Feuer auf einem Zielgebiet. Verbündete lebende Einheiten werden um <AHsf,DataD1> Trefferpunkte geheilt, während gegnerische untote Einheiten <AHsf,Dur1> Sek. lang <AHsf,DataA1> Schaden pro Sek. erleiden.",
+       "Beschwört geweihtes Feuer auf einem Zielgebiet. Verbündete lebende Einheiten werden um <AHsf,DataD2> Trefferpunkte geheilt, während gegnerische untote Einheiten <AHsf,Dur2> Sek. lang <AHsf,DataA2> Schaden pro Sek. erleiden.",
+       "Beschwört geweihtes Feuer auf einem Zielgebiet. Verbündete lebende Einheiten werden um <AHsf,DataD3> Trefferpunkte geheilt, während gegnerische untote Einheiten <AHsf,Dur3> Sek. lang <AHsf,DataA3> Schaden pro Sek. erleiden."
+      ],
+      "esES": [
+       "Conjura un fuego sagrado en un área seleccionada. Sana <AHsf,DataD1> p. de vida a las unidades vivas amistosas e inflige <AHsf,DataA1> p. de daño por segundo durante <AHsf,Dur1> s a las unidades enemigas no-muertas.",
+       "Conjura un fuego sagrado en un área seleccionada. Sana <AHsf,DataD2> p. de vida a las unidades vivas amistosas e inflige <AHsf,DataA2> p. de daño por segundo durante <AHsf,Dur2> s a las unidades enemigas no-muertas.",
+       "Conjura un fuego sagrado en un área seleccionada. Sana <AHsf,DataD3> p. de vida a las unidades vivas amistosas e inflige <AHsf,DataA3> p. de daño por segundo durante <AHsf,Dur3> s a las unidades enemigas no-muertas."
+      ],
+      "esMX": [
+       "Conjura fuego sagrado en un área objetivo. Las unidades vivas aliadas recuperan <AHsf,DataD1> de salud, mientras que las unidades no muertas reciben <AHsf,DataA1> de daño por segundo durante <AHsf,Dur1> segundos.",
+       "Conjura fuego sagrado en un área objetivo. Las unidades vivas aliadas recuperan <AHsf,DataD2> de salud, mientras que las unidades no muertas reciben <AHsf,DataA2> de daño por segundo durante <AHsf,Dur2> segundos.",
+       "Conjura fuego sagrado en un área objetivo. Las unidades vivas aliadas recuperan <AHsf,DataD3> de salud, mientras que las unidades no muertas reciben <AHsf,DataA3> de daño por segundo durante <AHsf,Dur3> segundos."
+      ],
+      "frFR": [
+       "Invoque des flammes sacrées dans une zone ciblée. Les unités vivantes alliées récupèrent <AHsf,DataD1> points de vie, tandis que les unités mortes-vivantes ennemies subissent <AHsf,DataA1> points de dégâts par seconde pendant <AHsf,Dur1> secondes.",
+       "Invoque des flammes sacrées dans une zone ciblée. Les unités vivantes alliées récupèrent <AHsf,DataD2> points de vie, tandis que les unités mortes-vivantes ennemies subissent <AHsf,DataA2> points de dégâts par seconde pendant <AHsf,Dur2> secondes.",
+       "Invoque des flammes sacrées dans une zone ciblée. Les unités vivantes alliées récupèrent <AHsf,DataD3> points de vie, tandis que les unités mortes-vivantes ennemies subissent <AHsf,DataA3> points de dégâts par seconde pendant <AHsf,Dur3> secondes."
+      ],
+      "koKR": [
+       "대상 범위에 성스러운 불꽃을 불러냅니다. 아군 생체 유닛은 생명력을 <AHsf,DataD1> 회복하고, 적 언데드 유닛은 <AHsf,Dur1>초에 걸쳐 초당 <AHsf,DataA1> 피해를 받습니다.",
+       "대상 범위에 성스러운 불꽃을 불러냅니다. 아군 생체 유닛은 생명력을 <AHsf,DataD2> 회복하고, 적 언데드 유닛은 <AHsf,Dur2>초에 걸쳐 초당 <AHsf,DataA2> 피해를 받습니다.",
+       "대상 범위에 성스러운 불꽃을 불러냅니다. 아군 생체 유닛은 생명력을 <AHsf,DataD3> 회복하고, 적 언데드 유닛은 <AHsf,Dur3>초에 걸쳐 초당 <AHsf,DataA3> 피해를 받습니다."
+      ],
+      "plPL": [
+       "Przywołuje święty ogień na wyznaczonym obszarze. Sojusznicze żyjące jednostki odzyskują <AHsf,DataD1> pkt. zdrowia, a wrogie nieumarłe jednostki odnoszą <AHsf,DataA1> pkt. obrażeń na sekundę w ciągu <AHsf,Dur1> sek.",
+       "Przywołuje święty ogień na wyznaczonym obszarze. Sojusznicze żyjące jednostki odzyskują <AHsf,DataD2> pkt. zdrowia, a wrogie nieumarłe jednostki odnoszą <AHsf,DataA2> pkt. obrażeń na sekundę w ciągu <AHsf,Dur2> sek.",
+       "Przywołuje święty ogień na wyznaczonym obszarze. Sojusznicze żyjące jednostki odzyskują <AHsf,DataD3> pkt. zdrowia, a wrogie nieumarłe jednostki odnoszą <AHsf,DataA3> pkt. obrażeń na sekundę w ciągu <AHsf,Dur3> sek."
+      ],
+      "ptBR": [
+       "Conjura fogo sagrado em uma área selecionada. Unidades aliadas vivas são curadas em <AHsf,DataD1> pontos de vida, e unidades inimigas mortas-vivas recebem <AHsf,DataA1> de dano por segundo durante <AHsf,Dur1> segundos.",
+       "Conjura fogo sagrado em uma área selecionada. Unidades aliadas vivas são curadas em <AHsf,DataD2> pontos de vida, e unidades inimigas mortas-vivas recebem <AHsf,DataA2> de dano por segundo durante <AHsf,Dur2> segundos.",
+       "Conjura fogo sagrado em uma área selecionada. Unidades aliadas vivas são curadas em <AHsf,DataD3> pontos de vida, e unidades inimigas mortas-vivas recebem <AHsf,DataA3> de dano por segundo durante <AHsf,Dur3> segundos."
+      ],
+      "ruRU": [
+       "Призывает священное пламя в выбранной области. Живые союзники восстанавливают <AHsf,DataD1> здоровья, а вражеская нежить получает <AHsf,DataA1> урона/сек. в течение <AHsf,Dur1> сек.",
+       "Призывает священное пламя в выбранной области. Живые союзники восстанавливают <AHsf,DataD2> здоровья, а вражеская нежить получает <AHsf,DataA2> урона/сек. в течение <AHsf,Dur2> сек.",
+       "Призывает священное пламя в выбранной области. Живые союзники восстанавливают <AHsf,DataD3> здоровья, а вражеская нежить получает <AHsf,DataA3> урона/сек. в течение <AHsf,Dur3> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Light's Mercy - [|cffffcc00Level %d|r]",
+      "deDE": "Gnade des Lichts [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Piedad de la Luz - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Piedad de la Luz - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Miséricorde de la Lumière de |cffffcc00niveau %d|r",
+      "koKR": "빛의 자비 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Łaski Światłości – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Misericórdia da Luz - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Милость небес» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Conjures holy fire onto a target area, healing friendly living units and burning enemy Undead units. |n|n|cffffcc00Level 1|r - Heals <AHsf,DataD1> hit points, deals <AHsf,DataA1> damage per second for <AHsf,Dur1> seconds. |n|cffffcc00Level 2|r - Heals <AHsf,DataD2> hit points, deals <AHsf,DataA2> damage per second for <AHsf,Dur2> seconds. |n|cffffcc00Level 3|r - Heals <AHsf,DataD3> hit points, deals <AHsf,DataA3> damage per second for <AHsf,Dur3> seconds.",
+      "deDE": "Beschwört heiliges Feuer auf ein Zielgebiet, das verbündete lebendige Einheiten heilt und gegnerische untote Einheiten verbrennt. |n|n|cffffcc00Stufe 1|r - Heilt <AHsf,DataD1> Trefferpunkte, verursacht <AHsf,Dur1> Sek. lang <AHsf,DataA1> Schaden pro Sek. |n|cffffcc00Stufe 2|r - Heilt <AHsf,DataD2> Trefferpunkte, verursacht <AHsf,Dur2> Sek. lang <AHsf,DataA2> Schaden pro Sek. |n|cffffcc00Stufe 3|r - Heilt <AHsf,DataD3> Trefferpunkte, verursacht <AHsf,Dur3> Sek. lang <AHsf,DataA3> Schaden pro Sek.",
+      "esES": "Conjura un fuego sagrado en un área seleccionada que sana a las unidades vivas amistosas y quema a las unidades enemigas no-muertas. |n|n|cffffcc00Nivel 1|r - Sana <AHsf,DataD1> p. de vida e inflige <AHsf,DataA1> p. de daño por segundo durante <AHsf,Dur1> s. |n|cffffcc00Nivel 2|r - Sana <AHsf,DataD2> p. de vida e inflige <AHsf,DataA2> p. de daño por segundo durante <AHsf,Dur2> s. |n|cffffcc00Nivel 3|r - Sana <AHsf,DataD3> p. de vida e inflige <AHsf,DataA3> p. de daño por segundo durante <AHsf,Dur3> s.",
+      "esMX": "Conjura fuego sagrado en un área objetivo, lo que sana a las unidades vivas aliadas y quema a las unidades no muertas enemigas. |n|n|cffffcc00Nivel 1|r - Restablece <AHsf,DataD1> de salud, inflige <AHsf,DataA1> de daño por segundo durante <AHsf,Dur1> segundos. |n|cffffcc00Nivel 2|r - Restablece <AHsf,DataD2> de salud, inflige <AHsf,DataA2> de daño por segundo durante <AHsf,Dur2> segundos. |n|cffffcc00Nivel 3|r - Restablece <AHsf,DataD3> de salud, inflige <AHsf,DataA3> de daño por segundo durante <AHsf,Dur3> segundos.",
+      "frFR": "Invoque des flammes sacrées dans une zone ciblée, ce qui soigne les unités vivantes alliées et brûle les unités mortes-vivantes ennemies. |n|n|cffffcc00Niveau 1 :|r rend <AHsf,DataD1> points de vie, inflige <AHsf,DataA1> points de dégâts par seconde pendant <AHsf,Dur1> secondes. |n|cffffcc00Niveau 2 :|r rend <AHsf,DataD2> points de vie, inflige <AHsf,DataA2> points de dégâts par seconde pendant <AHsf,Dur2> secondes. |n|cffffcc00Niveau 3 :|r rend <AHsf,DataD3> points de vie, inflige <AHsf,DataA3> points de dégâts par seconde pendant <AHsf,Dur3> secondes.",
+      "koKR": "대상 범위에 성스러운 불꽃을 불러내, 아군 생체 유닛을 치유하고 적 언데드 유닛을 불태웁니다. |n|n|cffffcc001레벨|r - 생명력을 <AHsf,DataD1> 치유하고, <AHsf,Dur1>초에 걸쳐 초당 <AHsf,DataA1>의 피해를 줍니다. |n|cffffcc002레벨|r - 생명력을 <AHsf,DataD2> 치유하고, <AHsf,Dur2>초에 걸쳐 초당 <AHsf,DataA2>의 피해를 줍니다. |n|cffffcc003레벨|r - 생명력을 <AHsf,DataD3> 치유하고, <AHsf,Dur3>초에 걸쳐 초당 <AHsf,DataA3>의 피해를 줍니다.",
+      "plPL": "Przywołuje na wybrany obszar święty ogień, który uzdrawia pobliskie żywe sojusznicze jednostki i pali pobliskie nieumarłe wrogie jednostki. |n|n|cffffcc00Poziom 1|r – przywraca <AHsf,DataD1> pkt. zdrowia, zadaje <AHsf,DataA1> pkt. obrażeń na sekundę w ciągu <AHsf,Dur1> sek. |n|cffffcc00Poziom 2|r – przywraca <AHsf,DataD2> pkt. zdrowia, zadaje <AHsf,DataA2> pkt. obrażeń na sekundę w ciągu <AHsf,Dur2> sek. |n|cffffcc00Poziom 3|r – przywraca <AHsf,DataD3> pkt. zdrowia, zadaje <AHsf,DataA3> pkt. obrażeń na sekundę w ciągu <AHsf,Dur3> sek.",
+      "ptBR": "Conjura fogo sagrado em uma área selecionada, curando unidades aliadas vivas e queimando unidades inimigas mortas-vivas. |n|n|cffffcc00Nível 1|r - Cura <AHsf,DataD1> pontos de vida, causa <AHsf,DataA1> de dano por segundo durante <AHsf,Dur1> segundos. |n|cffffcc00Nível 2|r - Cura <AHsf,DataD2> pontos de vida, causa <AHsf,DataA2> de dano por segundo durante <AHsf,Dur2> segundos. |n|cffffcc00Nível 3|r - Cura <AHsf,DataD3> pontos de vida, causa <AHsf,DataA3> de dano por segundo durante <AHsf,Dur3> segundos.",
+      "ruRU": "Призывает священное пламя, исцеляющее живых союзников и обжигающее вражескую нежить. |n|n|cffffcc001-й уровень:|r восстанавливает <AHsf,DataD1> здоровья, наносит <AHsf,DataA1> урона/сек. в течение <AHsf,Dur1> сек. |n|cffffcc002-й уровень:|r восстанавливает <AHsf,DataD2> здоровья, наносит <AHsf,DataA2> урона/сек в течение <AHsf,Dur2> сек. |n|cffffcc003-й уровень:|r восстанавливает <AHsf,DataD3> здоровья, наносит <AHsf,DataA3> урона/сек в течение <AHsf,Dur3> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNLightsMercy.blp",
+   "data": {
+    "Dur1": "10",
+    "HeroDur1": "5",
+    "Cool1": "15",
+    "Cost1": "100",
+    "Area1": "200",
+    "Rng1": "800",
+    "DataA1": "10",
+    "DataB1": "1",
+    "DataC1": "0",
+    "DataD1": "100",
+    "DataE1": "0",
+    "DataF1": "0",
+    "DataG1": "0",
+    "Dur2": "10",
+    "HeroDur2": "5",
+    "Cool2": "15",
+    "Cost2": "100",
+    "Area2": "200",
+    "Rng2": "800",
+    "DataA2": "15",
+    "DataB2": "1",
+    "DataC2": "0",
+    "DataD2": "125",
+    "DataE2": "0",
+    "DataF2": "0",
+    "DataG2": "0",
+    "Dur3": "10",
+    "HeroDur3": "5",
+    "Cool3": "15",
+    "Cost3": "100",
+    "Area3": "200",
+    "Rng3": "800",
+    "DataA3": "20",
+    "DataB3": "1",
+    "DataC3": "0",
+    "DataD3": "150",
+    "DataE3": "0",
+    "DataF3": "0",
+    "DataG3": "0",
+    "DataE4": "_"
+   }
+  },
+  {
+   "id": "BHsf",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHsf",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Light's Mercy"
+      ],
+      "deDE": [
+       "Gnade des Lichts"
+      ],
+      "esES": [
+       "Piedad de la Luz"
+      ],
+      "esMX": [
+       "Piedad de la Luz"
+      ],
+      "frFR": [
+       "Miséricorde de la Lumière"
+      ],
+      "koKR": [
+       "빛의 자비"
+      ],
+      "plPL": [
+       "Łaska Światłości"
+      ],
+      "ruRU": [
+       "Милость небес"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit is taking damage every second."
+      ],
+      "deDE": [
+       "Diese Einheit erleidet jede Sekunde Schaden."
+      ],
+      "esES": [
+       "Esta unidad recibe daño cada segundo."
+      ],
+      "esMX": [
+       "Esta unidad recibe daño por segundo."
+      ],
+      "frFR": [
+       "Cette unité subit des dégâts toutes les secondes."
+      ],
+      "koKR": [
+       "매초 피해를 받고 있습니다."
+      ],
+      "plPL": [
+       "Ta jednostka odnosi obrażenia co sekundę."
+      ],
+      "ptBR": [
+       "Esta unidade está recebendo dano a cada segundo."
+      ],
+      "ruRU": [
+       "Цель получает урон раз в секунду."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AHmc",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Mind Control",
+      "deDE": "Gedankenkontrolle",
+      "esES": "Control mental",
+      "esMX": "Control mental",
+      "frFR": "Contrôle mental",
+      "koKR": "정신 지배",
+      "plPL": "Kontrola Umysłu",
+      "ptBR": "Controle Mental",
+      "ruRU": "Контроль над разумом"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Mind Control - [|cffffcc00Level 1|r]",
+       "Mind Control - [|cffffcc00Level 2|r]",
+       "Mind Control - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Gedankenkontrolle [|cffffcc00Stufe 1|r]",
+       "Gedankenkontrolle [|cffffcc00Stufe 2|r]",
+       "Gedankenkontrolle [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Control mental - [|cffffcc00Nivel 1|r]",
+       "Control mental - [|cffffcc00Nivel 2|r]",
+       "Control mental - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Control mental - [|cffffcc00Nivel 1|r]",
+       "Control mental - [|cffffcc00Nivel 2|r]",
+       "Control mental - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Contrôle mental de |cffffcc00niveau 1|r",
+       "Contrôle mental de |cffffcc00niveau 2|r",
+       "Contrôle mental de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "정신 지배 - [|cffffcc001레벨|r]",
+       "정신 지배 - [|cffffcc002레벨|r]",
+       "정신 지배 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Kontrola Umysłu – [|cffffcc00poziom 1|r]",
+       "Kontrola Umysłu – [|cffffcc00poziom 2|r]",
+       "Kontrola Umysłu – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Controle Mental - [|cffffcc00Nível 1|r]",
+       "Controle Mental - [|cffffcc00Nível 2|r]",
+       "Controle Mental - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Контроль над разумом [|cffffcc001-й уровень|r]",
+       "Контроль над разумом [|cffffcc002-й уровень|r]",
+       "Контроль над разумом [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Takes control of a target enemy unit for a period of time. Mind Control cannot be used on Heroes, or creeps above level <AHmc,DataA1>. Can control up to a maximum of <AHmc,DataC1> units. |nLasts <AHmc,Dur1> seconds.",
+       "Takes control of a target enemy unit for a period of time. Mind Control cannot be used on Heroes, or creeps above level <AHmc,DataA2>. Can control up to a maximum of <AHmc,DataC2> units. |nLasts <AHmc,Dur2> seconds.",
+       "Takes control of a target enemy unit for a period of time. Mind Control cannot be used on Heroes, or creeps above level <AHmc,DataA3>. Can control up to a maximum of <AHmc,DataC3> units. |nLasts <AHmc,Dur3> seconds."
+      ],
+      "deDE": [
+       "Übernimmt für bestimmte Zeit die Kontrolle über eine gegnerische Zieleinheit. Gedankenkontrolle kann nicht gegen Helden oder Unholde über Stufe <AHmc,DataA1> eingesetzt werden. Kann maximal <AHmc,DataC1> Einheiten kontrollieren. |nHält <AHmc,Dur1> Sek. lang an.",
+       "Übernimmt für bestimmte Zeit die Kontrolle über eine gegnerische Zieleinheit. Gedankenkontrolle kann nicht gegen Helden oder Unholde über Stufe <AHmc,DataA2> eingesetzt werden. Kann maximal <AHmc,DataC2> Einheiten kontrollieren. |nHält <AHmc,Dur2> Sek. lang an.",
+       "Übernimmt für bestimmte Zeit die Kontrolle über eine gegnerische Zieleinheit. Gedankenkontrolle kann nicht gegen Helden oder Unholde über Stufe <AHmc,DataA3> eingesetzt werden. Kann maximal <AHmc,DataC3> Einheiten kontrollieren. |nHält <AHmc,Dur3> Sek. lang an."
+      ],
+      "esES": [
+       "Toma el control de la unidad enemiga seleccionada durante un tiempo. Control mental no se puede usar en héroes o criaturas con nivel superior a <AHmc,DataA1>. Puede controlar a un máximo de <AHmc,DataC1> unidades. |nDura <AHmc,Dur1> s.",
+       "Toma el control de la unidad enemiga seleccionada durante un tiempo. Control mental no se puede usar en héroes o criaturas con nivel superior a <AHmc,DataA2>. Puede controlar a un máximo de <AHmc,DataC2> unidades. |nDura <AHmc,Dur2> s.",
+       "Toma el control de la unidad enemiga seleccionada durante un tiempo. Control mental no se puede usar en héroes o criaturas con nivel superior a <AHmc,DataA3>. Puede controlar a un máximo de <AHmc,DataC3> unidades. |nDura <AHmc,Dur3> s."
+      ],
+      "esMX": [
+       "Toma el control de una unidad enemiga objetivo durante un tiempo. No se puede usar Control mental sobre héroes o creeps de nivel superior a <AHmc,DataA1>. Se puede controlar a un máximo de <AHmc,DataC1> unidades. |nDura <AHmc,Dur1> segundos.",
+       "Toma el control de una unidad enemiga objetivo durante un tiempo. No se puede usar Control mental sobre héroes o creeps de nivel superior a <AHmc,DataA2>. Se puede controlar a un máximo de <AHmc,DataC2> unidades. |nDura <AHmc,Dur2> segundos.",
+       "Toma el control de una unidad enemiga objetivo durante un tiempo. No se puede usar Control mental sobre héroes o creeps de nivel superior a <AHmc,DataA3>. Se puede controlar a un máximo de <AHmc,DataC3> unidades. |nDura <AHmc,Dur3> segundos."
+      ],
+      "frFR": [
+       "Permet de prendre le contrôle d’une unité ennemie ciblée pendant un certain temps. Contrôle mental ne peut pas être utilisé sur les unités héroïques ou les monstres de niveau supérieur à <AHmc,DataA1>. Permet de contrôler jusqu’à un maximum de <AHmc,DataC1> unités. |nDure <AHmc,Dur1> secondes.",
+       "Permet de prendre le contrôle d’une unité ennemie ciblée pendant un certain temps. Contrôle mental ne peut pas être utilisé sur les unités héroïques ou les monstres de niveau supérieur à <AHmc,DataA2>. Permet de contrôler jusqu’à un maximum de <AHmc,DataC2> unités. |nDure <AHmc,Dur2> secondes.",
+       "Permet de prendre le contrôle d’une unité ennemie ciblée pendant un certain temps. Contrôle mental ne peut pas être utilisé sur les unités héroïques ou les monstres de niveau supérieur à <AHmc,DataA3>. Permet de contrôler jusqu’à un maximum de <AHmc,DataC3> unités. |nDure <AHmc,Dur3> secondes."
+      ],
+      "koKR": [
+       "일정 시간 동안 대상 적 유닛을 조종합니다. 정신 지배는 영웅 또는 <AHmc,DataA1>레벨 이상의 괴물에게 사용할 수 없습니다. 최대 <AHmc,DataC1>기의 유닛을 조종할 수 있습니다. |n<AHmc,Dur1>초 동안 지속됩니다.",
+       "일정 시간 동안 대상 적 유닛을 조종합니다. 정신 지배는 영웅 또는 <AHmc,DataA2>레벨 이상의 괴물에게 사용할 수 없습니다. 최대 <AHmc,DataC2>기의 유닛을 조종할 수 있습니다. |n<AHmc,Dur2>초 동안 지속됩니다.",
+       "일정 시간 동안 대상 적 유닛을 조종합니다. 정신 지배는 영웅 또는 <AHmc,DataA3>레벨 이상의 괴물에게 사용할 수 없습니다. 최대 <AHmc,DataC3>기의 유닛을 조종할 수 있습니다. |n<AHmc,Dur3>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Przejmuje kontrolę nad umysłem wskazanej wrogiej jednostki. Nie działa przeciwko bohaterom ani stworzeniom powyżej poziomu <AHmc,DataA1>. Maksymalna liczba kontrolowanych jednocześnie jednostek: <AHmc,DataC1>.|nCzas działania: <AHmc,Dur1> sek.",
+       "Przejmuje kontrolę nad umysłem wskazanej wrogiej jednostki. Nie działa przeciwko bohaterom ani stworzeniom powyżej poziomu <AHmc,DataA2>. Maksymalna liczba kontrolowanych jednocześnie jednostek: <AHmc,DataC2>.|nCzas działania: <AHmc,Dur2> sek.",
+       "Przejmuje kontrolę nad umysłem wskazanej wrogiej jednostki. Nie działa przeciwko bohaterom ani stworzeniom powyżej poziomu <AHmc,DataA3>. Maksymalna liczba kontrolowanych jednocześnie jednostek: <AHmc,DataC3>.|nCzas działania: <AHmc,Dur3> sek."
+      ],
+      "ptBR": [
+       "Assume o controle da unidade inimiga selecionada por um período de tempo. Controle Mental não pode ser usado em heróis ou em inimigos acima do nível <AHmc,DataA1>. Pode controlar até no máximo <AHmc,DataC1> unidades. |nDura <AHmc,Dur1> segundos.",
+       "Assume o controle da unidade inimiga selecionada por um período de tempo. Controle Mental não pode ser usado em heróis ou em inimigos acima do nível <AHmc,DataA2>. Pode controlar até no máximo <AHmc,DataC2> unidades. |nDura <AHmc,Dur2> segundos.",
+       "Assume o controle da unidade inimiga selecionada por um período de tempo. Controle Mental não pode ser usado em heróis ou em inimigos acima do nível <AHmc,DataA3>. Pode controlar até no máximo <AHmc,DataC3> unidades. |nDura <AHmc,Dur3> segundos."
+      ],
+      "ruRU": [
+       "Подчиняет указанного врага на некоторое время. Не действует на героев, а также на монстров выше <AHmc,DataA1>-го уровня. Можно подчинить не более <AHmc,DataC1> целей. |nВремя действия: <AHmc,Dur1> сек.",
+       "Подчиняет указанного врага на некоторое время. Не действует на героев, а также на монстров выше <AHmc,DataA2>-го уровня. Можно подчинить не более <AHmc,DataC2> целей. |nВремя действия: <AHmc,Dur2> сек.",
+       "Подчиняет указанного врага на некоторое время. Не действует на героев, а также на монстров выше <AHmc,DataA3>-го уровня. Можно подчинить не более <AHmc,DataC3> целей. |nВремя действия: <AHmc,Dur3> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Mind Control - [|cffffcc00Level %d|r]",
+      "deDE": "Gedankenkontrolle [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Control mental - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Control mental - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Contrôle mental de |cffffcc00niveau %d|r",
+      "koKR": "정신 지배 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Kontroli Umysłu – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Controle Mental - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Контроль над разумом» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Takes control of a target enemy unit for a period of time. |n|n|cffffcc00Level 1|r - Maximum <AHmc,DataC1> units, up to level <AHmc,DataA1> for <AHmc,Dur1> seconds. |n|cffffcc00Level 2|r - Maximum <AHmc,DataC2> units, up to level <AHmc,DataA2> for <AHmc,Dur2> seconds. |n|cffffcc00Level 3|r - Maximum <AHmc,DataC3> units, up to level <AHmc,DataA3> for <AHmc,Dur3> seconds.",
+      "deDE": "Übernimmt für bestimmte Zeit die Kontrolle über eine gegnerische Zieleinheit. |n|n|cffffcc00Stufe 1|r - Bis zu <AHmc,DataC1> Einheiten, Höchststufe <AHmc,DataA1>, <AHmc,Dur1> Sek. Dauer. |n|cffffcc00Stufe 2|r - Bis zu <AHmc,DataC2> Einheiten, Höchststufe <AHmc,DataA2>, <AHmc,Dur2> Sek. Dauer. |n|cffffcc00Stufe 3|r - Bis zu <AHmc,DataC3> Einheiten, Höchststufe <AHmc,DataA3>, <AHmc,Dur3> Sek. Dauer.",
+      "esES": "Toma el control de una unidad enemiga seleccionada durante un rato. |n|n|cffffcc00Nivel 1|r - Máximo de <AHmc,DataC1> unidades, hasta el nivel <AHmc,DataA1> durante <AHmc,Dur1> s. |n|cffffcc00Nivel 2|r - Máximo de <AHmc,DataC2> unidades, hasta el nivel <AHmc,DataA2> durante <AHmc,Dur2> s. |n|cffffcc00Nivel 3|r - Máximo de <AHmc,DataC3> unidades, hasta el nivel <AHmc,DataA3> durante <AHmc,Dur3> s.",
+      "esMX": "Toma el control de una unidad enemiga objetivo durante un tiempo. |n|n|cffffcc00Nivel 1|r - <AHmc,DataC1> unidades como máximo, hasta el nivel <AHmc,DataA1> durante <AHmc,Dur1> segundos. |n|cffffcc00Nivel 2|r - <AHmc,DataC2> unidades como máximo, hasta el nivel <AHmc,DataA2> durante <AHmc,Dur2> segundos. |n|cffffcc00Nivel 3|r - <AHmc,DataC3> unidades como máximo, hasta el nivel <AHmc,DataA3> durante <AHmc,Dur3> segundos.",
+      "frFR": "Permet de prendre le contrôle d’une unité ennemie ciblée pendant un certain temps.|n|n|cffffcc00Niveau 1 :|r maximum de <AHmc,DataC1> unités, jusqu’au niveau <AHmc,DataA1> pendant <AHmc,Dur1> secondes. |n|cffffcc00Niveau 2 :|r maximum de <AHmc,DataC2> unités, jusqu’au niveau <AHmc,DataA2> pendant <AHmc,Dur2> secondes. |n|cffffcc00Niveau 3 :|r maximum de <AHmc,DataC3> unités, jusqu’au niveau <AHmc,DataA3> pendant <AHmc,Dur3> secondes.",
+      "koKR": "특정 기간 동안 대상 적 유닛을 지배합니다. |n|n|cffffcc001레벨|r - <AHmc,Dur1>초 동안 최대 <AHmc,DataA1>레벨까지의 유닛 <AHmc,DataC1>기를 지배합니다. |n|cffffcc002레벨|r - <AHmc,Dur2>초 동안 최대 <AHmc,DataA2>레벨까지의 유닛 <AHmc,DataC2>기를 지배합니다. |n|cffffcc003레벨|r - <AHmc,Dur3>초 동안 최대 <AHmc,DataA3>레벨까지의 유닛 <AHmc,DataC3>기를 지배합니다.",
+      "plPL": "Na pewien czas przejmuje kontrolę nad wybraną wrogą jednostką. |n|n|cffffcc00Poziom 1|r – maksymalnie <AHmc,DataC1> jedn. o maksymalnym poziomie <AHmc,DataA1> na <AHmc,Dur1> sek.|n|cffffcc00Poziom 2|r – maksymalnie <AHmc,DataC2> jedn. o maksymalnym poziomie <AHmc,DataA2> na <AHmc,Dur2> sek.|n|cffffcc00Poziom 3|r – maksymalnie <AHmc,DataC3> jedn. o maksymalnym poziomie <AHmc,DataA3> na <AHmc,Dur3> sek.",
+      "ptBR": "Assume o controle de uma unidade inimiga selecionada por um período de tempo. |n|n|cffffcc00Nível 1|r - Máximo de <AHmc,DataC1> unidades, até o nível <AHmc,DataA1> por <AHmc,Dur1> segundos. |n|cffffcc00Nível 2|r - Máximo de <AHmc,DataC2> unidades, até o nível <AHmc,DataA2> por <AHmc,Dur2> segundos. |n|cffffcc00Nível 3|r - Máximo de <AHmc,DataC3> unidades, até o nível <AHmc,DataA3> por <AHmc,Dur3> segundos.",
+      "ruRU": "Подчиняет указанного врага на некоторое время. |n|n|cffffcc001-й уровень:|r не более <AHmc,DataC1> целей, вплоть до <AHmc,DataA1>-го уровня на <AHmc,Dur1> сек. |n|cffffcc002-й уровень:|r не более <AHmc,DataC2> целей, вплоть до <AHmc,DataA2>-го уровня на <AHmc,Dur2> сек. |n|cffffcc003-й уровень:|r не более <AHmc,DataC3> целей, вплоть до <AHmc,DataA3>-го уровня на <AHmc,Dur3> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNMindControl.blp",
+   "data": {
+    "Dur1": "60",
+    "HeroDur1": "0",
+    "Cool1": "20",
+    "Cost1": "100",
+    "Area1": "0",
+    "Rng1": "500",
+    "DataA1": "5",
+    "DataB1": "0",
+    "DataC1": "2",
+    "DataD1": "250",
+    "Dur2": "60",
+    "HeroDur2": "0",
+    "Cool2": "15",
+    "Cost2": "100",
+    "Area2": "0",
+    "Rng2": "500",
+    "DataA2": "5",
+    "DataB2": "0",
+    "DataC2": "3",
+    "DataD2": "250",
+    "Dur3": "60",
+    "HeroDur3": "0",
+    "Cool3": "10",
+    "Cost3": "100",
+    "Area3": "0",
+    "Rng3": "500",
+    "DataA3": "5",
+    "DataB3": "0",
+    "DataC3": "4",
+    "DataD3": "250",
+    "Dur4": "10",
+    "HeroDur4": "0",
+    "Cool4": "3",
+    "Cost4": "5",
+    "Area4": "200",
+    "Rng4": "700",
+    "DataA4": "5",
+    "DataB4": "100",
+    "DataC4": "6",
+    "DataD4": "250"
+   }
+  },
+  {
+   "id": "BHmc",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AHmc",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Mind Control"
+      ],
+      "deDE": [
+       "Gedankenkontrolle"
+      ],
+      "esES": [
+       "Control mental"
+      ],
+      "esMX": [
+       "Control mental"
+      ],
+      "frFR": [
+       "Contrôle mental"
+      ],
+      "koKR": [
+       "정신 지배"
+      ],
+      "plPL": [
+       "Kontrola Umysłu"
+      ],
+      "ptBR": [
+       "Controle Mental"
+      ],
+      "ruRU": [
+       "Контроль над разумом"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has changed allegiances."
+      ],
+      "deDE": [
+       "Diese Einheit hat die Seiten gewechselt."
+      ],
+      "esES": [
+       "Esta unidad ha cambiado su lealtad."
+      ],
+      "esMX": [
+       "Esta unidad cambió su lealtad."
+      ],
+      "frFR": [
+       "Cette unité a changé de camp."
+      ],
+      "koKR": [
+       "소속이 바뀌었습니다."
+      ],
+      "plPL": [
+       "Ta jednostka przeszła na przeciwną stronę konfliktu."
+      ],
+      "ptBR": [
+       "A lealdade desta unidade mudou."
+      ],
+      "ruRU": [
+       "Цель подчиняется противнику."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AHsl",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Surge of Light",
+      "deDE": "Woge des Lichts",
+      "esES": "Oleada de Luz",
+      "esMX": "Oleada de Luz",
+      "frFR": "Vague de lumière",
+      "koKR": "빛의 쇄도",
+      "plPL": "Fala Światłości",
+      "ptBR": "Torrente de Luz",
+      "ruRU": "Пробуждение Света"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Surge of Light"
+      ],
+      "deDE": [
+       "Woge des Lichts"
+      ],
+      "esES": [
+       "Oleada de Luz"
+      ],
+      "esMX": [
+       "Oleada de Luz"
+      ],
+      "frFR": [
+       "Vague de lumière"
+      ],
+      "koKR": [
+       "빛의 쇄도"
+      ],
+      "plPL": [
+       "Fala Światłości"
+      ],
+      "ptBR": [
+       "Torrente de Luz"
+      ],
+      "ruRU": [
+       "Пробуждение Света"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "|cffffcc00Passive:|r Ilastar's attacks against enemies cast a Holy Bolt on the most damaged friendly unit within <AHsl,Area1> range, healing <AHsl,DataA1> hit points.|n|n|cffffcc00Active:|r Ilastar becomes imbued with the Light, increasing his attack rate by <AHsl,DataG1>% and movement speed by <AHsl,DataH1>%, and increasing the effectiveness of Holy Bolt by <AHsl,DataF1>%.|nLasts <AHsl,Dur1> seconds."
+      ],
+      "deDE": [
+       "|cffffcc00Passiv:|r Ilastars Angriffe auf Gegner wirken einen Heiligen Blitz auf die am stärksten verwundete verbündete Einheit innerhalb einer Reichweite von <AHsl,Area1>, der <AHsl,DataA1> Trefferpunkte heilt.|n|n|cffffcc00Aktiv:|r Ilastar wird vom Licht erfüllt, wodurch sich seine Angriffsgeschwindigkeit um <AHsl,DataG1> %, seine Bewegungsgeschwindigkeit um <AHsl,DataH1> % und die Effektivität von Heiliger Blitz um <AHsl,DataF1> % erhöhen.|nHält <AHsl,Dur1> Sek. lang an."
+      ],
+      "esES": [
+       "|cffffcc00Pasiva:|r Los ataques de Ilastar contra los enemigos lanzan una descarga sagrada a la unidad amistosa que ha recibido más daño en un radio de <AHsl,Area1> que recupera <AHsl,DataA1> p. de vida.|n|n|cffffcc00Activa:|r Ilastar se imbuye de Luz, lo que aumenta un <AHsl,DataG1>% su velocidad de ataque, un <AHsl,DataH1>% su velocidad de movimiento y un <AHsl,DataF1>% la eficacia de Descarga sagrada.|nDura <AHsl,Dur1> s."
+      ],
+      "esMX": [
+       "|cffffcc00Pasiva:|r Los ataques de Ilastar contra enemigos lanza una Descarga sagrada contra la unidad aliada más dañada dentro de un alcance de <AHsl,Area1>, lo que restablece <AHsl,DataA1> de salud.|n|n|cffffcc00Activa:|r Ilastar queda cubierto por la Luz, lo que aumenta su velocidad de ataque un <AHsl,DataG1>% y su velocidad de movimiento un <AHsl,DataH1>%, y aumenta la eficacia de Descarga sagrada un <AHsl,DataF1>%.|nDura <AHsl,Dur1> segundos."
+      ],
+      "frFR": [
+       "|cffffcc00Passif :|r les attaques d’Ilastar contre les unités ennemies lancent un Éclair sacré sur l’unité alliée ayant subi le plus de points de dégâts dans un rayon de <AHsl,Area1>, ce qui rend <AHsl,DataA1> points de vie.|n|n|cffffcc00Actif :|r Ilastar est baigné de lumière, ce qui augmente sa vitesse d’attaque de <AHsl,DataG1> % ainsi que sa vitesse de déplacement de <AHsl,DataH1> %, et augmente l’efficacité d’Éclair sacré de <AHsl,DataF1> %.|nDure <AHsl,Dur1> secondes."
+      ],
+      "koKR": [
+       "|cffffcc00지속효과:|r 일리스타가 적을 공격하면 <AHsl,Area1> 범위 내 가장 피해가 심한 아군 유닛에게 신성한 화살을 사용해 생명력을 <AHsl,DataA1> 회복합니다.|n|n|cffffcc00사용효과:|r 일리스타에게 빛이 깃들어, 공격 속도가 <AHsl,DataG1>% 증가하고 이동 속도가 <AHsl,DataH1>% 증가합니다. 신성한 화살 효과가 <AHsl,DataF1>% 증가합니다.|n<AHsl,Dur1>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "|cffffcc00Działanie pasywne:|r ataki Ilastara przeciwko wrogom aktywują celujący w najbardziej zranioną sojuszniczą jednostkę w zasięgu <AHsl,Area1> Święty Promień, który przywraca <AHsl,DataA1> pkt. zdrowia.|n|n|cffffcc00Działanie aktywne:|r Ilastar jest otoczony Światłością, która zwiększa jego szybkość ataku o <AHsl,DataG1>%, a szybkość ruchu o <AHsl,DataH1>%, a także zwiększa skuteczność Świętego Promienia o <AHsl,DataF1>%.|n Czas działania: <AHsl,Dur1> sek."
+      ],
+      "ptBR": [
+       "|cffffcc00Passivo:|r Ataques de Ilastar contra inimigos lançam um Raio Sagrado na unidade aliada mais ferida dentro de <AHsl,Area1> de alcance, curando <AHsl,DataA1> pontos de vida.|n|n|cffffcc00Ativo:|r Ilastar fica imbuído de Luz, aumentando sua taxa de ataque em <AHsl,DataG1>% e sua velocidade de movimento em <AHsl,DataH1>%, e aumentando a eficácia de Raio Sagrado em <AHsl,DataF1>%.|nDura <AHsl,Dur1> segundos."
+      ],
+      "ruRU": [
+       "|cffffcc00Пассивный эффект:|r атакуя врагов, Иластар выпускает священный луч, который восстанавливает <AHsl,DataA1> здоровья союзнику с наиболее серьезными ранениями в радиусе <AHsl,Area1>.|n|n|cffffcc00Активный эффект:|r Иластар исполняется Светом. Его атака ускоряется на<AHsl,DataG1>%, передвижение – на <AHsl,DataH1>%, а эффект священных лучей усиливается на <AHsl,DataF1>%.|nВремя действия: <AHsl,Dur1> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Surge of Light",
+      "deDE": "Woge des Lichts erlernen",
+      "esES": "Aprender Oleada de Luz",
+      "esMX": "Aprender Oleada de Luz",
+      "frFR": "Apprendre Vague de lumière",
+      "koKR": "빛의 쇄도 배우기",
+      "plPL": "Nauka Fali Światłości",
+      "ptBR": "Aprender Torrente de Luz",
+      "ruRU": "Изучить «Пробуждение Света»"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "|cffffcc00Passive:|r Ilastar's attacks against enemies cast a Holy Bolt on the most damaged friendly unit within <AHsl,Area1> range, healing <AHsl,DataA1> hit points.|n|n|cffffcc00Active:|r Ilastar becomes imbued with the Light, increasing his attack rate by <AHsl,DataG1>% and movement speed by <AHsl,DataH1>%, and increasing the effectiveness of Holy Bolt by <AHsl,DataF1>%.|nLasts <AHsl,Dur1> seconds.",
+      "deDE": "|cffffcc00Passiv:|r Ilastars Angriffe auf Gegner wirken einen Heiligen Blitz auf die am stärksten verwundete verbündete Einheit innerhalb einer Reichweite von <AHsl,Area1>, der <AHsl,DataA1> Trefferpunkte heilt.|n|n|cffffcc00Aktiv:|r Ilastar wird vom Licht erfüllt, wodurch sich seine Angriffsgeschwindigkeit um <AHsl,DataG1> %, seine Bewegungsgeschwindigkeit um <AHsl,DataH1> % und die Effektivität von Heiliger Blitz um <AHsl,DataF1> % erhöhen.|nHält <AHsl,Dur1> Sek. lang an.",
+      "esES": "|cffffcc00Pasiva:|r Los ataques de Ilastar contra los enemigos lanzan una descarga sagrada a la unidad amistosa que ha recibido más daño en un radio de <AHsl,Area1> que recupera <AHsl,DataA1> p. de vida.|n|n|cffffcc00Activa:|r Ilastar se imbuye de Luz, lo que aumenta un <AHsl,DataG1>% su velocidad de ataque, un <AHsl,DataH1>% su velocidad de movimiento y un <AHsl,DataF1>% la eficacia de Descarga sagrada.|nDura <AHsl,Dur1> s.",
+      "esMX": "|cffffcc00Pasiva:|r Los ataques de Ilastar contra enemigos lanza una Descarga sagrada contra la unidad aliada más dañada dentro de un alcance de <AHsl,Area1>, lo que restablece <AHsl,DataA1> de salud.|n|n|cffffcc00Activa:|r Ilastar queda cubierto por la Luz, lo que aumenta su velocidad de ataque un <AHsl,DataG1>% y su velocidad de movimiento un <AHsl,DataH1>%, y aumenta la eficacia de Descarga sagrada un <AHsl,DataF1>%.|nDura <AHsl,Dur1> segundos.",
+      "frFR": "|cffffcc00Passif :|r les attaques d’Ilastar contre les unités ennemies lancent un Éclair sacré sur l’unité alliée ayant subi le plus de points de dégâts dans un rayon de <AHsl,Area1>, ce qui rend <AHsl,DataA1> points de vie.|n|n|cffffcc00Actif :|r Ilastar est baigné de lumière, ce qui augmente sa vitesse d’attaque de <AHsl,DataG1> % ainsi que sa vitesse de déplacement de <AHsl,DataH1> %, et augmente l’efficacité d’Éclair sacré de <AHsl,DataF1> %.|nDure <AHsl,Dur1> secondes.",
+      "koKR": "|cffffcc00지속효과:|r 일리스타가 적을 공격하면 <AHsl,Area1> 범위 내 가장 피해가 심한 아군 유닛에게 신성한 화살을 사용해 생명력을 <AHsl,DataA1> 회복합니다.|n|n|cffffcc00사용효과:|r 일리스타에게 빛이 깃들어, 공격 속도가 <AHsl,DataG1>% 증가하고 이동 속도가 <AHsl,DataH1>% 증가합니다. 신성한 화살 효과가 <AHsl,DataF1>% 증가합니다.|n<AHsl,Dur1>초 동안 지속됩니다.",
+      "plPL": "|cffffcc00Działanie pasywne:|r ataki Ilastara przeciwko wrogom aktywują celujący w najbardziej zranioną sojuszniczą jednostkę w zasięgu <AHsl,Area1> Święty Promień, który przywraca <AHsl,DataA1> pkt. zdrowia.|n|n|cffffcc00Działanie aktywne:|r Ilastar jest otoczony Światłością, która zwiększa jego szybkość ataku o <AHsl,DataG1>%, a szybkość ruchu o <AHsl,DataH1>%, a także zwiększa skuteczność Świętego Promienia o <AHsl,DataF1>%.|n Czas działania: <AHsl,Dur1> sek.",
+      "ruRU": "|cffffcc00Пассивный эффект:|r атакуя врагов, Иластар выпускает священный луч, который восстанавливает <AHsl,DataA1> здоровья союзнику с наиболее серьезными ранениями в радиусе <AHsl,Area1>.|n|n|cffffcc00Активный эффект:|r Иластар исполняется Светом. Его атака ускоряется на<AHsl,DataG1>%, передвижение – на <AHsl,DataH1>%, а эффект священных лучей усиливается на <AHsl,DataF1>%.|nВремя действия: <AHsl,Dur1> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNSurgeofLight.blp",
+   "data": {
+    "Dur1": "10",
+    "HeroDur1": "0",
+    "Cool1": "90",
+    "Cost1": "150",
+    "Area1": "800",
+    "Rng1": "800",
+    "DataA1": "25",
+    "DataB1": "0",
+    "DataC1": "0",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "100",
+    "DataG1": "50",
+    "DataH1": "50",
+    "Dur2": "5",
+    "HeroDur2": "0",
+    "Cool2": "5",
+    "Cost2": "65",
+    "Area2": "800",
+    "Rng2": "800",
+    "DataA2": "25",
+    "DataB2": "5",
+    "DataC2": "25",
+    "DataD2": "0",
+    "DataE2": "5",
+    "DataF2": "25",
+    "DataG2": "15",
+    "DataH2": "15",
+    "Dur3": "5",
+    "HeroDur3": "0",
+    "Cool3": "5",
+    "Cost3": "65",
+    "Area3": "800",
+    "Rng3": "800",
+    "DataA3": "25",
+    "DataB3": "5",
+    "DataC3": "25",
+    "DataD3": "0",
+    "DataE3": "5",
+    "DataF3": "25",
+    "DataG3": "15",
+    "DataH3": "15",
+    "Dur4": "5",
+    "HeroDur4": "0",
+    "Cool4": "5",
+    "Cost4": "65",
+    "Area4": "800",
+    "Rng4": "800",
+    "DataA4": "25",
+    "DataB4": "5",
+    "DataC4": "25",
+    "DataD4": "0",
+    "DataE4": "5",
+    "DataF4": "25",
+    "DataG4": "15",
+    "DataH4": "15"
+   }
+  }
+ ],
+ "install": "Loose files replace whole string files: put the translated CampaignAbilityStrings.txt and CampaignUnitStrings.txt (all original sections + these) into _retail_\\_Units (installed Ukrainian base-game localization uses this folder; its files have no Forsaken Kingdom sections yet)."
+}

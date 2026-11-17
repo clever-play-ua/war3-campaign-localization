@@ -1,0 +1,1717 @@
+{
+ "unit": "Ugrk",
+ "name": "Garek",
+ "title": "Forsaken",
+ "sections": [
+  {
+   "id": "Ugrk",
+   "kind": "unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Forsaken",
+      "deDE": "Verlassener",
+      "esES": "Renegado",
+      "esMX": "Renegado",
+      "frFR": "Réprouvé",
+      "koKR": "포세이큰",
+      "plPL": "Porzuceni",
+      "ptBR": "Renegado",
+      "ruRU": "Отрекшийся"
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "F",
+      "deDE": "F",
+      "esES": "F",
+      "esMX": "F",
+      "frFR": "R",
+      "koKR": "F",
+      "plPL": "F",
+      "ptBR": "F",
+      "ruRU": "F"
+     }
+    },
+    {
+     "key": "Propernames",
+     "per_level": false,
+     "values": {
+      "enUS": "Garek",
+      "deDE": "Garek",
+      "esES": "Garek",
+      "esMX": "Garek",
+      "frFR": "Garek",
+      "koKR": "가렉",
+      "plPL": "Garek",
+      "ptBR": "Garek",
+      "ruRU": "Гарек"
+     }
+    },
+    {
+     "key": "Revivetip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Garek",
+      "deDE": "Garek wiederbeleben",
+      "esES": "Revivir a Garek",
+      "esMX": "Revivir a Garek",
+      "frFR": "Ressusciter Garek",
+      "koKR": "가렉 부활",
+      "plPL": "Ożywienie Gareka",
+      "ptBR": "Reviver Garek",
+      "ruRU": "Воскресить Гарека"
+     }
+    },
+    {
+     "key": "Awakentip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Garek",
+      "deDE": "Garek wiederbeleben",
+      "esES": "Revivir a Garek",
+      "esMX": "Revivir a Garek",
+      "frFR": "Ressusciter Garek",
+      "koKR": "가렉 부활",
+      "plPL": "Ożywienie Gareka",
+      "ptBR": "Reviver Garek",
+      "ruRU": "Воскресить Гарека"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNGarekUndead.blp",
+   "data": {}
+  },
+  {
+   "id": "AUsw",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Relentless Cleave",
+      "deDE": "Unerbittlicher Spaltangriff",
+      "esES": "Rajadura implacable",
+      "esMX": "Hendidura implacable",
+      "frFR": "Fendoir implacable",
+      "koKR": "무자비한 회전베기",
+      "plPL": "Bezlitosne Rozpłatanie",
+      "ptBR": "Cutilada Incansável",
+      "ruRU": "Неистовое рассечение"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Relentless Cleave - [|cffffcc00Level 1|r]",
+       "Relentless Cleave - [|cffffcc00Level 2|r]",
+       "Relentless Cleave - [|cffffcc00Level 3|r]",
+       "Relentless Cleave - [|cffffcc00Level 4|r]",
+       "Relentless Cleave - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Unerbittlicher Spaltangriff [|cffffcc00Stufe 1|r]",
+       "Unerbittlicher Spaltangriff [|cffffcc00Stufe 2|r]",
+       "Unerbittlicher Spaltangriff [|cffffcc00Stufe 3|r]",
+       "Unerbittlicher Spaltangriff [|cffffcc00Stufe 4|r]",
+       "Unerbittlicher Spaltangriff [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Rajadura implacable - [|cffffcc00Nivel 1|r]",
+       "Rajadura implacable - [|cffffcc00Nivel 2|r]",
+       "Rajadura implacable - [|cffffcc00Nivel 3|r]",
+       "Rajadura implacable - [|cffffcc00Nivel 4|r]",
+       "Rajadura implacable - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Hendidura implacable - [|cffffcc00Nivel 1|r]",
+       "Hendidura implacable - [|cffffcc00Nivel 2|r]",
+       "Hendidura implacable - [|cffffcc00Nivel 3|r]",
+       "Hendidura implacable - [|cffffcc00Nivel 4|r]",
+       "Hendidura implacable - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Fendoir implacable de |cffffcc00niveau 1|r",
+       "Fendoir implacable de |cffffcc00niveau 2|r",
+       "Fendoir implacable de |cffffcc00niveau 3|r",
+       "Fendoir implacable de |cffffcc00niveau 4|r",
+       "Fendoir implacable de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "무자비한 회전베기 - [|cffffcc001레벨|r]",
+       "무자비한 회전베기 - [|cffffcc002레벨|r]",
+       "무자비한 회전베기 - [|cffffcc003레벨|r]",
+       "무자비한 회전베기 - [|cffffcc004레벨|r]",
+       "무자비한 회전베기 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Bezlitosne Rozpłatanie – [|cffffcc00poziom 1|r]",
+       "Bezlitosne Rozpłatanie – [|cffffcc00poziom 2|r]",
+       "Bezlitosne Rozpłatanie – [|cffffcc00poziom 3|r]",
+       "Bezlitosne Rozpłatanie – [|cffffcc00poziom 4|r]",
+       "Bezlitosne Rozpłatanie – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Cutilada Incansável - [|cffffcc00Nível 1|r]",
+       "Cutilada Incansável - [|cffffcc00Nível 2|r]",
+       "Cutilada Incansável - [|cffffcc00Nível 3|r]",
+       "Cutilada Incansável - [|cffffcc00Nível 4|r]",
+       "Cutilada Incansável - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Неистовое рассечение [|cffffcc001-й уровень|r]",
+       "Неистовое рассечение [|cffffcc002-й уровень|r]",
+       "Неистовое рассечение [|cffffcc003-й уровень|r]",
+       "Неистовое рассечение [|cffffcc004-й уровень|r]",
+       "Неистовое рассечение [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Strikes the target area, dealing <AUsw,DataA1> damage to enemy units, reducing their armor by <AUsw,DataG1>, and restoring <AUsw,DataE1> hit points per unit hit.",
+       "Strikes the target area, dealing <AUsw,DataA2> damage to enemy units, reducing their armor by <AUsw,DataG2>, and restoring <AUsw,DataE2> hit points per unit hit.",
+       "Strikes the target area, dealing <AUsw,DataA3> damage to enemy units, reducing their armor by <AUsw,DataG3>, and restoring <AUsw,DataE3> hit points per unit hit.",
+       "Strikes the target area, dealing <AUsw,DataA4> damage to enemy units, reducing their armor by <AUsw,DataG4>, and restoring <AUsw,DataE4> hit points per unit hit.",
+       "Strikes the target area, dealing <AUsw,DataA5> damage to enemy units, reducing their armor by <AUsw,DataG5>, and restoring <AUsw,DataE5> hit points per unit hit."
+      ],
+      "deDE": [
+       "Schlägt im Zielgebiet zu, fügt gegnerischen Einheiten <AUsw,DataA1> Schaden zu, verringert ihre Rüstung um <AUsw,DataG1> und stellt pro getroffener Einheit <AUsw,DataE1> Trefferpunkte wieder her.",
+       "Schlägt im Zielgebiet zu, fügt gegnerischen Einheiten <AUsw,DataA2> Schaden zu, verringert ihre Rüstung um <AUsw,DataG2> und stellt pro getroffener Einheit <AUsw,DataE2> Trefferpunkte wieder her.",
+       "Schlägt im Zielgebiet zu, fügt gegnerischen Einheiten <AUsw,DataA3> Schaden zu, verringert ihre Rüstung um <AUsw,DataG3> und stellt pro getroffener Einheit <AUsw,DataE3> Trefferpunkte wieder her.",
+       "Schlägt im Zielgebiet zu, fügt gegnerischen Einheiten <AUsw,DataA4> Schaden zu, verringert ihre Rüstung um <AUsw,DataG4> und stellt pro getroffener Einheit <AUsw,DataE4> Trefferpunkte wieder her.",
+       "Schlägt im Zielgebiet zu, fügt gegnerischen Einheiten <AUsw,DataA5> Schaden zu, verringert ihre Rüstung um <AUsw,DataG5> und stellt pro getroffener Einheit <AUsw,DataE5> Trefferpunkte wieder her."
+      ],
+      "esES": [
+       "Lanza un golpe en el área seleccionada que inflige <AUsw,DataA1> p. de daño a las unidades enemigas, reduce <AUsw,DataG1> p. su armadura y restaura <AUsw,DataE1> p. de vida por cada unidad golpeada.",
+       "Lanza un golpe en el área seleccionada que inflige <AUsw,DataA2> p. de daño a las unidades enemigas, reduce <AUsw,DataG2> p. su armadura y restaura <AUsw,DataE2> p. de vida por cada unidad golpeada.",
+       "Lanza un golpe en el área seleccionada que inflige <AUsw,DataA3> p. de daño a las unidades enemigas, reduce <AUsw,DataG3> p. su armadura y restaura <AUsw,DataE3> p. de vida por cada unidad golpeada.",
+       "Lanza un golpe en el área seleccionada que inflige <AUsw,DataA4> p. de daño a las unidades enemigas, reduce <AUsw,DataG4> p. su armadura y restaura <AUsw,DataE4> p. de vida por cada unidad golpeada.",
+       "Lanza un golpe en el área seleccionada que inflige <AUsw,DataA5> p. de daño a las unidades enemigas, reduce <AUsw,DataG5> p. su armadura y restaura <AUsw,DataE5> p. de vida por cada unidad golpeada."
+      ],
+      "esMX": [
+       "Golpea el área seleccionada, lo que inflige <AUsw,DataA1> de daño a las unidades enemigas, reduce su armadura en <AUsw,DataG1> y restaura <AUsw,DataE1> de salud por unidad golpeada.",
+       "Golpea el área seleccionada, lo que inflige <AUsw,DataA2> de daño a las unidades enemigas, reduce su armadura en <AUsw,DataG2> y restaura <AUsw,DataE2> de salud por unidad golpeada.",
+       "Golpea el área seleccionada, lo que inflige <AUsw,DataA3> de daño a las unidades enemigas, reduce su armadura en <AUsw,DataG3> y restaura <AUsw,DataE3> de salud por unidad golpeada.",
+       "Golpea el área seleccionada, lo que inflige <AUsw,DataA4> de daño a las unidades enemigas, reduce su armadura en <AUsw,DataG4> y restaura <AUsw,DataE4> de salud por unidad golpeada.",
+       "Golpea el área seleccionada, lo que inflige <AUsw,DataA5> de daño a las unidades enemigas, reduce su armadura en <AUsw,DataG5> y restaura <AUsw,DataE5> de salud por unidad golpeada."
+      ],
+      "frFR": [
+       "Frappe la zone ciblée, ce qui inflige <AUsw,DataA1> points de dégâts aux unités ennemies, réduit leur armure de <AUsw,DataG1> et rend <AUsw,DataE1> points de vie par unité touchée.",
+       "Frappe la zone ciblée, ce qui inflige <AUsw,DataA2> points de dégâts aux unités ennemies, réduit leur armure de <AUsw,DataG2> et rend <AUsw,DataE2> points de vie par unité touchée.",
+       "Frappe la zone ciblée, ce qui inflige <AUsw,DataA3> points de dégâts aux unités ennemies, réduit leur armure de <AUsw,DataG3> et rend <AUsw,DataE3> points de vie par unité touchée.",
+       "Frappe la zone ciblée, ce qui inflige <AUsw,DataA4> points de dégâts aux unités ennemies, réduit leur armure de <AUsw,DataG4> et rend <AUsw,DataE4> points de vie par unité touchée.",
+       "Frappe la zone ciblée, ce qui inflige <AUsw,DataA5> points de dégâts aux unités ennemies, réduit leur armure de <AUsw,DataG5> et rend <AUsw,DataE5> points de vie par unité touchée."
+      ],
+      "koKR": [
+       "대상 범위를 공격해 <AUsw,DataA1> 피해를 줍니다. 적 방어도를 <AUsw,DataG1> 감소시키고, 적중한 유닛당 생명력을 <AUsw,DataE1> 회복합니다.",
+       "대상 범위를 공격해 <AUsw,DataA2> 피해를 줍니다. 적 방어도를 <AUsw,DataG2> 감소시키고, 적중한 유닛당 생명력을 <AUsw,DataE2> 회복합니다.",
+       "대상 범위를 공격해 <AUsw,DataA3> 피해를 줍니다. 적 방어도를 <AUsw,DataG3> 감소시키고, 적중한 유닛당 생명력을 <AUsw,DataE3> 회복합니다.",
+       "대상 범위를 공격해 <AUsw,DataA4> 피해를 줍니다. 적 방어도를 <AUsw,DataG4> 감소시키고, 적중한 유닛당 생명력을 <AUsw,DataE4> 회복합니다.",
+       "대상 범위를 공격해 <AUsw,DataA5> 피해를 줍니다. 적 방어도를 <AUsw,DataG5> 감소시키고, 적중한 유닛당 생명력을 <AUsw,DataE5> 회복합니다."
+      ],
+      "plPL": [
+       "Uderza w wybrany obszar, zadając wrogim jednostkom <AUsw,DataA1> pkt. obrażeń, zmniejszając ich pancerz o <AUsw,DataG1> oraz odzyskując <AUsw,DataE1> pkt. zdrowia za każdą trafioną jednostkę.",
+       "Uderza w wybrany obszar, zadając wrogim jednostkom <AUsw,DataA2> pkt. obrażeń, zmniejszając ich pancerz o <AUsw,DataG2> oraz odzyskując <AUsw,DataE2> pkt. zdrowia za każdą trafioną jednostkę.",
+       "Uderza w wybrany obszar, zadając wrogim jednostkom <AUsw,DataA3> pkt. obrażeń, zmniejszając ich pancerz o <AUsw,DataG3> oraz odzyskując <AUsw,DataE3> pkt. zdrowia za każdą trafioną jednostkę.",
+       "Uderza w wybrany obszar, zadając wrogim jednostkom <AUsw,DataA4> pkt. obrażeń, zmniejszając ich pancerz o <AUsw,DataG4> oraz odzyskując <AUsw,DataE4> pkt. zdrowia za każdą trafioną jednostkę.",
+       "Uderza w wybrany obszar, zadając wrogim jednostkom <AUsw,DataA5> pkt. obrażeń, zmniejszając ich pancerz o <AUsw,DataG5> oraz odzyskując <AUsw,DataE5> pkt. zdrowia za każdą trafioną jednostkę."
+      ],
+      "ptBR": [
+       "Golpeia a área selecionada, causando <AUsw,DataA1> de dano às unidades inimigas, reduzindo sua armadura em <AUsw,DataG1> e recuperando <AUsw,DataE1> pontos de vida por unidade atingida.",
+       "Golpeia a área selecionada, causando <AUsw,DataA2> de dano às unidades inimigas, reduzindo sua armadura em <AUsw,DataG2> e recuperando <AUsw,DataE2> pontos de vida por unidade atingida.",
+       "Golpeia a área selecionada, causando <AUsw,DataA3> de dano às unidades inimigas, reduzindo sua armadura em <AUsw,DataG3> e recuperando <AUsw,DataE3> pontos de vida por unidade atingida.",
+       "Golpeia a área selecionada, causando <AUsw,DataA4> de dano às unidades inimigas, reduzindo sua armadura em <AUsw,DataG4> e recuperando <AUsw,DataE4> pontos de vida por unidade atingida.",
+       "Golpeia a área selecionada, causando <AUsw,DataA5> de dano às unidades inimigas, reduzindo sua armadura em <AUsw,DataG5> e recuperando <AUsw,DataE5> pontos de vida por unidade atingida."
+      ],
+      "ruRU": [
+       "Бьет по указанной области, нанося врагам <AUsw,DataA1> урона и ослабляя их броню на <AUsw,DataG1>. Восстанавливает <AUsw,DataE1> здоровья за каждую пораженную цель.",
+       "Бьет по указанной области, нанося врагам <AUsw,DataA2> урона и ослабляя их броню на <AUsw,DataG2>. Восстанавливает <AUsw,DataE2> здоровья за каждую пораженную цель.",
+       "Бьет по указанной области, нанося врагам <AUsw,DataA3> урона и ослабляя их броню на <AUsw,DataG3>. Восстанавливает <AUsw,DataE3> здоровья за каждую пораженную цель.",
+       "Бьет по указанной области, нанося врагам <AUsw,DataA4> урона и ослабляя их броню на <AUsw,DataG4>. Восстанавливает <AUsw,DataE4> здоровья за каждую пораженную цель.",
+       "Бьет по указанной области, нанося врагам <AUsw,DataA5> урона и ослабляя их броню на <AUsw,DataG5>. Восстанавливает <AUsw,DataE5> здоровья за каждую пораженную цель."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Relentless Cleave - [|cffffcc00Level %d|r]",
+      "deDE": "Unerbittlicher Spaltangriff [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Rajadura implacable - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Hendidura implacable - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Fendoir implacable de |cffffcc00niveau %d|r",
+      "koKR": "무자비한 회전베기 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Bezlitosnego Rozpłatania – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Cutilada Incansável - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Неистовое рассечение» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Strikes the target area, dealing damage, reducing armor and restoring hit points per unit hit. |n|n|cffffcc00Level 1|r - <AUsw,DataA1> damage, <AUsw,DataG1> armor reduction, <AUsw,DataE1> hit points. |n|cffffcc00Level 2|r - <AUsw,DataA2> damage, <AUsw,DataG2> armor reduction, <AUsw,DataE2> hit points. |n|cffffcc00Level 3|r - <AUsw,DataA3> damage, <AUsw,DataG3> armor reduction, <AUsw,DataE3> hit points. |n|cffffcc00Level 4|r - <AUsw,DataA4> damage, <AUsw,DataG4> armor reduction, <AUsw,DataE4> hit points. |n|cffffcc00Level 5|r - <AUsw,DataA5> damage, <AUsw,DataG5> armor reduction, <AUsw,DataE5> hit points.",
+      "deDE": "Schlägt im Zielgebiet zu, verursacht Schaden, verringert Rüstung und stellt pro getroffener Einheit Trefferpunkte wieder her. |n|n|cffffcc00Stufe 1|r - <AUsw,DataA1> Schaden, <AUsw,DataG1> Rüstungsverringerung, <AUsw,DataE1> Trefferpunkte. |n|cffffcc00Stufe 2|r - <AUsw,DataA2> Schaden, <AUsw,DataG2> Rüstungsverringerung, <AUsw,DataE2> Trefferpunkte. |n|cffffcc00Stufe 3|r - <AUsw,DataA3> Schaden, <AUsw,DataG3> Rüstungsverringerung, <AUsw,DataE3> Trefferpunkte. |n|cffffcc00Stufe 4|r - <AUsw,DataA4> Schaden, <AUsw,DataG4> Rüstungsverringerung, <AUsw,DataE4> Trefferpunkte. |n|cffffcc00Stufe 5|r - <AUsw,DataA5> Schaden, <AUsw,DataG5> Rüstungsverringerung, <AUsw,DataE5> Trefferpunkte.",
+      "esES": "Lanza un golpe en el área seleccionada que inflige daño, reduce la armadura y restaura puntos de vida por cada unidad golpeada. |n|n|cffffcc00Nivel 1|r - <AUsw,DataA1> p. de daño, <AUsw,DataG1> p. menos de armadura, <AUsw,DataE1> p. de vida. |n|cffffcc00Nivel 2|r - <AUsw,DataA2> p. de daño, <AUsw,DataG2> p. menos de armadura, <AUsw,DataE2> p. de vida. |n|cffffcc00Nivel 3|r - <AUsw,DataA3> p. de daño, <AUsw,DataG3> p. menos armadura, <AUsw,DataE3> p. de vida. |n|cffffcc00Nivel 4|r - <AUsw,DataA4> p. de daño, <AUsw,DataG4> p. menos de armadura, <AUsw,DataE4> p. de vida. |n|cffffcc00Nivel 5|r - <AUsw,DataA5> p. de daño, <AUsw,DataG5> p. menos de armadura, <AUsw,DataE5> p. de vida.",
+      "esMX": "Golpea el área seleccionada, lo que inflige daño, reduce la armadura y restaura salud por unidad golpeada. |n|n|cffffcc00Nivel 1|r - <AUsw,DataA1> de daño, <AUsw,DataG1> menos de armadura, <AUsw,DataE1> de salud. |n|cffffcc00Nivel 2|r - <AUsw,DataA2> de daño, <AUsw,DataG2> menos de armadura, <AUsw,DataE2> de salud. |n|cffffcc00Nivel 3|r - <AUsw,DataA3> de daño, <AUsw,DataG3> menos armadura, <AUsw,DataE3> de salud. |n|cffffcc00Nivel 4|r - <AUsw,DataA4> de daño, <AUsw,DataG4> menos de armadura, <AUsw,DataE4> de salud. |n|cffffcc00Nivel 5|r - <AUsw,DataA5> de daño, <AUsw,DataG5> menos de armadura, <AUsw,DataE5> de salud.",
+      "frFR": "Frappe la zone ciblée, ce qui inflige des dégâts, réduit l’armure et rend des points de vie pour chaque unité touchée. |n|n|cffffcc00Niveau 1 :|r <AUsw,DataA1> points de dégâts, <AUsw,DataG1> de réduction d’armure, <AUsw,DataE1> points de vie. |n|cffffcc00Niveau 2 :|r <AUsw,DataA2> points de dégâts, <AUsw,DataG2> de réduction d’armure, <AUsw,DataE2> points de vie. |n|cffffcc00Niveau 3 :|r <AUsw,DataA3> points de dégâts, <AUsw,DataG3> de réduction d’armure, <AUsw,DataE3> points de vie. |n|cffffcc00Niveau 4 :|r <AUsw,DataA4> points de dégâts, <AUsw,DataG4> de réduction d’armure, <AUsw,DataE4> points de vie. |n|cffffcc00Niveau 5 :|r <AUsw,DataA5> points de dégâts, <AUsw,DataG5> de réduction d’armure, <AUsw,DataE5> points de vie.",
+      "koKR": "대상 범위를 공격해 피해를 주고 방어도를 감소시키며, 적중한 유닛당 생명력을 회복합니다. |n|n|cffffcc001레벨|r - <AUsw,DataA1> 피해를 주고, 방어도를 <AUsw,DataG1> 감소시키며, 생명력을 <AUsw,DataE1> 회복합니다. |n|cffffcc002레벨|r - <AUsw,DataA2> 피해를 주고, 방어도를 <AUsw,DataG2> 감소시키며, 생명력을 <AUsw,DataE2> 회복합니다. |n|cffffcc003레벨|r - <AUsw,DataA3> 피해를 주고, 방어도를 <AUsw,DataG3> 감소시키며, 생명력을 <AUsw,DataE3> 회복합니다. |n|cffffcc004레벨|r - <AUsw,DataA4> 피해를 주고, 방어도를 <AUsw,DataG4> 감소시키며, 생명력을 <AUsw,DataE4> 회복합니다. |n|cffffcc005레벨|r - <AUsw,DataA5> 피해를 주고, 방어도를 <AUsw,DataG5> 감소시키며, 생명력을 <AUsw,DataE5> 회복합니다.",
+      "plPL": "Uderza w wybrany obszar, zadając obrażenia, zmniejszając pancerz przeciwników oraz odzyskując punkty zdrowia za każdą trafioną jednostkę.|n|n|cffffcc00Poziom 1|r – <AUsw,DataA1> pkt. obrażeń, zmniejszenie pancerza o <AUsw,DataG1>, <AUsw,DataE1> pkt. zdrowia.|n|cffffcc00Poziom 2|r – <AUsw,DataA2> pkt. obrażeń, zmniejszenie pancerza o <AUsw,DataG2>, <AUsw,DataE2> pkt. zdrowia.|n|cffffcc00Poziom 3|r – <AUsw,DataA3> pkt. obrażeń, zmniejszenie pancerza o <AUsw,DataG3>, <AUsw,DataE3> pkt. zdrowia.|n|cffffcc00Poziom 4|r – <AUsw,DataA4> pkt. obrażeń, zmniejszenie pancerza o <AUsw,DataG4>, <AUsw,DataE4> pkt. zdrowia.|n|cffffcc00Poziom 5|r – <AUsw,DataA5> pkt. obrażeń, zmniejszenie pancerza o <AUsw,DataG5>, <AUsw,DataE5> pkt. zdrowia.",
+      "ptBR": "Golpeia a área selecionada, causando dano, reduzindo armadura e recuperando pontos de vida por unidade atingida. |n|n|cffffcc00Nível 1 |r - <AUsw,DataA1> de dano, <AUsw,DataG1> de redução de amadura, <AUsw,DataE1> pontos de vida. |n|cffffcc00Nível 2|r - <AUsw,DataA2> de dano, <AUsw,DataG2> de redução de armadura, <AUsw,DataE2> pontos de vida. |n|cffffcc00Nível 3|r - <AUsw,DataA3> de dano, <AUsw,DataG3> de redução de armadura, <AUsw,DataE3> pontos de vida.|n|cffffcc00Nível 4|r - <AUsw,DataA4> de dano, <AUsw,DataG4> de redução de armadura, <AUsw,DataE4> pontos de vida.|n|cffffcc00Nível 5|r - <AUsw,DataA5> de dano, <AUsw,DataG5> de redução de armadura, <AUsw,DataE5> pontos de vida.",
+      "ruRU": "Бьет по указанной области, нанося врагам урон и ослабляя их броню. Восстанавливает здоровье за каждую пораженную цель. |n|n|cffffcc001-й уровень:|r <AUsw,DataA1> урона, ослабление брони на <AUsw,DataG1>, <AUsw,DataE1> здоровья. |n|cffffcc002-й уровень:|r <AUsw,DataA2> урона, ослабление брони на <AUsw,DataG2>, <AUsw,DataE2> здоровья. |n|cffffcc003-й уровень:|r <AUsw,DataA3> урона, ослабление брони на <AUsw,DataG3>, <AUsw,DataE3> здоровья. |n|cffffcc004-й уровень:|r <AUsw,DataA4> урона, ослабление брони на <AUsw,DataG4>, <AUsw,DataE4> здоровья. |n|cffffcc005-й уровень:|r <AUsw,DataA5> урона, ослабление брони на <AUsw,DataG5>, <AUsw,DataE5> здоровья."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNRelentlessCleave.blp",
+   "data": {
+    "Dur1": "7",
+    "HeroDur1": "3.5",
+    "Cool1": "13",
+    "Cost1": "75",
+    "Area1": "300",
+    "Rng1": "300",
+    "DataA1": "100",
+    "DataB1": "90",
+    "DataC1": "0.1",
+    "DataD1": "0",
+    "DataE1": "25",
+    "DataF1": "10",
+    "DataG1": "2",
+    "DataH1": "0",
+    "DataI1": "0",
+    "Dur2": "7",
+    "HeroDur2": "3.5",
+    "Cool2": "13",
+    "Cost2": "85",
+    "Area2": "300",
+    "Rng2": "300",
+    "DataA2": "150",
+    "DataB2": "90",
+    "DataC2": "0.1",
+    "DataD2": "0",
+    "DataE2": "35",
+    "DataF2": "10",
+    "DataG2": "2",
+    "DataH2": "0",
+    "DataI2": "0",
+    "Dur3": "7",
+    "HeroDur3": "3.5",
+    "Cool3": "13",
+    "Cost3": "95",
+    "Area3": "300",
+    "Rng3": "300",
+    "DataA3": "200",
+    "DataB3": "90",
+    "DataC3": "0.1",
+    "DataD3": "0",
+    "DataE3": "45",
+    "DataF3": "10",
+    "DataG3": "3",
+    "DataH3": "0",
+    "DataI3": "0",
+    "Dur4": "7",
+    "HeroDur4": "3.5",
+    "Cool4": "13",
+    "Cost4": "105",
+    "Area4": "300",
+    "Rng4": "300",
+    "DataA4": "250",
+    "DataB4": "90",
+    "DataC4": "0.1",
+    "DataD4": "0",
+    "DataE4": "55",
+    "DataF4": "10",
+    "DataG4": "3",
+    "DataH4": "0",
+    "DataI4": "0",
+    "Dur5": "7",
+    "HeroDur5": "3.5",
+    "Cool5": "13",
+    "Cost5": "115",
+    "Area5": "300",
+    "Rng5": "300",
+    "DataA5": "300",
+    "DataB5": "90",
+    "DataC5": "0.1",
+    "DataD5": "0",
+    "DataE5": "65",
+    "DataF5": "10",
+    "DataG5": "4",
+    "DataH5": "0",
+    "DataI5": "0"
+   }
+  },
+  {
+   "id": "Bder",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUsw",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Armor Reduction"
+      ],
+      "deDE": [
+       "Rüstungsverringerung"
+      ],
+      "esES": [
+       "Reducción de armadura"
+      ],
+      "esMX": [
+       "Reducción de armadura"
+      ],
+      "frFR": [
+       "Réduction d’armure"
+      ],
+      "koKR": [
+       "방어도 감소"
+      ],
+      "plPL": [
+       "Redukcja pancerza"
+      ],
+      "ptBR": [
+       "Redução de armadura"
+      ],
+      "ruRU": [
+       "Ослабление брони"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has reduced armor."
+      ],
+      "deDE": [
+       "Diese Einheit hat verringerte Rüstung."
+      ],
+      "esES": [
+       "Esta unidad tiene armadura reducida."
+      ],
+      "esMX": [
+       "Esta unidad tiene menos armadura."
+      ],
+      "frFR": [
+       "L’armure de cette unité est réduite."
+      ],
+      "koKR": [
+       "방어도가 감소합니다."
+      ],
+      "plPL": [
+       "Ta jednostka ma zmniejszony pancerz."
+      ],
+      "ptBR": [
+       "Esta unidade tem armadura reduzida."
+      ],
+      "ruRU": [
+       "Броня цели ослаблена."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AUbd",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Undying Defiance",
+      "deDE": "Unsterblicher Widerstand",
+      "esES": "Desafío imperecedero",
+      "esMX": "Rebeldía implacable",
+      "frFR": "Défiance impérissable",
+      "koKR": "불사의 항전",
+      "plPL": "Niezłomny Opór",
+      "ptBR": "Afronta Imortal",
+      "ruRU": "Непокорный нрав"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Undying Defiance - [|cffffcc00Level 1|r]",
+       "Undying Defiance - [|cffffcc00Level 2|r]",
+       "Undying Defiance - [|cffffcc00Level 3|r]",
+       "Undying Defiance - [|cffffcc00Level 4|r]",
+       "Undying Defiance - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Unsterblicher Widerstand [|cffffcc00Stufe 1|r]",
+       "Unsterblicher Widerstand [|cffffcc00Stufe 2|r]",
+       "Unsterblicher Widerstand [|cffffcc00Stufe 3|r]",
+       "Unsterblicher Widerstand [|cffffcc00Stufe 4|r]",
+       "Unsterblicher Widerstand [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Desafío imperecedero - [|cffffcc00Nivel 1|r]",
+       "Desafío imperecedero - [|cffffcc00Nivel 2|r]",
+       "Desafío imperecedero - [|cffffcc00Nivel 3|r]",
+       "Desafío imperecedero - [|cffffcc00Nivel 4|r]",
+       "Desafío imperecedero - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Rebeldía implacable - [|cffffcc00Nivel 1|r]",
+       "Rebeldía implacable - [|cffffcc00Nivel 2|r]",
+       "Rebeldía implacable - [|cffffcc00Nivel 3|r]",
+       "Rebeldía implacable - [|cffffcc00Nivel 4|r]",
+       "Rebeldía implacable - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Défiance impérissable de |cffffcc00niveau 1|r",
+       "Défiance impérissable de |cffffcc00niveau 2|r",
+       "Défiance impérissable de |cffffcc00niveau 3|r",
+       "Défiance impérissable de |cffffcc00niveau 4|r",
+       "Défiance impérissable de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "불사의 항전 - [|cffffcc001레벨|r]",
+       "불사의 항전 - [|cffffcc002레벨|r]",
+       "불사의 항전 - [|cffffcc003레벨|r]",
+       "불사의 항전 - [|cffffcc004레벨|r]",
+       "불사의 항전 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Niezłomny Opór – [|cffffcc00poziom 1|r]",
+       "Niezłomny Opór – [|cffffcc00poziom 2|r]",
+       "Niezłomny Opór – [|cffffcc00poziom 3|r]",
+       "Niezłomny Opór – [|cffffcc00poziom 4|r]",
+       "Niezłomny Opór – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Afronta Imortal - [|cffffcc00Nível 1|r]",
+       "Afronta Imortal - [|cffffcc00Nível 2|r]",
+       "Afronta Imortal - [|cffffcc00Nível 3|r]",
+       "Afronta Imortal - [|cffffcc00Nível 4|r]",
+       "Afronta Imortal - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Непокорный нрав [|cffffcc001-й уровень|r]",
+       "Непокорный нрав [|cffffcc002-й уровень|r]",
+       "Непокорный нрав [|cffffcc003-й уровень|r]",
+       "Непокорный нрав [|cffffcc004-й уровень|r]",
+       "Непокорный нрав [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Enter a defensive stance, reducing incoming damage by <AUbd,DataA1>% and movement speed by <AUbd,DataB1>%. During this time, if Garek takes any damage, he gains <AUbd,DataC1>% attack rate for <AUbd,DataD1> seconds. |nLasts <AUbd,Dur1> seconds.",
+       "Enter a defensive stance, reducing incoming damage by <AUbd,DataA2>% and movement speed by <AUbd,DataB2>%. During this time, if Garek takes any damage, he gains <AUbd,DataC2>% attack rate for <AUbd,DataD2> seconds. |nLasts <AUbd,Dur2> seconds.",
+       "Enter a defensive stance, reducing incoming damage by <AUbd,DataA3>% and movement speed by <AUbd,DataB3>%. During this time, if Garek takes any damage, he gains <AUbd,DataC3>% attack rate for <AUbd,DataD3> seconds. |nLasts <AUbd,Dur3> seconds.",
+       "Enter a defensive stance, reducing incoming damage by <AUbd,DataA4>% and movement speed by <AUbd,DataB4>%. During this time, if Garek takes any damage, he gains <AUbd,DataC4>% attack rate for <AUbd,DataD4> seconds. |nLasts <AUbd,Dur4> seconds.",
+       "Enter a defensive stance, reducing incoming damage by <AUbd,DataA5>% and movement speed by <AUbd,DataB5>%. During this time, if Garek takes any damage, he gains <AUbd,DataC5>% attack rate for <AUbd,DataD5> seconds. |nLasts <AUbd,Dur5> seconds."
+      ],
+      "deDE": [
+       "Nehmt eine Verteidigungshaltung ein, die erlittenen Schaden um <AUbd,DataA1> % und die Bewegungsgeschwindigkeit um <AUbd,DataB1> % verringert. Wenn Garek während dieser Zeit Schaden erleidet, wird seine Angriffsgeschwindigkeit <AUbd,DataD1> Sek. lang um <AUbd,DataC1> % erhöht. |nHält <AUbd,Dur1> Sek. lang an.",
+       "Nehmt eine Verteidigungshaltung ein, die erlittenen Schaden um <AUbd,DataA2> % und die Bewegungsgeschwindigkeit um <AUbd,DataB2> % verringert. Wenn Garek während dieser Zeit Schaden erleidet, wird seine Angriffsgeschwindigkeit <AUbd,DataD2> Sek. lang um <AUbd,DataC2> % erhöht. |nHält <AUbd,Dur2> Sek. lang an.",
+       "Nehmt eine Verteidigungshaltung ein, die erlittenen Schaden um <AUbd,DataA3> % und die Bewegungsgeschwindigkeit um <AUbd,DataB3> % verringert. Wenn Garek während dieser Zeit Schaden erleidet, wird seine Angriffsgeschwindigkeit <AUbd,DataD3> Sek. lang um <AUbd,DataC3> % erhöht. |nHält <AUbd,Dur3> Sek. lang an.",
+       "Nehmt eine Verteidigungshaltung ein, die erlittenen Schaden um <AUbd,DataA4> % und die Bewegungsgeschwindigkeit um <AUbd,DataB4> % verringert. Wenn Garek während dieser Zeit Schaden erleidet, wird seine Angriffsgeschwindigkeit <AUbd,DataD4> Sek. lang um <AUbd,DataC4> % erhöht. |nHält <AUbd,Dur4> Sek. lang an.",
+       "Nehmt eine Verteidigungshaltung ein, die erlittenen Schaden um <AUbd,DataA5> % und die Bewegungsgeschwindigkeit um <AUbd,DataB5> % verringert. Wenn Garek während dieser Zeit Schaden erleidet, wird seine Angriffsgeschwindigkeit <AUbd,DataD5> Sek. lang um <AUbd,DataC5> % erhöht. |nHält <AUbd,Dur5> Sek. lang an."
+      ],
+      "esES": [
+       "Adopta una actitud defensiva que reduce un <AUbd,DataA1>% el daño recibido y un <AUbd,DataB1>% la velocidad de movimiento. Durante este tiempo, si Garek sufre daño, obtiene un <AUbd,DataC1>% de velocidad de ataque durante <AUbd,DataD1> s. |nDura <AUbd,Dur1> s.",
+       "Adopta una actitud defensiva que reduce un <AUbd,DataA2>% el daño recibido y un <AUbd,DataB2>% la velocidad de movimiento. Durante este tiempo, si Garek sufre daño, obtiene un <AUbd,DataC2>% de velocidad de ataque durante <AUbd,DataD2> s. |nDura <AUbd,Dur2> s.",
+       "Adopta una actitud defensiva que reduce un <AUbd,DataA3>% el daño recibido y un <AUbd,DataB3>% la velocidad de movimiento. Durante este tiempo, si Garek sufre daño, obtiene un <AUbd,DataC3>% de velocidad de ataque durante <AUbd,DataD3> s. |nDura <AUbd,Dur3> s.",
+       "Adopta una actitud defensiva que reduce un <AUbd,DataA4>% el daño recibido y un <AUbd,DataB4>% la velocidad de movimiento. Durante este tiempo, si Garek sufre daño, obtiene un <AUbd,DataC4>% de velocidad de ataque durante <AUbd,DataD4> s. |nDura <AUbd,Dur4> s.",
+       "Adopta una actitud defensiva que reduce un <AUbd,DataA5>% el daño recibido y un <AUbd,DataB5>% la velocidad de movimiento. Durante este tiempo, si Garek sufre daño, obtiene un <AUbd,DataC5>% de velocidad de ataque durante <AUbd,DataD5> s. |nDura <AUbd,Dur5> s."
+      ],
+      "esMX": [
+       "Adopta una actitud defensiva, lo que reduce un <AUbd,DataA1>% el daño recibido y un <AUbd,DataB1>% la velocidad de movimiento. Durante este tiempo, si Garek recibe daño, obtiene un <AUbd,DataC1>% de velocidad de ataque durante <AUbd,DataD1> segundos. |nDura <AUbd,Dur1> segundos.",
+       "Adopta una actitud defensiva, lo que reduce un <AUbd,DataA2>% el daño recibido y un <AUbd,DataB2>% la velocidad de movimiento. Durante este tiempo, si Garek recibe daño, obtiene un <AUbd,DataC2>% de velocidad de ataque durante <AUbd,DataD2> segundos. |nDura <AUbd,Dur2> segundos.",
+       "Adopta una actitud defensiva, lo que reduce un <AUbd,DataA3>% el daño recibido y un <AUbd,DataB3>% la velocidad de movimiento. Durante este tiempo, si Garek recibe daño, obtiene un <AUbd,DataC3>% de velocidad de ataque durante <AUbd,DataD3> segundos. |nDura <AUbd,Dur3> segundos.",
+       "Adopta una actitud defensiva, lo que reduce un <AUbd,DataA4>% el daño recibido y un <AUbd,DataB4>% la velocidad de movimiento. Durante este tiempo, si Garek recibe daño, obtiene un <AUbd,DataC4>% de velocidad de ataque durante <AUbd,DataD4> segundos. |nDura <AUbd,Dur4> segundos.",
+       "Adopta una actitud defensiva, lo que reduce un <AUbd,DataA5>% el daño recibido y un <AUbd,DataB5>% la velocidad de movimiento. Durante este tiempo, si Garek recibe daño, obtiene un <AUbd,DataC5>% de velocidad de ataque durante <AUbd,DataD5> segundos. |nDura <AUbd,Dur5> segundos."
+      ],
+      "frFR": [
+       "Adopte une posture défensive, réduisant les dégâts subis de <AUbd,DataA1> % et la vitesse de déplacement de <AUbd,DataB1> %. Pendant cette durée, si Garek subit des dégâts, il reçoit <AUbd,DataC1> % de vitesse d’attaque pendant <AUbd,DataD1> secondes. |nDure <AUbd,Dur1> secondes.",
+       "Adopte une posture défensive, réduisant les dégâts subis de <AUbd,DataA2> % et la vitesse de déplacement de <AUbd,DataB2> %. Pendant cette durée, si Garek subit des dégâts, il reçoit <AUbd,DataC2> % de vitesse d’attaque pendant <AUbd,DataD2> secondes. |nDure <AUbd,Dur2> secondes.",
+       "Adopte une posture défensive, réduisant les dégâts subis de <AUbd,DataA3> % et la vitesse de déplacement de <AUbd,DataB3> %. Pendant cette durée, si Garek subit des dégâts, il reçoit <AUbd,DataC3> % de vitesse d’attaque pendant <AUbd,DataD3> secondes. |nDure <AUbd,Dur3> secondes.",
+       "Adopte une posture défensive, réduisant les dégâts subis de <AUbd,DataA4> % et la vitesse de déplacement de <AUbd,DataB4> %. Pendant cette durée, si Garek subit des dégâts, il reçoit <AUbd,DataC4> % de vitesse d’attaque pendant <AUbd,DataD4> secondes. |nDure <AUbd,Dur4> secondes.",
+       "Adopte une posture défensive, réduisant les dégâts subis de <AUbd,DataA5> % et la vitesse de déplacement de <AUbd,DataB5> %. Pendant cette durée, si Garek subit des dégâts, il reçoit <AUbd,DataC5> % de vitesse d’attaque pendant <AUbd,DataD5> secondes. |nDure <AUbd,Dur5> secondes."
+      ],
+      "koKR": [
+       "방어 태세에 들어갑니다. 받는 피해가 <AUbd,DataA1>%, 이동 속도가 <AUbd,DataB1>% 감소합니다. 이 기간 동안 가렉이 피해를 받으면 <AUbd,DataD1>초 동안 공격 속도가 <AUbd,DataC1>% 증가합니다. |n<AUbd,Dur1>초 동안 지속됩니다.",
+       "방어 태세에 들어갑니다. 받는 피해가 <AUbd,DataA2>%, 이동 속도가 <AUbd,DataB2>% 감소합니다. 이 기간 동안 가렉이 피해를 받으면 <AUbd,DataD2>초 동안 공격 속도가 <AUbd,DataC2>% 증가합니다. |n<AUbd,Dur2>초 동안 지속됩니다.",
+       "방어 태세에 들어갑니다. 받는 피해가 <AUbd,DataA3>%, 이동 속도가 <AUbd,DataB3>% 감소합니다. 이 기간 동안 가렉이 피해를 받으면 <AUbd,DataD3>초 동안 공격 속도가 <AUbd,DataC3>% 증가합니다. |n<AUbd,Dur3>초 동안 지속됩니다.",
+       "방어 태세에 들어갑니다. 받는 피해가 <AUbd,DataA4>%, 이동 속도가 <AUbd,DataB4>% 감소합니다. 이 기간 동안 가렉이 피해를 받으면 <AUbd,DataD4>초 동안 공격 속도가 <AUbd,DataC4>% 증가합니다. |n<AUbd,Dur4>초 동안 지속됩니다.",
+       "방어 태세에 들어갑니다. 받는 피해가 <AUbd,DataA5>%, 이동 속도가 <AUbd,DataB5>% 감소합니다. 이 기간 동안 가렉이 피해를 받으면 <AUbd,DataD5>초 동안 공격 속도가 <AUbd,DataC5>% 증가합니다. |n<AUbd,Dur5>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Przyjmuje postawę obronną, która redukuje odnoszone obrażenia o <AUbd,DataA1>% i zmniejsza szybkość ruchu o <AUbd,DataB1>%. Jeśli w tym czasie Garek odniesie obrażenia, zyska <AUbd,DataC1>% szybkości ataku na <AUbd,DataD1> sek.|nCzas działania: <AUbd,Dur1> sek.",
+       "Przyjmuje postawę obronną, która redukuje odnoszone obrażenia o <AUbd,DataA2>% i zmniejsza szybkość ruchu o <AUbd,DataB2>%. Jeśli w tym czasie Garek odniesie obrażenia, zyska <AUbd,DataC2>% szybkości ataku na <AUbd,DataD2> sek.|nCzas działania: <AUbd,Dur2> sek.",
+       "Przyjmuje postawę obronną, która redukuje odnoszone obrażenia o <AUbd,DataA3>% i zmniejsza szybkość ruchu o <AUbd,DataB3>%. Jeśli w tym czasie Garek odniesie obrażenia, zyska <AUbd,DataC3>% szybkości ataku na <AUbd,DataD3> sek.|nCzas działania: <AUbd,Dur3> sek.",
+       "Przyjmuje postawę obronną, która redukuje odnoszone obrażenia o <AUbd,DataA4>% i zmniejsza szybkość ruchu o <AUbd,DataB4>%. Jeśli w tym czasie Garek odniesie obrażenia, zyska <AUbd,DataC4>% szybkości ataku na <AUbd,DataD4> sek.|nCzas działania: <AUbd,Dur4> sek.",
+       "Przyjmuje postawę obronną, która redukuje odnoszone obrażenia o <AUbd,DataA5>% i zmniejsza szybkość ruchu o <AUbd,DataB5>%. Jeśli w tym czasie Garek odniesie obrażenia, zyska <AUbd,DataC5>% szybkości ataku na <AUbd,DataD5> sek.|nCzas działania: <AUbd,Dur5> sek."
+      ],
+      "ptBR": [
+       "Entra em uma posição defensiva, reduzindo o dano recebido em <AUbd,DataA1>% e a velocidade de movimento em <AUbd,DataB1>%. Durante este período, se Garek receber qualquer dano, ele recebe <AUbd,DataC1>% de taxa de ataque por <AUbd,DataD1> segundos. |nDura <AUbd,Dur1> segundos.",
+       "Entra em uma posição defensiva, reduzindo o dano recebido em <AUbd,DataA2>% e a velocidade de movimento em <AUbd,DataB2>%. Durante este período, se Garek receber qualquer dano, ele recebe <AUbd,DataC2>% de taxa de ataque por <AUbd,DataD2> segundos. |nDura <AUbd,Dur2> segundos.",
+       "Entra em uma posição defensiva, reduzindo o dano recebido em <AUbd,DataA3>% e a velocidade de movimento em <AUbd,DataB3>%. Durante este período, se Garek receber qualquer dano, ele recebe <AUbd,DataC3>% de taxa de ataque por <AUbd,DataD3> segundos. |nDura <AUbd,Dur3> segundos.",
+       "Entra em uma posição defensiva, reduzindo o dano recebido em <AUbd,DataA4>% e a velocidade de movimento em <AUbd,DataB4>%. Durante este período, se Garek receber qualquer dano, ele recebe <AUbd,DataC4>% de taxa de ataque por <AUbd,DataD4> segundos. |nDura <AUbd,Dur4> segundos.",
+       "Entra em uma posição defensiva, reduzindo o dano recebido em <AUbd,DataA5>% e a velocidade de movimento em <AUbd,DataB5>%. Durante este período, se Garek receber qualquer dano, ele recebe <AUbd,DataC5>% de taxa de ataque por <AUbd,DataD5> segundos. |nDura <AUbd,Dur5> segundos."
+      ],
+      "ruRU": [
+       "Принимает защитную стойку, уменьшающую получаемый урон на <AUbd,DataA1>% и замедляющую передвижение на <AUbd,DataB1>%. Если в это время Гарек получает урон, его скорость атаки повышается на <AUbd,DataC1>% на <AUbd,DataD1> сек. |nВремя действия: <AUbd,Dur1> сек.",
+       "Принимает защитную стойку, уменьшающую получаемый урон на <AUbd,DataA2>% и замедляющую передвижение на <AUbd,DataB2>%. Если в это время Гарек получает урон, его скорость атаки повышается на <AUbd,DataC2>% на <AUbd,DataD2> сек. |nВремя действия: <AUbd,Dur2> сек.",
+       "Принимает защитную стойку, уменьшающую получаемый урон на <AUbd,DataA3>% и замедляющую передвижение на <AUbd,DataB3>%. Если в это время Гарек получает урон, его скорость атаки повышается на <AUbd,DataC3>% на <AUbd,DataD3> сек. |nВремя действия: <AUbd,Dur3> сек.",
+       "Принимает защитную стойку, уменьшающую получаемый урон на <AUbd,DataA4>% и замедляющую передвижение на <AUbd,DataB4>%. Если в это время Гарек получает урон, его скорость атаки повышается на <AUbd,DataC4>% на <AUbd,DataD4> сек. |nВремя действия: <AUbd,Dur4> сек.",
+       "Принимает защитную стойку, уменьшающую получаемый урон на <AUbd,DataA5>% и замедляющую передвижение на <AUbd,DataB5>%. Если в это время Гарек получает урон, его скорость атаки повышается на <AUbd,DataC5>% на <AUbd,DataD5> сек. |nВремя действия: <AUbd,Dur5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Undying Defiance - [|cffffcc00Level %d|r]",
+      "deDE": "Unsterblicher Widerstand [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Desafío imperecedero - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Rebeldía implacable [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Défiance impérissable de |cffffcc00niveau %d|r",
+      "koKR": "불사의 항전 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Niezłomnego Oporu – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Afronta Imortal - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Непокорный нрав» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Take reduced damage, at the cost of movement speed. Taking damage grants increased attack rate. |n|n|cffffcc00Level 1|r - <AUbd,DataA1>% reduced damage, <AUbd,DataB1>% reduced movement speed, <AUbd,DataC1>% attack rate for <AUbd,DataD1> seconds. Lasts <AUbd,Dur1> seconds. |n|cffffcc00Level 2|r - <AUbd,DataA2>% reduced damage, <AUbd,DataB2>% reduced movement speed, <AUbd,DataC2>% attack rate for <AUbd,DataD2> seconds. Lasts <AUbd,Dur2> seconds. |n|cffffcc00Level 3|r - <AUbd,DataA3>% reduced damage, <AUbd,DataB3>% reduced movement speed, <AUbd,DataC3>% attack rate for <AUbd,DataD3> seconds. Lasts <AUbd,Dur3> seconds. |n|cffffcc00Level 4|r - <AUbd,DataA4>% reduced damage, <AUbd,DataB4>% reduced movement speed, <AUbd,DataC4>% attack rate for <AUbd,DataD4> seconds. Lasts <AUbd,Dur4> seconds. |n|cffffcc00Level 5|r - <AUbd,DataA5>% reduced damage, <AUbd,DataB5>% reduced movement speed, <AUbd,DataC5>% attack rate for <AUbd,DataD5> seconds. Lasts <AUbd,Dur5> seconds.",
+      "deDE": "Ihr erleidet verringerten Schaden, verliert dafür aber Bewegungsgeschwindigkeit. Das Erleiden von Schaden gewährt eine erhöhte Angriffsgeschwindigkeit. |n|n|cffffcc00Stufe 1|r - <AUbd,DataA1> % verringerter Schaden, <AUbd,DataB1> % verringerte Bewegungsgeschwindigkeit, <AUbd,DataC1> % Angriffsgeschwindigkeit für <AUbd,DataD1> Sek. Bleibt <AUbd,Dur1> Sek. lang bestehen. |n|cffffcc00Stufe 2|r - <AUbd,DataA2> % verringerter Schaden, <AUbd,DataB2> % verringerte Bewegungsgeschwindigkeit, <AUbd,DataC2> % Angriffsgeschwindigkeit für <AUbd,DataD2> Sek. Bleibt <AUbd,Dur2> Sek. lang bestehen. |n|cffffcc00Stufe 3|r - <AUbd,DataA3> % verringerter Schaden, <AUbd,DataB3> % verringerte Bewegungsgeschwindigkeit, <AUbd,DataC3> % Angriffsgeschwindigkeit für <AUbd,DataD3> Sek. Bleibt <AUbd,Dur3> Sek. lang bestehen. |n|cffffcc00Stufe 4|r - <AUbd,DataA4> % verringerter Schaden, <AUbd,DataB4> % verringerte Bewegungsgeschwindigkeit, <AUbd,DataC4> % Angriffsgeschwindigkeit für <AUbd,DataD4> Sek. Bleibt <AUbd,Dur4> Sek. lang bestehen. |n|cffffcc00Stufe 5|r - <AUbd,DataA5> % verringerter Schaden, <AUbd,DataB5> % verringerte Bewegungsgeschwindigkeit, <AUbd,DataC5> % Angriffsgeschwindigkeit für <AUbd,DataD5> Sek. Bleibt <AUbd,Dur5> Sek. lang bestehen.",
+      "esES": "Recibe menos daño a cambio de una reducción de la velocidad de movimiento. El daño recibido aumenta la velocidad de ataque. |n|n|cffffcc00Nivel 1|r - <AUbd,DataA1>% menos de daño, <AUbd,DataB1>% menos de velocidad de movimiento, <AUbd,DataC1>% de velocidad de ataque durante <AUbd,DataD1> s. Dura <AUbd,Dur1> s. |n|cffffcc00Nivel 2|r - <AUbd,DataA2>% menos de daño, <AUbd,DataB2>% menos de velocidad de movimiento, <AUbd,DataC2>% de velocidad de ataque durante <AUbd,DataD2> s. Dura <AUbd,Dur2> s. |n|cffffcc00Nivel 3|r - <AUbd,DataA3>% menos de daño, <AUbd,DataB3>% menos de velocidad de movimiento, <AUbd,DataC3>% de velocidad de ataque durante <AUbd,DataD3> s. Dura <AUbd,Dur3> s. |n|cffffcc00Nivel 4|r - <AUbd,DataA4>% menos de daño, <AUbd,DataB4>% menos de velocidad de movimiento, <AUbd,DataC4>% de velocidad de ataque durante <AUbd,DataD4> s. Dura <AUbd,Dur4> s.|n|cffffcc00Nivel 5|r - <AUbd,DataA5>% menos de daño, <AUbd,DataB5>% menos de velocidad de movimiento, <AUbd,DataC5>% de velocidad de ataque durante <AUbd,DataD5> s. Dura <AUbd,Dur5> s.",
+      "esMX": "Recibe menos daño a cambio de velocidad de movimiento. Recibir daño otorga más velocidad de ataque. |n|n|cffffcc00Nivel 1|r - Un <AUbd,DataA1>% menos de daño, un <AUbd,DataB1>% menos de velocidad de movimiento, un <AUbd,DataC1>% de velocidad de ataque durante <AUbd,DataD1> segundos. Dura <AUbd,Dur1> segundos. |n|cffffcc00Nivel 2|r - Un <AUbd,DataA2>% menos de daño, un <AUbd,DataB2>% menos de velocidad de movimiento, un <AUbd,DataC2>% de velocidad de ataque durante <AUbd,DataD2> segundos. Dura <AUbd,Dur2> segundos. |n|cffffcc00Nivel 3|r - Un <AUbd,DataA3>% menos de daño, un <AUbd,DataB3>% menos de velocidad de movimiento, un <AUbd,DataC3>% de velocidad de ataque durante <AUbd,DataD3> segundos. Dura <AUbd,Dur3> segundos. |n|cffffcc00Nivel 4|r - <AUbd,DataA4>% menos de daño, un <AUbd,DataB4>% menos de velocidad de movimiento, un <AUbd,DataC4>% de velocidad de ataque durante <AUbd,DataD4> segundos. Dura<AUbd,Dur4> segundos. |n|cffffcc00Nivel 5|r - <AUbd,DataA5>% menos de daño, un <AUbd,DataB5>% menos de velocidad de movimiento, un <AUbd,DataC5>% de velocidad de ataque durante <AUbd,DataD5> segundos. Dura <AUbd,Dur5> segundos.",
+      "frFR": "Réduit les dégâts subis au détriment de la vitesse de déplacement. Les dégâts subis augmentent la vitesse d’attaque. |n|n|cffffcc00Niveau 1 :|r <AUbd,DataA1> % de réduction des dégâts subis, <AUbd,DataB1> % de réduction de la vitesse de déplacement, <AUbd,DataC1> % de vitesse d’attaque pendant <AUbd,DataD1> secondes. Dure <AUbd,Dur1> secondes. |n|cffffcc00Niveau 2 :|r <AUbd,DataA2> % de réduction des dégâts subis, <AUbd,DataB2> % de réduction de la vitesse de déplacement, <AUbd,DataC2> % de vitesse d’attaque pendant <AUbd,DataD2> secondes. Dure <AUbd,Dur2> secondes. |n|cffffcc00Niveau 3 :|r <AUbd,DataA3> % de réduction des dégâts subis, <AUbd,DataB3> % de réduction de la vitesse de déplacement, <AUbd,DataC3> % de vitesse d’attaque pendant <AUbd,DataD3> secondes. Dure <AUbd,Dur3> secondes. |n|cffffcc00Niveau 4 :|r <AUbd,DataA4> % de réduction des dégâts subis, <AUbd,DataB4> % de réduction de la vitesse de déplacement, <AUbd,DataC4> % de vitesse d’attaque pendant <AUbd,DataD4> secondes. Dure <AUbd,Dur4> secondes. |n|cffffcc00Niveau 5 :|r <AUbd,DataA5> % de réduction des dégâts subis, <AUbd,DataB5> % de réduction de la vitesse de déplacement, <AUbd,DataC5> % de vitesse d’attaque pendant <AUbd,DataD5> secondes. Dure <AUbd,Dur5> secondes.",
+      "koKR": "받는 피해가 감소하지만 이동 속도도 감소합니다. 피해를 받으면 공격 속도가 증가합니다. |n|n|cffffcc001레벨|r - 받는 피해가 <AUbd,DataA1>%, 이동 속도가 <AUbd,DataB1>% 감소합니다. <AUbd,DataD1>초 동안 공격 속도가 <AUbd,DataC1>% 증가합니다. <AUbd,Dur1>초 동안 지속됩니다. |n|cffffcc002레벨|r - 받는 피해가 <AUbd,DataA2>%, 이동 속도가 <AUbd,DataB2>% 감소합니다. <AUbd,DataD2>초 동안 공격 속도가 <AUbd,DataC2>% 증가합니다. <AUbd,Dur2>초 동안 지속됩니다. |n|cffffcc003레벨|r - 받는 피해가 <AUbd,DataA3>%, 이동 속도가 <AUbd,DataB3>% 감소합니다. <AUbd,DataD3>초 동안 공격 속도가 <AUbd,DataC3>% 증가합니다. <AUbd,Dur3>초 동안 지속됩니다. |n|cffffcc004레벨|r - 받는 피해가 <AUbd,DataA4>%, 이동 속도가 <AUbd,DataB4>% 감소합니다. <AUbd,DataD4>초 동안 공격 속도가 <AUbd,DataC4>% 증가합니다. <AUbd,Dur4>초 동안 지속됩니다. |n|cffffcc005레벨|r - 받는 피해가 <AUbd,DataA5>%, 이동 속도가 <AUbd,DataB5>% 감소합니다. <AUbd,DataD5>초 동안 공격 속도가 <AUbd,DataC5>% 증가합니다. <AUbd,Dur5>초 동안 지속됩니다.",
+      "plPL": "Odnosi zmniejszone obrażenia kosztem szybkości ruchu. Odnoszenie obrażeń zwiększa szybkość ataku.|n|n|cffffcc00Poziom 1|r – obrażenia zmniejszone o <AUbd,DataA1>%, szybkość ruchu zmniejszona o <AUbd,DataB1>%, <AUbd,DataC1>% do szybkości ataku na <AUbd,DataD1> sek. Czas działania: <AUbd,Dur1> sek.|n|cffffcc00Poziom 2|r – obrażenia zmniejszone o <AUbd,DataA2>%, szybkość ruchu zmniejszona o <AUbd,DataB2>%, <AUbd,DataC2>% do szybkości ataku na <AUbd,DataD2> sek. Czas działania: <AUbd,Dur2> sek.|n|cffffcc00Poziom 3|r – obrażenia zmniejszone o <AUbd,DataA3>%, szybkość ruchu zmniejszona o <AUbd,DataB3>%, <AUbd,DataC3>% do szybkości ataku na <AUbd,DataD3> sek. Czas działania: <AUbd,Dur3> sek.|n|cffffcc00Poziom 4|r – obrażenia zmniejszone o <AUbd,DataA4>%, szybkość ruchu zmniejszona o <AUbd,DataB4>%, <AUbd,DataC4>% do szybkości ataku na <AUbd,DataD4> sek. Czas działania: <AUbd,Dur4> sek. |n|cffffcc00Poziom 5|r – obrażenia zmniejszone o <AUbd,DataA5>%, szybkość ruchu zmniejszona o <AUbd,DataB5>%, <AUbd,DataC5>% do szybkości ataku na <AUbd,DataD5> sek. Czas działania: <AUbd,Dur5> sek.",
+      "ptBR": "Recebe dano reduzido em troca de velocidade de movimento. Receber dano concede taxa de ataque aumentada. |n|n|cffffcc00Nível 1|r - <AUbd,DataA1>% de dano reduzido, <AUbd,DataB1>% de velocidade de movimento reduzida, <AUbd,DataC1>% de taxa de ataque por <AUbd,DataD1> segundos. Dura <AUbd,Dur1> segundos. |n|cffffcc00Nível 2|r - <AUbd,DataA2>% de dano reduzido, <AUbd,DataB2>% de velocidade de movimento reduzida, <AUbd,DataC2>% de taxa de ataque por <AUbd,DataD2> segundos. Dura <AUbd,Dur2> segundos. |n|cffffcc00Nível 3|r - <AUbd,DataA3>% de dano reduzido, <AUbd,DataB3>% de velocidade de movimento reduzida, <AUbd,DataC3>% de taxa de ataque por <AUbd,DataD3> segundos. Dura <AUbd,Dur3> segundos.|n|cffffcc00Nível 4|r - <AUbd,DataA4>% de dano reduzido, <AUbd,DataB4>% de velocidade de movimento reduzida, <AUbd,DataC4>% taxa de ataque por <AUbd,DataD4> segundos. Dura <AUbd,Dur4> segundos. |n|cffffcc00Nível 5|r - <AUbd,DataA5>% de dano reduzido, <AUbd,DataB5>% de velocidade de movimento reduzida, <AUbd,DataC5>% de taxa de ataque por <AUbd,DataD5> segundos. Dura <AUbd,Dur5> segundos.",
+      "ruRU": "Уменьшает получаемый урон, при этом замедляя передвижение. При получении урона повышается скорость атаки. |n|n|cffffcc001-й уровень:|r уменьшение урона на <AUbd,DataA1>%, замедление передвижения на <AUbd,DataB1>%, <AUbd,DataC1>% к скорости атаки на <AUbd,DataD1> сек. Время действия: <AUbd,Dur1> сек.|n|cffffcc002-й уровень:|r уменьшение урона на <AUbd,DataA2>%, замедление передвижения на <AUbd,DataB2>%, <AUbd,DataC2>% к скорости атаки на <AUbd,DataD2> сек. Время действия: <AUbd,Dur2> сек.|n|cffffcc003-й уровень:|r уменьшение урона на <AUbd,DataA3>%, замедление передвижения на <AUbd,DataB3>%, <AUbd,DataC3>% к скорости атаки на <AUbd,DataD3> сек. Время действия: <AUbd,Dur3> сек. |n|cffffcc004-й уровень:|r уменьшение урона на <AUbd,DataA4>%, замедление передвижения на <AUbd,DataB4>%, <AUbd,DataC4>% к скорости атаки на <AUbd,DataD4> сек. Время действия: <AUbd,Dur4> сек. |n|cffffcc005-й уровень:|r уменьшение урона на <AUbd,DataA5>%, замедление передвижения на <AUbd,DataB5>%, <AUbd,DataC5>% к скорости атаки на <AUbd,DataD5> сек. Время действия: <AUbd,Dur5> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNUnyieldingGuardU.blp",
+   "data": {
+    "Dur1": "10",
+    "HeroDur1": "10",
+    "Cool1": "20",
+    "Cost1": "75",
+    "Area1": "0",
+    "Rng1": "0",
+    "DataA1": "65",
+    "DataB1": "40",
+    "DataC1": "30",
+    "DataD1": "3",
+    "Dur2": "10",
+    "HeroDur2": "10",
+    "Cool2": "20",
+    "Cost2": "75",
+    "Area2": "0",
+    "Rng2": "0",
+    "DataA2": "65",
+    "DataB2": "35",
+    "DataC2": "35",
+    "DataD2": "3",
+    "Dur3": "10",
+    "HeroDur3": "10",
+    "Cool3": "20",
+    "Cost3": "75",
+    "Area3": "0",
+    "Rng3": "0",
+    "DataA3": "65",
+    "DataB3": "30",
+    "DataC3": "40",
+    "DataD3": "3",
+    "Dur4": "10",
+    "HeroDur4": "10",
+    "Cool4": "20",
+    "Cost4": "75",
+    "Area4": "0",
+    "Rng4": "0",
+    "DataA4": "65",
+    "DataB4": "25",
+    "DataC4": "45",
+    "DataD4": "3",
+    "Dur5": "10",
+    "HeroDur5": "10",
+    "Cool5": "20",
+    "Cost5": "75",
+    "Area5": "0",
+    "Rng5": "0",
+    "DataA5": "65",
+    "DataB5": "20",
+    "DataC5": "50",
+    "DataD5": "3"
+   }
+  },
+  {
+   "id": "BUbt",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUbd",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Undying Defiance"
+      ],
+      "deDE": [
+       "Unsterblicher Widerstand"
+      ],
+      "esES": [
+       "Desafío imperecedero"
+      ],
+      "esMX": [
+       "Rebeldía implacable"
+      ],
+      "frFR": [
+       "Défiance impérissable"
+      ],
+      "koKR": [
+       "불사의 항전"
+      ],
+      "plPL": [
+       "Niezłomny Opór"
+      ],
+      "ruRU": [
+       "Непокорный нрав"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit is in a defensive stance, taking reduced damage at the cost of movement speed."
+      ],
+      "deDE": [
+       "Diese Einheit hat eine Verteidigungshaltung eingenommen und erleidet verringerten Schaden, verliert dafür aber Bewegungsgeschwindigkeit."
+      ],
+      "esES": [
+       "Esta unidad ha adoptado una posición defensiva que reduce el daño recibido a cambio de reducir también la velocidad de movimiento."
+      ],
+      "esMX": [
+       "Esta unidad tiene una actitud defensiva y recibe menos daño a cambio de velocidad de movimiento."
+      ],
+      "frFR": [
+       "Cette unité a adopté une posture défensive. Elle subit des dégâts réduits, au détriment de sa vitesse de déplacement."
+      ],
+      "koKR": [
+       "방어 태세를 취해, 이동 속도가 감소하지만 받는 피해도 감소합니다."
+      ],
+      "plPL": [
+       "Ta jednostka znajduje się w postawie obronnej i odnosi mniej obrażeń kosztem szybkości ruchu."
+      ],
+      "ruRU": [
+       "Защитная стойка, которая уменьшает получаемый урон, при этом замедляя передвижение."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "BUbo",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUbd",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Undying Defiance Bonus"
+      ],
+      "deDE": [
+       "Bonus: Unsterblicher Widerstand"
+      ],
+      "esES": [
+       "Bonificación de Desafío imperecedero"
+      ],
+      "esMX": [
+       "Bonificación de rebeldía implacable"
+      ],
+      "frFR": [
+       "Bonus de Défiance impérissable"
+      ],
+      "koKR": [
+       "불사의 항전 보너스"
+      ],
+      "plPL": [
+       "Premia – Niezłomny Opór"
+      ],
+      "ptBR": [
+       "Bônus de Afronta Imortal"
+      ],
+      "ruRU": [
+       "Эффект «Непокорный нрав»"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has been hit while in a defensive stance; they have increased attack rate."
+      ],
+      "deDE": [
+       "Diese Einheit wurde in Verteidigungshaltung getroffen. Ihre Angriffsgeschwindigkeit wird erhöht."
+      ],
+      "esES": [
+       "Esta unidad ha recibido un golpe mientras estaba en actitud defensiva: ha aumentado su velocidad de ataque."
+      ],
+      "esMX": [
+       "Esta unidad recibió un golpe mientras estaba en actitud defensiva; tiene más velocidad de ataque."
+      ],
+      "frFR": [
+       "Cette unité a été touchée en posture défensive. Sa vitesse d’attaque est augmentée."
+      ],
+      "koKR": [
+       "방어 태세 중 공격을 받았습니다. 공격 속도가 증가합니다."
+      ],
+      "plPL": [
+       "Ta jednostka została trafiona, podczas gdy była w postawie obronnej. Ma zwiększoną szybkość ataku."
+      ],
+      "ptBR": [
+       "Esta unidade foi atingida enquanto estava em posição defensiva. A taxa de ataque aumentou."
+      ],
+      "ruRU": [
+       "Цель атаковали, когда она была в защитной стойке. Ее скорость атаки повышается."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AUbr",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Battering Ram",
+      "deDE": "Rammbock",
+      "esES": "Ariete",
+      "esMX": "Ariete",
+      "frFR": "Bélier",
+      "koKR": "공성추",
+      "plPL": "Taran",
+      "ptBR": "Aríete",
+      "ruRU": "Таран"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Battering Ram - [|cffffcc00Level 1|r]",
+       "Battering Ram - [|cffffcc00Level 2|r]",
+       "Battering Ram - [|cffffcc00Level 3|r]",
+       "Battering Ram - [|cffffcc00Level 4|r]",
+       "Battering Ram - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Rammbock [|cffffcc00Stufe 1|r]",
+       "Rammbock [|cffffcc00Stufe 2|r]",
+       "Rammbock [|cffffcc00Stufe 3|r]",
+       "Rammbock [|cffffcc00Stufe 4|r]",
+       "Rammbock [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Ariete - [|cffffcc00Nivel 1|r]",
+       "Ariete - [|cffffcc00Nivel 2|r]",
+       "Ariete - [|cffffcc00Nivel 3|r]",
+       "Ariete - [|cffffcc00Nivel 4|r]",
+       "Ariete - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Ariete - [|cffffcc00Nivel 1|r]",
+       "Ariete - [|cffffcc00Nivel 2|r]",
+       "Ariete - [|cffffcc00Nivel 3|r]",
+       "Ariete - [|cffffcc00Nivel 4|r]",
+       "Ariete - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Bélier de |cffffcc00niveau 1|r",
+       "Bélier de |cffffcc00niveau 2|r",
+       "Bélier de |cffffcc00niveau 3|r",
+       "Bélier de |cffffcc00niveau 4|r",
+       "Bélier de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "공성추 - [|cffffcc001레벨|r]",
+       "공성추 - [|cffffcc002레벨|r]",
+       "공성추 - [|cffffcc003레벨|r]",
+       "공성추 - [|cffffcc004레벨|r]",
+       "공성추 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Taran – [|cffffcc00poziom 1|r]",
+       "Taran – [|cffffcc00poziom 2|r]",
+       "Taran – [|cffffcc00poziom 3|r]",
+       "Taran – [|cffffcc00poziom 4|r]",
+       "Taran – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Aríete - [|cffffcc00Nível 1|r]",
+       "Aríete - [|cffffcc00Nível 2|r]",
+       "Aríete - [|cffffcc00Nível 3|r]",
+       "Aríete - [|cffffcc00Nível 4|r]",
+       "Aríete - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Таран [|cffffcc001-й уровень|r]",
+       "Таран [|cffffcc002-й уровень|r]",
+       "Таран [|cffffcc003-й уровень|r]",
+       "Таран [|cffffcc004-й уровень|r]",
+       "Таран [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Dashes towards a target point, dealing <AUbr,DataB1> damage to enemy units hit along the way, and gaining <AUbr,DataG1> bonus damage for every enemy unit hit.|nLasts <AUbr,DataH1> seconds.",
+       "Dashes towards a target point, dealing <AUbr,DataB2> damage to enemy units hit along the way, and gaining <AUbr,DataG2> bonus damage for every enemy unit hit.|nLasts <AUbr,DataH2> seconds.",
+       "Dashes towards a target point, dealing <AUbr,DataB3> damage to enemy units hit along the way, and gaining <AUbr,DataG3> bonus damage for every enemy unit hit.|nLasts <AUbr,DataH3> seconds.",
+       "Dashes towards a target point, dealing <AUbr,DataB4> damage to enemy units hit along the way, and gaining <AUbr,DataG4> bonus damage for every enemy unit hit.|nLasts <AUbr,DataH4> seconds.",
+       "Dashes towards a target point, dealing <AUbr,DataB5> damage to enemy units hit along the way, and gaining <AUbr,DataG5> bonus damage for every enemy unit hit.|nLasts <AUbr,DataH5> seconds."
+      ],
+      "deDE": [
+       "Stürmt auf einen Zielpunkt zu, fügt gegnerischen Einheiten auf dem Weg <AUbr,DataB1> Schaden zu und verursacht <AUbr,DataG1> Bonusschaden für jede getroffene gegnerische Einheit. |nBleibt <AUbr,DataH1> Sek. lang bestehen.",
+       "Stürmt auf einen Zielpunkt zu, fügt gegnerischen Einheiten auf dem Weg <AUbr,DataB2> Schaden zu und verursacht <AUbr,DataG2> Bonusschaden für jede getroffene gegnerische Einheit. |nBleibt <AUbr,DataH2> Sek. lang bestehen.",
+       "Stürmt auf einen Zielpunkt zu, fügt gegnerischen Einheiten auf dem Weg <AUbr,DataB3> Schaden zu und verursacht <AUbr,DataG3> Bonusschaden für jede getroffene gegnerische Einheit. |nBleibt <AUbr,DataH3> Sek. lang bestehen.",
+       "Stürmt auf einen Zielpunkt zu, fügt gegnerischen Einheiten auf dem Weg <AUbr,DataB4> Schaden zu und verursacht <AUbr,DataG4> Bonusschaden für jede getroffene gegnerische Einheit. |nBleibt <AUbr,DataH4> Sek. lang bestehen.",
+       "Stürmt auf einen Zielpunkt zu, fügt gegnerischen Einheiten auf dem Weg <AUbr,DataB5> Schaden zu und verursacht <AUbr,DataG5> Bonusschaden für jede getroffene gegnerische Einheit. |nBleibt <AUbr,DataH5> Sek. lang bestehen."
+      ],
+      "esES": [
+       "Se impulsa hacia un punto seleccionado y, al hacerlo, inflige <AUbr,DataB1> p. de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG1> p. de daño adicional por cada unidad enemiga golpeada. |nDura <AUbr,DataH1> s.",
+       "Se impulsa hacia un punto seleccionado y, al hacerlo, inflige <AUbr,DataB2> p. de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG2> p. de daño adicional por cada unidad enemiga golpeada. |nDura <AUbr,DataH2> s.",
+       "Se impulsa hacia un punto seleccionado y, al hacerlo, inflige <AUbr,DataB3> p. de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG3> p. de daño adicional por cada unidad enemiga golpeada. |nDura <AUbr,DataH3> s.",
+       "Se impulsa hacia un punto seleccionado y, al hacerlo, inflige <AUbr,DataB4> p. de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG4> p. de daño adicional por cada unidad enemiga golpeada. |nDura <AUbr,DataH4> s.",
+       "Se impulsa hacia un punto seleccionado y, al hacerlo, inflige <AUbr,DataB5> p. de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG5> p. de daño adicional por cada unidad enemiga golpeada. |nDura <AUbr,DataH5> s."
+      ],
+      "esMX": [
+       "Arremete hacia una ubicación objetivo, lo que inflige <AUbr,DataB1> de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG1> más de daño por cada unidad enemiga golpeada. |nDura <AUbr,DataH1> segundos.",
+       "Arremete hacia una ubicación objetivo, lo que inflige <AUbr,DataB2> de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG2> más de daño por cada unidad enemiga golpeada. |nDura <AUbr,DataH2> segundos.",
+       "Arremete hacia una ubicación objetivo, lo que inflige <AUbr,DataB3> de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG3> más de daño por cada unidad enemiga golpeada. |nDura <AUbr,DataH3> segundos.",
+       "Arremete hacia una ubicación objetivo, lo que inflige <AUbr,DataB4> de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG4> más de daño por cada unidad enemiga golpeada. |nDura <AUbr,DataH4> segundos.",
+       "Arremete hacia una ubicación objetivo, lo que inflige <AUbr,DataB5> de daño a las unidades enemigas en su camino y obtiene <AUbr,DataG5> más de daño por cada unidad enemiga golpeada. |nDura <AUbr,DataH5> segundos."
+      ],
+      "frFR": [
+       "Frappe l’endroit ciblé, ce qui inflige <AUbr,DataB1> points de dégâts aux unités ennemies sur la trajectoire et confère <AUbr,DataG1> points de dégâts supplémentaires pour chaque unité ennemie touchée.|nDure <AUbr,DataH1> secondes.",
+       "Frappe l’endroit ciblé, ce qui inflige <AUbr,DataB2> points de dégâts aux unités ennemies sur la trajectoire et confère <AUbr,DataG2> points de dégâts supplémentaires pour chaque unité ennemie touchée.|nDure <AUbr,DataH2> secondes.",
+       "Frappe l’endroit ciblé, ce qui inflige <AUbr,DataB3> points de dégâts aux unités ennemies sur la trajectoire et confère <AUbr,DataG3> points de dégâts supplémentaires pour chaque unité ennemie touchée.|nDure <AUbr,DataH3> secondes.",
+       "Frappe l’endroit ciblé, ce qui inflige <AUbr,DataB4> points de dégâts aux unités ennemies sur la trajectoire et confère <AUbr,DataG4> points de dégâts supplémentaires pour chaque unité ennemie touchée.|nDure <AUbr,DataH4> secondes.",
+       "Frappe l’endroit ciblé, ce qui inflige <AUbr,DataB5> points de dégâts aux unités ennemies sur la trajectoire et confère <AUbr,DataG5> points de dégâts supplémentaires pour chaque unité ennemie touchée.|nDure <AUbr,DataH5> secondes."
+      ],
+      "koKR": [
+       "대상 지점으로 질주해 경로상의 적 유닛에게 <AUbr,DataB1> 피해를 줍니다. 적중한 적 유닛 하나당 공격력이 <AUbr,DataG1> 증가합니다.|n<AUbr,DataH1>초 동안 지속됩니다.",
+       "대상 지점으로 질주해 경로상의 적 유닛에게 <AUbr,DataB2> 피해를 줍니다. 적중한 적 유닛 하나당 공격력이 <AUbr,DataG2> 증가합니다.|n<AUbr,DataH2>초 동안 지속됩니다.",
+       "대상 지점으로 질주해 경로상의 적 유닛에게 <AUbr,DataB3> 피해를 줍니다. 적중한 적 유닛 하나당 공격력이 <AUbr,DataG3> 증가합니다.|n<AUbr,DataH3>초 동안 지속됩니다.",
+       "대상 지점으로 질주해 경로상의 적 유닛에게 <AUbr,DataB4> 피해를 줍니다. 적중한 적 유닛 하나당 공격력이 <AUbr,DataG4> 증가합니다.|n<AUbr,DataH4>초 동안 지속됩니다.",
+       "대상 지점으로 질주해 경로상의 적 유닛에게 <AUbr,DataB5> 피해를 줍니다. 적중한 적 유닛 하나당 공격력이 <AUbr,DataG5> 증가합니다.|n<AUbr,DataH5>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Pędzi w kierunku wybranego punktu, zadając trafionym po drodze wrogim jednostkom <AUbr,DataB1> pkt. obrażeń oraz zyskując <AUbr,DataG1> pkt. dodatkowych obrażeń za każdą trafioną jednostkę.|nCzas działania: <AUbr,DataH1> sek.",
+       "Pędzi w kierunku wybranego punktu, zadając trafionym po drodze wrogim jednostkom <AUbr,DataB2> pkt. obrażeń oraz zyskując <AUbr,DataG2> pkt. dodatkowych obrażeń za każdą trafioną jednostkę.|nCzas działania: <AUbr,DataH2> sek.",
+       "Pędzi w kierunku wybranego punktu, zadając trafionym po drodze wrogim jednostkom <AUbr,DataB3> pkt. obrażeń oraz zyskując <AUbr,DataG3> pkt. dodatkowych obrażeń za każdą trafioną jednostkę.|nCzas działania: <AUbr,DataH3> sek.",
+       "Pędzi w kierunku wybranego punktu, zadając trafionym po drodze wrogim jednostkom <AUbr,DataB4> pkt. obrażeń oraz zyskując <AUbr,DataG4> pkt. dodatkowych obrażeń za każdą trafioną jednostkę.|nCzas działania: <AUbr,DataH4> sek.",
+       "Pędzi w kierunku wybranego punktu, zadając trafionym po drodze wrogim jednostkom <AUbr,DataB5> pkt. obrażeń oraz zyskując <AUbr,DataG5> pkt. dodatkowych obrażeń za każdą trafioną jednostkę.|nCzas działania: <AUbr,DataH5> sek."
+      ],
+      "ptBR": [
+       "Avança na direção de um ponto selecionado, causando <AUbr,DataB1> de dano às unidades inimigas atingidas no percurso e recebendo <AUbr,DataG1> de bônus de dano por cada unidade inimiga atingida.|nDura <AUbr,DataH1> segundos.",
+       "Avança na direção de um ponto selecionado, causando <AUbr,DataB2> de dano às unidades inimigas atingidas no percurso e recebendo <AUbr,DataG2> de bônus de dano por cada unidade inimiga atingida.|nDura <AUbr,DataH2> segundos.",
+       "Avança na direção de um ponto selecionado, causando <AUbr,DataB3> de dano às unidades inimigas atingidas no percurso e recebendo <AUbr,DataG3> de bônus de dano por cada unidade inimiga atingida.|nDura <AUbr,DataH3> segundos.",
+       "Avança na direção de um ponto selecionado, causando <AUbr,DataB4> de dano às unidades inimigas atingidas no percurso e recebendo <AUbr,DataG4> de bônus de dano por cada unidade inimiga atingida.|nDura <AUbr,DataH4> segundos.",
+       "Avança na direção de um ponto selecionado, causando <AUbr,DataB5> de dano às unidades inimigas atingidas no percurso e recebendo <AUbr,DataG5> de bônus de dano por cada unidade inimiga atingida.|nDura <AUbr,DataH5> segundos."
+      ],
+      "ruRU": [
+       "Устремляется в указанную точку, нанося <AUbr,DataB1> урона врагам на своем пути и <AUbr,DataG1> дополнительного урона за каждую пораженную цель.|nВремя действия: <AUbr,DataH1> сек.",
+       "Устремляется в указанную точку, нанося <AUbr,DataB2> урона врагам на своем пути и <AUbr,DataG2> дополнительного урона за каждую пораженную цель.|nВремя действия: <AUbr,DataH2> сек.",
+       "Устремляется в указанную точку, нанося <AUbr,DataB3> урона врагам на своем пути и <AUbr,DataG3> дополнительного урона за каждую пораженную цель.|nВремя действия: <AUbr,DataH3> сек.",
+       "Устремляется в указанную точку, нанося <AUbr,DataB4> урона врагам на своем пути и <AUbr,DataG4> дополнительного урона за каждую пораженную цель.|nВремя действия: <AUbr,DataH4> сек.",
+       "Устремляется в указанную точку, нанося <AUbr,DataB5> урона врагам на своем пути и <AUbr,DataG5> дополнительного урона за каждую пораженную цель.|nВремя действия: <AUbr,DataH5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Battering Ram - [|cffffcc00Level %d|r]",
+      "deDE": "Rammbock [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Ariete - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Ariete - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Bélier de |cffffcc00niveau %d|r",
+      "koKR": "공성추 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Taranu – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Aríete - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Таран» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Dash towards a target point, dealing damage and gaining bonus attack damage per enemy hit.|n|n|cffffcc00Level 1|r - <AUbr,DataB1> damage, <AUbr,DataG1> bonus damage per enemy unit hit. |n|cffffcc00Level 2|r - <AUbr,DataB2> damage, <AUbr,DataG2> bonus damage per enemy unit hit. |n|cffffcc00Level 3|r - <AUbr,DataB3> damage, <AUbr,DataG3> bonus damage per enemy unit hit.|n|cffffcc00Level 4|r - <AUbr,DataB4> damage, <AUbr,DataG4> bonus damage per enemy unit hit.|n|cffffcc00Level 5|r - <AUbr,DataB5> damage, <AUbr,DataG5> bonus damage per enemy unit hit.",
+      "deDE": "Stürmt auf einen Zielpunkt zu, verursacht dabei Schaden und pro getroffener gegnerischer Einheit Bonusangriffsschaden.|n|n|cffffcc00Stufe 1|r - <AUbr,DataB1> Schaden, <AUbr,DataG1> Bonusschaden pro getroffener gegnerischer Einheit. |n|cffffcc00Stufe 2|r - <AUbr,DataB2> Schaden, <AUbr,DataG2> Bonusschaden pro getroffener gegnerischer Einheit. |n|cffffcc00Stufe 3|r - <AUbr,DataB3> Schaden, <AUbr,DataG3> Bonusschaden pro getroffener gegnerischer Einheit.|n|cffffcc00Stufe 4|r - <AUbr,DataB4> Schaden, <AUbr,DataG4> Bonusschaden pro getroffener gegnerischer Einheit.|n|cffffcc00Stufe 5|r - <AUbr,DataB5> Schaden, <AUbr,DataG5> Bonusschaden pro getroffener gegnerischer Einheit.",
+      "esES": "Se impulsa hacia un punto seleccionado y, al hacerlo, inflige daño y obtiene daño de ataque adicional por cada enemigo golpeado.|n|n|cffffcc00Nivel 1|r - <AUbr,DataB1> p. de daño, <AUbr,DataG1> p. de daño adicional por cada unidad enemiga golpeada. |n|cffffcc00Nivel 2|r - <AUbr,DataB2> p. de daño, <AUbr,DataG2> p. de daño adicional por cada unidad enemiga golpeada. |n|cffffcc00Nivel 3|r - <AUbr,DataB3> p. de daño, <AUbr,DataG3> p. de daño adicional por cada unidad enemiga golpeada.|n|cffffcc00Nivel 4|r - <AUbr,DataB4> p. de daño, <AUbr,DataG4> p. de daño adicional por cada unidad enemiga golpeada.|n|cffffcc00Nivel 5|r - <AUbr,DataB5> p. de daño, <AUbr,DataG5> p. de daño adicional por cada unidad enemiga golpeada.",
+      "esMX": "Arremete hacia una ubicación objetivo, lo que inflige daño y obtiene daño de ataque adicional por enemigo golpeado.|n|n|cffffcc00Nivel 1|r - <AUbr,DataB1> de daño, <AUbr,DataG1> más de daño por unidad enemiga golpeada. |n|cffffcc00Nivel 2|r - <AUbr,DataB2> de daño, <AUbr,DataG2> más de daño por unidad enemiga golpeada. |n|cffffcc00Nivel 3|r - <AUbr,DataB3> de daño, <AUbr,DataG3> más de daño por unidad enemiga golpeada.|n|cffffcc00Nivel 4|r - <AUbr,DataB4> de daño, <AUbr,DataG4> más de daño por unidad enemiga golpeada.|n|cffffcc00Nivel 5|r - <AUbr,DataB5> de daño, <AUbr,DataG5> más de daño por unidad enemiga golpeada.",
+      "frFR": "Frappe avec célérité l’endroit ciblé, ce qui inflige des dégâts et confère des dégâts d’attaque supplémentaires pour chaque unité ennemie touchée.|n|n|cffffcc00Niveau 1 :|r <AUbr,DataB1> points de dégâts, <AUbr,DataG1> points de dégâts supplémentaires par unité ennemie touchée. |n|cffffcc00Niveau 2 :|r <AUbr,DataB2> points de dégâts, <AUbr,DataG2> points de dégâts supplémentaires par unité ennemie touchée. |n|cffffcc00Niveau 3 :|r <AUbr,DataB3> points de dégâts, <AUbr,DataG3> points de dégâts supplémentaires par unité ennemie touchée.|n|cffffcc00Niveau 4 :|r <AUbr,DataB4> points de dégâts, <AUbr,DataG4> points de dégâts supplémentaires par unité ennemie touchée.|n|cffffcc00Niveau 5 :|r <AUbr,DataB5> points de dégâts, <AUbr,DataG5> points de dégâts supplémentaires par unité ennemie touchée.",
+      "koKR": "대상 지점으로 질주해 피해를 줍니다. 적중한 적당 공격력이 증가합니다.|n|n|cffffcc001레벨|r - <AUbr,DataB1> 피해를 주고, 적중한 적당 공격력이 <AUbr,DataG1> 증가합니다. |n|cffffcc002레벨|r - <AUbr,DataB2> 피해를 주고, 적중한 적당 공격력이 <AUbr,DataG2> 증가합니다. |n|cffffcc003레벨|r - <AUbr,DataB3> 피해를 주고, 적중한 적당 공격력이 <AUbr,DataG3> 증가합니다.|n|cffffcc004레벨|r - <AUbr,DataB4> 피해를 주고, 적중한 적당 공격력이 <AUbr,DataG4> 증가합니다.|n|cffffcc005레벨|r - <AUbr,DataB5> 피해를 주고, 적중한 적당 공격력이 <AUbr,DataG5> 증가합니다.",
+      "plPL": "Pędzi w kierunku wybranego punktu, zadając obrażenia i zyskując dodatkowe obrażenia od ataku za każdego trafionego wroga.|n|n|cffffcc00Poziom 1|r – <AUbr,DataB1> pkt. obrażeń, <AUbr,DataG1> pkt. dodatkowych obrażeń za każdą trafioną jednostkę wroga.|n|cffffcc00Poziom 2|r – <AUbr,DataB2> pkt. obrażeń, <AUbr,DataG2> pkt. dodatkowych obrażeń za każdą trafioną jednostkę wroga.|n|cffffcc00Poziom 3|r – <AUbr,DataB3> pkt. obrażeń, <AUbr,DataG3> pkt. dodatkowych obrażeń za każdą trafioną jednostkę wroga.|n|cffffcc00Poziom 4|r – <AUbr,DataB4> pkt. obrażeń, <AUbr,DataG4> pkt. dodatkowych obrażeń za każdą trafioną jednostkę wroga.|n|cffffcc00Poziom 5|r – <AUbr,DataB5> pkt. obrażeń, <AUbr,DataG5> pkt. dodatkowych obrażeń za każdą trafioną jednostkę wroga.",
+      "ptBR": "Avança na direção de um ponto selecionado, causando dano e recebendo bônus de dano de ataque por inimigo atingido.|n|n|cffffcc00Nível 1|r - <AUbr,DataB1> de dano, <AUbr,DataG1> de bônus de dano por unidade inimiga atingida. |n|cffffcc00Nível 2|r - <AUbr,DataB2> de dano, <AUbr,DataG2> de bônus de dano por unidade inimiga atingida. |n|cffffcc00Nível 3|r - <AUbr,DataB3> de dano, <AUbr,DataG3> de bônus de dano por unidade inimiga atingida.|n|cffffcc00Nível 4|r - <AUbr,DataB4> de dano, <AUbr,DataG4> de bônus de dano por unidade inimiga atingida. |n|cffffcc00Nível 5|r - <AUbr,DataB5> de dano, <AUbr,DataG5> de bônus de dano por unidade inimiga atingida.",
+      "ruRU": "Устремляется в указанную точку, нанося урон и дополнительный урон за каждую пораженную цель.|n|n|cffffcc001-й уровень:|r <AUbr,DataB1> урона, <AUbr,DataG1> дополнительного урона за каждую пораженную цель. |n|cffffcc002-й уровень:|r <AUbr,DataB2> урона, <AUbr,DataG2> дополнительного урона за каждую пораженную цель. |n|cffffcc003-й уровень:|r <AUbr,DataB3> урона, <AUbr,DataG3> дополнительного урона за каждую пораженную цель.|n|cffffcc004-й уровень:|r <AUbr,DataB4> урона, <AUbr,DataG4> дополнительного урона за каждую пораженную цель.|n|cffffcc005-й уровень:|r <AUbr,DataB5> урона, <AUbr,DataG5> дополнительного урона за каждую пораженную цель."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNbatteringram.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "16",
+    "Cost1": "70",
+    "Area1": "150",
+    "Rng1": "650",
+    "DataA1": "1000",
+    "DataB1": "100",
+    "DataG1": "3",
+    "DataH1": "7",
+    "DataI1": "1",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "16",
+    "Cost2": "70",
+    "Area2": "150",
+    "Rng2": "650",
+    "DataA2": "1000",
+    "DataB2": "125",
+    "DataG2": "6",
+    "DataH2": "7",
+    "DataI2": "1",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "16",
+    "Cost3": "70",
+    "Area3": "150",
+    "Rng3": "650",
+    "DataA3": "1000",
+    "DataB3": "150",
+    "DataG3": "9",
+    "DataH3": "7",
+    "DataI3": "1",
+    "Dur4": "0",
+    "HeroDur4": "0",
+    "Cool4": "16",
+    "Cost4": "70",
+    "Area4": "150",
+    "Rng4": "650",
+    "DataA4": "1000",
+    "DataB4": "175",
+    "DataF4": "0",
+    "DataG4": "12",
+    "DataH4": "7",
+    "DataI4": "1",
+    "Dur5": "0",
+    "HeroDur5": "0",
+    "Cool5": "16",
+    "Cost5": "70",
+    "Area5": "150",
+    "Rng5": "650",
+    "DataA5": "1000",
+    "DataB5": "200",
+    "DataF5": "0",
+    "DataG5": "15",
+    "DataH5": "7",
+    "DataI5": "1"
+   }
+  },
+  {
+   "id": "BUbr",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUbr",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Battering Ram"
+      ],
+      "deDE": [
+       "Rammbock"
+      ],
+      "esES": [
+       "Ariete"
+      ],
+      "esMX": [
+       "Ariete"
+      ],
+      "frFR": [
+       "Bélier"
+      ],
+      "koKR": [
+       "공성추"
+      ],
+      "plPL": [
+       "Taran"
+      ],
+      "ruRU": [
+       "Таран"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has increased damage."
+      ],
+      "deDE": [
+       "Diese Einheit verursacht erhöhten Schaden."
+      ],
+      "esES": [
+       "El daño de esta unidad ha aumentado."
+      ],
+      "esMX": [
+       "Esta unidad inflige más daño."
+      ],
+      "frFR": [
+       "Cette unité bénéficie d’une augmentation des dégâts d’attaque."
+      ],
+      "koKR": [
+       "공격력이 증가합니다."
+      ],
+      "plPL": [
+       "Ta jednostka zadaje zwiększone obrażenia."
+      ],
+      "ptBR": [
+       "Esta unidade tem dano aumentado."
+      ],
+      "ruRU": [
+       "Урон цели увеличен."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AUvg",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Grim Conviction",
+      "deDE": "Grimmige Überzeugung",
+      "esES": "Convicción nefasta",
+      "esMX": "Convicción lúgubre",
+      "frFR": "Conviction farouche",
+      "koKR": "음울한 선고",
+      "plPL": "Mroczna Determinacja",
+      "ptBR": "Convicção Sombria",
+      "ruRU": "Непреклонность"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Grim Conviction - [|cffffcc00Level 1|r]",
+       "Grim Conviction - [|cffffcc00Level 2|r]",
+       "Grim Conviction - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Grimmige Überzeugung [|cffffcc00Stufe 1|r]",
+       "Grimmige Überzeugung [|cffffcc00Stufe 2|r]",
+       "Grimmige Überzeugung [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Convicción nefasta - [|cffffcc00Nivel 1|r]",
+       "Convicción nefasta - [|cffffcc00Nivel 2|r]",
+       "Convicción nefasta - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Convicción lúgubre - [|cffffcc00Nivel 1|r]",
+       "Convicción lúgubre - [|cffffcc00Nivel 2|r]",
+       "Convicción lúgubre - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Conviction farouche de |cffffcc00niveau 1|r",
+       "Conviction farouche de |cffffcc00niveau 2|r",
+       "Conviction farouche de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "음울한 선고 - [|cffffcc001레벨|r]",
+       "음울한 선고 - [|cffffcc002레벨|r]",
+       "음울한 선고 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Mroczna Determinacja – [|cffffcc00poziom 1|r]",
+       "Mroczna Determinacja – [|cffffcc00poziom 2|r]",
+       "Mroczna Determinacja – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Convicção Sombria - [|cffffcc00Nível 1|r]",
+       "Convicção Sombria - [|cffffcc00Nível 2|r]",
+       "Convicção Sombria - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Непреклонность [|cffffcc001-й уровень|r]",
+       "Непреклонность [|cffffcc002-й уровень|r]",
+       "Непреклонность [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Garek draws upon his inner strength, sacrificing <AUvg,DataA1>% of his current hit points to gain <AUvg,DataB1> bonus Strength, <AUvg,DataC1>% bonus Resolve, and <AUvg,DataD1>% Lifesteal.|nLasts <AUvg,Dur1> seconds.",
+       "Garek draws upon his inner strength, sacrificing <AUvg,DataA2>% of his current hit points to gain <AUvg,DataB2> bonus Strength, <AUvg,DataC2>% bonus Resolve, and <AUvg,DataD2>% Lifesteal.|nLasts <AUvg,Dur2> seconds.",
+       "Garek draws upon his inner strength, sacrificing <AUvg,DataA3>% of his current hit points to gain <AUvg,DataB3> bonus Strength, <AUvg,DataC3>% bonus Resolve, and <AUvg,DataD3>% Lifesteal.|nLasts <AUvg,Dur3> seconds.",
+       ""
+      ],
+      "deDE": [
+       "Garek schöpft aus seiner inneren Stärke und opfert <AUvg,DataA1> % seiner aktuellen Trefferpunkte, um zusätzlich <AUvg,DataB1> Stärke, <AUvg,DataC1> % Entschlossenheit und <AUvg,DataD1> % Lebensdiebstahl zu erhalten.|nBleibt <AUvg,Dur1> Sek. lang bestehen.",
+       "Garek schöpft aus seiner inneren Stärke und opfert <AUvg,DataA2> % seiner aktuellen Trefferpunkte, um zusätzlich <AUvg,DataB2> Stärke, <AUvg,DataC2> % Entschlossenheit und <AUvg,DataD2> % Lebensdiebstahl zu erhalten.|nBleibt <AUvg,Dur2> Sek. lang bestehen.",
+       "Garek schöpft aus seiner inneren Stärke und opfert <AUvg,DataA3> % seiner aktuellen Trefferpunkte, um zusätzlich <AUvg,DataB3> Stärke, <AUvg,DataC3> % Entschlossenheit und <AUvg,DataD3> % Lebensdiebstahl zu erhalten.|nBleibt <AUvg,Dur3> Sek. lang bestehen."
+      ],
+      "esES": [
+       "Garek recurre a su fuerza interior y sacrifica un <AUvg,DataA1>% de sus puntos de vida actuales para obtener <AUvg,DataB1> p. de fuerza, un <AUvg,DataC1>% de determinación adicional y un <AUvg,DataD1>% de robo de vida.|nDura <AUvg,Dur1> s.",
+       "Garek recurre a su fuerza interior y sacrifica un <AUvg,DataA2>% de sus puntos de vida actuales para obtener <AUvg,DataB2> p. de fuerza, un <AUvg,DataC2>% de determinación adicional y un <AUvg,DataD2>% de robo de vida.|nDura <AUvg,Dur2> s.",
+       "Garek recurre a su fuerza interior y sacrifica un <AUvg,DataA3>% de sus puntos de vida actuales para obtener <AUvg,DataB3> p. de fuerza, un <AUvg,DataC3>% de determinación adicional y un <AUvg,DataD3>% de robo de vida.|nDura <AUvg,Dur3> s."
+      ],
+      "esMX": [
+       "Garek recurre a su fuerza interior, lo que hace que sacrifique un <AUvg,DataA1>% de su salud actual para obtener <AUvg,DataB1> más de fuerza, un <AUvg,DataC1>% más de determinación y un <AUvg,DataD1>% de Robavida.|nDura <AUvg,Dur1> segundos.",
+       "Garek recurre a su fuerza interior, lo que hace que sacrifique un <AUvg,DataA2>% de su salud actual para obtener <AUvg,DataB2> más de fuerza, un <AUvg,DataC2>% más de determinación y un <AUvg,DataD2>% de Robavida.|nDura <AUvg,Dur2> segundos.",
+       "Garek recurre a su fuerza interior, lo que hace que sacrifique un <AUvg,DataA3>% de su salud actual para obtener <AUvg,DataB3> más de fuerza, un <AUvg,DataC3>% más de determinación y un <AUvg,DataD3>% de Robavida.|nDura <AUvg,Dur3> segundos."
+      ],
+      "frFR": [
+       "Garek puise dans sa force intérieure, sacrifiant <AUvg,DataA1> % de ses points de vie pour obtenir un bonus de <AUvg,DataB1> à la Force et <AUvg,DataC1> % de Détermination supplémentaires, ainsi que <AUvg,DataD1> % de Vol de vie.|nDure <AUvg,Dur1> secondes.",
+       "Garek puise dans sa force intérieure, sacrifiant <AUvg,DataA2> % de ses points de vie pour obtenir un bonus de <AUvg,DataB2> à la Force et <AUvg,DataC2> % de Détermination supplémentaires, ainsi que <AUvg,DataD2> % de Vol de vie.|nDure <AUvg,Dur2> secondes.",
+       "Garek puise dans sa force intérieure, sacrifiant <AUvg,DataA3> % de ses points de vie pour obtenir un bonus de <AUvg,DataB3> à la Force et <AUvg,DataC3> % de Détermination supplémentaires, ainsi que <AUvg,DataD3> % de Vol de vie.|nDure <AUvg,Dur3> secondes."
+      ],
+      "koKR": [
+       "가렉이 내면의 힘을 끌어모아, 현재 생명력의 <AUvg,DataA1>%를 희생해 추가 힘 <AUvg,DataB1>, 추가 결의 <AUvg,DataC1>%, 생명력 흡수 <AUvg,DataD1>%를 얻습니다.|n<AUvg,Dur1>초 동안 지속됩니다.",
+       "가렉이 내면의 힘을 끌어모아, 현재 생명력의 <AUvg,DataA2>%를 희생해 추가 힘 <AUvg,DataB2>, 추가 결의 <AUvg,DataC2>%, 생명력 흡수 <AUvg,DataD2>%를 얻습니다.|n<AUvg,Dur2>초 동안 지속됩니다.",
+       "가렉이 내면의 힘을 끌어모아, 현재 생명력의 <AUvg,DataA3>%를 희생해 추가 힘 <AUvg,DataB3>, 추가 결의 <AUvg,DataC3>%, 생명력 흡수 <AUvg,DataD3>%를 얻습니다.|n<AUvg,Dur3>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Garek uwalnia swą wewnętrzną moc i poświęca <AUvg,DataA1>% swoich bieżących punktów zdrowia, by zyskać <AUvg,DataB1> pkt. siły, <AUvg,DataC1>% premii do determinacji oraz <AUvg,DataD1>% kradzieży życia.|nCzas działania: <AUvg,Dur1> sek.",
+       "Garek uwalnia swą wewnętrzną moc i poświęca <AUvg,DataA2>% swoich bieżących punktów zdrowia, by zyskać <AUvg,DataB2> pkt. siły, <AUvg,DataC2>% premii do determinacji oraz <AUvg,DataD2>% kradzieży życia.|nCzas działania: <AUvg,Dur2> sek.",
+       "Garek uwalnia swą wewnętrzną moc i poświęca <AUvg,DataA3>% swoich bieżących punktów zdrowia, by zyskać <AUvg,DataB3> pkt. siły, <AUvg,DataC3>% premii do determinacji oraz <AUvg,DataD3>% kradzieży życia.|nCzas działania: <AUvg,Dur3> sek."
+      ],
+      "ptBR": [
+       "Garek usa sua força interior, sacrificando <AUvg,DataA1>% de seus pontos de vida atuais para receber <AUvg,DataB1> de bônus de Força, <AUvg,DataC1>% de bônus de Determinação e <AUvg,DataD1>% de Roubar Vida.|nDura <AUvg,Dur1> segundos.",
+       "Garek usa sua força interior, sacrificando <AUvg,DataA2>% de seus pontos de vida atuais para receber <AUvg,DataB2> de bônus de Força, <AUvg,DataC2>% de bônus de Determinação e <AUvg,DataD2>% de Roubar Vida.|nDura <AUvg,Dur2> segundos.",
+       "Garek usa sua força interior, sacrificando <AUvg,DataA3>% de seus pontos de vida atuais para receber <AUvg,DataB3> de bônus de Força, <AUvg,DataC3>% de bônus de Determinação e <AUvg,DataD3>% de Roubar Vida.|nDura <AUvg,Dur3> segundos."
+      ],
+      "ruRU": [
+       "Гарек пробуждает свой внутренний потенциал, жертвуя <AUvg,DataA1>% текущего здоровья, чтобы увеличить силу на <AUvg,DataB1>, решимость на <AUvg,DataC1>% и похищение жизни на <AUvg,DataD1>%.|nВремя действия: <AUvg,Dur1> сек.",
+       "Гарек пробуждает свой внутренний потенциал, жертвуя <AUvg,DataA2>% текущего здоровья, чтобы увеличить силу на <AUvg,DataB2>, решимость на <AUvg,DataC2>% и похищение жизни на <AUvg,DataD2>%.|nВремя действия: <AUvg,Dur2> сек.",
+       "Гарек пробуждает свой внутренний потенциал, жертвуя <AUvg,DataA3>% текущего здоровья, чтобы увеличить силу на <AUvg,DataB3>, решимость на <AUvg,DataC3>% и похищение жизни на <AUvg,DataD3>%.|nВремя действия: <AUvg,Dur3> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Grim Conviction - [|cffffcc00Level %d|r]",
+      "deDE": "Grimmige Überzeugung [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Convicción nefasta - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Convicción lúgubre - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Conviction farouche de |cffffcc00niveau %d|r",
+      "koKR": "음울한 선고 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Mrocznej Determinacji – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Convicção Sombria - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Непреклонность» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Garek draws upon his inner strength, sacrificing hit points to gain bonus Strength, Resolve, and Lifesteal. |n|n|cffffcc00Level 1|r - Costs <AUvg,DataA1>% hit points; gain <AUvg,DataB1> Strength, <AUvg,DataC1>% Resolve, <AUvg,DataD1>% Lifesteal for <AUvg,Dur1> seconds. |n|cffffcc00Level 2|r - Costs <AUvg,DataA2>% hit points; gain <AUvg,DataB2> Strength, <AUvg,DataC2>% Resolve, <AUvg,DataD2>% Lifesteal for <AUvg,Dur2> seconds. |n|cffffcc00Level 3|r - Costs <AUvg,DataA3>% hit points; gain <AUvg,DataB3> Strength, <AUvg,DataC3>% Resolve, <AUvg,DataD3>% Lifesteal for <AUvg,Dur3> seconds.",
+      "deDE": "Garek schöpft aus seiner inneren Stärke und opfert Trefferpunkte, um zusätzlich Stärke, Entschlossenheit und Lebensdiebstahl zu erhalten. |n|n|cffffcc00Stufe 1|r - Kostet <AUvg,DataA1> % Trefferpunkte; gewährt <AUvg,Dur1> Sek. lang <AUvg,DataB1> Stärke, <AUvg,DataC1> % Entschlossenheit und <AUvg,DataD1> % Lebensdiebstahl. |n|cffffcc00Stufe 2|r - Kostet <AUvg,DataA2> % Trefferpunkte; gewährt <AUvg,Dur2> Sek. lang <AUvg,DataB2> Stärke, <AUvg,DataC2> % Entschlossenheit und <AUvg,DataD2> % Lebensdiebstahl. |n|cffffcc00Stufe 3|r - Kostet <AUvg,DataA3> % Trefferpunkte; gewährt <AUvg,Dur3> Sek. lang <AUvg,DataB3> Stärke, <AUvg,DataC3> % Entschlossenheit und <AUvg,DataD3> % Lebensdiebstahl.",
+      "esES": "Garek recurre a su fuerza interior y sacrifica puntos de vida para obtener más fuerza, determinación y robo de vida. |n|n|cffffcc00Nivel 1|r - Consume un <AUvg,DataA1>% de sus puntos de vida; obtiene <AUvg,DataB1> p. de fuerza, un <AUvg,DataC1>% de determinación y un <AUvg,DataD1>% de robo de vida durante <AUvg,Dur1> s. |n|cffffcc00Nivel 2|r - Consume un <AUvg,DataA2>% de sus puntos de vida; obtiene <AUvg,DataB2> p. de fuerza, <AUvg,DataC2>% de determinación y un <AUvg,DataD2>% de robo de vida durante <AUvg,Dur2> s. |n|cffffcc00Nivel 3|r - Consume un <AUvg,DataA3>% de sus puntos de vida; obtiene <AUvg,DataB3> p. de fuerza, <AUvg,DataC3>% de determinación y un <AUvg,DataD3>% de robo de vida durante <AUvg,Dur3> s.",
+      "esMX": "Garek recurre a su fuerza interior, lo que hace que sacrifique salud para obtener más fuerza, determinación y Robavida. |n|n|cffffcc00Nivel 1|r - Cuesta un <AUvg,DataA1>% de salud; obtiene <AUvg,DataB1> de fuerza, un <AUvg,DataC1>% de determinación y un <AUvg,DataD1>% de Robavida durante <AUvg,Dur1> segundos. |n|cffffcc00Nivel 2|r - Cuesta un <AUvg,DataA2>% de salud; obtiene <AUvg,DataB2> de fuerza, un <AUvg,DataC2>% de determinación y un <AUvg,DataD2>% de Robavida durante <AUvg,Dur2> segundos. |n|cffffcc00Nivel 3|r - Cuesta un <AUvg,DataA3>% de salud; obtiene <AUvg,DataB3> de fuerza, un <AUvg,DataC3>% de determinación y un <AUvg,DataD3>% de Robavida durante <AUvg,Dur3> segundos.",
+      "frFR": "Garek puise dans sa force intérieure, sacrifiant des points de vie pour obtenir un bonus à la Force et à la Détermination, ainsi que Vol de vie. |n|n|cffffcc00Niveau 1 :|r coûte <AUvg,DataA1> % de points de vie ; confère <AUvg,DataB1> points de Force, <AUvg,DataC1> % de Détermination, <AUvg,DataD1> % de Vol de vie pendant <AUvg,Dur1> secondes. |n|cffffcc00Niveau 2 :|r coûte <AUvg,DataA2> % de points de vie ; confère <AUvg,DataB2> points de Force, <AUvg,DataC2> % de Détermination, <AUvg,DataD2> % de Vol de vie pendant <AUvg,Dur2> secondes. |n|cffffcc00Niveau 3 :|r coûte <AUvg,DataA3> % de points de vie ; confère <AUvg,DataB3> points de Force, <AUvg,DataC3> % de Détermination, <AUvg,DataD3> % de Vol de vie pendant <AUvg,Dur3> secondes.",
+      "koKR": "가렉이 내면의 힘을 끌어모아, 생명력을 희생하여 추가 힘, 결의, 주문 흡혈, 생명력 흡수를 얻습니다. |n|n|cffffcc001레벨|r - 생명력 <AUvg,DataA1>%를 희생하여 <AUvg,Dur1>초 동안 힘 <AUvg,DataB1>, 결의 <AUvg,DataC1>%, 생명력 흡수 <AUvg,DataD1>%를 얻습니다. |n|cffffcc002레벨|r - 생명력 <AUvg,DataA2>%를 희생하여 <AUvg,Dur2>초 동안 힘 <AUvg,DataB2>, 결의 <AUvg,DataC2>%, 생명력 흡수 <AUvg,DataD2>%를 얻습니다. |n|cffffcc003레벨|r - 생명력 <AUvg,DataA3>%를 희생하여 <AUvg,Dur3>초 동안 힘 <AUvg,DataB3>, 결의 <AUvg,DataC3>%, 생명력 흡수 <AUvg,DataD3>%를 얻습니다.",
+      "plPL": "Garek uwalnia swą wewnętrzną moc i poświęca punkty zdrowia, by zyskać premię do siły, determinacji i kradzieży życia.|n|n|cffffcc00Poziom 1|r – Kosztuje <AUvg,DataA1>% pkt. zdrowia; zapewnia <AUvg,DataB1> pkt. siły, <AUvg,DataC1>% determinacji i <AUvg,DataD1>% kradzieży życia na <AUvg,Dur1> sek.|n|cffffcc00Poziom 2|r – Kosztuje <AUvg,DataA2>% pkt. zdrowia; zapewnia <AUvg,DataB2> pkt. siły, <AUvg,DataC2>% determinacji i <AUvg,DataD2>% kradzieży życia na <AUvg,Dur2> sek.|n|cffffcc00Poziom 3|r – Kosztuje <AUvg,DataA3>% pkt. zdrowia; zapewnia <AUvg,DataB3> pkt. siły, <AUvg,DataC3>% determinacji i <AUvg,DataD3>% kradzieży życia na <AUvg,Dur3> sek.",
+      "ptBR": "Garek usa sua força interior, sacrificando pontos de vida para receber bônus de Força, Determinação e Roubar Vida. |n|n|cffffcc00Nível 1|r - Custo de <AUvg,DataA1>% de pontos de vida; recebe <AUvg,DataB1> de Força, <AUvg,DataC1>% de Determinação, <AUvg,DataD1>% de Roubar Vida por <AUvg,Dur1> segundos. |n|cffffcc00Nível 2|r - Custo de <AUvg,DataA2>% de pontos de vida; recebe <AUvg,DataB2> de Força, <AUvg,DataC2>% de Determinação, <AUvg,DataD2>% de Roubar Vida por <AUvg,Dur2> segundos. |n|cffffcc00Nível 3|r - Custo de <AUvg,DataA3>% de pontos de vida; recebe <AUvg,DataB3> de Força, <AUvg,DataC3>% de Determinação, <AUvg,DataD3>% de Roubar Vida por <AUvg,Dur3> segundos.",
+      "ruRU": "Гарек пробуждает свой внутренний потенциал, жертвуя здоровьем, чтобы увеличить силу, решимость и похищение жизни. |n|n|cffffcc001-й уровень:|r теряет <AUvg,DataA1>% здоровья; получает <AUvg,DataB1> силы, <AUvg,DataC1>% решимости, <AUvg,DataD1>% похищения жизни на <AUvg,Dur1> сек. |n|cffffcc002-й уровень:|r теряет <AUvg,DataA2>% здоровья; получает <AUvg,DataB2> силы, <AUvg,DataC2>% решимости, <AUvg,DataD2>% похищения жизни на <AUvg,Dur2> сек. |n|cffffcc003-й уровень:|r теряет <AUvg,DataA3>% здоровья; получает <AUvg,DataB3> силы, <AUvg,DataC3>% решимости, <AUvg,DataD3>% похищения жизни на <AUvg,Dur3> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNVengeance.blp",
+   "data": {
+    "Dur1": "20",
+    "HeroDur1": "20",
+    "Cool1": "180",
+    "Cost1": "100",
+    "Rng1": "0",
+    "DataA1": "35",
+    "DataB1": "15",
+    "DataC1": "25",
+    "DataD1": "25",
+    "DataE1": "0",
+    "DataF1": "0",
+    "Dur2": "20",
+    "HeroDur2": "20",
+    "Cool2": "180",
+    "Cost2": "100",
+    "Rng2": "0",
+    "DataA2": "35",
+    "DataB2": "25",
+    "DataC2": "30",
+    "DataD2": "30",
+    "DataE2": "0",
+    "DataF2": "0",
+    "Dur3": "20",
+    "HeroDur3": "20",
+    "Cool3": "180",
+    "Cost3": "100",
+    "Area3": "200",
+    "Rng3": "0",
+    "DataA3": "35",
+    "DataB3": "35",
+    "DataC3": "35",
+    "DataD3": "35",
+    "DataE3": "0",
+    "DataF3": "0"
+   }
+  },
+  {
+   "id": "BUvg",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUvg",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Grim Conviction"
+      ],
+      "deDE": [
+       "Grimmige Überzeugung"
+      ],
+      "esES": [
+       "Convicción nefasta"
+      ],
+      "esMX": [
+       "Convicción lúgubre"
+      ],
+      "frFR": [
+       "Conviction farouche"
+      ],
+      "koKR": [
+       "음울한 선고"
+      ],
+      "plPL": [
+       "Mroczna Determinacja"
+      ],
+      "ruRU": [
+       "Непреклонность"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit has found their conviction; it has bonus stats."
+      ],
+      "deDE": [
+       "Die Einheit hat zu ihrer Überzeugung gefunden; ihre Werte sind erhöht."
+      ],
+      "esES": [
+       "Esta unidad ha hallado la convicción: tiene estadísticas mejoradas."
+      ],
+      "esMX": [
+       "Esta unidad encontró su convicción; tiene estadísticas adicionales."
+      ],
+      "frFR": [
+       "Cette unité a une conviction inébranlable. Elle bénéficie d’un bonus de statistiques."
+      ],
+      "koKR": [
+       "선고를 받아 능력치가 증가합니다."
+      ],
+      "plPL": [
+       "Ta jednostka odnalazła swoją determinację i otrzymała dodatkowe premie do statystyk."
+      ],
+      "ptBR": [
+       "Esta unidade encontrou sua convicção. Ela tem atributos adicionais."
+      ],
+      "ruRU": [
+       "Цель нашла в себе скрытые силы. Характеристики увеличены."
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "Aaml",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Attribute Bonus",
+      "deDE": "Erhöhte Attribute",
+      "esES": "Bonificación de atributo",
+      "esMX": "Bonificación de atributo",
+      "frFR": "Bonus aux caractéristiques",
+      "koKR": "능력치 보너스",
+      "plPL": "Premia do Współczynnika",
+      "ptBR": "Bônus de atributo",
+      "ruRU": "Повышение характеристик"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Attribute Bonus - [|cffffcc00Level 1|r]",
+       "Attribute Bonus - [|cffffcc00Level 2|r]"
+      ],
+      "deDE": [
+       "Erhöhte Attribute [|cffffcc00Stufe 1|r]",
+       "Erhöhte Attribute [|cffffcc00Stufe 2|r]"
+      ],
+      "esES": [
+       "Bonificación de atributo - [|cffffcc00Nivel 1|r]",
+       "Bonificación de atributo - [|cffffcc00Nivel 2|r]"
+      ],
+      "esMX": [
+       "Bonificación de atributo - [|cffffcc00Nivel 1|r]",
+       "Bonificación de atributo - [|cffffcc00Nivel 2|r]"
+      ],
+      "frFR": [
+       "Bonus aux caractéristiques de |cffffcc00niveau 1|r",
+       "Bonus aux caractéristiques de |cffffcc00niveau 2|r"
+      ],
+      "koKR": [
+       "능력치 보너스 - [|cffffcc001레벨|r]",
+       "능력치 보너스 - [|cffffcc002레벨|r]"
+      ],
+      "plPL": [
+       "Premia do Współczynnika – [|cffffcc00Poziom 1|r]",
+       "Premia do Współczynnika – [|cffffcc00Poziom 2|r]"
+      ],
+      "ptBR": [
+       "Bônus de Atributo - [|cffffcc00Nível 1|r]",
+       "Bônus de Atributo - [|cffffcc00Nível 2|r]"
+      ],
+      "ruRU": [
+       "Повышение характеристик [|cffffcc001-й уровень|r]",
+       "Повышение характеристик [|cffffcc002-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Gives a total of <Aaml,DataA1> points to Agility, Intelligence, and Strength",
+       "Gives a total of <Aaml,DataA2> points to Agility, Intelligence, and Strength"
+      ],
+      "deDE": [
+       "Erhöht die Beweglichkeit, Stärke und Intelligenz um insgesamt <Aaml,DataA1>.",
+       "Erhöht die Beweglichkeit, Stärke und Intelligenz um insgesamt <Aaml,DataA2>."
+      ],
+      "esES": [
+       "Otorga un total de <Aaml,DataA1> p. de agilidad, inteligencia y fuerza.",
+       "Otorga un total de <Aaml,DataA2> p. de agilidad, inteligencia y fuerza."
+      ],
+      "esMX": [
+       "Otorga un total de <Aaml,DataA1> puntos de agilidad, intelecto y fuerza",
+       "Otorga un total de <Aaml,DataA2> puntos de agilidad, intelecto y fuerza"
+      ],
+      "frFR": [
+       "Confère un total de <Aaml,DataA1> points à l’Agilité, l’Intelligence et la Force.",
+       "Confère un total de <Aaml,DataA2> points à l’Agilité, l’Intelligence et la Force."
+      ],
+      "koKR": [
+       "민첩성, 지능, 힘이 각각 <Aaml,DataA1> 증가합니다.",
+       "민첩성, 지능, 힘이 각각 <Aaml,DataA2> 증가합니다."
+      ],
+      "plPL": [
+       "Dodaje po <Aaml,DataA1> pkt. do zwinności, inteligencji i siły.",
+       "Dodaje po <Aaml,DataA2> pkt. do zwinności, inteligencji i siły."
+      ],
+      "ptBR": [
+       "Adiciona um total de <Aaml,DataA1> pontos aos atributos Agilidade, Inteligência e Força",
+       "Adiciona um total de <Aaml,DataA2> pontos aos atributos Agilidade, Inteligência e Força"
+      ],
+      "ruRU": [
+       "+<Aaml,DataA1> к силе, ловкости и интеллекту.",
+       "+<Aaml,DataA2> к силе, ловкости и интеллекту."
+      ]
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Attribute Bonus - [|cffffcc00Level %d|r].",
+      "deDE": "Erhöhte Attribute [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Bonificación de atributo - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Bonificación de atributo - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre un bonus aux caractéristiques de |cffffcc00niveau %d|r.",
+      "koKR": "능력치 보너스 배우기 - [|cffffcc00%d레벨|r].",
+      "plPL": "Nauka Premii do Współczynnika – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Bônus de Atributo - [|cffffcc00Nível %d|r].",
+      "ruRU": "Изучить повышение характеристик [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "\"Gives a permanent bonus to Agility, Intelligence, and Strength. |n|n|cffffcc00Level 1|r - Grants <Aaml,DataA1> points to all stats.|n|cffffcc00Level 2|r - Grants an additional <Aaml,DataA1> points to all stats.",
+      "deDE": "Erhöht die Beweglichkeit, Stärke und Intelligenz dauerhaft.|n|n|cffffcc00Stufe 1|r - Erhöht alle Werte um <Aaml,DataA1>.|n|cffffcc00Stufe 2|r - Erhöht alle Werte zusätzlich um <Aaml,DataA1>.",
+      "esES": "Otorga una bonificación permanente de agilidad, inteligencia y fuerza. |n|n|cffffcc00Nivel 1|r: otorga <Aaml,DataA1> p. a todas las estadísticas.|n|cffffcc00Nivel 2|r: otorga <Aaml,DataA1> p. adicionales.",
+      "esMX": "Otorga una bonificación permanente de agilidad, intelecto y fuerza. |n|n|cffffcc00Nivel 1|r: otorga <Aaml,DataA1> puntos a todos los atributos.|n|cffffcc00Nivel 2|r: otorga <Aaml,DataA1> puntos adicionales a todos los atributos.",
+      "frFR": "Augmente de manière permanente l’Agilité, l’Intelligence et la Force. |n|n|cffffcc00Niveau 1 :|r augmente toutes les caractéristiques de <Aaml,DataA1> points.|n|cffffcc00Niveau 2 :|r confère <Aaml,DataA1> points supplémentaires à toutes les caractéristiques.",
+      "koKR": "민첩성, 지능, 힘이 영구적으로 증가합니다. |n|n|cffffcc001레벨|r - 모든 능력치가 <Aaml,DataA1>씩 증가합니다.|n|cffffcc002레벨|r - 모든 능력치가 <Aaml,DataA1>씩 더 증가합니다.",
+      "plPL": "Przyznaje trwałą premię do zwinności, inteligencji i siły.|n|n|cffffcc00Poziom 1|r – <Aaml,DataA1> pkt. premii do wszystkich współczynników.|n|cffffcc00Poziom 2|r – kolejne <Aaml,DataA1> pkt. premii do wszystkich współczynników.",
+      "ptBR": "Concede um bônus permanente de Agilidade, Inteligência e Força. |n|n|cffffcc00Nível 1|r - Concede <Aaml,DataA1> pontos a todos os atributos.|n|cffffcc00Nível 2|r - Concede mais <Aaml,DataA1> pontos a todos os atributos.",
+      "ruRU": "Повышает ловкость, интеллект и силу. |n|n|cffffcc001-й уровень:|r +<Aaml,DataA1> к каждой характеристике.|n|cffffcc002-й уровень:|r еще +<Aaml,DataA1> к каждой характеристике."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "F",
+      "deDE": "F",
+      "esES": "F",
+      "esMX": "F",
+      "frFR": "F",
+      "koKR": "F",
+      "plPL": "F",
+      "ptBR": "F",
+      "ruRU": "F"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\PassiveButtons\\PASBTNStatUp.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": "0",
+    "DataA1": "5",
+    "DataB1": "5",
+    "DataC1": "5",
+    "DataD1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0",
+    "Cost2": "0",
+    "DataA2": "10",
+    "DataB2": "10",
+    "DataC2": "10",
+    "DataD2": "0",
+    "Dur4": "0",
+    "HeroDur4": "0",
+    "Cool4": "0",
+    "Cost4": "0",
+    "DataA4": "12",
+    "DataB4": "12",
+    "DataC4": "12",
+    "DataD4": "0"
+   }
+  }
+ ],
+ "install": "Loose files replace whole string files: put the translated CampaignAbilityStrings.txt and CampaignUnitStrings.txt (all original sections + these) into _retail_\\_Units (installed Ukrainian base-game localization uses this folder; its files have no Forsaken Kingdom sections yet)."
+}

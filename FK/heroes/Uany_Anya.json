@@ -1,0 +1,1733 @@
+{
+ "unit": "Uany",
+ "name": "Anya",
+ "title": "Dark Ranger",
+ "sections": [
+  {
+   "id": "Uany",
+   "kind": "unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Dark Ranger",
+      "deDE": "Dunkle Waldläuferin",
+      "esES": "Forestal oscura",
+      "esMX": "Forestal oscura",
+      "frFR": "Forestière-sombre",
+      "koKR": "어둠 순찰자",
+      "plPL": "Mroczna Tropicielka",
+      "ptBR": "Patrulheira Sombria",
+      "ruRU": "Темный следопыт"
+     }
+    },
+    {
+     "key": "Propernames",
+     "per_level": false,
+     "values": {
+      "enUS": "Anya",
+      "deDE": "Anya",
+      "esES": "Anya",
+      "esMX": "Anya",
+      "frFR": "Anya",
+      "koKR": "안야",
+      "plPL": "Anya",
+      "ptBR": "Anya",
+      "ruRU": "Ания"
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "D",
+      "deDE": "D",
+      "esES": "D",
+      "esMX": "D",
+      "frFR": "F",
+      "koKR": "D",
+      "plPL": "D",
+      "ptBR": "D",
+      "ruRU": "D"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": false,
+     "values": {
+      "enUS": "Summon Dark Ranger",
+      "deDE": "Dunkle Waldläuferin beschwören",
+      "esES": "Invocar a la forestal oscura",
+      "esMX": "Invocar Forestal oscura",
+      "frFR": "Invoquer une Forestière-sombre",
+      "koKR": "어둠 순찰자 소환",
+      "plPL": "Przywołanie Mrocznej Tropicielki",
+      "ptBR": "Evocar Patrulheira Sombria",
+      "ruRU": "Призвать темного следопыта"
+     }
+    },
+    {
+     "key": "Revivetip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Dark Ranger",
+      "deDE": "Dunkle Waldläuferin wiederbeleben",
+      "esES": "Revivir a la forestal oscura",
+      "esMX": "Revivir Forestal oscura",
+      "frFR": "Ressusciter la Forestière-sombre",
+      "koKR": "어둠 순찰자 부활",
+      "plPL": "Ożywienie Mrocznej Tropicielki",
+      "ptBR": "Reviver Patrulheira Sombria",
+      "ruRU": "Воскресить темного следопыта"
+     }
+    },
+    {
+     "key": "Awakentip",
+     "per_level": false,
+     "values": {
+      "enUS": "Revive Dark Ranger",
+      "deDE": "Dunkle Waldläuferin wiederbeleben",
+      "esES": "Revivir a la forestal oscura",
+      "esMX": "Revivir Forestal oscura",
+      "frFR": "Ressusciter la Forestière-sombre",
+      "koKR": "어둠 순찰자 부활",
+      "plPL": "Ożywienie Mrocznej Tropicielki",
+      "ptBR": "Reviver Patrulheira Sombria",
+      "ruRU": "Воскресить темного следопыта"
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Cunning Hero, adept at manipulating opponents. Can learn Silence, Black Arrow, Life Drain, and Charm. |n|n|cffffcc00Attacks land and air units.|r",
+      "deDE": "Eine listige Heldin, die auf die Manipulation von Gegnern spezialisiert ist. Kann Stille, Schwarzer Pfeil, Lebensentzug und Bezauberung erlernen.|n|n|cffffcc00Kann Boden- und Lufteinheiten angreifen.|r",
+      "esES": "Una heroína astuta, experta en manipular a sus enemigos. Puede aprender Silencio, Flecha negra, Drenaje de vida y Embelesar. |n|n|cffffcc00Ataca a unidades de tierra y de aire.|r",
+      "esMX": "Heroína astuta, experta en manipular a los oponentes. Puede aprender Silenciar, Flecha negra, Drenaje de vida y Encantar. |n|n|cffffcc00Ataca a las unidades terrestres y aéreas.|r",
+      "frFR": "Unité héroïque rusée, capable de manipuler ses adversaires. Peut apprendre Silence, Flèche noire, Drain de vie et Charme.|n|n|cffffcc00Peut attaquer les unités terrestres et aériennes.|r",
+      "koKR": "적의 힘을 이용하는 데 능한 교활한 영웅입니다. 침묵, 검은 화살, 생명력 흡수, 현혹을 배울 수 있습니다. |n|n|cffffcc00지상 및 공중 유닛 공격 가능|r",
+      "plPL": "Przebiegła bohaterka potrafiąca manipulować przeciwnikami. Może się nauczyć Ciszy, Czarnej Strzały, Wyssania Życia i Uroku. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r",
+      "ptBR": "Herói astuto, adepto da manipulação de oponentes. Pode aprender Silenciar, Flecha Negra, Drenar Vida e Encantar. |n|n|cffffcc00Ataca unidades terrestres e aéreas.|r",
+      "ruRU": "Ловкий герой. Умело манипулирует соперниками. Может изучить «Немоту», «Черную стрелу», «Похищение жизни» и «Подчинение». |n|n|cffffcc00Атакует наземные и воздушные цели.|r"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNAnya.blp",
+   "data": {}
+  },
+  {
+   "id": "AUwf",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Withering Fire",
+      "deDE": "Vernichtendes Feuer",
+      "esES": "Fuego devastador",
+      "esMX": "Fuego fulminante",
+      "frFR": "Feu cinglant",
+      "koKR": "부패의 사격",
+      "plPL": "Wyniszczający Ostrzał",
+      "ptBR": "Fogo Devastador",
+      "ruRU": "Губительный обстрел"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Withering Fire - [|cffffcc00Level 1|r]",
+       "Withering Fire - [|cffffcc00Level 2|r]",
+       "Withering Fire - [|cffffcc00Level 3|r]",
+       "Withering Fire - [|cffffcc00Level 4|r]",
+       "Withering Fire - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Vernichtendes Feuer [|cffffcc00Stufe 1|r]",
+       "Vernichtendes Feuer [|cffffcc00Stufe 2|r]",
+       "Vernichtendes Feuer [|cffffcc00Stufe 3|r]",
+       "Vernichtendes Feuer [|cffffcc00Stufe 4|r]",
+       "Vernichtendes Feuer [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Fuego devastador - [|cffffcc00Nivel 1|r]",
+       "Fuego devastador - [|cffffcc00Nivel 2|r]",
+       "Fuego devastador - [|cffffcc00Nivel 3|r]",
+       "Fuego devastador - [|cffffcc00Nivel 4|r]",
+       "Fuego devastador - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Fuego fulminante - [|cffffcc00Nivel 1|r]",
+       "Fuego fulminante - [|cffffcc00Nivel 2|r]",
+       "Fuego fulminante - [|cffffcc00Nivel 3|r]",
+       "Fuego fulminante - [|cffffcc00Nivel 4|r]",
+       "Fuego fulminante - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Feu cinglant de |cffffcc00niveau 1|r",
+       "Feu cinglant de |cffffcc00niveau 2|r",
+       "Feu cinglant de |cffffcc00niveau 3|r",
+       "Feu cinglant de |cffffcc00niveau 4|r",
+       "Feu cinglant de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "부패의 사격 - [|cffffcc001레벨|r]",
+       "부패의 사격 - [|cffffcc002레벨|r]",
+       "부패의 사격 - [|cffffcc003레벨|r]",
+       "부패의 사격 - [|cffffcc004레벨|r]",
+       "부패의 사격 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Wyniszczający Ostrzał – [|cffffcc00poziom 1|r]",
+       "Wyniszczający Ostrzał – [|cffffcc00poziom 2|r]",
+       "Wyniszczający Ostrzał – [|cffffcc00poziom 3|r]",
+       "Wyniszczający Ostrzał – [|cffffcc00poziom 4|r]",
+       "Wyniszczający Ostrzał – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Fogo Devastador - [|cffffcc00Nível 1|r]",
+       "Fogo Devastador - [|cffffcc00Nível 2|r]",
+       "Fogo Devastador - [|cffffcc00Nível 3|r]",
+       "Fogo Devastador - [|cffffcc00Nível 4|r]",
+       "Fogo Devastador - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Губительный обстрел [|cffffcc001-й уровень|r]",
+       "Губительный обстрел [|cffffcc002-й уровень|r]",
+       "Губительный обстрел [|cffffcc003-й уровень|r]",
+       "Губительный обстрел [|cffffcc004-й уровень|r]",
+       "Губительный обстрел [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Fires a magical arrow at a target area, dealing <AUwf,DataC1> damage. Applies a stack of Deathseeker Arrows to enemies hit.|n<AUwf,DataA1> charges, recharges every <AUwf,DataB1> seconds.",
+       "Fires a magical arrow at a target area, dealing <AUwf,DataC2> damage. Applies a stack of Deathseeker Arrows to enemies hit.|n<AUwf,DataA2> charges, recharges every <AUwf,DataB2> seconds.",
+       "Fires a magical arrow at a target area, dealing <AUwf,DataC3> damage. Applies a stack of Deathseeker Arrows to enemies hit.|n<AUwf,DataA3> charges, recharges every <AUwf,DataB3> seconds.",
+       "Fires a magical arrow at a target area, dealing <AUwf,DataC4> damage. Applies a stack of Deathseeker Arrows to enemies hit.|n<AUwf,DataA4> charges, recharges every <AUwf,DataB4> seconds.",
+       "Fires a magical arrow at a target area, dealing <AUwf,DataC5> damage. Applies a stack of Deathseeker Arrows to enemies hit.|n<AUwf,DataA5> charges, recharges every <AUwf,DataB5> seconds."
+      ],
+      "deDE": [
+       "Feuert einen magischen Pfeil auf ein Zielgebiet ab, der <AUwf,DataC1> Schaden verursacht. Belegt getroffene Gegner mit einem Stapel Todessucherpfeile.|n<AUwf,DataA1> Aufladungen; lädt sich alle <AUwf,DataB1> Sek. auf.",
+       "Feuert einen magischen Pfeil auf ein Zielgebiet ab, der <AUwf,DataC2> Schaden verursacht. Belegt getroffene Gegner mit einem Stapel Todessucherpfeile.|n<AUwf,DataA2> Aufladungen; lädt sich alle <AUwf,DataB2> Sek. auf.",
+       "Feuert einen magischen Pfeil auf ein Zielgebiet ab, der <AUwf,DataC3> Schaden verursacht. Belegt getroffene Gegner mit einem Stapel Todessucherpfeile.|n<AUwf,DataA3> Aufladungen; lädt sich alle <AUwf,DataB3> Sek. auf.",
+       "Feuert einen magischen Pfeil auf ein Zielgebiet ab, der <AUwf,DataC4> Schaden verursacht. Belegt getroffene Gegner mit einem Stapel Todessucherpfeile.|n<AUwf,DataA4> Aufladungen; lädt sich alle <AUwf,DataB4> Sek. auf.",
+       "Feuert einen magischen Pfeil auf ein Zielgebiet ab, der <AUwf,DataC5> Schaden verursacht. Belegt getroffene Gegner mit einem Stapel Todessucherpfeile.|n<AUwf,DataA5> Aufladungen; lädt sich alle <AUwf,DataB5> Sek. auf."
+      ],
+      "esES": [
+       "Dispara una flecha mágica a un área seleccionada que inflige <AUwf,DataC1> p. de daño. Aplica una acumulación de Flechas de buscamuerte a los enemigos golpeados.|nTiene <AUwf,DataA1> cargas y recarga cada <AUwf,DataB1> s.",
+       "Dispara una flecha mágica a un área seleccionada que inflige <AUwf,DataC2> p. de daño. Aplica una acumulación de Flechas de buscamuerte a los enemigos golpeados.|nTiene <AUwf,DataA2> cargas y recarga cada <AUwf,DataB2> s.",
+       "Dispara una flecha mágica a un área seleccionada que inflige <AUwf,DataC3> p. de daño. Aplica una acumulación de Flechas de buscamuerte a los enemigos golpeados.|nTiene <AUwf,DataA3> cargas y recarga cada <AUwf,DataB3> s.",
+       "Dispara una flecha mágica a un área seleccionada que inflige <AUwf,DataC4> p. de daño. Aplica una acumulación de Flechas de buscamuerte a los enemigos golpeados.|nTiene <AUwf,DataA4> cargas y recarga cada <AUwf,DataB4> s.",
+       "Dispara una flecha mágica a un área seleccionada que inflige <AUwf,DataC5> p. de daño. Aplica una acumulación de Flechas de buscamuerte a los enemigos golpeados.|nTiene <AUwf,DataA5> cargas y recarga cada <AUwf,DataB5> s."
+      ],
+      "esMX": [
+       "Dispara una flecha mágica en un área objetivo, lo que inflige <AUwf,DataC1> de daño. Aplica una acumulación de Flechas buscamuerte a los enemigos golpeados.|n<AUwf,DataA1> cargas, se recarga cada <AUwf,DataB1> segundos.",
+       "Dispara una flecha mágica en un área objetivo, lo que inflige <AUwf,DataC2> de daño. Aplica una acumulación de Flechas buscamuerte a los enemigos golpeados.|n<AUwf,DataA2> cargas, se recarga cada <AUwf,DataB2> segundos.",
+       "Dispara una flecha mágica en un área objetivo, lo que inflige <AUwf,DataC3> de daño. Aplica una acumulación de Flechas buscamuerte a los enemigos golpeados.|n<AUwf,DataA3> cargas, se recarga cada <AUwf,DataB3> segundos.",
+       "Dispara una flecha mágica en un área objetivo, lo que inflige <AUwf,DataC4> de daño. Aplica una acumulación de Flechas buscamuerte a los enemigos golpeados.|n<AUwf,DataA4> cargas, se recarga cada <AUwf,DataB4> segundos.",
+       "Dispara una flecha mágica en un área objetivo, lo que inflige <AUwf,DataC5> de daño. Aplica una acumulación de Flechas buscamuerte a los enemigos golpeados.|n<AUwf,DataA5> cargas, se recarga cada <AUwf,DataB5> segundos."
+      ],
+      "frFR": [
+       "Tire une flèche magique sur la zone ciblée, ce qui inflige <AUwf,DataC1> points de dégâts. Applique un cumul de Flèches cherche-mort aux unités ennemies touchées.|n<AUwf,DataA1> charges, se recharge toutes les <AUwf,DataB1> secondes.",
+       "Tire une flèche magique sur la zone ciblée, ce qui inflige <AUwf,DataC2> points de dégâts. Applique un cumul de Flèches cherche-mort aux unités ennemies touchées.|n<AUwf,DataA2> charges, se recharge toutes les <AUwf,DataB2> secondes.",
+       "Tire une flèche magique sur la zone ciblée, ce qui inflige <AUwf,DataC3> points de dégâts. Applique un cumul de Flèches cherche-mort aux unités ennemies touchées.|n<AUwf,DataA3> charges, se recharge toutes les <AUwf,DataB3> secondes.",
+       "Tire une flèche magique sur la zone ciblée, ce qui inflige <AUwf,DataC4> points de dégâts. Applique un cumul de Flèches cherche-mort aux unités ennemies touchées.|n<AUwf,DataA4> charges, se recharge toutes les <AUwf,DataB4> secondes.",
+       "Tire une flèche magique sur la zone ciblée, ce qui inflige <AUwf,DataC5> points de dégâts. Applique un cumul de Flèches cherche-mort aux unités ennemies touchées.|n<AUwf,DataA5> charges, se recharge toutes les <AUwf,DataB5> secondes."
+      ],
+      "koKR": [
+       "대상 범위에 마법 화살을 날려 <AUwf,DataC1> 피해를 줍니다. 적중한 적에게 죽음추적자 화살 중첩을 적용합니다.|n<AUwf,DataA1>회 충전되고, <AUwf,DataB1>초마다 재충전됩니다.",
+       "대상 범위에 마법 화살을 날려 <AUwf,DataC2> 피해를 줍니다. 적중한 적에게 죽음추적자 화살 중첩을 적용합니다.|n<AUwf,DataA2>회 충전되고, <AUwf,DataB2>초마다 재충전됩니다.",
+       "대상 범위에 마법 화살을 날려 <AUwf,DataC3> 피해를 줍니다. 적중한 적에게 죽음추적자 화살 중첩을 적용합니다.|n<AUwf,DataA3>회 충전되고, <AUwf,DataB3>초마다 재충전됩니다.",
+       "대상 범위에 마법 화살을 날려 <AUwf,DataC4> 피해를 줍니다. 적중한 적에게 죽음추적자 화살 중첩을 적용합니다.|n<AUwf,DataA4>회 충전되고, <AUwf,DataB4>초마다 재충전됩니다.",
+       "대상 범위에 마법 화살을 날려 <AUwf,DataC5> 피해를 줍니다. 적중한 적에게 죽음추적자 화살 중첩을 적용합니다.|n<AUwf,DataA5>회 충전되고, <AUwf,DataB5>초마다 재충전됩니다."
+      ],
+      "plPL": [
+       "Wystrzeliwuje magiczną strzałę w wybrany obszar i zadaje <AUwf,DataC1> pkt. obrażeń. Trafieni wrogowie otrzymują jedną kumulację Strzał Poszukiwacza Śmierci.|nLiczba ładunków wynosi <AUwf,DataA1>, odnawia się co <AUwf,DataB1> sek.",
+       "Wystrzeliwuje magiczną strzałę w wybrany obszar i zadaje <AUwf,DataC2> pkt. obrażeń. Trafieni wrogowie otrzymują jedną kumulację Strzał Poszukiwacza Śmierci.|nLiczba ładunków wynosi <AUwf,DataA2>, odnawia się co <AUwf,DataB2> sek.",
+       "Wystrzeliwuje magiczną strzałę w wybrany obszar i zadaje <AUwf,DataC3> pkt. obrażeń. Trafieni wrogowie otrzymują jedną kumulację Strzał Poszukiwacza Śmierci.|nLiczba ładunków wynosi <AUwf,DataA3>, odnawia się co <AUwf,DataB3> sek.",
+       "Wystrzeliwuje magiczną strzałę w wybrany obszar i zadaje <AUwf,DataC4> pkt. obrażeń. Trafieni wrogowie otrzymują jedną kumulację Strzał Poszukiwacza Śmierci.|nLiczba ładunków wynosi <AUwf,DataA4>, odnawia się co <AUwf,DataB4> sek.",
+       "Wystrzeliwuje magiczną strzałę w wybrany obszar i zadaje <AUwf,DataC5> pkt. obrażeń. Trafieni wrogowie otrzymują jedną kumulację Strzał Poszukiwacza Śmierci.|nLiczba ładunków wynosi <AUwf,DataA5>, odnawia się co <AUwf,DataB5> sek."
+      ],
+      "ptBR": [
+       "Dispara uma flecha mágica em uma área selecionada, causando <AUwf,DataC1> de dano. Aplica um acúmulo de Flechas de Caça-Morte a inimigos atingidos.|n<AUwf,DataA1> cargas, recarrega a cada <AUwf,DataB1> segundos.",
+       "Dispara uma flecha mágica em uma área selecionada, causando <AUwf,DataC2> de dano. Aplica um acúmulo de Flechas de Caça-Morte a inimigos atingidos.|n<AUwf,DataA2> cargas, recarrega a cada <AUwf,DataB2> segundos.",
+       "Dispara uma flecha mágica em uma área selecionada, causando <AUwf,DataC3> de dano. Aplica um acúmulo de Flechas de Caça-Morte a inimigos atingidos.|n<AUwf,DataA3> cargas, recarrega a cada <AUwf,DataB3> segundos.",
+       "Dispara uma flecha mágica em uma área selecionada, causando <AUwf,DataC4> de dano. Aplica um acúmulo de Flechas de Caça-Morte a inimigos atingidos.|n<AUwf,DataA4> cargas, recarrega a cada <AUwf,DataB4> segundos.",
+       "Dispara uma flecha mágica em uma área selecionada, causando <AUwf,DataC5> de dano. Aplica um acúmulo de Flechas de Caça-Morte a inimigos atingidos.|n<AUwf,DataA5> cargas, recarrega a cada <AUwf,DataB5> segundos."
+      ],
+      "ruRU": [
+       "Выпускает магическую стрелу в указанную область, нанося <AUwf,DataC1> урона. Накладывает на пораженные цели заряд «Губительных стрел».|nВсего зарядов: <AUwf,DataA1>. Перезарядка: раз в <AUwf,DataB1> сек.",
+       "Выпускает магическую стрелу в указанную область, нанося <AUwf,DataC2> урона. Накладывает на пораженные цели заряд «Губительных стрел».|nВсего зарядов: <AUwf,DataA2>. Перезарядка: раз в <AUwf,DataB2> сек.",
+       "Выпускает магическую стрелу в указанную область, нанося <AUwf,DataC3> урона. Накладывает на пораженные цели заряд «Губительных стрел».|nВсего зарядов: <AUwf,DataA3>. Перезарядка: раз в <AUwf,DataB3> сек.",
+       "Выпускает магическую стрелу в указанную область, нанося <AUwf,DataC4> урона. Накладывает на пораженные цели заряд «Губительных стрел».|nВсего зарядов: <AUwf,DataA4>. Перезарядка: раз в <AUwf,DataB4> сек.",
+       "Выпускает магическую стрелу в указанную область, нанося <AUwf,DataC5> урона. Накладывает на пораженные цели заряд «Губительных стрел».|nВсего зарядов: <AUwf,DataA5>. Перезарядка: раз в <AUwf,DataB5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Withering Fire - [|cffffcc00Level %d|r]",
+      "deDE": "Vernichtendes Feuer [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Fuego devastador - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Fuego fulminante - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Feu cinglant de |cffffcc00niveau %d|r",
+      "koKR": "부패의 사격 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Wyniszczającego Ostrzału – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Fogo Devastador - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Губительный обстрел» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Fire a magical arrow at a target area, dealing damage and applying a stack of Deathseeker Arrows to enemies hit.|n|n|cffffcc00Level 1|r - <AUwf,DataC1> damage, max <AUwf,DataA1> charges, recharges every <AUwf,DataB1> seconds. |n|cffffcc00Level 2|r - <AUwf,DataC2> damage, max <AUwf,DataA2> charges, recharges every <AUwf,DataB2> seconds. |n|cffffcc00Level 3|r - <AUwf,DataC3> damage, max <AUwf,DataA3> charges, recharges every <AUwf,DataB3> seconds.|n|cffffcc00Level 4|r - <AUwf,DataC4> damage, max <AUwf,DataA4> charges, recharges every <AUwf,DataB4> seconds.|n|cffffcc00Level 5|r - <AUwf,DataC5> damage, max <AUwf,DataA5> charges, recharges every <AUwf,DataB5> seconds.",
+      "deDE": "Feuert einen magischen Pfeil auf ein Zielgebiet ab, der Schaden verursacht und getroffene Gegner mit einem Stapel Todessucherpfeile belegt.|n|n|cffffcc00Stufe 1|r - <AUwf,DataC1> Schaden, max. <AUwf,DataA1> Aufladungen; lädt sich alle <AUwf,DataB1> Sek. auf. |n|cffffcc00Stufe 2|r - <AUwf,DataC2> Schaden, max. <AUwf,DataA2> Aufladungen; lädt sich alle <AUwf,DataB2> Sek. auf. |n|cffffcc00Stufe 3|r - <AUwf,DataC3> Schaden, max. <AUwf,DataA3> Aufladungen; lädt sich alle <AUwf,DataB3> Sek. auf.|n|cffffcc00Stufe 4|r - <AUwf,DataC4> Schaden, max. <AUwf,DataA4> Aufladungen; lädt sich alle <AUwf,DataB4> Sek. auf.|n|cffffcc00Stufe 5|r - <AUwf,DataC5> Schaden, max. <AUwf,DataA5> Aufladungen; lädt sich alle <AUwf,DataB5> Sek. auf.",
+      "esES": "Dispara una flecha mágica a un área seleccionada que inflige daño y aplica una acumulación de Flechas de buscamuerte a los enemigos golpeados.|n|n|cffffcc00Nivel 1|r - <AUwf,DataC1> p. de daño, máximo de <AUwf,DataA1> cargas, se recarga cada <AUwf,DataB1> s. |n|cffffcc00Nivel 2|r - <AUwf,DataC2> p. de daño, máximo de <AUwf,DataA2> cargas, se recarga cada <AUwf,DataB2> s. |n|cffffcc00Nivel 3|r - <AUwf,DataC3> p. de daño, máximo de <AUwf,DataA3> cargas, se recarga cada <AUwf,DataB3> s.|n|cffffcc00Nivel 4|r - <AUwf,DataC4> p. de daño, máximo de <AUwf,DataA4> cargas, se recarga cada <AUwf,DataB4> s.|n|cffffcc00Nivel 5|r - <AUwf,DataC5> p. de daño, máximo de <AUwf,DataA5> cargas, se recarga cada <AUwf,DataB5> s.",
+      "esMX": "Dispara una flecha mágica en un área objetivo, lo que inflige daño y aplica una acumulación de Flechas buscamuerte a los enemigos golpeados.|n|n|cffffcc00Nivel 1|r - <AUwf,DataC1> de daño, <AUwf,DataA1> cargas como máximo, se recarga cada <AUwf,DataB1> segundos. |n|cffffcc00Nivel 2|r - <AUwf,DataC2> de daño, <AUwf,DataA2> cargas como máximo, se recarga cada <AUwf,DataB2> segundos. |n|cffffcc00Nivel 3|r - <AUwf,DataC3> de daño, <AUwf,DataA3> cargas como máximo, se recarga cada <AUwf,DataB3> segundos.|n|cffffcc00Nivel 4|r - <AUwf,DataC4> de daño, <AUwf,DataA4> cargas como máximo, se recarga cada <AUwf,DataB4> segundos.|n|cffffcc00Nivel 5|r - <AUwf,DataC5> de daño, <AUwf,DataA5> cargas como máximo, se recarga cada <AUwf,DataB5> segundos.",
+      "frFR": "Tire une flèche magique sur la zone ciblée, ce qui inflige des dégâts et applique un cumul de Flèches cherche-mort aux unités ennemies touchées.|n|n|cffffcc00Niveau 1 :|r <AUwf,DataC1> points de dégâts, maximum de <AUwf,DataA1> charges, se recharge toutes les <AUwf,DataB1> secondes. |n|cffffcc00Niveau 2 :|r <AUwf,DataC2> points de dégâts, maximum de <AUwf,DataA2> charges, se recharge toutes les <AUwf,DataB2> secondes. |n|cffffcc00Niveau 3 :|r <AUwf,DataC3> points de dégâts, maximum de <AUwf,DataA3> charges, se recharge toutes les <AUwf,DataB3> secondes. |n|cffffcc00Niveau 4 :|r <AUwf,DataC4> points de dégâts, maximum de <AUwf,DataA4> charges, se recharge toutes les <AUwf,DataB4> secondes. |n|cffffcc00Niveau 5 :|r <AUwf,DataC5> points de dégâts, maximum de <AUwf,DataA5> charges, se recharge toutes les <AUwf,DataB5> secondes.",
+      "koKR": "대상 범위에 마법 화살을 날려 피해를 주고,적중한 적에게 죽음추적자 화살 중첩을 적용합니다.|n|n|cffffcc001레벨|r - <AUwf,DataC1> 피해를 줍니다. 최대 <AUwf,DataA1>회 충전되며, <AUwf,DataB1>초마다 재충전됩니다. |n|cffffcc002레벨|r - <AUwf,DataC2> 피해를 줍니다. 최대 <AUwf,DataA2>회 충전되며, <AUwf,DataB2>초마다 재충전됩니다.|n|cffffcc003레벨|r - <AUwf,DataC3> 피해를 줍니다. 최대 <AUwf,DataA3>회 충전되며, <AUwf,DataB3>초마다 재충전됩니다.|n|cffffcc004레벨|r - <AUwf,DataC4> 피해를 줍니다. 최대 <AUwf,DataA4>회 충전되며, <AUwf,DataB4>초마다 재충전됩니다.|n|cffffcc005레벨|r - <AUwf,DataC5> 피해를 줍니다. 최대 <AUwf,DataA5>회 충전되며, <AUwf,DataB5>초마다 재충전됩니다.",
+      "plPL": "Wystrzeliwuje magiczną strzałę w wybrany obszar, zadaje obrażenia i nakłada na trafionych wrogów ładunek Strzał Poszukiwacza Śmierci.|n|n|cffffcc00Poziom 1|r – <AUwf,DataC1> pkt. obrażeń, maksymalna liczba ładunków: <AUwf,DataA1>, odnawia się co <AUwf,DataB1> sek.|n|cffffcc00Poziom 2|r – <AUwf,DataC2> pkt. obrażeń, maksymalna liczba ładunków: <AUwf,DataA2>, odnawia się co <AUwf,DataB2> sek.|n|cffffcc00Poziom 3|r – <AUwf,DataC3> pkt. obrażeń, maksymalna liczba ładunków: <AUwf,DataA3>, odnawia się co <AUwf,DataB3> sek.|n|cffffcc00Poziom 4|r – <AUwf,DataC4> pkt. obrażeń, maksymalna liczba ładunków: <AUwf,DataA4>, odnawia się co <AUwf,DataB4> sek.|n|cffffcc00Poziom 5|r – <AUwf,DataC5> pkt. obrażeń, maksymalna liczba ładunków: <AUwf,DataA5>, odnawia się co <AUwf,DataB5> sek.",
+      "ptBR": "Dispara uma flecha mágica em uma área selecionada, causando dano e aplicando um acúmulo de Flechas de Caça-Morte a inimigos atingidos.|n|n|cffffcc00Nível 1|r - <AUwf,DataC1> de dano, máximo de <AUwf,DataA1> cargas, recarrega a cada <AUwf,DataB1> segundos. |n|cffffcc00Nível 2|r - <AUwf,DataC2> de dano, máximo de <AUwf,DataA2> cargas, recarrega a cada <AUwf,DataB2> segundos. |n|cffffcc00Nível 3|r - <AUwf,DataC3> de dano, máximo de <AUwf,DataA3> cargas, recarrega a cada <AUwf,DataB3> segundos. |n|cffffcc00Nível 4|r - <AUwf,DataC4> de dano, máximo de <AUwf,DataA4> cargas, recarrega a cada <AUwf,DataB4> segundos. |n|cffffcc00Nível 5|r - <AUwf,DataC5> de dano, máximo de <AUwf,DataA5> cargas, recarrega a cada <AUwf,DataB5> segundos.",
+      "ruRU": "Выпускает магическую стрелу в указанную область, нанося урон и накладывая на пораженные цели заряд «Губительных стрел».|n|n|cffffcc001-й уровень:|r <AUwf,DataC1> урона. Максимальное число зарядов: <AUwf,DataA1>. Перезарядка: раз в <AUwf,DataB1> сек. |n|cffffcc002-й уровень:|r <AUwf,DataC2> урона. Максимальное число зарядов: <AUwf,DataA2>. Перезарядка: раз в <AUwf,DataB2> сек. |n|cffffcc003-й уровень:|r <AUwf,DataC3> урона. Максимальное число зарядов: <AUwf,DataA3>. Перезарядка: раз в <AUwf,DataB3> сек.|n|cffffcc004-й уровень:|r <AUwf,DataC4> урона. Максимальное число зарядов: <AUwf,DataA4>. Перезарядка: раз в <AUwf,DataB4> сек.|n|cffffcc005-й уровень:|r <AUwf,DataC5> урона. Максимальное число зарядов: <AUwf,DataA5>. Перезарядка: раз в <AUwf,DataB5> сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "Q",
+      "deDE": "Q",
+      "esES": "Q",
+      "esMX": "Q",
+      "frFR": "Q",
+      "koKR": "Q",
+      "plPL": "Q",
+      "ptBR": "Q",
+      "ruRU": "Q"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNWitheringFire.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0.5",
+    "Cost1": "50",
+    "Area1": "75",
+    "Rng1": "750",
+    "DataA1": "2",
+    "DataB1": "10",
+    "DataC1": "100",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0.5",
+    "Cost2": "60",
+    "Area2": "75",
+    "Rng2": "750",
+    "DataA2": "2",
+    "DataB2": "10",
+    "DataC2": "150",
+    "DataD2": "0",
+    "DataE2": "0",
+    "DataF2": "0",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "0.5",
+    "Cost3": "70",
+    "Area3": "75",
+    "Rng3": "750",
+    "DataA3": "3",
+    "DataB3": "10",
+    "DataC3": "175",
+    "DataD3": "0",
+    "DataE3": "0",
+    "DataF3": "0",
+    "Dur4": "0",
+    "HeroDur4": "0",
+    "Cool4": "0.5",
+    "Cost4": "80",
+    "Area4": "75",
+    "Rng4": "750",
+    "DataA4": "3",
+    "DataB4": "10",
+    "DataC4": "200",
+    "DataD4": "0",
+    "DataE4": "0",
+    "DataF4": "0",
+    "Dur5": "0",
+    "HeroDur5": "0",
+    "Cool5": "0.5",
+    "Cost5": "90",
+    "Area5": "75",
+    "Rng5": "750",
+    "DataA5": "4",
+    "DataB5": "10",
+    "DataC5": "250",
+    "DataD5": "0",
+    "DataE5": "0",
+    "DataF5": "0"
+   }
+  },
+  {
+   "id": "AUla",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Soul Lantern",
+      "deDE": "Seelenlaterne",
+      "esES": "Farol de alma",
+      "esMX": "Farol de alma",
+      "frFR": "Lanterne d’âme",
+      "koKR": "영혼 등불",
+      "plPL": "Latarnia Duszy",
+      "ptBR": "Lanterna da Alma",
+      "ruRU": "Светоч душ"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Activate Soul Lantern - [|cffffcc00Level 1|r]",
+       "Activate Soul Lantern - [|cffffcc00Level 2|r]",
+       "Activate Soul Lantern - [|cffffcc00Level 3|r]",
+       "Activate Soul Lantern - [|cffffcc00Level 4|r]",
+       "Activate Soul Lantern - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Seelenlaterne [|cffffcc00Stufe 1|r] aktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 2|r] aktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 3|r] aktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 4|r] aktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 5|r] aktivieren"
+      ],
+      "esES": [
+       "Activar Farol de alma - [|cffffcc00Nivel 1|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 2|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 3|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 4|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Activar Farol de alma - [|cffffcc00Nivel 1|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 2|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 3|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 4|r]",
+       "Activar Farol de alma - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Activer Lanterne d’âme de |cffffcc00niveau 1|r",
+       "Activer Lanterne d’âme de |cffffcc00niveau 2|r",
+       "Activer Lanterne d’âme de |cffffcc00niveau 3|r",
+       "Activer Lanterne d’âme de |cffffcc00niveau 4|r",
+       "Activer Lanterne d’âme de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "영혼 등불 활성화 - [|cffffcc001레벨|r]",
+       "영혼 등불 활성화 - [|cffffcc002레벨|r]",
+       "영혼 등불 활성화 - [|cffffcc003레벨|r]",
+       "영혼 등불 활성화 - [|cffffcc004레벨|r]",
+       "영혼 등불 활성화 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Aktywacja Latarni Duszy – [|cffffcc00poziom 1|r]",
+       "Aktywacja Latarni Duszy – [|cffffcc00poziom 2|r]",
+       "Aktywacja Latarni Duszy – [|cffffcc00poziom 3|r]",
+       "Aktywacja Latarni Duszy – [|cffffcc00poziom 4|r]",
+       "Aktywacja Latarni Duszy – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Ativar Lanterna da Alma - [|cffffcc00Nível 1|r]",
+       "Ativar Lanterna da Alma - [|cffffcc00Nível 2|r]",
+       "Ativar Lanterna da Alma - [|cffffcc00Nível 3|r]",
+       "Ativar Lanterna da Alma - [|cffffcc00Nível 4|r]",
+       "Ativar Lanterna da Alma - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Использовать «Светоч душ» [|cffffcc001-й уровень|r]",
+       "Использовать «Светоч душ» [|cffffcc002-й уровень|r]",
+       "Использовать «Светоч душ» [|cffffcc003-й уровень|r]",
+       "Использовать «Светоч душ» [|cffffcc004-й уровень|r]",
+       "Использовать «Светоч душ» [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Create a tether between Anya and a friendly unit. Dispels negative debuffs on the target. While the tether is active, the target is healed for <AUla,DataB1> hit points per second.|nDrains <AUla,DataA1> mana per second until deactivated.",
+       "Create a tether between Anya and a friendly unit. Dispels negative debuffs on the target. While the tether is active, the target is healed for <AUla,DataB2> hit points per second.|nDrains <AUla,DataA2> mana per second until deactivated.",
+       "Create a tether between Anya and a friendly unit. Dispels negative debuffs on the target. While the tether is active, the target is healed for <AUla,DataB3> hit points per second.|nDrains <AUla,DataA3> mana per second until deactivated.",
+       "Create a tether between Anya and a friendly unit. Dispels negative debuffs on the target. While the tether is active, the target is healed for <AUla,DataB4> hit points per second.|nDrains <AUla,DataA4> mana per second until deactivated.",
+       "Create a tether between Anya and a friendly unit. Dispels negative debuffs on the target. While the tether is active, the target is healed for <AUla,DataB5> hit points per second.|nDrains <AUla,DataA5> mana per second until deactivated."
+      ],
+      "deDE": [
+       "Erschafft eine Verbindung zwischen Anya und einer verbündeten Einheit. Bannt Schwächungszauber auf dem Ziel. Während die Verbindung aktiv ist, wird das Ziel für <AUla,DataB1> Trefferpunkte pro Sekunde geheilt.|nVerbraucht <AUla,DataA1> Mana pro Sekunde bis Abbruch.",
+       "Erschafft eine Verbindung zwischen Anya und einer verbündeten Einheit. Bannt Schwächungszauber auf dem Ziel. Während die Verbindung aktiv ist, wird das Ziel für <AUla,DataB2> Trefferpunkte pro Sekunde geheilt.|nVerbraucht <AUla,DataA2> Mana pro Sekunde bis Abbruch.",
+       "Erschafft eine Verbindung zwischen Anya und einer verbündeten Einheit. Bannt Schwächungszauber auf dem Ziel. Während die Verbindung aktiv ist, wird das Ziel für <AUla,DataB3> Trefferpunkte pro Sekunde geheilt.|nVerbraucht <AUla,DataA3> Mana pro Sekunde bis Abbruch.",
+       "Erschafft eine Verbindung zwischen Anya und einer verbündeten Einheit. Bannt Schwächungszauber auf dem Ziel. Während die Verbindung aktiv ist, wird das Ziel für <AUla,DataB4> Trefferpunkte pro Sekunde geheilt.|nVerbraucht <AUla,DataA4> Mana pro Sekunde bis Abbruch.",
+       "Erschafft eine Verbindung zwischen Anya und einer verbündeten Einheit. Bannt Schwächungszauber auf dem Ziel. Während die Verbindung aktiv ist, wird das Ziel für <AUla,DataB5> Trefferpunkte pro Sekunde geheilt.|nVerbraucht <AUla,DataA5> Mana pro Sekunde bis Abbruch."
+      ],
+      "esES": [
+       "Crea una atadura entre Anya y una unidad amistosa. Disipa los perjuicios negativos en el objetivo. Mientras la atadura está activa, el objetivo recupera <AUla,DataB1> p. de vida por segundo.|nConsume <AUla,DataA1> p. de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad amistosa. Disipa los perjuicios negativos en el objetivo. Mientras la atadura está activa, el objetivo recupera <AUla,DataB2> p. de vida por segundo.|nConsume <AUla,DataA2> p. de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad amistosa. Disipa los perjuicios negativos en el objetivo. Mientras la atadura está activa, el objetivo recupera <AUla,DataB3> p. de vida por segundo.|nConsume <AUla,DataA3> p. de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad amistosa. Disipa los perjuicios negativos en el objetivo. Mientras la atadura está activa, el objetivo recupera <AUla,DataB4> p. de vida por segundo.|nConsume <AUla,DataA4> p. de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad amistosa. Disipa los perjuicios negativos en el objetivo. Mientras la atadura está activa, el objetivo recupera <AUla,DataB5> p. de vida por segundo.|nConsume <AUla,DataA5> p. de maná por segundo hasta que se desactiva."
+      ],
+      "esMX": [
+       "Crea una atadura entre Anya y una unidad aliada. Disipa los efectos negativos en el objetivo. Mientras la atadura está activa, al objetivo se le restablece <AUla,DataB1> de salud por segundo.|nDrena <AUla,DataA1> de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad aliada. Disipa los efectos negativos en el objetivo. Mientras la atadura está activa, al objetivo se le restablece <AUla,DataB2> de salud por segundo.|nDrena <AUla,DataA2> de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad aliada. Disipa los efectos negativos en el objetivo. Mientras la atadura está activa, al objetivo se le restablece <AUla,DataB3> de salud por segundo.|nDrena <AUla,DataA3> de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad aliada. Disipa los efectos negativos en el objetivo. Mientras la atadura está activa, al objetivo se le restablece <AUla,DataB4> de salud por segundo.|nDrena <AUla,DataA4> de maná por segundo hasta que se desactiva.",
+       "Crea una atadura entre Anya y una unidad aliada. Disipa los efectos negativos en el objetivo. Mientras la atadura está activa, al objetivo se le restablece <AUla,DataB5> de salud por segundo.|nDrena <AUla,DataA5> de maná por segundo hasta que se desactiva."
+      ],
+      "frFR": [
+       "Crée un lien entre Anya et une unité alliée. Dissipe les affaiblissements qui affectent la cible. Tant que le lien est actif, la cible récupère <AUla,DataB1> points de vie par seconde.|nDraine <AUla,DataA1> points de mana par seconde jusqu’à désactivation.",
+       "Crée un lien entre Anya et une unité alliée. Dissipe les affaiblissements qui affectent la cible. Tant que le lien est actif, la cible récupère <AUla,DataB2> points de vie par seconde.|nDraine <AUla,DataA2> points de mana par seconde jusqu’à désactivation.",
+       "Crée un lien entre Anya et une unité alliée. Dissipe les affaiblissements qui affectent la cible. Tant que le lien est actif, la cible récupère <AUla,DataB3> points de vie par seconde.|nDraine <AUla,DataA3> points de mana par seconde jusqu’à désactivation.",
+       "Crée un lien entre Anya et une unité alliée. Dissipe les affaiblissements qui affectent la cible. Tant que le lien est actif, la cible récupère <AUla,DataB4> points de vie par seconde.|nDraine <AUla,DataA4> points de mana par seconde jusqu’à désactivation.",
+       "Crée un lien entre Anya et une unité alliée. Dissipe les affaiblissements qui affectent la cible. Tant que le lien est actif, la cible récupère <AUla,DataB5> points de vie par seconde.|nDraine <AUla,DataA5> points de mana par seconde jusqu’à désactivation."
+      ],
+      "koKR": [
+       "안야와 아군 유닛 하나를 연결합니다. 대상의 부정적인 약화 효과를 무효화합니다. 연결이 활성화된 동안 대상이 초당 <AUla,DataB1> 생명력을 회복합니다.|n비활성화할 때까지 초당 <AUla,DataA1> 마나를 소모합니다.",
+       "안야와 아군 유닛 하나를 연결합니다. 대상의 부정적인 약화 효과를 무효화합니다. 연결이 활성화된 동안 대상이 초당 <AUla,DataB2> 생명력을 회복합니다.|n비활성화할 때까지 초당 <AUla,DataA2> 마나를 소모합니다.",
+       "안야와 아군 유닛 하나를 연결합니다. 대상의 부정적인 약화 효과를 무효화합니다. 연결이 활성화된 동안 대상이 초당 <AUla,DataB3> 생명력을 회복합니다.|n비활성화할 때까지 초당 <AUla,DataA3> 마나를 소모합니다.",
+       "안야와 아군 유닛 하나를 연결합니다. 대상의 부정적인 약화 효과를 무효화합니다. 연결이 활성화된 동안 대상이 초당 <AUla,DataB4> 생명력을 회복합니다.|n비활성화할 때까지 초당 <AUla,DataA4> 마나를 소모합니다.",
+       "안야와 아군 유닛 하나를 연결합니다. 대상의 부정적인 약화 효과를 무효화합니다. 연결이 활성화된 동안 대상이 초당 <AUla,DataB5> 생명력을 회복합니다.|n비활성화할 때까지 초당 <AUla,DataA5> 마나를 소모합니다."
+      ],
+      "plPL": [
+       "Tworzy więź między Anyą a sojuszniczą jednostką. Rozprasza negatywne efekty działające na cel. Gdy więź jest aktywna, cel odzyskuje <AUla,DataB1> pkt. zdrowia na sekundę.|nZużywa <AUla,DataA1> pkt. many na sekundę do chwili dezaktywacji zdolności.",
+       "Tworzy więź między Anyą a sojuszniczą jednostką. Rozprasza negatywne efekty działające na cel. Gdy więź jest aktywna, cel odzyskuje <AUla,DataB2> pkt. zdrowia na sekundę.|nZużywa <AUla,DataA2> pkt. many na sekundę do chwili dezaktywacji zdolności.",
+       "Tworzy więź między Anyą a sojuszniczą jednostką. Rozprasza negatywne efekty działające na cel. Gdy więź jest aktywna, cel odzyskuje <AUla,DataB3> pkt. zdrowia na sekundę.|nZużywa <AUla,DataA3> pkt. many na sekundę do chwili dezaktywacji zdolności.",
+       "Tworzy więź między Anyą a sojuszniczą jednostką. Rozprasza negatywne efekty działające na cel. Gdy więź jest aktywna, cel odzyskuje <AUla,DataB4> pkt. zdrowia na sekundę.|nZużywa <AUla,DataA4> pkt. many na sekundę do chwili dezaktywacji zdolności.",
+       "Tworzy więź między Anyą a sojuszniczą jednostką. Rozprasza negatywne efekty działające na cel. Gdy więź jest aktywna, cel odzyskuje <AUla,DataB5> pkt. zdrowia na sekundę.|nZużywa <AUla,DataA5> pkt. many na sekundę do chwili dezaktywacji zdolności."
+      ],
+      "ptBR": [
+       "Cria uma conexão entre Anya e uma unidade aliada. Dissipa penalidades no alvo. Enquanto a conexão estiver ativa, o alvo é curado em <AUla,DataB1> pontos de vida por segundo.|nDrena <AUla,DataA1> de mana por segundo enquanto não for desativada.",
+       "Cria uma conexão entre Anya e uma unidade aliada. Dissipa penalidades no alvo. Enquanto a conexão estiver ativa, o alvo é curado em <AUla,DataB2> pontos de vida por segundo.|nDrena <AUla,DataA2> de mana por segundo enquanto não for desativada.",
+       "Cria uma conexão entre Anya e uma unidade aliada. Dissipa penalidades no alvo. Enquanto a conexão estiver ativa, o alvo é curado em <AUla,DataB3> pontos de vida por segundo.|nDrena <AUla,DataA3> de mana por segundo enquanto não for desativada.",
+       "Cria uma conexão entre Anya e uma unidade aliada. Dissipa penalidades no alvo. Enquanto a conexão estiver ativa, o alvo é curado em <AUla,DataB4> pontos de vida por segundo.|nDrena <AUla,DataA4> de mana por segundo enquanto não for desativada.",
+       "Cria uma conexão entre Anya e uma unidade aliada. Dissipa penalidades no alvo. Enquanto a conexão estiver ativa, o alvo é curado em <AUla,DataB5> pontos de vida por segundo.|nDrena <AUla,DataA5> de mana por segundo enquanto não for desativada."
+      ],
+      "ruRU": [
+       "Создает связь между Анией и ее союзником. Снимает отрицательные эффекты с цели. Пока связь существует, цель восстанавливает <AUla,DataB1> здоровья/сек.|nРасходует <AUla,DataA1> маны/сек. до отмены.",
+       "Создает связь между Анией и ее союзником. Снимает отрицательные эффекты с цели. Пока связь существует, цель восстанавливает <AUla,DataB2> здоровья/сек.|nРасходует <AUla,DataA2> маны/сек. до отмены.",
+       "Создает связь между Анией и ее союзником. Снимает отрицательные эффекты с цели. Пока связь существует, цель восстанавливает <AUla,DataB3> здоровья/сек.|nРасходует <AUla,DataA3> маны/сек. до отмены.",
+       "Создает связь между Анией и ее союзником. Снимает отрицательные эффекты с цели. Пока связь существует, цель восстанавливает <AUla,DataB4> здоровья/сек.|nРасходует <AUla,DataA4> маны/сек. до отмены.",
+       "Создает связь между Анией и ее союзником. Снимает отрицательные эффекты с цели. Пока связь существует, цель восстанавливает <AUla,DataB5> здоровья/сек.|nРасходует <AUla,DataA5> маны/сек. до отмены."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    },
+    {
+     "key": "Untip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Deactivate Soul Lantern - [|cffffcc00Level 1|r]",
+       "Deactivate Soul Lantern - [|cffffcc00Level 2|r]",
+       "Deactivate Soul Lantern - [|cffffcc00Level 3|r]",
+       "Deactivate Soul Lantern - [|cffffcc00Level 4|r]",
+       "Deactivate Soul Lantern - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Seelenlaterne [|cffffcc00Stufe 1|r] deaktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 2|r] deaktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 3|r] deaktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 4|r] deaktivieren",
+       "Seelenlaterne [|cffffcc00Stufe 5|r] deaktivieren"
+      ],
+      "esES": [
+       "Desactivar Farol de alma - [|cffffcc00Nivel 1|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 2|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 3|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 4|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Desactivar Farol de alma - [|cffffcc00Nivel 1|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 2|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 3|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 4|r]",
+       "Desactivar Farol de alma - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Désactiver Lanterne d’âme de |cffffcc00niveau 1|r",
+       "Désactiver Lanterne d’âme de |cffffcc00niveau 2|r",
+       "Désactiver Lanterne d’âme de |cffffcc00niveau 3|r",
+       "Désactiver Lanterne d’âme de |cffffcc00niveau 4|r",
+       "Désactiver Lanterne d’âme de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "영혼 등불 비활성화 - [|cffffcc001레벨|r]",
+       "영혼 등불 비활성화 - [|cffffcc002레벨|r]",
+       "영혼 등불 비활성화 - [|cffffcc003레벨|r]",
+       "영혼 등불 비활성화 - [|cffffcc004레벨|r]",
+       "영혼 등불 비활성화 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Dezaktywacja Latarni Duszy – [|cffffcc00poziom 1|r]",
+       "Dezaktywacja Latarni Duszy – [|cffffcc00poziom 2|r]",
+       "Dezaktywacja Latarni Duszy – [|cffffcc00poziom 3|r]",
+       "Dezaktywacja Latarni Duszy – [|cffffcc00poziom 4|r]",
+       "Dezaktywacja Latarni Duszy – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Desativar Lanterna da Alma - [|cffffcc00Nível 1|r]",
+       "Desativar Lanterna da Alma - [|cffffcc00Nível 2|r]",
+       "Desativar Lanterna da Alma - [|cffffcc00Nível 3|r]",
+       "Desativar Lanterna da Alma - [|cffffcc00Nível 4|r]",
+       "Desativar Lanterna da Alma - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Отменить «Светоч душ» [|cffffcc001-й уровень|r]",
+       "Отменить «Светоч душ» [|cffffcc002-й уровень|r]",
+       "Отменить «Светоч душ» [|cffffcc003-й уровень|r]",
+       "Отменить «Светоч душ» [|cffffcc004-й уровень|r]",
+       "Отменить «Светоч душ» [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UnUberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Deactivate Soul Lantern to stop draining mana."
+      ],
+      "deDE": [
+       "Deaktiviere Seelenlaterne, um den Verbrauch von Mana zu stoppen."
+      ],
+      "esES": [
+       "Desactiva Farol de alma para detener el consumo de maná."
+      ],
+      "esMX": [
+       "Desactiva Farol de alma para detener el drenaje de maná."
+      ],
+      "frFR": [
+       "Désactivez Lanterne d’âme pour cesser de consommer du mana."
+      ],
+      "koKR": [
+       "영혼 등불을 비활성화하여 마나가 소모되는 것을 중단합니다."
+      ],
+      "plPL": [
+       "Dezaktywacja Latarni Duszy zapobiega utracie many."
+      ],
+      "ptBR": [
+       "Desative Lanterna da Alma para parar de drenar mana."
+      ],
+      "ruRU": [
+       "Закончите действие «Светоча душ», чтобы остановить расход маны."
+      ]
+     }
+    },
+    {
+     "key": "Unhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Soul Lantern - [|cffffcc00Level %d|r]",
+      "deDE": "Seelenlaterne [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Farol de alma - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Farol de alma - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Lanterne d’âme de |cffffcc00niveau %d|r",
+      "koKR": "영혼 등불 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Latarni Duszy – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Lanterna da Alma - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Светоч душ» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Create a tether between Anya and a friendly unit, dispelling negative debuffs and healing the target.|nDrains mana until deactivated. |n|n|cffffcc00Level 1|r - <AUla,DataB1> hit points per second, drains <AUla,DataA1> mana per second. |n|cffffcc00Level 2|r - <AUla,DataB2> hit points per second, drains <AUla,DataA2> mana per second. |n|cffffcc00Level 3|r - <AUla,DataB3> hit points per second, drains <AUla,DataA3> mana per second. |n|cffffcc00Level 4|r - <AUla,DataB4> hit points per second, drains <AUla,DataA4> mana per second. |n|cffffcc00Level 5|r - <AUla,DataB5> hit points per second, drains <AUla,DataA5> mana per second.",
+      "deDE": "Erschafft eine Verbindung zwischen Anya und einer verbündeten Einheit. Bannt Schwächungszauber und heilt das Ziel.|nVerbraucht Mana bis Abbruch. |n|n|cffffcc00Stufe 1|r - <AUla,DataB1> Trefferpunkte pro Sekunde, verbraucht <AUla,DataA1> Mana pro Sekunde. |n|cffffcc00Stufe 2|r - <AUla,DataB2> Trefferpunkte pro Sekunde, verbraucht <AUla,DataA2> Mana pro Sekunde. |n|cffffcc00Stufe 3|r - <AUla,DataB3> Trefferpunkte pro Sekunde, verbraucht <AUla,DataA3> Mana pro Sekunde. |n|cffffcc00Stufe 4|r - <AUla,DataB4> Trefferpunkte pro Sekunde, verbraucht <AUla,DataA4> Mana pro Sekunde. |n|cffffcc00Stufe 5|r - <AUla,DataB5> Trefferpunkte pro Sekunde, verbraucht <AUla,DataA5> Mana pro Sekunde.",
+      "esES": "Crea una atadura entre Anya y una unidad amistosa que disipa los perjuicios negativos y sana al objetivo.|nConsume maná hasta que se desactiva. |n|n|cffffcc00Nivel 1|r - <AUla,DataB1> p. de vida por segundo y consume <AUla,DataA1> p. de maná por segundo. |n|cffffcc00Nivel 2|r - <AUla,DataB2> p. de vida por segundo y consume <AUla,DataA2> p. de maná por segundo. |n|cffffcc00Nivel 3|r - <AUla,DataB3> p. de vida por segundo y consume <AUla,DataA3> p. de maná por segundo. |n|cffffcc00Nivel 4|r - <AUla,DataB4> p. de vida por segundo y consume <AUla,DataA4> p. de maná por segundo. |n|cffffcc00Nivel 5|r - <AUla,DataB5> p. de vida por segundo y consume <AUla,DataA5> p. de maná por segundo.",
+      "esMX": "Crea una atadura entre Anya y una unidad aliada, lo que disipa los efectos negativos y sana al objetivo.|nDrena maná hasta que se desactiva. |n|n|cffffcc00Nivel 1|r - <AUla,DataB1> de salud por segundo y drena <AUla,DataA1> de maná por segundo. |n|cffffcc00Nivel 2|r - <AUla,DataB2> de salud por segundo y drena <AUla,DataA2> de maná por segundo. |n|cffffcc00Nivel 3|r - <AUla,DataB3> de salud por segundo y drena <AUla,DataA3> de maná por segundo. |n|cffffcc00Nivel 4|r - <AUla,DataB4> de salud por segundo y drena <AUla,DataA4> de maná por segundo. |n|cffffcc00Nivel 5|r - <AUla,DataB5> de salud por segundo y drena <AUla,DataA5> de maná por segundo.",
+      "frFR": "Crée un lien entre Anya et une unité alliée. Dissipe les affaiblissements qui affectent la cible et soigne celle-ci.|nDraine du mana jusqu’à désactivation. |n|n|cffffcc00Niveau 1 :|r <AUla,DataB1> points de vie par seconde, draine <AUla,DataA1> points de mana par seconde. |n|cffffcc00Niveau 2 :|r <AUla,DataB2> points de vie par seconde, draine <AUla,DataA2> points de mana par seconde. |n|cffffcc00Niveau 3 :|r <AUla,DataB3> points de vie par seconde, draine <AUla,DataA3> points de mana par seconde. |n|cffffcc00Niveau 4 :|r <AUla,DataB4> points de vie par seconde, draine <AUla,DataA4> points de mana par seconde. |n|cffffcc00Niveau 5 :|r <AUla,DataB5> points de vie par seconde, draine <AUla,DataA5> points de mana par seconde.",
+      "koKR": "안야와 아군 유닛 하나를 연결해 부정적인 약화 효과를 무효화하고 대상을 치유합니다.|n비활성화할 때까지 마나를 소모합니다. |n|n|cffffcc001레벨|r - 초당 <AUla,DataB1> 생명력을 회복하고, 초당 <AUla,DataA1> 마나를 소모합니다. |n|cffffcc002레벨|r - 초당 <AUla,DataB2> 생명력을 회복하고, 초당 <AUla,DataA2> 마나를 소모합니다. |n|cffffcc003레벨|r - 초당 <AUla,DataB3> 생명력을 회복하고, 초당 <AUla,DataA3> 마나를 소모합니다. |n|cffffcc004레벨|r - 초당 <AUla,DataB4> 생명력을 회복하고, 초당 <AUla,DataA4> 마나를 소모합니다. |n|cffffcc005레벨|r - 초당 <AUla,DataB5> 생명력을 회복하고, 초당 <AUla,DataA5> 마나를 소모합니다.",
+      "plPL": "Tworzy więź między Anyą a sojuszniczą jednostką, rozprasza negatywne efekty i leczy cel.|nZużywa manę do chwili dezaktywacji zdolności.|n|n|cffffcc00Poziom 1|r – Przywraca <AUla,DataB1> pkt. zdrowia na sekundę, zużywa <AUla,DataA1> pkt. many na sekundę.|n|cffffcc00Poziom 2|r – Przywraca <AUla,DataB2> pkt. zdrowia na sekundę, zużywa <AUla,DataA2> pkt. many na sekundę.|n|cffffcc00Poziom 3|r – Przywraca <AUla,DataB3> pkt. zdrowia na sekundę, zużywa <AUla,DataA3> pkt. many na sekundę.|n|cffffcc00Poziom 4|r – Przywraca <AUla,DataB4> pkt. zdrowia na sekundę, zużywa <AUla,DataA4> pkt. many na sekundę.|n|cffffcc00Poziom 5|r – Przywraca <AUla,DataB5> pkt. zdrowia na sekundę, zużywa <AUla,DataA5> pkt. many na sekundę.",
+      "ptBR": "Cria uma conexão entre Anya e uma unidade aliada, dissipando penalidades e curando o alvo.|nDrena mana até ser desativada. |n|n|cffffcc00Nível 1|r - <AUla,DataB1> pontos de vida por segundo, drena <AUla,DataA1> de mana por segundo. |n|cffffcc00Nível 2|r - <AUla,DataB2> pontos de vida por segundo, drena <AUla,DataA2> de mana por segundo. |n|cffffcc00Nível 3|r - <AUla,DataB3> pontos de vida por segundo, drena <AUla,DataA3> de mana por segundo. |n|cffffcc00Nível 4|r - <AUla,DataB4> pontos de vida por segundo, drena <AUla,DataA4> de mana por segundo. |n|cffffcc00Nível 5|r - <AUla,DataB5> pontos de vida por segundo, drena <AUla,DataA5> de mana por segundo.",
+      "ruRU": "Создает связь между Анией и ее союзником, рассеивая отрицательные эффекты и восполняя здоровье цели.|nРасходует ману до отмены. |n|n|cffffcc001-й уровень:|r <AUla,DataB1> здоровья/сек., расходует <AUla,DataA1> маны/сек. |n|cffffcc002-й уровень:|r <AUla,DataB2> здоровья/сек., расходует <AUla,DataA2> маны/сек. |n|cffffcc003-й уровень:|r <AUla,DataB3> здоровья/сек., расходует <AUla,DataA3> маны/сек. |n|cffffcc004-й уровень:|r <AUla,DataB4> здоровья/сек., расходует <AUla,DataA4> маны/сек. |n|cffffcc005-й уровень:|r <AUla,DataB5> здоровья/сек., расходует <AUla,DataA5> маны/сек."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "W",
+      "deDE": "W",
+      "esES": "W",
+      "esMX": "W",
+      "frFR": "W",
+      "koKR": "W",
+      "plPL": "W",
+      "ptBR": "W",
+      "ruRU": "W"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNSoulLanternOn.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "3",
+    "Cost1": "15",
+    "Area1": "550",
+    "Rng1": "400",
+    "DataA1": "15",
+    "DataB1": "25",
+    "DataC1": "0",
+    "DataD1": "0",
+    "DataE1": "0",
+    "DataF1": "0",
+    "DataG1": "0",
+    "DataH1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "3",
+    "Cost2": "15",
+    "Area2": "550",
+    "Rng2": "400",
+    "DataA2": "15",
+    "DataB2": "35",
+    "DataC2": "0",
+    "DataD2": "0",
+    "DataE2": "0",
+    "DataF2": "0",
+    "DataG2": "0",
+    "DataH2": "0",
+    "Dur3": "0",
+    "HeroDur3": "0",
+    "Cool3": "3",
+    "Cost3": "15",
+    "Area3": "550",
+    "Rng3": "400",
+    "DataA3": "15",
+    "DataB3": "45",
+    "DataC3": "0",
+    "DataD3": "0",
+    "DataE3": "0",
+    "DataF3": "0",
+    "DataG3": "0",
+    "DataH3": "0",
+    "Dur4": "0",
+    "HeroDur4": "0",
+    "Cool4": "3",
+    "Cost4": "15",
+    "Area4": "550",
+    "Rng4": "400",
+    "DataA4": "15",
+    "DataB4": "55",
+    "DataC4": "0",
+    "DataD4": "0",
+    "DataE4": "0",
+    "DataF4": "0",
+    "DataG4": "0",
+    "DataH4": "0",
+    "Dur5": "0",
+    "HeroDur5": "0",
+    "Cool5": "3",
+    "Cost5": "15",
+    "Area5": "550",
+    "Rng5": "400",
+    "DataA5": "15",
+    "DataB5": "65",
+    "DataC5": "0",
+    "DataD5": "0",
+    "DataE5": "0",
+    "DataF5": "0",
+    "DataG5": "0",
+    "DataH5": "0"
+   }
+  },
+  {
+   "id": "AUdb",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Deathseeker Arrows",
+      "deDE": "Todessucherpfeile",
+      "esES": "Flechas de buscamuerte",
+      "esMX": "Flechas buscamuerte",
+      "frFR": "Flèches cherche-mort",
+      "koKR": "죽음추적자 화살",
+      "plPL": "Strzały Poszukiwacza Śmierci",
+      "ptBR": "Flechas de Caça-Morte",
+      "ruRU": "Губительные стрелы"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Deathseeker Arrows - [|cffffcc00Level 1|r]",
+       "Deathseeker Arrows - [|cffffcc00Level 2|r]",
+       "Deathseeker Arrows - [|cffffcc00Level 3|r]",
+       "Deathseeker Arrows - [|cffffcc00Level 4|r]",
+       "Deathseeker Arrows - [|cffffcc00Level 5|r]"
+      ],
+      "deDE": [
+       "Todessucherpfeile [|cffffcc00Stufe 1|r]",
+       "Todessucherpfeile [|cffffcc00Stufe 2|r]",
+       "Todessucherpfeile [|cffffcc00Stufe 3|r]",
+       "Todessucherpfeile [|cffffcc00Stufe 4|r]",
+       "Todessucherpfeile [|cffffcc00Stufe 5|r]"
+      ],
+      "esES": [
+       "Flechas de buscamuerte - [|cffffcc00Nivel 1|r]",
+       "Flechas de buscamuerte - [|cffffcc00Nivel 2|r]",
+       "Flechas de buscamuerte - [|cffffcc00Nivel 3|r]",
+       "Flechas de buscamuerte - [|cffffcc00Nivel 4|r]",
+       "Flechas de buscamuerte - [|cffffcc00Nivel 5|r]"
+      ],
+      "esMX": [
+       "Flechas buscamuerte - [|cffffcc00Nivel 1|r]",
+       "Flechas buscamuerte - [|cffffcc00Nivel 2|r]",
+       "Flechas buscamuerte - [|cffffcc00Nivel 3|r]",
+       "Flechas buscamuerte - [|cffffcc00Nivel 4|r]",
+       "Flechas buscamuerte - [|cffffcc00Nivel 5|r]"
+      ],
+      "frFR": [
+       "Flèches cherche-mort de |cffffcc00niveau 1|r",
+       "Flèches cherche-mort de |cffffcc00niveau 2|r",
+       "Flèches cherche-mort de |cffffcc00niveau 3|r",
+       "Flèches cherche-mort de |cffffcc00niveau 4|r",
+       "Flèches cherche-mort de |cffffcc00niveau 5|r"
+      ],
+      "koKR": [
+       "죽음추적자 화살 - [|cffffcc001레벨|r]",
+       "죽음추적자 화살 - [|cffffcc002레벨|r]",
+       "죽음추적자 화살 - [|cffffcc003레벨|r]",
+       "죽음추적자 화살 - [|cffffcc004레벨|r]",
+       "죽음추적자 화살 - [|cffffcc005레벨|r]"
+      ],
+      "plPL": [
+       "Strzały Poszukiwacza Śmierci – [|cffffcc00poziom 1|r]",
+       "Strzały Poszukiwacza Śmierci – [|cffffcc00poziom 2|r]",
+       "Strzały Poszukiwacza Śmierci – [|cffffcc00poziom 3|r]",
+       "Strzały Poszukiwacza Śmierci – [|cffffcc00poziom 4|r]",
+       "Strzały Poszukiwacza Śmierci – [|cffffcc00poziom 5|r]"
+      ],
+      "ptBR": [
+       "Flechas de Caça-Morte - [|cffffcc00Nível 1|r]",
+       "Flechas de Caça-Morte - [|cffffcc00Nível 2|r]",
+       "Flechas de Caça-Morte - [|cffffcc00Nível 3|r]",
+       "Flechas de Caça-Morte - [|cffffcc00Nível 4|r]",
+       "Flechas de Caça-Morte - [|cffffcc00Nível 5|r]"
+      ],
+      "ruRU": [
+       "Губительные стрелы [|cffffcc001-й уровень|r]",
+       "Губительные стрелы [|cffffcc002-й уровень|r]",
+       "Губительные стрелы [|cffffcc003-й уровень|r]",
+       "Губительные стрелы [|cffffcc004-й уровень|r]",
+       "Губительные стрелы [|cffffcc005-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "UberTip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Every <AUdb,DataC1> attacks against a target deals <AUdb,DataA1> bonus damage.|nResets after <AUdb,Dur1> seconds.",
+       "Every <AUdb,DataC2> attacks against a target deals <AUdb,DataA2> bonus damage.|nResets after <AUdb,Dur2> seconds.",
+       "Every <AUdb,DataC3> attacks against a target deals <AUdb,DataA3> bonus damage.|nResets after <AUdb,Dur3> seconds.",
+       "Every <AUdb,DataC4> attacks against a target deals <AUdb,DataA4> bonus damage.|nResets after <AUdb,Dur4> seconds.",
+       "Every <AUdb,DataC5> attacks against a target deals <AUdb,DataA5> bonus damage.|nResets after <AUdb,Dur5> seconds."
+      ],
+      "deDE": [
+       "Jeder <AUdb,DataC1>. Angriff auf ein Ziel verursacht <AUdb,DataA1> Bonusschaden.|nWird nach <AUdb,Dur1> Sek. zurückgesetzt.",
+       "Jeder <AUdb,DataC2>. Angriff auf ein Ziel verursacht <AUdb,DataA2> Bonusschaden.|nWird nach <AUdb,Dur2> Sek. zurückgesetzt.",
+       "Jeder <AUdb,DataC3>. Angriff auf ein Ziel verursacht <AUdb,DataA3> Bonusschaden.|nWird nach <AUdb,Dur3> Sek. zurückgesetzt.",
+       "Jeder <AUdb,DataC4>. Angriff auf ein Ziel verursacht <AUdb,DataA4> Bonusschaden.|nWird nach <AUdb,Dur4> Sek. zurückgesetzt.",
+       "Jeder <AUdb,DataC5>. Angriff auf ein Ziel verursacht <AUdb,DataA5> Bonusschaden.|nWird nach <AUdb,Dur5> Sek. zurückgesetzt."
+      ],
+      "esES": [
+       "Cada <AUdb,DataC1> ataques contra un objetivo, inflige <AUdb,DataA1> p. de daño adicional.|nSe restablece después de <AUdb,Dur1> s.",
+       "Cada <AUdb,DataC2> ataques contra un objetivo, inflige <AUdb,DataA2> p. de daño adicional.|nSe restablece después de <AUdb,Dur2> s.",
+       "Cada <AUdb,DataC3> ataques contra un objetivo, inflige <AUdb,DataA3> p. de daño adicional.|nSe restablece después de <AUdb,Dur3> s.",
+       "Cada <AUdb,DataC4> ataques contra un objetivo, inflige <AUdb,DataA4> p. de daño adicional.|nSe restablece después de <AUdb,Dur4> s.",
+       "Cada <AUdb,DataC5> ataques contra un objetivo, inflige <AUdb,DataA5> p. de daño adicional.|nSe restablece después de <AUdb,Dur5> s."
+      ],
+      "esMX": [
+       "Cada <AUdb,DataC1> ataques contra un objetivo inflige <AUdb,DataA1> más de daño.|nSe restablece después de <AUdb,Dur1> segundos.",
+       "Cada <AUdb,DataC2> ataques contra un objetivo inflige <AUdb,DataA2> más de daño.|nSe restablece después de <AUdb,Dur2> segundos.",
+       "Cada <AUdb,DataC3> ataques contra un objetivo inflige <AUdb,DataA3> más de daño.|nSe restablece después de <AUdb,Dur3> segundos.",
+       "Cada <AUdb,DataC4> ataques contra un objetivo inflige <AUdb,DataA4> más de daño.|nSe restablece después de <AUdb,Dur4> segundos.",
+       "Cada <AUdb,DataC5> ataques contra un objetivo inflige <AUdb,DataA5> más de daño.|nSe restablece después de <AUdb,Dur5> segundos."
+      ],
+      "frFR": [
+       "Toutes les <AUdb,DataC1> attaques contre une cible, inflige <AUdb,DataA1> points de dégâts supplémentaires.|nSe réinitialise après <AUdb,Dur1> secondes.",
+       "Toutes les <AUdb,DataC2> attaques contre une cible, inflige <AUdb,DataA2> points de dégâts supplémentaires.|nSe réinitialise après <AUdb,Dur2> secondes.",
+       "Toutes les <AUdb,DataC3> attaques contre une cible, inflige <AUdb,DataA3> points de dégâts supplémentaires.|nSe réinitialise après <AUdb,Dur3> secondes.",
+       "Toutes les <AUdb,DataC4> attaques contre une cible, inflige <AUdb,DataA4> points de dégâts supplémentaires.|nSe réinitialise après <AUdb,Dur4> secondes.",
+       "Toutes les <AUdb,DataC5> attaques contre une cible, inflige <AUdb,DataA5> points de dégâts supplémentaires.|nSe réinitialise après <AUdb,Dur5> secondes."
+      ],
+      "koKR": [
+       "대상을 <AUdb,DataC1>번 공격할 때마다 <AUdb,DataA1>의 추가 피해를 줍니다.|n<AUdb,Dur1>초 후 초기화됩니다.",
+       "대상을 <AUdb,DataC2>번 공격할 때마다 <AUdb,DataA2>의 추가 피해를 줍니다.|n<AUdb,Dur2>초 후 초기화됩니다.",
+       "대상을 <AUdb,DataC3>번 공격할 때마다 <AUdb,DataA3>의 추가 피해를 줍니다.|n<AUdb,Dur3>초 후 초기화됩니다.",
+       "대상을 <AUdb,DataC4>번 공격할 때마다 <AUdb,DataA4>의 추가 피해를 줍니다.|n<AUdb,Dur4>초 후 초기화됩니다.",
+       "대상을 <AUdb,DataC5>번 공격할 때마다 <AUdb,DataA5>의 추가 피해를 줍니다.|n<AUdb,Dur5>초 후 초기화됩니다."
+      ],
+      "plPL": [
+       "Co <AUdb,DataC1>. atak przeciwko celowi zadaje <AUdb,DataA1> pkt. dodatkowych obrażeń.|nResetuje się po <AUdb,Dur1> sek.",
+       "Co <AUdb,DataC2>. atak przeciwko celowi zadaje <AUdb,DataA2> pkt. dodatkowych obrażeń.|nResetuje się po <AUdb,Dur2> sek.",
+       "Co <AUdb,DataC3>. atak przeciwko celowi zadaje <AUdb,DataA3> pkt. dodatkowych obrażeń.|nResetuje się po <AUdb,Dur3> sek.",
+       "Co <AUdb,DataC4>. atak przeciwko celowi zadaje <AUdb,DataA4> pkt. dodatkowych obrażeń.|nResetuje się po <AUdb,Dur4> sek.",
+       "Co <AUdb,DataC5>. atak przeciwko celowi zadaje <AUdb,DataA5> pkt. dodatkowych obrażeń.|nResetuje się po <AUdb,Dur5> sek."
+      ],
+      "ptBR": [
+       "Cada <AUdb,DataC1> ataques contra um alvo causam <AUdb,DataA1> de bônus de dano.|nRedefine a cada <AUdb,Dur1> segundos.",
+       "Cada <AUdb,DataC2> ataques contra um alvo causam <AUdb,DataA2> de bônus de dano.|nRedefine a cada <AUdb,Dur2> segundos.",
+       "Cada <AUdb,DataC3> ataques contra um alvo causam <AUdb,DataA3> de bônus de dano.|nRedefine a cada <AUdb,Dur3> segundos.",
+       "Cada <AUdb,DataC4> ataques contra um alvo causam <AUdb,DataA4> de bônus de dano.|nRedefine a cada <AUdb,Dur4> segundos.",
+       "Cada <AUdb,DataC5> ataques contra um alvo causam <AUdb,DataA5> de bônus de dano.|nRedefine a cada <AUdb,Dur5> segundos."
+      ],
+      "ruRU": [
+       "После нескольких атак (<AUdb,DataC1>) наносит цели <AUdb,DataA1> дополнительного урона.|nЭффект рассеивается через <AUdb,Dur1> сек.",
+       "После нескольких атак (<AUdb,DataC2>) наносит цели <AUdb,DataA2> дополнительного урона.|nЭффект рассеивается через <AUdb,Dur2> сек.",
+       "После нескольких атак (<AUdb,DataC3>) наносит цели <AUdb,DataA3> дополнительного урона.|nЭффект рассеивается через <AUdb,Dur3> сек.",
+       "После нескольких атак (<AUdb,DataC4>) наносит цели <AUdb,DataA4> дополнительного урона.|nЭффект рассеивается через <AUdb,Dur4> сек.",
+       "После нескольких атак (<AUdb,DataC5>) наносит цели <AUdb,DataA5> дополнительного урона.|nЭффект рассеивается через <AUdb,Dur5> сек."
+      ]
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Deathseeker Arrows - [|cffffcc00Level %d|r]",
+      "deDE": "Todessucherpfeile [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Flechas de buscamuerte - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Flechas buscamuerte - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Flèches cherche-mort de |cffffcc00niveau %d|r",
+      "koKR": "죽음추적자 화살 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Strzał Poszukiwacza Śmierci – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Flechas de Caça-Morte - [|cffffcc00Nível%d|r]",
+      "ruRU": "Изучить «Губительные стрелы» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Deal bonus damage after attacking a target several times.|n|n|cffffcc00Level 1|r - <AUdb,DataC1> attacks, <AUdb,DataA1> bonus damage. |n|cffffcc00Level 2|r - <AUdb,DataC2> attacks, <AUdb,DataA2> bonus damage. |n|cffffcc00Level 3|r - <AUdb,DataC3> attacks, <AUdb,DataA3> bonus damage.|n|cffffcc00Level 4|r - <AUdb,DataC4> attacks, <AUdb,DataA4> bonus damage.|n|cffffcc00Level 5|r - <AUdb,DataC5> attacks, <AUdb,DataA5> bonus damage.",
+      "deDE": "Verursacht Bonusschaden, nachdem ein Ziel mehrmals angegriffen wurde.|n|n|cffffcc00Stufe 1|r - <AUdb,DataC1> Angriffe, <AUdb,DataA1> Bonusschaden. |n|cffffcc00Stufe 2|r - <AUdb,DataC2> Angriffe, <AUdb,DataA2> Bonusschaden. |n|cffffcc00Stufe 3|r - <AUdb,DataC3> Angriffe, <AUdb,DataA3> Bonusschaden.|n|cffffcc00Stufe 4|r - <AUdb,DataC4> Angriffe, <AUdb,DataA4> Bonusschaden.|n|cffffcc00Stufe 5|r - <AUdb,DataC5> Angriffe, <AUdb,DataA5> Bonusschaden.",
+      "esES": "Inflige daño adicional después de atacar a un objetivo varias veces.|n|n|cffffcc00Nivel 1|r - <AUdb,DataC1> ataques, <AUdb,DataA1> p. de daño adicional. |n|cffffcc00Nivel 2|r - <AUdb,DataC2> ataques, <AUdb,DataA2> p. de daño adicional. |n|cffffcc00Nivel 3|r - <AUdb,DataC3> ataques, <AUdb,DataA3> p. de daño adicional.|n|cffffcc00Nivel 4|r - <AUdb,DataC4> ataques, <AUdb,DataA4> p. de daño adicional.|n|cffffcc00Nivel 5|r - <AUdb,DataC5> ataques, <AUdb,DataA5> p. de daño adicional.",
+      "esMX": "Inflige daño adicional después de atacar a un objetivo varias veces.|n|n|cffffcc00Nivel 1|r - <AUdb,DataC1> ataques, <AUdb,DataA1> más de daño. |n|cffffcc00Nivel 2|r - <AUdb,DataC2> ataques, <AUdb,DataA2> más de daño. |n|cffffcc00Nivel 3|r - <AUdb,DataC3> ataques, <AUdb,DataA3> más de daño.|n|cffffcc00Nivel 4|r - <AUdb,DataC4> ataques, <AUdb,DataA4> más de daño.|n|cffffcc00Nivel 5|r - <AUdb,DataC5> ataques, <AUdb,DataA5> más de daño.",
+      "frFR": "Inflige des dégâts supplémentaires après un certain nombre d’attaques contre une cible.|n|n|cffffcc00Niveau 1 :|r <AUdb,DataC1> attaques, <AUdb,DataA1> points de dégâts supplémentaires. |n|cffffcc00Niveau 2 :|r <AUdb,DataC2> attaques, <AUdb,DataA2> points de dégâts supplémentaires. |n|cffffcc00Niveau 3 :|r <AUdb,DataC3> attaques, <AUdb,DataA3> points de dégâts supplémentaires. |n|cffffcc00Niveau 4 :|r <AUdb,DataC4> attaques, <AUdb,DataA4> points de dégâts supplémentaires. |n|cffffcc00Niveau 5 :|r <AUdb,DataC5> attaques, <AUdb,DataA5> points de dégâts supplémentaires.",
+      "koKR": "대상을 특정 횟수 공격한 후 추가 피해를 줍니다.|n|n|cffffcc001레벨|r - <AUdb,DataC1>회 공격하고 <AUdb,DataA1>의 추가 피해를 줍니다. |n|cffffcc002레벨|r - <AUdb,DataC2>회 공격하고 <AUdb,DataA2>의 추가 피해를 줍니다. |n|cffffcc003레벨|r - <AUdb,DataC3>회 공격하고 <AUdb,DataA3>의 추가 피해를 줍니다.|n|cffffcc004레벨|r - <AUdb,DataC4>회 공격하고 <AUdb,DataA4>의 추가 피해를 줍니다.|n|cffffcc005레벨|r - <AUdb,DataC5>회 공격하고 <AUdb,DataA5>의 추가 피해를 줍니다.",
+      "plPL": "Zadaje dodatkowe obrażenia po kilkukrotnym zaatakowaniu celu.|n|n|cffffcc00Poziom 1|r – Co <AUdb,DataC1>. atak, <AUdb,DataA1> pkt. dodatkowych obrażeń.|n|cffffcc00Poziom 2|r – Co <AUdb,DataC2>. atak, <AUdb,DataA2> pkt. dodatkowych obrażeń.|n|cffffcc00Poziom 3|r – Co <AUdb,DataC3>. atak, <AUdb,DataA3> pkt. dodatkowych obrażeń.|n|cffffcc00Poziom 4|r – Co <AUdb,DataC4>. atak, <AUdb,DataA4> pkt. dodatkowych obrażeń.|n|cffffcc00Poziom 5|r – Co <AUdb,DataC5>. atak, <AUdb,DataA5> pkt. dodatkowych obrażeń.",
+      "ptBR": "Causa bônus de dano após atacar o alvo diversas vezes.|n|n|cffffcc00Nível 1|r - <AUdb,DataC1> ataques, <AUdb,DataA1> de bônus de dano. |n|cffffcc00Nível 2|r - <AUdb,DataC2> ataques, <AUdb,DataA2> de bônus de dano. |n|cffffcc00Nível 3|r - <AUdb,DataC3> ataques, <AUdb,DataA3> de bônus de dano.|n|cffffcc00Nível 4|r - <AUdb,DataC4> ataques, <AUdb,DataA4> de bônus de dano.|n|cffffcc00Nível 5|r - <AUdb,DataC5> ataques, <AUdb,DataA5> de bônus de dano.",
+      "ruRU": "После нескольких атак наносит цели дополнительный урон.|n|n|cffffcc001-й уровень:|r число атак – <AUdb,DataC1>, <AUdb,DataA1> дополнительного урона. |n|cffffcc002-й уровень:|r число атак – <AUdb,DataC2>, <AUdb,DataA2> дополнительного урона. |n|cffffcc003-й уровень:|r число атак – <AUdb,DataC3>, <AUdb,DataA3> дополнительного урона. |n|cffffcc004-й уровень:|r число атак – <AUdb,DataC4>, <AUdb,DataA4> дополнительного урона. |n|cffffcc005-й уровень:|r число атак – <AUdb,DataC5>, <AUdb,DataA5> дополнительного урона."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "E",
+      "deDE": "E",
+      "esES": "E",
+      "esMX": "E",
+      "frFR": "E",
+      "koKR": "E",
+      "plPL": "E",
+      "ptBR": "E",
+      "ruRU": "E"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\PassiveButtons\\PASBTNDeathSeekerArrows.blp",
+   "data": {
+    "Dur1": "5",
+    "HeroDur1": "5",
+    "Cool1": "0",
+    "Cost1": "0",
+    "Area1": "0",
+    "DataA1": "80",
+    "DataB1": "0",
+    "DataC1": "4",
+    "DataD1": "0",
+    "DataE1": "0",
+    "Dur2": "5",
+    "HeroDur2": "5",
+    "Cool2": "0",
+    "Cost2": "0",
+    "Area2": "0",
+    "DataA2": "115",
+    "DataB2": "0",
+    "DataC2": "4",
+    "DataD2": "0",
+    "DataE2": "0",
+    "Dur3": "5",
+    "HeroDur3": "5",
+    "Cool3": "0",
+    "Cost3": "0",
+    "Area3": "0",
+    "DataA3": "150",
+    "DataB3": "0",
+    "DataC3": "4",
+    "DataD3": "0",
+    "DataE3": "0",
+    "Dur4": "5",
+    "HeroDur4": "5",
+    "Cool4": "0",
+    "Cost4": "0",
+    "Area4": "0",
+    "DataA4": "185",
+    "DataB4": "0",
+    "DataC4": "4",
+    "DataD4": "0",
+    "DataE4": "0",
+    "Dur5": "5",
+    "HeroDur5": "5",
+    "Cool5": "0",
+    "Cost5": "0",
+    "Area5": "0",
+    "DataA5": "220",
+    "DataB5": "0",
+    "DataC5": "4",
+    "DataD5": "0",
+    "DataE5": "0"
+   }
+  },
+  {
+   "id": "BUdb",
+   "kind": "buff",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUdb",
+   "fields": [
+    {
+     "key": "Bufftip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Deathseeker Arrows"
+      ],
+      "deDE": [
+       "Todessucherpfeile"
+      ],
+      "esES": [
+       "Flechas de buscamuerte"
+      ],
+      "esMX": [
+       "Flechas buscamuerte"
+      ],
+      "frFR": [
+       "Flèches cherche-mort"
+      ],
+      "koKR": [
+       "죽음추적자 화살"
+      ],
+      "plPL": [
+       "Strzały Poszukiwacza Śmierci"
+      ],
+      "ruRU": [
+       "Губительные стрелы"
+      ]
+     }
+    },
+    {
+     "key": "Buffubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "This unit is being targeted by Anya, it will take bonus damage after several attacks."
+      ],
+      "deDE": [
+       "Diese Einheit wird von Anya anvisiert und erleidet nach mehreren Angriffen Bonusschaden."
+      ],
+      "esES": [
+       "Esta unidad es el objetivo de Anya: recibirá daño adicional después de varios ataques."
+      ],
+      "esMX": [
+       "Esta unidad es objetivo de Anya, recibirá más daño después de varios ataques."
+      ],
+      "frFR": [
+       "Cette unité est ciblée par Anya. Elle subira des dégâts supplémentaires après un certain nombre d’attaques."
+      ],
+      "koKR": [
+       "안야에게 대상으로 지정되었습니다. 공격을 특정 횟수 받으면 추가 피해를 받습니다."
+      ],
+      "plPL": [
+       "Ta jednostka jest celem ataków Anyi i po otrzymaniu kilku trafień zostaną jej zadane dodatkowe obrażenia."
+      ],
+      "ptBR": [
+       "Esta unidade é alvo de Anya e receberá bônus de dano após diversos ataques."
+      ],
+      "ruRU": [
+       "Ания сосредоточилась на этой цели. После нескольких ее атак цель получит дополнительный урон."
+      ]
+     }
+    },
+    {
+     "key": "EditorSuffix",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       " (Target)"
+      ],
+      "deDE": [
+       "(Ziel)"
+      ],
+      "esES": [
+       "(Objetivo)"
+      ],
+      "esMX": [
+       "(Objetivo)"
+      ],
+      "frFR": [
+       "(Cible)"
+      ],
+      "koKR": [
+       "(Target)"
+      ],
+      "plPL": [
+       "(Cel)"
+      ],
+      "ptBR": [
+       "Alvo"
+      ],
+      "ruRU": [
+       "(Цель)"
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {}
+  },
+  {
+   "id": "AUwc",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Banshee's Wail",
+      "deDE": "Bansheeheulen",
+      "esES": "Lamento de alma en pena",
+      "esMX": "Lamento de banshee",
+      "frFR": "Complainte de la banshee",
+      "koKR": "밴시의 비명",
+      "plPL": "Ryk Banshee",
+      "ptBR": "Lamento da Banshee",
+      "ruRU": "Вой банши"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Banshee's Wail - [|cffffcc00Level 1|r]",
+       "Banshee's Wail - [|cffffcc00Level 2|r]",
+       "Banshee's Wail - [|cffffcc00Level 3|r]"
+      ],
+      "deDE": [
+       "Bansheeheulen [|cffffcc00Stufe 1|r]",
+       "Bansheeheulen [|cffffcc00Stufe 2|r]",
+       "Bansheeheulen [|cffffcc00Stufe 3|r]"
+      ],
+      "esES": [
+       "Lamento de alma en pena - [|cffffcc00Nivel 1|r]",
+       "Lamento de alma en pena - [|cffffcc00Nivel 2|r]",
+       "Lamento de alma en pena - [|cffffcc00Nivel 3|r]"
+      ],
+      "esMX": [
+       "Lamento de banshee - [|cffffcc00Nivel 1|r]",
+       "Lamento de banshee - [|cffffcc00Nivel 2|r]",
+       "Lamento de banshee - [|cffffcc00Nivel 3|r]"
+      ],
+      "frFR": [
+       "Complainte de la banshee de |cffffcc00niveau 1|r",
+       "Complainte de la banshee de |cffffcc00niveau 2|r",
+       "Complainte de la banshee de |cffffcc00niveau 3|r"
+      ],
+      "koKR": [
+       "밴시의 비명 - [|cffffcc001레벨|r]",
+       "밴시의 비명 - [|cffffcc002레벨|r]",
+       "밴시의 비명 - [|cffffcc003레벨|r]"
+      ],
+      "plPL": [
+       "Ryk Banshee – [|cffffcc00poziom 1|r]",
+       "Ryk Banshee – [|cffffcc00poziom 2|r]",
+       "Ryk Banshee – [|cffffcc00poziom 3|r]"
+      ],
+      "ptBR": [
+       "Lamento da Banshee - [|cffffcc00Nível 1|r]",
+       "Lamento da Banshee - [|cffffcc00Nível 2|r]",
+       "Lamento da Banshee - [|cffffcc00Nível 3|r]"
+      ],
+      "ruRU": [
+       "Вой банши [|cffffcc001-й уровень|r]",
+       "Вой банши [|cffffcc002-й уровень|r]",
+       "Вой банши [|cffffcc003-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Anya summons <AUwc,DataA1> Banshees to attack nearby enemies. Banshee attacks apply a debuff that increases Magic Damage taken by <Amda,DataA1,%>%. |nLasts <AUwc,HeroDur1> seconds.",
+       "Anya summons <AUwc,DataA2> Banshees to attack nearby enemies. Banshee attacks apply a debuff that increases Magic Damage taken by <Amda,DataA1,%>%. |nLasts <AUwc,HeroDur2> seconds.",
+       "Anya summons <AUwc,DataA3> Banshees to attack nearby enemies. Banshee attacks apply a debuff that increases Magic Damage taken by <Amda,DataA1,%>%. |nLasts <AUwc,HeroDur3> seconds."
+      ],
+      "deDE": [
+       "Anya beschwört <AUwc,DataA1> Banshees, die Gegner in der Nähe angreifen. Angriffe von Banshees belegen Gegner mit einem Schwächungszauber, der erlittenen Magieschaden um <Amda,DataA1,%> % erhöht. |nBleibt <AUwc,HeroDur1> Sek. lang bestehen.",
+       "Anya beschwört <AUwc,DataA2> Banshees, die Gegner in der Nähe angreifen. Angriffe von Banshees belegen Gegner mit einem Schwächungszauber, der erlittenen Magieschaden um <Amda,DataA1,%> % erhöht. |nBleibt <AUwc,HeroDur2> Sek. lang bestehen.",
+       "Anya beschwört <AUwc,DataA3> Banshees, die Gegner in der Nähe angreifen. Angriffe von Banshees belegen Gegner mit einem Schwächungszauber, der erlittenen Magieschaden um <Amda,DataA1,%> % erhöht. |nBleibt <AUwc,HeroDur3> Sek. lang bestehen."
+      ],
+      "esES": [
+       "Anya invoca <AUwc,DataA1> almas en pena para que ataquen a los enemigos cercanos. Los ataques de las almas en pena aplican un perjuicio que aumenta un <Amda,DataA1,%>% el daño mágico recibido. |nDura <AUwc,HeroDur1> s.",
+       "Anya invoca <AUwc,DataA2> almas en pena para que ataquen a los enemigos cercanos. Los ataques de las almas en pena aplican un perjuicio que aumenta un <Amda,DataA1,%>% el daño mágico recibido. |nDura <AUwc,HeroDur2> s.",
+       "Anya invoca <AUwc,DataA3> almas en pena para que ataquen a los enemigos cercanos. Los ataques de las almas en pena aplican un perjuicio que aumenta un <Amda,DataA1,%>% el daño mágico recibido. |nDura <AUwc,HeroDur3> s."
+      ],
+      "esMX": [
+       "Anya invoca <AUwc,DataA1> banshees para que ataquen a los enemigos cercanos. Los ataques de las banshees aplican un efecto negativo que aumenta el daño mágico recibido un <Amda,DataA1,%>%. |nDura <AUwc,HeroDur1> segundos.",
+       "Anya invoca <AUwc,DataA2> banshees para que ataquen a los enemigos cercanos. Los ataques de las banshees aplican un efecto negativo que aumenta el daño mágico recibido un <Amda,DataA1,%>%. |nDura <AUwc,HeroDur2> segundos.",
+       "Anya invoca <AUwc,DataA3> banshees para que ataquen a los enemigos cercanos. Los ataques de las banshees aplican un efecto negativo que aumenta el daño mágico recibido un <Amda,DataA1,%>%. |nDura <AUwc,HeroDur3> segundos."
+      ],
+      "frFR": [
+       "Anya invoque <AUwc,DataA1> Banshees pour attaquer les unités ennemies proches. Les attaques des Banshees infligent un affaiblissement qui augmente les dégâts magiques subis de <Amda,DataA1,%> %. |nDure <AUwc,HeroDur1> secondes.",
+       "Anya invoque <AUwc,DataA2> Banshees pour attaquer les unités ennemies proches. Les attaques des Banshees infligent un affaiblissement qui augmente les dégâts magiques subis de <Amda,DataA1,%> %. |nDure <AUwc,HeroDur2> secondes.",
+       "Anya invoque <AUwc,DataA3> Banshees pour attaquer les unités ennemies proches. Les attaques des Banshees infligent un affaiblissement qui augmente les dégâts magiques subis de <Amda,DataA1,%> %. |nDure <AUwc,HeroDur3> secondes."
+      ],
+      "koKR": [
+       "안야가 밴시 <AUwc,DataA1>구를 소환해 주위 적을 공격합니다. 밴시 공격 시 받는 마법 피해를 <Amda,DataA1,%>% 증가시키는 약화 효과를 적용합니다. |n<AUwc,HeroDur1>초 동안 지속됩니다.",
+       "안야가 밴시 <AUwc,DataA2>구를 소환해 주위 적을 공격합니다. 밴시 공격 시 받는 마법 피해를 <Amda,DataA1,%>% 증가시키는 약화 효과를 적용합니다. |n<AUwc,HeroDur2>초 동안 지속됩니다.",
+       "안야가 밴시 <AUwc,DataA3>구를 소환해 주위 적을 공격합니다. 밴시 공격 시 받는 마법 피해를 <Amda,DataA1,%>% 증가시키는 약화 효과를 적용합니다. |n<AUwc,HeroDur3>초 동안 지속됩니다."
+      ],
+      "plPL": [
+       "Anya przyzywa <AUwc,DataA1> banshee, które atakują pobliskich wrogów. Ataki banshee nakładają osłabienie zwiększające otrzymywane obrażenia magiczne o <Amda,DataA1,%>%.|nCzas działania: <AUwc,HeroDur1> sek.",
+       "Anya przyzywa <AUwc,DataA2> banshee, które atakują pobliskich wrogów. Ataki banshee nakładają osłabienie zwiększające otrzymywane obrażenia magiczne o <Amda,DataA1,%>%.|nCzas działania: <AUwc,HeroDur2> sek.",
+       "Anya przyzywa <AUwc,DataA3> banshee, które atakują pobliskich wrogów. Ataki banshee nakładają osłabienie zwiększające otrzymywane obrażenia magiczne o <Amda,DataA1,%>%.|nCzas działania: <AUwc,HeroDur3> sek."
+      ],
+      "ptBR": [
+       "Anya evoca <AUwc,DataA1> Banshees para atacar inimigos próximos. Ataques de Banshees aplicam uma penalidade que aumenta o dano mágico recebido em <Amda,DataA1,%>%. |nDura <AUwc,HeroDur1> segundos.",
+       "Anya evoca <AUwc,DataA2> Banshees para atacar inimigos próximos. Ataques de Banshees aplicam uma penalidade que aumenta o dano mágico recebido em <Amda,DataA1,%>%. |nDura <AUwc,HeroDur2> segundos.",
+       "Anya evoca <AUwc,DataA3> Banshees para atacar inimigos próximos. Ataques de Banshees aplicam uma penalidade que aumenta o dano mágico recebido em <Amda,DataA1,%>%. |nDura <AUwc,HeroDur3> segundos."
+      ],
+      "ruRU": [
+       "Ания призывает <AUwc,DataA1> банши. Атаки банши накладывают на ближайших врагов отрицательный эффект, который увеличивает получаемый ими магический урон на <Amda,DataA1,%>%. |nВремя действия: <AUwc,HeroDur1> сек.",
+       "Ания призывает <AUwc,DataA2> банши. Атаки банши накладывают на ближайших врагов отрицательный эффект, который увеличивает получаемый ими магический урон на <Amda,DataA1,%>%. |nВремя действия: <AUwc,HeroDur2> сек.",
+       "Ания призывает <AUwc,DataA3> банши. Атаки банши накладывают на ближайших врагов отрицательный эффект, который увеличивает получаемый ими магический урон на <Amda,DataA1,%>%. |nВремя действия: <AUwc,HeroDur3> сек."
+      ]
+     }
+    },
+    {
+     "key": "Hotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Banshee's Wail - [|cffffcc00Level %d|r]",
+      "deDE": "Bansheeheulen [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Lamento de alma en pena - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Lamento de banshee - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre Complainte de la banshee de |cffffcc00niveau %d|r",
+      "koKR": "밴시의 비명 배우기 - [|cffffcc00%d레벨|r]",
+      "plPL": "Nauka Ryku Banshee – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Lamento da Banshee - [|cffffcc00Nível %d|r]",
+      "ruRU": "Изучить «Вой банши» [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "Anya summons Banshees to attack nearby enemies. Banshee attacks apply a debuff that increases Magic Damage taken by <Amda,DataA1,%>%.|n|n|cffffcc00Level 1|r - <AUwc,DataA1> Banshees. |n|cffffcc00Level 2|r - <AUwc,DataA2> Banshees. |n|cffffcc00Level 3|r - <AUwc,DataA3> Banshees.",
+      "deDE": "Anya beschwört Banshees, die Gegner in der Nähe angreifen. Angriffe von Banshees belegen Gegner mit einem Schwächungszauber, der erlittenen Magieschaden um <Amda,DataA1,%> % erhöht.|n|n|cffffcc00Stufe 1|r - <AUwc,DataA1> Banshees. |n|cffffcc00Stufe 2|r - <AUwc,DataA2> Banshees. |n|cffffcc00Stufe 3|r - <AUwc,DataA3> Banshees.",
+      "esES": "Anya invoca almas en pena para que ataquen a los enemigos cercanos. Los ataques de las almas en pena aplican un perjuicio que aumenta un <Amda,DataA1,%>% el daño mágico recibido.|n|n|cffffcc00Nivel 1|r - <AUwc,DataA1> almas en pena. |n|cffffcc00Nivel 2|r - <AUwc,DataA2> almas en pena. |n|cffffcc00Nivel 3|r - <AUwc,DataA3> almas en pena.",
+      "esMX": "Anya invoca banshees para que ataquen a los enemigos cercanos. Los ataques de las banshees aplican un efecto negativo que aumenta el daño mágico recibido un <Amda,DataA1,%>%.|n|n|cffffcc00Nivel 1|r - <AUwc,DataA1> banshees |n|cffffcc00Nivel 2|r - <AUwc,DataA2> banshees |n|cffffcc00Nivel 3|r - <AUwc,DataA3> banshees.",
+      "frFR": "Anya invoque des Banshees pour attaquer les unités ennemies proches. Les attaques des Banshees infligent un affaiblissement qui augmente les dégâts magiques subis de .<Amda,DataA1,%> %.|n|n|cffffcc00Niveau 1 :|r <AUwc,DataA1> Banshees |n|cffffcc00Niveau 2 :|r <AUwc,DataA2> Banshees |n|cffffcc00Niveau 3 :|r <AUwc,DataA3> Banshees.",
+      "koKR": "안야가 밴시를 소환해 주위 적을 공격합니다. 밴시의 공격은 받는 마법 피해를 <Amda,DataA1,%>% 증가시키는 약화 효과를 적용합니다.|n|n|cffffcc001레벨|r - 밴시 <AUwc,DataA1>구를 소환합니다.|n|cffffcc002레벨|r - 밴시 <AUwc,DataA2>구를 소환합니다. |n|cffffcc003레벨|r - 밴시 <AUwc,DataA3>구를 소환합니다.",
+      "plPL": "Anya przyzywa banshee, które atakują pobliskich wrogów. Ataki banshee nakładają osłabienie zwiększające otrzymywane obrażenia magiczne o <Amda,DataA1,%>%.|n|n|cffffcc00Poziom 1|r – <AUwc,DataA1> banshee. |n|cffffcc00Poziom 2|r – <AUwc,DataA2> banshee. |n|cffffcc00Poziom 3|r – <AUwc,DataA3> banshee.",
+      "ptBR": "Anya evoca Banshees para atacar inimigos próximos. Ataques de Banshees aplicam uma penalidade que aumenta o dano mágico recebido em <Amda,DataA1,%>%.|n|n|cffffcc00Nível 1|r - <AUwc,DataA1> Banshees. |n|cffffcc00Nível 2|r - <AUwc,DataA2> Banshees. |n|cffffcc00Nível 3|r - <AUwc,DataA3> Banshees.",
+      "ruRU": "Ания призывает банши. Атаки банши применяют к ближайшим врагам отрицательный эффект, который увеличивает получаемый ими магический урон на <Amda,DataA1,%>%.|n|n|cffffcc001-й уровень:|r призывает <AUwc,DataA1> банши.|n|cffffcc002-й уровень:|r призывает <AUwc,DataA2> банши.|n|cffffcc003-й уровень:|r призывает <AUwc,DataA3> банши."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "R",
+      "deDE": "R",
+      "esES": "R",
+      "esMX": "R",
+      "frFR": "R",
+      "koKR": "R",
+      "plPL": "R",
+      "ptBR": "R",
+      "ruRU": "R"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNBansheesCall.blp",
+   "data": {
+    "Dur1": "30",
+    "HeroDur1": "30",
+    "Cool1": "120",
+    "Cost1": "150",
+    "Area1": "800",
+    "DataA1": "5",
+    "DataB1": "0.2",
+    "DataC1": "7",
+    "DataD1": "0",
+    "DataE1": "20",
+    "DataF1": "0",
+    "DataG1": "0",
+    "Dur2": "30",
+    "HeroDur2": "30",
+    "Cool2": "120",
+    "Cost2": "150",
+    "Area2": "800",
+    "DataA2": "7",
+    "DataB2": "0.2",
+    "DataC2": "7",
+    "DataD2": "0",
+    "DataE2": "20",
+    "DataF2": "0",
+    "DataG2": "0",
+    "Dur3": "30",
+    "HeroDur3": "30",
+    "Cool3": "120",
+    "Cost3": "150",
+    "Area3": "800",
+    "DataA3": "9",
+    "DataB3": "0.2",
+    "DataC3": "9",
+    "DataD3": "0",
+    "DataE3": "20",
+    "DataF3": "0",
+    "DataG3": "0",
+    "Dur4": "30",
+    "HeroDur4": "30",
+    "Cool4": "3",
+    "Cost4": "150",
+    "Area4": "800",
+    "DataA4": "5",
+    "DataB4": "0.2",
+    "DataC4": "7",
+    "DataD4": "0.75",
+    "DataE4": "20",
+    "DataF4": "5",
+    "DataG4": "400"
+   }
+  },
+  {
+   "id": "ufrb",
+   "kind": "summoned unit",
+   "file": "CampaignUnitStrings.txt",
+   "note": "of AUwc",
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Banshee",
+      "deDE": "Banshee",
+      "esES": "Alma en pena",
+      "esMX": "Banshee",
+      "frFR": "Banshee",
+      "koKR": "밴시",
+      "plPL": "Banshee",
+      "ptBR": "Banshee",
+      "ruRU": "Банши"
+     }
+    },
+    {
+     "key": "EditorSuffix",
+     "per_level": false,
+     "values": {
+      "enUS": " (Banshee's Wail)",
+      "deDE": "(Bansheeheulen)",
+      "esES": "(Lamento de alma en pena)",
+      "esMX": "(Lamento de banshee)",
+      "frFR": "(Complainte de la banshee)",
+      "koKR": "(Banshee's Wail)",
+      "plPL": "(Ryk Banshee)",
+      "ptBR": "(Lamento da Banshee)",
+      "ruRU": "(Вой банши)"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\CommandButtons\\BTNBansheesCall.blp",
+   "data": {}
+  },
+  {
+   "id": "Amda",
+   "kind": "ability used in the tooltip",
+   "file": "CampaignAbilityStrings.txt",
+   "note": "of AUwc",
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Banshee's Wail",
+      "deDE": "Bansheeheulen",
+      "esES": "Lamento de alma en pena",
+      "esMX": "Lamento de banshee",
+      "frFR": "Complainte de la banshee",
+      "koKR": "밴시의 비명",
+      "plPL": "Ryk Banshee",
+      "ruRU": "Вой банши"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Banshee's Wail"
+      ],
+      "deDE": [
+       "Bansheeheulen"
+      ],
+      "esES": [
+       "Lamento de alma en pena"
+      ],
+      "esMX": [
+       "Lamento de banshee"
+      ],
+      "frFR": [
+       "Complainte de la banshee"
+      ],
+      "koKR": [
+       "밴시의 비명"
+      ],
+      "plPL": [
+       "Ryk Banshee"
+      ],
+      "ruRU": [
+       "Вой банши"
+      ]
+     }
+    },
+    {
+     "key": "EditorSuffix",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       " (level 1)"
+      ],
+      "deDE": [
+       "(Stufe 1)"
+      ],
+      "esES": [
+       "(nivel 1)"
+      ],
+      "esMX": [
+       "(nivel 1)"
+      ],
+      "frFR": [
+       "(niveau 1)"
+      ],
+      "koKR": [
+       "(level 1)"
+      ],
+      "plPL": [
+       "(poziom 1)"
+      ],
+      "ptBR": [
+       "(nível 1)"
+      ],
+      "ruRU": [
+       "(1-й уровень)"
+      ]
+     }
+    }
+   ],
+   "icon": null,
+   "data": {
+    "Dur1": "5",
+    "HeroDur1": "5",
+    "Cool1": "0",
+    "Cost1": "0",
+    "Area1": "0",
+    "Rng1": "800",
+    "DataA1": "0.3"
+   }
+  },
+  {
+   "id": "Aaml",
+   "kind": "ability",
+   "file": "CampaignAbilityStrings.txt",
+   "note": null,
+   "fields": [
+    {
+     "key": "Name",
+     "per_level": false,
+     "values": {
+      "enUS": "Attribute Bonus",
+      "deDE": "Erhöhte Attribute",
+      "esES": "Bonificación de atributo",
+      "esMX": "Bonificación de atributo",
+      "frFR": "Bonus aux caractéristiques",
+      "koKR": "능력치 보너스",
+      "plPL": "Premia do Współczynnika",
+      "ptBR": "Bônus de atributo",
+      "ruRU": "Повышение характеристик"
+     }
+    },
+    {
+     "key": "Tip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Attribute Bonus - [|cffffcc00Level 1|r]",
+       "Attribute Bonus - [|cffffcc00Level 2|r]"
+      ],
+      "deDE": [
+       "Erhöhte Attribute [|cffffcc00Stufe 1|r]",
+       "Erhöhte Attribute [|cffffcc00Stufe 2|r]"
+      ],
+      "esES": [
+       "Bonificación de atributo - [|cffffcc00Nivel 1|r]",
+       "Bonificación de atributo - [|cffffcc00Nivel 2|r]"
+      ],
+      "esMX": [
+       "Bonificación de atributo - [|cffffcc00Nivel 1|r]",
+       "Bonificación de atributo - [|cffffcc00Nivel 2|r]"
+      ],
+      "frFR": [
+       "Bonus aux caractéristiques de |cffffcc00niveau 1|r",
+       "Bonus aux caractéristiques de |cffffcc00niveau 2|r"
+      ],
+      "koKR": [
+       "능력치 보너스 - [|cffffcc001레벨|r]",
+       "능력치 보너스 - [|cffffcc002레벨|r]"
+      ],
+      "plPL": [
+       "Premia do Współczynnika – [|cffffcc00Poziom 1|r]",
+       "Premia do Współczynnika – [|cffffcc00Poziom 2|r]"
+      ],
+      "ptBR": [
+       "Bônus de Atributo - [|cffffcc00Nível 1|r]",
+       "Bônus de Atributo - [|cffffcc00Nível 2|r]"
+      ],
+      "ruRU": [
+       "Повышение характеристик [|cffffcc001-й уровень|r]",
+       "Повышение характеристик [|cffffcc002-й уровень|r]"
+      ]
+     }
+    },
+    {
+     "key": "Ubertip",
+     "per_level": true,
+     "values": {
+      "enUS": [
+       "Gives a total of <Aaml,DataA1> points to Agility, Intelligence, and Strength",
+       "Gives a total of <Aaml,DataA2> points to Agility, Intelligence, and Strength"
+      ],
+      "deDE": [
+       "Erhöht die Beweglichkeit, Stärke und Intelligenz um insgesamt <Aaml,DataA1>.",
+       "Erhöht die Beweglichkeit, Stärke und Intelligenz um insgesamt <Aaml,DataA2>."
+      ],
+      "esES": [
+       "Otorga un total de <Aaml,DataA1> p. de agilidad, inteligencia y fuerza.",
+       "Otorga un total de <Aaml,DataA2> p. de agilidad, inteligencia y fuerza."
+      ],
+      "esMX": [
+       "Otorga un total de <Aaml,DataA1> puntos de agilidad, intelecto y fuerza",
+       "Otorga un total de <Aaml,DataA2> puntos de agilidad, intelecto y fuerza"
+      ],
+      "frFR": [
+       "Confère un total de <Aaml,DataA1> points à l’Agilité, l’Intelligence et la Force.",
+       "Confère un total de <Aaml,DataA2> points à l’Agilité, l’Intelligence et la Force."
+      ],
+      "koKR": [
+       "민첩성, 지능, 힘이 각각 <Aaml,DataA1> 증가합니다.",
+       "민첩성, 지능, 힘이 각각 <Aaml,DataA2> 증가합니다."
+      ],
+      "plPL": [
+       "Dodaje po <Aaml,DataA1> pkt. do zwinności, inteligencji i siły.",
+       "Dodaje po <Aaml,DataA2> pkt. do zwinności, inteligencji i siły."
+      ],
+      "ptBR": [
+       "Adiciona um total de <Aaml,DataA1> pontos aos atributos Agilidade, Inteligência e Força",
+       "Adiciona um total de <Aaml,DataA2> pontos aos atributos Agilidade, Inteligência e Força"
+      ],
+      "ruRU": [
+       "+<Aaml,DataA1> к силе, ловкости и интеллекту.",
+       "+<Aaml,DataA2> к силе, ловкости и интеллекту."
+      ]
+     }
+    },
+    {
+     "key": "Researchtip",
+     "per_level": false,
+     "values": {
+      "enUS": "Learn Attribute Bonus - [|cffffcc00Level %d|r].",
+      "deDE": "Erhöhte Attribute [|cffffcc00Stufe %d|r] erlernen",
+      "esES": "Aprender Bonificación de atributo - [|cffffcc00Nivel %d|r]",
+      "esMX": "Aprender Bonificación de atributo - [|cffffcc00Nivel %d|r]",
+      "frFR": "Apprendre un bonus aux caractéristiques de |cffffcc00niveau %d|r.",
+      "koKR": "능력치 보너스 배우기 - [|cffffcc00%d레벨|r].",
+      "plPL": "Nauka Premii do Współczynnika – [|cffffcc00poziom %d|r]",
+      "ptBR": "Aprender Bônus de Atributo - [|cffffcc00Nível %d|r].",
+      "ruRU": "Изучить повышение характеристик [|cffffcc00%d-й уровень|r]"
+     }
+    },
+    {
+     "key": "Researchubertip",
+     "per_level": false,
+     "values": {
+      "enUS": "\"Gives a permanent bonus to Agility, Intelligence, and Strength. |n|n|cffffcc00Level 1|r - Grants <Aaml,DataA1> points to all stats.|n|cffffcc00Level 2|r - Grants an additional <Aaml,DataA1> points to all stats.",
+      "deDE": "Erhöht die Beweglichkeit, Stärke und Intelligenz dauerhaft.|n|n|cffffcc00Stufe 1|r - Erhöht alle Werte um <Aaml,DataA1>.|n|cffffcc00Stufe 2|r - Erhöht alle Werte zusätzlich um <Aaml,DataA1>.",
+      "esES": "Otorga una bonificación permanente de agilidad, inteligencia y fuerza. |n|n|cffffcc00Nivel 1|r: otorga <Aaml,DataA1> p. a todas las estadísticas.|n|cffffcc00Nivel 2|r: otorga <Aaml,DataA1> p. adicionales.",
+      "esMX": "Otorga una bonificación permanente de agilidad, intelecto y fuerza. |n|n|cffffcc00Nivel 1|r: otorga <Aaml,DataA1> puntos a todos los atributos.|n|cffffcc00Nivel 2|r: otorga <Aaml,DataA1> puntos adicionales a todos los atributos.",
+      "frFR": "Augmente de manière permanente l’Agilité, l’Intelligence et la Force. |n|n|cffffcc00Niveau 1 :|r augmente toutes les caractéristiques de <Aaml,DataA1> points.|n|cffffcc00Niveau 2 :|r confère <Aaml,DataA1> points supplémentaires à toutes les caractéristiques.",
+      "koKR": "민첩성, 지능, 힘이 영구적으로 증가합니다. |n|n|cffffcc001레벨|r - 모든 능력치가 <Aaml,DataA1>씩 증가합니다.|n|cffffcc002레벨|r - 모든 능력치가 <Aaml,DataA1>씩 더 증가합니다.",
+      "plPL": "Przyznaje trwałą premię do zwinności, inteligencji i siły.|n|n|cffffcc00Poziom 1|r – <Aaml,DataA1> pkt. premii do wszystkich współczynników.|n|cffffcc00Poziom 2|r – kolejne <Aaml,DataA1> pkt. premii do wszystkich współczynników.",
+      "ptBR": "Concede um bônus permanente de Agilidade, Inteligência e Força. |n|n|cffffcc00Nível 1|r - Concede <Aaml,DataA1> pontos a todos os atributos.|n|cffffcc00Nível 2|r - Concede mais <Aaml,DataA1> pontos a todos os atributos.",
+      "ruRU": "Повышает ловкость, интеллект и силу. |n|n|cffffcc001-й уровень:|r +<Aaml,DataA1> к каждой характеристике.|n|cffffcc002-й уровень:|r еще +<Aaml,DataA1> к каждой характеристике."
+     }
+    },
+    {
+     "key": "Researchhotkey",
+     "per_level": false,
+     "values": {
+      "enUS": "F",
+      "deDE": "F",
+      "esES": "F",
+      "esMX": "F",
+      "frFR": "F",
+      "koKR": "F",
+      "plPL": "F",
+      "ptBR": "F",
+      "ruRU": "F"
+     }
+    }
+   ],
+   "icon": "ReplaceableTextures\\PassiveButtons\\PASBTNStatUp.blp",
+   "data": {
+    "Dur1": "0",
+    "HeroDur1": "0",
+    "Cool1": "0",
+    "Cost1": "0",
+    "DataA1": "5",
+    "DataB1": "5",
+    "DataC1": "5",
+    "DataD1": "0",
+    "Dur2": "0",
+    "HeroDur2": "0",
+    "Cool2": "0",
+    "Cost2": "0",
+    "DataA2": "10",
+    "DataB2": "10",
+    "DataC2": "10",
+    "DataD2": "0",
+    "Dur4": "0",
+    "HeroDur4": "0",
+    "Cool4": "0",
+    "Cost4": "0",
+    "DataA4": "12",
+    "DataB4": "12",
+    "DataC4": "12",
+    "DataD4": "0"
+   }
+  }
+ ],
+ "install": "Loose files replace whole string files: put the translated CampaignAbilityStrings.txt and CampaignUnitStrings.txt (all original sections + these) into _retail_\\_Units (installed Ukrainian base-game localization uses this folder; its files have no Forsaken Kingdom sections yet)."
+}
