@@ -9923,7 +9923,7 @@ Esgrimista
 
 STRING 3106
 {
-Aprender Esgrimista
+Aprender Esgrimista - [|cffffcc00Nível %d|r]
 }
 
 STRING 3107
@@ -15900,11 +15900,11 @@ Provides a +2 bonus to Strength, Agility and Intelligence as well as +5 bonus to
 
 STRING 4450
 {
-|cffff8c00Artifact|r
+|cffff8c00Artefato|r
 Aumenta a Força, Agilidade e Inteligência do Herói em |cffffc8002|r quando equipada. Também concede um bônus de |cffffc8005|r de Armadura.
 
-|cffffcc00History|r
-|cffffmortoEssa armadura foi concedida a Uther, o Arauto da Luz, no primeiro dia em que ele se tornou um paladino. OO próprio Arcebispo Alonsus Faol a abençoou e colocou encantamentos sagrados nela.|r
+|cffffcc00História|r
+|cffffdeadEssa armadura foi concedida a Uther, o Arauto da Luz, no primeiro dia em que ele se tornou um paladino. O próprio Arcebispo Alonsus Faol a abençoou e colocou encantamentos sagrados nela.|r
 }
 
 STRING 4451
@@ -16435,7 +16435,7 @@ STRING 4636
 
 STRING 4637
 {
-Aprender Tiro de Pistola
+Aprender Tiro de Pistola - [|cffffcc00Nível %d|r]
 }
 
 STRING 4639
@@ -16495,7 +16495,7 @@ Essa unidade foi bombardeada. Ela está com armadura reduzida e está sofrendo d
 
 STRING 4661
 {
-Derek arremesa uma granada no alvo. Apos explodir, a bomba espalha estilhaços nas unidades proximas. |n|nReduzindo a armadura; e dando dano ao longo do tempo para o alvo principal; enquanto unidades proximas sofrem menos dano ao longo do tempo. |nDura <ANab,Dur1> segundos. |n|n|cffffcc00Nível 1|r - <ANab,DataD1> dano maximo por segundo, reduz armadura por <ANab,DataC1>. |n|n|cffffcc00Nível 2|r - <ANab,DataD2> dano maximo por segundo, reduz armadura por <ANab,DataC2>. |n|n|cffffcc00Nível 3|r - <ANab,DataD3> dano maximo por segundo, reduz armadura por <ANab,DataC3>.
+Derek arremesa uma granada no alvo. Após explodir, a bomba espalha estilhaços nas unidades próximas. |n|nReduzindo a armadura; e dando dano ao longo do tempo para o alvo principal; enquanto unidades próximas sofrem menos dano ao longo do tempo. |nDura <ANab,Dur1> segundos. |n|n|cffffcc00Nível 1|r - <ANab,DataD1> dano máximo por segundo, reduz armadura por <ANab,DataC1>. |n|cffffcc00Nível 2|r - <ANab,DataD2> dano máximo por segundo, reduz armadura por <ANab,DataC2>. |n|cffffcc00Nível 3|r - <ANab,DataD3> dano máximo por segundo, reduz armadura por <ANab,DataC3>.
 }
 
 STRING 4665
@@ -16961,7 +16961,7 @@ Invoca uma onda de fragmentos arcanos que causam dano a unidades em uma área-al
 
 STRING 4789
 {
-Invoca ondas de fragmentos arcanos; cada onda causa <AKaS,DataB1> de dano às unidades em uma área.
+Invoca <AKaS,DataA1> ondas de fragmentos arcanos; cada onda causa <AKaS,DataB1> de dano às unidades em uma área.
 }
 
 STRING 4790
@@ -17646,7 +17646,7 @@ Aprender Golpe do Cruzado - [|cffffcc00Nível %d|r]
 
 STRING 4981
 {
-Envolve uma unidade inimiga em chamas sagradas que causam dano ao longo do tempo, impedem a conjuração de feitiços e reduzem o dano de ataque em <APEM,DataC1,%>%. |n|cffffcc00Nível 1|r - 100 de dano por <APEM,Dur1> segundos. |n|cffffcc00Nível 2|r - 225 de dano por <APEM,Dur2> segundos. |n|cffffcc00Nível 3|r - 375 de dano por <APEM,Dur3> segundos. |n|Dura pela metado contra Herois.
+Envolve uma unidade inimiga em chamas sagradas que causam dano ao longo do tempo, impedem a conjuração de feitiços e reduzem o dano de ataque em <APEM,DataC1,%>%.|n|n|cffffcc00Nível 1|r - 100 de dano por <APEM,Dur1> segundos. |n|cffffcc00Nível 2|r - 225 de dano por <APEM,Dur2> segundos. |n|cffffcc00Nível 3|r - 375 de dano por <APEM,Dur3> segundos. |n|nDura cerca da metade do tempo contra heróis.
 }
 
 STRING 4982
@@ -18726,7 +18726,7 @@ Oil Painting Thousand Needles
 
 STRING 5271
 {
-Lothar golpeia o inimigo com sua espada, causando grande dano inicial e, em seguida, causando dano ao longo do tempo. A unidade perfurada tem sua velocidade de movimento reduzida por um curto período. |n|n|cffffcc00Nível 1|r - <ALPb,DataE1> dano do golpe, <ALPb,DataA1> duração do dano. |n|n|cffffcc00Nível 2|r - <ALPb,DataE2> dano do golpe, <ALPb,DataA2> duração do dano. |n|n|cffffcc00Nível 3|r - <ALPb,DataE3> dano do golpe, <ALPb,DataA3> duração do dano.
+Lothar golpeia o inimigo com sua espada, causando grande dano inicial e, em seguida, causando dano ao longo do tempo. A unidade perfurada tem sua velocidade de movimento reduzida por um curto período. |n|n|cffffcc00Nível 1|r - <ALPb,DataE1> dano do golpe, <ALPb,DataA1> duração do dano. |n|cffffcc00Nível 2|r - <ALPb,DataE2> dano do golpe, <ALPb,DataA2> duração do dano. |n|cffffcc00Nível 3|r - <ALPb,DataE3> dano do golpe, <ALPb,DataA3> duração do dano.
 }
 
 STRING 5272
@@ -20916,7 +20916,7 @@ Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobrevi
 
 STRING 5883
 {
-Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobreviver até o fim da duração da invocação, o Professor renasce. <ARUL,HeroDur1> segundos.
+Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobreviver até o fim da duração da invocação, o Professor renasce. |nDura <ARUL,HeroDur1> segundos.
 }
 
 STRING 5884
@@ -20936,12 +20936,12 @@ Triangulação - [|cffffcc00Nível 3|r]
 
 STRING 5887
 {
-Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobreviver até o fim da duração da invocação, o Professor renasce. <ARUL,HeroDur2> segundos.
+Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobreviver até o fim da duração da invocação, o Professor renasce. |nDura <ARUL,HeroDur2> segundos.
 }
 
 STRING 5888
 {
-Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobreviver até o fim da duração da invocação, o Professor renasce. <ARUL,HeroDur3> segundos.
+Divide o Professor, formando 3 guerreiros especializados. Se algum deles sobreviver até o fim da duração da invocação, o Professor renasce. |nDura <ARUL,HeroDur3> segundos.
 }
 
 STRING 5889
@@ -23600,7 +23600,7 @@ Shield Down
 
 STRING 6543
 {
-Ative para levar apenas <AIDe,DataA1,%>% de dano de ataques perfurantes. Enquanto Defender estiver ativo, a velocidade de movimento é reduzida em <AIDe,DataA1,%>% da velocidade normal.
+Ative para levar apenas <AIDe,DataA1,%>% de dano de ataques perfurantes. Enquanto Defender estiver ativo, a velocidade de movimento é reduzida em <AIDe,DataC1,%>% da velocidade normal.
 }
 
 STRING 6544
@@ -24260,7 +24260,7 @@ Touch of the Void
 
 STRING 6707
 {
-Reduz a armadura de uma unidade inimiga alvo em <ABMh,DataA1> e concede visão dela. |nDura <ABMh,Dur1> segundos.
+Reduz a armadura de uma unidade inimiga alvo em <ADiF,DataA1> e concede visão dela. |nDura <ADiF,Dur1> segundos.
 }
 
 STRING 6708
@@ -28470,7 +28470,7 @@ Aumenta o dano de uma unidade aliada em <AspI,DataA1,%>% e armadura em <AspI,Dat
 
 STRING 7713
 {
-Remove todos os efeitos benéficos das unidades em uma área. |n|cffffcc00Causa <AEDS,DataB1> de dano a unidades invocadas.|r
+Remove todos os efeitos benéficos das unidades em uma área. |n|cffffcc00Causa <AsDm,DataB1> de dano a unidades invocadas.|r
 }
 
 STRING 7714
@@ -28606,12 +28606,12 @@ Derek lança uma granada no alvo. Após explodir, a bomba espalha estilhaços na
 
 STRING 7741
 {
-Derek lança uma granada no alvo. Após explodir, a bomba espalha estilhaços nas unidades próximas.|n|nReduz a armadura em <ADgr,DataC2>; causa <ADgr,DataD1> de dano por segundo ao alvo principal; causa um pouco menos de dano aos alvos próximos.|n Dura <ADgr,Dur2> segundos.
+Derek lança uma granada no alvo. Após explodir, a bomba espalha estilhaços nas unidades próximas.|n|nReduz a armadura em <ADgr,DataC2>; causa <ADgr,DataD2> de dano por segundo ao alvo principal; causa um pouco menos de dano aos alvos próximos.|n Dura <ADgr,Dur2> segundos.
 }
 
 STRING 7742
 {
-Derek lança uma granada no alvo. Após explodir, a bomba espalha estilhaços nas unidades próximas.|n|nReduz a armadura em <ADgr,DataC3>; causa <ADgr,DataD1> de dano por segundo ao alvo principal; causa um pouco menos de dano aos alvos próximos.|n Dura <ADgr,Dur3> segundos.
+Derek lança uma granada no alvo. Após explodir, a bomba espalha estilhaços nas unidades próximas.|n|nReduz a armadura em <ADgr,DataC3>; causa <ADgr,DataD3> de dano por segundo ao alvo principal; causa um pouco menos de dano aos alvos próximos.|n Dura <ADgr,Dur3> segundos.
 }
 
 STRING 7743
@@ -29894,8 +29894,9 @@ STRING 8055
 {
 |cffff8c00Artefato|r|nConcede um bônus permanente de 150 pontos de vida quando equipado. Também aumenta a regeneração de pontos de vida do portador em <Arll,DataA1> pontos por segundo. 
 
-|cffffcc00Historia|r  
-|cffffmortoUm presente da Dama Proudmoore, esse amuleto de prata carrega o brasão de Kul Tiras.  Diz-se que é abençoado pelo próprio mar; ele estabiliza o espírito de Derek em combate e cicatriza as suas feridas com o ritmo eterno da maré.|r
+|cffffcc00História|r  
+|cffffdeadUm presente da Dama Proudmoore, esse amuleto de prata carrega o brasão de Kul Tiras. Diz-se que é abençoado pelo próprio mar; ele estabiliza o espírito de Derek em combate e cicatriza as suas feridas com o ritmo eterno da maré.|r
+
 }
 
 STRING 8056
@@ -29915,7 +29916,7 @@ Revide
 
 STRING 8059
 {
-O soldado de Kul'Tiras é treinado para responder instantaneamente a cada golpe, devolvendo ao atacante <AKpR,DataA1,%>% do dano corpo a corpo recebido.
+O soldado de Kul'Tiras é treinado para responder instantaneamente a cada golpe, devolvendo ao atacante |cffffcc00<AKpR,DataA1,%>%|r do dano corpo a corpo recebido.
 }
 
 STRING 8061
@@ -32087,7 +32088,7 @@ Wilhelm é um capitão veterano que defendeu Ventrobravo junto a Meryn. Apos a e
 
 STRING 8516
 {
-Dispara um projétil flamejante que atordoa uma unidade inimiga por <AKfB,Dur1> segundos e causa um dano inicial de até <AKfB,DataD1>. |nO projétil explode em uma coluna de chamas que causa 45 de dano por segundo a unidades terrestres durante 3 segundos. À medida que a coluna de chamas diminui, as unidades que permanecem no fogo continuam a sofrer dano reduzido.
+Dispara um projétil flamejante que atordoa uma unidade inimiga por <AKfB,Dur1> segundos e causa um dano inicial de até <AKfB,DataD1>. O projétil explode em uma coluna de chamas que causa 45 de dano por segundo a unidades terrestres durante 3 segundos. À medida que a coluna de chamas diminui, as unidades que permanecem no fogo continuam a sofrer dano reduzido.
 }
 
 STRING 8517

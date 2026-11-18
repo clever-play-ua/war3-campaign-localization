@@ -630,54 +630,42 @@ A Horda orc rompeu as muralhas do palácio, e a sala do trono está sob cerco. O
 
 STRING 3779
 {
-|cffffcc00OBJETIVO PRINCIPAL|r
 O Herdeiro do Rei
-- Encontre o príncipe Arthas
-- Terenas deve sobreviver
- - Uther deve sobreviver
 }
 
 STRING 3780
 {
-|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
-O Herdeiro do Rei
-- |cffff0000Uther deve sobreviver (Fracassado)|r
+Os orcs invadiram o palácio e colocaram o príncipe herdeiro em grave perigo. Encontre-o e leve-o para um local seguro. A linhagem real deve ser protegida!
 }
 
 STRING 3781
 {
-Retome a cidade baixa
+Retome a cidade
 }
 
 STRING 3782
 {
-Retome o distrito do Palácio
+Chegou a hora de expulsar esses vermes de nossa cidade. Elimine a infestação orc distrito por distrito! Lutem unidos e retomem a capital!
 }
 
 STRING 3785
 {
-Destrua o acampamento inimigo
+Libertação da Ilha de Fenris
 }
 
 STRING 3786
 {
-|cffffcc00OBJETIVO PRINCIPAL|r
-Libertação da Ilha de Fenris
- - Destrua o acampamento inimigo
- - Todos os Heróis devem sobreviver
+A Ilha de Fenris é a última fortaleza da Horda no Lago de Lordamere. Esmague suas forças e ponha fim ao cerco. Não tenha piedade e passe todos pela espada.
 }
 
 STRING 3787
 {
-|cffffcc00OBJETIVO SECUNDÁRIO|r
 Asas Sombrias
- - Não deixe os dragões destruírem o palácio
 }
 
 STRING 3788
 {
-|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r
-Asas Sombrias
+Os dragões estão atacando o palácio! Ameaçando suas defesas. Recrute arqueiros para derrubá-los, enquanto seus paladinos apoiam as suas tropas com seus poderes de cura.
 }
 
 STRING 3791
@@ -692,9 +680,7 @@ Uther deve sobreviver
 
 STRING 3793
 {
-|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
-O Herdeiro do Rei
-- |cffff0000Terenas deve sobreviver (Fracassado)|r
+Encontre o príncipe Arthas
 }
 
 STRING 3794
@@ -709,36 +695,27 @@ Uther deve sobreviver
 
 STRING 3797
 {
-|cffffcc00OBJETIVO PRINCIPAL|r
-Retome a cidade
-- Retome a ala Leste
-- Todos os Heróis devem sobreviver
+Retome a ala Leste
 }
 
 STRING 3798
 {
-|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
-Retome a cidade
+Retome a ala Oeste
 }
 
 STRING 3801
 {
-|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r
-Asas Sombrias
- - |cffff0000Não deixe os dragões destruírem o palácio (Fracassado)|r
+Não deixe os dragões destruírem o palácio.
 }
 
 STRING 3804
 {
-|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
-Libertação da Ilha de Fenris
+Destrua o acampamento inimigo
 }
 
 STRING 3805
 {
-|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
-Libertação da Ilha de Fenris
- - |cffff0000Todos os Heróis devem sobreviver (Fracassado)|r
+Todos os Heróis devem sobreviver
 }
 
 STRING 3806
@@ -751,27 +728,61 @@ Proteja o Rei
 
 STRING 3807
 {
-Encontre o príncipe Arthas
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+Proteja o Rei
+ - |cffff0000Terenas deve sobreviver (Fracassado)|r
 }
 
 STRING 3808
 {
-O Herdeiro do Rei
+|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
+Proteja o Rei
 }
 
 STRING 3809
 {
-Os orcs invadiram o palácio e colocaram o príncipe herdeiro em grave perigo. Encontre-o e leve-o para um local seguro. A linhagem real deve ser protegida!
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+Proteja o Rei
+ - |cffff0000Uther deve sobreviver (Fracassado)|r
 }
 
 STRING 3810
+{
+|cffffcc00OBJETIVO PRINCIPAL|r
+O Herdeiro do Rei
+- Encontre o príncipe Arthas
+- Terenas deve sobreviver
+ - Uther deve sobreviver
+}
+
+STRING 3811
+{
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+O Herdeiro do Rei
+- |cffff0000Uther deve sobreviver (Fracassado)|r
+}
+
+STRING 3812
+{
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+O Herdeiro do Rei
+- |cffff0000Terenas deve sobreviver (Fracassado)|r
+}
+
+STRING 3813
 {
 |cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
 O Herdeiro do Rei
 - |cffff0000Arthas deve sobreviver (Fracassado)|r
 }
 
-STRING 3811
+STRING 3814
+{
+|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
+O Herdeiro do Rei
+}
+
+STRING 3815
 {
 |cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
 O Herdeiro do Rei
@@ -782,35 +793,14 @@ O Herdeiro do Rei
 - Abandone o palácio
 }
 
-STRING 3812
+STRING 3817
 {
 Arthas deve sobreviver
 }
 
-STRING 3813
-{
-Abandone o Palácio
-}
-
-STRING 3814
-{
-Todos os Heróis devem sobreviver
-}
-
-STRING 3815
-{
-|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
-O Herdeiro do Rei
-}
-
-STRING 3817
-{
-Retome a cidade
-}
-
 STRING 3818
 {
-Chegou a hora de expulsar esses vermes de nossa cidade. Elimine a infestação orc distrito por distrito! Lutem unidos e retomem a capital!
+Abandone o Palácio
 }
 
 STRING 3819
@@ -827,65 +817,66 @@ STRING 3820
 
 STRING 3821
 {
-|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
+|cffffcc00OBJETIVO PRINCIPAL|r
 Retome a cidade
-- Retome a ala Oeste
-- |cff808080Retome a ala Leste (Concluído)|r
+- Retome a ala Leste
 - Todos os Heróis devem sobreviver
 }
 
 STRING 3825
 {
-|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
+|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
 Retome a cidade
-- |cff808080Retome a ala Leste (Concluído)|r
-- |cff808080Retome a ala Oeste (Concluído)|r
-- Todos os Heróis devem sobreviver
 }
 
 STRING 3827
 {
-|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+|cffffcc00OBJETIVO PRINCIPAL|r
 Libertação da Ilha de Fenris
- - |cffff0000Ao menos um herói deve sobreviver (Fracassado)|r
+ - Destrua o acampamento inimigo
+ - Todos os Heróis devem sobreviver
 }
 
 STRING 3829
 {
-|cffff0000Não deixe os dragões destruírem o palácio (Fracassado)|r
+|cffffcc00OBJETIVO SECUNDÁRIO|r
+Asas Sombrias
+ - Não deixe os dragões destruírem o palácio
 }
 
 STRING 3833
 {
-Libertação da Ilha de Fenris
+|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r
+Asas Sombrias
 }
 
 STRING 3834
 {
-|cffffcc0OBJETIVO PRINCIPAL ATUALIZADO|r
+|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r
 Libertação da Ilha de Fenris
- - |cff808080Destrua o acampamento inimigo (Concluído)|r
- - Derrote o General da Horda
- - Ao menos um herói deve sobreviver
 }
 
 STRING 3836
 {
-A Ilha de Fenris é a última fortaleza da Horda no Lago de Lordamere. Esmague suas forças e ponha fim ao cerco. Não tenha piedade e passe todos pela espada.
+|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r
+Asas Sombrias
+ - |cffff0000Não deixe os dragões destruírem o palácio (Fracassado)|r
 }
 
 STRING 3837
 {
-Derrote o General da Horda
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+Libertação da Ilha de Fenris
+ - |cffff0000Todos os Heróis devem sobreviver (Fracassado)|r
 }
 
 STRING 3838
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Liberation of Fenris Isle
- - |cff808080Destroy Enemy Camp (Completed)|r
- - Defeat the Horde General
- - At least one hero must survive
+|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
+Libertação da Ilha de Fenris
+ - |cff808080Destrua o acampamento inimigo (Concluído)|r
+ - Derrote o General da Horda
+ - Ao menos um herói deve sobreviver
 }
 
 STRING 3845
@@ -2261,7 +2252,7 @@ STRING 4147
 |cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
 Retome a cidade
 - |cff808080Retome a ala Oeste (Concluído)|r
-- |cff808080Retome a ala Leste (Concluído)|r
+- Retome a ala Leste
 - Todos os Heróis devem sobreviver
 }
 
@@ -2269,9 +2260,8 @@ STRING 4153
 {
 |cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
 Retome a cidade
+- Retome a ala Oeste
 - |cff808080Retome a ala Leste (Concluído)|r
-- |cff808080Retome a ala Oeste (Concluído)|r
-- Retome o distrito do Palácio
 - Todos os Heróis devem sobreviver
 }
 
@@ -2281,7 +2271,6 @@ STRING 4160
 Retome a cidade
 - |cff808080Retome a ala Leste (Concluído)|r
 - |cff808080Retome a ala Oeste (Concluído)|r
-- |cff808080Retome o distrito do Palácio (Concluído)|r
 - Todos os Heróis devem sobreviver
 }
 
@@ -2289,10 +2278,8 @@ STRING 4161
 {
 |cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
 Retome a cidade
-- |cff808080Retome a ala Leste (Concluído)|r
 - |cff808080Retome a ala Oeste (Concluído)|r
-- |cff808080Retome o distrito do Palácio (Concluído)|r
-- Retome a cidade baixa
+- |cff808080Retome a ala Leste (Concluído)|r
 - Todos os Heróis devem sobreviver
 }
 
@@ -2344,7 +2331,7 @@ Inimigos restantes:
 
 STRING 4170
 {
-Todos os Heróis devem sobreviver
+|cffff0000Não deixe os dragões destruírem o palácio (Fracassado)|r
 }
 
 STRING 4171
@@ -2404,31 +2391,36 @@ Derek Proudmoore - comandante da Terceira Frota de Kul Tiras e o filho mais velh
 
 STRING 4182
 {
-|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
 Retome a cidade
-- |cffff0000Todos os Heróis devem sobreviver (Fracassado)|r
+- |cff808080Retome a ala Leste (Concluído)|r
+- |cff808080Retome a ala Oeste (Concluído)|r
+- Retome o distrito do Palácio
+- Todos os Heróis devem sobreviver
 }
 
 STRING 4183
 {
-Sobreviventes
+|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
+Retome a cidade
+- |cff808080Retome a ala Leste (Concluído)|r
+- |cff808080Retome a ala Oeste (Concluído)|r
+- |cff808080Retome o distrito do Palácio (Concluído)|r
+- Todos os Heróis devem sobreviver
 }
 
 STRING 4190
 {
-Resgate os civis presos sob os escombros
-}
-
-STRING 4191
-{
 |cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r
 Retome a cidade
+- |cff808080Retome a ala Leste (Concluído)|r
 - |cff808080Retome a ala Oeste (Concluído)|r
-- Retome a ala Leste
+- |cff808080Retome o distrito do Palácio (Concluído)|r
+- Retome a cidade baixa
 - Todos os Heróis devem sobreviver
 }
 
-STRING 4192
+STRING 4191
 {
 |cffffcc00OBJETIVO PRINCIPAL|r
 Retome a cidade
@@ -2436,9 +2428,14 @@ Retome a cidade
 - Todos os Heróis devem sobreviver
 }
 
+STRING 4192
+{
+Retome o distrito do Palácio
+}
+
 STRING 4193
 {
-Retome a ala Oeste
+Retome a cidade baixa
 }
 
 STRING 4194
@@ -2448,14 +2445,14 @@ Inimigos restantes:
 
 STRING 4196
 {
-Alguns civis estão soterrados sob os escombros. Resgate-os antes que seja tarde.
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+Retome a cidade
+- |cffff0000Todos os Heróis devem sobreviver (Fracassado)|r
 }
 
 STRING 4198
 {
-|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
-Libertação da Ilha de Fenris
- - |cffff0000Todos os Heróis devem sobreviver (Fracassado)|r
+Todos os Heróis devem sobreviver
 }
 
 STRING 4201
@@ -2516,21 +2513,17 @@ STRING 4212
 
 STRING 4213
 {
-|cffffcc00OBJETIVO SECUNDÁRIO|r
 Sobreviventes
-- Resgate os cidadãos dos montes de escombros (0 / 12 pilhas)
 }
 
 STRING 4214
 {
-|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r
-Sobreviventes
+Alguns civis estão soterrados sob os escombros. Resgate-os antes que seja tarde.
 }
 
 STRING 4215
 {
-|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r
-Sobreviventes
+Resgate os civis presos sob os escombros
 }
 
 STRING 4216
@@ -2589,7 +2582,9 @@ Mansão dos Altos Elfos
 
 STRING 4225
 {
-Asas Sombrias
+|cffffcc00OBJETIVO SECUNDÁRIO|r
+Sobreviventes
+- Resgate os cidadãos dos montes de escombros (0 / 12 pilhas)
 }
 
 STRING 4227
@@ -2604,7 +2599,8 @@ Objetivos da missão
 
 STRING 4229
 {
-Os dragões estão atacando o palácio! Ameaçando suas defesas. Recrute arqueiros para derrubá-los, enquanto seus paladinos apoiam as suas tropas com seus poderes de cura.
+|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r
+Sobreviventes
 }
 
 STRING 4230
@@ -2621,7 +2617,8 @@ Precisamos remover os escombros dos edifícios residenciais; alguns cidadãos po
 
 STRING 4232
 {
-Não deixe os dragões destruírem o palácio.
+|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r
+Sobreviventes
 }
 
 STRING 4233
@@ -2842,12 +2839,12 @@ WC2Human01Ogre04
 
 STRING 4299
 {
-At least one Hero must survive
+Ao menos um Herói deve sobreviver
 }
 
 STRING 4300
 {
-|cffffcc00MISSÃO FRACASSADA|r
+Derrote o General da Horda
 }
 
 STRING 4302
@@ -3067,6 +3064,8 @@ STRING 4360
 
 STRING 4362
 {
-Ao menos um Herói deve sobreviver
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+Libertação da Ilha de Fenris
+ - |cffff0000Ao menos um herói deve sobreviver (Fracassado)|r
 }
 
