@@ -416,3 +416,17 @@ It was replaced by `tools/l10n.py`; its data is in `archive/`.
   quests 436/436, global 570/570.
 * Workflow `.github/workflows/build-roa-pl.yml` -> clever-play-ua/CSW-RoA-PL@RoA_PL_LATEST, release title
   "CSW: RoA 1.03 PL 1.01" (set on every run), file name from `PL/lang.json` (CSW_Rise_of_the_Alliance_1_03_PL_1_03.w3n).
+
+## RoC_TFT reference database (2026-11-18)
+
+* `RoC_TFT/<lang>.json`: English Warcraft III strings (Reforged enUS from CASC) next to one translation, keyed by the
+  same `sha256(English)[:10]` hash as the campaign string files; each entry has `en`, `tr`, `refs` (string file|id|field,
+  fdf|key, map#STRING) and `variants`. Built and searched with `tools/war3_ref.py` (`build <lang> --folder|--casc`,
+  `search <lang> <text>`). Format in `RoC_TFT/README.md`.
+* `cz.json`: from "Warcraft III Reforged čeština 0.9" (F:\ЗАГРУЗКИ), 18,051 texts (12,207 unit/ability refs,
+  4,186 UI, 13,305 campaign map lines). The package keeps most names in English (Uther Lightbringer, Arthas,
+  Lordaeron); level lines are `X - [|cffffcc00N. úroveň|r]`, learn lines `Naučit se X(acc.) - [|cffffcc00%d. úroveň|r]`.
+  Prologue03-05 have no Reforged English counterpart. One known package error: "Increases the armor of all friendly
+  units in an area..." carries the text of a heal/mana item.
+* Czech RoA 0.2: Chapter One quest block realigned (same -3 shift as ES/PT), 137 texts taken from the package
+  (exact, same text with other ability codes, level lines) in `CSW-RoA/CZ/work/global_tr.json`.
