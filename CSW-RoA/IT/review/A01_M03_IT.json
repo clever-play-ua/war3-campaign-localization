@@ -1,0 +1,1777 @@
+{
+ "map": "WC2Human03",
+ "task": "A01_M03",
+ "lang": "IT",
+ "storyline": [
+  {
+   "fragment": "Fragment 1 · Intro",
+   "lines": [
+    {
+     "string": 167,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "Great masters, welcome. If I may, let me…",
+     "tr": "Benvenuti, grandi maestri. Se mi permettete, lasciate che…"
+    },
+    {
+     "string": 967,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "There is no time for formalities, Master Drenden. Cross Island has fallen, Master Norlan has been slain, and the Horde is marching upon our city.",
+     "tr": "Non c'è tempo per le formalità, maestro Drenden. L'Isola della Croce è caduta, il maestro Norlan è stato ucciso e l'Orda marcia sulla nostra città."
+    },
+    {
+     "string": 173,
+     "speaker": "Kel’Thuzad",
+     "speaker_tr": "Kel'Thuzad",
+     "en": "Chief Artificer? Dead? Without his constructs and our outlying defenses, how can we hope to stop their onslaught?",
+     "tr": "Il Capo Artefice? Morto? Senza i suoi costrutti e le nostre difese esterne, come possiamo sperare di fermare il loro assalto?"
+    },
+    {
+     "string": 176,
+     "speaker": "Kael’thas",
+     "speaker_tr": "Kael'thas",
+     "en": "I am afraid we will need to improvise.",
+     "tr": "Temo che dovremo improvvisare."
+    },
+    {
+     "string": 179,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Improvise? They have dragons. We need more than that against such a power!",
+     "tr": "Improvvisare? Hanno dei draghi. Contro una simile potenza ci serve ben altro!"
+    },
+    {
+     "string": 756,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "Calm down, masters. We’ve received a word that Doomhammer has been defeated at Lordaeron, and we’ll be soon reinforced by Alliance armies. The young Khadgar has delivered the report himself. We only need to hold our ground.",
+     "tr": "Calmatevi, maestri. Ci è giunta notizia che Martelfato è stato sconfitto a Lordaeron, e presto riceveremo i rinforzi degli eserciti dell'Alleanza. Il giovane Khadgar ha consegnato il rapporto di persona. Dobbiamo solo resistere."
+    },
+    {
+     "string": 758,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "Drenden, rendezvous with Master Khadgar. His battlefield experience will be useful in coordinating our efforts.",
+     "tr": "Drenden, raggiungi il maestro Khadgar. La sua esperienza sul campo di battaglia sarà utile per coordinare i nostri sforzi."
+    },
+    {
+     "string": 185,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "As you wish. But what of Master Norlan’s now-vacant position on our council?",
+     "tr": "Come desiderate. Ma che ne sarà del seggio del maestro Norlan nel nostro consiglio, ora vacante?"
+    },
+    {
+     "string": 188,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "There’s no time to debate that now. But worry not, I have a candidate in mind. She might be young, but her talents are unquestionable…",
+     "tr": "Non c'è tempo di discuterne ora. Ma non preoccuparti, ho già in mente una candidata. Sarà anche giovane, ma il suo talento è indiscutibile…"
+    },
+    {
+     "string": 927,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "Master Khadgar, here you are. We need to talk. The council has a task for you.",
+     "tr": "Maestro Khadgar, eccovi. Dobbiamo parlare. Il consiglio ha un compito per voi."
+    },
+    {
+     "string": 761,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Yes?",
+     "tr": "Sì?"
+    },
+    {
+     "string": 762,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "As the Kirin Tor is occupied with other tasks, we require someone to take care of our troops and battlefield defenses. Given your extensive experience, you seem to be the most fitting choice.",
+     "tr": "Poiché il Kirin Tor è occupato in altri compiti, ci serve qualcuno che si occupi delle nostre truppe e delle difese sul campo. Data la vostra vasta esperienza, sembrate la scelta più adatta."
+    },
+    {
+     "string": 767,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "The outer gates and water barriers protect us from ground attacks, but with our magical defenses weakened, orcish warlocks can open portals to assail the city directly.",
+     "tr": "Le porte esterne e le barriere d'acqua ci proteggono dagli attacchi via terra, ma con le nostre difese magiche indebolite gli stregoni orchi possono aprire portali per assalire direttamente la città."
+    },
+    {
+     "string": 768,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "With these portals active, even the Violet Citadel itself is in danger. You must do whatever you can to protect it from their assaults.",
+     "tr": "Con questi portali attivi, persino la Cittadella Violacea è in pericolo. Dovete fare tutto il possibile per proteggerla dai loro assalti."
+    },
+    {
+     "string": 763,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Understood. But first, I need more soldiers.",
+     "tr": "Inteso. Ma prima mi servono altri soldati."
+    },
+    {
+     "string": 764,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "Indeed. Our infantry and archer regiments are at your disposal. As this district has already been damaged by the Horde’s bombardment, you will need to use our workforce and resources to repair its structures.",
+     "tr": "Certamente. I nostri reggimenti di fanteria e di arcieri sono a vostra disposizione. Poiché questo quartiere è già stato danneggiato dai bombardamenti dell'Orda, dovrete usare i nostri lavoratori e le nostre risorse per riparare gli edifici."
+    },
+    {
+     "string": 769,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "The city banks are open to you, take anything you need. You are also free to scour for any lumber hidden in crates and barrels. If need be, cut even park trees down.",
+     "tr": "Le banche della città sono a vostra disposizione, prendete tutto ciò che vi serve. Siete anche libero di cercare legname nascosto in casse e barili. Se necessario, abbattete persino gli alberi del parco."
+    },
+    {
+     "string": 765,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "That will be a heartbreaking sight. I have always loved those trees. But it can’t be helped, the survival of our city is at stake.",
+     "tr": "Sarà uno spettacolo straziante. Ho sempre amato quegli alberi. Ma non c'è altro da fare, è in gioco la sopravvivenza della nostra città."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 2 · Midgame s.Artillery Strike",
+   "lines": [
+    {
+     "string": 864,
+     "speaker": "Maim Blackhand",
+     "speaker_tr": "Maim Manonera",
+     "en": "Enough standing around — fire up those catapults! I want Dalaran’s walls to crumble and its inhabitants to be buried under the rubble. Launch the strike!",
+     "tr": "Basta perdere tempo: caricate quelle catapulte! Voglio che le mura di Dalaran crollino e che i suoi abitanti restino sepolti sotto le macerie. Fuoco!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 3 · Midgame s.Disguise",
+   "lines": [
+    {
+     "string": 861,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "Keep patroling the streets, we never know where they spawn next portal, and try to not get killed by the catapult shells.",
+     "tr": "Continuate a pattugliare le strade, non sappiamo mai dove apriranno il prossimo portale, e cercate di non farvi uccidere dai proiettili delle catapulte."
+    },
+    {
+     "string": 858,
+     "speaker": "Captain",
+     "speaker_tr": "Capitano",
+     "en": "Yes, my lady.",
+     "tr": "Sì, mia signora."
+    },
+    {
+     "string": 784,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "You almost startled me!",
+     "tr": "Mi avete quasi spaventata!"
+    },
+    {
+     "string": 789,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "May I be of service, my lady?",
+     "tr": "Posso esservi utile, mia signora?"
+    },
+    {
+     "string": 224,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "Modera’s the name. I am…was the personal assistant to Master Norlan…",
+     "tr": "Mi chiamo Modera. Sono… ero l'assistente personale del maestro Norlan…"
+    },
+    {
+     "string": 227,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "My condolences.",
+     "tr": "Le mie condoglianze."
+    },
+    {
+     "string": 230,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "Thank you. But we have more pressing matters at hand. The Horde’s artillery is tearing down our defenses…",
+     "tr": "Grazie. Ma abbiamo questioni più urgenti. L'artiglieria dell'Orda sta abbattendo le nostre difese…"
+    },
+    {
+     "string": 233,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "And the Kirin Tor wants me to take it down. How?",
+     "tr": "E il Kirin Tor vuole che sia io a neutralizzarla. Come?"
+    },
+    {
+     "string": 236,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "This scroll will allow you to take on an appearance of one of their own. Unless you trigger one of their magical sentries, that should be enough to get past their lines.",
+     "tr": "Questa pergamena vi permetterà di assumere l'aspetto di uno di loro. Se non farete scattare una delle loro sentinelle magiche, dovrebbe bastare per superare le loro linee."
+    },
+    {
+     "string": 239,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Well, let’s hope the enchantment itself is reliable.",
+     "tr": "Be', speriamo che l'incantesimo sia affidabile."
+    },
+    {
+     "string": 242,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "Don’t worry, I’ve made it myself.",
+     "tr": "Non preoccupatevi, l'ho preparato io stessa."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 4 · Midgame s.Barrels",
+   "lines": [
+    {
+     "string": 843,
+     "speaker": "Grunt",
+     "speaker_tr": "Grunt",
+     "en": "Hey you! Use oil to set up this building on fire, and return to work!",
+     "tr": "Ehi, tu! Usa il petrolio per dare fuoco a questo edificio, poi torna al lavoro!"
+    },
+    {
+     "string": 796,
+     "speaker": "Peon",
+     "speaker_tr": "Peone",
+     "en": "Zug-Zug!",
+     "tr": "Zug-Zug!"
+    },
+    {
+     "string": 794,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Hm... I could use these oil barrels to set up the diversion....",
+     "tr": "Hm... potrei usare questi barili di petrolio per creare un diversivo...."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 5 · Scripted Voice Lines",
+   "lines": [
+    {
+     "string": 894,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "I must use the scroll. If the orcs notice me like that, I'm dead man.",
+     "tr": "Devo usare la pergamena. Se gli orchi mi notano così, sono un uomo morto."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 6 · Midgame s.Dam",
+   "lines": [
+    {
+     "string": 260,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Master Krasus. The orcish artillery has been dealt with as requested…",
+     "tr": "Maestro Krasus. L'artiglieria degli orchi è stata neutralizzata come richiesto…"
+    },
+    {
+     "string": 829,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Good job.",
+     "tr": "Ottimo lavoro."
+    },
+    {
+     "string": 827,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Master Krasus. I managed to destroy some of the orcish siege machines…",
+     "tr": "Maestro Krasus. Sono riuscito a distruggere alcune macchine d'assedio degli orchi…"
+    },
+    {
+     "string": 834,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Better than nothing.",
+     "tr": "Meglio di niente."
+    },
+    {
+     "string": 840,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Yet another problem has arisen. The orcs have damaged the dam barring the Violet River. Without it, the water levels have fallen…",
+     "tr": "Eppure è sorto un altro problema. Gli orchi hanno danneggiato la diga che sbarra il Fiume Violaceo. Senza di essa, il livello dell'acqua si è abbassato…"
+    },
+    {
+     "string": 896,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "And the orcs can now easily cross the stream and attack our weakest spots with impunity. Damn it! We must repair the dam immediately.",
+     "tr": "E ora gli orchi possono attraversare facilmente il corso d'acqua e attaccare impunemente i nostri punti più deboli. Maledizione! Dobbiamo riparare subito la diga."
+    },
+    {
+     "string": 269,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Yes, but first, we need to secure our defense perimeter. They can’t reach the inner parts of the city.",
+     "tr": "Sì, ma prima dobbiamo mettere in sicurezza il nostro perimetro difensivo. Non devono raggiungere il cuore della città."
+    },
+    {
+     "string": 272,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "I stand with you.",
+     "tr": "Sono con voi."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 7 · Midgame s.Undead",
+   "lines": [
+    {
+     "string": 760,
+     "speaker": "Teron Gorefiend",
+     "speaker_tr": "Teron Malacarne",
+     "en": "Pathetic mortals, in the end, all shall feel the touch of death’s embrace!",
+     "tr": "Patetici mortali, alla fine tutti sentirete il gelido abbraccio della morte!"
+    },
+    {
+     "string": 275,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "So much carnage…",
+     "tr": "Quanta carneficina…"
+    },
+    {
+     "string": 278,
+     "speaker": "Kel'Thuzad",
+     "speaker_tr": "Kel'Thuzad",
+     "en": "And there’s more to come. Our sentries report the orcs are massing for another attack. Headed by none other than their necromantic undead…",
+     "tr": "E altra ne verrà. Le nostre sentinelle riferiscono che gli orchi si stanno ammassando per un nuovo attacco. Guidati nientemeno che dai loro non morti negromantici…"
+    },
+    {
+     "string": 281,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "The ones that ravaged Stratholme and Quel’Thalas…the death knights.",
+     "tr": "Quelli che hanno devastato Stratholme e Quel'Thalas… i cavalieri della morte."
+    },
+    {
+     "string": 284,
+     "speaker": "Kel'Thuzad",
+     "speaker_tr": "Kel'Thuzad",
+     "en": "Hmm. Thankfully, my studies have allowed me to design a potent spell that should protect us from their necromantic magic. However, I’ll need protection while invoking it.",
+     "tr": "Hmm. Per fortuna i miei studi mi hanno permesso di ideare un potente incantesimo che dovrebbe proteggerci dalla loro magia negromantica. Tuttavia, avrò bisogno di protezione mentre lo invoco."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 8 · Midgame s.Dragons",
+   "lines": [
+    {
+     "string": 293,
+     "speaker": "Kel'Thuzad",
+     "speaker_tr": "Kel'Thuzad",
+     "en": "Curious…utmost curious. This will require further research.",
+     "tr": "Curioso… estremamente curioso. Servirà approfondire le ricerche."
+    },
+    {
+     "string": 805,
+     "speaker": "Kael’thas",
+     "speaker_tr": "Kael'thas",
+     "en": "...my dragonhawks are ready. With proper support, they will outmaneuver these dragons.",
+     "tr": "...i miei draghifalco sono pronti. Con il giusto supporto, avranno la meglio su questi draghi in agilità."
+    },
+    {
+     "string": 299,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "You want to attack them head on?",
+     "tr": "Volete attaccarli frontalmente?"
+    },
+    {
+     "string": 302,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "No. We merely need to capture a few of them and force the rest back.",
+     "tr": "No. Ci basta catturarne alcuni e respingere gli altri."
+    },
+    {
+     "string": 305,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Capture?!",
+     "tr": "Catturarli?!"
+    },
+    {
+     "string": 308,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Just so. These leviathans are too powerful a weapon of war. We need to learn more about the magic the orcs use to control them. Otherwise, they might always pose a threat to us. And the best way to do so is to capture and study some of them.",
+     "tr": "Proprio così. Questi leviatani sono un'arma da guerra troppo potente. Dobbiamo saperne di più sulla magia che gli orchi usano per controllarli. Altrimenti potrebbero restare per sempre una minaccia. E il modo migliore è catturarne alcuni e studiarli."
+    },
+    {
+     "string": 938,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Very well then. I wish your dragonhawks favorable winds, prince Kael.",
+     "tr": "Molto bene, allora. Auguro venti favorevoli ai vostri draghifalco, principe Kael."
+    },
+    {
+     "string": 314,
+     "speaker": "Kael’thas",
+     "speaker_tr": "Kael'thas",
+     "en": "Elves don’t need luck, my young friend.",
+     "tr": "Agli elfi non serve la fortuna, mio giovane amico."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 9 · Midgame s.Reinforcements",
+   "lines": [
+    {
+     "string": 320,
+     "speaker": "Drowning Grunt",
+     "speaker_tr": "Grunt che annega",
+     "en": "Graah…I hate…clean…water…",
+     "tr": "Graah… odio… acqua… pulita…"
+    },
+    {
+     "string": 320,
+     "speaker": "Drowning Grunt",
+     "speaker_tr": "Grunt che annega",
+     "en": "Graah…I hate…clean…water…",
+     "tr": "Graah… odio… acqua… pulita…"
+    },
+    {
+     "string": 323,
+     "speaker": "Kael’thas",
+     "speaker_tr": "Kael'thas",
+     "en": "Good riddance. It was about time we cleaned the city of this vermin.",
+     "tr": "Che liberazione. Era ora che ripulissimo la città da questi parassiti."
+    },
+    {
+     "string": 806,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "I wouldn’t celebrate yet. There are still….",
+     "tr": "Non festeggerei ancora. Ci sono ancora…."
+    },
+    {
+     "string": 329,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Khadgar! Good to see you in one piece, master mage.",
+     "tr": "Khadgar! Che piacere vederti tutto intero, maestro mago."
+    },
+    {
+     "string": 332,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Likewise, commander. I take it you have secured the lake?",
+     "tr": "Altrettanto, comandante. Immagino abbiate messo in sicurezza il lago?"
+    },
+    {
+     "string": 988,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Nearly. But it will take a while until more of our forces arrive. You’ll have to do with me and the vanguard. Still, I see you’ve taken good care of the city.",
+     "tr": "Quasi. Ma ci vorrà un po' prima che arrivino altre forze. Dovrai accontentarti di me e dell'avanguardia. Comunque vedo che hai badato bene alla città."
+    },
+    {
+     "string": 338,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Thank you. The Horde’s offensive has been broken, yet there’s still a significant force beyond the river. It’s only a matter of time before they regroup and renew their assault…",
+     "tr": "Grazie. L'offensiva dell'Orda è stata spezzata, ma oltre il fiume c'è ancora una forza considerevole. È solo questione di tempo prima che si riorganizzino e riprendano l'assalto…"
+    },
+    {
+     "string": 812,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "It seems I’ve arrived just in time. We can’t let them do that. Soldiers, march on!",
+     "tr": "A quanto pare sono arrivato giusto in tempo. Non possiamo permetterglielo. Soldati, avanti!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 10 · Midgame s.Battlefield",
+   "lines": [
+    {
+     "string": 344,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "That’s Sir Lothar!",
+     "tr": "È Sir Lothar!"
+    },
+    {
+     "string": 347,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "The old man always keeps his word.",
+     "tr": "Il vecchio mantiene sempre la parola."
+    },
+    {
+     "string": 350,
+     "speaker": "Lothar",
+     "speaker_tr": "Lothar",
+     "en": "Good to see you, lads. Like I promised, I’ve brought some friends.",
+     "tr": "Felice di vedervi, ragazzi. Come promesso, ho portato degli amici."
+    },
+    {
+     "string": 353,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "I am surprised to see so many Gilneans with you, sir. I thought King Greymane had a different strategy in mind…",
+     "tr": "Sono sorpreso di vedere così tanti gilneani con voi, signore. Credevo che re Mantogrigio avesse in mente una strategia diversa…"
+    },
+    {
+     "string": 356,
+     "speaker": "Darius Crowley",
+     "speaker_tr": "Darius Crowley",
+     "en": "Sometimes, strategies have to be adjusted. And not all of us agree with His Majesty and their brilliant mind.",
+     "tr": "A volte le strategie vanno corrette. E non tutti condividiamo il parere di Sua Maestà e della sua brillante mente."
+    },
+    {
+     "string": 359,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Well said.",
+     "tr": "Ben detto."
+    },
+    {
+     "string": 362,
+     "speaker": "Lothar",
+     "speaker_tr": "Lothar",
+     "en": "We’ll have time to discuss this later. We have the orcs on the run. It’s time to finish this.",
+     "tr": "Ne parleremo più tardi. Abbiamo messo in fuga gli orchi. È ora di farla finita."
+    },
+    {
+     "string": 365,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Yes, sir!",
+     "tr": "Sì, signore!"
+    },
+    {
+     "string": 368,
+     "speaker": "Danath",
+     "speaker_tr": "Danath",
+     "en": "Draw steel, boys!",
+     "tr": "Sguainate le spade, ragazzi!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 11 · Outro",
+   "lines": [
+    {
+     "string": 371,
+     "speaker": "Kel’Thuzad",
+     "speaker_tr": "Kel'Thuzad",
+     "en": "The orcs are retreating. The city is safe. But we must still measure the real cost of life. The level of damage is…considerable. Their dark powers have done their work.",
+     "tr": "Gli orchi si ritirano. La città è salva. Ma dobbiamo ancora contare il vero prezzo in vite. I danni sono… considerevoli. I loro poteri oscuri hanno fatto il loro lavoro."
+    },
+    {
+     "string": 374,
+     "speaker": "Kael’thas",
+     "speaker_tr": "Kael'thas",
+     "en": "We should have slaughtered them all for what they did to my homeland.",
+     "tr": "Avremmo dovuto massacrarli tutti per ciò che hanno fatto alla mia patria."
+    },
+    {
+     "string": 377,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "At least we can now learn more of their dominion over the dragons.",
+     "tr": "Almeno ora potremo saperne di più sul loro dominio sui draghi."
+    },
+    {
+     "string": 906,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "My friends. Our city has seen many great calamities and endured all of them. This is no different. We are the Kirin Tor. We will rebuild, we will restore, we will preserve.",
+     "tr": "Amici miei. La nostra città ha visto molte grandi calamità e le ha superate tutte. Questa non è diversa. Noi siamo il Kirin Tor. Ricostruiremo, ripristineremo, preserveremo."
+    },
+    {
+     "string": 383,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "But there’s another matter to attend. Master Norlan’s passing has left his seat on the council vacant. And I believe young Master Modera to be a proper choice for his replacement.",
+     "tr": "Ma c'è un'altra questione da affrontare. La scomparsa del maestro Norlan ha lasciato vacante il suo seggio nel consiglio. E credo che la giovane maestra Modera sia la scelta giusta per sostituirlo."
+    },
+    {
+     "string": 386,
+     "speaker": "Modera",
+     "speaker_tr": "Modera",
+     "en": "Me? I am deeply honored.",
+     "tr": "Io? Ne sono profondamente onorata."
+    },
+    {
+     "string": 389,
+     "speaker": "Drenden",
+     "speaker_tr": "Drenden",
+     "en": "A wise choice.",
+     "tr": "Una scelta saggia."
+    },
+    {
+     "string": 392,
+     "speaker": "Lothar",
+     "speaker_tr": "Lothar",
+     "en": "All your forces are accounted for?",
+     "tr": "Tutte le tue forze sono al completo?"
+    },
+    {
+     "string": 395,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Yes, sir. Lordamere has been fully secured and Lordaeron is better manned than before the siege. And more reinforcements are on their way to Dalaran.",
+     "tr": "Sì, signore. Il Lago Lordamere è stato messo completamente in sicurezza e Lordaeron è meglio presidiata di prima dell'assedio. E altri rinforzi sono in viaggio verso Dalaran."
+    },
+    {
+     "string": 398,
+     "speaker": "Lothar",
+     "speaker_tr": "Lothar",
+     "en": "You’ve done well.",
+     "tr": "Hai fatto un buon lavoro."
+    },
+    {
+     "string": 401,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "There were moments I thought I’d fail…",
+     "tr": "Ci sono stati momenti in cui ho pensato di fallire…"
+    },
+    {
+     "string": 404,
+     "speaker": "Lothar",
+     "speaker_tr": "Lothar",
+     "en": "Have faith. You need to trust yourself. Just as we trust in you. I never doubted you, lad.",
+     "tr": "Abbi fede. Devi avere fiducia in te stesso. Proprio come noi abbiamo fiducia in te. Non ho mai dubitato di te, ragazzo."
+    },
+    {
+     "string": 407,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Thank you, sir. What now?",
+     "tr": "Grazie, signore. E ora?"
+    },
+    {
+     "string": 410,
+     "speaker": "Lothar",
+     "speaker_tr": "Lothar",
+     "en": "If this region is to be fully safe, we need to restore our control over the southern coasts. Zul’Dare must fall. I’ll take my vanguard and march south on Hillsbrad. You and your forces will remain here and protect our northern flank.",
+     "tr": "Perché questa regione sia del tutto sicura, dobbiamo riprendere il controllo delle coste meridionali. Zul'Dare deve cadere. Prenderò la mia avanguardia e marcerò a sud verso Colletorto. Tu e le tue forze resterete qui a proteggere il nostro fianco settentrionale."
+    },
+    {
+     "string": 877,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Understood. Light be with you, my lord.",
+     "tr": "Inteso. Che la Luce sia con voi, mio signore."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 12 · Scripted Voice Lines",
+   "lines": [
+    {
+     "string": 771,
+     "speaker": "Dal’Rend Blackhand",
+     "speaker_tr": "Dal'Rend Manonera",
+     "en": "These wretched humans are bolstering their defenses, holding even against our relentless bombardment!",
+     "tr": "Questi miserabili umani rafforzano le loro difese e resistono persino al nostro bombardamento implacabile!"
+    },
+    {
+     "string": 254,
+     "speaker": "Maim Blackhand",
+     "speaker_tr": "Maim Manonera",
+     "en": "Lets just throw everything we have at them! ",
+     "tr": "Scagliamo contro di loro tutto ciò che abbiamo! "
+    },
+    {
+     "string": 772,
+     "speaker": "Dal’Rend Blackhand",
+     "speaker_tr": "Dal'Rend Manonera",
+     "en": "No, you fool! We must break the dam! Once the water levels have fallen, we flank their forces!",
+     "tr": "No, stolto! Dobbiamo distruggere la diga! Quando il livello dell'acqua sarà sceso, li prenderemo sul fianco!"
+    },
+    {
+     "string": 879,
+     "speaker": "Maim Blackhand",
+     "speaker_tr": "Maim Manonera",
+     "en": "Let none survive! Grind their bones to dust! ",
+     "tr": "Nessun superstite! Riducete in polvere le loro ossa! "
+    },
+    {
+     "string": 876,
+     "speaker": "Dal’Rend Blackhand",
+     "speaker_tr": "Dal'Rend Manonera",
+     "en": "Warriors! Tear through their ranks, carve a path to victory!",
+     "tr": "Guerrieri! Squarciate le loro file, apriteci la strada verso la vittoria!"
+    },
+    {
+     "string": 200,
+     "speaker": "Zuluhed the Whacked",
+     "speaker_tr": "Zuluhed l'Esausto",
+     "en": "Dragonmaws! Burn them to ashes! ",
+     "tr": "Fauci di Drago! Riduceteli in cenere! "
+    },
+    {
+     "string": 850,
+     "speaker": "Turalyon",
+     "speaker_tr": "Turalyon",
+     "en": "Hateful undead! Your presence defiles these lands; I will purge you!",
+     "tr": "Odiosi non morti! La vostra presenza profana queste terre: vi purificherò!"
+    },
+    {
+     "string": 847,
+     "speaker": "Teron Gorefiend",
+     "speaker_tr": "Teron Malacarne",
+     "en": "This is not our last fight, paladin!",
+     "tr": "Non è il nostro ultimo scontro, paladino!"
+    },
+    {
+     "string": 766,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "We must secure one of our blacksmiths, our troops need to repair and refine their armor and weaponry. ",
+     "tr": "Dobbiamo mettere in sicurezza una delle nostre fucine, le truppe devono riparare e migliorare armature e armi. "
+    },
+    {
+     "string": 773,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "What a cruel sight. Such majestic creatures enslaved by the orcs…",
+     "tr": "Che spettacolo crudele. Creature così maestose ridotte in schiavitù dagli orchi…"
+    },
+    {
+     "string": 856,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "The staff of Magna Aegwynn. How could it have ended up in the hands of thse monsters? I must retrieve it when this senile orc is distracted.",
+     "tr": "Il bastone della Magna Aegwynn. Come può essere finito nelle mani di questi mostri? Devo recuperarlo quando quel vecchio orco rimbambito sarà distratto."
+    },
+    {
+     "string": 775,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "These undead are wearing the armor of the Stormwind Knights. What a depravity.",
+     "tr": "Questi non morti indossano l'armatura dei Cavalieri di Roccavento. Che depravazione."
+    },
+    {
+     "string": 874,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "We have all we need. The rest of their air forces are retreating!",
+     "tr": "Abbiamo tutto ciò che ci serve. Il resto delle loro forze aeree si sta ritirando!"
+    },
+    {
+     "string": 895,
+     "speaker": "Krasus",
+     "speaker_tr": "Krasus",
+     "en": "Khadgar, order the worker to repair the dam, we need it back in order as soon as possible!",
+     "tr": "Khadgar, ordina al lavoratore di riparare la diga, dobbiamo rimetterla in funzione al più presto!"
+    },
+    {
+     "string": 892,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "These malevolent apparitions could see through my disguise, I must steer clear of them.",
+     "tr": "Queste apparizioni malevole possono vedere attraverso il mio travestimento, devo stare alla larga da loro."
+    },
+    {
+     "string": 751,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Good, the barrels are ready, now I need to check that oil trail connects them and hide somewhere till I am ready to ignite it.",
+     "tr": "Bene, i barili sono pronti, ora devo controllare che la scia di petrolio li colleghi e nascondermi da qualche parte finché non sarò pronto ad appiccare il fuoco."
+    },
+    {
+     "string": 931,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Good, the barrels are ready. I still have some time, so I'd better get rid of those warlocks that maintain the portals...",
+     "tr": "Bene, i barili sono pronti. Ho ancora un po' di tempo, quindi farei meglio a sbarazzarmi degli stregoni che mantengono i portali..."
+    },
+    {
+     "string": 778,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "I need to avoid any violence, they would surely discover and kill me otherwise.",
+     "tr": "Devo evitare ogni violenza, altrimenti mi scoprirebbero e mi ucciderebbero di sicuro."
+    },
+    {
+     "string": 777,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "I need to set up a diversion before my disguise fades. I’d better hurry, it won’t last a whole day.",
+     "tr": "Devo creare un diversivo prima che il travestimento svanisca. Meglio sbrigarsi, non durerà un giorno intero."
+    },
+    {
+     "string": 671,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "That lever… seems like it controls the crane... interesting...",
+     "tr": "Quella leva… sembra controllare la gru... interessante..."
+    },
+    {
+     "string": 579,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "What a tragic accident...",
+     "tr": "Che tragico incidente..."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 13 · Quests.Optional Quest Guardians",
+   "lines": [
+    {
+     "string": 779,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "Look! This is a crystal from one of the Cross Island citadels. Find two more and maybe we will be able to restore our arcane guardians.",
+     "tr": "Guarda! Questo è un cristallo di una delle cittadelle dell'Isola della Croce. Trovane altri due e forse potremo riattivare i nostri custodi arcani."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 14 · Scripted Voice Lines",
+   "lines": [
+    {
+     "string": 857,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Orcs are so negligent with workplace safety...",
+     "tr": "Gli orchi trascurano proprio la sicurezza sul lavoro..."
+    },
+    {
+     "string": 583,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "This one had a burnout at his job.",
+     "tr": "Questo qui si è bruciato sul lavoro."
+    },
+    {
+     "string": 940,
+     "speaker": "Retera",
+     "speaker_tr": "Retera",
+     "en": "Citizens of Dalaran!",
+     "tr": "Cittadini di Dalaran!"
+    },
+    {
+     "string": 943,
+     "speaker": "Retera",
+     "speaker_tr": "Retera",
+     "en": "I come to rescue!",
+     "tr": "Vengo a salvarvi!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 15 · Quests.Optional Quest Portals",
+   "lines": [
+    {
+     "string": 575,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "These are the portals that orcs use to send troops to the city. If I could dispose of those warlocks discreetly... I need to figure something out.",
+     "tr": "Questi sono i portali che gli orchi usano per mandare truppe in città. Se potessi sbarazzarmi di quegli stregoni senza farmi notare... Devo inventarmi qualcosa."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 16 · Quests.Optional Quest Guardians",
+   "lines": [
+    {
+     "string": 617,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "Good! When you return to the city, activate the Guardians near the Violet Citadel.",
+     "tr": "Bene! Quando tornerai in città, attiva i Custodi vicino alla Cittadella Violacea."
+    }
+   ]
+  }
+ ],
+ "quests": [
+  {
+   "quest": "Dalaran",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 47,
+     "en": "Dalaran",
+     "tr": "Dalaran"
+    },
+    {
+     "label": "Description",
+     "string": 48,
+     "en": "The Horde threatens the Violet Citadel, intent on its destruction. Defend the citadel and ensure its towers remain standing, the fate of our magical defenses depends on you.",
+     "tr": "L'Orda minaccia la Cittadella Violacea ed è decisa a distruggerla. Difendi la cittadella e fa' che le sue torri restino in piedi: da te dipende il destino delle nostre difese magiche."
+    },
+    {
+     "label": "Requirement",
+     "string": 49,
+     "en": "Protect the Violet Citadel.",
+     "tr": "Proteggi la Cittadella Violacea"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 94,
+     "en": "|cffffcc00MAIN QUEST|r\nDalaran\n - Protect the Violet Citadel",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nDalaran\n - Proteggi la Cittadella Violacea"
+    },
+    {
+     "label": "Requirement text",
+     "string": 506,
+     "en": "|cffff0000Protect the Violet Citadel (failed)|r",
+     "tr": "|cffff0000Proteggi la Cittadella Violacea (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 96,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nDalaran\n - |cffff0000Protect the Violet Citadel (failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nDalaran\n - |cffff0000Proteggi la Cittadella Violacea (Fallito)|r"
+    },
+    {
+     "label": "Quest completed",
+     "string": 97,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nDalaran",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nDalaran"
+    }
+   ]
+  },
+  {
+   "quest": "Prepare for Defense",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 51,
+     "en": "Prepare for Defense",
+     "tr": "Prepara la difesa"
+    },
+    {
+     "label": "Description",
+     "string": 52,
+     "en": "Drenden has tasked Khadgar with training new soldiers to bolster the city’s defenses. Strengthen your ranks and ready the troops for the battles ahead.",
+     "tr": "Drenden ha incaricato Khadgar di addestrare nuovi soldati per rafforzare le difese della città. Rinforza i tuoi ranghi e prepara le truppe alle battaglie imminenti."
+    },
+    {
+     "label": "Requirement",
+     "string": 140,
+     "en": "Train 5 Swordsmen.",
+     "tr": "Addestra 5 spadaccini"
+    },
+    {
+     "label": "Requirement",
+     "string": 141,
+     "en": "Train 5 Sentinels.",
+     "tr": "Addestra 5 sentinelle"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 416,
+     "en": "|cffffcc00MAIN QUEST|r\nPrepare for Defense\n - Train 5 Swordsmen\n - Train 5 Sentinels",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nPrepara la difesa\n - Addestra 5 spadaccini\n - Addestra 5 sentinelle"
+    },
+    {
+     "label": "Leaderboard title",
+     "string": 507,
+     "en": "Quest Objectives:",
+     "tr": "Obiettivi della missione:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 512,
+     "en": "Swordsmen left to train:",
+     "tr": "Spadaccini da addestrare:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 513,
+     "en": "Sentinels left to train:",
+     "tr": "Sentinelle da addestrare:"
+    },
+    {
+     "label": "Quest completed",
+     "string": 514,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nPrepare for Defense",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nPrepara la difesa"
+    }
+   ]
+  },
+  {
+   "quest": "In disguise",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 56,
+     "en": "In disguise",
+     "tr": "Sotto mentite spoglie"
+    },
+    {
+     "label": "Description",
+     "string": 57,
+     "en": "Modera has entrusted Khadgar with a magical scroll that disguises him as an orc and revealed a portal leading out of the city. He must move carefully, if the eyes of Kilrogg detect him, the mission will be compromised.",
+     "tr": "Modera ha affidato a Khadgar una pergamena magica che gli dà l'aspetto di un orco e gli ha rivelato un portale che conduce fuori dalla città. Deve muoversi con cautela: se gli Occhi di Kilrogg lo scoprono, la missione sarà compromessa."
+    },
+    {
+     "label": "Requirement",
+     "string": 589,
+     "en": "Use the Way Gate to teleport to wilderness.",
+     "tr": "Usa il Portale per teletrasportarti nelle terre selvagge"
+    },
+    {
+     "label": "Requirement",
+     "string": 591,
+     "en": "Use the Scroll of Disguise Self to conceal Khadgar.",
+     "tr": "Usa la Pergamena del Travestimento per camuffare Khadgar"
+    },
+    {
+     "label": "Requirement",
+     "string": 592,
+     "en": "Drop oil barrels at siege launchers.",
+     "tr": "Lascia i barili di petrolio presso le macchine d'assedio"
+    },
+    {
+     "label": "Requirement",
+     "string": 600,
+     "en": "Connect the dropped barrels with an oil trail.",
+     "tr": "Collega i barili con una scia di petrolio"
+    },
+    {
+     "label": "Requirement",
+     "string": 593,
+     "en": "Khadgar must not be compromised.",
+     "tr": "Khadgar non deve essere scoperto"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 417,
+     "en": "|cffffcc00MAIN QUEST|r\nIn Disguise\n - Use the Way Gate to teleport to wilderness\n - Use the Scroll of Disguise Self to conceal Khadgar",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nSotto mentite spoglie\n - Usa il Portale per teletrasportarti nelle terre selvagge\n - Usa la Pergamena del Travestimento per camuffare Khadgar"
+    },
+    {
+     "label": "Quest updated",
+     "string": 596,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Way Gate to teleport to wilderness (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nSotto mentite spoglie\n - |cff808080Usa il Portale per teletrasportarti nelle terre selvagge (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 599,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Scroll of Disguise Self to conceal Khadgar (Completed)|r\n",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nSotto mentite spoglie\n - |cff808080Usa la Pergamena del Travestimento per camuffare Khadgar (Completato)|r\n"
+    },
+    {
+     "label": "Quest updated",
+     "string": 584,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - Drop oil barrels at siege launchers\n - Connect the dropped barrels with an oil trail\n - Khadgar must not be compromised",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nSotto mentite spoglie\n - Lascia i barili di petrolio presso le macchine d'assedio\n - Collega i barili con una scia di petrolio\n - Khadgar non deve essere scoperto"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 696,
+     "en": "Barrels to drop at catapults:",
+     "tr": "Barili da lasciare alle catapulte:"
+    },
+    {
+     "label": "Quest updated",
+     "string": 715,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Drop oil barrels at siege launchers (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nSotto mentite spoglie\n - |cff808080Lascia i barili di petrolio presso le macchine d'assedio (Completato)|r"
+    },
+    {
+     "label": "Quest completed",
+     "string": 602,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nIn Disguise",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nSotto mentite spoglie"
+    },
+    {
+     "label": "Requirement text",
+     "string": 587,
+     "en": "|cffff0000Khadgar must not be compromised (failed)|r",
+     "tr": "|cffff0000Khadgar non deve essere scoperto (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 588,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Khadgar must not be compromised (failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nSotto mentite spoglie\n - |cffff0000Khadgar non deve essere scoperto (Fallito)|r"
+    },
+    {
+     "label": "Requirement text",
+     "string": 803,
+     "en": "|cffff0000Destroy Siege Launchers (failed)|r",
+     "tr": "|cffff0000Distruggi le macchine d'assedio (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 804,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Destroy Siege Launchers (failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nSotto mentite spoglie\n - |cffff0000Distruggi le macchine d'assedio (Fallito)|r"
+    }
+   ]
+  },
+  {
+   "quest": "Find the Blacksmith",
+   "kind": "Optional quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 63,
+     "en": "Find the Blacksmith",
+     "tr": "Trova il fabbro"
+    },
+    {
+     "label": "Description",
+     "string": 64,
+     "en": "The city’s blacksmith can forge stronger weapons and armor for your troops. Seek out a skilled smith and equip your soldiers with better armaments.",
+     "tr": "Il fabbro della città può forgiare armi e armature migliori per le tue truppe. Cerca un fabbro esperto ed equipaggia i tuoi soldati con armamenti migliori."
+    },
+    {
+     "label": "Requirement",
+     "string": 65,
+     "en": "Find the Blacksmith.",
+     "tr": "Trova il fabbro"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 126,
+     "en": "|cffffcc00OPTIONAL QUEST|r\nBlacksmith\n - Find the Blacksmith.",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA|r\nTrova il fabbro\n - Trova il fabbro"
+    },
+    {
+     "label": "Quest completed",
+     "string": 128,
+     "en": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlacksmith",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA COMPLETATA|r\nTrova il fabbro"
+    }
+   ]
+  },
+  {
+   "quest": "Close the Portals",
+   "kind": "Optional quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 606,
+     "en": "Close the Portals",
+     "tr": "Chiudi i portali"
+    },
+    {
+     "label": "Description",
+     "string": 607,
+     "en": "Kill Orcish warlocks that maintain the portals to close them.",
+     "tr": "Uccidi gli stregoni orchi che mantengono i portali per chiuderli."
+    },
+    {
+     "label": "Requirement",
+     "string": 608,
+     "en": "Kill 3 orcish warlocks that maintain the portals.",
+     "tr": "Uccidi 3 stregoni orchi che mantengono i portali"
+    }
+   ]
+  },
+  {
+   "quest": "Dalaran Guardians",
+   "kind": "Optional quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 66,
+     "en": "Dalaran Guardians",
+     "tr": "Custodi di Dalaran"
+    },
+    {
+     "label": "Description",
+     "string": 67,
+     "en": "Orcish warlocks hold magical crystals capable of reactivating the Guardian golems. Reclaim the crystals to awaken these ancient protectors.",
+     "tr": "Gli stregoni orchi custodiscono cristalli magici in grado di riattivare i golem Custodi. Recupera i cristalli per risvegliare questi antichi protettori."
+    },
+    {
+     "label": "Requirement",
+     "string": 68,
+     "en": "Find 3 magical crystals.",
+     "tr": "Trova 3 cristalli magici"
+    },
+    {
+     "label": "Requirement",
+     "string": 615,
+     "en": "Bring the crystals to the Violet Citadel.",
+     "tr": "Porta i cristalli alla Cittadella Violacea"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 423,
+     "en": "|cffffcc00OPTIONAL QUEST|r\nActivate Guardians\n - Find 3 magical crystals.",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA|r\nCustodi di Dalaran\n - Trova 3 cristalli magici"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 695,
+     "en": "Crystals left to pick:",
+     "tr": "Cristalli da raccogliere:"
+    },
+    {
+     "label": "Quest updated",
+     "string": 614,
+     "en": "|cffffcc00OPTIONAL QUEST UPDATED|r\nActivate Guardians\n - |cff808080Find 3 magical crystals. (Completed)|r\n - Bring the crystals to the Violet Citadel.",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA AGGIORNATA|r\nCustodi di Dalaran\n - |cff808080Trova 3 cristalli magici (Completato)|r\n - Porta i cristalli alla Cittadella Violacea"
+    },
+    {
+     "label": "Requirement text",
+     "string": 954,
+     "en": "|cffff0000Find 3 magical crystals. (Failed)|r",
+     "tr": "|cffff0000Trova 3 cristalli magici (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 953,
+     "en": "|cffffcc00OPTIONAL QUEST FAILED|r\nActivate Guardians\n - |cffff0000Find 3 magical crystals. (Failed)|r",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA FALLITA|r\nCustodi di Dalaran\n - |cffff0000Trova 3 cristalli magici (Fallito)|r"
+    },
+    {
+     "label": "Quest completed",
+     "string": 622,
+     "en": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nActivate Guardians",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA COMPLETATA|r\nCustodi di Dalaran"
+    },
+    {
+     "label": "During the quest",
+     "string": 779,
+     "en": "Look! This is a crystal from one of the Cross Island citadels. Find two more and maybe we will be able to restore our arcane guardians.",
+     "tr": "Guarda! Questo è un cristallo di una delle cittadelle dell'Isola della Croce. Trovane altri due e forse potremo riattivare i nostri custodi arcani."
+    },
+    {
+     "label": "Progress",
+     "string": 617,
+     "en": "Good! When you return to the city, activate the Guardians near the Violet Citadel.",
+     "tr": "Bene! Quando tornerai in città, attiva i Custodi vicino alla Cittadella Violacea."
+    }
+   ]
+  },
+  {
+   "quest": "Hold the Line",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 627,
+     "en": "Hold the Line",
+     "tr": "Tieni la linea"
+    },
+    {
+     "label": "Description",
+     "string": 628,
+     "en": "Krasus commands the frontlines and calls upon Khadgar to aid in holding the defenses. Reinforce the battle lines and ensure the enemy does not break through.",
+     "tr": "Krasus comanda la prima linea e chiede l'aiuto di Khadgar per tenere le difese. Rinforza le linee di battaglia e impedisci al nemico di sfondare."
+    },
+    {
+     "label": "Requirement",
+     "string": 629,
+     "en": "Help the Kirin Tor forces to hold off 3 waves of attack.",
+     "tr": "Aiuta le forze del Kirin Tor a respingere 3 ondate d'attacco"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 418,
+     "en": "|cffffcc00MAIN QUEST|r\nHold the Line\n - Help the Kirin Tor forces to hold off 3 waves of attack",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nTieni la linea\n - Aiuta le forze del Kirin Tor a respingere 3 ondate d'attacco"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 716,
+     "en": "Attack Waves Remaining:",
+     "tr": "Ondate d'attacco rimanenti:"
+    },
+    {
+     "label": "Quest completed",
+     "string": 721,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nHold the Line",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nTieni la linea"
+    }
+   ]
+  },
+  {
+   "quest": "Undead Menace",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 631,
+     "en": "Undead Menace",
+     "tr": "Minaccia non morta"
+    },
+    {
+     "label": "Description",
+     "string": 632,
+     "en": "Kel’Thuzad offers his aid against the rising undead, claiming knowledge of how to halt their advance. Join forces with him and uncover the means to turn the tide.",
+     "tr": "Kel'Thuzad offre il suo aiuto contro i non morti, sostenendo di sapere come fermare la loro avanzata. Unisci le forze con lui e scopri come ribaltare le sorti della battaglia."
+    },
+    {
+     "label": "Requirement",
+     "string": 633,
+     "en": "Activate 2 Arcane Generators against the Undead.",
+     "tr": "Attiva 2 generatori arcani contro i non morti"
+    },
+    {
+     "label": "Requirement",
+     "string": 634,
+     "en": "Protect Kel'thuzad while he sets up generators.",
+     "tr": "Proteggi Kel'Thuzad mentre installa i generatori"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 419,
+     "en": "|cffffcc00MAIN QUEST|r\nUndead Menace\n - Activate 2 Arcane Generators against the Undead.\n - Protect Kel'thuzad while he sets up the generators.",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nMinaccia non morta\n - Attiva 2 generatori arcani contro i non morti\n - Proteggi Kel'Thuzad mentre installa i generatori"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 724,
+     "en": "Set up magical generators:",
+     "tr": "Generatori magici installati:"
+    },
+    {
+     "label": "Quest completed",
+     "string": 723,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nUndead Menace",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nMinaccia non morta"
+    },
+    {
+     "label": "Requirement text",
+     "string": 728,
+     "en": "|cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+     "tr": "|cffff0000Proteggi Kel'Thuzad mentre installa i generatori (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 729,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nUndead Menace\n - |cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nMinaccia non morta\n - |cffff0000Proteggi Kel'Thuzad mentre installa i generatori (Fallito)|r"
+    },
+    {
+     "label": "Timer = Timer",
+     "string": 726,
+     "en": "Setting up magical generator in:",
+     "tr": "Installazione del generatore magico tra:"
+    }
+   ]
+  },
+  {
+   "quest": "Dragon Hazard",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 636,
+     "en": "Dragon Hazard",
+     "tr": "Pericolo draconico"
+    },
+    {
+     "label": "Description",
+     "string": 637,
+     "en": "Dragons are a grave threat, yet Krasus forbids their killing, honoring the Dragon Aspects.  Capture them using Dragonhawk nets and teleport them with powers of Krasus's Staff.",
+     "tr": "I draghi sono una grave minaccia, eppure Krasus vieta di ucciderli, per rispetto verso gli Aspetti dei Draghi.  Catturali con le reti dei draghifalco e teletrasportali con il potere del Bastone di Krasus."
+    },
+    {
+     "label": "Requirement",
+     "string": 932,
+     "en": "Capture the dragons with dragonhawk nets.",
+     "tr": "Cattura i draghi con le reti dei draghifalco"
+    },
+    {
+     "label": "Requirement",
+     "string": 638,
+     "en": "Use Staff of Krasus to teleport netted Dragons.",
+     "tr": "Usa il Bastone di Krasus per teletrasportare i draghi catturati"
+    },
+    {
+     "label": "Requirement",
+     "string": 639,
+     "en": "Do not allow more than 3 Dragons to be killed.",
+     "tr": "Non lasciare che vengano uccisi più di 3 draghi"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 420,
+     "en": "|cffffcc00MAIN QUEST|r\nDragon Hazard\n - Capture the dragons with dragonhawk nets\n - Use Krasus` staff to teleport captured dragons\n - Do not allow more than 3 Dragons to be killed",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nPericolo draconico\n - Cattura i draghi con le reti dei draghifalco\n - Usa il Bastone di Krasus per teletrasportare i draghi catturati\n - Non lasciare che vengano uccisi più di 3 draghi"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 746,
+     "en": "Dragons left to save:",
+     "tr": "Draghi da salvare:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 880,
+     "en": "Killed Dragons:",
+     "tr": "Draghi uccisi:"
+    },
+    {
+     "label": "Quest completed",
+     "string": 732,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nDragon Hazard",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nPericolo draconico"
+    },
+    {
+     "label": "Quest failed",
+     "string": 744,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nDragon Hazard\n - |cffff0000Do not allow more than 3 Dragons to be killed. (failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nPericolo draconico\n - |cffff0000Non lasciare che vengano uccisi più di 3 draghi (Fallito)|r"
+    },
+    {
+     "label": "Warning",
+     "string": 745,
+     "en": "|cffff0000Dragon was killed!!|r",
+     "tr": "|cffff0000Un drago è stato ucciso!!|r"
+    }
+   ]
+  },
+  {
+   "quest": "Dam",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 640,
+     "en": "Dam",
+     "tr": "Diga"
+    },
+    {
+     "label": "Description",
+     "string": 641,
+     "en": "With the dragons dealt with, the dam can be repaired to halt the orcish advance. Restore it to prevent the enemy from reaching the city.",
+     "tr": "Sistemati i draghi, la diga può essere riparata per fermare l'avanzata degli orchi. Ripristinala per impedire al nemico di raggiungere la città."
+    },
+    {
+     "label": "Requirement",
+     "string": 642,
+     "en": "Repair the dam.",
+     "tr": "Ripara la diga"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 421,
+     "en": "|cffffcc00MAIN QUEST|r\nDam\n - Repair the dam",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nDiga\n - Ripara la diga"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 881,
+     "en": "Repairment Progress (%):",
+     "tr": "Avanzamento riparazione (%):"
+    },
+    {
+     "label": "Quest completed",
+     "string": 733,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nDam",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nDiga"
+    }
+   ]
+  },
+  {
+   "quest": "Counteroffensive",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 643,
+     "en": "Counteroffensive",
+     "tr": "Controffensiva"
+    },
+    {
+     "label": "Description",
+     "string": 644,
+     "en": "The time has come to strike back at the invaders. Rally your forces and lay waste to their encampments, leaving none to threaten the city again.",
+     "tr": "È giunto il momento di contrattaccare gli invasori. Raduna le tue forze e devasta i loro accampamenti, affinché nessuno minacci più la città."
+    },
+    {
+     "label": "Requirement",
+     "string": 646,
+     "en": "Destroy Blackrock Camp.",
+     "tr": "Distruggi l'accampamento dei Roccianera"
+    },
+    {
+     "label": "Requirement",
+     "string": 964,
+     "en": "Destroy Black Tooth Grin Camp.",
+     "tr": "Distruggi l'accampamento dei Ghigno Nero"
+    },
+    {
+     "label": "Requirement",
+     "string": 965,
+     "en": "Destroy Dragonmaw Camp.",
+     "tr": "Distruggi l'accampamento delle Fauci di Drago"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 422,
+     "en": "|cffffcc00MAIN QUEST|r\nCounteroffensive\n - Destroy Blackrock Camp",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nControffensiva\n - Distruggi l'accampamento dei Roccianera"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 800,
+     "en": "Destroy Blackrock Camp",
+     "tr": "Distruggi l'accampamento dei Roccianera"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 962,
+     "en": "Destroy Black Tooth Grin Camp",
+     "tr": "Distruggi l'accampamento dei Ghigno Nero"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 963,
+     "en": "Destroy Dragonmaw Camp",
+     "tr": "Distruggi l'accampamento delle Fauci di Drago"
+    },
+    {
+     "label": "Quest updated",
+     "string": 735,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Blackrock Camp. (Completed)|r\n - Destroy Black Tooth Grin Camp\n - Destroy Dragonmaw Camp",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nControffensiva\n - |cff808080Distruggi l'accampamento dei Roccianera (Completato)|r\n - Distruggi l'accampamento dei Ghigno Nero\n - Distruggi l'accampamento delle Fauci di Drago"
+    },
+    {
+     "label": "Quest updated",
+     "string": 737,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Black Tooth Grin Camp. (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nControffensiva\n - |cff808080Distruggi l'accampamento dei Ghigno Nero (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 738,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Dragonmaw Camp. (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nControffensiva\n - |cff808080Distruggi l'accampamento delle Fauci di Drago (Completato)|r"
+    },
+    {
+     "label": "Quest completed",
+     "string": 734,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nCounteroffensive",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nControffensiva"
+    }
+   ]
+  },
+  {
+   "quest": "Other messages and hints",
+   "kind": "Messages",
+   "rows": [
+    {
+     "label": "Customdefeatbj",
+     "string": 75,
+     "en": "|cffffcc00MISSION FAILED|r",
+     "tr": "|cffffcc00MISSIONE FALLITA|r"
+    },
+    {
+     "label": "Warning",
+     "string": 961,
+     "en": "|cffff0000WARNING:|r\nUndead are attacking the Violet Citadel!",
+     "tr": "|cffff0000ATTENZIONE:|r\nI non morti attaccano la Cittadella Violacea!"
+    },
+    {
+     "label": "Displaytexttoforce",
+     "string": 747,
+     "en": "|cffffcc00Only shackled Dragons can be teleported.|r",
+     "tr": "|cffffcc00Si possono teletrasportare solo i draghi incatenati.|r"
+    },
+    {
+     "label": "Discovered",
+     "string": 605,
+     "en": "|cffffcc00OPTIONAL QUEST|r\nClose the Portals\n - Kill 3 orcish warlocks that maintain the portals.",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA|r\nChiudi i portali\n - Uccidi 3 stregoni orchi che mantengono i portali"
+    },
+    {
+     "label": "Completed",
+     "string": 613,
+     "en": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nClose the Portals",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA COMPLETATA|r\nChiudi i portali"
+    },
+    {
+     "label": "Failed",
+     "string": 955,
+     "en": "|cffffcc00OPTIONAL QUEST FAILED|r\nClose the Portals\n - |cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA FALLITA|r\nChiudi i portali\n - |cffff0000Uccidi 3 stregoni orchi che mantengono i portali (Fallito)|r"
+    },
+    {
+     "label": "Warning",
+     "string": 544,
+     "en": "|cffff0000WARNING:|r\nFel Portals opened across the city!|r",
+     "tr": "|cffff0000ATTENZIONE:|r\nPortali vili aperti in tutta la città!|r"
+    },
+    {
+     "label": "Warning",
+     "string": 529,
+     "en": "|cffff0000WARNING:|r\nThe enemy launched artillery strikes!|r",
+     "tr": "|cffff0000ATTENZIONE:|r\nIl nemico ha lanciato attacchi d'artiglieria!|r"
+    },
+    {
+     "label": "Warning",
+     "string": 530,
+     "en": "|cff00ff00Artillery strike round ended.|r",
+     "tr": "|cff00ff00Il bombardamento d'artiglieria è terminato.|r"
+    },
+    {
+     "label": "Unitavailable",
+     "string": 139,
+     "en": "|cffffcc00TECHTREE ALTERATION|r  \nDalaran Swordsman – unique soldier of Dalaran, can be trained to withstand magical attacks.",
+     "tr": "|cffffcc00UNITÀ MODIFICATA|r  \nSpadaccino di Dalaran – soldato esclusivo di Dalaran, può essere addestrato a resistere agli attacchi magici."
+    },
+    {
+     "label": "Unitavailable",
+     "string": 949,
+     "en": "|cffffcc00TECHTREE ALTERATION|r  \nElven Sentinel – elven citizens of Dalaran, skilled in marksmanship.\n",
+     "tr": "|cffffcc00UNITÀ MODIFICATA|r  \nSentinella Elfica – cittadini elfici di Dalaran, abili tiratori.\n"
+    },
+    {
+     "label": "Unitavailable",
+     "string": 625,
+     "en": "|cffffcc00TECHTREE UNLOCKED|r\nBlacksmith has upgrades for infantry. It also allows you to research \"Alliance Melee Training\" in Barracks.",
+     "tr": "|cffffcc00NUOVA STRUTTURA SBLOCCATA|r\nLa fucina offre potenziamenti per la fanteria. Permette inoltre di ricercare \"Addestramento in Mischia dell'Alleanza\" nella caserma."
+    },
+    {
+     "label": "Unitavailable",
+     "string": 626,
+     "en": "|cffffcc00TECHTREE UNLOCKED|r\nTowers can be upgraded to Guard Towers that deal pierce damage to ground and flying units.",
+     "tr": "|cffffcc00NUOVO POTENZIAMENTO SBLOCCATO|r\nLe torri possono trasformarsi in Torri di Guardia, che infliggono danni perforanti alle unità terrestri e volanti."
+    },
+    {
+     "label": "Hint",
+     "string": 945,
+     "en": "|cff32cd32HINT|r  \nThe Violet Council has finished its preparations and will soon strike at the invaders.  \n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nIl Consiglio Violaceo ha completato i preparativi e presto colpirà gli invasori.  \n"
+    },
+    {
+     "label": "Hint",
+     "string": 950,
+     "en": "|cff32cd32HINT|r  \nThere are no farms in Dalaran. Food is stored within houses, and your workers cannot build new ones. Keep them repaired after enemy attacks.  \n\n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nA Dalaran non ci sono fattorie. Il cibo è conservato nelle case, e i tuoi lavoratori non possono costruirne di nuove. Tienile riparate dopo gli attacchi nemici.  \n\n"
+    },
+    {
+     "label": "Hint",
+     "string": 946,
+     "en": "|cff32cd32HINT|r  \nYour workers can repair allied buildings.  \n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nI tuoi lavoratori possono riparare gli edifici alleati.  \n"
+    },
+    {
+     "label": "Hint",
+     "string": 958,
+     "en": "|cff32cd32HINT|r  \nKirin Tor mages have built a new waygate to move their forces closer to the front lines. You can use it as well.  \n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nI maghi del Kirin Tor hanno costruito un nuovo portale per avvicinare le loro forze al fronte. Puoi usarlo anche tu.  \n"
+    },
+    {
+     "label": "Hint",
+     "string": 960,
+     "en": "|cff32cd32HINT|r  \nThe Alliance Vanguard and the Gilnean army will attack the remaining orc camps.  \n\n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nL'Avanguardia dell'Alleanza e l'esercito di Gilneas attaccheranno gli accampamenti degli orchi rimasti.  \n\n"
+    },
+    {
+     "label": "Hint",
+     "string": 959,
+     "en": "|cff32cd32HINT|r\nAnother Dalaran Bank has become accessible.  \n",
+     "tr": "|cff32cd32SUGGERIMENTO|r\nUn'altra banca di Dalaran è diventata accessibile.  \n"
+    },
+    {
+     "label": "Hint",
+     "string": 966,
+     "en": "|cff32cd32HINT|r  \nKhadgar can use the ability \"Leak the Oil\" to pour oil on the ground while moving. The oil trail must connect to the planted barrels to create a diversion.  \n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nKhadgar può usare l'abilità \"Versa il Petrolio\" per spargere petrolio a terra mentre si muove. La scia di petrolio deve collegarsi ai barili piazzati per creare un diversivo.  \n"
+    },
+    {
+     "label": "Hint",
+     "string": 968,
+     "en": "|cff32cd32HINT|r  \nAdditional oil barrels can be discovered in the Orc camps.\n\n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nNegli accampamenti degli orchi si possono trovare altri barili di petrolio.\n\n"
+    },
+    {
+     "label": "Hint",
+     "string": 969,
+     "en": "|cff32cd32HINT|r  \nKel’Thuzad will follow Khadgar’s lead. Guide the archmages to the designated sites so Kel’Thuzad can set up Arcane Generators.\n\n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nKel'Thuzad seguirà Khadgar. Guida gli arcimaghi nei punti designati perché Kel'Thuzad possa installare i generatori arcani.\n\n"
+    },
+    {
+     "label": "Hint",
+     "string": 971,
+     "en": "|cff32cd32HINT|r  \nKel’Thuzad has activated the Arcane Generator. All undead within its range now suffer damage over time.\n\n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nKel'Thuzad ha attivato il generatore arcano. Tutti i non morti nel suo raggio subiscono danni nel tempo.\n\n"
+    }
+   ]
+  },
+  {
+   "quest": "Other texts set by the scripts",
+   "kind": "Script",
+   "rows": [
+    {
+     "label": "StringIdentity",
+     "string": 991,
+     "en": "Collect Oil from Oil Rigs.",
+     "tr": "Raccogli il petrolio dalle piattaforme petrolifere."
+    },
+    {
+     "label": "StringIdentity",
+     "string": 994,
+     "en": "Deliver Oil",
+     "tr": "Consegna il petrolio"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 997,
+     "en": "|c00640000Oil patch is depleted|r",
+     "tr": "|c00640000Giacimento di petrolio esaurito|r"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 1000,
+     "en": "Gather Oil",
+     "tr": "Raccogli il petrolio"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 1003,
+     "en": "Return the Oil to the nearest Shipyard.",
+     "tr": "Riporta il petrolio al cantiere navale più vicino."
+    },
+    {
+     "label": "StringIdentity",
+     "string": 1006,
+     "en": "The oil patch is running low",
+     "tr": "Il giacimento di petrolio si sta esaurendo"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 1009,
+     "en": "Oil is gathered from Oil Patches.",
+     "tr": "Il petrolio si raccoglie dai giacimenti di petrolio."
+    },
+    {
+     "label": "StringIdentity",
+     "string": 1012,
+     "en": "Oil: ",
+     "tr": "Petrolio: "
+    },
+    {
+     "label": "StringIdentity",
+     "string": 1015,
+     "en": "Oil: 0",
+     "tr": "Petrolio: 0"
+    },
+    {
+     "label": "QuestItemSetDescriptionBJ",
+     "string": 957,
+     "en": "|cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+     "tr": "|cffff0000Uccidi 3 stregoni orchi che mantengono i portali (Fallito)|r"
+    }
+   ]
+  }
+ ]
+}

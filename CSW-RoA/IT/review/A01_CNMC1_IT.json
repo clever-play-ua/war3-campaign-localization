@@ -1,0 +1,588 @@
+{
+ "map": "WC2HumanAct1",
+ "task": "A01_CNMC1",
+ "lang": "IT",
+ "storyline": [
+  {
+   "fragment": "Fragment 1 · . South Shore",
+   "lines": [
+    {
+     "string": 4364,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "A proper landing site…. Are we in Lordaeron?",
+     "tr": "Un buon punto d'approdo…. Siamo a Lordaeron?"
+    },
+    {
+     "string": 4332,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "Indeed. The township of Soutshore, between Dalaran and Alterac.",
+     "tr": "Proprio così. Il borgo di Riva del Sud, tra Dalaran e Alterac."
+    },
+    {
+     "string": 4079,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Thank you, Mayor Marcus. I understand you can’t spare much, but we are grateful for any aid.",
+     "tr": "Grazie, sindaco Marcus. So che non potete offrirci molto, ma vi siamo grati per qualunque aiuto."
+    },
+    {
+     "string": 4145,
+     "speaker": "Mayor Marcus",
+     "speaker_tr": "Sindaco Marcus",
+     "en": "Of course, Lord Lothar. We wouldn’t let women and children starve. But tell me now, why have you and your people fled across the sea? What happened in Azeroth?",
+     "tr": "Naturalmente, Lord Lothar. Non lasceremmo mai morire di fame donne e bambini. Ma ditemi, perché voi e la vostra gente siete fuggiti oltre il mare? Cos'è accaduto ad Azeroth?"
+    },
+    {
+     "string": 4322,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Stormwind...",
+     "tr": "Roccavento..."
+    },
+    {
+     "string": 4070,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "My lord. I have sent ravens to Dalaran and Lordaeron. Lord Antonidas is already aware of the scale of the threat, and I believe he will convince King Terenas to summon the lords of the remaining kingdoms.",
+     "tr": "Mio signore, ho inviato corvi a Dalaran e a Lordaeron. Lord Antonidas è già al corrente della gravità della minaccia, e credo che convincerà re Terenas a convocare i sovrani dei regni rimasti."
+    },
+    {
+     "string": 4085,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "We must not delay, Khadgar. I must speak with the king at once. We dare not give the Horde time to move again.",
+     "tr": "Non dobbiamo indugiare, Khadgar. Devo parlare subito con il re. Non possiamo concedere all'Orda il tempo di muoversi di nuovo."
+    },
+    {
+     "string": 4148,
+     "speaker": "Mayor Marcus",
+     "speaker_tr": "Sindaco Marcus",
+     "en": "Lordaeron City is no short distance! I will send someone ahead on a fast horse to warn them of your approach.",
+     "tr": "La città di Lordaeron non è affatto vicina! Manderò qualcuno avanti su un cavallo veloce ad annunciare il vostro arrivo."
+    },
+    {
+     "string": 4151,
+     "speaker": "Mayor Marcus",
+     "speaker_tr": "Sindaco Marcus",
+     "en": "And as for your people here, we will take care of them until you return.",
+     "tr": "Quanto alla vostra gente, ce ne prenderemo cura finché non sarete tornati."
+    },
+    {
+     "string": 4088,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Thank you, Mayor. Meryn!",
+     "tr": "Grazie, sindaco. Meryn!"
+    },
+    {
+     "string": 4154,
+     "speaker": "Meryn",
+     "speaker_tr": "Meryn",
+     "en": "Yes, sire!",
+     "tr": "Sì, mio signore!"
+    },
+    {
+     "string": 4241,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "You will take charge of settling our people in this region. Make sure everything is in order until we return.",
+     "tr": "Ti occuperai di sistemare la nostra gente in questa regione. Assicurati che tutto sia in ordine fino al nostro ritorno."
+    },
+    {
+     "string": 4249,
+     "speaker": "Meryn",
+     "speaker_tr": "Meryn",
+     "en": "I will do my best, Lord Lothar.",
+     "tr": "Farò del mio meglio, Lord Lothar."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 2 · . Lordaeron Throne",
+   "lines": [
+    {
+     "string": 4064,
+     "speaker": "Kings Guard",
+     "speaker_tr": "Guardia del Re",
+     "en": "Your Grace, the survivors of Stormwind.",
+     "tr": "Vostra Grazia, i superstiti di Roccavento."
+    },
+    {
+     "string": 4181,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Your Majesty. As lord of this land, I offer my hospitality and protection to you. The heir of Azeroth deserves no less.",
+     "tr": "Vostra Maestà. Come signore di questa terra, vi offro la mia ospitalità e la mia protezione. L'erede di Azeroth non merita nulla di meno."
+    },
+    {
+     "string": 4169,
+     "speaker": "Varian Wrynn",
+     "speaker_tr": "Varian Wrynn",
+     "en": "Thank you, your Majesty.",
+     "tr": "Vi ringrazio, Vostra Maestà."
+    },
+    {
+     "string": 4184,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "You must know, I grieved when I learned the news of your noble father’s death. King Llane was a good man and we counted him as a friend and an ally. Know that we shall do all in our power to restore you to your throne.",
+     "tr": "Dovete sapere che ho pianto quando ho appreso la notizia della morte del vostro nobile padre. Re Llane era un brav'uomo e lo consideravamo un amico e un alleato. Sappiate che faremo tutto ciò che è in nostro potere per restituirvi il trono."
+    },
+    {
+     "string": 4187,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "You bear the royal sigil of Azeroth, yet I do not know who you are. Are you the prince’s protector?",
+     "tr": "Portate il sigillo reale di Azeroth, eppure non so chi siate. Siete il protettore del principe?"
+    },
+    {
+     "string": 4094,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Your Majesty, I am Anduin Lothar, Knight-Champion of Azeroth and a close friend to the late King Llane. And these are my companions…",
+     "tr": "Vostra Maestà, sono Anduin Lothar, Cavaliere Campione di Azeroth e amico intimo del defunto re Llane. E questi sono i miei compagni…"
+    },
+    {
+     "string": 4097,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "…we come before you to discuss a matter of grave and urgent importance!",
+     "tr": "…veniamo al vostro cospetto per discutere una questione grave e urgente!"
+    },
+    {
+     "string": 4190,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Ah, Lord Lothar… you are of a proud and ancient bloodline, and your reputation precedes you. You shall have your audience.",
+     "tr": "Ah, Lord Lothar… discendete da una stirpe antica e fiera, e la vostra fama vi precede. Avrete la vostra udienza."
+    },
+    {
+     "string": 4193,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "You must be tired, your Majesty. Let’s take rest in the palace.",
+     "tr": "Sarete stanco, Vostra Maestà. Riposiamoci a palazzo."
+    },
+    {
+     "string": 4196,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Thank you all for coming, I know the request seemed sudden, but we have matters of grave importance to discuss and time seems to be of the essence.",
+     "tr": "Grazie a tutti per essere venuti. So che la richiesta è parsa improvvisa, ma dobbiamo discutere questioni di grande importanza e il tempo sembra essere essenziale."
+    },
+    {
+     "string": 4160,
+     "speaker": "Aiden Perenolde",
+     "speaker_tr": "Aiden Perenolde",
+     "en": "Such a haste for a gathering unseen in decades. You better have important reasons indeed, I missed a royal hunt.",
+     "tr": "Tanta fretta per un'adunanza che non si vedeva da decenni. Spero che abbiate ragioni davvero importanti: mi sono perso una caccia reale."
+    },
+    {
+     "string": 4250,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "I present to you Anduin Lothar, Champion of Stormwind. He has come here as a messenger. I think it best if I let him tell you himself what he has seen and what we may soon expect ourselves.",
+     "tr": "Vi presento Anduin Lothar, Campione di Roccavento. È giunto qui come messaggero. Credo sia meglio lasciare che vi racconti lui stesso ciò che ha visto e ciò che presto potremmo dover affrontare anche noi."
+    },
+    {
+     "string": 4242,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Your Majesties, I thank you for attending this meeting, and for listening to what I have to say. I am no poet or diplomat but a warrior, so I will keep my words brief and blunt. I must tell you that my home, Stormwind, is no more.",
+     "tr": "Vostre Maestà, vi ringrazio per aver preso parte a questo incontro e per ascoltare ciò che ho da dire. Non sono un poeta né un diplomatico, ma un guerriero, perciò sarò breve e schietto. Devo dirvi che la mia patria, Roccavento, non esiste più."
+    },
+    {
+     "string": 4202,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "My lords! Lord Lothar, please continue. I have been to Stormwind before, and I admired its grandness and strength. What could destroy such a city?",
+     "tr": "Miei signori! Lord Lothar, vi prego, continuate. Sono stato a Roccavento, e ne ho ammirato la grandezza e la forza. Che cosa potrebbe distruggere una simile città?"
+    },
+    {
+     "string": 4103,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "It fell before a Horde of creatures known as orcs.",
+     "tr": "È caduta per mano di un'Orda di creature chiamate orchi."
+    },
+    {
+     "string": 4226,
+     "speaker": "Thoras Trollbane",
+     "speaker_tr": "Thoras Trollbane",
+     "en": "Orcs? Are they some kind of trolls? And where did this horde come from? As far as I know, you have dealt with the trolls of the southern jungles before.",
+     "tr": "Orchi? Sono una specie di troll? E da dove viene quest'orda? Per quanto ne so, avete già avuto a che fare con i troll delle giungle del sud."
+    },
+    {
+     "string": 4337,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "No trolls, Your Grace. They are an alien race, who have invaded our lands through a magical rift hidden somewhere within the southern fringes of the Black Morass.",
+     "tr": "Non sono troll, Vostra Grazia. Sono una razza aliena che ha invaso le nostre terre attraverso un varco magico nascosto da qualche parte ai margini meridionali della Palude Nera."
+    },
+    {
+     "string": 4344,
+     "speaker": "Khadgar",
+     "speaker_tr": "Khadgar",
+     "en": "They are terrible foes, as tall as a man and far stronger, with bestial features, green skin, and red eyes.",
+     "tr": "Sono nemici terribili, alti quanto un uomo e molto più forti, con tratti bestiali, pelle verde e occhi rossi."
+    },
+    {
+     "string": 4338,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Know this — the Horde will not stop at Stormwind. They mean to claim the entire world, and they have the might and the numbers to do so. Nor do they lack magical powers.",
+     "tr": "Sappiate questo: l'Orda non si fermerà a Roccavento. Intende conquistare il mondo intero, e ha la forza e il numero per farlo. Né le mancano i poteri magici."
+    },
+    {
+     "string": 4347,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Once they have finished with my homeland, they will find a way to cross the ocean and come for the rest of you.",
+     "tr": "Quando avranno finito con la mia patria, troveranno il modo di attraversare l'oceano e verranno a prendere anche voi."
+    },
+    {
+     "string": 4367,
+     "speaker": "Admiral Proudmoore",
+     "speaker_tr": "Ammiraglio Marefiero",
+     "en": "You say they are coming here. Do they have ships?",
+     "tr": "Dite che stanno venendo qui. Hanno delle navi?"
+    },
+    {
+     "string": 4109,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "I do not know, but even if they did not have ships before, they certainly will have them soon — they raided all along our coastline and captured our wharfs. They can and will use them to build more ships.",
+     "tr": "Non lo so, ma anche se prima non avevano navi, presto le avranno di certo: hanno razziato tutta la nostra costa e conquistato i nostri moli. Possono usarli, e lo faranno, per costruire altre navi."
+    },
+    {
+     "string": 4022,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "We can assume, then, that they have the means to cross the ocean.",
+     "tr": "Possiamo dunque supporre che abbiano i mezzi per attraversare l'oceano."
+    },
+    {
+     "string": 4052,
+     "speaker": "Genn Graymane",
+     "speaker_tr": "Genn Mantogrigio",
+     "en": "You are telling us to prepare for war then?!",
+     "tr": "Ci state dicendo di prepararci alla guerra, dunque?!"
+    },
+    {
+     "string": 4112,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Yes, a war for the very survival of our race.",
+     "tr": "Sì, una guerra per la sopravvivenza stessa della nostra razza."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 3 · . Lordaeron Council",
+   "lines": [
+    {
+     "string": 4115,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "We need to begin massive war preparations.",
+     "tr": "Dobbiamo avviare imponenti preparativi di guerra."
+    },
+    {
+     "string": 4205,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "While the kingdoms are assembling their armies, I will send a small scouting force to the island of Zul’Dare, to evaluate if the Horde has made any attempts to cross the Great Sea yet.",
+     "tr": "Mentre i regni radunano i loro eserciti, invierò una piccola forza di ricognizione sull'isola di Zul'Dare, per scoprire se l'Orda abbia già tentato di attraversare il Grande Mare."
+    },
+    {
+     "string": 4055,
+     "speaker": "Genn Graymane",
+     "speaker_tr": "Genn Mantogrigio",
+     "en": "Our shores have long stood vigil over this continent, and we’ve thrown all sorts of pirates back into the sea. I am certain we can do so again. I don’t see the necessity of unifying our armies into a single force.",
+     "tr": "Le nostre coste vegliano da tempo su questo continente, e abbiamo ricacciato in mare pirati d'ogni sorta. Sono certo che possiamo farlo di nuovo. Non vedo la necessità di riunire i nostri eserciti in un'unica forza."
+    },
+    {
+     "string": 4335,
+     "speaker": "Aiden Perenolde",
+     "speaker_tr": "Aiden Perenolde",
+     "en": "I admit that the situation is serious, but I need to consult with my lawmakers and ministers before I can subscribe to any kind of war. This is how things are done in civilized kingdoms.",
+     "tr": "Ammetto che la situazione è seria, ma devo consultare i miei legislatori e ministri prima di impegnarmi in qualsiasi guerra. È così che si fa nei regni civili."
+    },
+    {
+     "string": 4334,
+     "speaker": "Thoras Trollbane",
+     "speaker_tr": "Thoras Trollbane",
+     "en": "What bureaucratic nonsense, Aiden! If you can't take responsibility, then leave it to those who can.",
+     "tr": "Che sciocchezze burocratiche, Aiden! Se non sai assumerti le tue responsabilità, lasciale a chi ne è capace."
+    },
+    {
+     "string": 4118,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Your Majesties, we’ve told you, these are no mere raiders, this is death riding on dark tides! You will not be able to withstand them on your own, only together, all of us!",
+     "tr": "Vostre Maestà, ve l'abbiamo detto: non sono semplici predoni, è la morte che cavalca maree oscure! Non potrete resistere da soli, solo insieme, tutti quanti!"
+    },
+    {
+     "string": 4232,
+     "speaker": "Thoras Trollbane",
+     "speaker_tr": "Thoras Trollbane",
+     "en": "On that I agree Sir Lothar. However, if we are to establish this union, I only see fit that I lead it to battle!",
+     "tr": "Su questo concordo, Sir Lothar. Tuttavia, se dobbiamo fondare questa unione, mi pare giusto essere io a guidarla in battaglia!"
+    },
+    {
+     "string": 4251,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Do I need to remind at whose behest are we here? Who sponsored this council from the beginning? We need more than a mere battle commander, we need someone who can unite us.",
+     "tr": "Devo forse ricordarvi per volere di chi siamo qui? Chi ha promosso questo consiglio fin dall'inizio? Ci serve più di un semplice comandante sul campo, ci serve qualcuno che sappia unirci."
+    },
+    {
+     "string": 4058,
+     "speaker": "Genn Graymane",
+     "speaker_tr": "Genn Mantogrigio",
+     "en": "So, you have come to claim sovereignty over us?",
+     "tr": "Dunque siete venuto a rivendicare la sovranità su di noi?"
+    },
+    {
+     "string": 4211,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Of course not. I am merely saying the command of our unified forces should not be decided lightly.",
+     "tr": "Certo che no. Dico soltanto che il comando delle nostre forze unite non va deciso alla leggera."
+    },
+    {
+     "string": 4025,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "The Kirin Tor agrees. This is not a matter of military might or political influence, we need a unifying presence. A presence experienced with this sort of threat.",
+     "tr": "Il Kirin Tor concorda. Non è una questione di forza militare o di influenza politica: ci serve una figura che unisca. Una figura esperta di questo genere di minaccia."
+    },
+    {
+     "string": 4034,
+     "speaker": "Admiral Proudmoore",
+     "speaker_tr": "Ammiraglio Marefiero",
+     "en": "There’s wisdom to your words, Lord Antonidas. Kul Tiras owns the seas, and I am ready to lead our fleets into battle if need be, but to command…",
+     "tr": "C'è saggezza nelle vostre parole, Lord Antonidas. Kul Tiras domina i mari, e sono pronto a guidare le nostre flotte in battaglia se necessario, ma comandare…"
+    },
+    {
+     "string": 4336,
+     "speaker": "Alonsus Faol",
+     "speaker_tr": "Alonsus Faol",
+     "en": "I see where you are going…If I may, great leaders. When Northshire was decimated by the foul magic of orcish warlocks, we despaired. And when King Llane fell and Stormwind burned, we lost all hope.",
+     "tr": "Capisco dove volete arrivare… Se mi è concesso, grandi sovrani. Quando la Contea del Nord fu decimata dalla magia immonda degli stregoni orchi, ci disperammo. E quando re Llane cadde e Roccavento bruciò, perdemmo ogni speranza."
+    },
+    {
+     "string": 4350,
+     "speaker": "Alonsus Faol",
+     "speaker_tr": "Alonsus Faol",
+     "en": "Yet there was one man who rallied us and led us through darkness. Anduin Lothar.",
+     "tr": "Eppure ci fu un uomo che ci radunò e ci guidò attraverso le tenebre. Anduin Lothar."
+    },
+    {
+     "string": 4214,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Indeed… I agree. As the champion of Azeroth, Lord Lothar spent years battling the orcish hordes. His experience alone is invaluable.",
+     "tr": "In effetti… sono d'accordo. Come campione di Azeroth, Lord Lothar ha combattuto per anni contro le orde degli orchi. La sua esperienza da sola è inestimabile."
+    },
+    {
+     "string": 4253,
+     "speaker": "Thoras Trollbane",
+     "speaker_tr": "Thoras Trollbane",
+     "en": "And his bloodline. My ancestors fought beside Thoradin before, it would be a great honor to do so again by following his descendant.",
+     "tr": "E la sua stirpe. I miei antenati combatterono al fianco di Thoradin, sarebbe un grande onore farlo di nuovo seguendo il suo discendente."
+    },
+    {
+     "string": 4037,
+     "speaker": "Admiral Proudmoore",
+     "speaker_tr": "Ammiraglio Marefiero",
+     "en": "Kul Tiras agrees with this assessment. Sir Lothar is the perfect choice.",
+     "tr": "Kul Tiras concorda con questa valutazione. Sir Lothar è la scelta perfetta."
+    },
+    {
+     "string": 4028,
+     "speaker": "Antonidas",
+     "speaker_tr": "Antonidas",
+     "en": "A wise decision. The Kirin Tor stands behind you.",
+     "tr": "Una decisione saggia. Il Kirin Tor è con voi."
+    },
+    {
+     "string": 4166,
+     "speaker": "Aiden Perenolde",
+     "speaker_tr": "Aiden Perenolde",
+     "en": "If the majority agrees, so do I.",
+     "tr": "Se la maggioranza è d'accordo, lo sono anch'io."
+    },
+    {
+     "string": 4061,
+     "speaker": "Genn Graymane",
+     "speaker_tr": "Genn Mantogrigio",
+     "en": "Gilneas shall honor the pact, Lord Lothar. We will provide any troops, armor, weaponry, food we can spare.",
+     "tr": "Gilneas onorerà il patto, Lord Lothar. Forniremo tutte le truppe, le armature, le armi e le provviste di cui potremo privarci."
+    },
+    {
+     "string": 4341,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Now then, we have all agreed that time is of the essence if we are to marshal our united forces and meet the Horde when it arrives.",
+     "tr": "Dunque, siamo tutti d'accordo che il tempo è essenziale se vogliamo radunare le nostre forze unite e affrontare l'Orda quando arriverà."
+    },
+    {
+     "string": 4356,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Do we also agree upon our course of action?",
+     "tr": "Siamo d'accordo anche sulla linea d'azione?"
+    },
+    {
+     "string": 4342,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "Then I hereby declare the founding of the Grand Alliance of Lordaeron!",
+     "tr": "Allora proclamo la fondazione della Grande Alleanza di Lordaeron!"
+    },
+    {
+     "string": 4353,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "We shall stand together as one, as our ancestors did long ago, in the Arathi Empire. And it is only fitting, then, that our commander should hail from that ancient ruling stock.",
+     "tr": "Saremo uniti come una cosa sola, come lo furono i nostri antenati tanto tempo fa, nell'Impero di Arathor. Ed è quindi giusto che il nostro comandante discenda da quell'antica stirpe regnante."
+    },
+    {
+     "string": 4223,
+     "speaker": "Terenas Menethil",
+     "speaker_tr": "Terenas Menethil",
+     "en": "We the kings of the Alliance do hereby appoint Lord Anduin Lothar, Champion of Azeroth, as our Supreme Commander!",
+     "tr": "Noi, re dell'Alleanza, nominiamo Lord Anduin Lothar, Campione di Azeroth, nostro Comandante Supremo!"
+    },
+    {
+     "string": 4366,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "This is great honor for me. I accept this charge. With your aid, noble kings, we will vanquish the Horde and spare your people from the gruesome fate of Stormwind!",
+     "tr": "È un grande onore per me. Accetto questo incarico. Con il vostro aiuto, nobili re, sconfiggeremo l'Orda e risparmieremo ai vostri popoli la terribile sorte di Roccavento!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 4 · . Andorhal",
+   "lines": [
+    {
+     "string": 4172,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "You seem discouraged, my lord… What happened?",
+     "tr": "Sembrate scoraggiato, mio signore… Cos'è successo?"
+    },
+    {
+     "string": 4339,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "I just received a message that the Cross Island has fallen. It means that the Horde has reached Lordamere Lake. Seems like Alterac forces cannot defend their borders anymore… Since the beginning of this war, fortune has been against us.",
+     "tr": "Ho appena ricevuto notizia che l'Isola della Croce è caduta. Significa che l'Orda ha raggiunto il Lago Lordamere. Sembra che le forze di Alterac non riescano più a difendere i loro confini… Dall'inizio di questa guerra, la fortuna ci è stata avversa."
+    },
+    {
+     "string": 4359,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "We have been chasing Doomhammer across the continent, never to arrive in time… ",
+     "tr": "Abbiamo inseguito Martelfato per tutto il continente, senza mai arrivare in tempo… "
+    },
+    {
+     "string": 4175,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "Yet we managed to save Tyr's Hand. And Andorhal.",
+     "tr": "Eppure siamo riusciti a salvare Mano di Tyr. E Andorhal."
+    },
+    {
+     "string": 4246,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Yes, but we have lost Stromgarde, Tol Barad, Stratholme and much, much more…",
+     "tr": "Sì, ma abbiamo perso Stromgarde, Tol Barad, Stratholme e molto, molto di più…"
+    },
+    {
+     "string": 4247,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "But this is no time to ponder. Willhelm, travel north, reach Commander Turalyon. It’s imperative he reinforces the capital’s defenses as soon as possible.",
+     "tr": "Ma non è il momento di rimuginare. Wilhelm, va' a nord e raggiungi il comandante Turalyon. È indispensabile che rafforzi al più presto le difese della capitale."
+    },
+    {
+     "string": 4178,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "Yes, my liege.",
+     "tr": "Sì, mio signore."
+    },
+    {
+     "string": 4133,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Danath, I need you to travel south with a small squad of your troops. Check the situation in Southshore. ",
+     "tr": "Danath, devo chiederti di andare a sud con una piccola squadra delle tue truppe. Verifica la situazione a Riva del Sud. "
+    },
+    {
+     "string": 4040,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Why move south if the Horde is concentrated between the capital and Dalaran?",
+     "tr": "Perché spostarci a sud se l'Orda è concentrata tra la capitale e Dalaran?"
+    },
+    {
+     "string": 4340,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "We will secure Hillsbrad and cut orcish supply lines from the sea. Then we will hit Doomhammer’s army from the rear.",
+     "tr": "Metteremo in sicurezza Colletorto e taglieremo le linee di rifornimento degli orchi dal mare. Poi colpiremo alle spalle l'esercito di Martelfato."
+    },
+    {
+     "string": 4362,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "This time, we will not play his game. Instead of chasing him, we’ll place a noose around the neck of his blasted Horde… and hang them with it.",
+     "tr": "Questa volta non staremo al suo gioco. Invece di inseguirlo, stringeremo un cappio attorno al collo della sua maledetta Orda… e la impiccheremo."
+    },
+    {
+     "string": 4237,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "I admit that is a wise choice, but Lordaeron and Dalaran require our help right now.",
+     "tr": "Ammetto che è una scelta saggia, ma Lordaeron e Dalaran hanno bisogno del nostro aiuto adesso."
+    },
+    {
+     "string": 4139,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Trust me, Danath. I am already preparing necessary actions to aid and secure them.",
+     "tr": "Fidati di me, Danath. Sto già preparando le azioni necessarie per aiutarle e proteggerle."
+    },
+    {
+     "string": 4046,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Understood, Commander. We will march to Southshore today.",
+     "tr": "Inteso, comandante. Marceremo su Riva del Sud oggi stesso."
+    },
+    {
+     "string": 4365,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Gavinrad. You will travel south with Captain Danath and provide support to his forces. After that, you will remain there and oversee the region in case the Horde attempts to flee east through Alterac. If you spot them - show no mercy.",
+     "tr": "Gavinrad. Andrai a sud con il capitano Danath e sosterrai le sue forze. Dopodiché resterai lì a sorvegliare la regione, nel caso l'Orda tenti di fuggire a est attraverso Alterac. Se li avvisti, non mostrare pietà."
+    },
+    {
+     "string": 4049,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "I won’t fail you, Commander Lothar.",
+     "tr": "Non vi deluderò, comandante Lothar."
+    }
+   ]
+  }
+ ],
+ "quests": []
+}

@@ -390,3 +390,12 @@ It was replaced by `tools/l10n.py`; its data is in `archive/`.
   `tools/l10n_pack.py CSW-RoA IT --global` writes every `IT/strings/global/**` file (empty tr where untranslated) and
   merges map-file hits into `IT/strings/<group>/`, then runs the same checks. 1042 texts, 0 problems; `l10n.py check`:
   global 525/570 (rest = Horde abilities), 0 stale, 0 broken tags. `IT/lang.json`: version 0.1, no loading screens.
+* Act I cinematic (A01_CNMC1): `IT/work/A01_CNMC1_tr.json`, 80 dialogue lines + 16 speakers + captions, act title and
+  visible objects; pack it with `l10n_pack.py CSW-RoA IT WC2HumanAct1 A01_CNMC1` BEFORE `--global` (the mission pack
+  rewrites its other/ file, the global pack merges into it). Dialog buttons (Skip Everything ...) are map strings, now in
+  global_tr.json.
+* Chapters 2-4 (2026-11-18): `IT/work/A01_M0{2,3,4}_tr.json`, dialogue + quests + visible map texts; the Italian
+  quest texts are made consistent where the English is not (one quest title, objectives word for word, no stray
+  periods). Order: every mission pack first, `--global` last. `l10n.py check`: story 414/414, quests 436/436.
+  Canonical names checked in Reforged pairs first, then it.wowhead.com (Riva del Sud, Mulino di Tarren, Genn
+  Mantogrigio, Zuluhed l'Esausto, Teron Malacarne, L'assedio di Dalaran); own choices are marked "choice" in the glossary.

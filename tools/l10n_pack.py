@@ -76,6 +76,7 @@ def check(S, tr, quests, glossary):
             continue
         objectives = {strip_codes(tr[s]) for lbl, s in rows if lbl in ("Requirement", "Requirement text") and s in tr}
         objectives = {re.sub(r"\s*\((Completato|Fallito)\)$", "", o) for o in objectives}
+        objectives = {re.sub(r"\s*\(\d+ ?/ ?\d+[^)]*\)$", "", o) for o in objectives}
         qtitle = next((tr[s] for lbl, s in rows if lbl == "Title" and s in tr), None)
         for lbl, s in rows:
             if not lbl.startswith("Quest ") or s not in tr:
@@ -85,7 +86,7 @@ def check(S, tr, quests, glossary):
                 problems.append("%d (%s): title line %r is not the quest title %r" % (s, title, lines[1], qtitle))
             for ln in lines[2:]:
                 o = re.sub(r"\s*\((Completato|Fallito)\)$", "", strip_codes(ln).lstrip("- ").strip())
-                o = re.sub(r"\s*\(\d+ / \d+ [^)]*\)$", "", o)
+                o = re.sub(r"\s*\(\d+ ?/ ?\d+[^)]*\)$", "", o)
                 if o and o not in objectives:
                     problems.append("%d (%s): line %r is not one of the objectives" % (s, title, o))
     # glossary: English term present -> Italian form present

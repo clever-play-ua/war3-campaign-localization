@@ -1,0 +1,1480 @@
+{
+ "map": "WC2Human04",
+ "task": "A01_M04",
+ "lang": "IT",
+ "storyline": [
+  {
+   "fragment": "Fragment 1 · Intro",
+   "lines": [
+    {
+     "string": 2446,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "We are approaching Hillsbrad, my lord.",
+     "tr": "Ci stiamo avvicinando a Colletorto, mio signore."
+    },
+    {
+     "string": 3073,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "This town marks the site where the greenskins first unleashed their true barbarity on the lands of Lordaeron. And it still reeks of death and decay.",
+     "tr": "Questa città è il luogo in cui i pelleverde scatenarono per la prima volta tutta la loro barbarie sulle terre di Lordaeron. E puzza ancora di morte e putrefazione."
+    },
+    {
+     "string": 3000,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "Lordaeron… but not the first time for humanity. The Horde is a blight that seeks to turn the entire continent into burning cinders…",
+     "tr": "Lordaeron… ma non per la prima volta per l'umanità. L'Orda è una piaga che vuole ridurre l'intero continente in cenere ardente…"
+    },
+    {
+     "string": 3001,
+     "speaker": "Milan The Scribe",
+     "speaker_tr": "Milan lo Scriba",
+     "en": "I am ready to face them! Both my sword and bow thirst for orcish blood!",
+     "tr": "Sono pronto ad affrontarli! La mia spada e il mio arco hanno sete di sangue orchesco!"
+    },
+    {
+     "string": 3022,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Lord Crowley is approaching Hillsbrad from the west. He’s ready to join us when we give the signal. Whatever awaits us there, we must retake Hillsbrad. Danath, sound the attack. Wilhelm, with me!",
+     "tr": "Lord Crowley si avvicina a Colletorto da ovest. È pronto a unirsi a noi al nostro segnale. Qualunque cosa ci aspetti, dobbiamo riconquistare Colletorto. Danath, suona l'attacco. Wilhelm, con me!"
+    },
+    {
+     "string": 3002,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Soldiers! Form a line!",
+     "tr": "Soldati! In formazione!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 2 · Hillsbrad",
+   "lines": [
+    {
+     "string": 3071,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "The Magistrate of Hillsbrad. Not even gold saved the bastard, and his folly cost Meryn his life.",
+     "tr": "Il Magistrato di Colletorto. Nemmeno l'oro ha salvato quel bastardo, e la sua follia è costata la vita a Meryn."
+    },
+    {
+     "string": 2985,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "So many corpses... The entire town has been slaughtered.",
+     "tr": "Quanti cadaveri... Hanno massacrato l'intera città."
+    },
+    {
+     "string": 2944,
+     "speaker": "Milan The Scribe",
+     "speaker_tr": "Milan lo Scriba",
+     "en": "Too quiet… We've only faced scattered patrols. Where are the rest of their forces?",
+     "tr": "Troppo silenzio… Abbiamo affrontato solo pattuglie sparse. Dov'è il resto delle loro forze?"
+    },
+    {
+     "string": 2947,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Stay vigilant. We must be ready for anything.",
+     "tr": "State all'erta. Dobbiamo essere pronti a tutto."
+    },
+    {
+     "string": 2950,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "Ambush!",
+     "tr": "Un'imboscata!"
+    },
+    {
+     "string": 3063,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Danath, sound the signal to our allies!",
+     "tr": "Danath, dai il segnale ai nostri alleati!"
+    },
+    {
+     "string": 2924,
+     "speaker": "Lord Darius Crowley",
+     "speaker_tr": "Lord Darius Crowley",
+     "en": "Soldiers! The Lion of Azeroth calls! To battle!",
+     "tr": "Soldati! Il Leone di Azeroth chiama! In battaglia!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 3 · Camp",
+   "lines": [
+    {
+     "string": 2467,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "My lord, the orc forces have been destroyed. The town is secured…",
+     "tr": "Mio signore, le forze degli orchi sono state annientate. La città è al sicuro…"
+    },
+    {
+     "string": 3023,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "And in bad shape. The naval facilities have been completely destroyed. We must rebuild them and prepare an assault force before Zul'Dare can be taken.",
+     "tr": "E in pessime condizioni. Le strutture navali sono state completamente distrutte. Dobbiamo ricostruirle e preparare una forza d'assalto prima di poter conquistare Zul'Dare."
+    },
+    {
+     "string": 3003,
+     "speaker": "Lord Darius Crowley",
+     "speaker_tr": "Lord Darius Crowley",
+     "en": "We have to harvest and refine oil for our ships as well. There might be troll destroyers in the nearby waters.",
+     "tr": "Dobbiamo anche estrarre e raffinare petrolio per le nostre navi. Potrebbero esserci distruttori troll nelle acque vicine."
+    },
+    {
+     "string": 3024,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Aye. Scout the area for any enemy ships, build up our naval infrastructure, and ready our forces for battle. You have your orders, men!",
+     "tr": "Esatto. Perlustrate la zona in cerca di navi nemiche, potenziate le nostre infrastrutture navali e preparate le forze alla battaglia. Avete i vostri ordini, uomini!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 4 · Expedition",
+   "lines": [
+    {
+     "string": 2509,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "My lord, preparations have been made. Our forces are ready.",
+     "tr": "Mio signore, i preparativi sono completati. Le nostre forze sono pronte."
+    },
+    {
+     "string": 3027,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Very well. Gavinrad, I want you to stay behind and defend Hillsbrad from any possible incursion — and keep an eye on our elven friend.",
+     "tr": "Molto bene. Gavinrad, voglio che tu resti indietro a difendere Colletorto da ogni possibile incursione, e che tenga d'occhio il nostro amico elfo."
+    },
+    {
+     "string": 2515,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "I’ll keep Hillsbrad safe, my lord commander.",
+     "tr": "Terrò al sicuro Colletorto, mio signore comandante."
+    },
+    {
+     "string": 2518,
+     "speaker": "Milan the Scribe",
+     "speaker_tr": "Milan lo Scriba",
+     "en": "Am I not to join the final assault?",
+     "tr": "Non dovrei unirmi all'assalto finale?"
+    },
+    {
+     "string": 3028,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Your skills are needed here in Hillsbrad, elf. We shall reconvene once our task is done.",
+     "tr": "Le tue abilità servono qui a Colletorto, elfo. Ci ritroveremo quando avremo portato a termine il nostro compito."
+    },
+    {
+     "string": 2524,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Danath, you will lead the vanguard. Wilhelm, you’ll remain at my side. Lord Crowley…",
+     "tr": "Danath, guiderai l'avanguardia. Wilhelm, resterai al mio fianco. Lord Crowley…"
+    },
+    {
+     "string": 2527,
+     "speaker": "Lord Darius Crowley",
+     "speaker_tr": "Lord Darius Crowley",
+     "en": "Yes, I’ll see to it we reach Zul’Dare in one piece.",
+     "tr": "Sì, farò in modo che raggiungiamo Zul'Dare tutti interi."
+    },
+    {
+     "string": 2530,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Time to bash more greenskin skulls.",
+     "tr": "È ora di spaccare altri crani di pelleverde."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 5 · Expedition",
+   "lines": [
+    {
+     "string": 2998,
+     "speaker": "Darius Crowley",
+     "speaker_tr": "Darius Crowley",
+     "en": "As we navigate through the Channel Islands, the shores of Zul’Dare draw near. Our destination is within sight.",
+     "tr": "Mentre navighiamo tra le Isole del Canale, le coste di Zul'Dare si avvicinano. La nostra meta è in vista."
+    },
+    {
+     "string": 2994,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "Captain, you have both eyes in place — tell me, what's that brown spot in the fog?",
+     "tr": "Capitano, voi avete entrambi gli occhi al loro posto: ditemi, cos'è quella macchia scura nella nebbia?"
+    },
+    {
+     "string": 2988,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "A troll destroyer ship. Seems like we’re going to have a naval fight.",
+     "tr": "Un distruttore troll. Pare che ci aspetti una battaglia navale."
+    },
+    {
+     "string": 2990,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Good thing we were wise enough to build and prepare our own ships — weren’t we?",
+     "tr": "Meno male che abbiamo avuto il buon senso di costruire e preparare le nostre navi, non è vero?"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 6 · Bossfight",
+   "lines": [
+    {
+     "string": 2867,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "By the authority of the Alliance of Lordaeron, I order you — open this gate and surrender your weapons!",
+     "tr": "Per l'autorità dell'Alleanza di Lordaeron, vi ordino di aprire questo cancello e di deporre le armi!"
+    },
+    {
+     "string": 2542,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "You! I remember you.",
+     "tr": "Tu! Mi ricordo di te."
+    },
+    {
+     "string": 3007,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "We are the Bloodscribe Clan! The Warchief has tasked us with protecting this island — and we shall! Your deaths will be a fitting sacrifice in his name!",
+     "tr": "Siamo il Clan Scribasangue! Il Capoguerra ci ha affidato la difesa di quest'isola, e la difenderemo! La vostra morte sarà un degno sacrificio in suo nome!"
+    },
+    {
+     "string": 2869,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Empty words, orc! We have destroyed your forces!",
+     "tr": "Parole vuote, orco! Abbiamo distrutto le tue forze!"
+    },
+    {
+     "string": 2871,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "Yes… and you’ve thrown away your soldiers like kindling on a dying fire. That pathetic line behind the gate? They won’t save you — not when I’m standing over your shattered skull!",
+     "tr": "Sì… e tu hai gettato via i tuoi soldati come legna su un fuoco morente. Quella patetica fila dietro il cancello? Non ti salverà, non quando sarò in piedi sopra il tuo cranio fracassato!"
+    },
+    {
+     "string": 3010,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Shut up, orc! You’d better save your breath for when we cross blades!",
+     "tr": "Taci, orco! Faresti meglio a risparmiare il fiato per quando incroceremo le lame!"
+    },
+    {
+     "string": 2885,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "The gates are shut. Wilhelm! Danath! Charge!",
+     "tr": "I cancelli sono chiusi. Wilhelm! Danath! Alla carica!"
+    },
+    {
+     "string": 2884,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "For Azeroth!",
+     "tr": "Per Azeroth!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 7 · Scripted Voice Lines",
+   "lines": [
+    {
+     "string": 2843,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "I was at the Warchief’s side in all his battles! I know his strategies — you can’t outsmart me!",
+     "tr": "Sono stato al fianco del Capoguerra in tutte le sue battaglie! Conosco le sue strategie: non potete essere più astuti di me!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 8 · Outro",
+   "lines": [
+    {
+     "string": 3031,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "We have you cornered, orc. There’s no point in fighting back now. Surrender — and tell me, where’s your Warchief?!",
+     "tr": "Sei in trappola, orco. Non ha più senso combattere. Arrenditi, e dimmi: dov'è il tuo Capoguerra?!"
+    },
+    {
+     "string": 2569,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "You think I have no honor? That I would betray my people?! Lok’tar ogar!",
+     "tr": "Credi che io non abbia onore? Che tradirei il mio popolo?! Lok'tar ogar!"
+    },
+    {
+     "string": 2572,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Any last words, beast?",
+     "tr": "Ultime parole, bestia?"
+    },
+    {
+     "string": 3012,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "Kiss my boots, human!",
+     "tr": "Baciami gli stivali, umano!"
+    },
+    {
+     "string": 2832,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "So be it…",
+     "tr": "E così sia…"
+    },
+    {
+     "string": 3058,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "In the name of King Trollbane and the Kingdom of Stromgarde — for the crimes you committed against my people… my family… I hereby sentence you to die.",
+     "tr": "Nel nome di re Trollbane e del Regno di Stromgarde, per i crimini che hai commesso contro il mio popolo… la mia famiglia… ti condanno a morte."
+    },
+    {
+     "string": 3060,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "For my father…",
+     "tr": "Per mio padre…"
+    },
+    {
+     "string": 2581,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Our work here is finished. Gather the wounded, and let us return to Hillsbrad.",
+     "tr": "Il nostro lavoro qui è finito. Raccogliete i feriti e torniamo a Colletorto."
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 9 · Outro",
+   "lines": [
+    {
+     "string": 3032,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "He has fallen in battle… gave his life for Azeroth — for me. He was a brave lad, an able soldier, and a loyal man. Much like Meryn. We must remember them as such. ",
+     "tr": "È caduto in battaglia… ha dato la vita per Azeroth, per me. Era un ragazzo coraggioso, un soldato capace e un uomo leale. Proprio come Meryn. Dobbiamo ricordarli così. "
+    },
+    {
+     "string": 2590,
+     "speaker": "Danath Trolbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "What now, commander?",
+     "tr": "E ora, comandante?"
+    },
+    {
+     "string": 3033,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "I need to ride north — to rendezvous with Turalyon and confer with the High Command. Someone needs to check on those damned royals. And there’s an old acquaintance of mine I have to meet…",
+     "tr": "Devo cavalcare verso nord, per ricongiungermi a Turalyon e consultarmi con l'Alto Comando. Qualcuno deve tenere d'occhio quei maledetti reali. E c'è una mia vecchia conoscenza che devo incontrare…"
+    },
+    {
+     "string": 2596,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "Whom?",
+     "tr": "Chi?"
+    },
+    {
+     "string": 3034,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Don’t worry about it. You’ll hear from me soon enough. In the meantime, gather your forces and get some rest. You’ll need it — there’s a lot of work to do…",
+     "tr": "Non preoccupartene. Avrai presto mie notizie. Nel frattempo, raduna le tue forze e riposati. Ne avrai bisogno: c'è molto lavoro da fare…"
+    },
+    {
+     "string": 2913,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Wilhelm! No…",
+     "tr": "Wilhelm! No…"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 10 · Scripted Voice Lines",
+   "lines": [
+    {
+     "string": 2479,
+     "speaker": "Wilhelm",
+     "speaker_tr": "Wilhelm",
+     "en": "Sir Lothar, the dead are attacking us!",
+     "tr": "Sir Lothar, i morti ci attaccano!"
+    },
+    {
+     "string": 2482,
+     "speaker": "Milan the Scribe",
+     "speaker_tr": "Milan lo Scriba",
+     "en": "How deplorable. Where did these wretches come from?",
+     "tr": "Che cosa deplorevole. Da dove sono sbucati questi disgraziati?"
+    },
+    {
+     "string": 3004,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "I sense the vile stain of necromancy. The victims of the orcish slaughter find no rest.",
+     "tr": "Avverto la vile macchia della negromanzia. Le vittime del massacro degli orchi non trovano pace."
+    },
+    {
+     "string": 3025,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Then we must find their bodies, consecrate them, and grant them the peace they deserve.",
+     "tr": "Allora dobbiamo trovare i loro corpi, consacrarli e concedere loro la pace che meritano."
+    },
+    {
+     "string": 2491,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "I’ll see to it personally. For the Light!",
+     "tr": "Me ne occuperò di persona. Per la Luce!"
+    },
+    {
+     "string": 3005,
+     "speaker": "Gavinrad the Dire",
+     "speaker_tr": "Gavinrad il Terribile",
+     "en": "May the dead find solace in the hereafter.",
+     "tr": "Che i morti trovino conforto nell'aldilà."
+    },
+    {
+     "string": 2497,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Oh Meryn…",
+     "tr": "Oh, Meryn…"
+    },
+    {
+     "string": 2965,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "My lord, some orcish forces remain entrenched along the eastern shore.",
+     "tr": "Mio signore, alcune forze degli orchi restano trincerate lungo la costa orientale."
+    },
+    {
+     "string": 2935,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Then let’s destroy them. We cannot prepare our invasion force with our rear exposed.",
+     "tr": "Allora distruggiamole. Non possiamo preparare la nostra forza d'invasione con le spalle scoperte."
+    },
+    {
+     "string": 2969,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "No sign of Doomhammer. But these banners… I don’t recognize them.",
+     "tr": "Nessuna traccia di Martelfato. Ma questi stendardi… non li riconosco."
+    },
+    {
+     "string": 2973,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "They tortured the soldiers we sent here a year ago… We will make them pay for this.",
+     "tr": "Hanno torturato i soldati che abbiamo mandato qui un anno fa… Gliela faremo pagare."
+    },
+    {
+     "string": 2919,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "Burn it to the ground. The main orc in the fortress will be left without resources.",
+     "tr": "Radetelo al suolo. L'orco che comanda la fortezza resterà senza risorse."
+    },
+    {
+     "string": 2977,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "That’s their main camp.",
+     "tr": "Quello è il loro accampamento principale."
+    },
+    {
+     "string": 3046,
+     "speaker": "Prisoner",
+     "speaker_tr": "Prigioniero",
+     "en": "These wretched orcs are forcing us to work day and night!",
+     "tr": "Questi maledetti orchi ci costringono a lavorare giorno e notte!"
+    },
+    {
+     "string": 3049,
+     "speaker": "Prisoner",
+     "speaker_tr": "Prigioniero",
+     "en": "Damn the orcs!",
+     "tr": "Maledetti orchi!"
+    },
+    {
+     "string": 3052,
+     "speaker": "Prisoner",
+     "speaker_tr": "Prigioniero",
+     "en": "Thank you, sire!",
+     "tr": "Grazie, signore!"
+    },
+    {
+     "string": 3055,
+     "speaker": "Man at Arms",
+     "speaker_tr": "Uomo d'Arme",
+     "en": "My sword is yours!",
+     "tr": "La mia spada è vostra!"
+    },
+    {
+     "string": 2855,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "I can leap to the archers on the wall. Danath, take care of the grunts down here.",
+     "tr": "Posso balzare sugli arcieri sulle mura. Danath, occupati dei grunt quaggiù."
+    },
+    {
+     "string": 2863,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "I can use that flagpole to jump from the wall.",
+     "tr": "Posso usare quel pennone per saltare giù dalle mura."
+    },
+    {
+     "string": 2865,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "I’m badly wounded… You need to finish this without my aid, lad…",
+     "tr": "Sono ferito gravemente… Dovrai finire senza il mio aiuto, ragazzo…"
+    },
+    {
+     "string": 2861,
+     "speaker": "Danath Trollbane",
+     "speaker_tr": "Danath Trollbane",
+     "en": "Argh… I’m grievously wounded… I can’t continue the fight, my lord…",
+     "tr": "Argh… sono ferito gravemente… non posso continuare a combattere, mio signore…"
+    },
+    {
+     "string": 2557,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "For Doomhammer! For the Bloodscribe Clan!",
+     "tr": "Per Martelfato! Per il Clan Scribasangue!"
+    },
+    {
+     "string": 3009,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "Stromgarde, Lordaeron, Quel’Thalas— I saw them all burn! What chance do you have?!",
+     "tr": "Stromgarde, Lordaeron, Quel'Thalas… le ho viste bruciare tutte! Che speranze avete voi?!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 11 · Utok Bossfight",
+   "lines": [
+    {
+     "string": 2853,
+     "speaker": "Utok Scratcher",
+     "speaker_tr": "Utok Scratcher",
+     "en": "You think it’s easy to defeat and kill me? Bloodscribes — attack!",
+     "tr": "Credete che sia facile sconfiggermi e uccidermi? Scribasangue, all'attacco!"
+    }
+   ]
+  },
+  {
+   "fragment": "Fragment 12 · Quests.Secure the Sea",
+   "lines": [
+    {
+     "string": 2500,
+     "speaker": "Lord Darious Crowley",
+     "speaker_tr": "Lord Darius Crowley",
+     "en": "Commander, our scouts confirm that orcish vessels are patrolling the coastline.",
+     "tr": "Comandante, i nostri esploratori confermano che navi degli orchi pattugliano la costa."
+    },
+    {
+     "string": 3026,
+     "speaker": "Anduin Lothar",
+     "speaker_tr": "Anduin Lothar",
+     "en": "These waters must be cleansed if we are to secure our perimeter.",
+     "tr": "Queste acque vanno ripulite se vogliamo mettere in sicurezza il nostro perimetro."
+    },
+    {
+     "string": 2503,
+     "speaker": "Lord Darious Crowley",
+     "speaker_tr": "Lord Darius Crowley",
+     "en": "You heard the man! Ready the sails!",
+     "tr": "Avete sentito il comandante! Spiegate le vele!"
+    }
+   ]
+  }
+ ],
+ "quests": [
+  {
+   "quest": "Retake Hillsbrad",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 2602,
+     "en": "Retake Hillsbrad",
+     "tr": "Riconquista Colletorto"
+    },
+    {
+     "label": "Description",
+     "string": 2603,
+     "en": "To drive the Horde from western Lordaeron, their stronghold on the Channel Islands must be destroyed. Retake Hillsbrad, the foothold that anchors their presence, and reclaim the land for the Alliance!",
+     "tr": "Per scacciare l'Orda dal Lordaeron occidentale bisogna distruggere la sua roccaforte sulle Isole del Canale. Riconquista Colletorto, la testa di ponte che sostiene la sua presenza, e restituisci queste terre all'Alleanza!"
+    },
+    {
+     "label": "Requirement",
+     "string": 2604,
+     "en": "Secure the town.",
+     "tr": "Metti in sicurezza la città"
+    },
+    {
+     "label": "Requirement",
+     "string": 2686,
+     "en": "Lothar must survive.",
+     "tr": "Lothar deve sopravvivere"
+    },
+    {
+     "label": "Requirement",
+     "string": 2687,
+     "en": "Danath must survive.",
+     "tr": "Danath deve sopravvivere"
+    },
+    {
+     "label": "Requirement",
+     "string": 2814,
+     "en": "Secure the coastline",
+     "tr": "Metti in sicurezza la costa"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2640,
+     "en": "|cffffcc00MAIN QUEST|r\nRetake Hillsbrad\n - Secure the town\n - Danath must survive\n - Lothar must survive",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nRiconquista Colletorto\n - Metti in sicurezza la città\n - Danath deve sopravvivere\n - Lothar deve sopravvivere"
+    },
+    {
+     "label": "Leaderboard title",
+     "string": 2746,
+     "en": "Main Quest Objectives",
+     "tr": "Obiettivi della missione principale"
+    },
+    {
+     "label": "Leaderboard = Leaderboard",
+     "string": 2747,
+     "en": "Remaining enemies:",
+     "tr": "Nemici rimanenti:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 2876,
+     "en": "Flags to put in a circle:",
+     "tr": "Bandiere da piantare nel cerchio:"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2812,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nRetake Hillsbrad\n - |cff808080Secure the town (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nRiconquista Colletorto\n - |cff808080Metti in sicurezza la città (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2811,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nRetake Hillsbrad\n - Secure the coastline\n - Danath must survive\n - Lothar must survive",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nRiconquista Colletorto\n - Metti in sicurezza la costa\n - Danath deve sopravvivere\n - Lothar deve sopravvivere"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2644,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nRetake Hillsbrad",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nRiconquista Colletorto"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2645,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nRetake Hillsbrad\n - |cffff0000Danath must Survive (Failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nRiconquista Colletorto\n - |cffff0000Danath deve sopravvivere (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2717,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nRetake Hillsbrad\n - |cffff0000Lothar must Survive (Failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nRiconquista Colletorto\n - |cffff0000Lothar deve sopravvivere (Fallito)|r"
+    }
+   ]
+  },
+  {
+   "quest": "Field Preparations",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 2689,
+     "en": "Field Preparations",
+     "tr": "Preparativi sul campo"
+    },
+    {
+     "label": "Description",
+     "string": 2690,
+     "en": "Ready your forces for the coming assault on Zul’dare. Ensure your army is equipped, trained, and prepared for the battles that lie ahead.",
+     "tr": "Prepara le tue forze per l'imminente assalto a Zul'Dare. Assicurati che il tuo esercito sia equipaggiato, addestrato e pronto alle battaglie che lo attendono."
+    },
+    {
+     "label": "Requirement",
+     "string": 2691,
+     "en": "Maintain 12 Archers.",
+     "tr": "Mantieni 12 arcieri"
+    },
+    {
+     "label": "Requirement",
+     "string": 2692,
+     "en": "Maintain 12 Soldiers.",
+     "tr": "Mantieni 12 soldati"
+    },
+    {
+     "label": "Requirement",
+     "string": 2693,
+     "en": "Maintain 4 Transport Ships.",
+     "tr": "Mantieni 4 caravelle"
+    },
+    {
+     "label": "Requirement",
+     "string": 3114,
+     "en": "Maintain 8 Destroyer Ships.",
+     "tr": "Mantieni 8 distruttori"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2688,
+     "en": "|cffffcc00MAIN QUEST|r\nPreparations\n - Maintain 12 Archers\n - Maintain 12 Soldiers\n - Maintain 4 Transport Ships\n - Maintain 8 Destroyer Ships\n",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nPreparativi sul campo\n - Mantieni 12 arcieri\n - Mantieni 12 soldati\n - Mantieni 4 caravelle\n - Mantieni 8 distruttori\n"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 2752,
+     "en": "Maintained Archers:",
+     "tr": "Arcieri mantenuti:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 2751,
+     "en": "Maintained Soldiers:",
+     "tr": "Soldati mantenuti:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 2753,
+     "en": "Maintained Transports:",
+     "tr": "Caravelle mantenute:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 3124,
+     "en": "Maintained Destroyers:",
+     "tr": "Distruttori mantenuti:"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2695,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 12 Archers (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nPreparativi sul campo\n - |cff808080Mantieni 12 arcieri (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2694,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 12 Soldiers (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nPreparativi sul campo\n - |cff808080Mantieni 12 soldati (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2696,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 4 Transport Ships (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nPreparativi sul campo\n - |cff808080Mantieni 4 caravelle (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 3125,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 8 Destroyer Ships (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nPreparativi sul campo\n - |cff808080Mantieni 8 distruttori (Completato)|r"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2697,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nPreparations",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nPreparativi sul campo"
+    },
+    {
+     "label": "Quest failed",
+     "string": 3139,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nPreparations\n - |cffff0000Your camp is destroyed!|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nPreparativi sul campo\n - |cffff0000Il tuo accampamento è stato distrutto!|r"
+    }
+   ]
+  },
+  {
+   "quest": "Secure the Sea",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 2727,
+     "en": "Secure the Sea",
+     "tr": "Metti in sicurezza il mare"
+    },
+    {
+     "label": "Description",
+     "string": 2728,
+     "en": "The orcish armada near Hillsbrad blocks the path to Zul’dare. Destroy their fleet and clear the waters to allow your forces safe passage.",
+     "tr": "L'armata degli orchi vicino a Colletorto sbarra la strada verso Zul'Dare. Distruggi la loro flotta e libera le acque per garantire alle tue forze un passaggio sicuro."
+    },
+    {
+     "label": "Requirement",
+     "string": 2729,
+     "en": "Find and Destory Orcish Shipyards.",
+     "tr": "Trova e distruggi i cantieri navali degli orchi"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2818,
+     "en": "|cffffcc00MAIN QUEST|r\nSecure the Sea\n - Find and Destory Orcish Shipyards",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nMetti in sicurezza il mare\n - Trova e distruggi i cantieri navali degli orchi"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2731,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nSecure the Sea",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nMetti in sicurezza il mare"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2734,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nSecure the Sea",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nMetti in sicurezza il mare"
+    },
+    {
+     "label": "During the quest",
+     "string": 2500,
+     "en": "Commander, our scouts confirm that orcish vessels are patrolling the coastline.",
+     "tr": "Comandante, i nostri esploratori confermano che navi degli orchi pattugliano la costa."
+    }
+   ]
+  },
+  {
+   "quest": "Oil Deposits",
+   "kind": "Optional quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 3118,
+     "en": "Oil Deposits",
+     "tr": "Giacimenti di petrolio"
+    },
+    {
+     "label": "Description",
+     "string": 3119,
+     "en": "In order to prepare the navy for the assault at Zul'Dare, you will require massive amounts of Oil. Claim the local oil patches and build your Oil Platforms.",
+     "tr": "Per preparare la flotta all'assalto a Zul'Dare ti servirà una gran quantità di petrolio. Prendi possesso dei giacimenti di petrolio locali e costruisci le tue piattaforme petrolifere."
+    },
+    {
+     "label": "Requirement = Requirement text",
+     "string": 3120,
+     "en": "Build 4 Oil Plarforms.",
+     "tr": "Costruisci 4 piattaforme petrolifere"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 3123,
+     "en": "|cffffcc00OPTIONAL QUEST|r\nOil Deposits\n - Build 4 Oil Plarforms",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA|r\nGiacimenti di petrolio\n - Costruisci 4 piattaforme petrolifere"
+    },
+    {
+     "label": "Requirement text",
+     "string": 3135,
+     "en": "Build 4 Oil Plarforms (1 of 4 built).",
+     "tr": "Costruisci 4 piattaforme petrolifere (1 / 4 costruite)"
+    },
+    {
+     "label": "Quest updated",
+     "string": 3131,
+     "en": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (1 of 4 built)",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA AGGIORNATA|r\nGiacimenti di petrolio\n - Costruisci 4 piattaforme petrolifere (1 / 4 costruite)"
+    },
+    {
+     "label": "Requirement text",
+     "string": 3136,
+     "en": "Build 4 Oil Plarforms (2 of 4 built).",
+     "tr": "Costruisci 4 piattaforme petrolifere (2 / 4 costruite)"
+    },
+    {
+     "label": "Quest updated",
+     "string": 3132,
+     "en": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (2 of 4 built)",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA AGGIORNATA|r\nGiacimenti di petrolio\n - Costruisci 4 piattaforme petrolifere (2 / 4 costruite)"
+    },
+    {
+     "label": "Requirement text",
+     "string": 3137,
+     "en": "Build 4 Oil Plarforms (3 of 4 built).",
+     "tr": "Costruisci 4 piattaforme petrolifere (3 / 4 costruite)"
+    },
+    {
+     "label": "Quest updated",
+     "string": 3133,
+     "en": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (3 of 4 built)",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA AGGIORNATA|r\nGiacimenti di petrolio\n - Costruisci 4 piattaforme petrolifere (3 / 4 costruite)"
+    },
+    {
+     "label": "Quest completed",
+     "string": 3122,
+     "en": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nOil Deposits",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA COMPLETATA|r\nGiacimenti di petrolio"
+    },
+    {
+     "label": "Quest failed",
+     "string": 3121,
+     "en": "|cffffcc00OPTIONAL QUEST FAILED|r\nOil Deposits",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA FALLITA|r\nGiacimenti di petrolio"
+    }
+   ]
+  },
+  {
+   "quest": "Blackrock Remnants",
+   "kind": "Optional quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 2755,
+     "en": "Blackrock Remnants",
+     "tr": "Resti dei Roccianera"
+    },
+    {
+     "label": "Description",
+     "string": 2756,
+     "en": "Orcish forces linger on the eastern peninsula. Leave none alive and eradicate their presence to secure the region.",
+     "tr": "Le forze degli orchi indugiano sulla penisola orientale. Non lasciare nessuno in vita e cancella la loro presenza per mettere in sicurezza la regione."
+    },
+    {
+     "label": "Requirement",
+     "string": 2757,
+     "en": "Destroy all orcish forces.",
+     "tr": "Distruggi tutte le forze degli orchi"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2758,
+     "en": "|cffffcc00OPTIONAL QUEST|r\nBlackrock Remnants\n - Destroy all orcish forces",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA|r\nResti dei Roccianera\n - Distruggi tutte le forze degli orchi"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2760,
+     "en": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlackrock Remnants",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA COMPLETATA|r\nResti dei Roccianera"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2759,
+     "en": "|cffffcc00OPTIONAL QUEST FAILED|r\nBlackrock Remnants",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA FALLITA|r\nResti dei Roccianera"
+    }
+   ]
+  },
+  {
+   "quest": "Ghosts of Hillsbrad",
+   "kind": "Optional quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 3115,
+     "en": "Ghosts of Hillsbrad",
+     "tr": "Fantasmi di Colletorto"
+    },
+    {
+     "label": "Description",
+     "string": 3116,
+     "en": "The unholy presence of orcish necromancers has raised the slain people of Hillsbrad from their graves. Put an end to their suffering and cleanse the land of this dark magic.",
+     "tr": "La presenza empia dei negromanti orchi ha fatto risorgere dalle tombe gli abitanti massacrati di Colletorto. Poni fine alle loro sofferenze e purifica la terra da questa magia oscura."
+    },
+    {
+     "label": "Requirement",
+     "string": 3117,
+     "en": "Destroy the corpse piles (0/3)",
+     "tr": "Distruggi i cumuli di cadaveri (0/3)"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2708,
+     "en": "|cffffcc00OPTIONAL QUEST|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (0/3)",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA|r\nFantasmi di Colletorto\n - Distruggi i cumuli di cadaveri (0/3)"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2724,
+     "en": "|cffffcc00OPTIONAL QUEST UPDATED|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (1/3)",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA AGGIORNATA|r\nFantasmi di Colletorto\n - Distruggi i cumuli di cadaveri (1/3)"
+    },
+    {
+     "label": "Quest updated",
+     "string": 2726,
+     "en": "|cffffcc00OPTIONAL QUEST UPDATED|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (2/3)",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA AGGIORNATA|r\nFantasmi di Colletorto\n - Distruggi i cumuli di cadaveri (2/3)"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2710,
+     "en": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nGhosts of Hillsbrad",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA COMPLETATA|r\nFantasmi di Colletorto"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2735,
+     "en": "|cffffcc00OPTIONAL QUEST FAILED|r\nGhosts of Hillsbrad",
+     "tr": "|cffffcc00MISSIONE FACOLTATIVA FALLITA|r\nFantasmi di Colletorto"
+    }
+   ]
+  },
+  {
+   "quest": "Zul’dare",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 2699,
+     "en": "Zul’dare",
+     "tr": "Zul'Dare"
+    },
+    {
+     "label": "Description",
+     "string": 2700,
+     "en": "The Horde’s naval base on Zul’dare marks the site of their first strike against the kingdom. Lead the attack and show their “Warchief” that the Alliance is coming for him. Leave no orc standing.",
+     "tr": "La base navale dell'Orda a Zul'Dare segna il luogo del suo primo attacco contro il regno. Guida l'assalto e mostra al loro “Capoguerra” che l'Alleanza sta venendo a prenderlo. Non lasciare in piedi nessun orco."
+    },
+    {
+     "label": "Requirement",
+     "string": 2819,
+     "en": "Capture Zul'dare outposts.",
+     "tr": "Conquista gli avamposti di Zul'Dare"
+    },
+    {
+     "label": "Requirement",
+     "string": 2701,
+     "en": "Destroy Bloodscribe camp.",
+     "tr": "Distruggi l'accampamento degli Scribasangue"
+    },
+    {
+     "label": "Requirement",
+     "string": 2702,
+     "en": "Lothar must survive.",
+     "tr": "Lothar deve sopravvivere"
+    },
+    {
+     "label": "Requirement",
+     "string": 2703,
+     "en": "Danath must survive.",
+     "tr": "Danath deve sopravvivere"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2698,
+     "en": "|cffffcc00MAIN QUEST|r\nZul’dare\n - Capture Zul'dare outposts\n - Destroy Bloodscribe camp\n - Lothar must survive\n - Danath must survive",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nZul'Dare\n - Conquista gli avamposti di Zul'Dare\n - Distruggi l'accampamento degli Scribasangue\n - Lothar deve sopravvivere\n - Danath deve sopravvivere"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 2878,
+     "en": "Flags to put in a circle:",
+     "tr": "Bandiere da piantare nel cerchio:"
+    },
+    {
+     "label": "Leaderboard",
+     "string": 2879,
+     "en": "Destroy Bloodscribe camp!",
+     "tr": "Distruggi l'accampamento degli Scribasangue!"
+    },
+    {
+     "label": "Quest updated",
+     "string": 3147,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nZul’dare\n - |cff808080Capture Zul'dare outposts. (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nZul'Dare\n - |cff808080Conquista gli avamposti di Zul'Dare (Completato)|r"
+    },
+    {
+     "label": "Quest updated",
+     "string": 3149,
+     "en": "|cffffcc00MAIN QUEST UPDATED|r\nZul’dare\n - |cff808080Destroy Bloodscribe clan camp. (Completed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE AGGIORNATA|r\nZul'Dare\n - |cff808080Distruggi l'accampamento degli Scribasangue (Completato)|r"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2733,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nZul’dare",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nZul'Dare"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2789,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nZul’dare\n - |cffff0000Danath must Survive (Failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nZul'Dare\n - |cffff0000Danath deve sopravvivere (Fallito)|r"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2790,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nZul’dare\n - |cffff0000Lothar must Survive (Failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nZul'Dare\n - |cffff0000Lothar deve sopravvivere (Fallito)|r"
+    }
+   ]
+  },
+  {
+   "quest": "Utok Scratcher",
+   "kind": "Main quest",
+   "rows": [
+    {
+     "label": "Title",
+     "string": 2820,
+     "en": "Utok Scratcher",
+     "tr": "Utok Scratcher"
+    },
+    {
+     "label": "Description",
+     "string": 2821,
+     "en": "Utok Scratcher, the Horde’s second-in-command warlord, must be struck down. His death will deal a shattering blow to the Horde, defeat him and turn the tide of battle.",
+     "tr": "Utok Scratcher, il signore della guerra secondo in comando dell'Orda, deve essere abbattuto. La sua morte infliggerà all'Orda un colpo devastante: sconfiggilo e ribalta le sorti della battaglia."
+    },
+    {
+     "label": "Requirement",
+     "string": 2824,
+     "en": "Defeat Utok Scratcher.",
+     "tr": "Sconfiggi Utok Scratcher"
+    },
+    {
+     "label": "Requirement",
+     "string": 2822,
+     "en": "At least one of your heroes must survive.",
+     "tr": "Almeno uno dei tuoi eroi deve sopravvivere"
+    },
+    {
+     "label": "Quest discovered",
+     "string": 2825,
+     "en": "|cffffcc00MAIN QUEST|r\nUtok Scratcher\n - Defeat Utok Scratcher\n - At least one of your heroes must survive",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE|r\nUtok Scratcher\n - Sconfiggi Utok Scratcher\n - Almeno uno dei tuoi eroi deve sopravvivere"
+    },
+    {
+     "label": "Quest completed",
+     "string": 2826,
+     "en": "|cffffcc00MAIN QUEST COMPLETED|r\nUtok Scratcher",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE COMPLETATA|r\nUtok Scratcher"
+    },
+    {
+     "label": "Quest failed",
+     "string": 2827,
+     "en": "|cffffcc00MAIN QUEST FAILED|r\nUtok Scratcher\n - |cffff0000At least one of your heroes must survive (Failed)|r",
+     "tr": "|cffffcc00MISSIONE PRINCIPALE FALLITA|r\nUtok Scratcher\n - |cffff0000Almeno uno dei tuoi eroi deve sopravvivere (Fallito)|r"
+    }
+   ]
+  },
+  {
+   "quest": "Other messages and hints",
+   "kind": "Messages",
+   "rows": [
+    {
+     "label": "Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce = Displaytexttoforce",
+     "string": 2767,
+     "en": "|cffffcc00Haul more Oil.|r",
+     "tr": "|cffffcc00Trasporta altro petrolio.|r"
+    },
+    {
+     "label": "Customdefeatbj",
+     "string": 2639,
+     "en": "|cffffcc00MISSION FAILED|r",
+     "tr": "|cffffcc00MISSIONE FALLITA|r"
+    },
+    {
+     "label": "Unitavailable",
+     "string": 2683,
+     "en": "|cffffcc00TECHTREE UNLOCKED|r\nFoundry. Obsessed with creating the strongest force in the Alliance, human artisans provided Anduin Lothar with designs of the Foundry that can upgrade ships.",
+     "tr": "|cffffcc00NUOVA STRUTTURA SBLOCCATA|r\nFonderia. Ossessionati dall'idea di creare la forza più potente dell'Alleanza, gli artigiani umani hanno fornito ad Anduin Lothar i progetti della Fonderia, che può potenziare le navi."
+    },
+    {
+     "label": "Unitavailable",
+     "string": 3113,
+     "en": "|cffffcc00TECHTREE UNLOCKED|r  \nFrontal Cannon Shot. With ample oil reserves, your Foundry artisans can now prepare enough explosives to equip your ships with frontal cannons.  \n",
+     "tr": "|cffffcc00NUOVO POTENZIAMENTO SBLOCCATO|r  \nColpo di Cannone Frontale. Con ampie riserve di petrolio, gli artigiani della tua Fonderia possono ora preparare esplosivo sufficiente per dotare le navi di cannoni frontali.  \n"
+    },
+    {
+     "label": "Unitavailable",
+     "string": 2737,
+     "en": "|cffffcc00TECHTREE UNLOCKED|r\nRefineries serve as a drop off point for oil and provide tanker upgrades.",
+     "tr": "|cffffcc00NUOVA STRUTTURA SBLOCCATA|r\nLe raffinerie fungono da punto di raccolta del petrolio e offrono potenziamenti per le petroliere."
+    },
+    {
+     "label": "Unitavailable",
+     "string": 2738,
+     "en": "|cffffcc00TECHTREE UNLOCKED|r\nTransports carry your forces across the sea.",
+     "tr": "|cffffcc00NUOVA UNITÀ SBLOCCATA|r\nLe caravelle trasportano le tue forze attraverso il mare."
+    },
+    {
+     "label": "Unitacquired",
+     "string": 3110,
+     "en": "|cffffcc00TECHTREE ALTERATION|r\nGilnean labourers will help Anduin Lothar rebuild Hillsbrad and prepare military infrastructure.",
+     "tr": "|cffffcc00UNITÀ MODIFICATA|r\nI manovali di Gilneas aiuteranno Anduin Lothar a ricostruire Colletorto e a preparare le infrastrutture militari."
+    },
+    {
+     "label": "Unitacquired",
+     "string": 3111,
+     "en": "|cffffcc00TECHTREE ALTERATION|r  \nMan at Arms. Seasoned Azerothian veterans capable of dealing multiplied damage when properly trained.  \nWith the Alliance weakened by heavy losses, Anduin Lothar has called upon his reserves, drawing from his most trusted compatriots.",
+     "tr": "|cffffcc00UNITÀ MODIFICATA|r  \nUomo d'Arme. Veterani esperti di Azeroth capaci di infliggere danni moltiplicati se adeguatamente addestrati.  \nCon l'Alleanza indebolita da pesanti perdite, Anduin Lothar ha richiamato le sue riserve, attingendo ai suoi compatrioti più fidati."
+    },
+    {
+     "label": "Unitacquired",
+     "string": 3151,
+     "en": "|cff87ceebREINFORCEMENT|r  \nLord Crowley and a squad of Gilnean forces will follow Anduin Lothar. You cannot control them directly, however, as the Gilneans value their independence.  \n",
+     "tr": "|cff87ceebRINFORZI|r  \nLord Crowley e una squadra di forze di Gilneas seguiranno Anduin Lothar. Tuttavia non puoi controllarli direttamente, perché i gilneani tengono alla loro indipendenza.  \n"
+    },
+    {
+     "label": "Unitacquired",
+     "string": 3108,
+     "en": "|cff87ceebREINFORCEMENT|r\nGilnean Frigates can help you protect your coastline till you build your own destroyers.",
+     "tr": "|cff87ceebRINFORZI|r\nLe fregate di Gilneas possono aiutarti a proteggere la costa finché non costruirai i tuoi distruttori."
+    },
+    {
+     "label": "Hint",
+     "string": 3153,
+     "en": "|cff32cd32HINT|r\nOnly Lothar can carry this flag.",
+     "tr": "|cff32cd32SUGGERIMENTO|r\nSolo Lothar può portare questa bandiera."
+    },
+    {
+     "label": "Hint",
+     "string": 3152,
+     "en": "|cff32cd32HINT|r  \nMilan is the only semi-hero whose rank increases after completing side quests. Each rank unlocks new abilities, enhances existing ones, and grants bonuses to health and movement speed.  \n",
+     "tr": "|cff32cd32SUGGERIMENTO|r  \nMilan è l'unico semi-eroe il cui grado aumenta completando le missioni secondarie. Ogni grado sblocca nuove abilità, potenzia quelle esistenti e conferisce bonus alla salute e alla velocità di movimento.  \n"
+    }
+   ]
+  },
+  {
+   "quest": "Other texts set by the scripts",
+   "kind": "Script",
+   "rows": [
+    {
+     "label": "StringIdentity",
+     "string": 3172,
+     "en": "|c00640000Oil patch is depleted|r",
+     "tr": "|c00640000Giacimento di petrolio esaurito|r"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3173,
+     "en": "The oil patch is running low",
+     "tr": "Il giacimento di petrolio si sta esaurendo"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3176,
+     "en": "Collect Oil from Oil Rigs.",
+     "tr": "Raccogli il petrolio dalle piattaforme petrolifere."
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3179,
+     "en": "Deliver Oil",
+     "tr": "Consegna il petrolio"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3185,
+     "en": "Gather Oil",
+     "tr": "Raccogli il petrolio"
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3188,
+     "en": "Return the Oil to the nearest Shipyard.",
+     "tr": "Riporta il petrolio al cantiere navale più vicino."
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3190,
+     "en": "Oil is gathered from Oil Patches.",
+     "tr": "Il petrolio si raccoglie dai giacimenti di petrolio."
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3193,
+     "en": "Oil: ",
+     "tr": "Petrolio: "
+    },
+    {
+     "label": "StringIdentity",
+     "string": 3196,
+     "en": "Oil: 0",
+     "tr": "Petrolio: 0"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3088,
+     "en": "LoreCraft Designs Team",
+     "tr": "Il team di LoreCraft Designs"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3089,
+     "en": "|cffffcc00Terrain:|r Eugene Ivaniushchenko (Tamplier), Shadi Al-Abadi,\n|cffffcc00Art:|r Vincent Trucot, Barorque, Shadi Al-Abadi,\n|cffffcc00Dialogues and texts:|r Eugene Ivaniushchenko (Tamplier), Shadi Al-Abadi, Marthen.\n|cffffcc00Scripting:|r Eugene Ivaniushchenko (Tamplier).",
+     "tr": "|cffffcc00Terreno:|r Eugene Ivaniushchenko (Tamplier), Shadi Al-Abadi,\n|cffffcc00Grafica:|r Vincent Trucot, Barorque, Shadi Al-Abadi,\n|cffffcc00Dialoghi e testi:|r Eugene Ivaniushchenko (Tamplier), Shadi Al-Abadi, Marthen.\n|cffffcc00Script:|r Eugene Ivaniushchenko (Tamplier)."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3086,
+     "en": "Contributors",
+     "tr": "Collaboratori"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3087,
+     "en": "|cffffcc00Terrain|r - Valieyant.|n|cffffcc00Scripting and systems:|r Insane Monster, OutsiderXE, Paladon, Spellbound, 4avenger5, FlorianGeyerKR, WarpingGuy.",
+     "tr": "|cffffcc00Terreno|r - Valieyant.|n|cffffcc00Script e sistemi:|r Insane Monster, OutsiderXE, Paladon, Spellbound, 4avenger5, FlorianGeyerKR, WarpingGuy."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3084,
+     "en": "Contributors (Models and Art)",
+     "tr": "Collaboratori (modelli e grafica)"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3085,
+     "en": "Handclaw, VictorZ, Mr. Smite, vindorei, Vinz, Symphoneum, stan0033, ahtiandr, Mr Ogre Man, Superfrycook, CaptainHe, bakr, doom_sheep, Hate, Direfury, CreatorD3292, JesusHipster, HerrDave, WILL THE ALMIGHTY, Apex-3D, Stonebraker.",
+     "tr": "Handclaw, VictorZ, Mr. Smite, vindorei, Vinz, Symphoneum, stan0033, ahtiandr, Mr Ogre Man, Superfrycook, CaptainHe, bakr, doom_sheep, Hate, Direfury, CreatorD3292, JesusHipster, HerrDave, WILL THE ALMIGHTY, Apex-3D, Stonebraker."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ",
+     "string": 3076,
+     "en": "Voice Actors",
+     "tr": "Doppiatori"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3077,
+     "en": "|cffffcc00Jeff Vestergaard (Jmv_cyber) - Thoras Trollbane.|r|n|cffffcc00Noah Garcia (BaronBlackthorn) - Uther, Human UI and units.|r|n|cffffcc00Shadi Al-Abadi - Rend and Maim Blackhands.|r|n|cffffcc00Thomas (Whirlwind) - Orgrim Doomhamer.|r",
+     "tr": "|cffffcc00Jeff Vestergaard (Jmv_cyber) - Thoras Trollbane.|r|n|cffffcc00Noah Garcia (BaronBlackthorn) - Uther, interfaccia e unità umane.|r|n|cffffcc00Shadi Al-Abadi - Rend e Maim Manonera.|r|n|cffffcc00Thomas (Whirlwind) - Orgrim Martelfato.|r"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3093,
+     "en": "|cffffcc00DanielHodgeVA - Anduin Lothar.|r|n|cffffcc00Kenn Nyström (Frozen Death Knight) - Terenas Menethil, Genn Graymane.|r|n|cffffcc00Luca Karaya (Nyte) - Meryn, Elven Destroyer.|r|n|cffffcc00(Aleksandrs Vlasenko) Avuaz - Drenden.|r",
+     "tr": "|cffffcc00DanielHodgeVA - Anduin Lothar.|r|n|cffffcc00Kenn Nyström (Frozen Death Knight) - Terenas Menethil, Genn Mantogrigio.|r|n|cffffcc00Luca Karaya (Nyte) - Meryn, distruttore elfico.|r|n|cffffcc00(Aleksandrs Vlasenko) Avuaz - Drenden.|r"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3095,
+     "en": "|cffffcc00Dale Wylde (MoxySpunt) - Kultiran units.|r|n|cffffcc00Zytel - Antonidas, Alonsus Faol.|r|n|cffffcc00Zan Kelly (Vox Tenebrae) - Kurdran Wildhammer. |r|n|cffffcc00Luca Huber (Def_Glitch) - Gavinrad, Crowley, some Kultiran Units.|r",
+     "tr": "|cffffcc00Dale Wylde (MoxySpunt) - unità di Kul Tiras.|r|n|cffffcc00Zytel - Antonidas, Alonsus Faol.|r|n|cffffcc00Zan Kelly (Vox Tenebrae) - Kurdran Granmartello. |r|n|cffffcc00Luca Huber (Def_Glitch) - Gavinrad, Crowley, alcune unità di Kul Tiras.|r"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3097,
+     "en": "|cffffcc00Nikolaj Trankjær (Hamlet) - Khadgar.|r|n|cffffcc00AliceCry - Modera, Dark Iron priestess.|r|n|cffffcc00Gavaroc - Wilhelm, Krasus. |r|n|cffffcc00Jakub (Gibby) - Dwarven units.|r",
+     "tr": "|cffffcc00Nikolaj Trankjær (Hamlet) - Khadgar.|r|n|cffffcc00AliceCry - Modera, sacerdotessa dei Ferroscuro.|r|n|cffffcc00Gavaroc - Wilhelm, Krasus. |r|n|cffffcc00Jakub (Gibby) - unità naniche.|r"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3099,
+     "en": "|cffffcc00Veronnis - Elven units.|r|n|cffffcc00Soultice (Ethan) - Milan the Scribe, Muradin, Elven captain in Southshore.|r|n|cffffcc00Alex Cain - Turalyon, Mayor Marcus. |r|n|cffffcc00Christina Sherman - Alleria, Arthas (child).|r",
+     "tr": "|cffffcc00Veronnis - unità elfiche.|r|n|cffffcc00Soultice (Ethan) - Milan lo Scriba, Muradin, capitano elfico a Riva del Sud.|r|n|cffffcc00Alex Cain - Turalyon, sindaco Marcus. |r|n|cffffcc00Christina Sherman - Alleria, Arthas (bambino).|r"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3101,
+     "en": "|cffffcc00Richard (Wtiiwarcraft) - Aiden Perenolde.|r|n|cffffcc00Frej Brandt - Derek Proudmoore, Ogre Korkron.|r|n|cffffcc00Ryan Frownfelter (Yoti Coyote) - Prisoners in Tarren Mill. |r|n|cffffcc00AdmiralIddy - Admiral Proudmoore.|r",
+     "tr": "|cffffcc00Richard (Wtiiwarcraft) - Aiden Perenolde.|r|n|cffffcc00Frej Brandt - Derek Marefiero, Ogre Kor'kron.|r|n|cffffcc00Ryan Frownfelter (Yoti Coyote) - prigionieri del Mulino di Tarren. |r|n|cffffcc00AdmiralIddy - Ammiraglio Marefiero.|r"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3103,
+     "en": "|cffffcc00Dusk - Kel'Thuzad.|r|n|cffffcc00Nobbel - Cleric in Soutshore.|r|n|cffffcc00Grubby - Orc Peon in Southshore. |r|n",
+     "tr": "|cffffcc00Dusk - Kel'Thuzad.|r|n|cffffcc00Nobbel - chierico a Riva del Sud.|r|n|cffffcc00Grubby - peone orco a Riva del Sud. |r|n"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3165,
+     "en": "Beta Testers:",
+     "tr": "Beta tester:"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3166,
+     "en": "Achiak, Avekatten, BaronBlackthorn, eaok, Ehlesgens, Flinn, FlorianGeyerKR, Gunter, Handclaw, InsaneMionster, Jmv_cyber, Mr Ogre Man, Nagax, Nsyw, Ryknow69, Scaldar, Symphoneum, TJ6, Whirlwind, xlrtm2ls, Grim.",
+     "tr": "Achiak, Avekatten, BaronBlackthorn, eaok, Ehlesgens, Flinn, FlorianGeyerKR, Gunter, Handclaw, InsaneMionster, Jmv_cyber, Mr Ogre Man, Nagax, Nsyw, Ryknow69, Scaldar, Symphoneum, TJ6, Whirlwind, xlrtm2ls, Grim."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ = TransmissionFromUnitTypeWithNameBJ",
+     "string": 3090,
+     "en": "Our Patrons and Supporters:",
+     "tr": "I nostri patron e sostenitori:"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3091,
+     "en": "TurtleWOW, Xel3 Keravnos, Jaymz1495, Joaquin, Krieg Blackpaw, novice 777, Jesper Panduro, Lynn B, Ava, Johan,  Falandry, Samuel Taiš, Anton Kurylovych, Draknesse126, Fafnircul, Muri 84, Maxxaras, Xmas, Jeff Silverbloom, SnakeEyes, Xarim 57, jV, Christopher S Rossa, Cyberdemon1542, Alexir, Skoglar, Times, Josh M, Sean Conant, Jens Norell.",
+     "tr": "TurtleWOW, Xel3 Keravnos, Jaymz1495, Joaquin, Krieg Blackpaw, novice 777, Jesper Panduro, Lynn B, Ava, Johan,  Falandry, Samuel Taiš, Anton Kurylovych, Draknesse126, Fafnircul, Muri 84, Maxxaras, Xmas, Jeff Silverbloom, SnakeEyes, Xarim 57, jV, Christopher S Rossa, Cyberdemon1542, Alexir, Skoglar, Times, Josh M, Sean Conant, Jens Norell."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3105,
+     "en": "Frikineitor143, ncikz, Огњен Јовановић, Assaf Simo, Gabriel Lorando, Lucas60195, Joshua Kerns, Máté Kovács, MResearcher, Nan35, Hjorleif, Joseph Proctor, Cruallassar, Ndy, Centurion, Francisco Escobar, Def_Glitch, Mehdi Cherif, Thomas Carlton, Stagwagon89, Vaida Andrei, Cotton, Dmitry Ognev, Loxias, Anders, Riley, Poulsen, Renic, Mike Weber, Thomas Schouten, Linus Knoop, Tim Bamford, Nicholas Galiotti, somebody11, kanibal, Falzan, Rafał Hudaszek, Marcel. ",
+     "tr": "Frikineitor143, ncikz, Огњен Јовановић, Assaf Simo, Gabriel Lorando, Lucas60195, Joshua Kerns, Máté Kovács, MResearcher, Nan35, Hjorleif, Joseph Proctor, Cruallassar, Ndy, Centurion, Francisco Escobar, Def_Glitch, Mehdi Cherif, Thomas Carlton, Stagwagon89, Vaida Andrei, Cotton, Dmitry Ognev, Loxias, Anders, Riley, Poulsen, Renic, Mike Weber, Thomas Schouten, Linus Knoop, Tim Bamford, Nicholas Galiotti, somebody11, kanibal, Falzan, Rafał Hudaszek, Marcel. "
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3107,
+     "en": "Cornelis Optimus Maximus, Eugene Griskov, Oleksii, Daniel Kampert, WeLoveHandball, Martin Božek, John Bis, Bruno Pereira, Dwelgaz, Marcel Pašta, Kazimieras Gipas, Luis Rubalcava, Dominik Haas, Cherann124, Tobias Meyer, Saeris Sanoora, Ivan Makarov, Shelby, Ivan Nikov,\nGabor Szabo, Agmon525 CZ, Xenoiide, Dianne Payette, Reiftyr, Schlimes, Flinn.",
+     "tr": "Cornelis Optimus Maximus, Eugene Griskov, Oleksii, Daniel Kampert, WeLoveHandball, Martin Božek, John Bis, Bruno Pereira, Dwelgaz, Marcel Pašta, Kazimieras Gipas, Luis Rubalcava, Dominik Haas, Cherann124, Tobias Meyer, Saeris Sanoora, Ivan Makarov, Shelby, Ivan Nikov,\nGabor Szabo, Agmon525 CZ, Xenoiide, Dianne Payette, Reiftyr, Schlimes, Flinn."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3078,
+     "en": "Support us to fascilitate the release of the next acts and campaigns:",
+     "tr": "Sostienici per accelerare l'uscita dei prossimi atti e campagne:"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3079,
+     "en": "https://www.patreon.com/LoreCraftDesigns\n\nhttps://www.patreon.com/Shadihd\n\n",
+     "tr": "https://www.patreon.com/LoreCraftDesigns\n\nhttps://www.patreon.com/Shadihd\n\n"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3082,
+     "en": "Follow us on social media:",
+     "tr": "Seguici sui social:"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3083,
+     "en": "https://www.youtube.com/@lorecraftdesigns638\n\nhttps://x.com/LoreCraftMod\n\n",
+     "tr": "https://www.youtube.com/@lorecraftdesigns638\n\nhttps://x.com/LoreCraftMod\n\n"
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3074,
+     "en": "To be Continued...",
+     "tr": "Continua..."
+    },
+    {
+     "label": "TransmissionFromUnitTypeWithNameBJ",
+     "string": 3075,
+     "en": "Act II \"Khaz Modan\" currently in development. Stay tuned for upcoming acts!",
+     "tr": "L'Atto II \"Khaz Modan\" è attualmente in sviluppo. Restate sintonizzati per i prossimi atti!"
+    }
+   ]
+  }
+ ]
+}
