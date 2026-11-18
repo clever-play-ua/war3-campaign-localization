@@ -337,6 +337,10 @@ Scripts (not in this repo): `casc_common.py`, `blte.py`, `encoding_file.py`, `ca
   RoA only (`--enemy-races orc`, the default): the player is the Alliance, Horde units are only ever clicked to read the
   name, so a Horde unit (race from `urac` or UnitData.slk) shows as a name-only card; its tooltips and abilities are
   folded into "Not used" (strings place `unused`). Heroes and structures are not affected.
+  Voice lines: dialogue sound `gg_snd_X` -> `CreateSound("Sound/Dialogue/<Map>/X.mp3")` in war3map.j; the file sits in
+  the campaign archive (all 401 RoA lines are MP3). The site re-encodes them with ffmpeg to MP3 mono 24 kHz 48 kbit/s
+  (`site/audio/<map>/<X>.mp3`, RoA: 403 files, ~17 MB, ~11 KB per line) and precomputes a 32-bar waveform; one shared
+  `Audio()` plays them (click a bar to seek). MP3, not Ogg/Opus: plays on every browser incl. older iOS Safari.
   Structures show their researches (`ures`, else *UnitFunc.txt Researches) with every upgrade level.
   `tools/fk_heroes.py` (hero texts, see "Hero and ability texts" below; `FK/heroes/<unit>_<name>.json`, also shown in the
   site's Heroes section),
@@ -367,3 +371,22 @@ It was replaced by `tools/l10n.py`; its data is in `archive/`.
   2.0 skin files).
 * ES/PT/UK/FR: a few tooltips whose placeholders differ from English (`check` shows them).
 * FORMAT.md known limits; consider promoting `variants` handling to context ids.
+
+## Italian (IT) for RoA (2026-11-17)
+
+* Official names: Warcraft III Reforged itIT strings (CASC `War3.w3mod:_Locales/itIT.w3mod:*`; the locale must be
+  downloaded in Battle.net first, until then the files are listed but unreadable) paired with enUS by section/key give
+  ~18.5k EN/IT pairs; names missing there come from it.wowhead.com (wowhead MCP: search in English, then open the page
+  with `/it/` in the URL). Glossary with the source of every form: `CSW-RoA/IT/glossary.json`.
+* Work file per mission: `CSW-RoA/IT/work/<task>_tr.json` (STRING number -> Italian, speaker names by English text).
+  `tools/l10n_pack.py CSW-RoA IT WC2Human01 A01_M01` writes `IT/strings/{story,quests,other}` (canonical ids by hash),
+  `IT/review/<task>_IT.json` (site order, EN next to IT) and checks colour codes / line breaks / placeholders, quest
+  integrity (every objective line of a quest message equals one of the quest's objectives, title line = quest title)
+  and glossary forms. Chapter One: 184 strings + 79 speaker names, 0 problems.
+* Heroes / units / structures / artifacts / Chapter One map objects (2026-11-18): scope = every text the French
+  translation covers on those site tabs + FR-translated `strings/global` ids the site hides (menu chapter names, unused
+  artifacts); Horde heroes (faction section + Orgrim, Gul'dan, Zul'jin, Eitrigg, Nekros, Deathwing, Garona, Rend)
+  name and rank only, their abilities stay English. Work file `IT/work/global_tr.json` {English hash: Italian};
+  `tools/l10n_pack.py CSW-RoA IT --global` writes every `IT/strings/global/**` file (empty tr where untranslated) and
+  merges map-file hits into `IT/strings/<group>/`, then runs the same checks. 1042 texts, 0 problems; `l10n.py check`:
+  global 525/570 (rest = Horde abilities), 0 stale, 0 broken tags. `IT/lang.json`: version 0.1, no loading screens.

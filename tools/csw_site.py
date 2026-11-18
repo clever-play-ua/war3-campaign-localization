@@ -240,8 +240,8 @@ def card(kind, title, icon, desc, sections, ids="", main=False):
                 out.append('<div class="step"><div class="step-label">%s</div><div><p class="msg">%s</p>'
                            '<div class="ids">%s</div></div></div>' % (lbl, r[1], esc(r[2])))
         if out or name_row:
-            parts.append('<div class="phase"><h4 class="phase-head">%s%s<span class="idc">%s</span></h4>%s</div>' % (
-                sic, head_html, esc(sub), "".join(out)))
+            parts.append('<div class="phase"><h4 class="phase-head%s">%s%s<span class="idc">%s</span></h4>%s</div>' % (
+                " ph-text" if heading == "Text" else "", sic, head_html, esc(sub), "".join(out)))
     return ('<article class="quest%s"><div class="quest-head">%s<div><span class="badge%s">%s</span><h3>%s</h3>%s%s'
             '<div class="ids">%s</div></div></div>%s</article>' % (
                 "" if parts else " bare", ico, " main" if main else "", esc(kind), wc3_html(title or "?"), also_title,
@@ -502,10 +502,17 @@ def build(w3n, game, style, enemy_races=()):
     slk = lambda name: fk_heroes.slk_rows(icons.casc.get("War3.w3mod:Units/%s" % name))
     balance, itemdata, uabil = slk("UnitBalance.slk"), slk("ItemData.slk"), slk("UnitAbilities.slk")
     skins = {}
-    for f in ("AbilitySkin", "ItemSkin", "DestructableSkin", "UpgradeSkin"):
-        txt = icons.casc.get("War3.w3mod:Units/%s.txt" % f).decode("utf-8", "replace")
+    # Skin files first, then the *Func files: standard items keep their Art only in ItemFunc.txt, some abilities and
+    # upgrades only in <Race>AbilityFunc / <Race>UpgradeFunc
+    funcs = ["ItemFunc"] + ["%s%sFunc" % (r, k) for k in ("Ability", "Upgrade")
+                            for r in ("Human", "Orc", "NightElf", "Undead", "Neutral", "Campaign", "Common", "Item")]
+    for f in ["AbilitySkin", "ItemSkin", "DestructableSkin", "UpgradeSkin"] + funcs:
+        try:
+            txt = icons.casc.get("War3.w3mod:Units/%s.txt" % f).decode("utf-8", "replace")
+        except Exception:
+            continue
         for m in re.finditer(r"^\[(\w{4})\]\s*\n(.*?)(?=^\[|\Z)", txt, re.M | re.S):
-            a = re.search(r"^Art(?::hd)?=(.+)$", m.group(2), re.M)
+            a = re.search(r"^(?:Art|Buffart)(?::hd)?=(.+)$", m.group(2), re.M)
             if a:
                 skins.setdefault(m.group(1), a.group(1).strip().split(",")[0])
 
@@ -578,9 +585,33 @@ def build(w3n, game, style, enemy_races=()):
             r = re.search(r"^Researches=(.*)$", m.group(2), re.M)
             if r:
                 STD["research"][m.group(1)] = r.group(1).strip()
-    seeds, map_objs, here_by_map, direct_by_map = set(), [], {}, {}
+    # speaker portraits: one speaker talks through several units (Derek Proudmoore: hero HDpc with BTNWC2Derek, and a
+    # footman-looking nCDF); take the best icon over all maps: custom hero icon > custom icon > standard hero > standard
+    best = {}
+    for name in maps:
+        mp_ = Map(camp, name + ".w3x")
+        objs_ = merge_objects(*[read_w3u(src.read(f)) for src, f in (
+            (camp, "war3campaign.w3u"), (camp, "war3campaignSkin.w3u"), (mp_.arc, "war3map.w3u"), (mp_.arc, "war3mapSkin.w3u"))
+            if src.read(f)])
+        ic_ = Icons(game, style, objs_, archives=(mp_.arc, camp, loose))
+        for e in mp_.story() + [e for q in mp_.quests() for _, _, evs in mp_.quest_steps(q) for e in evs]:
+            if e[0] != "line" or not e[4]:
+                continue
+            nm = mp_.subtitle(e[3])[0] or "?"
+            im, note = ic_.lookup(e[4])
+            if im is None:
+                continue
+            score = (2 if note == "custom" else 0) + (1 if e[4][0].isupper() else 0)
+            if score > best.get(nm, (-1,))[0]:
+                best[nm] = (score, im, e[4])
+    for nm, (_, im, unit) in best.items():
+        if nm not in registry:
+            registry[nm] = {"slug": "s%d" % len(registry), "cls": name_class(unit, "human"), "icon": webp(im)}
+
+    seeds, map_objs, here_by_map, direct_by_map, map_arcs = set(), [], {}, {}, []
     for name in maps:
         mp = Map(camp, name + ".w3x")
+        map_arcs.append(mp.arc)
         here_seeds = map_seeds(mp.arc)
         seeds |= here_seeds
         map_objs.append(Objects(mp.arc.read, "war3map"))
@@ -611,8 +642,13 @@ def build(w3n, game, style, enemy_races=()):
     camp_ids = {oid for objs in cobj.objects.values() for oid in objs}
 
     # -------------------------------------------------------------------------------------------- campaign tabs
-    ent = Entities(cobj, creg, icon_for(cobj, (camp, loose)), base_name, "campaign")
-    hero_list, enemy_oids, enemy_cards, enemy_struct, enemy_struct_cards = [], [], [], [], []
+    # campaign objects may use icons imported into a map only: search the maps too
+    ent = Entities(cobj, creg, icon_for(cobj, (camp, loose) + tuple(map_arcs)), base_name, "campaign")
+    hero_list, enemy_oids, enemy_cards, enemy_struct, enemy_struct_cards, dummy_oids = [], [], [], [], [], []
+
+    def side_section(kind, title, cards):
+        return ('<section class="faction %s"><h2 class="faction-head">%s</h2>%s</section>'
+                % (kind, esc(title), "\n".join(cards)))
 
     def is_enemy(oid):
         """A unit of a race the player only fights (RoA: the Horde): selecting it shows its name and nothing else."""
@@ -665,17 +701,38 @@ def build(w3n, game, style, enemy_races=()):
             hero_list.append(h)
             out_heroes.append(h)
         tabs["heroes"] = out_heroes
+        sides = {"alliance": [], "horde": [], "dwarf": []}
         for name in sorted(units, key=str.lower):
+            if keep is is_used and HIDDEN_NAME.search(name):   # "Dummy", "Dummy Bomb Detonator": never seen
+                dummy_oids.extend(units[name])
+                continue
             enemy = [o for o in units[name] if keep is is_used and is_enemy(o)]
             if enemy:                                   # the player only ever reads an enemy unit's name
-                tabs["units"] += name_only(enemy)
+                sides["horde"] += name_only(enemy)
                 enemy_oids.extend(enemy)
             rest = [o for o in units[name] if o not in enemy]
-            if rest:
-                tabs["units"] += variants(rest, "units")
+            for side in ("dwarf", "alliance"):          # dwarven units: ids made as d??? (dfu1, duf0, dIrS)
+                part = [o for o in rest if (o[0] == "d") == (side == "dwarf")]
+                if part:
+                    sides[side] += variants(part, "units")
+        if keep is is_used:
+            tabs["units"] = [side_section(k, t, sides[k]) for k, t in (
+                ("alliance", "Alliance units"), ("horde", "Horde units"), ("dwarf", "Dwarven units")) if sides[k]]
+        else:
+            tabs["units"] = sides["alliance"] + sides["horde"] + sides["dwarf"]
+        dwarf_cards = []
         for cat in sorted(groups, key=lambda c: (c == "Other", c.lower())):
-            tabs["structures"].append('<h2 class="act-head">%s</h2>' % esc(cat))
+            head = '<h2 class="act-head">%s</h2>' % esc(cat)
+            tabs["structures"].append(head)
             for nm, oids in groups[cat].items():            # one card per name; copies only claim their strings
+                dw = [o for o in oids if keep is is_used and o[0] == "d"]
+                if dw:                                      # dwarven buildings (dBA1, dTh1 ...): own section below
+                    for dup in dw[1:]:
+                        ent.unit_card(dup, "structures", abil_lists(cobj))
+                    dwarf_cards.append(ent.unit_card(dw[0], "structures", abil_lists(cobj), also=dw[1:]))
+                    oids = [o for o in oids if o not in dw]
+                    if not oids:
+                        continue
                 foes = [o for o in oids if keep is is_used and is_enemy(o)]
                 if foes:                                    # Horde buildings: the name is all one sees
                     tabs["structures"] += name_only(foes, "structures", "Enemy structure")
@@ -686,8 +743,14 @@ def build(w3n, game, style, enemy_races=()):
                 for dup in oids[1:]:
                     ent.unit_card(dup, "structures", abil_lists(cobj))
                 tabs["structures"].append(ent.unit_card(oids[0], "structures", abil_lists(cobj), also=oids[1:]))
-        if keep is is_used and (enemy_oids or enemy_struct):   # their tooltips, abilities, researches: folded away
+            if tabs["structures"][-1] == head:              # a category emptied by the dwarven split
+                tabs["structures"].pop()
+        if dwarf_cards:
+            tabs["structures"].append(side_section("dwarf", "Dwarven structures", dwarf_cards))
+        if keep is is_used and (enemy_oids or enemy_struct or dummy_oids):   # never seen: folded away
             creg.override = "unused"
+            enemy_cards.extend(ent.unit_card(o, "units", abil_lists(cobj), badge="Dummy unit (never seen)")
+                               for o in dummy_oids)
             enemy_cards.extend(ent.unit_card(o, "units", abil_lists(cobj), badge="Enemy unit (only its name is seen)")
                                for o in enemy_oids)
             enemy_struct_cards.extend(ent.unit_card(o, "structures", abil_lists(cobj),
@@ -733,6 +796,9 @@ def build(w3n, game, style, enemy_races=()):
         h["missions"] = [n for n in maps if any(n in on[o] for o in h["oids"])]
         h["version_missions"] = {o: [label[n] for n in on[o]] for o in h["oids"]}
         h["where"] = [label[n] for n in h["missions"]]
+        races = [str(cobj.get("unit", o, "urac", None) or unitdata.get(cobj.objects["unit"][o]["base"], {}).get("race", ""))
+                 .lower() for o in h["oids"]]
+        h["faction"] = "horde" if any(r in ("orc", "undead") for r in races) else "alliance"
         if h["missions"] and all(n in cine for n in h["missions"]):
             h["cine"] = True
             cine_h.append(h)
@@ -777,6 +843,70 @@ def object_lists(ent, objs, place, keep=lambda oid: True):
         if ent.has_text("doodad", oid):
             ent.text_rows("doodad", oid, "editor")
     return out
+
+
+NARR = {}                                          # css class of the narration icon
+
+
+# ------------------------------------------------------------------------------------------------- voice lines
+AUDIO = {"out": None, "bars": 32}                   # out: site folder; audio goes to <out>/audio/<map>/<sound>.mp3
+
+
+def voice_files(mp, camp, name):
+    """Dialogue sounds of one map, re-encoded small (MP3 mono 48 kbit/s) with a precomputed waveform.
+    -> {sound name without gg_snd_: (url, seconds, [bar heights 0-100])}. Files already made are reused."""
+    import subprocess, array
+    if not AUDIO["out"]:
+        return {}
+    cs = dict(re.findall(r'set (gg_snd_\w+)\s*=\s*CreateSound\("([^"]+)"', "\n".join(mp.jass.lines)))
+    listing = {}
+    for arc in (mp.arc, camp):
+        for f in (arc.read("(listfile)") or b"").decode("utf-8", "replace").split():
+            listing.setdefault(f.replace("/", "\\").lower(), (arc, f))
+    out_dir = os.path.join(AUDIO["out"], "audio", name.lower())
+    os.makedirs(out_dir, exist_ok=True)
+    res = {}
+    for snd in mp.sound_item:
+        path = cs.get(snd)
+        if not path:
+            continue
+        want = path.replace("/", "\\").lower()
+        hit = listing.get(want) or next((v for k, v in listing.items() if k.endswith("\\" + want)), None)
+        if not hit:
+            continue
+        data = hit[0].read(hit[1])
+        if not data:
+            continue
+        key = snd[7:]
+        mp3 = os.path.join(out_dir, key + ".mp3")
+        if not os.path.exists(mp3):
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", "pipe:0", "-ac", "1", "-ar", "24000", "-c:a", "libmp3lame",
+                            "-b:a", "48k", mp3], input=data, check=True)
+        pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", mp3, "-ac", "1", "-ar", "8000", "-f", "s16le", "pipe:1"],
+                             capture_output=True, check=True).stdout
+        a = array.array("h", pcm[:len(pcm) // 2 * 2])
+        n = AUDIO["bars"]
+        step = max(1, len(a) // n)
+        peaks = [max((abs(x) for x in a[i * step:(i + 1) * step]), default=0) for i in range(n)]
+        top = max(peaks) or 1
+        bars = [max(12, round(100 * (v / top) ** 0.7)) for v in peaks]
+        res[key] = ("audio/%s/%s.mp3" % (name.lower(), key), len(a) / 8000.0, bars)
+    return res
+
+
+def add_voice(html_, voices):
+    """Put a mini player (play/pause + time) next to the speaker name of every dialogue line with a known sound."""
+    def player(m):
+        v = voices.get(m.group(5))
+        if not v:
+            return m.group(0)
+        url, sec, _bars = v
+        mini = ('<span class="vo" data-src="%s" data-len="%d:%02d"><button class="vo-play" type="button" '
+                'aria-label="Play line"></button><span class="vo-t">%d:%02d</span></span>'
+                % (url, int(sec) // 60, round(sec) % 60, int(sec) // 60, round(sec) % 60))
+        return m.group(1) + m.group(2) + mini + m.group(3) + m.group(4) + '<div class="ids">' + m.group(5) + " · "
+    return re.sub(r'(<div class="name[^"]*">)(.*?)(</div>)((?:(?!<div class="line").)*?)<div class="ids">(\w+) · ',
+                  player, html_, flags=re.S)
 
 
 def mission_page(name, title_pair, mp, camp, game, style, loose, registry, icon_for, base_name, abil_lists, is_hero,
@@ -824,9 +954,19 @@ def mission_page(name, title_pair, mp, camp, game, style, loose, registry, icon_
             continue
         if e[0] == "caption":
             flush()
-            frag_html.append(caption_html(e[3]))
             sid = re.search(r'"TRIGSTR_(\d+)"', j.lines[e[1] - 1])
             reg.claim(int(sid.group(1)) if sid else None, "fragments", "caption")
+            if sid:                                    # narration: a line of its own, so its translation shows too
+                if "narr" not in NARR:
+                    im = icons.image("ReplaceableTextures\\CommandButtons\\BTNSelectHeroOn")   # Blizzard's red "?"
+                    NARR["narr"] = icon_class(webp(im, 64)) if im is not None else ""
+                frag_html.append(
+                    '<section class="scene cin narr"><div class="lines"><div class="line" data-s="narr">'
+                    '<span class="icon %s" aria-hidden="true"></span><div><div class="name narr-name">Narration</div>'
+                    '<p class="text">%s</p><div class="ids">caption · string %s</div></div></div></div></section>'
+                    % (NARR["narr"], wc3_html(e[3]), sid.group(1)))
+            else:
+                frag_html.append(caption_html(e[3]))
             continue
         key = scene_label(mp.category.get(e[2], e[2]))
         if key != cur_key:
@@ -1095,6 +1235,8 @@ def mission_page(name, title_pair, mp, camp, game, style, loose, registry, icon_
     ]
     lines_total = sum(p["count"] for p in cast.people.values())
     small, big = title_pair
+    voices = voice_files(mp, camp, name)
+    tabs = [(k, lbl, n_, add_voice(h_, voices)) for k, lbl, n_, h_ in tabs]
     return {"slug": name.lower(), "label": small or name, "title": big or name, "cast": cast, "tabs": tabs,
             "stats": "%d strings · %d lines · %d quests" % (len(mp.S), lines_total, len(mp.quests())),
             "data": {"map": name, "label": small, "title": big, "strings": {
@@ -1106,6 +1248,128 @@ def mission_page(name, title_pair, mp, camp, game, style, loose, registry, icon_
 # --------------------------------------------------------------------------------------------------- the page
 SITE_CSS = """
 .home-tabs{margin-top:26px}
+.lang-switch{position:fixed;right:16px;bottom:16px;z-index:50;display:flex;flex-wrap:wrap;align-items:center;gap:4px;
+max-width:calc(100vw - 32px);padding:6px 8px;border:1px solid #6b5a2e;border-radius:8px;background:rgba(20,18,15,.96);
+box-shadow:0 6px 20px rgba(0,0,0,.5)}
+.ls-label{font:600 11px/1 "Alegreya Sans",system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#a8987a;
+margin-right:4px}
+.ls-btn{min-width:34px;padding:5px 7px;border:1px solid #4a3f26;border-radius:5px;background:#1d1a14;color:#cdb98a;
+font:700 12px/1 "Alegreya Sans",system-ui,sans-serif;cursor:pointer}
+.ls-btn:hover{border-color:#c9a447}
+.ls-btn[aria-pressed="true"]{border-color:#f0c65a;background:#3a2f17;color:#ffe7a3}
+.ls-btn:focus-visible{outline:2px solid #f0c65a;outline-offset:2px}
+.tr-line{margin:4px 0 0;padding:4px 0 2px 10px;border-left:2px solid #c9a447;color:#e9dcb6;font-size:.95em}
+.tr-line .tl{display:inline-block;margin-right:6px;font:700 10px/1 "Alegreya Sans",system-ui,sans-serif;letter-spacing:.08em;
+color:#c9a447;vertical-align:1px}
+.tr-name{color:#c9a447;font-weight:600;margin-left:6px}
+.tr-name::before{content:"· "}
+.line .tr-row{grid-column:1/-1;display:grid;grid-template-columns:56px minmax(0,1fr);gap:14px;margin-top:10px;padding-top:10px;
+border-top:1px dashed rgba(201,164,71,.25)}
+.lang-badge{display:grid;place-items:center;width:56px;height:56px;border-radius:5px;background:#000;
+box-shadow:0 0 0 1px #000,0 0 0 2px #4a3f26}
+.lang-badge{grid-template-rows:auto auto;align-content:center;gap:4px;overflow:hidden;position:relative}
+.lang-badge::before{content:"";position:absolute;inset:-32px 0 0 -32px;background:0 0/32px 32px repeat;
+animation:lbcrest 9s linear infinite;pointer-events:none}
+.lang-badge b,.lang-badge i{position:relative}
+@keyframes lbcrest{to{transform:translate(32px,32px)}}
+.lang-badge b,.lang-badge i{display:block;text-align:center;color:transparent;-webkit-background-clip:text;background-clip:text;
+background-image:linear-gradient(90deg,#ddd,#999);background-size:200% 100%;animation:lbmove 7s linear infinite}
+.lang-badge b{font:800 24px/1 "Open Sans","Segoe UI",Arial,sans-serif;letter-spacing:-.5px}
+.lang-badge i{font:700 8px/1.1 "Open Sans","Noto Sans","Malgun Gothic","Yu Gothic","Segoe UI",Tahoma,sans-serif;
+font-style:normal;letter-spacing:-.1px;white-space:nowrap;max-width:52px}
+@keyframes lbmove{to{background-position:-200% 0}}
+@media (prefers-reduced-motion:reduce){.lang-badge b,.lang-badge i,.lang-badge::before{animation:none}}
+.tr-who{color:#e6bd55}
+.narr .lines{border-style:dashed}
+.narr-name{color:#a8987a;font-style:italic}
+.narr .text{font-style:italic;color:#d8cfb8}
+.tr-text{color:#efe6cf}
+.ls-layout{margin-left:6px;padding:5px 9px}
+@media (min-width:701px){
+body.tr-cols .wrap{max-width:1240px}
+body.tr-cols .line:has(.tr-row){grid-template-columns:56px minmax(0,1fr) 4px 56px minmax(0,1fr);column-gap:14px}
+body.tr-cols .line .tr-row{grid-column:4/6;grid-row:1;grid-template-columns:56px minmax(0,1fr);gap:14px;margin:0;padding:0;
+border-top:0;position:relative}
+body.tr-cols .line .tr-row::before{content:"";position:absolute;left:-16px;top:0;bottom:0;border-left:1px dashed rgba(201,164,71,.35)}
+body.tr-cols .line .tr-row .tr-who{line-height:28px;margin:2px 0 3px}
+body.tr-cols .narr .line .tr-row .tr-who{line-height:inherit}
+body.tr-cols .line .tr-row .tr-text{margin:0}
+body.tr-cols .step:has(> .tr-step){grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:32px;row-gap:6px}
+body.tr-cols .step:has(> .tr-step) > .step-label{grid-column:1/-1;grid-row:1;text-align:center;padding:0}
+body.tr-cols .step:has(> .tr-step) > div:not(.step-label):not(.tr-step){grid-column:1;grid-row:2}
+body.tr-cols .step > .tr-step{grid-column:2;grid-row:2;margin:0;padding:0;border-top:0;position:relative}
+body.tr-cols .step > .tr-step::before{content:"";position:absolute;left:-16px;top:0;bottom:0;border-left:1px dashed rgba(201,164,71,.35)}
+body.tr-cols .quest-head:has(> .tr-head){grid-template-columns:1fr;justify-items:center;text-align:center;row-gap:8px}
+body.tr-cols .quest-head:has(> .tr-head) > div:not(.tr-head){display:contents}
+body.tr-cols .quest-head:has(> .tr-head) .badge{order:1}
+body.tr-cols .quest-head:has(> .tr-head) > .icon{order:2}
+body.tr-cols .quest-head:has(> .tr-head) h3{order:3;margin:0}
+body.tr-cols .quest-head:has(> .tr-head) > div > :not(.badge):not(h3){order:4}}
+/* mission quest cards always read top-down: centred head, the row label above its text (no wide label column) */
+:is([id$="-quests"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .quest-head{grid-template-columns:1fr;justify-items:center;text-align:center;row-gap:8px}
+:is([id$="-quests"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .quest-head > div:not(.tr-head){display:contents}
+:is([id$="-quests"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .quest-head .badge{order:1}
+:is([id$="-quests"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .quest-head > .icon{order:2}
+:is([id$="-quests"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .quest-head h3{order:3;margin:0}
+:is([id$="-quests"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .quest-head > div > :not(.badge):not(h3){order:4}
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step{grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:32px;row-gap:6px}
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step > .step-label{grid-column:1/-1;grid-row:1;text-align:center;padding:0}
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step:not(:has(> .tr-step)) > div:not(.step-label){grid-column:1/-1}
+@media (min-width:701px){            /* with a translation: original | translation side by side at any page width */
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step:has(> .tr-step) > div:not(.step-label):not(.tr-step){grid-column:1;grid-row:2}
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step > .tr-step{grid-column:2;grid-row:2;margin:0;padding:0;border-top:0;position:relative}
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step > .tr-step::before{content:"";position:absolute;left:-16px;top:0;bottom:0;
+border-left:1px dashed rgba(201,164,71,.35)}}
+@media (max-width:700px){:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step > div:not(.step-label):not(.tr-step),
+:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step > .tr-step{grid-column:1/-1;grid-row:auto}}
+/* hero list: compact cards, two per row (name, icon, rank only) */
+#panel-home-heroes .missions,.unit-list{grid-template-columns:repeat(2,minmax(0,1fr))}
+.unit-list .hero-row{grid-template-columns:56px minmax(0,1fr);padding:12px 14px}
+.unit-list .hero-row .icon{width:56px;height:56px}
+.unit-list .hero-row .mission-title{font-size:21px}
+.unit-list .hero-row .hero-classes{color:var(--muted);font-size:14px}
+@media (max-width:640px){.unit-list{grid-template-columns:minmax(0,1fr)}}
+#panel-home-heroes .hero-row .hero-where,#panel-home-heroes .hero-row .hero-meta{display:none}
+#panel-home-heroes .hero-row{grid-template-columns:56px minmax(0,1fr);padding:12px 14px}
+#panel-home-heroes .hero-row .icon{width:56px;height:56px}
+#panel-home-heroes .hero-row .mission-title{font-size:21px}
+@media (max-width:640px){#panel-home-heroes .missions{grid-template-columns:minmax(0,1fr)}}
+/* language tags in the label row: EN over the original, the language code over the translation */
+.step > .tr-tag{grid-row:1;align-self:center;justify-self:center;display:none}
+.step > .tr-tag{padding:5px 9px;border:1px solid #6b5a2e;border-radius:5px;background:#000;box-shadow:inset 0 1px 0 rgba(255,220,140,.08)}
+.step > .tr-tag.tr-en{grid-column:1}
+.step > .tr-tag:not(.tr-en){grid-column:2}
+.tr-tag b{display:block;font:800 13px/1 "Open Sans","Segoe UI",Arial,sans-serif;letter-spacing:.04em;color:transparent;
+-webkit-background-clip:text;background-clip:text;background-size:200% 100%;animation:lbmove 7s linear infinite}
+.tr-en b{background-image:linear-gradient(90deg,#f4f6f8,#d9dee5,#bec6d1,#a4afbe,#8b98aa,#a4afbe,#bec6d1,#d9dee5,#f4f6f8)}
+@media (min-width:701px){:is([id$="-quests"],[data-slug^="heroes/"],[data-slug^="units/"],[data-slug^="structures/"]) .quest .step > .tr-tag{display:block}}
+@media (prefers-reduced-motion:reduce){.tr-tag b{animation:none}}
+/* quest cards: the section word "Text" says nothing */
+.quest .ph-text{display:none}
+/* quest rows: the translation under the English, in the text column */
+.step > .tr-step{grid-column:2;margin-top:6px;padding-top:6px;border-top:1px dashed rgba(201,164,71,.25)}
+.quest-head > .tr-head{display:none}
+.tr-head h3{color:#efe6cf}
+.tr-step .tr-text{margin:0;color:#efe6cf}
+/* game icons carry their own bevel frame: zoom past it so only the page frame shows */
+.icon:not(.mono),.lang-badge{background-size:114% 114%;background-position:center}
+@media (max-width:560px){.line .tr-row,.step > .tr-step{grid-template-columns:44px minmax(0,1fr);gap:12px}.lang-badge{width:44px;height:44px}
+.lang-badge b{font-size:16px}.lang-badge i{font-size:6px}}
+@media (max-width:560px){.lang-switch{right:8px;bottom:8px}}
+.vo{display:inline-flex;align-items:center;gap:6px;margin-left:10px;padding:2px 8px 2px 2px;vertical-align:middle;
+border:1px solid #6b5a2e;border-radius:6px;background:linear-gradient(180deg,#1d1a14,#141210)}
+.vo-play{flex:0 0 auto;width:22px;height:22px;border:1px solid #c9a447;border-radius:4px;cursor:pointer;position:relative;
+background:linear-gradient(180deg,#3a2f17,#211a0d)}
+.vo-play:hover{border-color:#f0cf6a}
+.vo-play::before{content:"";position:absolute;left:7px;top:5px;border-left:8px solid #f0c65a;border-top:5px solid transparent;
+border-bottom:5px solid transparent}
+.vo.playing{border-color:#c9a447}
+.vo.playing .vo-play::before{left:6px;top:5px;width:3px;height:10px;border:0;background:#f0c65a;box-shadow:5px 0 0 #f0c65a}
+.vo-play:focus-visible{outline:2px solid #f0c65a;outline-offset:2px}
+.vo-t{font:600 12px/1 "Alegreya Sans",system-ui,sans-serif;color:#cdb98a;min-width:26px}
+.tabs{flex-wrap:wrap}.tab{padding:10px 8px;letter-spacing:.03em}
+@media (max-width:700px){.tabs{flex-wrap:wrap;gap:6px;border-bottom:0;margin-bottom:14px}.tab{padding:7px 12px;margin:0;border:1px solid var(--line);border-radius:999px;font-size:15px;white-space:nowrap}.tab[aria-selected="true"]{border-color:var(--gold);background:rgba(255,210,120,.08)}}
+.wrap{overflow-x:clip}.cast-filter{min-width:0}
 .lvl{color:var(--gold);font-weight:700}
 .quest.bare .quest-head{border-bottom:0}
 .title-also{margin:0 0 6px;color:var(--muted);font-size:13px;letter-spacing:.04em}
@@ -1128,6 +1392,24 @@ text-transform:uppercase;color:var(--muted)}
 .hero-classes{display:block;color:var(--hero);font-size:16px;margin-top:2px}
 .hero-where{display:block;color:var(--muted);font-size:14px;margin-top:3px}
 .hero-row[hidden]{display:none}
+.faction{position:relative;overflow:hidden;margin:22px 0 0;padding:20px 18px 18px;border:1px solid var(--fc);border-radius:12px;
+background:var(--fbg)}
+.faction::before{content:"";position:absolute;inset:-160px 0 0 -160px;background:url(data:image/webp;base64,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) 0 0/160px 160px repeat;
+animation:crest 30s linear infinite;pointer-events:none;will-change:transform}
+.faction.horde::before{background-image:url(data:image/webp;base64,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)}
+.faction > *{position:relative}
+.faction.alliance{--fc:#3f7be8;--fbg:#0f1b33}
+.faction.horde{--fc:#d8453b;--fbg:#2a1012}
+.faction.dwarf{--fc:#d9a838;--fbg:#2a210b}
+.faction.dwarf::before{background-image:url(data:image/webp;base64,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)}
+.faction .quest{border-color:var(--fc);background:rgba(18,20,26,.94)}
+.faction .quest:first-of-type{margin-top:0}
+.faction-head{display:block;text-align:center;margin:0 0 16px;font:700 22px/1.2 "Alegreya SC",Georgia,serif;letter-spacing:.14em;text-transform:uppercase;color:#fff;text-shadow:0 2px 8px #000,0 0 2px #000}
+.faction .hero-row{border-color:var(--fc);background:rgba(10,12,18,.93)}
+.faction .hero-row .icon{box-shadow:0 0 0 1px #000,0 0 0 2px var(--fc)}
+.faction[hidden]{display:none}
+@keyframes crest{to{transform:translate(160px,160px)}}
+@media (prefers-reduced-motion:reduce){.faction::before{animation:none}}
 .hero-meta{color:var(--muted);font-size:15px;text-align:right;white-space:nowrap}
 .hero-meta b{color:var(--ink);font-weight:600}
 .hero-top{display:grid;grid-template-columns:96px minmax(0,1fr);gap:20px;align-items:center}
@@ -1176,7 +1458,68 @@ SITE_JS = """
     var p=b.closest('.panel'),m=b.dataset.m;
     p.querySelectorAll('.mfilter .chip').forEach(function(o){o.setAttribute('aria-pressed',String(o===b))});
     p.querySelectorAll('.hero-list .hero-row').forEach(function(r){
-      r.hidden=!!m&&(' '+r.dataset.m+' ').indexOf(' '+m+' ')<0})})});
+      r.hidden=!!m&&(' '+r.dataset.m+' ').indexOf(' '+m+' ')<0});
+    p.querySelectorAll('.faction').forEach(function(f){f.hidden=!f.querySelector('.hero-row:not([hidden])')})})});
+  var au=new Audio(),cur=null;au.preload='none';
+  function fmt(t){t=Math.max(0,Math.round(t));return Math.floor(t/60)+':'+('0'+t%60).slice(-2)}
+  function paint(){if(!cur)return;var d=au.duration||1,p=au.currentTime/d,bars=cur.querySelectorAll('.vo-wave i'),k=Math.round(p*bars.length);
+    for(var i=0;i<bars.length;i++)bars[i].classList.toggle('on',i<k);cur.querySelector('.vo-t').textContent=fmt(au.currentTime)}
+  function stop(){if(cur){cur.classList.remove('playing');cur.querySelector('.vo-play').setAttribute('aria-label','Play line');if(au.ended||cur!==null&&au.paused&&au.currentTime===0)cur.querySelector('.vo-t').textContent=cur.dataset.len}}
+  au.addEventListener('timeupdate',paint);
+  au.addEventListener('ended',function(){paint();stop();if(cur)cur.querySelector('.vo-t').textContent=fmt(au.duration);cur=null});
+  function start(v,at){if(cur!==v){stop();if(cur)cur.querySelector('.vo-t').textContent=cur.dataset.len;if(cur)cur.querySelectorAll('.vo-wave i').forEach(function(b){b.classList.remove('on')});
+      cur=v;au.src=v.dataset.src}
+    if(at!=null){var go=function(){au.currentTime=at*(au.duration||0)};if(au.readyState>0)go();else au.addEventListener('loadedmetadata',go,{once:true})}
+    au.play();v.classList.add('playing');v.querySelector('.vo-play').setAttribute('aria-label','Pause line')}
+  document.addEventListener('click',function(e){var b=e.target.closest('.vo-play'),w=e.target.closest('.vo-wave');
+    if(b){var v=b.closest('.vo');if(cur===v&&!au.paused){au.pause();stop()}else start(v)}
+    else if(w){var r=w.getBoundingClientRect();start(w.closest('.vo'),(e.clientX-r.left)/r.width)}});
+  var lsBtns=document.querySelectorAll('.ls-btn'),lsCache={},lsOn=null;
+  function wc(t){var e=document.createElement('div');e.textContent=t;var h=e.innerHTML.replace(/\\|n|\\r?\\n/g,'<br>');
+    h=h.replace(/\|c[0-9a-fA-F]{2}([0-9a-fA-F]{6})(.*?)(\|r|$)/g,function(m,c,x){
+      var r=parseInt(c.slice(0,2),16),g=parseInt(c.slice(2,4),16),b=parseInt(c.slice(4,6),16),mx=Math.max(r,g,b),mn=Math.min(r,g,b),k='';
+      if(mx-mn<40)k=' m';else if(g>r&&g>=b)k=' g';else if(r>g*1.6&&r>b)k=' r';   /* the page's own colour classes, as in English */
+      return '<span class="wc'+k+'">'+x+'</span>'});
+    return h.replace(/\|r/g,'')}
+  function lsClear(){document.querySelectorAll('.tr-line,.tr-name,.tr-row,.tr-step,.tr-head,.tr-tag').forEach(function(n){n.remove()})}
+  function esc(t){var e=document.createElement('div');e.textContent=t;return e.innerHTML}
+  function lsApply(code,d){lsClear();
+    document.querySelectorAll('.ids').forEach(function(ids){var m=/strings? (\d+)/.exec(ids.textContent);if(!m)return;
+      var v=ids.closest('.view'),slug=v&&v.dataset.slug||'',part=d[slug]||d.campaign||{};if(!d[slug])part=d.campaign||{};
+      var t=part[m[1]];if(!t)return;var line=ids.closest('.line');
+      if(line){var nb=line.querySelector('.name'),en=nb?(nb.childNodes[0]&&nb.childNodes[0].nodeType===3?nb.childNodes[0].textContent:nb.textContent).trim():'';
+        var who=line.dataset.s==='narr'?' ':(d.names&&d.names[en])||en,row=document.createElement('div');row.className='tr-row';row.lang=code.toLowerCase();
+        row.innerHTML='<span class="lang-badge lb-'+code+'" title="'+code+'"><b>'+code+'</b><i></i></span><div><div class="name tr-who">'+esc(who)+
+          '</div><p class="text tr-text">'+wc(t)+'</p></div>';line.appendChild(row);return}
+      var step=ids.closest('.step');
+      if(step&&step.querySelector(':scope > div > .msg')){var tr=document.createElement('div');tr.className='tr-step';tr.lang=code.toLowerCase();
+        tr.innerHTML='<p class="msg tr-text">'+wc(t)+'</p>';
+        step.appendChild(tr);
+        step.insertAdjacentHTML('beforeend','<span class="tr-tag tr-en"><b>EN</b></span><span class="tr-tag lb-'+code+'"><b>'+code+'</b></span>');return}
+      var box=ids.parentNode,txt=box.querySelector('.msg,.text')||box.querySelector('h3');if(!txt)return;
+      var p=document.createElement('p');p.className='tr-line';p.lang=code.toLowerCase();
+      p.innerHTML='<span class="tl">'+code+'</span>'+wc(t);txt.after(p)});
+    document.querySelectorAll('.quest').forEach(function(q){var st=[].filter.call(q.querySelectorAll('.step'),function(x){
+      var l=x.querySelector('.step-label');return l&&l.textContent.trim().toLowerCase()==='title'})[0],tt=st&&st.querySelector('.tr-step .tr-text');
+      var head=q.querySelector('.quest-head');if(!tt||!head)return;var hd=document.createElement('div');hd.className='tr-head';
+      hd.innerHTML='<h3>'+tt.innerHTML+'</h3>';head.appendChild(hd)});
+    document.querySelectorAll('.chip').forEach(function(n){var nm=(n.childNodes[0]&&n.childNodes[0].nodeType===3?
+      n.childNodes[0].textContent:n.textContent).trim();if(n.classList.contains('chip'))nm=nm.replace(/\s*\d+$/,'');
+      var t=d.names&&d.names[nm];if(!t||t===nm)return;var s=document.createElement('span');s.className='tr-name';s.textContent=t;
+      var vo=n.querySelector('.vo,small');if(vo)n.insertBefore(s,vo);else n.appendChild(s)})}
+  function lsSet(code){lsOn=code;lsBtns.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.lang===code))});
+    try{localStorage.setItem('roa-lang',code||'')}catch(e){}
+    if(!code){lsClear();return}
+    if(lsCache[code]){lsApply(code,lsCache[code]);return}
+    fetch('l10n/'+code+'.json').then(function(r){return r.json()}).then(function(d){lsCache[code]=d;if(lsOn===code)lsApply(code,d)})}
+  lsBtns=[].filter.call(lsBtns,function(b){return b.dataset.lang});
+  lsBtns.forEach(function(b){b.addEventListener('click',function(){lsSet(lsOn===b.dataset.lang?null:b.dataset.lang)})});
+  var lay=document.querySelector('.ls-layout');
+  function setCols(on){body.classList.toggle('tr-cols',on);if(lay)lay.setAttribute('aria-pressed',String(on));
+    try{localStorage.setItem('roa-cols',on?'1':'')}catch(e){}}
+  if(lay)lay.addEventListener('click',function(){setCols(!body.classList.contains('tr-cols'))});
+  try{if(localStorage.getItem('roa-cols'))setCols(true)}catch(e){}
+  try{var saved=localStorage.getItem('roa-lang');if(saved&&document.querySelector('.ls-btn[data-lang="'+saved+'"]'))lsSet(saved)}catch(e){}
   window.addEventListener('hashchange',route);route();
 })();
 """
@@ -1246,8 +1589,11 @@ def document(camp_name, missions, home_tabs, counts, total):
                        '<button class="chip" type="button" aria-pressed="false" data-m="%s">%s <small>%d</small></button>'
                        % (m, esc(lbl), sum(1 for h in used if m in [x.lower() for x in h.get("missions", [])]))
                        for m, lbl in filters)))
-            used = [bar, '<div class="missions hero-list">%s</div>' % "".join(hero_row(h, labels) for h in used)] \
-                if used else []
+            sides = [("alliance", "Alliance heroes"), ("horde", "Horde heroes")]
+            used = [bar] + ['<section class="faction %s"><h2 class="faction-head">%s</h2><div class="missions hero-list">%s'
+                            '</div></section>' % (k, esc(t), "".join(hero_row(h, labels) for h in used
+                                                                  if h.get("faction", "alliance") == k))
+                            for k, t in sides if any(h.get("faction", "alliance") == k for h in used)] if used else []
             unused = ['<div class="missions">%s</div>' % "".join(hero_row(h) for h in unused)] if unused else []
         shown[k] = used
         n = len(unused_heroes) if k == "heroes" else sum(1 for x in unused if not x.startswith("<h2"))
@@ -1257,7 +1603,58 @@ def document(camp_name, missions, home_tabs, counts, total):
                                'all.</summary>\n%s</details>' % (n, " (heroes seen only in cinematics or without abilities are here too)"
                                                                   if k == "heroes" else "", "\n".join(unused))]
     home_tabs = shown
-    icon_css = "\n".join(".i-%s{background-image:url(data:image/webp;base64,%s)}" % (p["slug"], p["icon"])
+    # units and structures: compact two-per-row links, each card on its own page (#units/<slug>, #structures/<slug>),
+    # laid out like the quests (label above, original | translation)
+    unit_views, used_slugs = [], set()
+    card_counts = {k: "".join(x for x in v if not x.startswith("<details")).count('<article class="quest')
+                   for k, v in home_tabs.items() if k != "heroes"}
+
+    def card_list(html_, kind, back):
+        def one(m):
+            art = m.group(0)
+            title = re.sub(r"<[^>]+>", "", re.search(r"<h3>(.*?)</h3>", art, re.S).group(1)).strip()
+            bm = re.search(r'<span class="badge[^"]*">(.*?)</span>', art)
+            badge = re.sub(r"<[^>]+>", "", bm.group(1)) if bm else ""
+            im = re.search(r'<span class="icon[^"]*"[^>]*>.*?</span>', art)
+            slug = re.sub(r"[^a-z0-9]+", "-", html.unescape(title).lower()).strip("-") or kind
+            base, k = slug, 2
+            while (kind, slug) in used_slugs:
+                slug, k = "%s-%d" % (base, k), k + 1
+            used_slugs.add((kind, slug))
+            # page copy: the name moves from the head into a first "Name" row (original | translation, like a quest)
+            hm = re.search(r'(<div class="quest-head">.*?)<div class="ids">([^<]*)</div>(</div></div>)', art, re.S)
+            if hm and re.search(r"strings? \d", hm.group(2)):
+                row_ = ('<div class="phase"><div class="step"><div class="step-label">Name</div><div><p class="msg">%s</p>'
+                        '<div class="ids">%s</div></div></div></div>' % (title, hm.group(2)))
+                art = art[:hm.start()] + hm.group(1) + '<div class="ids"></div>' + hm.group(3) + row_ + art[hm.end():]
+            unit_views.append('<section class="view" data-slug="%s/%s" hidden>\n<nav class="crumbs"><a href="#home-%s">'
+                              '&lsaquo; %s</a></nav>\n%s\n</section>' % (kind, slug, kind, back, art))
+            return ('<a class="mission-link hero-row" href="#%s/%s">%s<span><span class="mission-title">%s</span>'
+                    '<span class="hero-classes">%s</span></span></a>' % (kind, slug, im.group(0) if im else "", title,
+                                                                         esc(html.unescape(badge))))
+
+        def run(m):                                       # consecutive cards -> one grid of links
+            return '<div class="missions unit-list">%s</div>' % re.sub(
+                r'<article class="quest[^"]*">.*?</article>\s*', one, m.group(0), flags=re.S)
+        return re.sub(r'(?:<article class="quest[^"]*">.*?</article>\s*)+', run, html_, flags=re.S)
+
+    for k, back in (("units", "All units"), ("structures", "All structures")):
+        keep = [x for x in home_tabs[k] if not x.startswith("<details")]
+        rest = [x for x in home_tabs[k] if x.startswith("<details")]
+        home_tabs[k] = [card_list("\n".join(keep), k, back)] + rest
+    import colorsys
+    speaker_css = []
+    for i, p_ in enumerate(sorted(registry.values(), key=lambda x: int(x["slug"][1:]))):
+        deg = (i * 137.508) % 360                         # golden angle: neighbours never get close hues
+        if 25 <= deg <= 60:                               # skip the page's own gold, names must stand apart from it
+            deg = (deg + 45) % 360
+        hue = deg / 360.0
+        light = (0.72, 0.64, 0.80)[i % 3]
+        r_, g_, b_ = colorsys.hls_to_rgb(hue, light, 0.62)
+        col = "#%02x%02x%02x" % (int(r_ * 255), int(g_ * 255), int(b_ * 255))
+        speaker_css.append('.line[data-s="%s"] .name,.line[data-s="%s"] .tr-who,.chip[data-s="%s"]{color:%s}' % (
+            p_["slug"], p_["slug"], p_["slug"], col))
+    icon_css = "\n".join(speaker_css) + "\n" + "\n".join(".i-%s{background-image:url(data:image/webp;base64,%s)}" % (p["slug"], p["icon"])
                          for p in registry.values() if p["icon"]) + "\n" + "\n".join(
         ".%s{background-image:url(data:image/webp;base64,%s)}" % (c, b) for b, c in ICON_POOL.items())
     items = []
@@ -1272,7 +1669,7 @@ def document(camp_name, missions, home_tabs, counts, total):
                      '</a></li>' % (m["slug"], i, esc(m["label"]), esc(m["title"]), m["stats"], faces))
     missions_html = '<ol class="missions" style="list-style:none">%s</ol>' % "".join(items)
     htabs = [("missions", "Missions", len(missions), missions_html)] + [
-        (k, label, len(heroes) if k == "heroes" else sum(1 for x in home_tabs[k] if not x.startswith(("<h2", "<details"))),
+        (k, label, len(heroes) if k == "heroes" else card_counts.get(k, 0),
          "\n".join(home_tabs[k]) or '<p class="empty-note">Nothing here.</p>')
         for k, label in HOME_TABS if k != "missions"]
     home = ('<section class="view" data-slug="home">\n<header><p class="eyebrow">Chronicles of the Second War</p>'
@@ -1281,7 +1678,7 @@ def document(camp_name, missions, home_tabs, counts, total):
             '%d strings in total.</p>\n<div class="bar"><div class="tools"><button class="btn ids-toggle" type="button" '
             'aria-pressed="false">Show IDs</button></div></div></header>\n<div class="home-tabs">%s</div>\n</section>' % (
                 esc(camp_name), total, tabbar("home", htabs)))
-    views = list(hero_views)
+    views = list(hero_views) + unit_views
     for i, m in enumerate(missions):
         prev = missions[i - 1] if i else None
         nxt = missions[i + 1] if i + 1 < len(missions) else None
@@ -1323,6 +1720,87 @@ def document(camp_name, missions, home_tabs, counts, total):
        "\n".join(views), SITE_JS.strip())
 
 
+# ------------------------------------------------------------------------------------------ extra languages
+LANG_NAMES = {"UK": "Українська", "IT": "Italiano", "PL": "Polski", "DE": "Deutsch", "FR": "Français", "ES": "Español",
+              "PT": "Português", "CZ": "Čeština", "KR": "한국어", "RU": "Русский", "CN": "中文"}
+
+
+BADGE_CODE = {"UK": "uk", "IT": "it", "PL": "pl", "DE": "de", "FR": "fr", "ES": "es", "PT": "pt", "CZ": "cs", "KR": "ko",
+              "RU": "ru", "CN": "zh"}
+
+
+import base64
+
+
+def lang_badge_css(codes):
+    """.lb-<CODE>: the language badge gradient of archive/lang_indication/make_badges.py on the code letters."""
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "archive", "lang_indication"))
+    try:
+        import make_badges
+    except ImportError:
+        return ""
+    out = []
+    for c in codes:
+        pal = make_badges.PALETTE.get(BADGE_CODE.get(c, c.lower()))
+        if pal:
+            stops = pal[2] + pal[2][-2::-1]          # there and back: the moving gradient loops without a seam
+            name = pal[1]
+            size = max(7.0, min(11.0, 50.0 / (len(name) * (0.95 if re.search(r"[\u1100-\uffff]", name) else 0.66))))
+            # moving pattern behind the letters (like the crests of the faction sections): the code, small, in its colour
+            tile = ("<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32'><g fill='%s' opacity='.28' "
+                    "font-family='Arial' font-weight='700' font-size='8' transform='rotate(-14 16 16)'>"
+                    "<text x='1' y='11'>%s</text><text x='17' y='27'>%s</text></g></svg>" % (pal[2][2], c, c))
+            uri = "data:image/svg+xml;base64," + base64.b64encode(tile.encode()).decode()
+            out.append(".lb-%s b,.lb-%s i{background-image:linear-gradient(90deg,%s)}.lb-%s i::before{content:%s}"
+                       ".lb-%s i{font-size:%.1fpx}.lb-%s::before{background-image:url(%s)}" % (
+                           c, c, ",".join(stops), c, json.dumps(name, ensure_ascii=False), c, size, c, uri))
+    return "".join(out)
+
+
+def write_translations(camp_dir, site_dir, data):
+    """site/l10n/<LANG>.json for every <Camp>/<LANG>/strings: {"names": {english speaker: tr}, "<map lower>": {sid: tr},
+    "campaign": {sid: tr}}, matched by the hash of the English text (what tools/l10n.py builds with). -> [(code, n)]"""
+    import glob, hashlib
+    h = lambda t: hashlib.sha256(t.replace("\r\n", "\n").encode("utf-8")).hexdigest()[:10]
+    out_dir = os.path.join(site_dir, "l10n")
+    os.makedirs(out_dir, exist_ok=True)
+    langs = []
+    for lang_dir in sorted(glob.glob(os.path.join(camp_dir, "*", "strings"))):
+        code = os.path.basename(os.path.dirname(lang_dir))
+        if code in ("site", "source") or not code.isupper():
+            continue
+        memo = {}
+        for f in glob.glob(os.path.join(lang_dir, "**", "*.json"), recursive=True):
+            try:
+                entries = json.load(open(f, encoding="utf-8"))
+            except ValueError:
+                continue
+            for e in entries.values():
+                if isinstance(e, dict) and e.get("tr") and e.get("hash"):
+                    memo.setdefault(e["hash"], e["tr"])
+        res, names, n = {"campaign": {}}, {}, 0
+        for sid, v in data["campaign_strings"].items():
+            t = memo.get(h(v["text"]))
+            if t:
+                res["campaign"][sid] = t
+                n += 1
+        for m in data["maps"]:
+            part = res.setdefault(m["map"].lower(), {})
+            for sid, v in m["strings"].items():
+                t = memo.get(h(v["text"]))
+                if t:
+                    part[sid] = t
+                    n += 1
+                    if v["detail"] == "speaker name":
+                        names.setdefault(v["text"].strip(), t.strip())
+        res["names"] = names
+        if n:
+            json.dump(res, open(os.path.join(out_dir, code + ".json"), "w", encoding="utf-8"), ensure_ascii=False,
+                      separators=(",", ":"))
+            langs.append((code, n))
+    return langs
+
+
 def main():
     dl = os.path.join("F:\\", "\u0417\u0410\u0413\u0420\u0423\u0417\u041a\u0418")
     ap = argparse.ArgumentParser()
@@ -1335,6 +1813,7 @@ def main():
     ap.add_argument("--enemy-races", default="orc",
                     help="races the player only fights (RoA: orc): their units show the name only")
     a = ap.parse_args()
+    AUDIO["out"] = os.path.dirname(os.path.abspath(a.out))
     camp_name, titles, missions, tabs, counts, data = build(a.w3n, a.game, a.icons,
                                                                tuple(x for x in a.enemy_races.lower().split(",") if x))
     total = len(data["campaign_strings"]) + sum(len(m["strings"]) for m in data["maps"])
@@ -1350,6 +1829,18 @@ def main():
             '<meta http-equiv="refresh" content="0;url=../../#heroes/%s"></head><body style="background:#0f1722">'
             '<script>location.replace("../../#heroes/%s")</script></body></html>' % (esc(h["name"]), h["slug"], h["slug"]))
     json.dump(data, open(dat, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    langs = write_translations(os.path.dirname(os.path.dirname(os.path.abspath(a.out))),
+                               os.path.dirname(os.path.abspath(a.out)), data)
+    print("translations:", langs)
+    page = open(a.out, encoding="utf-8").read()
+    switch = ('<div class="lang-switch" role="group" aria-label="Show a translation next to the English">'
+              '<span class="ls-label">Translation</span>%s<button type="button" class="ls-btn ls-layout" aria-pressed="false" '
+              'title="Rows or two columns (English left, translation right)">⇆ 2 col</button></div>' % "".join(
+                  '<button type="button" class="ls-btn" data-lang="%s" aria-pressed="false" title="%s · %d strings">%s'
+                  '</button>' % (c, LANG_NAMES.get(c, c), n, c) for c, n in langs))
+    badge_css = lang_badge_css([c for c, _ in langs])
+    page = page.replace("</head>", "<style>%s</style>\n</head>" % badge_css, 1)
+    open(a.out, "w", encoding="utf-8", newline="\n").write(page.replace("<script>", switch + "\n<script>", 1))
     print("wrote %s (%d KB) and %s" % (os.path.normpath(a.out), len(doc.encode()) // 1024, os.path.normpath(dat)))
     print("campaign strings:", dict(counts), "| home tabs:", {k: (len(v["used"]), len(v["unused"])) for k, v in tabs.items()})
     for m, d in zip(missions, data["maps"]):

@@ -1,0 +1,499 @@
+{
+  "_about": "Italian glossary for Rise of the Alliance. source: game = Warcraft III Reforged itIT strings (CASC), wowhead = it.wowhead.com (World of Warcraft Italian), choice = no official form found, picked for the campaign. Every translation must use these forms.",
+  "people": {
+    "Terenas Menethil II": {
+      "it": "Terenas Menethil II",
+      "source": "wowhead npc=233804"
+    },
+    "King Terenas": {
+      "it": "Re Terenas",
+      "source": "game: 'For King Terenas!' => 'Per Re Terenas!'"
+    },
+    "Uther Lightbringer": {
+      "it": "Uther l'Araldo della Luce",
+      "source": "game + wowhead npc=233752"
+    },
+    "Lightbringer": {
+      "it": "Araldo della Luce",
+      "source": "game"
+    },
+    "Arthas": {
+      "it": "Arthas",
+      "source": "game: 'Prince Arthas' => 'Principe Arthas'"
+    },
+    "Muradin Bronzebeard": {
+      "it": "Muradin Barbabronzea",
+      "source": "game + wowhead npc=36948"
+    },
+    "Bronzebeard": {
+      "it": "Barbabronzea",
+      "source": "game"
+    },
+    "Kurdran Wildhammer": {
+      "it": "Kurdran Granmartello",
+      "source": "wowhead npc=45167"
+    },
+    "Wildhammer (clan)": {
+      "it": "Granmartello",
+      "source": "game: 'Wildhammer Breastplate' => 'Pettorale Corazzato dei Granmartello'"
+    },
+    "Turalyon": {
+      "it": "Turalyon",
+      "source": "wowhead (name unchanged)"
+    },
+    "Anduin Lothar / Lord Lothar": {
+      "it": "Anduin Lothar / Lord Lothar",
+      "source": "game: 'Uncle Lothar' => 'Zio Lothar'"
+    },
+    "Derek Proudmoore": {
+      "it": "Derek Marefiero",
+      "source": "wowhead npc=143924"
+    },
+    "Proudmoore": {
+      "it": "Marefiero",
+      "source": "game: 'Admiral Proudmoore' => 'Ammiraglio Marefiero'"
+    },
+    "Admiral / Lord Admiral": {
+      "it": "Ammiraglio / Lord Ammiraglio",
+      "source": "game (Ammiraglio); Lord Ammiraglio = choice"
+    },
+    "Orgrim Doomhammer": {
+      "it": "Orgrim Martelfato",
+      "source": "game ('For Doomhammer!' => 'Per Martelfato!') + wowhead npc=76924"
+    },
+    "Doomhammer": {
+      "it": "Martelfato",
+      "source": "game"
+    },
+    "Prince Varian": {
+      "it": "principe Varian",
+      "source": "wowhead (Varian Wrynn unchanged)"
+    },
+    "Korkron Ogre Guard": {
+      "it": "Guardia Ogre Kor'kron",
+      "source": "wowhead 'Kor'kron Guard' => 'Guardia Kor'kron' + game 'Ogre'"
+    },
+    "Orc Pirate": {
+      "it": "Pirata Orco",
+      "source": "choice"
+    },
+    "Utok Scratcher, Tharbek, Wilhelm": {
+      "it": "unchanged",
+      "source": "campaign characters, not in WoW"
+    },
+    "Windrunner": {
+      "it": "Ventolesto",
+      "source": "game: Sylvanas Ventolesto"
+    },
+    "Sky'ree": {
+      "it": "Sky'ree",
+      "source": "choice"
+    },
+    "Milan the Scribe": {
+      "it": "Milan lo Scriba",
+      "source": "choice"
+    },
+    "Gavinrad the Dire": {
+      "it": "Gavinrad il Terribile",
+      "source": "choice"
+    },
+    "Trollbane": {
+      "it": "Trollbane",
+      "source": "choice: no official form found"
+    }
+  },
+  "places": {
+    "Lordaeron": {
+      "it": "Lordaeron",
+      "source": "game"
+    },
+    "Dalaran": {
+      "it": "Dalaran",
+      "source": "game"
+    },
+    "Alterac": {
+      "it": "Alterac",
+      "source": "wowhead (unchanged)"
+    },
+    "Hillsbrad": {
+      "it": "Colletorto",
+      "source": "wowhead: Hillsbrad Foothills => Alture di Colletorto"
+    },
+    "Kul Tiras": {
+      "it": "Kul Tiras",
+      "source": "game"
+    },
+    "Kul'Tiran (adj.)": {
+      "it": "di Kul Tiras",
+      "source": "game: 'Kul Tiras navy' => 'marina di Kul Tiras'"
+    },
+    "Fenris Isle": {
+      "it": "Isola di Fenris",
+      "source": "choice (not translated in it.wowhead)",
+      "verify": true
+    },
+    "Lordamere Lake": {
+      "it": "Lago Lordamere",
+      "source": "choice (not in it.wowhead)",
+      "verify": true
+    },
+    "Zul'Dare": {
+      "it": "Zul'Dare",
+      "source": "campaign place, unchanged"
+    },
+    "the capital / Capital City": {
+      "it": "la Capitale",
+      "source": "game: 'guards of the Capital City' => 'guardie della Capitale'"
+    },
+    "palace / throne room / courtyard": {
+      "it": "palazzo / sala del trono / cortile",
+      "source": "choice"
+    },
+    "lower city / East wing / West wing / Palace district": {
+      "it": "città bassa / ala est / ala ovest / quartiere del palazzo",
+      "source": "choice"
+    },
+    "catacombs / hideout": {
+      "it": "catacombe / rifugio",
+      "source": "choice"
+    },
+    "Stormwind": {
+      "it": "Roccavento",
+      "source": "wowhead"
+    },
+    "Northshire": {
+      "it": "Contea del Nord",
+      "source": "game"
+    },
+    "Silvermoon": {
+      "it": "Lunargenta",
+      "source": "game"
+    },
+    "Ironforge": {
+      "it": "Forgiardente",
+      "source": "game"
+    },
+    "Tarren Mill": {
+      "it": "Mulino di Tarren",
+      "source": "wowhead"
+    },
+    "Great Sea": {
+      "it": "Grande Mare",
+      "source": "wowhead"
+    },
+    "Violet Citadel": {
+      "it": "Cittadella Violacea",
+      "source": "wowhead"
+    },
+    "Khaz Modan": {
+      "it": "Khaz Modan",
+      "source": "game"
+    }
+  },
+  "factions_and_ranks": {
+    "Horde": {
+      "it": "Orda",
+      "source": "game"
+    },
+    "Alliance": {
+      "it": "Alleanza",
+      "source": "game"
+    },
+    "orc / orcs / orcish": {
+      "it": "orco / orchi / degli orchi",
+      "source": "game"
+    },
+    "Warchief": {
+      "it": "Capoguerra",
+      "source": "game"
+    },
+    "the Light": {
+      "it": "la Luce",
+      "source": "game"
+    },
+    "Knights of the Silver Hand / Silver Hand": {
+      "it": "Cavalieri della Mano d'Argento / Mano d'Argento",
+      "source": "game + wowhead"
+    },
+    "Paladin": {
+      "it": "Paladino",
+      "source": "game"
+    },
+    "Your Majesty / my liege / my king": {
+      "it": "Vostra Maestà / mio signore / mio re",
+      "source": "game ('my liege' => 'mio signore'); rest choice"
+    },
+    "Third Fleet": {
+      "it": "Terza Flotta",
+      "source": "choice"
+    },
+    "dwarves / dwarven": {
+      "it": "nani / nanico",
+      "source": "choice"
+    },
+    "Warlord": {
+      "it": "Signore della Guerra",
+      "source": "choice"
+    },
+    "High Thane": {
+      "it": "Gran Thane",
+      "source": "choice"
+    },
+    "Supreme Commander": {
+      "it": "Comandante Supremo",
+      "source": "choice"
+    },
+    "Lord Paladin": {
+      "it": "Lord Paladino",
+      "source": "choice"
+    },
+    "Highborne": {
+      "it": "Alti Nobili",
+      "source": "game"
+    },
+    "Archbishop": {
+      "it": "Arcivescovo",
+      "source": "choice"
+    },
+    "Kor'kron": {
+      "it": "Kor'kron",
+      "source": "game"
+    }
+  },
+  "units_and_objects": {
+    "Footman / Footmen": {
+      "it": "Fante / Fanti",
+      "source": "game"
+    },
+    "Archer (Lordaeron)": {
+      "it": "Arciere",
+      "source": "game has 'Arciera' for the female night elf unit; male form for human archers"
+    },
+    "Royal Guard": {
+      "it": "Guardia Reale",
+      "source": "game"
+    },
+    "Defender(s)": {
+      "it": "Difensore / Difensori",
+      "source": "game: 'Ironforge Defender' => 'Difensore di Forgiardente'"
+    },
+    "Defender of Faith": {
+      "it": "Difensore della Fede",
+      "source": "choice"
+    },
+    "Gryphon / gryphon pack": {
+      "it": "grifone / stormo di grifoni",
+      "source": "game"
+    },
+    "Gryphon Riders": {
+      "it": "Cavalieri di Grifoni",
+      "source": "game"
+    },
+    "Grand Admiral": {
+      "it": "Grande Ammiraglio",
+      "source": "choice (game: Admiral => Ammiraglio)"
+    },
+    "Thane / Sky'ree": {
+      "it": "Thane / Sky'ree",
+      "source": "unchanged"
+    },
+    "NEW HEROES / NEW SEMI HERO": {
+      "it": "NUOVI EROI / NUOVO SEMI-EROE",
+      "source": "choice"
+    },
+    "West Wing (Uther) / East Wing (Turalyon)": {
+      "it": "Ala ovest (Uther) / Ala est (Turalyon)",
+      "source": "choice, same words as the objectives 'Riconquista l'ala ovest/est'"
+    },
+    "dragon / dragons": {
+      "it": "drago / draghi",
+      "source": "game ('Dragon Roost' => 'Nido dei Draghi')"
+    },
+    "Barracks": {
+      "it": "Caserma",
+      "source": "game"
+    },
+    "Shipyard": {
+      "it": "Cantiere Navale",
+      "source": "game"
+    },
+    "Oil / Oil Patch / Oil Rig": {
+      "it": "petrolio / giacimento di petrolio / piattaforma petrolifera",
+      "source": "game: 'Oil Tanker' => 'Petroliera'; rest choice"
+    },
+    "ships / armada / navy": {
+      "it": "navi / armata / flotta",
+      "source": "choice"
+    },
+    "Magical Orbs": {
+      "it": "Sfere magiche",
+      "source": "choice"
+    },
+    "rubble piles": {
+      "it": "cumuli di macerie",
+      "source": "choice"
+    },
+    "gold / treasury": {
+      "it": "oro / tesoreria",
+      "source": "game (Oro)"
+    },
+    "Peasant": {
+      "it": "Bracciante",
+      "source": "game"
+    },
+    "Labourer": {
+      "it": "Manovale",
+      "source": "choice"
+    },
+    "Guardsman": {
+      "it": "Guardiano",
+      "source": "choice"
+    },
+    "Anvilguard": {
+      "it": "Guardaincudine",
+      "source": "choice"
+    },
+    "Mountain Cavalier": {
+      "it": "Cavaliere delle Montagne",
+      "source": "choice"
+    },
+    "Ramrider": {
+      "it": "cavalcamontoni",
+      "source": "choice"
+    },
+    "Mystic": {
+      "it": "Mistico",
+      "source": "choice"
+    },
+    "Priest": {
+      "it": "Sacerdote",
+      "source": "game"
+    },
+    "Demolition Squad": {
+      "it": "Squadrone di demolizione",
+      "source": "choice"
+    },
+    "Flying Machine": {
+      "it": "Girocottero",
+      "source": "game"
+    },
+    "Gnomish Flying Machine": {
+      "it": "Macchina Volante Gnomesca",
+      "source": "game"
+    },
+    "Flying Machine Bombs": {
+      "it": "Bombe per Girocotteri",
+      "source": "game"
+    },
+    "Transport": {
+      "it": "Caravella",
+      "source": "game"
+    },
+    "Battleship": {
+      "it": "Galeone",
+      "source": "game"
+    },
+    "Destroyer": {
+      "it": "Distruttore",
+      "source": "game"
+    },
+    "Oil Tanker": {
+      "it": "Petroliera",
+      "source": "game"
+    },
+    "Oil": {
+      "it": "petrolio",
+      "source": "game"
+    },
+    "Magic Sentry": {
+      "it": "Sentinella Magica",
+      "source": "choice"
+    },
+    "Alliance Melee Training": {
+      "it": "Addestramento in Mischia dell'Alleanza",
+      "source": "choice"
+    },
+    "Drunken Haze": {
+      "it": "Annebbiamento Alcolico",
+      "source": "game"
+    },
+    "Critical Strike": {
+      "it": "Colpo Mortale",
+      "source": "game"
+    },
+    "Large armor": {
+      "it": "armatura pesante",
+      "source": "game"
+    },
+    "Learn X - [Level %d]": {
+      "it": "Apprendi X - [Livello %d]",
+      "source": "game"
+    },
+    "Upgrade to X (research)": {
+      "it": "Potenzia in X",
+      "source": "choice"
+    },
+    "Upgrade to X (building)": {
+      "it": "Trasforma in X",
+      "source": "game"
+    },
+    "Lasts N seconds": {
+      "it": "Dura N s.",
+      "source": "game"
+    },
+    "hit points": {
+      "it": "punti salute / salute",
+      "source": "game"
+    }
+  },
+  "quest_ui": {
+    "MAIN QUEST": {
+      "it": "MISSIONE PRINCIPALE",
+      "source": "game: 'Main Quests' => 'Missioni principali'"
+    },
+    "OPTIONAL QUEST": {
+      "it": "MISSIONE FACOLTATIVA",
+      "source": "game: 'Optional Quests' => 'Missioni facoltative'"
+    },
+    "... UPDATED / COMPLETED / FAILED": {
+      "it": "... AGGIORNATA / COMPLETATA / FALLITA",
+      "source": "game: Completed => Completata, Failed => Fallita"
+    },
+    "(Completed) / (failed)": {
+      "it": "(Completata) / (Fallita)",
+      "source": "game"
+    },
+    "MISSION FAILED": {
+      "it": "MISSIONE FALLITA",
+      "source": "choice"
+    },
+    "HINT": {
+      "it": "SUGGERIMENTO",
+      "source": "choice"
+    },
+    "REINFORCEMENT": {
+      "it": "RINFORZI",
+      "source": "choice"
+    },
+    "TECHTREE UNLOCKED": {
+      "it": "NUOVA UNITÀ SBLOCCATA",
+      "source": "choice"
+    },
+    "Quest objectives": {
+      "it": "Obiettivi della missione",
+      "source": "choice"
+    },
+    "Remaining enemies:": {
+      "it": "Nemici rimanenti:",
+      "source": "game: Remaining => Rimanenti"
+    },
+    "is knocked down!": {
+      "it": "è stato abbattuto!",
+      "source": "choice"
+    },
+    "<Hero> must survive": {
+      "it": "<Eroe> deve sopravvivere",
+      "source": "choice, one form for every quest"
+    }
+  }
+}
