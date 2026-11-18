@@ -1,23 +1,19 @@
-# Rebuild the Ukrainian Rise of the Alliance campaign and put it into the RoA_UA_LATEST release of CSW-RoA-UA.
+# Build the Ukrainian Rise of the Alliance campaign from the English release and put it into RoA_UA_LATEST of CSW-RoA-UA.
 #
-# Test mode: the base is the Ukrainian .w3n already in the release (no English upload needed). The build replaces every
-# war3map.wts, war3campaign.wts and the loading screens as whole files, so the result is the same as building from the
-# English campaign. To switch to the English source later, download it in "Get the base campaign" instead.
+# Base: CSW_Rise_of_the_Alliance_EN_1_03.w3n from the CSW_RoA_EN release of this repository. The build replaces every
+# war3map.wts and war3campaign.wts and the UK loading screens (UK/lang.json campaign_files).
 #
-# Needs once: secret RELEASE_TOKEN in this repository, a fine-grained token with "Contents: Read and write"
-# on clever-play-ua/CSW-RoA-UA (the default GITHUB_TOKEN cannot write to another repository).
+# Needs once: secret RELEASE_TOKEN in this repository with "Contents: Read and write" on clever-play-ua/CSW-RoA-UA
+# (the fine-grained token shared by all RoA language workflows).
 #
-# Runs by hand (Actions -> Build RoA UA -> Run workflow) and on every push that changes the UA translation.
+# Runs by hand (Actions -> Build RoA UA -> Run workflow) and on every push that changes the UK translation.
 name: Build RoA UA
 
 on:
   workflow_dispatch:
     inputs:
-      lang:
-        description: "Language folder in CSW-RoA (UK, PL, DE, ...)"
-        default: UK
       tag:
-        description: "Release tag in the target repository"
+        description: "Release tag in clever-play-ua/CSW-RoA-UA"
         default: RoA_UA_LATEST
   push:
     branches: [main]
@@ -35,9 +31,12 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  LANG_CODE: ${{ inputs.lang || 'UK' }}
+  LANG_CODE: UK
   TAG: ${{ inputs.tag || 'RoA_UA_LATEST' }}
   TARGET_REPO: clever-play-ua/CSW-RoA-UA
+  BASE_TAG: CSW_RoA_EN
+  BASE_ASSET: CSW_Rise_of_the_Alliance_EN_1_03.w3n
+  RELEASE_TITLE: "CSW: RoA 1.03 UA 0.4"
 
 jobs:
   build:
@@ -50,14 +49,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Get the base campaign (the current UA build from the release)
+      - name: Get the English campaign
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p source
-          gh release download "$TAG" --repo "$TARGET_REPO" --pattern "*.w3n" --dir source
-          f=$(ls source/*.w3n | head -n 1)
-          mv "$f" source/base.w3n
+          gh release download "$BASE_TAG" --repo "$GITHUB_REPOSITORY" --pattern "$BASE_ASSET" --dir source
+          mv "source/$BASE_ASSET" source/base.w3n
           ls -l source
 
       - name: Check the translation
@@ -78,6 +76,11 @@ jobs:
           fi
           new=$(ls out/*.w3n)
           name=$(basename "$new")
+          if gh release view "$TAG" --repo "$TARGET_REPO" >/dev/null 2>&1; then
+            gh release edit "$TAG" --repo "$TARGET_REPO" --title "$RELEASE_TITLE"
+          else
+            gh release create "$TAG" --repo "$TARGET_REPO" --title "$RELEASE_TITLE" --notes "Automatic build"
+          fi
           # drop older builds with another file name (version bump), then upload or overwrite this one
           gh release view "$TAG" --repo "$TARGET_REPO" --json assets --jq '.assets[].name' |
             grep '\.w3n$' | grep -vxF "$name" | while read -r old; do

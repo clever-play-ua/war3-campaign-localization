@@ -1,0 +1,92 @@
+# Build the Korean Rise of the Alliance campaign from the English release and put it into CSW_RoA_LATEST of CSW-RoA-KR.
+#
+# Base: CSW_Rise_of_the_Alliance_EN_1_03.w3n from the CSW_RoA_EN release of this repository. The build replaces every
+# war3map.wts and war3campaign.wts and the KR loading screens (KR/lang.json campaign_files).
+#
+# Needs once: secret RELEASE_TOKEN in this repository with "Contents: Read and write" on clever-play-ua/CSW-RoA-KR
+# (the fine-grained token shared by all RoA language workflows, with CSW-RoA-KR in its repositories).
+#
+# Runs by hand (Actions -> Build RoA KR -> Run workflow) and on every push that changes the KR translation.
+name: Build RoA KR
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag in clever-play-ua/CSW-RoA-KR"
+        default: CSW_RoA_LATEST
+  push:
+    branches: [main]
+    paths:
+      - "CSW-RoA/KR/**"
+      - "CSW-RoA/strings/**"
+      - "tools/l10n.py"
+      - "tools/w3mpq.py"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-roa-kr
+  cancel-in-progress: true
+
+env:
+  LANG_CODE: KR
+  TAG: ${{ inputs.tag || 'CSW_RoA_LATEST' }}
+  TARGET_REPO: clever-play-ua/CSW-RoA-KR
+  BASE_TAG: CSW_RoA_EN
+  BASE_ASSET: CSW_Rise_of_the_Alliance_EN_1_03.w3n
+  RELEASE_TITLE: ""
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Get the English campaign
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p source
+          gh release download "$BASE_TAG" --repo "$GITHUB_REPOSITORY" --pattern "$BASE_ASSET" --dir source
+          mv "source/$BASE_ASSET" source/base.w3n
+          ls -l source
+
+      - name: Check the translation
+        run: python tools/l10n.py check CSW-RoA "$LANG_CODE"
+
+      - name: Build the campaign
+        run: |
+          python tools/l10n.py build CSW-RoA "$LANG_CODE" --out-dir out --w3n source/base.w3n
+          ls -l out
+
+      - name: Replace the file in the release
+        env:
+          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Secret RELEASE_TOKEN is not set (Settings -> Secrets and variables -> Actions -> New repository secret)"
+            exit 1
+          fi
+          new=$(ls out/*.w3n)
+          name=$(basename "$new")
+          if gh release view "$TAG" --repo "$TARGET_REPO" >/dev/null 2>&1; then
+            # the KR release has no title of its own; set RELEASE_TITLE above to give it one
+            [ -z "$RELEASE_TITLE" ] || gh release edit "$TAG" --repo "$TARGET_REPO" --title "$RELEASE_TITLE"
+          else
+            gh release create "$TAG" --repo "$TARGET_REPO" --title "$RELEASE_TITLE" --notes "Automatic build"
+          fi
+          # drop older builds with another file name (version bump), then upload or overwrite this one
+          gh release view "$TAG" --repo "$TARGET_REPO" --json assets --jq '.assets[].name' |
+            grep '\.w3n$' | grep -vxF "$name" | while read -r old; do
+              echo "deleting old asset $old"
+              gh release delete-asset "$TAG" "$old" --repo "$TARGET_REPO" --yes
+            done
+          gh release upload "$TAG" "$new" --repo "$TARGET_REPO" --clobber
+          echo "### Uploaded \`$name\` to $TARGET_REPO@$TAG" >> "$GITHUB_STEP_SUMMARY"
