@@ -107,6 +107,8 @@ GLOSSARY_CHECK = [("Lightbringer", "Araldo della Luce"), ("Bronzebeard", "Barbab
                   ("Footmen", "Fanti"), ("Royal Guard", "Guardia Reale"), ("Barracks", "caserma"), ("Shipyard", "Cantiere Navale"),
                   ("gryphon", "grifon"), ("Light", "Luce")]
 
+GLOSSARIES = {"IT": GLOSSARY_CHECK}   # glossary forms are checked only for languages listed here
+
 
 def pack_global(campaign, lang):
     """<Camp>/<LANG>/work/global_tr.json {"strings": {English hash: tr}} -> <LANG>/strings/global/** (every canonical id,
@@ -129,7 +131,11 @@ def pack_global(campaign, lang):
                 en_by_hash.setdefault(e["hash"], e["en"])
             dst = os.path.join(camp_dir, lang, "strings", rel[:-len("_enUS.json")] + "_%s.json" % lang)
             if grp == "global":
-                out = {k: {"hash": e["hash"], "en": e["en"], "tr": work.get(e["hash"], "")} for k, e in canon.items()}
+                old = json.load(open(dst, encoding="utf-8")) if os.path.exists(dst) else {}
+                out = {}
+                for k, e in canon.items():          # a translation already in the file wins over the work file
+                    have = old.get(k) or {}
+                    out[k] = dict(have) if have.get("tr") else {"hash": e["hash"], "en": e["en"], "tr": work.get(e["hash"], "")}
             else:
                 hits = {k: e for k, e in canon.items() if e["hash"] in work}
                 if not hits:
@@ -147,7 +153,7 @@ def pack_global(campaign, lang):
     keys = sorted(work)
     S = {i: en_by_hash.get(h, "") for i, h in enumerate(keys)}
     tr = {i: work[h] for i, h in enumerate(keys) if h in en_by_hash}
-    problems = ["%s: %s" % (keys[int(p.split(":")[0])], p.split(":", 1)[1]) for p in check(S, tr, [], GLOSSARY_CHECK)]
+    problems = ["%s: %s" % (keys[int(p.split(":")[0])], p.split(":", 1)[1]) for p in check(S, tr, [], GLOSSARIES.get(lang, []))]
     print("global texts %d | placed by hash: %s | not in any canonical file: %d %s" % (
         len(work), dict(counts), len(missing), missing[:8]))
     print("problems: %d" % len(problems))
@@ -177,7 +183,7 @@ def main():
 
     wanted = {sid for _, lines in story for _, sid in lines} | {s for _, k, rows in quests for _, s in rows}
     missing = sorted(wanted - set(tr))
-    problems = check(S, tr, quests, GLOSSARY_CHECK)
+    problems = check(S, tr, quests, GLOSSARIES.get(a.lang, []))
     print("strings translated %d of %d wanted (+%d speaker names) | missing %s" % (
         len(wanted & set(tr)), len(wanted), len(set(speakers) & set(tr)), missing[:10]))
 

@@ -399,3 +399,20 @@ It was replaced by `tools/l10n.py`; its data is in `archive/`.
   periods). Order: every mission pack first, `--global` last. `l10n.py check`: story 414/414, quests 436/436.
   Canonical names checked in Reforged pairs first, then it.wowhead.com (Riva del Sud, Mulino di Tarren, Genn
   Mantogrigio, Zuluhed l'Esausto, Teron Malacarne, L'assedio di Dalaran); own choices are marked "choice" in the glossary.
+
+## Polish RoA: reuse of the Polish ToD (2026-11-18)
+
+* The Polish ToD (native translator) shares much object data with RoA: 1387 RoA texts had an exact English match
+  (hash) there and were copied verbatim into `CSW-RoA/PL/work/global_tr.json`; 1 rejected (ToD dropped a `|n`).
+* Polish Reforged (CASC `_Locales/plPL.w3mod`, pairs like the Italian ones) added only ~12 visible texts, and its style
+  differs from ToD (`Budowa X` / `Szkolenie X`, capitalised names vs ToD `Zbuduj X` / `Wyszkol X`, lowercase). The
+  existing Polish RoA follows ToD, so ToD wins; Reforged is only a reference for terms ToD lacks.
+* The other ~620 visible texts were translated in ToD style: `X — [|cffffcc00poziom N|r]`,
+  `Naucz się X(gen.) — [|cffffcc00poziom %d|r]`, `Ożywienie X`, `Wyszkol X`, `Działa przez N sek.`,
+  `Atakuje jednostki naziemne.`, ToD names (Rwij/Szarp Czarnoręki, Zgładziciel, Krwawy Bies, Zguba Trolli).
+  Left English on purpose: internal Dummy*/Marker names and map file ids, credits name lists and links.
+* `l10n_pack.py --global` keeps translations already present in `<LANG>/strings/global` (the work file only fills
+  gaps); glossary checks run only for languages in `GLOSSARIES` (IT). `l10n.py check CSW-RoA PL`: story 414/414,
+  quests 436/436, global 570/570.
+* Workflow `.github/workflows/build-roa-pl.yml` -> clever-play-ua/CSW-RoA-PL@RoA_PL_LATEST, release title
+  "CSW: RoA 1.03 PL 1.01" (set on every run), file name from `PL/lang.json` (CSW_Rise_of_the_Alliance_1_03_PL_1_03.w3n).
