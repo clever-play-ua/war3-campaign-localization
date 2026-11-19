@@ -430,3 +430,20 @@ It was replaced by `tools/l10n.py`; its data is in `archive/`.
   units in an area..." carries the text of a heal/mana item.
 * Czech RoA 0.2: Chapter One quest block realigned (same -3 shift as ES/PT), 137 texts taken from the package
   (exact, same text with other ability codes, level lines) in `CSW-RoA/CZ/work/global_tr.json`.
+
+## Loading screen text from the map instead of the picture (2026-11-19, tested in game)
+
+* RoA prints its loading screen text into the DDS pictures; the maps' w3i loading screen text/title/subtitle are empty.
+  Reforged draws those w3i fields over a custom loading screen model too (tested on WC2HumanAct1): **title = small line
+  on top, subtitle = large line**, text = body at the right; the field order in w3i is text, title, subtitle.
+* w3i layout up to these fields (`tools/w3i_ls.py`): version, saves, editor, 4 x game version, 4 strings, 8 floats,
+  4 ints, w, h, flags, char ground type, **int campaign background (-1), int loading screen number (64)**, model path,
+  then text, title, subtitle (sequential format, longer strings are fine).
+* Build: `<LANG>/loading_screens.json` {map: {title, subtitle, text, _en}} -> `l10n.py build` appends three STRINGs to
+  that map's wts and sets the w3i fields (`loading_screen_files`). Clean pictures (no text) in
+  `CSW-RoA/assets/loading_screens_clean/` (PNG source + DDS from `tools/dds_bc1.py`: DXT1, full mips, same size as the
+  originals), wired per language in `lang.json` campaign_files (`../assets/loading_screens_clean/X.dds`).
+* All five clean pictures exist (Act I + Chapters 1-4). IT 0.2 and DE use them with `loading_screens.json` texts
+  translated from the OCR English (IT terms: Riva del Sud, Mulino di Tarren, Alture di Colletorto, Consiglio Violaceo,
+  Martelfato; DE terms as the DE campaign: Süderstade, Tarrens Mühle, Vorgebirge des Hügellands, Violetter Rat,
+  Schicksalshammer, Trollbann). The map pictures keep their English place labels (part of the art).

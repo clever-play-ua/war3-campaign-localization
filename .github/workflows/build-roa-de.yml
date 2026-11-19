@@ -1,7 +1,8 @@
 # Build the German Rise of the Alliance campaign from the English release and put it into CSW_RoA_DE of CSW-RoA-DE.
 #
 # Base: CSW_Rise_of_the_Alliance_EN_1_03.w3n from the CSW_RoA_EN release of this repository. The build replaces every
-# war3map.wts and war3campaign.wts (no loading screens for DE: DE/lang.json campaign_files is empty).
+# war3map.wts and war3campaign.wts, puts the clean loading screens of DE/lang.json campaign_files in place and writes the
+# loading screen texts of DE/loading_screens.json into the maps (w3i -> war3map.wts).
 #
 # Needs once: secret RELEASE_TOKEN in this repository with "Contents: Read and write" on clever-play-ua/CSW-RoA-DE
 # (the fine-grained token shared by all RoA language workflows, with CSW-RoA-DE in its repositories).
@@ -19,9 +20,11 @@ on:
     branches: [main]
     paths:
       - "CSW-RoA/DE/**"
+      - "CSW-RoA/assets/**"
       - "CSW-RoA/strings/**"
       - "tools/l10n.py"
       - "tools/w3mpq.py"
+      - "tools/w3i_ls.py"
 
 permissions:
   contents: read
@@ -36,7 +39,7 @@ env:
   TARGET_REPO: clever-play-ua/CSW-RoA-DE
   BASE_TAG: CSW_RoA_EN
   BASE_ASSET: CSW_Rise_of_the_Alliance_EN_1_03.w3n
-  RELEASE_TITLE: "Rise Of Alliance 1.03 DE 0.1"
+  RELEASE_TITLE: "Rise Of Alliance 1.03 DE 0.2"
 
 jobs:
   build:

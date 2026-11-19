@@ -1,7 +1,8 @@
 # Build the Italian Rise of the Alliance campaign from the English release and put it into CSW_RoA_IT_LATEST of CSW-RoA-IT.
 #
 # Base: CSW_Rise_of_the_Alliance_EN_1_03.w3n from the CSW_RoA_EN release of this repository. The build replaces every
-# war3map.wts and war3campaign.wts (no loading screens for IT yet: IT/lang.json campaign_files is empty).
+# war3map.wts and war3campaign.wts, puts the clean loading screens of IT/lang.json campaign_files in place and writes the
+# loading screen texts of IT/loading_screens.json into the maps (w3i -> war3map.wts).
 #
 # Needs once: secret RELEASE_TOKEN in this repository with "Contents: Read and write" on clever-play-ua/CSW-RoA-IT
 # (the same fine-grained token as for UA, with CSW-RoA-IT added to its repositories).
@@ -19,9 +20,11 @@ on:
     branches: [main]
     paths:
       - "CSW-RoA/IT/**"
+      - "CSW-RoA/assets/**"
       - "CSW-RoA/strings/**"
       - "tools/l10n.py"
       - "tools/w3mpq.py"
+      - "tools/w3i_ls.py"
 
 permissions:
   contents: read
@@ -36,6 +39,7 @@ env:
   TARGET_REPO: clever-play-ua/CSW-RoA-IT
   BASE_TAG: CSW_RoA_EN
   BASE_ASSET: CSW_Rise_of_the_Alliance_EN_1_03.w3n
+  RELEASE_TITLE: "Rise of Alliance 1.03 Italiano v.0.2"
 
 jobs:
   build:
@@ -75,8 +79,11 @@ jobs:
           fi
           new=$(ls out/*.w3n)
           name=$(basename "$new")
-          gh release view "$TAG" --repo "$TARGET_REPO" >/dev/null 2>&1 ||
-            gh release create "$TAG" --repo "$TARGET_REPO" --title "Rise of the Alliance IT (latest)" --notes "Automatic build"
+          if gh release view "$TAG" --repo "$TARGET_REPO" >/dev/null 2>&1; then
+            gh release edit "$TAG" --repo "$TARGET_REPO" --title "$RELEASE_TITLE"
+          else
+            gh release create "$TAG" --repo "$TARGET_REPO" --title "$RELEASE_TITLE" --notes "Automatic build"
+          fi
           # drop older builds with another file name (version bump), then upload or overwrite this one
           gh release view "$TAG" --repo "$TARGET_REPO" --json assets --jq '.assets[].name' |
             grep '\.w3n$' | grep -vxF "$name" | while read -r old; do

@@ -469,6 +469,27 @@ def build_wts(camp, lang):
         print(f"  {task_id:<12} {done:>5}/{len(blocks(text))} blocks")
 
 
+def loading_screen_files(map_path, wts_bytes, screen):
+    """Loading screen text from the map instead of the picture: append title / subtitle / text as new STRINGs to the
+    map's wts and point the w3i loading screen fields at them. screen = {"title", "subtitle", "text"}; the game shows
+    the title small on top, the subtitle large under it, then the text."""
+    from w3i_ls import set_loading_text
+    m = MpqArchive(map_path)
+    w3i = m.read("war3map.w3i")
+    m.close()
+    t = wts_bytes.decode("utf-8-sig")
+    nl = "\r\n" if "\r\n" in t else "\n"
+    nxt = max(int(x) for x in re.findall(r"STRING (\d+)", t)) + 1
+    refs = []
+    t = t.rstrip("\r\n") + nl
+    for key in ("text", "title", "subtitle"):
+        t += nl + "STRING %d%s{%s%s%s}%s" % (nxt, nl, nl, screen.get(key, "").replace("\r\n", "\n").replace("\n", nl), nl, nl)
+        refs.append("TRIGSTR_%d" % nxt)
+        nxt += 1
+    bom = b"\xef\xbb\xbf" if wts_bytes.startswith(b"\xef\xbb\xbf") else b""
+    return {"war3map.wts": bom + t.encode("utf-8"), "war3map.w3i": set_loading_text(w3i, *refs)}
+
+
 def build_campaign(camp, lang, out_dir, w3n=None):
     cfg = load_json(camp.lang_dir(lang) / "lang.json")
     lang_dir = camp.lang_dir(lang)
@@ -477,6 +498,8 @@ def build_campaign(camp, lang, out_dir, w3n=None):
     replacements = {camp.cfg["campaign_wts"]: camp.wts_file(lang, camp.cfg["campaign_task"]).read_bytes()}
     for internal, rel in cfg.get("campaign_files", {}).items():
         replacements[internal] = (lang_dir / rel).read_bytes()
+    ls_file = lang_dir / "loading_screens.json"
+    screens = {k: v for k, v in load_json(ls_file).items() if not k.startswith("_")} if ls_file.exists() else {}
     work = Path(tempfile.mkdtemp(prefix="l10n_"))
     try:
         a = MpqArchive(src)
@@ -486,6 +509,8 @@ def build_campaign(camp, lang, out_dir, w3n=None):
             tmp_in, tmp_out = work / task["map"], work / ("loc_" + task["map"])
             tmp_in.write_bytes(a.read(task["map"]))
             files = {"war3map.wts": camp.wts_file(lang, task["id"]).read_bytes()}
+            if task["map"] in screens:
+                files.update(loading_screen_files(tmp_in, files["war3map.wts"], screens[task["map"]]))
             for internal, rel in cfg.get("map_files", {}).get(task["map"], {}).items():
                 files[internal] = (lang_dir / rel).read_bytes()
             rebuild_archive(tmp_in, tmp_out, files)
